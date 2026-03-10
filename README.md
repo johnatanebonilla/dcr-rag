@@ -45,3 +45,12 @@ python consulta.py "palabra_a_buscar"
 - **Base Vectorial**: `FAISS` (Local).
 - **LLM**: `Llama-3 (vía Groq)` - Gratuito y de alto rendimiento.
 - **Contexto**: Recupera los 5 fragmentos más relevantes.
+
+## Créditos y Citación
+
+- Cuervo, R. J. (2002). _Diccionario de construcción y régimen de la lengua castellana en CD-ROM_ (1ª ed.). Barcelona: Herder Editorial.
+- Instituto Caro y Cuervo. (1954–1994). _Diccionario de construcción y régimen de la lengua castellana_ (Vols. 3–8). Bogotá: Instituto Caro y Cuervo.
+
+---
+
+_Proyecto de preservación y digitalización lexicográfica._
