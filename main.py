@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from .consulta import definir, buscar_palabra
+from consulta import definir, buscar_palabra
 import os
 
 app = FastAPI(title="Cuervo RAG API")
