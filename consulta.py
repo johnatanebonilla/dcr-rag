@@ -14,7 +14,8 @@ client = Groq()
 HF_API_TOKEN = os.getenv("HUGGINGFACE_API_KEY")
 MODEL_ID = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 # Usamos el endpoint v1/embeddings que es el estándar más robusto de Hugging Face
-HF_API_URL = "https://router.huggingface.co/hf-inference/v1/embeddings"
+# Use the OpenAI-compatible router embeddings endpoint (no "/hf-inference" prefix).
+HF_API_URL = "https://router.huggingface.co/v1/embeddings"
 
 # Configuración de rutas robustas para Vercel
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -45,6 +46,7 @@ def get_embeddings_hf(texts):
         "Authorization": f"Bearer {HF_API_TOKEN}",
         "Content-Type": "application/json"
     }
+    # router/embeddings expects OpenAI-style keys: `model` and `input`
     payload = {
         "model": MODEL_ID,
         "input": texts
