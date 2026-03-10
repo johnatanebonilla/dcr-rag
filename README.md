@@ -1,6 +1,8 @@
 # RAG: Diccionario de Cuervo (Versión Open-Source)
 
-Este módulo permite realizar consultas semánticas y lexicográficas sobre el Diccionario de Cuervo utilizando técnicas de RAG de forma **100% gratuita** (usando modelos locales y el nivel gratuito de Groq).
+Este módulo permite realizar consultas semánticas y lexicográficas sobre el **Diccionario de Construcción y Régimen de la Lengua Castellana** utilizando técnicas de RAG de forma **100% gratuita**.
+
+Los datos han sido extraídos del _Diccionario de construcción y régimen de la lengua castellana en CD-ROM_ (1ª ed.). Barcelona: Herder Editorial.
 
 ## Requisitos
 
@@ -48,6 +50,17 @@ python consulta.py "palabra_a_buscar"
 
 ## Créditos y Citación
 
+Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, perteneciente a la **Línea de investigación en Lingüística de Corpus y Computacional** del **Grupo de Investigaciones** del **Instituto Caro y Cuervo**.
+
+Si utilizas estos datos o esta herramienta en una investigación académica, por favor cita tanto el desarrollo técnico como las fuentes originales:
+
+### Desarrollo Técnico
+
+- Bonilla, J. E. (2026). _Cuervo RAG: Sistema de recuperación y generación para el Diccionario de Construcción y Régimen_. [https://github.com/johnatanebonilla/dcr-rag](https://github.com/johnatanebonilla/dcr-rag)
+
+### Fuentes Originales
+
+- Cuervo, R. J. (1886). _Diccionario de construcción y régimen de la lengua castellana_. París: Roger.
 - Cuervo, R. J. (2002). _Diccionario de construcción y régimen de la lengua castellana en CD-ROM_ (1ª ed.). Barcelona: Herder Editorial.
 - Instituto Caro y Cuervo. (1954–1994). _Diccionario de construcción y régimen de la lengua castellana_ (Vols. 3–8). Bogotá: Instituto Caro y Cuervo.
 
