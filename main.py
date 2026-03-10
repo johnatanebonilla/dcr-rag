@@ -10,7 +10,12 @@ class QueryRequest(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "Bienvenido a la API de RAG del Diccionario de Cuervo"}
+    from consulta import index
+    status = "OK" if index is not None else "ERROR (Data not loaded)"
+    return {
+        "message": "Bienvenido a la API de RAG del Diccionario de Cuervo",
+        "database_status": status
+    }
 
 @app.post("/definir")
 def api_definir(request: QueryRequest):

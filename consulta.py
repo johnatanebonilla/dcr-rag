@@ -3,10 +3,11 @@ import json
 import numpy as np
 import requests
 import time
+import os
 from groq import Groq
 from dotenv import load_dotenv
 
-# Cargar variables de entorno (API Key de Groq y Hugging Face)
+# Cargar variables de entorno
 load_dotenv()
 client = Groq()
 
@@ -14,10 +15,26 @@ HF_API_TOKEN = os.getenv("HUGGINGFACE_API_KEY")
 MODEL_ID = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 HF_API_URL = f"https://api-inference.huggingface.co/models/{MODEL_ID}"
 
+# Configuración de rutas robustas para Vercel
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+INDEX_PATH = os.path.join(BASE_DIR, "cuervo_index.faiss")
+META_PATH = os.path.join(BASE_DIR, "cuervo_meta.json")
+
 # Cargar índice y metadatos
-index = faiss.read_index("cuervo_index.faiss")
-with open("cuervo_meta.json", "r", encoding="utf-8") as f:
-    documents = json.load(f)
+try:
+    if not os.path.exists(INDEX_PATH):
+        print(f"ERROR: No se encuentra el índice en {INDEX_PATH}")
+    index = faiss.read_index(INDEX_PATH)
+    
+    if not os.path.exists(META_PATH):
+        print(f"ERROR: No se encuentran los metadatos en {META_PATH}")
+    with open(META_PATH, "r", encoding="utf-8") as f:
+        documents = json.load(f)
+    print("Índice y metadatos cargados correctamente.")
+except Exception as e:
+    print(f"EXCEPCIÓN CRÍTICA AL CARGAR DATOS: {str(e)}")
+    index = None
+    documents = []
 
 def get_embeddings_hf(texts):
     """
@@ -38,6 +55,12 @@ def buscar_palabra(query, k=5):
     """
     Genera el embedding de la consulta usando la API y recupera los k documentos más cercanos.
     """
+    if not index:
+        raise Exception("El servidor no ha podido cargar la base de datos de conocimiento (FAISS).")
+    
+    if not HF_API_TOKEN:
+        raise Exception("Falta la variable de entorno HUGGINGFACE_API_KEY.")
+
     embeddings = get_embeddings_hf([query])
     query_embedding = np.array(embeddings).astype('float32')
     
