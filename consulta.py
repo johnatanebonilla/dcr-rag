@@ -13,7 +13,8 @@ client = Groq()
 
 HF_API_TOKEN = os.getenv("HUGGINGFACE_API_KEY")
 MODEL_ID = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-HF_API_URL = f"https://api-inference.huggingface.co/models/{MODEL_ID}"
+# Actualizado a la nueva URL de router recomendada por Hugging Face
+HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{MODEL_ID}"
 
 # Configuración de rutas robustas para Vercel
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
