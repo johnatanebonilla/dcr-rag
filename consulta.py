@@ -13,8 +13,8 @@ client = Groq()
 
 HF_API_TOKEN = os.getenv("HUGGINGFACE_API_KEY")
 MODEL_ID = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-# Actualizado a la nueva URL de router recomendada por Hugging Face
-HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{MODEL_ID}"
+# Usamos el endpoint v1/embeddings que es el estándar más robusto de Hugging Face
+HF_API_URL = "https://router.huggingface.co/hf-inference/v1/embeddings"
 
 # Configuración de rutas robustas para Vercel
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -39,16 +39,29 @@ except Exception as e:
 
 def get_embeddings_hf(texts):
     """
-    Obtiene embeddings a través de la API de Hugging Face (ligero para Vercel).
+    Obtiene embeddings a través de la API compatible con OpenAI de Hugging Face.
     """
-    headers = {"Authorization": f"Bearer {HF_API_TOKEN}"}
-    payload = {"inputs": texts, "options": {"wait_for_model": True}}
+    headers = {
+        "Authorization": f"Bearer {HF_API_TOKEN}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "model": MODEL_ID,
+        "input": texts
+    }
     
-    for _ in range(3): # Reintentos si la API está cargando
+    for _ in range(3): # Reintentos si la API está cargando el modelo
         response = requests.post(HF_API_URL, headers=headers, json=payload)
         if response.status_code == 200:
-            return response.json()
-        time.sleep(2)
+            data = response.json()
+            # Extraer vectores del formato OpenAI: {"data": [{"embedding": [...]}, ...]}
+            return [item["embedding"] for item in data["data"]]
+        
+        # Si el modelo está en cola o cargando, esperamos un poco
+        if response.status_code == 503 or "loading" in response.text.lower():
+            time.sleep(5)
+            continue
+        break
         
     raise Exception(f"Error en HF API: {response.text}")
 
