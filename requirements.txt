@@ -1,0 +1,8 @@
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+python-dotenv
+groq
+fastapi
+uvicorn
