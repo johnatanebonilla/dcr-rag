@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuervo IA - RAG Diccionario</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --accent: #e67e22;
+            --bg: #f8f9fa;
+            --card: #ffffff;
+            --text: #333;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        h1 {
+            color: var(--primary);
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        p.subtitle {
+            color: #666;
+            margin-bottom: 30px;
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+            background: var(--card);
+            padding: 10px;
+            border-radius: 50px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+            margin-bottom: 30px;
+        }
+
+        input {
+            flex: 1;
+            border: none;
+            padding: 15px 25px;
+            font-size: 18px;
+            border-radius: 50px;
+            outline: none;
+            font-family: inherit;
+        }
+
+        button {
+            background-color: var(--accent);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 50px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: transform 0.2s, background 0.2s;
+        }
+
+        button:hover {
+            background-color: #d35400;
+            transform: scale(1.05);
+        }
+
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+
+        #result {
+            background: var(--card);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            text-align: left;
+            line-height: 1.6;
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+
+        .loading {
+            display: none;
+            margin: 20px;
+            font-style: italic;
+            color: var(--accent);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .branding {
+            margin-top: auto;
+            padding: 20px;
+            font-size: 12px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cuervo IA</h1>
+        <p class="subtitle">Recuperación Avanzada para el Diccionario de Cuervo</p>
+
+        <div class="search-box">
+            <input type="text" id="palabra" placeholder="Escribe una palabra o consulta..." onkeypress="if(event.key==='Enter') buscar()">
+            <button id="btn" onclick="buscar()">Consultar</button>
+        </div>
+
+        <div class="loading" id="loader">Consultando al lexicógrafo digital...</div>
+        <div id="result"></div>
+    </div>
+
+    <div class="branding">
+        Instituto Caro y Cuervo - Proyecto Observatorio Ecosistema Digital
+    </div>
+
+    <script>
+        async function buscar() {
+            const palabra = document.getElementById('palabra').value;
+            const btn = document.getElementById('btn');
+            const resultDiv = document.getElementById('result');
+            const loader = document.getElementById('loader');
+
+            if (!palabra) return;
+
+            btn.disabled = true;
+            resultDiv.style.display = 'none';
+            loader.style.display = 'block';
+
+            try {
+                const response = await fetch('/definir', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ palabra })
+                });
+
+                const data = await response.json();
+                
+                if (data.resultado) {
+                    resultDiv.innerHTML = data.resultado.replace(/\n/g, '<br>');
+                    resultDiv.style.display = 'block';
+                } else if (data.detail) {
+                    alert('Error: ' + data.detail);
+                }
+            } catch (err) {
+                alert('Error al conectar con la API: ' + err);
+            } finally {
+                btn.disabled = false;
+                loader.style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html>
