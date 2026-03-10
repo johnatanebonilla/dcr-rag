@@ -51,13 +51,13 @@ python consulta.py "palabra_a_buscar"
 
 ## Créditos y Citación
 
-Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, vinculado a la **Línea de investigación en Lingüística de Corpus y Computacional** del **Grupo de Investigaciones** del **Instituto Caro y Cuervo**.
+Este desarrollo ha sido realizado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, que es del **Grupo de Investigaciones** de la **Línea de investigación en Lingüística de Corpus y Computacional** del **Instituto Caro y Cuervo**.
 
 Si utilizas estos datos o esta herramienta en una investigación académica, por favor cita tanto el desarrollo técnico como las fuentes originales:
 
 ### Desarrollo Técnico
 
-- Bonilla, J. E. (2026). _Cuervo RAG: Sistema de recuperación y generación para el Diccionario de Construcción y Régimen_. [https://github.com/johnatanebonilla/dcr-rag](https://github.com/johnatanebonilla/dcr-rag)
+- Bonilla, J. E. (2026). _Cuervo RAG: Sistema de recuperación y generación para el Diccionario de Construcción y Régimen en CD-ROM_. [https://github.com/johnatanebonilla/dcr-rag](https://github.com/johnatanebonilla/dcr-rag)
 
 ### Fuentes Originales
 
