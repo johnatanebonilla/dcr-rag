@@ -1,27 +1,45 @@
 import faiss
 import json
 import numpy as np
+import requests
+import time
 from groq import Groq
-from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 
-# Cargar variables de entorno (API Key de Groq)
+# Cargar variables de entorno (API Key de Groq y Hugging Face)
 load_dotenv()
 client = Groq()
 
-# Cargar el mismo modelo de embeddings que en la indexación
-model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
+HF_API_TOKEN = os.getenv("HUGGINGFACE_API_KEY")
+MODEL_ID = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+HF_API_URL = f"https://api-inference.huggingface.co/models/{MODEL_ID}"
 
 # Cargar índice y metadatos
 index = faiss.read_index("cuervo_index.faiss")
 with open("cuervo_meta.json", "r", encoding="utf-8") as f:
     documents = json.load(f)
 
+def get_embeddings_hf(texts):
+    """
+    Obtiene embeddings a través de la API de Hugging Face (ligero para Vercel).
+    """
+    headers = {"Authorization": f"Bearer {HF_API_TOKEN}"}
+    payload = {"inputs": texts, "options": {"wait_for_model": True}}
+    
+    for _ in range(3): # Reintentos si la API está cargando
+        response = requests.post(HF_API_URL, headers=headers, json=payload)
+        if response.status_code == 200:
+            return response.json()
+        time.sleep(2)
+        
+    raise Exception(f"Error en HF API: {response.text}")
+
 def buscar_palabra(query, k=5):
     """
-    Genera el embedding de la consulta usando el modelo local y recupera los k documentos más cercanos.
+    Genera el embedding de la consulta usando la API y recupera los k documentos más cercanos.
     """
-    query_embedding = model.encode([query]).astype('float32')
+    embeddings = get_embeddings_hf([query])
+    query_embedding = np.array(embeddings).astype('float32')
     
     # Buscar en FAISS
     distances, indices = index.search(query_embedding, k)

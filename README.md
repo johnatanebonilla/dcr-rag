@@ -2,12 +2,13 @@
 
 Este módulo permite realizar consultas semánticas y lexicográficas sobre el **Diccionario de Construcción y Régimen de la Lengua Castellana** utilizando técnicas de RAG de forma **100% gratuita**.
 
-Los datos han sido extraídos del _Diccionario de construcción y régimen de la lengua castellana en CD-ROM_ (1ª ed.). Barcelona: Herder Editorial.
+Los datos han sido extraídos del **Diccionario de construcción y régimen de la lengua castellana en CD-ROM** (1ª ed.). Barcelona: Herder Editorial.
 
 ## Requisitos
 
 - Python 3.8+
 - Una clave de API de **Groq** (Gratuita en [console.groq.com](https://console.groq.com/)).
+- Un token de **Hugging Face** (Gratuito en [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)).
 
 ## Instalación
 
@@ -15,10 +16,10 @@ Los datos han sido extraídos del _Diccionario de construcción y régimen de la
     ```bash
     pip install -r requirements.txt
     ```
-2.  Crea un archivo `.env` o exporta tu clave de API de Groq:
+2.  Crea un archivo `.env` con tus claves:
     ```bash
-    # En un archivo .env
     GROQ_API_KEY=gsk_tu_clave_aqui
+    HUGGINGFACE_API_KEY=hf_tu_token_aqui
     ```
 
 ## Uso
@@ -50,7 +51,7 @@ python consulta.py "palabra_a_buscar"
 
 ## Créditos y Citación
 
-Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, perteneciente a la **Línea de investigación en Lingüística de Corpus y Computacional** del **Grupo de Investigaciones** del **Instituto Caro y Cuervo**.
+Este proyecto ha sido desarrollado por **Johnatan E. Bonilla** en el marco del proyecto **“Observatorio Ecosistema Digital de Lenguas de Colombia”**, vinculado a la **Línea de investigación en Lingüística de Corpus y Computacional** del **Grupo de Investigaciones** del **Instituto Caro y Cuervo**.
 
 Si utilizas estos datos o esta herramienta en una investigación académica, por favor cita tanto el desarrollo técnico como las fuentes originales:
 
