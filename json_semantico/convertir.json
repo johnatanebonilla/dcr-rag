@@ -1,0 +1,936 @@
+{
+  "lema": "CONVERTIR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Volver, enderezar hacia cierto punto ( trans .)",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Convierte ya tu cara, | Aplica á mis querellas tus oídos.»",
+              "autor": "",
+              "referencia_obra": "Léon, Poes. 3 , salmo 12 (4. 543)."
+            },
+            {
+              "texto_cita": "«Convierte piadoso | Tus ojos, y nos mira, y con tu mano | Arranca poderoso | Lo malo y lo tirano.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes . 1, ¿ Qué santo ó quégloriosa (4. 332)."
+            },
+            {
+              "texto_cita": "«Un rayo, cuando hiere en un árbol, con la fuerza del golpe y de su secreta virtud, convierte á aquella parte donde hirió, las ramas y hojas del árbol.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 1 ( Míst . 1. 108)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Adonde vuestros pasos se conviertan | Estoy pronto á seguiros sin demora.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 2 (3. 161)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con contra , en el sentido de ataque, oposición.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hierro agudo, el brazo belicoso, | Contra mí, buen soldado, le convierte.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Numancia , 4 (Arrieta, 10. 79)."
+            },
+            {
+              "texto_cita": "«Les hizo dejar las selvas y bosques, y convertir sus armas contra moros, ocupadas antes en dar muerte á fieras.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 7 (R. 21. 8¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alguna vez reprehendía los excesos y libertad de la soldadesca, y otras se convertía contra los mismos moradores.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 1 (R. 21. 465¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero viéndose solo y mal herido, | Y el ejército bárbaro deshecho, | Y todo el fiero hierro convertido | Contra su fuerte y animoso pecho ---»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 20 (R. 17. 76¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , en igual sentido (raro é impropio).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Buen testimonio desto nos han sido | Las hazañas de antiguos señaladas, | Que por la cara patria han convertido | En sus mismas entrañas las espadas.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 29 (R. 17. 108 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Algunas veces se toma como causativo, Hacer volver, atraer ( trans .). Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La buena [mujer] en su casa reina, y resplandece, y convierte á sí juntamente los ojos y los corazones de todos.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. introd . (3. 425)."
+            },
+            {
+              "texto_cita": "«Los árabes cercanos | Tributo le darán, y los deseos | De todos los vivientes | A sí convertirá.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. 3 , salmo 72 (4. 596)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Mét. Aplicado á lo inmaterial ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á ó hacia .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y como con sangrienta luz extiende | Sus prodigiosos crines el cometa, | Que aflige y inquïeta | Los ánimos tiranos; desta suerte | A confusión el de Luzbel convierte.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "canc. Pues que no hay voz (R. 42. 337 2 )."
+            },
+            {
+              "texto_cita": "«Convierten sus sermones á niñerías y impertinencias, no sacando más fruto que el predicarse y oírse á sí mismos.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 5 ( Míst . 1. 122)."
+            },
+            {
+              "texto_cita": "«Pero, señores, ¿podré yo ahora convertir mis reflexiones hacia los vicios y defectos de esta constitución?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la legisl. y la hist . (R. 46. 294 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues así este espiritual mendigo busca el lugar del silencio y de la soledad, que es más conveniente para orar y pedir limosnas á Dios; y de ahí se convierte á los santos, que son como casas de ricos piadosos, para pedirles también ayuda.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 7. 1. 4, § 1 (R. 8. 386¹)."
+            },
+            {
+              "texto_cita": "«El pecador abraza dos grandes males que son, apartarse de Dios, fuente de agua viva, y convertirse á las criaturas por gozar de sus deleites perecederos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 1. 17 (1. 148)."
+            },
+            {
+              "texto_cita": "«Desabridos son todos los misterios de Cristo al que se convierte á las cosas exteriores y vanas.»",
+              "autor": "Estella",
+              "referencia_obra": ", Van. del mundo , 3 ( Míst . 4. 6)."
+            },
+            {
+              "texto_cita": "«Considerando [el alma] el enojo merecido de Dios y doliéndose de él, ansiosa por aplacarle, se convierte con fe, con amor, con dolor á la misericordia de Dios y al rescate de Cristo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3 , Hijo (3. 317)."
+            },
+            {
+              "texto_cita": "«Dejará [el comerciante] todas aquellas [especulaciones] en que halle sujeciones ó dispendios, y se convertirá á otras, en que no los halle.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Dict. sobre embarque de paños (R. 50. 73 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parece que hasta las instituciones más piadosas se han convertido contra la utilidad de la industria y de sus profesores.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 38¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el siguiente pasaje la construcción iguala el verbo á trasladar .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre estas figuras ocupan el primer lugar los tropos, llamados así porque en ellos se convierte una palabra de su verdadera y propia significación á otra.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 1, p. 54."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Aplicar, emplear ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aumentando cada día este sobrante, por medio de las mejoras de su agricultura podrán al fin convertir una parte de esta riqueza al establecimiento de algunas manufacturas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 111 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desdeña el arte y su anhelar convierte | A darse vida y darse movimiento | Que á cada instante la atención despierte.»",
+              "autor": "Quint.",
+              "referencia_obra": "Reglas del drama , 3 (R. 19. 80¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Olvidada la santa de su quietud, de sí mesma, de su premio y de su gloria, se convirtió y entregó toda á procurar, como ella podía, el remedio de estas almas.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 1 ( Míst . 1. 108)."
+            },
+            {
+              "texto_cita": "«El defecto de genio para mejorar los establecimientos de la vida civil hace que se conviertan á trastornarlos, fundando su gloria en destruír, no en edificar.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell . (R. 63. 387¹)."
+            },
+            {
+              "texto_cita": "«¿Por qué no te convertirás á amar lo que nos mejora y levanta, y no lo que es inútil y tal vez abominable?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 63. 389¹)."
+            },
+            {
+              "texto_cita": "«Bastará que los sabios, abandonando las vanas investigaciones, que sólo pueden producir una sabiduria presuntuosa y estéril, se conviertan del todo á descubrir verdades útiles y á simplificarlas y acomodarlas á la comprehensión de los hombres iliteratos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 2ª. clase (R. 50. 125 2 )."
+            },
+            {
+              "texto_cita": "«Podemos prevenir al regente que, fiando enteramente la enseñanza elemental al estudio y explicaciones de la universidad, se convierta del todo á dar en el colegio los demás conocimientos auxiliares que son tan necesarios en el estudio de los cánones.»",
+              "autor": "",
+              "referencia_obra": "Id. Regl. col. de Calatr . 2. 4 (R. 46. 214 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. dep . A este uso se refiere el pasaje siguiente:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No pienses que cantado | Sea de mí, hermosa flor de Gnido, | El fiero Marte airado, | A muerte convertido, | De polvo y sangre y de sudor teñido.»",
+              "autor": "Garcil.",
+              "referencia_obra": "canc . 5 (R. 32. 30 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ahórrase una hora de cenar y dos de parlar, que comúnmente se siguen después del cenar: las cuales logra el que ayuna para convertir en sus buenos estudios y ejercicios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 3. 2. 2, § 1 (R. 8. 184 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le dijo --- que estaba [el estudiante] acabando de escribir la comedia de Troya abrasada, y que sin duda debía de haber llegado al paso del incendio, y se convertía tanto en lo que escribía, que habría dado aquellas voces.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo Coj . 4 (R. 33. 28 2 )."
+            },
+            {
+              "texto_cita": "«Fácilmente se deja enamorar de las riquezas el corazón humano, y se convierte en ellas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 69 (R. 25. 189¹)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met. En especial, aplicado á lo moral, Reducir á la verdadera religión al que va errado, ó traerle á la práctica de las buenas costumbres ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á ; ésta es la constr. primitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ha de despedir de sí palabras de fuego, que enciendan y abrasen los corazones de los hombres y los conviertan á Dios.»",
+              "autor": "",
+              "referencia_obra": "J. de los Angeles, Conq. del reino de Dios , 8. 4 (308)."
+            },
+            {
+              "texto_cita": "«No se trataba de convertir á la fe, sino de fortalecer en ella á los oyentes.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 1, p. 62."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunas provincias que él en su libro hace cristianas, se convirtieron á la fe muchos años después de la pasión.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 134)."
+            },
+            {
+              "texto_cita": "«Dice [ Oseas] que en el fin y después deste largo cautiverio, en que agora están los judíos, se convertirán al Señor.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Brazo (3. 137)."
+            },
+            {
+              "texto_cita": "«¡Oh si todas las naciones del mundo se convirtiesen á vuestro Hijo!»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 12. (1. 319)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de convertido á nuestra fe [fue] gran defensor (de ella.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 2 (403)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Convirtió [san Bernardo] á un gran señor de aquella tierra, por nombre Landulfo, á que dejase el mundo y se hiciese monje.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Avila , 5. 5 (R. 11. 479 ² )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la creencia ó conducta que se abandona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los convirtieron de la idolatría y los hicieron cristianos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1, argum . (R. 60. 185)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya de aquí adelante prometo convertirme de mi maldad.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios , 2. 10. 2 (433)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para lo cual me pareció conveniente medio introducir aquí un catecúmeno recién convertido de la ley de Moisén á la gracia del Evangelio.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4, diál . 1 (R. 6. 538¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con el solo acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni todo ha de ser contemplar, ni todo convertir almas.»",
+              "autor": "",
+              "referencia_obra": "J. de los Ángeles, Conq. del reino de Dios , 8. 4 (309)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tardar en convertirse, error notable, | Y diferirlo de uno en otro día, | Loca desvanecida fantasía.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rimas sacras , 2 ( Obr. suelt . 13. 185)."
+            },
+            {
+              "texto_cita": "«Dejando ir á Berbería á los que no quisieron ser cristianos, se convirtieron los demás allí y en todo el reino.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Rebelión , 1. 27 (R. 21. 157 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Informó con autoridad del prelado que los nuevamente convertidos eran moros y vivían como moros.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Rebelión , 2. 9 (R. 21. 163 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Converso: este participio puramente latino se dice de los judíos y moros convertidos á nuestra religión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otro encargo que allí se tomó fue el de proteger á los conversos y á los moros de aquellos contornos contra las injurias y los agravios que el odio de los cristianos les acarreaba.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitán (R. 19. 277 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En algunas órdenes religiosas, Lego.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí tomó el estado más humilde de los conversos ó frailes legos, que no son del coro.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. S. Diego de Alcalá ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Hacer que una cosa pierda su naturaleza ó cualidades tomando otra ú otras. Dícese de lo material y de lo inmaterial ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en , para expresar el nuevo estado ó naturaleza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este fue el primer milagro que obró, convirtiendo el agua en vino y mostrándose señor absoluto de todas las criaturas.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Vida de la Virgen , (17)."
+            },
+            {
+              "texto_cita": "«Le dijo cómo ella había convertido á sus hijos en perros, por cierto enojo que con ella tuvo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 238 2 )."
+            },
+            {
+              "texto_cita": "«Convierte el mar en sangre.»",
+              "autor": "Carvajal",
+              "referencia_obra": ", Salmos , 104 (282)."
+            },
+            {
+              "texto_cita": "«Los llevan [los frutos] á Inglaterra, los mejoran y los convierten en objetos de necesidad y de lujo, y vuelven á venderlos con nueva forma á las mismas naciones á quienes los compraron ó los hurtaron primero.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 203."
+            },
+            {
+              "texto_cita": "«Y fue tan eficaz y tan poderosa esta penitencia, que bastó para amansar el furor de Dios y convertir su ira en misericordia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 3. 2. 1, § 1 (R. 8. 180 2 )."
+            },
+            {
+              "texto_cita": "«En un momento | Su juventud en senectud convierte.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 15 (R. 32. 338 2 )."
+            },
+            {
+              "texto_cita": "«El ejercicio de virtudes heroicas, le han convertido en un entretenimiento gustoso, en que muestran bien por la obra la verdad de la palabra de Cristo, que su yugo es suave, y su carga ligera.»",
+              "autor": "León",
+              "referencia_obra": ", dedic. Obr. Sta Ter . (4. 207)."
+            },
+            {
+              "texto_cita": "«Veo agora y puedo hacer lo que antes no hacía. Y hame convertido este trabajo el Señor en mi luz y salud.»",
+              "autor": "",
+              "referencia_obra": "Id. Nomb . 1, introd . (3. 5)."
+            },
+            {
+              "texto_cita": "«Descubre [la aurora] al campo la beldad que había | Convertido en espanto la cerrada | Y escurísima noche, y de pasada | Enriquece la tierra de alegría.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 1, son . 2 (2)."
+            },
+            {
+              "texto_cita": "«Y apenas contenta | Con mi perdimiento, | Todo aquel contento | Convirtió en mi afrenta.»",
+              "autor": "",
+              "referencia_obra": "Id. 3, end . 9 (83)."
+            },
+            {
+              "texto_cita": "«Así lo hacen no pocos nobles en las provincias septentrionales de España, y --- convierten en útiles y honrados ciudadanos muchos miembros inútiles del cuerpo de la nobleza.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre montepío para nobles (R. 50. 18 2 )."
+            },
+            {
+              "texto_cita": "«En suma, el apetito desordenado de estos bienes, corrompiendo y extraviando el interés individual del hombre, convierte el principio más activo de perfección social en el instrumento más funesto de corrupción, de iniquidad y de miseria pública y privada.»",
+              "autor": "",
+              "referencia_obra": "Id. Trat. de enseñ. Moral relig . (R. 46. 265¹)."
+            },
+            {
+              "texto_cita": "«El hombre nace sujeto á muchas necesidades, y guiado por su instinto á socorrerlas, empieza observando los objetos que le rodean. La experiencia le enseña á distinguirlos, y la razón á convertirlos en su provecho.»",
+              "autor": "",
+              "referencia_obra": "Id. ib preámb . 2ª. cuest . (R. 46. 232 2 )."
+            },
+            {
+              "texto_cita": "«El abandono, | La impiedad, la venganza, | Tal vez convierten en afrenta el trono.»",
+              "autor": "Mor.",
+              "referencia_obra": "oda 2 (R. 2. 587 2 )."
+            },
+            {
+              "texto_cita": "«Si os imagino riguroso, | Verme culpado me convierte en hielo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rimas sacras , 1 ( Obr. suelt . 13. 79)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El Señor les mandó henchir seis tinajas que allí estaban, de agua, la cual se convirtió en delicadísimo y excelentísimo vino.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Vida de Cristo (47)."
+            },
+            {
+              "texto_cita": "«Allí el pan con su palabra, | Y el vino se convirtieron | En pura sangre y en carne | De su vivo cuerpo entero.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Mueve la voz (R. 42. 121 2 )."
+            },
+            {
+              "texto_cita": "«Es tradición --- que este rey no murió, sino que por arte de encantamento se convirtió en cuervo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 13 (R. 1. 278¹)."
+            },
+            {
+              "texto_cita": "«La nube, convirtiéndose en lluvia, pasa y se deshace de manera que no vuelve jamás.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 7 (1. 128)."
+            },
+            {
+              "texto_cita": "«Me persuado que cuanto hiciere me será más tormento, y que los medios de alivio se me convertirán en dolor y pena, y ansí no espero mejoría.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 9 (1. 167)."
+            },
+            {
+              "texto_cita": "«No hay bien que en mal no se convierta y mude.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 1 (R. 32. 5 2 )."
+            },
+            {
+              "texto_cita": "«¡Cuán presto se convierte | En súbito pesar una alegría, | Y sigue escura noche al claro día!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 25¹)."
+            },
+            {
+              "texto_cita": "«Yo haré que estos llantos se conviertan en risa, aunque á mí me cueste la vida.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 1 (R. 1. 116 2 )."
+            },
+            {
+              "texto_cita": "«Si no me dieren remedio, á lo menos no me darán culpa, convirtiéndoseles el enojo de mi desenvoltura en lástima de mis desgracias.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 27 (R. 1. 321¹)."
+            },
+            {
+              "texto_cita": "«Algunas veces se atesora con grandeza de ánimo para poder ejecutar gloriosos pensamientos, y después se convierte poco á poco en avaricia, y primero se ve la ruina de los estados, que se abran los erarios para su remedio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 69 R. 25. 189¹)."
+            },
+            {
+              "texto_cita": "«Entonce el llanto ardiente | Que hoy riega mis mejillas, | A vista de tu llanto | Convertiráse en risa.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Poes. Anfriso á Belisa , 1 (R. 46. 12 2 )."
+            },
+            {
+              "texto_cita": "«Sin la buena división y población de las labores, los mismos auxilios dirigidos á favorecer la agricultura se convertirán en su daño.»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria 1ª. clase (R. 50. 90 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A nadie en particular puede convertírsele en delito que desease, propusiese, y promoviese lo que todos deseaban, proponían y reclamaban.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 182."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parece que se te ha ido de las mientes haber visto á Dulcinea convertida y transformada en labradora, y al caballero de los Espejos en el bachiller Carrasco.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 67 (R. 1. 545 2 )."
+            },
+            {
+              "texto_cita": "«Ya tu muerte han llorado | Las ninfas de los ríos, | Los montes, los collados y las gentes, | Las selvas, el ganado, | Y más las ojos míos, | Que están ya convertidos en dos fuentes.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 10 (209)."
+            },
+            {
+              "texto_cita": "«No muestra su cara | Convertida en llanto.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, end . 9 (82)."
+            },
+            {
+              "texto_cita": "«Chispeaban reflejando las luces del bien alumbrado salón de baile, en que estaba convertido el teatro.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 22."
+            },
+            {
+              "texto_cita": "«Un hidalgo de muy buen entendimiento se vio tan lleno de trampas por el juego y tan sujeto á la costumbre, y convertido ya el uso en naturaleza, que reprendiéndole su misma madre ---»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 22 (R. 18. 421¹)."
+            },
+            {
+              "texto_cita": "«Y desta manera cualquier cosa buena puede ser en mala convertida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 59 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el estado ó condición perdida.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué rigor de estrella ha sido, | Señor don Antonio, aquel | Que de piadoso en cruel | Contra mí os ha convertido?»",
+              "autor": "Cerv.",
+              "referencia_obra": "La entretenida , 2 ( Com . 2. 207)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La arte en tanto inocente, de sincera, | Casta y grave matrona, es convertida | En infame ó adúltera ramera.»",
+              "autor": "Forner",
+              "referencia_obra": ", sát . (R. 63. 307 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Halléla encantada y convertida de princesa en labradora, de hermosa en fea, de ángel en diablo, de olorosa en pestífera, de bien hablada en rústica, de reposada en brincadora, de luz en tinieblas, y finalmente de Dulcinea del Toboso en una villana de Sayago.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 32 (R. 1. 473¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Son raras é inaceptables las construcciones siguientes:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El villano de Isabela | Que se convirtió á escudero, | Quiere hablarte.»",
+              "autor": "Lope",
+              "referencia_obra": ", ¡Si no vieran las mujeres! 3. 12 (R. 34. 590³)."
+            },
+            {
+              "texto_cita": "«¡Mira cuán al revés salió tu cuenta! | Que lo que tú por honra descubrías, | En mí se convirtió para tu afrenta.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "sát. Muy bien se muestra (R. 42. 270 2 ). Aquí están trocadas las preposiciones en y para . En el siguiente pasaje el texto está palpablemente viciado, como lo demuestra el lugar del salmo 82 de que es imitación:"
+            },
+            {
+              "texto_cita": "«Ita persequeris illos in tempestate tua: et in ira tua turbabis eos. Imple facies eorum ignominia.»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Cual fuego abrasa selvas cuya llama | En las espesas cumbres se derrama, | Tal en tu ira y tempestad seguiste, | Y su faz de ignominia convertiste.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, canc . 3 (R. 32. 307¹)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aviendo conoscimiento de la verdad, se convirtió á la nuestra santa fe católica.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 22 (126)."
+        },
+        {
+          "texto_cita": "«Sus aguelos fueron de linaje de los judios convertidos á nuestra santa fe católica.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 18 (109)."
+        },
+        {
+          "texto_cita": "«El aborrescimiento que primero tenia, poco á poco se le convertió en un amor tan ferviente é tan loco ---»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 24 (272)."
+        },
+        {
+          "texto_cita": "«Les ha convertido todo su placer en tristeza, é toda su alegría en miedo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 16 (222)."
+        },
+        {
+          "texto_cita": "«Podria ser que las enemistades e discordias que entre ellos tienen --- todas se saneasen é convirtiesen contra vuestra gente, por el odio que antiguamente entre ellos es.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 7 (187)."
+        },
+        {
+          "texto_cita": "«El tiempo bien despendido | En las liberales artes | En cauas y baluartes | Es agora conuertido.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr . 1, p. 131."
+        },
+        {
+          "texto_cita": "«Era converso, hijo de un converso de Vélez.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II , 4. 23 (R. 68. 325¹)."
+        },
+        {
+          "texto_cita": "«Esperando que por algunos otros buenos medios --- podria convertir de mal en bien aquel mal criado suyo.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 104 (273)."
+        },
+        {
+          "texto_cita": "«Cessaron en aquella empressa las escaramuzas é las peleas --- é fue todo el negocio convertido en tractos é en fablas de una parte á otra.»",
+          "autor": "",
+          "referencia_obra": "Ib . 95 (250)."
+        },
+        {
+          "texto_cita": "«El capitan de los conversos era en Toledo uno que se llamaba Juan de Cibdad, que era un grand recabdador é rico é atrevido converso.»",
+          "autor": "",
+          "referencia_obra": "Ib . 83 (214)."
+        },
+        {
+          "texto_cita": "«¿Por qué yo no pensaré de algunos de los conversos, lo que vi de todos aquellos?»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener . 26 (R. 68. 710¹)."
+        },
+        {
+          "texto_cita": "«Fue convertido por la gracia de Dios, é por conoscimiento que ovo de la verdad.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 26 (R. 68. 709¹)."
+        },
+        {
+          "texto_cita": "«Fue este varon loable | De los ebreos nasçido, | E después de convertido | Christiano muy venerable.»",
+          "autor": "",
+          "referencia_obra": "Id. Clar. var . 405 ( Rim. inéd . 332)."
+        },
+        {
+          "texto_cita": "«Tú convertiste la flama é gehena, | En la qual grandes tiempos ha que ardia, | En mansa calma, tranquila é serena, | E mi grave langor en alegria.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 296."
+        },
+        {
+          "texto_cita": "«El agua en vino | Convertió.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 311."
+        },
+        {
+          "texto_cita": "«Todo principio de amores | Comiença con grand dolçura, | E despues con mill errores | Se convierte en amargura.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 362."
+        },
+        {
+          "texto_cita": "«¿Cuántos hombres et mujeres habemos visto, por amonestamiento ó increpación persuasoria de otros, de la vida torpe et bestial ser retraidos et convertidos á la virtuosa et honesta?»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 3 (R. 36. 346 2 )."
+        },
+        {
+          "texto_cita": "«Era de oro puro convertido en metal muy aviltado de plomo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 1 (R. 36. 341¹)."
+        },
+        {
+          "texto_cita": "«A las frutas conuertiendo el desir que se mondan e cortan, especial platica combiene mostrar.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 11 (83)."
+        },
+        {
+          "texto_cita": "«La muerte nos llama é fas convertir | En polvo é ceniza.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 394. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Que Dios los acorra e sean conuertidos.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1444 (R. 57.471 2 )."
+        },
+        {
+          "texto_cita": "«De conuertirse a Dios nunca le viene emiente.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1124 (R. 57. 462 2 )."
+        },
+        {
+          "texto_cita": "«Se fue don Enrique andando predicando por toda la tierra, así que todos los convertió á la su parte.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 1 (R. 66. 94¹)."
+        },
+        {
+          "texto_cita": "«Son muchos los convertidos á la su santa fe et creencia.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Lib. de los est . 1. 23 (R. 51. 291¹). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Esto es verdat do hay esperanza que el uno convertirá al otro.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 77 (R. 51. 208 2 )."
+        },
+        {
+          "texto_cita": "«Envióles el Espíritu Santo á predicar é á convertir todo el mundo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 34 (R. 51. 154¹)."
+        },
+        {
+          "texto_cita": "«Tanto era de fermosa, que todos los ojos de los homes convertia á sí.»",
+          "autor": "",
+          "referencia_obra": "Ib . 23 (R. 51. 140¹)."
+        },
+        {
+          "texto_cita": "«Despues que fue convertido [Constantino] fue muy bueno é muy virtuoso.»",
+          "autor": "",
+          "referencia_obra": "Ib . 10 (R. 51. 107¹)."
+        },
+        {
+          "texto_cita": "«Luego que començaron a reynar eran gentiles, e conuertieronse a pocos dias a la fe.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 132 (106¹)."
+        },
+        {
+          "texto_cita": "«Mató [Herodes] con él [con Santiago] de so uno al que lo guardaua en la carçel mientra estodiera preso, porque lo conuertiera Santiago.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 110 (78 2 )."
+        },
+        {
+          "texto_cita": "«Si abat, ó prior de algunt convento, ó maestre de alguna orden, demandase á otro que era su monge ó su freyre, ó su converso ---»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 11. 10 (2. 478)."
+        },
+        {
+          "texto_cita": "«Si se convertiere conosciendo su pecado et quisiere tornar al monesterio á facer emienda dél, debel su perlado recebir.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 7. 29 (1. 316)."
+        },
+        {
+          "texto_cita": "«Dixo que non querie la muerte del pecador, que se entiende por la del infierno; mas que se convertiese et hobiese vida con él en el paraiso.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 80 (1. 144)."
+        },
+        {
+          "texto_cita": "«Conviértete desta nescedat et desta locura.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 15¹)."
+        },
+        {
+          "texto_cita": "«Et si el alcalde se defendiere por alguna razon torticera, é non quisiere desfacer el iuicio que iudgó, amonestándolo el obispo de se convertir dello --- estonce el obispo puede iudgar el pleyto.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 1. 3 (175)."
+        },
+        {
+          "texto_cita": "«Saben con sus sermones los otros conuertir.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2236 (R. 57. 215 2 )."
+        },
+        {
+          "texto_cita": "«Conuertiola sant Paolo despues a la uerdat.»",
+          "autor": "",
+          "referencia_obra": "Ib . 175 (R. 57. 153¹)."
+        },
+        {
+          "texto_cita": "«Por caridat te ruego e en don te lo pido, | Que me digas tu nomne, e lo que as soffrido, | Ont eres natural, commo fust convertido.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill . 81 (R. 57. 67 2 )."
+        },
+        {
+          "texto_cita": "«Conforta los enfermos, converti los errados.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores , 227 (R. 57. 100 2 )."
+        },
+        {
+          "texto_cita": "«Sobre los convertidos façe grandes merçedes.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 411 (R. 57. 116¹)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. converter ; cat. , fr. convertir ; prov. convertir , covertir : it. convertere, convertire : del lat. convertere , compuesto de cum , con, intensivo, y vertere , voltear, volver. Sobre el cambio de conjugución, véase Schuchardt , Vokal . 1. 407.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "constr. primitiva. «Ha de despedir de sí palabras de fuego, que enciendan y abrasen los corazones de los hombres y los conviertan á Dios.» J. de los Angeles, Conq. del reino de Dios , 8. 4 (308). «No se trataba de convertir á la fe, sino de fortalecer en ella á los oyentes.» Lista , Ensayos , 1, p. 62. — α α ) Refl . «Algunas provincias que él en su libro hace cristianas, se convirtieron á la fe muchos años después de la pasión.» Valdés , Diál . (Mayans, 134). «Dice [ Oseas] que en el fin y después deste largo cautiverio, en que agora están los judíos, se convertirán al Señor.» León , Nomb . 2, Brazo (3. 137). «¡Oh si todas las naciones del mundo se convirtiesen á vuestro Hijo!» Puente , Medit . 2. 12. (1. 319). — β β ) Part . «Después de convertido á nuestra fe [fue] gran defensor (de ella.» Sig. Vida de S. Jer . 5. 2 (403). — γ γ ) Con una prop. subj. «Convirtió [san Bernardo] á un gran señor de aquella tierra, por nombre Landulfo, á que dejase el mundo y se hiciese monje.» Gran. Vida de Avila , 5. 5 (R. 11. 479 ² ). — β ) Con de , para expresar la creencia ó conducta que se abandona. «Los convirtieron de la idolatría y los hicieron cristianos.» Rivad. Cisma , 1, argum . (R. 60. 185). — α α ) Refl . «Ya de aquí adelante prometo convertirme de mi maldad.» Nieremb. Hermosura de Dios , 2. 10. 2 (433). — β β ) Part . «Para lo cual me pareció conveniente medio introducir aquí un catecúmeno recién convertido de la ley de Moisén á la gracia del Evangelio.» Gran. Símb . 4, diál . 1 (R. 6. 538¹). — γ ) Con el solo acus. «Ni todo ha de ser contemplar, ni todo convertir almas.» J. de los Ángeles, Conq. del reino de Dios , 8. 4 (309). — α α ) Refl . «Tardar en convertirse, error notable, | Y diferirlo de uno en otro día, | Loca desvanecida fantasía.» Lope , Rimas sacras , 2 ( Obr. suelt . 13. 185). «Dejando ir á Berbería á los que no quisieron ser cristianos, se convirtieron los demás allí y en todo el reino.» Mármol , Rebelión , 1. 27 (R. 21. 157 2 ). — β β ) Part . «Informó con autoridad del prelado que los nuevamente convertidos eran moros y vivían como moros.» Mármol , Rebelión , 2. 9 (R. 21. 163 2 ). — δ ) Converso: este participio puramente latino se dice de los judíos y moros convertidos á nuestra religión. «Otro encargo que allí se tomó fue el de proteger á los conversos y á los moros de aquellos contornos contra las injurias y los agravios que el odio de los cristianos les acarreaba.» Quint. Gran Capitán (R. 19. 277 2 ). — α α ) En algunas órdenes religiosas, Lego. «Allí tomó el estado más humilde de los conversos ó frailes legos, que no son del coro.» Rivad. Flos SS. S. Diego de Alcalá ( Dicc. Autor .). 3. Hacer que una cosa pierda su naturaleza ó cualidades tomando otra ú otras. Dícese de lo material y de lo inmaterial ( trans .). — α ) Con en , para expresar el nuevo estado ó naturaleza. «Este fue el primer milagro que obró, convirtiendo el agua en vino y mostrándose señor absoluto de todas las criaturas.» Rivad. Flos SS. Vida de la Virgen , (17). «Le dijo cómo ella había convertido á sus hijos en perros, por cierto enojo que con ella tuvo.» Cerv. Col . (R. 1. 238 2 ). «Convierte el mar en sangre.» Carvajal , Salmos , 104 (282). «Los llevan [los frutos] á Inglaterra, los mejoran y los convierten en objetos de necesidad y de lujo, y vuelven á venderlos con nueva forma á las mismas naciones á quienes los compraron ó los hurtaron primero.» Mor. Obr. póst . 1, p. 203. «Y fue tan eficaz y tan poderosa esta penitencia, que bastó para amansar el furor de Dios y convertir su ira en misericordia.» Gran. Orac. y consid . 3. 2. 1, § 1 (R. 8. 180 2 ). «En un momento | Su juventud en senectud convierte.» Herr. 2, eleg . 15 (R. 32. 338 2 ). «El ejercicio de virtudes heroicas, le han convertido en un entretenimiento gustoso, en que muestran bien por la obra la verdad de la palabra de Cristo, que su yugo es suave, y su carga ligera.» León , dedic. Obr. Sta Ter . (4. 207). «Veo agora y puedo hacer lo que antes no hacía. Y hame convertido este trabajo el Señor en mi luz y salud.» Id. Nomb . 1, introd . (3. 5). «Descubre [la aurora] al campo la beldad que había | Convertido en espanto la cerrada | Y escurísima noche, y de pasada | Enriquece la tierra de alegría.» F. de la Torre , 1, son . 2 (2). «Y apenas contenta | Con mi perdimiento, | Todo aquel contento | Convirtió en mi afrenta.» Id. 3, end . 9 (83). «Así lo hacen no pocos nobles en las provincias septentrionales de España, y --- convierten en útiles y honrados ciudadanos muchos miembros inútiles del cuerpo de la nobleza.» Jovell. Disc. sobre montepío para nobles (R. 50. 18 2 ). «En suma, el apetito desordenado de estos bienes, corrompiendo y extraviando el interés individual del hombre, convierte el principio más activo de perfección social en el instrumento más funesto de corrupción, de iniquidad y de miseria pública y privada.» Id. Trat. de enseñ. Moral relig . (R. 46. 265¹). «El hombre nace sujeto á muchas necesidades, y guiado por su instinto á socorrerlas, empieza observando los objetos que le rodean. La experiencia le enseña á distinguirlos, y la razón á convertirlos en su provecho.» Id. ib preámb . 2ª. cuest . (R. 46. 232 2 ). «El abandono, | La impiedad, la venganza, | Tal vez convierten en afrenta el trono.» Mor. oda 2 (R. 2. 587 2 ). «Si os imagino riguroso, | Verme culpado me convierte en hielo.» Lope , Rimas sacras , 1 ( Obr. suelt . 13. 79). — α α ) Refl . «El Señor les mandó henchir seis tinajas que allí estaban, de agua, la cual se convirtió en delicadísimo y excelentísimo vino.» Rivad. Flos SS. Vida de Cristo (47). «Allí el pan con su palabra, | Y el vino se convirtieron | En pura sangre y en carne | De su vivo cuerpo entero.» Jáur. Mueve la voz (R. 42. 121 2 ). «Es tradición --- que este rey no murió, sino que por arte de encantamento se convirtió en cuervo.» Cerv. Quij . 1. 13 (R. 1. 278¹). «La nube, convirtiéndose en lluvia, pasa y se deshace de manera que no vuelve jamás.» León , Expos. de Job , 7 (1. 128). «Me persuado que cuanto hiciere me será más tormento, y que los medios de alivio se me convertirán en dolor y pena, y ansí no espero mejoría.» Id. ib . 9 (1. 167). «No hay bien que en mal no se convierta y mude.» Garcil. égl . 1 (R. 32. 5 2 ). «¡Cuán presto se convierte | En súbito pesar una alegría, | Y sigue escura noche al claro día!» Cerv. Gal . 2 (R. 1. 25¹). «Yo haré que estos llantos se conviertan en risa, aunque á mí me cueste la vida.» Id. Nov . 1 (R. 1. 116 2 ). «Si no me dieren remedio, á lo menos no me darán culpa, convirtiéndoseles el enojo de mi desenvoltura en lástima de mis desgracias.» Id. Quij . 1. 27 (R. 1. 321¹). «Algunas veces se atesora con grandeza de ánimo para poder ejecutar gloriosos pensamientos, y después se convierte poco á poco en avaricia, y primero se ve la ruina de los estados, que se abran los erarios para su remedio.» Saav. Emp . 69 R. 25. 189¹). «Entonce el llanto ardiente | Que hoy riega mis mejillas, | A vista de tu llanto | Convertiráse en risa.» Jovell. Poes. Anfriso á Belisa , 1 (R. 46. 12 2 ). «Sin la buena división y población de las labores, los mismos auxilios dirigidos á favorecer la agricultura se convertirán en su daño.» Id. Ley agraria 1ª. clase (R. 50. 90 2 ). — β β ) Pas . «A nadie en particular puede convertírsele en delito que desease, propusiese, y promoviese lo que todos deseaban, proponían y reclamaban.» Quint. Obr. inéd . p. 182. — γ γ ) Part . «Parece que se te ha ido de las mientes haber visto á Dulcinea convertida y transformada en labradora, y al caballero de los Espejos en el bachiller Carrasco.» Cerv. Quij . 2. 67 (R. 1. 545 2 ). «Ya tu muerte han llorado | Las ninfas de los ríos, | Los montes, los collados y las gentes, | Las selvas, el ganado, | Y más las ojos míos, | Que están ya convertidos en dos fuentes.» Valb. Siglo de oro , 10 (209). «No muestra su cara | Convertida en llanto.» F. de la Torre , 3, end . 9 (82). «Chispeaban reflejando las luces del bien alumbrado salón de baile, en que estaba convertido el teatro.» A. Galiano , Recuerdos , p. 22. «Un hidalgo de muy buen entendimiento se vio tan lleno de trampas por el juego y tan sujeto á la costumbre, y convertido ya el uso en naturaleza, que reprendiéndole su misma madre ---» Espinel , Escud . 1. 22 (R. 18. 421¹). «Y desta manera cualquier cosa buena puede ser en mala convertida.» Cerv. Gal . 4 (R. 1. 59 2 ). — β ) Con de , para expresar el estado ó condición perdida. «¿Qué rigor de estrella ha sido, | Señor don Antonio, aquel | Que de piadoso en cruel | Contra mí os ha convertido?» Cerv. La entretenida , 2 ( Com . 2. 207). — α α ) Pas . «La arte en tanto inocente, de sincera, | Casta y grave matrona, es convertida | En infame ó adúltera ramera.» Forner , sát . (R. 63. 307 2 ). — β β ) Part . «Halléla encantada y convertida de princesa en labradora, de hermosa en fea, de ángel en diablo, de olorosa en pestífera, de bien hablada en rústica, de reposada en brincadora, de luz en tinieblas, y finalmente de Dulcinea del Toboso en una villana de Sayago.» Cerv. Quij . 2. 32 (R. 1. 473¹). — γ ) Son raras é inaceptables las construcciones siguientes: «El villano de Isabela | Que se convirtió á escudero, | Quiere hablarte.» Lope , ¡Si no vieran las mujeres! 3. 12 (R. 34. 590³). «¡Mira cuán al revés salió tu cuenta! | Que lo que tú por honra descubrías, | En mí se convirtió para tu afrenta.» L. Argens. sát. Muy bien se muestra (R. 42. 270 2 ). Aquí están trocadas las preposiciones en y para . En el siguiente pasaje el texto está palpablemente viciado, como lo demuestra el lugar del salmo 82 de que es imitación: «Ita persequeris illos in tempestate tua: et in ira tua turbabis eos. Imple facies eorum ignominia.» «Cual fuego abrasa selvas cuya llama | En las espesas cumbres se derrama, | Tal en tu ira y tempestad seguiste, | Y su faz de ignominia convertiste.» Herr. 2, canc . 3 (R. 32. 307¹). Per. antecl. Siglo XV: «Aviendo conoscimiento de la verdad, se convirtió á la nuestra santa fe católica.» Pulgar , Clar. var . 22 (126). «Sus aguelos fueron de linaje de los judios convertidos á nuestra santa fe católica.» Id. ib . 18 (109). «El aborrescimiento que primero tenia, poco á poco se le convertió en un amor tan ferviente é tan loco ---» Id. Letras , 24 (272). «Les ha convertido todo su placer en tristeza, é toda su alegría en miedo.» Id. ib . 16 (222). «Podria ser que las enemistades e discordias que entre ellos tienen --- todas se saneasen é convirtiesen contra vuestra gente, por el odio que antiguamente entre ellos es.» Id. ib . 7 (187). «El tiempo bien despendido | En las liberales artes | En cauas y baluartes | Es agora conuertido.» Canc. de G. Manr . 1, p. 131. «Era converso, hijo de un converso de Vélez.» Crón. Juan II , 4. 23 (R. 68. 325¹). «Esperando que por algunos otros buenos medios --- podria convertir de mal en bien aquel mal criado suyo.» Crón. Álv. de Luna , 104 (273). «Cessaron en aquella empressa las escaramuzas é las peleas --- é fue todo el negocio convertido en tractos é en fablas de una parte á otra.» Ib . 95 (250). «El capitan de los conversos era en Toledo uno que se llamaba Juan de Cibdad, que era un grand recabdador é rico é atrevido converso.» Ib . 83 (214). «¿Por qué yo no pensaré de algunos de los conversos, lo que vi de todos aquellos?» P. de Guzmán , Gener . 26 (R. 68. 710¹). «Fue convertido por la gracia de Dios, é por conoscimiento que ovo de la verdad.» Id. ib . 26 (R. 68. 709¹). «Fue este varon loable | De los ebreos nasçido, | E después de convertido | Christiano muy venerable.» Id. Clar. var . 405 ( Rim. inéd . 332). «Tú convertiste la flama é gehena, | En la qual grandes tiempos ha que ardia, | En mansa calma, tranquila é serena, | E mi grave langor en alegria.» Santill. p. 296. «El agua en vino | Convertió.» Id. p. 311. «Todo principio de amores | Comiença con grand dolçura, | E despues con mill errores | Se convierte en amargura.» Canc. de Stúñ . p. 362. «¿Cuántos hombres et mujeres habemos visto, por amonestamiento ó increpación persuasoria de otros, de la vida torpe et bestial ser retraidos et convertidos á la virtuosa et honesta?» Vis. delect . 1. 3 (R. 36. 346 2 ). «Era de oro puro convertido en metal muy aviltado de plomo.» Ib . 1. 1 (R. 36. 341¹). «A las frutas conuertiendo el desir que se mondan e cortan, especial platica combiene mostrar.» Villena , Arte cis . 11 (83). «La muerte nos llama é fas convertir | En polvo é ceniza.» Canc. de Baena , p. 394. — Siglo XIV : «Que Dios los acorra e sean conuertidos.» Rim. de Pal . 1444 (R. 57.471 2 ). «De conuertirse a Dios nunca le viene emiente.» Ib . 1124 (R. 57. 462 2 ). «Se fue don Enrique andando predicando por toda la tierra, así que todos los convertió á la su parte.» Crón. Fern. IV , 1 (R. 66. 94¹). «Son muchos los convertidos á la su santa fe et creencia.» J. Man. Lib. de los est . 1. 23 (R. 51. 291¹). — Siglo XIII : «Esto es verdat do hay esperanza que el uno convertirá al otro.» Cast. é docum . 77 (R. 51. 208 2 ). «Envióles el Espíritu Santo á predicar é á convertir todo el mundo.» Ib . 34 (R. 51. 154¹). «Tanto era de fermosa, que todos los ojos de los homes convertia á sí.» Ib . 23 (R. 51. 140¹). «Despues que fue convertido [Constantino] fue muy bueno é muy virtuoso.» Ib . 10 (R. 51. 107¹). «Luego que començaron a reynar eran gentiles, e conuertieronse a pocos dias a la fe.» Crón. gen . 1. 132 (106¹). «Mató [Herodes] con él [con Santiago] de so uno al que lo guardaua en la carçel mientra estodiera preso, porque lo conuertiera Santiago.» Ib . 1. 110 (78 2 ). «Si abat, ó prior de algunt convento, ó maestre de alguna orden, demandase á otro que era su monge ó su freyre, ó su converso ---» Part . 3. 11. 10 (2. 478). «Si se convertiere conosciendo su pecado et quisiere tornar al monesterio á facer emienda dél, debel su perlado recebir.» Part . 1. 7. 29 (1. 316). «Dixo que non querie la muerte del pecador, que se entiende por la del infierno; mas que se convertiese et hobiese vida con él en el paraiso.» Part . 1. 4. 80 (1. 144). «Conviértete desta nescedat et desta locura.» Cal. é Dymna (R. 51. 15¹). «Et si el alcalde se defendiere por alguna razon torticera, é non quisiere desfacer el iuicio que iudgó, amonestándolo el obispo de se convertir dello --- estonce el obispo puede iudgar el pleyto.» Fuero Juzgo , 12. 1. 3 (175). «Saben con sus sermones los otros conuertir.» Alex . 2236 (R. 57. 215 2 ). «Conuertiola sant Paolo despues a la uerdat.» Ib . 175 (R. 57. 153¹). «Por caridat te ruego e en don te lo pido, | Que me digas tu nomne, e lo que as soffrido, | Ont eres natural, commo fust convertido.» Berc. S. Mill . 81 (R. 57. 67 2 ). «Conforta los enfermos, converti los errados.» Id. Loores , 227 (R. 57. 100 2 ). «Sobre los convertidos façe grandes merçedes.» Id. Mil . 411 (R. 57. 116¹). Etim. Port. converter ; cat. , fr. convertir ; prov. convertir , covertir : it. convertere, convertire : del lat. convertere , compuesto de cum , con, intensivo, y vertere , voltear, volver. Sobre el cambio de conjugución, véase Schuchardt , Vokal . 1. 407. Conjug. Tiene estas formas irregulares: conviert-o, es, e, en ; convirt-ió, ieron ; conviert-a, as, a, an ; convirt-amos, áis ; convirt-iese, ieses , iese, iésemos, ieseis, iesen ; convirt-iera, ieras, iera, iéramos, ierais, ieran ; convirt-iere, ieres, iere, iéremos, iereis, ieren ; convierte tú ; convirtiendo . \u0000"
+}

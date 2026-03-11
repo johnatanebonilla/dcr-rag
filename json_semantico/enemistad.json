@@ -1,0 +1,444 @@
+{
+  "lema": "ENEMISTAD.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aversión u odio hacia una persona.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué rabia de enemistad hay tan grande que no se aplaque cuando ve al enemigo muerto delante de sí?»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. esp. 17 (R. 11. 253 1 )."
+            },
+            {
+              "texto_cita": "«Como determinaba a obscuras, no vio la enemistad de Marco Bruto en la amistad que tenía con su enemigo Pompeyo.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 137 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con a seguida del sust. que representa la persona a quien va dirigido el odio o aversión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En los cuerpos inferiores de la sociedad, en Madrid y más en los de provincias, la enemistad a los comuneros comenzó a dar muestra de sí.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 401 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Se construye con el verbo tener, y la persona objeto de la aversión u odio va en dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijo en altas voces que, por enemistad secreta que tenía al dueño de aquellos libros y aposento, dejaba hecho el daño en aquella casa, que después se vería.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 7 (R. 1. 268 1 )."
+            },
+            {
+              "texto_cita": "«Ha vuelto [el sabio Frestón] estos gigantes en molinos por quitarme la gloria de su vencimiento: tal es la enemistad que me tiene.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 8 (R. 1. 269 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Rara vez, el objeto de la aversión es un animal. Con la prep. contra . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiene gran enemistad contra las fieras.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo (ed. 1890-93, t. 1, p. 403 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Repugnancia o disgusto hacia una cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con a. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De gozarse en los olores suaves le nace asco de los pobres, enemistad a la servidumbre.»",
+              "autor": "",
+              "referencia_obra": "S. Juan de la Cruz, Subida (ed. 1912, p. 343) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó esta buena compañía --- a quitar algo la gran enemistad que tenía con ser monja, que se me había puesto grandísima.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 3 (R. 53. 26 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Sentimiento recíproco de hostilidad entre dos o más personas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mis compromisos y la enemistad de nuestras familias eran dos motivos poderosos para alejar de él toda esperanza respecto a mí.»",
+              "autor": "Gmz. Avellaneda",
+              "referencia_obra": ", Autobiografía (ed. 1907, p. 21). x"
+            },
+            {
+              "texto_cita": "«Hace poco más de medio siglo, la enemistad de dos prestigiosos caudillos fue escándalo de América y nube que se desató con horrendo estrago sobre la Nueva Granada.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 11 (p. 110). Con la prep. con."
+            },
+            {
+              "texto_cita": "«Comenzó la murmuración y persecución de golpe, y, a mi parecer, con mucha causa: y ansí no tomaba con nadie enemistad, sino suplicabaos a Vos mirásedes la razón que tenían.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 19 (R. 53. 62 2 )."
+            },
+            {
+              "texto_cita": "«Tienen también estas almas un gran gozo interior, cuando son perseguidas, con mucha más paz que lo que queda dicho, y sin ninguna enemistad con los que las hacen mal, o desean hacer; antes les cobran amor particular, de manera que, si los ven en algún trabajo, lo sienten tiernamente.»",
+              "autor": "Mor.",
+              "referencia_obra": "7. 3 (R. 53. 485 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Dicho de animales. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiene el tigre natural odio y enemistad con el caimán.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 7. 21 (R. 91. 298 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con entre. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La enemistad entre los hombres procede de malicia.»",
+              "autor": "Guev.",
+              "referencia_obra": "Marco Aurelio (ed. 1658, p. 29 3 )."
+            },
+            {
+              "texto_cita": "«De grandes amigos que eran, había resultado entre ellos grande enemistad.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 12. 9 (R. 30. 353 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con el verbo tener y pronombre reflexivo en dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la enemistad que se tenían las dos parcialidades, no es de extrañar saltase alguna chispa que causó aquel incendio.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 237 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Enemistad declarada: la que se manifiesta abiertamente. Con la prep. con . x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Súbitamente vino a entorpecerla su enemistad declarada con el Condestable D. Álvaro de Luna.»",
+              "autor": "",
+              "referencia_obra": "M. Pelayo, Hist. poesía castell. en la Edad Media (ed. 1914, p. 53)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Incompatibilidad entre dos o más cosas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con los espíritus ---, que son el instrumento principal de la vida, tiene derechamente enemistad la ponzoña.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 6 (1. 100)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con entre. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre azúcares y tabacos jamás hubo enemistad.»",
+              "autor": "F. Ortiz",
+              "referencia_obra": ", Contrapunteo cubano, p. 94."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "En plur. y por metonimia, Distintas manifestaciones o personificaciones de ese sentimiento.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Toda herejía es cruel y fiera, y ningunas enemistades hay mayores que las que se forjan con voz y capa de religión.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 5. 14 (R. 30. 146 2 )."
+            },
+            {
+              "texto_cita": "«Tenían [los bandoleros] por señor y cabeza a un valeroso caballero catalán, que, por ciertas enemistades, andaba en la compañía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 ( R. 1. 27 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que es como decir ---, para encarecer por este modo también lo mucho que puede Dios, y el desatino que es traer enemistades con él.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 34 (2. 1. 93)."
+            },
+            {
+              "texto_cita": "«Traía guerra con Botejesín, rey de Tremecén, llevando adelante en esto las enemistades que su padre con él tuvo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 1 (R. 30. 461 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con entre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nacieron entre el protector y su hermano tan crueles enemistades, que el protector mandó matar a su hermano.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 2. 8 (R. 60. 242 1 )."
+            },
+            {
+              "texto_cita": "«Enemistades pondré entre tí y la mujer, y entre tu linaje y su linaje.»",
+              "autor": "Scío",
+              "referencia_obra": ", Gén. 3. 15."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las variantes enemestitad, enemistat, enemiztat, enemizdat, enemystat, enemistade, enemiztad, enamistad, enamiztad, enamiztat, enemizad, enemizat .). Siglo XV: x",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Enemistad privada: inimicicie, arum .»",
+          "autor": "",
+          "referencia_obra": "Nebr . Vocab."
+        },
+        {
+          "texto_cita": "«Si me castigas con rigor, antes me harás tu enemigo que tu corregido, e primero ganarás enemistad para ti que emienda para mí.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 23 (259)."
+        },
+        {
+          "texto_cita": "«E juntóse con esto el rencor y enemistad que algunos grandes habían con los otros.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener . 34 (R. 68. 718 1 )."
+        },
+        {
+          "texto_cita": "«Entre aquellos condes avía enemistad muy formada luengos, tiempos avía.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 38 (118)."
+        },
+        {
+          "texto_cita": "«Era el más principal de los con quien él avía la enemistad.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pero Niño, p. 24. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Por eso el santo Job a Dios Sennor desía | Que con sus ojos mismos enemestitad ponía.»",
+          "autor": "Pal.",
+          "referencia_obra": "155 (R. 57. 430 1 )."
+        },
+        {
+          "texto_cita": "«E judgaron en casa del rey que ningund fijodalgo non puede ser enemigo por otro fijodalgo por quitarlo de enemistat.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 1. 5. 10 (24)."
+        },
+        {
+          "texto_cita": "«Con todo el mundo tienes continua enemistad.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1496 (R. 57. 274 2 )."
+        },
+        {
+          "texto_cita": "«Aviendo ellos enbargo porque non podiesen desafiar e seguir enemistad.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Alcalá, año 1348 ( C. de L. y C. 1. 544) [En otros lugares deI texto: enamistad .]."
+        },
+        {
+          "texto_cita": "«Que ninguno non ssea osado de los matar, nin de los fazer mal, nin de les tomar ninguna cossa de lo suyo por querella que dellos ayan nin por anamiztad, nin por otra razón ninguna.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 322)."
+        },
+        {
+          "texto_cita": "«Si ouieren contiendas o enemistades con omme o con ommes de otros rregnos ---.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 258). +"
+        },
+        {
+          "texto_cita": "«El acuerdo da alegría e amor, e el desacuerdo aduze enamistad e desamor.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 156 (p. 336). +"
+        },
+        {
+          "texto_cita": "«Non es marauilla que el enemigo de Iesu Cristo cate carreras de mal contra los sus sieruos, ca de natura les viene esta enamistad.»",
+          "autor": "",
+          "referencia_obra": "lb . 155 (p. 330). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Por la tu palabra tollerás la enemistad de ti o te meterás nuevamente en homecillo.»",
+          "autor": "",
+          "referencia_obra": "Cast. e docum . 27 (R. 51. 142 1 )."
+        },
+        {
+          "texto_cita": "«E esto decía él por dos cosas, lo uno por lo poner en enemistad con los de la tierra, e lo otro ---.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 20 (R. 66. 16 2 )."
+        },
+        {
+          "texto_cita": "«Fincaua grand enemistad entre ellos e el rey.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 4. 3 (307 2 )."
+        },
+        {
+          "texto_cita": "«Fuyera de tierra de Francia por guerras que ouiera allá e enemistades en que cayeran.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 87 (47 1 )."
+        },
+        {
+          "texto_cita": "«E por esta razón ueníen muchas dubdas e muchas contiendas e muchas enemistades.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid, docum. de 1262 ( Mem. Acad. Hist . 8. 60)."
+        },
+        {
+          "texto_cita": "«Si algun omne mata a otro no lo viendo ni lo sabiendo, si ante non avía ninguna enemiztat con él e no lo mata de su grado y esto pudiere mostrar ant'el iuez, deve ser quito.»",
+          "autor": "Fuero",
+          "referencia_obra": "juzgo, 6. 5. 2 (112) [En otros pasajes: enemizdat, enemizat, enemistade. ] ."
+        },
+        {
+          "texto_cita": "«Acaesció entr'él e ellos enemiztad.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 209)."
+        },
+        {
+          "texto_cita": "«Nin le faga mal con el poder del rey por razón de enemistad nin de malquerencia que aya con él.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 147)."
+        },
+        {
+          "texto_cita": "«Enemistad es malquerencia con mala voluntad que ha home contra su enemigo por razón de la deshonra o del tuerto que fizo a él o a los suyos.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 19. 1 (2. 179)."
+        },
+        {
+          "texto_cita": "«Metió enemistad e aborrencia con su lengua entre aquellos que mucho se amaban.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 34 2 )."
+        },
+        {
+          "texto_cita": "«A la reyna sola pesaua de voluntad, | Que avýe con él muy grande enemystad.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 566 (R. 57. 406 2 )."
+        },
+        {
+          "texto_cita": "«Pugna en non dar carrera commo cresca la enemistad.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 9 (Knust, 138)."
+        },
+        {
+          "texto_cita": "«Traen enemistades entre sí por natura.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2148 (R. 57. 213 1 )."
+        },
+        {
+          "texto_cita": "«Faz enemizat a los omnes boluer.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1667 (R. 57. 198 2 )."
+        },
+        {
+          "texto_cita": "«Gané enamiztat, sallí dende aontado.»",
+          "autor": "Appoll.",
+          "referencia_obra": "115 (R. 57. 287 1 )."
+        },
+        {
+          "texto_cita": "«Non conviene a omne que faze enemistad con otro que punne en fazerle siempre lo quel' plega e non fazerle pesar.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 38)."
+        },
+        {
+          "texto_cita": "«E metió a Caýn en fuert enemiztat.»",
+          "autor": "Berc.",
+          "referencia_obra": "Sacrif. 159 (R. 57. 85 2 ). — Siglo XII:"
+        },
+        {
+          "texto_cita": "«Non lo desafié. nil' torné enemistad.»",
+          "autor": "Cid",
+          "referencia_obra": ", 965 (R. 57. 13 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. vulg. * inimicitatem , derivado privativo de * a micitatem. Cat. enemistat, gall. enemistade, port. inimizade. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

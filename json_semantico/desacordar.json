@@ -1,0 +1,426 @@
+{
+  "lema": "DESACORDAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner en desacuerdo, hacer cesar ó destruir el acuerdo, conformidad ó congruencia. Antiguamente se decía:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desacordar á los amigos»",
+          "autor": "",
+          "referencia_obra": "; refl ."
+        },
+        {
+          "texto_cita": "«Desacordarse del rey»",
+          "autor": "",
+          "referencia_obra": "; intrans ."
+        },
+        {
+          "texto_cita": "«Si desacordaren los testigos»",
+          "autor": "",
+          "referencia_obra": "; part ."
+        },
+        {
+          "texto_cita": "«Hermanos desacordados»",
+          "autor": "",
+          "referencia_obra": ". Hoy es de raro uso."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Tran s.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La variación de sujeto [de la frase], que unas veces es don Antonio y otras el bachiller, se opone esencialmente á la regularidad, y desacuerda el discurso.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 6, p.332."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans . No estar de acuerdo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No están muy de acuerdo estos autores en algunas circunstancias, pero no desacuerdan en las que conducen á mi propósito.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , nota 6 (R. 46. 572 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Destemplar un instrumento músico ó templarlo de modo que esté más alto ó más bajo que el principal que da el tono. Puédese aplicar también á las voces cuando se desentonan ( trans .). Acad. Dicc. — Part .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¡Oh divino Borja, que de un instrumento desacordado, roto, incapaz de aliento y de recibir á pausas el soplo, supiste hacer música soberana!»",
+          "autor": "",
+          "referencia_obra": "Cienfuegos, Vida de S. F. de Borja , 4. 13, § 2 ( Dicc. Autor .). —"
+        },
+        {
+          "texto_cita": "«Veo ahora aquel noble y sublime entendimiento desacordado, como la campana sonora que se hiende.»",
+          "autor": "Mor.",
+          "referencia_obra": "Hamlet , 3. 5 (R. 2. 509; el original:"
+        },
+        {
+          "texto_cita": "«out of tune»",
+          "autor": "",
+          "referencia_obra": ")."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Part . Pint. Aplícase á la obra cuyas partes disuenan unas de otras por razón de la composición ó el colorido. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Del significado de Perder el acuerdo, quedar fuera de sentido, que en este verbo había de corresponder al de Volver en sí, propio de Acordar, sólo el part. ocurre en nuestros clásicos ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Trabándole recio del brazo, le hizo volver en sí, aunque tan desacordado, que parecía que de un pesado sueño recordaba.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Gal . 2 (R. 1. 25 2 )."
+        },
+        {
+          "texto_cita": "«Con difunta | Color, el rey cayó desacordado, | En la cabeza, el hombro y pecho herido, | O muerto, al verde prado, ó sin sentido.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 7 (R. 11. 217 1 )."
+        },
+        {
+          "texto_cita": "«Dos pasos volvió atrás, desacordado, | Dando traspiés del golpe recibido.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 10 (R. 17. 247 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Que obra con desacuerdo ó desacierto.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ven aca, desacordado | Gigante, á quien apellidan | Azote de altos ingenios | Las gálicas sabandijas.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Nueva relación etc . 2 (R. 46. 17 1 )."
+        },
+        {
+          "texto_cita": "«En tal caso, los nombres de los personajes ilustres que aparecen en la escena, sus ropas magníficas, y hasta la decoración misma del teatro, todo se reúne para acusar al desacordado poeta que ha ofrecido con su estilo plebeyo contraste tan absurdo.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Anot. á la Poét . 5. 20 (1. 242)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Aplicado á cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Mas que nos juzga hechiceras | Su desacordado amor?»",
+              "autor": "Tirso",
+              "referencia_obra": ", En Madrid y en una casa , 3. 6 (R. 5. 553 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Revocar lo acordado ó determinado ( trans .) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Otro punto se acordó además, ó por mejor decir, se desacordó en las sesiones de Trujillo.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Def. de la Junta Central , 2. 2 (R. 46. 544 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "Refl . Perder la memoria ó recuerdo, olvidar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar la cosa olvidada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pidióle que se acordase de él; no que por él se desacordase de sus obligaciones.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 14 (R. 23. 73 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me acuerdo, hija, por quién dices. — ¿Cómo, no te acuerdas? desacordada eres cierto.»",
+              "autor": "Celest.",
+              "referencia_obra": "7 (R. 3. 37 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es bien que sepamos qué vigilancia se debe tener para esperar la muerte, porque no nos tome desacordados de su venida.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 2. 7 (Míst. 3. 21)."
+            },
+            {
+              "texto_cita": "«Se andan, como dicen, á la flor del berro, desacordados de lo que está por venir y les puede suceder.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares , 5. 16 (4. 96)."
+            },
+            {
+              "texto_cita": "«Si tan lejos están y tan desacordados de pensar en los misterios de la fe que profesan --- ¿qué les puede ayudar el título de cristianos?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 10, § 2 (R. 6. 306 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No es [el viejo] para en compañía de mozos, porque el tiempo les apartó la conversacion; menos le pueden convenir los viejos, porque la vejez desacuerda sus propósitos.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras , 1 (152)."
+        },
+        {
+          "texto_cita": "«Ally los gemidos e las cuchilladas | Fazian un son muy desacordado.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr . 1, p. 104."
+        },
+        {
+          "texto_cita": "«E dando de sí semblante de persona casi desacordada de sí misma, fuesse á meter en su cámara.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 115 (311)."
+        },
+        {
+          "texto_cita": "«E aquesto facie el maestre --- para que se desacordasen entre sí quando viessen á Rodrigo de Robledo salir con él á fabla.»",
+          "autor": "",
+          "referencia_obra": "Ib . 69 (183)."
+        },
+        {
+          "texto_cita": "«De su virtuosa vida | Su fin non desacordó.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var . 379 ( Rim. inéd . 328)."
+        },
+        {
+          "texto_cita": "«El rey con los castellanos | Por ella desacordado ---»",
+          "autor": "",
+          "referencia_obra": "Id. lb . 229 ( Rim. inéd . 306)."
+        },
+        {
+          "texto_cita": "«Desacordóse del rey don Enrique --- é ovo sus tratos con el rey don Juan de Portugal.»",
+          "autor": "",
+          "referencia_obra": "Id. Gener . 11 (R. 68. 705 1 )."
+        },
+        {
+          "texto_cita": "«Agora por enemigos | Combates á mano armada; | E sy dexas el espada, | Desacuerdas los amigos.»",
+          "autor": "",
+          "referencia_obra": "Santill, p. 161."
+        },
+        {
+          "texto_cita": "«O gente desacordada, | Cuya fama se destruye.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 362."
+        },
+        {
+          "texto_cita": "«Que bueluen acordes los desacordados | Y queda offendido quien antes offende.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 158 (63 2 )."
+        },
+        {
+          "texto_cita": "«Quando vio que non avian fecho ninguna cosa, tornóse muy airado á aquellos á quien él avia encomendado aquel fecho, como gente desacordada é de poco recabdo.»",
+          "autor": "",
+          "referencia_obra": "Crón. P. Niño , p. 72."
+        },
+        {
+          "texto_cita": "«Asi es el alma con el cuerpo, como el juglar con su estrumento, que quando es desacordado, non puede en él facer son acordante.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 31."
+        },
+        {
+          "texto_cita": "«Fazen almonia muy bien paresçiente | En su concordança vida tan rregida, | Mas si desacuerdan, non es bien florida | Natura, fortuna, nin otro açidente.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 210. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Si vieres tus hermanos, que son desacordados, | Fas tu la pas entrellos, que sean egualados.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 180 (R. 57. 431 1 )."
+        },
+        {
+          "texto_cita": "«Quando oyó el rey juisios desacordados, | Mandó que los maestros fuesen muy bien guardados.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 122 (R. 57. 231 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Desacordada toda su hueste»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«El rey Teudio seyendo ya desacordado del bien que le fiziera la reyna Amalasuente --- mandó la matar.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 2. 34 (168 1 )."
+        },
+        {
+          "texto_cita": "«Paulo samosateno --- desacordó en la fe de la predicaçion de todos los sanctos, e leuantó como de cabo la eregia de Artemon.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 135 (109 2 )."
+        },
+        {
+          "texto_cita": "«Et aun decimos que si el escribano fuere desacordado de poner esta palabra en la carta, que siempre debe seer entenduda, maguer non fuere hi puesta.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 19. 6 (2. 637)."
+        },
+        {
+          "texto_cita": "«Por esto escriben los homes los pleytos et las posturas, porque maguer aquellos que las facen ó los testigos ante quien fueren fechas se desacordasen dellos, que siempre finque remembranza de cómo pasaron, et en qué guisa fueron puestos.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 18. 115 (2. 628)."
+        },
+        {
+          "texto_cita": "«Otrosi decimos que si el previllejo desacordase del curso et de la manera en que acostumbraban á facer los otros previllejos que solie dar aquel rey mesmo, que non debe seer creido.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 18. 44 (2. 572)."
+        },
+        {
+          "texto_cita": "«Ligeramente podrie acaescer que los testigos que la una parte aduxiese por sí, que desacordarien en sus dichos de manera que los unos dirien el contrario de los otros.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 16. 42 (2. 537)."
+        },
+        {
+          "texto_cita": "«Por esta razon desechó Daniel profeta á los testigos que fueron aduchos contra Susana, porque desacordaron del lugar en deciendo su testimonio.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 16. 29 (2. 529)."
+        },
+        {
+          "texto_cita": "«Sil dixiere su contendor que jure por Dios, et el otro dixiere que jura por su cabeza ó por la de sus fijos, ó desacordare en otra manera qualquier semejante destas, non vale.»",
+          "autor": "",
+          "referencia_obra": "Part . 3 11. 8 (2. 476)."
+        },
+        {
+          "texto_cita": "«A las vegadas desacuerda el cabildo, et consienten los unos et non los otros.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 14. 10 (1. 397)."
+        },
+        {
+          "texto_cita": "«El maguer que acuerdan en estas cosas, otras hi ha en que desacuerdan.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 7. 30 (1. 317)."
+        },
+        {
+          "texto_cita": "«Algunas cosas hi ha en que acuerdan, et otras en que desacuerdan en razon de los casamientos.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 6. 39 (1. 280)."
+        },
+        {
+          "texto_cita": "«Desacordaron algunos maestros del derecho sobre la palabra que sant Pablo dixo, que debia ser sin pecado mortal el que quisiesen ordenar para obispo.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 5. 31 (1. 216)."
+        },
+        {
+          "texto_cita": "«Et si desacordaren porque la una partida dellos consienta en uno el la otra en otro, han de catar en qual consienten los mas.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 19 (1. 209)."
+        },
+        {
+          "texto_cita": "«E por ende queremos aqui mostrar, quando muchos judgadores oyeren algunt pleito en uno e desacordaren entre si en dar el juyzio, qual deve valer e qual non.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 436)."
+        },
+        {
+          "texto_cita": "«Eso mismo dezimos, si la letra de los testigos se desacuerda con otra que ellos mismos oviesen fecha en otras cartas.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 275)."
+        },
+        {
+          "texto_cita": "«Si los testigos acordaren en el fecho, maguer desacordasen en la ora, bien deve valer su testimonio.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 204)."
+        },
+        {
+          "texto_cita": "«Non deve valer su testimonio --- si alguno --- firmase quel feriera de piedra, e el otro de palo o de otras cosas semeiables en que se desacordasen.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 203)."
+        },
+        {
+          "texto_cita": "«E si desacordaren los testigos, diziendo el uno una razon e el otro otra ---»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 191)."
+        },
+        {
+          "texto_cita": "«Debria ser contado por perezoso et por desacordado.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 18 1 )."
+        },
+        {
+          "texto_cita": "«E si no lo sabiedes, engannastesvos, e si lo sabiedes, desacordastesvos.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 46)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo privativo des y acordar . Port., cat., prov. desacordar ; fr. désaccorder ; it. disaccordarsi. Se hallan ejemplos hasta el Siglo XVI de descordar .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estido un ratiello commo qui descordado, | Commo omne que duerme e despierta irado.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 210 (R. 57. 110 1 )."
+        },
+        {
+          "texto_cita": "«El quinto goso, afinando | Syn fin haber mis cuydados | Mas siempre multiplicando, | El quarto ya descordando | Mis sentidos trabaiados | En sus males contemplando, | Es ---»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 59."
+        },
+        {
+          "texto_cita": "«Al pollo de la cuerva descordada | Que grita por comer y que vocea, | Me digas, su ración ¿por quién le es dada?»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job , 39 (2. 294)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas: desacuerd - o , as , a , an ; desacuerd - e , es , e , en ; desacuerda tú . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

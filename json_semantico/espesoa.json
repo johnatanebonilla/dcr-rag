@@ -1,0 +1,1104 @@
+{
+  "lema": "ESPESO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que tiene mucha densidad o condensación.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se dice propiamente de gases y líquidos. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y era que por una boca de una cueva que se hazía en lo baxo de la roca salían muy grandes y espessas llamas de fuego, acompañadas de un espesso humo que parescía cosa infernal.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo (Cl. C. 195. 42)."
+            },
+            {
+              "texto_cita": "«Ya Eolo al mediodía | Soplando, espesas nubes nos envía.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, Recoge ya en el seno (4. 310). X"
+            },
+            {
+              "texto_cita": "«Se alborotó el cielo, turbó el ayre, y a la cerrada noche acabó de cerrar vn nublado muy espesso.»",
+              "autor": "L. Pinciano",
+              "referencia_obra": ", Philosophia (BALH. 21. 12)."
+            },
+            {
+              "texto_cita": "«Y cuando espesa niebla cubre el llano, | En descubierto hiere el sol la sierra.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 13 (R. 17. 53 2 )."
+            },
+            {
+              "texto_cita": "«Yo vi cómo los miembros | Tibios entre sus dientes palpitaban, | Con sangre espesa que manaba de ellos.»",
+              "autor": "",
+              "referencia_obra": "T. Iriarte, Eneida , 3 (3. 242). X"
+            },
+            {
+              "texto_cita": "«Iba a meter la pluma | En el tenebroso hueco | Donde una media de un cura, | Hecha pequeños fragmentos, | Nada en más negras y espesas | Aguas que las del Leteo.»",
+              "autor": "",
+              "referencia_obra": "Id. Poesías inéditas , p. 6. X"
+            },
+            {
+              "texto_cita": "«Una de esas brisas del Sur, siempre tan frescas y puras en las zonas meridionales de la América, purificaba la ciudad de los vapores húmedos y espesos de la noche.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 1 (p. 90). X"
+            },
+            {
+              "texto_cita": "«Entre la espesa espuma | Que alza la mar bravía | Un alma triste está...»",
+              "autor": "Ferrán",
+              "referencia_obra": ", Obras completas (Cl. C. 164. 117). X"
+            },
+            {
+              "texto_cita": "«Las nubes, las espesas y envidiosas nubes, agolpándose en el cielo, han oscurecido la luz del sol.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (Cl. C. 164. 136). X"
+            },
+            {
+              "texto_cita": "«Empuña la catalana , levanta la boca, le cae el tallo de vino espeso, y le entra la luz, el vino y la bala de Destralet en medio del galillo.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 79. X"
+            },
+            {
+              "texto_cita": "«¿Podrá pensar que en un momento se ha convertido en la luz esplendorosa, que nos rodea y admira, la espesa niebla que, según se dice, envolvió a nuestros mayores?»",
+              "autor": "G. Valencia",
+              "referencia_obra": ", Discursos , 2 (p. 104). X"
+            },
+            {
+              "texto_cita": "«A lo lejos, en el campo, ardían montones de hojas, y las humaredas espesas corrían rasando la tierra.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La busca , 3. 8 (p. 184). X"
+            },
+            {
+              "texto_cita": "«Estaban asfaltando un trozo de la Puerta del Sol; diez o doce hornillos puestos en hilera vomitaban por sus chimeneas un humo espeso y acre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 8 (p. 185). X"
+            },
+            {
+              "texto_cita": "«Platero va chorreando sangre, una sangre espesa y morada, de las picaduras de los tábanos.»",
+              "autor": "J. R. Jiménez",
+              "referencia_obra": ", Platero y yo , 21 (p. 41). X"
+            },
+            {
+              "texto_cita": "«Antes... Hace ya tantos años, que apenas lo recuerdo. Flotaba un humo ácido y espeso, que hacía daño en la garganta.»",
+              "autor": "Casona",
+              "referencia_obra": ", La dama del alba , p. 22. X"
+            },
+            {
+              "texto_cita": "«La noche nos invade, | Y el espeso rocío que se anuncia | Refrescará tus sienes destrozadas.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poética , 3 (p. 164). X"
+            },
+            {
+              "texto_cita": "«De un café sopla un aire espeso que ha atraído a dos mendigos arrebujados en sus harapos.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla , p. 57. X"
+            },
+            {
+              "texto_cita": "«Toca la sangre espesa y cae de rodillas entre los matorrales.»",
+              "autor": "Fuentes",
+              "referencia_obra": ", Obras completas (1. 787)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por , para indicar la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la atmósfera, espesa por el humo del tabaco, apenas se veían las caras congestionadas.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La busca , 3. 2 (p. 134)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En grado superlativo. met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Espesísimas nubes de saetas | Robustas manos sin cesar derraman.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . (2. 195)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Espeso nubarrón de papelillos | Nos atestiguan su doctrina y celo, | A pesar de ligeros pecadillos.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell . (Cl. C. 66. 279)."
+            },
+            {
+              "texto_cita": "«El pueblo, a quien habitualmente rodea espesa nube de ignorancia ---.»",
+              "autor": "Mor.",
+              "referencia_obra": "Com. disc. prel . (R. 2. 322)."
+            },
+            {
+              "texto_cita": "«Y de dolor espesa nube | Oscureció los ojos de los griegos.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 16 (2. 146)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se dice también, por extensión, de otras realidades (la luz, las tinieblas, etc.) que imaginamos como gases.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedan en muy oscuras y espesas tinieblas, y así tropiezan y caen en mil despeñaderos de pecados.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 5, § 1 (R. 6. 198 1 )."
+            },
+            {
+              "texto_cita": "«Hobo una eclipsi del sol a los 19 de julio [934] --- por espacio de una hora entera a las dos de la tarde, tan grande y cerrado, que se mudó el día en muy espesas tinieblas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 8. 5 (R. 30. 226 1 ). X"
+            },
+            {
+              "texto_cita": "«Yo codiciaba darte un hijo mío | Que siempre en el combate apareciese | Do es más espeso el polvo, do hay más brío.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes . (Cl. C. 95. 263). X"
+            },
+            {
+              "texto_cita": "«Y la sabana por todas partes desierta, inmensa y melancólica bajo la luz espesa con que se desangraba el sol, degollado por el horizonte, entre la bruma de la humareda.»",
+              "autor": "Gallegos",
+              "referencia_obra": ", Cantaclaro , p. 28. X"
+            },
+            {
+              "texto_cita": "«Y me pongo a pensar ya en este terreno de las meras divagaciones, si aquel hombre de hace veinte mil años que decoró la Cueva de Altamira no tendría una visión más penetrante que la nuestra, una visión nocturna como la de los gatos o los buhos, que pudiera perforar aquellas sombras espesas que hoy necesitan de la luz eléctrica para ser aclaradas.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla , p. 200."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Nótese la sinestesia del siguiente texto. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre los remos y salabres, una higuera que mana su olor caliente y espeso como una resina.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 64."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. Dicho de pensamientos o ideas, Denso, oscuro, confuso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algo espeso es el conceto. | —Guisóle un ingenio ralo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Desde Toledo a Madrid , 3. 5 (R. 5. 495 3 ). X"
+            },
+            {
+              "texto_cita": "«Las hay [cuestiones] espesas y de suyo obscuras y enmarañadas, al trasluz de las cuales nada se ve.»",
+              "autor": "Larra",
+              "referencia_obra": ", Art. polít. y soc . (Cl. C. 77. 132)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met. Dicho del sonido lingüístico, Fuerte, que requiere mucha tensión articulatoria. Hoy no se usa en este sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A algunos he oído pronunciar guera y tiera ---. —Ni lo hacen por primor ni por ignorancia, sino por impedimento de sus lenguas propias, que no pueden pronunciar aquel sonido espeso que hacen las dos rr juntas.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans. 66; Cl. C. 86. 85). X"
+            },
+            {
+              "texto_cita": "«Y generalmente pongo dos eses quando la pronunciación ha de ser espessa, y donde no lo es pongo una sola.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (Cl. C. 86. 86). X"
+            },
+            {
+              "texto_cita": "«Lo que importa es dezir que la cerilla [sic] se ha de poner quando, juntándose la c con a , con o y con u , el sonido ha de ser espesso, diziendo çapato , coraçón , açúcar .»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (Cl. C. 86. 94)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Particularmente, Duro, en estado sólido. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Puédese más decir sino que cuando | Despido el salso humor yo de mi boca, | Antes que llegue al suelo, ya en el aire | Va congelado en cuerpo espeso y duro?»",
+          "autor": "Aldana",
+          "referencia_obra": ", Poesías (Cl. C. 143. 53). X"
+        },
+        {
+          "texto_cita": "«Si el corazón es cuerpo espeso y cóncavo, cóncavo para que tenga la sangre y espeso para que guarde el principio del calor ---.»",
+          "autor": "Lope",
+          "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 237). X"
+        },
+        {
+          "texto_cita": "«¿Quién viene ahora entre la espesa escarcha?»",
+          "autor": "Ibarbourou",
+          "referencia_obra": ", Antología poética , p. 254."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Grueso, macizo, corpulento. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El pero y el suauíssimo camuesso, | El mançano, ora grande, ora pequeño, | Y el que el olio nos da su grano espeso.»",
+          "autor": "L. Pinciano",
+          "referencia_obra": ", Philosophia (BALH. 19. 258). X"
+        },
+        {
+          "texto_cita": "«Tu necio orgullo delira, | Don Juan: los hierros más gruesos | Y los muros más espesos | Se abren a mi paso: mira.»",
+          "autor": "Zorrilla",
+          "referencia_obra": ", Don Juan Tenorio (Cl. C. 201. 154). X"
+        },
+        {
+          "texto_cita": "«Espesa losa, techo | Pesado, lino | Áspero, canto duro | Sobre mi hijo.»",
+          "autor": "Mistral",
+          "referencia_obra": ", Antología , p. 112. X"
+        },
+        {
+          "texto_cita": "«Impresionan más las [murallas] de Sevilla y las de Granada, unidas, espesas, ásperas y escabrosas como una montaña, que las de Ávila, levantadas mucho tiempo después, en lisos y ordenados bloques de piedra.»",
+          "autor": "Caballero Calderón",
+          "referencia_obra": ", Ancha es Castilla , p. 250."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Sucio, desaseado y grasiento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sin duda este maese Pedro, su amo, debe de tener hecho pacto tácito o expreso con el demonio. —Si el patio es espeso y del demonio, dijo Sancho, sin duda debe de ser muy sucio patio.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 25 (R. 1. 458 2 ). X"
+        },
+        {
+          "texto_cita": "«Que me causa mucho enfado | Que diga un escuderón, | Muy espeso y muy barbón, | Que su honra le han quitado.»",
+          "autor": "",
+          "referencia_obra": "Salas Barbadillo, El caprichoso a su gusto (en Ramillete (Cl. Castal. 21. 59)). X"
+        },
+        {
+          "texto_cita": "«Lo primero que se nos ofreció a la vista al pie del mismo monte fue una gran laguna turbia y macilenta, cubierta de ovas verdinegras y ceñida de un légamo feamente espeso y asqueroso.»",
+          "autor": "Forner",
+          "referencia_obra": ", Exequias de la leng. castell . (Cl. C. 66. 87). X"
+        },
+        {
+          "texto_cita": "«Hermosa es Doña Ginesa | Y de virtud conocida. | —Yo no la he visto en mi vida, | Y jurara que es espesa.»",
+          "autor": "Hartz.",
+          "referencia_obra": "Fábulas , 154 (Cl. C. 179. 204)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En general se dice de las cosas que están muy juntas entre sí, o que tienen muy apretadas sus partes componentes.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entonces siempre, como sabes, anda | De estorninos volando a cada parte | De acá y allá la espesa y negra banda.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Obras , égl . 2 (Cl. C. 3. 39)."
+            },
+            {
+              "texto_cita": "«No porque tantos vengan, temor tiene | El gallardo español ni esto le espanta; | Antes al escuadrón que espeso viene | Por mejor recibirle se adelanta.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 2 (R. 17. 11 2 )."
+            },
+            {
+              "texto_cita": "«Salta Aquilón --- | Envuelto en raras gotas de agua gruesas | Que luego descargaron más espesas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4 (R. 17. 20 1 )."
+            },
+            {
+              "texto_cita": "«Pero sin miedo el bárbaro sangriento | Por las espesas armas discurría.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 8 (R. 17. 33 1 )."
+            },
+            {
+              "texto_cita": "«Cuando [el cabello] es largo, espeso y rubio, es lazo y gran red para los que se ceban de semejantes cosas.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares , 4. 1 (4. 62)."
+            },
+            {
+              "texto_cita": "«Será menester que te raspes las barbas a menudo, que, según las tienes de espesas, aborrascadas y mal puestas, si no te las rapas a navaja cada dos días por lo menos, a tiro de escopeta se echará de ver lo que eres.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 21 (R. 1. 302 2 )."
+            },
+            {
+              "texto_cita": "«Salieron por ella [por la boca de la cueva] una infinidad de grandísimos cuervos y grajos, tan espesos y con tanta priesa, que dieron con D. Quijote en el suelo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 22 (R. 1. 451 1 ). +"
+            },
+            {
+              "texto_cita": "«Tenía los cabellos blancos y largos como sacerdote, la barba, espesa y angosta hacia la punta, y su ropa ---.»",
+              "autor": "F. de Mena",
+              "referencia_obra": ", Teágenes y Cariclea , 2 (p. 85)."
+            },
+            {
+              "texto_cita": "«Se llamó Cabeza de esposa, por causa de los cabellos espesos, blandos y rubios que tenía.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 9. 1 (R. 30. 245 2 ). X"
+            },
+            {
+              "texto_cita": "«Habiendo, pues, las dos llorado amargamente un rato, diciendo al viejo que eran sus deudos, vieron que por la espesa multitud del vulgo rompía un hombre, que más con los pechos del caballo en que venía que con las palabras, dividía la gente.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 425). X"
+            },
+            {
+              "texto_cita": "«Quien tu espesa celosía | Tan atento brujulea, | Quien ve que de tu balcón | Cuando él viene te retiras ---.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La verdad sospechosa , 3. 1 (R. 20. 334 1 )."
+            },
+            {
+              "texto_cita": "«Blanca, rubia, colorada, boca pequeña, dientes menudos y espesos, buena nariz, ojos rasgados y verdes, alta de cuerpo ---.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón , 20 (R. 23. 519 1 )."
+            },
+            {
+              "texto_cita": "«Mil espesos, | Mil acerados dardos aquí mismo | Me traspasaron.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 3 (3. 178). X"
+            },
+            {
+              "texto_cita": "«Dura incierto el combate: altivo un moro | De entre la espesa, envuelta muchedumbre | Aguija su bridón, la lanza agita, | Y en nosotros audaz se precipita.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poes . (Cl. C. 47. 66). X"
+            },
+            {
+              "texto_cita": "«Silba el huracán, espesa | Lluvia el horizonte borra, | Y lo confunde y lo mezcla.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Romances (Cl. C. 9. 49). X"
+            },
+            {
+              "texto_cita": "«Deshace apretadas filas, | Espesas hileras rompe.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (Cl. C. 9. 237)."
+            },
+            {
+              "texto_cita": "«Se defendían como podían de las piedras, flechas y armas arrojadizas que a manera de espeso granizo venían disparados contra ellos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 346 1 ). X"
+            },
+            {
+              "texto_cita": "«Y sus manos infantiles | Enrizaban mi cabello, | Y entre espesa lluvia, afuera | Con furor zumbaba el viento.»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 115. X"
+            },
+            {
+              "texto_cita": "«Sus ojos se escondían bajo las salientes, pobladas y canas cejas que los cubrían, y uno de ellos especialmente, por defecto orgánico, quedaba más oculto que el otro bajo su espeso pabellón.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 3 (p. 251). X"
+            },
+            {
+              "texto_cita": "«El anciano de blanca, rizosa y muy poblada cabeza, altísima frente, alongada faz, a la cual sirven de adorno unas patillas tan blancas y espesas como el cabello ---.»",
+              "autor": "Pereda",
+              "referencia_obra": ", Pedro Sánchez , 16 (Cl. C. 144. 171). X"
+            },
+            {
+              "texto_cita": "«Camila estaba en su cuarto acostada en un sofá, envuelta en espeso mantón, los puños cerrados, apretando fuertemente un pañuelo contra los ojos.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 238). X"
+            },
+            {
+              "texto_cita": "«El aire acaricia y besa, | Como un amante lo haría, | La orgullosa bizarría | De la cabellera espesa.»",
+              "autor": "Darío",
+              "referencia_obra": ", Poesía , p. 195. X"
+            },
+            {
+              "texto_cita": "«Detentadores de una belleza perdida, perdida para siempre, negada por cien velos espesos a los arrobos de la contemplación.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo , p. 140. X"
+            },
+            {
+              "texto_cita": "«Era un tipo aristocrático el del estudiante, de pelo rubio, espeso y peinado para arriba.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La busca , 1. 4 (p. 49). X"
+            },
+            {
+              "texto_cita": "«En él [el lienzo], a la luz de un cirio que ilumina la sombría capilla, se distinguen unos ojos hundidos, espirituales, dolorosos, y una frente ancha, pensativa, y unos labios finos, sensuales, y una barba rubia, espesa, acabada en una punta aguda.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote , 9 (p. 367). X"
+            },
+            {
+              "texto_cita": "«Fernando no juzgó útil seguir interrogando a aquel vecino, cuyo aliento olía tan mal y cuyas explicaciones eran confusas, pero continuó observando la espesa muchedumbre que se agitaba y gritaba.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas , 3 (p. 43). X"
+            },
+            {
+              "texto_cita": "«Invasión | Del sueño de manto espeso y de sandalia veloz.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poética , 1 (p. 71). X"
+            },
+            {
+              "texto_cita": "«Algunos apenas pueden columbrarse tras la espesa cortina de los árboles que les dan sombra, como Chaumont.»",
+              "autor": "Calderón",
+              "referencia_obra": ", Ancha es Castilla , p. 32."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para indicar las partes o elementos que se hallan juntos o apretados.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hicieron una ala delgada en medio; a los costados espesa de gente, como es costumbre ordenar el escuadrón.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 1 (R. 21. 79 2 )."
+            },
+            {
+              "texto_cita": "«Ya habemos visto algún feroz gigante --- | De barba espeso, bravo de semblante.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél . 6 ( Obr. suelt . 2. 81)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En grado superlativo absoluto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En fin, acomodó una pieza pequeña para iglesia, con una rejita de madera pequeña doblada, y bien espesa y cerrada, por donde oyesen las monjas misa.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 8 ( Míst . 1. 134)."
+            },
+            {
+              "texto_cita": "«Mas eran agujeros y ventanas, y aun éstas se cubrían con celosías muy espesas y apretadas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 40 (R. 1. 565 2 ). X"
+            },
+            {
+              "texto_cita": "«Hacíase ojos Andrenio mirando hacia Palacio por ver si podía brujulear alguna realidad, mas en vano, que estaban las ventanas unas con celosías muy espesas y otras con vidrieras.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón , 1. 8 (Cl. C. 165. 126)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En superlativo relativo. Sustantivado mediante el artículo neutro. Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquel valiente y estremado príncipe de Francia, codicioso de ganar honrra en el principio de su cavallería, no curando de guardar a nadie se mete por lo más espeso de la gente, y a unos hendía las cabeças y a otros cortava braços.»",
+              "autor": "",
+              "referencia_obra": "Ortúñez de Calahorra, Espejo (Cl. C. 193. 209)."
+            },
+            {
+              "texto_cita": "«En esto el rey don Alonso, movido juntamente del peligro y de la afrenta, se quería meter por lo más espeso de los enemigos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 11. 24 (R. 30. 338 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "En grado comparativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo, como por mis pecados las tengo [las barbas] más espesas que escobilla de barbero, estuve después más de tres días sin poder acabar de agotar la porquería que en ellas me dexó perfectamente.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij . 5. 2 (Cl. C. 174. 49). +"
+            },
+            {
+              "texto_cita": "«Paréme a descansar un ratillo, antes que pasase el río, donde vi tanta abundancia de conejos, que estaban más espesos a la orilla del río que liendres en jubón de arriero.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 15 (Cl. C. 43. 209)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se dice particularmente de árboles o plantas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando los dos esto vieron comenzaron de fuir contra un río por una jara espesa.»",
+              "autor": "Am. de Gaula",
+              "referencia_obra": "(Cl. Ebro, 62. 33). X"
+            },
+            {
+              "texto_cita": "«Se asentaron a la sombra de un espesso mirtho.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , p. 76. X"
+            },
+            {
+              "texto_cita": "«Por entre una i otra espessa rama, | Que las hojas derrama, | Un feroz javalí s’ a recogido.»",
+              "autor": "Herr.",
+              "referencia_obra": "Poesías , son. 62 (Cl. C. 26. 192)."
+            },
+            {
+              "texto_cita": "«El Líbano, lleno de espesos y deleitosos árboles.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares , 5. 16 (4. 95). X"
+            },
+            {
+              "texto_cita": "«Los cuales salían a tener la siesta a la fuente de las Pizarras, a la sombra que en aquel lugar hacían las entricadas ramas de los espesos y verdes árboles.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. (Cl. C. 155. 30)."
+            },
+            {
+              "texto_cita": "«Oyeron un recio estruendo y un son de esquila, que por entre unas zarzas y espesas matas que allí junto estaban sonaba.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 50 (R. 1. 395 2 )."
+            },
+            {
+              "texto_cita": "«Es [la boca de la cueva] espaciosa y ancha, pero llena de cambroneras y cabrahigos, de zarzas y malezas tan espesas y intricadas, que de todo en todo la ciegan y encubren.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 22 (R. 1. 450 2 )."
+            },
+            {
+              "texto_cita": "«Le tomó la noche entre unas espesas encinas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 60 (R. 1. 530 1 ). X"
+            },
+            {
+              "texto_cita": "«Y todos caían, sirviéndonos de saetera y trinchera, así los maderos que habíamos puesto, como los árboles espesos que estaban a la entrada.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 22 (Cl. C. 51. 283). X"
+            },
+            {
+              "texto_cita": "«Por una estrecha senda entre espesos y verdes árboles caminaba el Peregrino a la montaña que engasta el cielo.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 145). X"
+            },
+            {
+              "texto_cita": "«Y el ver de lo alto despeñarse un hombre, | Y verlo dar sobre una espesa mata, | Fue todo un punto.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta (Cl. C. 183. 177). X"
+            },
+            {
+              "texto_cita": "«En una oscura gruta, | Entre espesas encinas, | Atropelladamente | Entró la fugitiva.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . (Cl. Castal. 7. 102). X"
+            },
+            {
+              "texto_cita": "«Por el nudoso tronco | De cierta encina vieja | Sube para ocultarse | En las ramas espesas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (Cl. Castal. 7. 189). X"
+            },
+            {
+              "texto_cita": "«Regalábase el gusto | Bajo un parral espeso, | Con el fruto pendiente | De los verdes sarmientos.»",
+              "autor": "",
+              "referencia_obra": "T. Iriarte, Poesías , (Cl. C. 136. 111). X"
+            },
+            {
+              "texto_cita": "«Era aquel recinto una ancha y capacísima plaza, ceñida de muchos, variados y espesos árboles, grandemente frondosos.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell . (Cl. C. 66. 139). X"
+            },
+            {
+              "texto_cita": "«Argentadas chispas brillan | Entre las espesas ramas, | Y en el seno de las flores | Tal vez aduermen las auras.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Estud. de Salam . (Cl. C. 47. 271). X"
+            },
+            {
+              "texto_cita": "«Sí, algo sobrenatural | Vi en aquella doña Inés | Tan vaporosa, a través | Aun de esa enramada espesa.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Don Juan Tenorio (Cl. C. 201. 137). X"
+            },
+            {
+              "texto_cita": "«Arroja la careta | Trágica con que pasas por la vida, | Y que tu rostro se descubra vivo | Y fresco como el rostro de la fuente | En su espesa guirnalda de verdura.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poética , 2 (p. 116). X"
+            },
+            {
+              "texto_cita": "«Espesas higueras, | Que dejan filtrar el humo de los fogones, | Te rodean meciendo | Sus follajes oscuros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2 (p. 142)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En superlativo absoluto. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por la mañana tomé el camino por entre aquellas asperezas de riscos y árboles muy espesos.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 20 (Cl. C. 43. 243). +"
+            },
+            {
+              "texto_cita": "«El camino [que va a Ronda] es estrecho y pedregoso, lleno de raíces de los árboles, muchos y muy espesos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 20 (Cl. C. 43. 245)."
+            },
+            {
+              "texto_cita": "«Una vid tiene a un olmo muy espeso | No sé si diga que abrazado o preso.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 4, canc. Pues quita el año (R. 69. 63 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En superlativo relativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se defendía con las ramas del árbol encubriéndose entre las más espesas.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 330)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "met. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No son zarzas espesas y espinas lastimosas las personas y casas de los malos ricos ---?»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 46 (p. 705)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Dicho de un lugar, Que tiene vegetación muy apretada y junta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La sombra se veía | Venir corriendo apriesa | Ya por la falda espesa | Del altísimo monte.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 1 (R. 32. 6 1 ). X"
+            },
+            {
+              "texto_cita": "«Pero de aí a un poco, no sin lágrimas acompañadas de tristes sospiros, sacó una çampoña que en el çurrón traía y la començó a tocar tan dulcemente que el valle, el monte, el río, las aves enamoradas y aun las fieras de aquel espeso bosque quedaron suspensas.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , p. 29. X"
+            },
+            {
+              "texto_cita": "«Pues cuántos días la hallé atendiéndome | En esta clara fuente e yo buscándola | Por aquel soto espeso y deshaziéndome.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 38. X"
+            },
+            {
+              "texto_cita": "«Con muy gran contentamiento caminaban las hermosas nimphas con su compañía por medio de un espesso bosque.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 143. X"
+            },
+            {
+              "texto_cita": "«Qual fuego abr[ a ]sa selvas, y qual llama, | Que en las espesas cumbres se derrama, | Tal en tu ira y tempestad seguiste | Y su faz de innominia confundiste.»",
+              "autor": "Herr.",
+              "referencia_obra": "Poesías , canc . 1 (Cl. C. 26. 39)."
+            },
+            {
+              "texto_cita": "«Ya voy por la montaña espesa, oscura.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl . 10 (4. 437). X"
+            },
+            {
+              "texto_cita": "«Por cuadros y países de Flandes, los que nos da la naturaleza en esos levantados riscos y nevadas peñas, tendidos prados y espesos bosques que a cada paso a los ojos se nos muestran.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . (Cl. C. 27. 69). X"
+            },
+            {
+              "texto_cita": "«Y abrásame cual suele a espeso monte | Un fogoso y horrendo y fiero rayo.»",
+              "autor": "Rioja",
+              "referencia_obra": ", Versos (ed. 1975, p. 292)."
+            },
+            {
+              "texto_cita": "«Por algunas partes [es aquella dehesa] tan espesa de árboles y matas que se pierden los animales por no acertar a sus habitaciones.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 24 (R. 18. 476 2 )."
+            },
+            {
+              "texto_cita": "«Perdido se halló en un bosque espeso.»",
+              "autor": "Valbuena",
+              "referencia_obra": ", Bern . 4 (R. 17. 180 2 ). X"
+            },
+            {
+              "texto_cita": "«Verás tanto paje hermoso | --- | Ir como rayos del sol | Por esa arboleda espesa.»",
+              "autor": "Lope",
+              "referencia_obra": ", El villano en su rincón , 1 (Cl. C. 157. 20). X"
+            },
+            {
+              "texto_cita": "«Salir suele un jabalí | De entre esos montes espesos, | Cuyos dichosos sucesos | Tal vez celebrar les vi.»",
+              "autor": "",
+              "referencia_obra": "Id. El mejor alcalde , el rey , 1 (Cl. C. 39. 191). X"
+            },
+            {
+              "texto_cita": "«Con igual desvelo | Se entrega el cazador al bosque espeso.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Rimas (Cl. C. 182. 78)."
+            },
+            {
+              "texto_cita": "«En medio la arrojó [el asta] del campo espeso. | Causó en el campo del hormiga asombro.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 10 (R. 17. 612 1 ). X"
+            },
+            {
+              "texto_cita": "«Nos metimos las manos en los bolsillos, sin querer, y la frente sintió el fino aleteo de la sombra fresca, igual que cuando se entra en un pinar espeso.»",
+              "autor": "J. R. Jiménez",
+              "referencia_obra": ", Platero y yo , 23 (p. 44). X"
+            },
+            {
+              "texto_cita": "«Había ido mermando rápidamente, hasta reducirse a un espeso carrascal y a estrecha lonja de prado.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro , 1 (p. 35)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado superlativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues ¿qué diré de las praderías tan frescas, de las arboledas muy espesas y de las huertas y jardines floridos?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 1. 5, § 1 (R. 6. 611 1 ). X"
+            },
+            {
+              "texto_cita": "«Mozo, | Váyase usted a trabajar de lleno, | En una fragua negra y encendida | O en un bosque espesísimo y sereno.»",
+              "autor": "Silva",
+              "referencia_obra": ", El libro de versos , p. 100. X"
+            },
+            {
+              "texto_cita": "«Mesopotamia hizo mención de los bosques espesísimos donde Alejandro cortó las tablas de sus naves.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo , p. 37."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sustantivado mediante el artículo neutro, designa el lugar por donde la vegetación es más apretada e intensa. Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquella noche nos entramos por lo espeso desta montaña.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 28 (R. 1. 328 2 )."
+            },
+            {
+              "texto_cita": "«Y así recatado, huyo | Secretamente a lo espeso | De un montecillo, sitiado | Del mar.»",
+              "autor": "Cald.",
+              "referencia_obra": "Argenis y Poliarco , 1. 6 (R. 7. 439 2 ). X"
+            },
+            {
+              "texto_cita": "«A medida que se internaban en lo espeso del soto, Idomeneo sentía cómo iba estrechándose el alma.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo , p. 191. — En superlativo relativo. Con de . X"
+            },
+            {
+              "texto_cita": "«Ya que estaban | Dentro del bosque, allí no pude verla; | Mas tanto fui siguiendo sus pisadas, | Que en lo más solo me hallé, y espeso.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta (Cl. C. 183. 151)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Frecuente, continuado, numeroso (raro).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las tasas anduvieron tan espesas que los franceses estuvieron tan regocijados en la cena y tan sin cuidado de lo pasado como si hobieran habido la victoria.»",
+              "autor": "Crón. Gran Capitán",
+              "referencia_obra": ", 5. 2 (NBAE. 10. 347 1 ). +"
+            },
+            {
+              "texto_cita": "«Entre ninguna nasçión vi tantas ni tan espesas vezes mudar los trajes como entre nuestra nasçión.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag . 1. 14 (1. 175). X"
+            },
+            {
+              "texto_cita": "«Pero las piedras eran tantas y tan espessas, que se lo defendían, de manera que, en cuanto las piedras les duraron, los salvages lo passavan mal.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , p. 100."
+            },
+            {
+              "texto_cita": "«Acudieron a la orilla del mar arrojando piedras y peñascos sobre nosotros, tan espesos que, si el barco no fuera tirado y ayudado del navío, nos hundieran mil veces.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 23 (R. 18. 476 1 ). X"
+            },
+            {
+              "texto_cita": "«Si los relámpagos espesos no nos alumbraran con su luz temerosa, perdiéramos diversas vezes el camino.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Soldado Píndaro (Cl. C. 202. 158)."
+            },
+            {
+              "texto_cita": "«Llamó a sus tercios de ángeles que yacen | Rendidos al terror, y agonizantes | Sobre la herviente onda, tan espesos | Como las secas hojas que en otoño | Cubren de Valumbrosa la corriente ---. | Tan espesos cubrían los rebeldes | Espíritus el lago.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd . (R. 46. 29 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado superlativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y el príncipe, que, con el dolor de la llevada de la infanta, el peligro de la batalla no temía, con grande furia y corage començó de herir al rey, dándole muy grandes y espessos golpes.»",
+              "autor": "",
+              "referencia_obra": "Ortúñez de Calahorra, Espejo (Cl. C. 196. 246)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "adv . Muy frecuentemente (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Como usasen espeso andar contino, | Un templo de perpetua antigüedad | Descubrieron.»",
+          "autor": "Mend.",
+          "referencia_obra": "Fáb . (R. 32. 72 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la variante espesso .) Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Espessa cosa assí: frequens , tis; creber , a , um .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab . X"
+        },
+        {
+          "texto_cita": "«Espessas vezes: crebro; frequenter; saepe .»",
+          "autor": "",
+          "referencia_obra": "Id. ib . X"
+        },
+        {
+          "texto_cita": "«Espessa cosa en uno: condensus , a , um .»",
+          "autor": "",
+          "referencia_obra": "Id. ib . X"
+        },
+        {
+          "texto_cita": "«Espessa cosa: spissus , a , um; densus , a , um .»",
+          "autor": "",
+          "referencia_obra": "Id. ib ."
+        },
+        {
+          "texto_cita": "«Don Alfonso, obispo de Ávila, fue hombre de mediana estatura, el cuerpo espeso, bien proporcionado en la compostura de sus miembros.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 24 (136; Cl. C. 49. 134)."
+        },
+        {
+          "texto_cita": "«Las esquinas e piedras venían sobre él tantas e tan espesas, que parescía que llovía.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , p. 179."
+        },
+        {
+          "texto_cita": "«Fue de mediana altura, espeso de cuerpo.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 30 (R. 68. 711 1 )."
+        },
+        {
+          "texto_cita": "«Fue hombre de mediana altura, blanco e rojo, espeso en el cuerpo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 6 (R. 68. 702 2 ; Cl. C. 61. 35)."
+        },
+        {
+          "texto_cita": "«Molinos espessos | De moler civera.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 535."
+        },
+        {
+          "texto_cita": "«Sy [es] espeso, más amarga | El xarope que non rralo.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 416."
+        },
+        {
+          "texto_cita": "«Es la tierra della [desta isla] cabe la mar muy espesa de montes.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 111."
+        },
+        {
+          "texto_cita": "«Este es un monte de palmas que dura ocho leguas, tan espeso como un pinar espeso.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 69. X"
+        },
+        {
+          "texto_cita": "«Delibraron su pasaje | Por este espeso salvaje | Con todos sus servidores.»",
+          "autor": "Santill.",
+          "referencia_obra": "Canciones y decires (Cl. C. 18. 46). +"
+        },
+        {
+          "texto_cita": "«Subía [el humo] muy espeso por la abertura fecha.»",
+          "autor": "Villena",
+          "referencia_obra": ", Doze trabajos , 10 (p. 100). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«E la tierra [de las Encartaciones] es mucho espesa de árboles.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I , 6. 14 (R. 66. 466 1 )."
+        },
+        {
+          "texto_cita": "«E la pelea fue muy fuerte et muy espesa entre ellos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 277 (R. 66. 351 1 )."
+        },
+        {
+          "texto_cita": "«En vn balle fondo, escuro, apartado, | Espeso de xaras, sonné que andaua.»",
+          "autor": "",
+          "referencia_obra": "Revel. hermit . 2 (R. 57. 387 1 )."
+        },
+        {
+          "texto_cita": "«E fuese meter en la más espesa xara que falló.»",
+          "autor": "Plácidas",
+          "referencia_obra": "(125)."
+        },
+        {
+          "texto_cita": "«Commo la nieue espesa | Moros yuan a la mar.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1483 (R. 57. 522 1 )."
+        },
+        {
+          "texto_cita": "«Tomen de las raíces del lilio, et muélanlas, et mézclenlas con sebo de lobo fasta que sea tan espeso como miel.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2. 2. 46 ( Bibl. venat. 1. 220)."
+        },
+        {
+          "texto_cita": "«Et si --- vieren que el monte es aguisado, et espeso para yacer, tengan que es hí.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 28 ( Bibl. venat. 1. 89). X"
+        },
+        {
+          "texto_cita": "«Espinacas el miércoles conbrás non espesas.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1166 (Cl. C. 17. 108)."
+        },
+        {
+          "texto_cita": "«El coraçón es cosa sotil e cosa delgada, y el cuerpo es cosa espessa, e la cosa espessa guarda la cosa sotil así commo guarda la candela a la lumbre.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 60)."
+        },
+        {
+          "texto_cita": "«¿Non vedes que los árbores verdes e fermosos, que fazen muchas fojas e espesas e llevan mucho fruyto?»",
+          "autor": "",
+          "referencia_obra": "Ib . (Knust, 42). — Siglo XIII : X"
+        },
+        {
+          "texto_cita": "«E los arroyos de la sangre e los lagunares dellos eran tan grandes, que semejava que andavan en lagos espesos de gran agua.»",
+          "autor": "",
+          "referencia_obra": "Conq. Ultr. (ICC. 51. 218)."
+        },
+        {
+          "texto_cita": "«Muchos enjertos, cortando lo superfluo, fácense más espesos.»",
+          "autor": "",
+          "referencia_obra": "Cast. e docum . 37 (R. 51. 160 1 )."
+        },
+        {
+          "texto_cita": "«E vio cómo estaua [Zamora] toda en peña tajada e fuertes muros e las torres muchas e espesas.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 4. 2 (290 1 )."
+        },
+        {
+          "texto_cita": "«E vinieron [los moros] tan espessos como la lluvia quando cae.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 21 (261 1 )."
+        },
+        {
+          "texto_cita": "«Se metieron en vn monte muy espesso que ý estaua çerca.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 19 (249 2 )."
+        },
+        {
+          "texto_cita": "«E el conde non pudo yr de cauallo por la montaña que era muy espessa.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 18 (241 1 )."
+        },
+        {
+          "texto_cita": "«E fizo sobre ella tapias a manera de muro e torrezillas espesas.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 45 (20 1 ; Cl. Ebro, 46. 69)."
+        },
+        {
+          "texto_cita": "«En un monte había un árbol muy alto e muy grueso, et era muy espeso.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 47 1 )."
+        },
+        {
+          "texto_cita": "«Et había ý un árbol muy grande et de muchas ramas et espesas.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 41 2 ). X"
+        },
+        {
+          "texto_cita": "«Quando se fue la noche el día quier parescer; | Enant que ningún omne los podies[ s ]e v[ e ]er | Vyeron vn monte espe[ s ]o, fueron se ý meter.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz . 638 (Cl. C. 128. 190)."
+        },
+        {
+          "texto_cita": "«Buscaron por los muertos que espesos ý yaçían.»",
+          "autor": "",
+          "referencia_obra": "Ib . 558 (R. 57. 406 1 ; Cl. C. 128. 164)."
+        },
+        {
+          "texto_cita": "«Las nuues de los dardos tan espessas corrien.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1845 (R. 57. 204 1 )."
+        },
+        {
+          "texto_cita": "«Las torres ha espessas, segundo aprisiemos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1363 (R. 57. 189 2 )."
+        },
+        {
+          "texto_cita": "«El mont era espeso, el logar pavoroso.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill . 42 (R. 57. 66 2 ). — Siglo XII : X"
+        },
+        {
+          "texto_cita": "«Non acuerdan en conssejo, ca los averes grandes son: | Espesos los han ifantes de Carrión.»",
+          "autor": "Cid",
+          "referencia_obra": ", 5219 (Cl. C. 24. 272)."
+        },
+        {
+          "texto_cita": "«En vn monte espesso Félez Munoz se metió.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2769 (R. 57. 29 2 ; Cl. C. 24. 252)."
+        },
+        {
+          "texto_cita": "«Miran la huerta, espessa es e grand.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1615 (R. 57. 19 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. spissus ‘espeso, compacto’. Fr. épais , it. spesso , prov. y cat. espes , port. espesso , gall. espeso . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,79 @@
+{
+  "lema": "ADICTO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dedicado ó muy inclinado á servir, complacer ó favorecer.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El papa Martino IV, tan adicto á los franceses como contrario les había sido su antecesor Nicolao, descomulgó al rey de Aragón.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 220 1 )."
+            },
+            {
+              "texto_cita": "«Pedro de Luján, camarero del rey y muy adicto al condestable --- le dijo con semblante bien afligido: Decid al maestre mi señor que plegue á Dios que mañana amanezcamos con nuestras cabezas.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Álv. de Luna (R. 19. 425 2 )."
+            },
+            {
+              "texto_cita": "«Antes parecía [Napoleón] adicto al partido del príncipe de Asturias: mostróse después, protector del Príncipe de la Paz.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. inéd. p. 171."
+            },
+            {
+              "texto_cita": "«Aun los poco adictos á la alianza francesa, que eran, y aun puedo decir, éramos á la sazón muy pocos, aprobamos una guerra venida á ser inevitable.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p . 27."
+            },
+            {
+              "texto_cita": "«Fue llamado á presidir la Junta el conde de Floridablanca, no con gran satisfacción de los hombres adictos á doctrinas de las hoy llamadas liberales.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 108."
+            },
+            {
+              "texto_cita": "«Los comuneros que acababan de nacer no eran muy adictos á los ministros caídos.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. p . 382 ."
+            },
+            {
+              "texto_cita": "«La embajada francesa en Londres estaba compuesta casi toda de gente muy adicta al derribado gobierno de Carlos X.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 495."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal vez se ponderó la soledad de las calles [en el recibimiento de José Napoleón en Madrid], porque á falta de adictos, hubo de haber curiosos.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 91."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Agregado. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. addictus , part. pasivo de addicere, adjudicar, como el deudor insolvente en calidad de esclavo á su acreedor, y de ahí la idea de Dado al servicio. En lat. se conservó generalmente en addictus la idea de inferioridad ó condescendencia poco decorosa, que no se nota ya en castellano. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

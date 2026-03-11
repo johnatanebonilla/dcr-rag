@@ -1,0 +1,285 @@
+{
+  "lema": "COJEAR (COXQUEAR).",
+  "categoria_gramatical": "",
+  "introduccion": "COJEAR (COXQUEAR). (La última forma, hoy olvidada, se halla todavía en los escritores del siglo XVI y de principios del siguiente.)",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Andar inclinando el cuerpo más a un lado que á otro, por no poder sentar igualmente ambos pies ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es como si --- los cojos se riesen de los que andan derechos, porque no andan cojeando como ellos.»",
+              "autor": "Estella",
+              "referencia_obra": ", Van . del mundo, 1. 11 ( Míst. 4. 24)."
+            },
+            {
+              "texto_cita": "«La persona de Epicteto era defectuosa: cojeaba impedido el paso de una destilación á una pierna.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de Epict. (R. 69. 388)."
+            },
+            {
+              "texto_cita": "«Entró por el monasterio un ferocísimo león cojeando, levantada una mano en alto, sin poderla asentar, dando muestra dónde traía el mal.»",
+              "autor": "",
+              "referencia_obra": "Sig . Vida de S. Jer. 5. 8 (474)."
+            },
+            {
+              "texto_cita": "«Miserables, los gestos afligidos, | Algunos de cansados cojeando, | Mostrándose marchitos y encogidos.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 2 (R. 17. 11 1 ). —"
+            },
+            {
+              "texto_cita": "«Quien en mal anda, en mal parará: de dos pies, aunque el uno esté sano, si el otro está cojo, tal vez cojea.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 4. 5 (R. 1. 666 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para señalar el pie que ocasiona la cojera.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cojear del pie derecho.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Sería como otro espiritual Jacob, á quien se dio por bendición que cojease del un pie, y del otro quedase sano.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 2 (R. 11. 293 1 ). Item, Símb . 3. 27, § 5 (R. 6. 448 2 )."
+            },
+            {
+              "texto_cita": "«Cojeaba un poco de la una pierna, pero sin fealdad.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de S. Ign. 4. 18 (R. 60. 118 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Represéntanse los defectos ó debilidades que deja ver una persona ó cosa, bajo la imagen de un pie deforme ó baldado que no permite andar bien ( intrans. ) . Con de .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No es más menester: bien sé de qué pie cojeas: yo te sanaré.»",
+          "autor": "Celest.",
+          "referencia_obra": "1 (R. 3. 6 2 )."
+        },
+        {
+          "texto_cita": "«Sabrosísimo pan está, dijo, por Dios. Y como le sentí de qué pie cojeaba, dime priesa, porque le vi en disposición, si acababa antes que yo, se comediría á ayudarme á lo que me quedase.»",
+          "autor": "Mend.",
+          "referencia_obra": "Lazarill . 3 (R. 3. 84 2 )."
+        },
+        {
+          "texto_cita": "«Llévenme á mi lecho, y llámese, si fuere posible, á la sabia Urganda que cure y cate mis feridas. Mirá en hora mala, dijo á este punto el ama, si me decía á mí bien mi corazón, del pie que cojeaba mi señor.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 5 (R. 1. 265 1 )."
+        },
+        {
+          "texto_cita": "«Allá os avenid con sus verdades ó mentiras, y buen provecho os hagan, y quiera Dios que no cojeéis del pie que cojea vuestro huésped D. Quijote.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 32 (R. 1. 340 1 )."
+        },
+        {
+          "texto_cita": "«¿Y es enamorado por dicha? Sí dijo el del Bosque, de una tal Casildea de Vandalia, la más cruda y la más asada señora que en todo el orbe puede hallarse; pero no cojea del pie de la crudeza, que otros mayores embustes le gruñen en las entrañas, y ello dirá antes de muchas horas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 13 (R. 1. 429 2 )."
+        },
+        {
+          "texto_cita": "«Por haberlos criado y conocer de qué pie cojean, ó por el entrañable amor que les tienen, son [los padres] algo profetas de los bienes ó males de los hijos.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud . 1. 15 (R. 18. 410 2 )."
+        },
+        {
+          "texto_cita": "«Satírico, Sancho, eres. | — ¿Pues cuándo yo ¡mal pecado! | De ese pie no he cojeado?»",
+          "autor": "",
+          "referencia_obra": "Álarcón, El semejante á si mismo, 3. 6 (R. 20. 76 3 ). —"
+        },
+        {
+          "texto_cita": "«Llega el punto en que se vea | Si agradó nuestra fatiga, | Y falle el concurso, y diga | De qué pie el drama cojea.»",
+          "autor": "Hartz.",
+          "referencia_obra": "La coja y el encogido , 3 . 9 (308). —"
+        },
+        {
+          "texto_cita": "«Alcanza de él, como otro Jacob, que la bendiga con muchedumbre de gracias y entrañable suavidad, y queda herida en el muslo; que quiere decir en el sensual apetito, mortificándosele de arte que de allí adelante coxquea de él.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Audi, 9 ( Míst. 3. 143)."
+        },
+        {
+          "texto_cita": "«Malo está de ver de qué pie coxqueas.»",
+          "autor": "Timoneda",
+          "referencia_obra": ", Menemnos , 2 (R. 2. 294)."
+        },
+        {
+          "texto_cita": "«Debe de pensar el buen hombre sin duda que nos dormimos aquí en las pajas; pues ténganos el pie al herrar, y verá del que coxqueamos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 4 (R. 1. 412 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Perfeccionada la metáfora, Faltar en ocasiones á la rectitud, flaquear ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los descuidos de las señoras quitan la vergüenza á las criadas, las cuales cuando ven á las amas echar traspiés, no se les da nada á ellas de cojear, ni de que lo sepan.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 34 (R. 1. 348 2 )."
+            },
+            {
+              "texto_cita": "«Y el Amor, como no ve, | Va tras ella [la Voluntad] en compañía | Zanqueando, | En sus piernas tropezando, | Y la Razón desdichada | A veces de importunada | Va con ellos cojeando | Con temor.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1, Serm. de amores (R. 32. 145 2 ). —"
+            },
+            {
+              "texto_cita": "«¡Cuán alegre y cuán risueño [el amor] | Cuando todo va de un paño | De ambas partes! | ¡Cuán sin cautelas ni artes | Van los dos en sus peleas! [su pelea] | Mas cuando el uno coxquea | Son aciagos los martes | Y los jueves.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 32. 149 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para señalar como campo donde se anda mal, aquello en que se deja ver alguna debilidad ó falta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desmengua y apoca el respeto que se debe al príncipe el verle cojear en la sangre.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 2. 4 (R. 1. 595 1 )."
+            },
+            {
+              "texto_cita": "«Ninguna cosa les es más natural [á los escogidos] que, cojeando en estas cosas visibles, esto es, hallándose faltos y menesterosos de ellas y afligidos del mundo, luchar á brazo partido con Dios, como de Jacob se lee con el ángel.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 8 (1. 148). —"
+            },
+            {
+              "texto_cita": "«Entienda el cristiano que mientras auduviere coxqueando en este ejercicio, también lo andará en la victoria de sus pasiones.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y c onsid. 3. 1, § 4 (R. 8. 169 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , para expresar la falta en que se incurre, bajo la imagen de un pie lisiado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando de aquí cojea el escrupuloso, suelen serle de provecho las medicinas corporales: el comer bien, por ejemplo, las conversaciones indiferentes.»",
+              "autor": "J. de los Ángeles",
+              "referencia_obra": ", Conq. del reino de Dios, 7. 15 (284)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Moverse una mesa ú otro mueble por tener algún pie más ó menos largo que los demás, ó por desigualdad del piso ( intrans. ) . Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. No ser firme y sólido ( intrans. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mozo soy, pero bien se me entiende que se compadece con el sacramento del matrimonio el justo y debido deleite que los casados gozan; que si él falta, cojea el matrimonio y desdice de su segunda intención.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov. 6 (R. 1. 170 2 )."
+        },
+        {
+          "texto_cita": "«Y está cierto que no ha de cojear por la parte de Dios este contrato, sino que si el hombre le fuere buen siervo, él será mejor Señor.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 1. 23 (R. 6. 85 1 )."
+        },
+        {
+          "texto_cita": "«Aunque, como digo, opongan las tales cosas y con alguna apariencia arguyan, hallo todavía que sus razones cojean.»",
+          "autor": "Laguna",
+          "referencia_obra": ", Diosc. proem. (1. 14)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Allí coxquea la razon del governador, do se mira linage ó afeccion, é no virtudes é habilidad.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 23 (266)."
+        },
+        {
+          "texto_cita": "«Coxqueaba de un bocado que le dio Pançerion.»",
+          "autor": "Pal.",
+          "referencia_obra": "Bat. campal , 17 (57)."
+        },
+        {
+          "texto_cita": "«Si una de estas fallesce | La república coxquea, | E si de ambas caresce | Dexa de andar é gatea.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Prov . 33 ( Rim. inéd. 348)."
+        },
+        {
+          "texto_cita": "«El coxquea de tres pies | Y no hinca la una mano.»",
+          "autor": "Mena",
+          "referencia_obra": ", coplas Qual diablo me topó ( Coron. 22)."
+        },
+        {
+          "texto_cita": "«Pues ceñides la correa | De Francisco Ynperial, | Vestra arte tal ó qual | Ya sé de qué pie coxquea.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 265 . — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Veovos, torpe cojo, de qual pie cojeades.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 440 (R. 57. 240 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Coxqueaba [Sengerico] de una cayda de vn cavallo que auie caydo con el.»",
+          "autor": "",
+          "referencia_obra": "C rón. gen. 2. 23 (156 1 )."
+        },
+        {
+          "texto_cita": "«Coxquearon»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Y coxquearedes»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Por fuero de Castilla, por --- pierna quebrada cien sueldos; mas si sanare e coxqueare, cincoenta sueldos.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 2. 1. 6 (64)."
+        },
+        {
+          "texto_cita": "«Luchó con Jacob, é diol animo en el nervio, é fizolo cosquear, é dixo: de aqui adelantre non será lamado Jacob mays Israel.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 15 (196 * )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Cojear es derivado de cojo : port., gall. coxear; cat. , val. coixejar . Como el lat. bajo coxigare no podría dar coxquear, es de suponerse que éste tiene por base una duplicación imitativa de coxo (cp . coxcox, coxcojilla, fr . clopin-clopant, sardo (Logudoro) andare toppi toppi ) . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

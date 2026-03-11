@@ -1,0 +1,788 @@
+{
+  "lema": "ENCARGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Propia y originariamente, Echar peso sobre algo o alguien, acep. anticuada según el Dicc. de la Acad. ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Se aplica en el terreno moral a la conciencia, con el sentido de Gravarla con la responsabilidad de un determinado acto o acción ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Haste visto con Clemencia | A solas, o en parte escura, | Donde ella te dio licencia | De alguna desenvoltura, | Que encargasse la conciencia?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pedro de Urdem. 1 (fol. 196 rº). +"
+            },
+            {
+              "texto_cita": "«¿Y lleuáis bien que gastar? | —Vn tesoro de paciencia. | —Encargaréis la conciencia, | Si le acabáis de acabar.»",
+              "autor": "",
+              "referencia_obra": "Id. Laber. de amor (fol. 143 rº)."
+            },
+            {
+              "texto_cita": "«Suplico a vuestra merced en nombre de todos estos príncipes que aquí estamos, que, porque no encarguemos nuestras conciencias confesando una cosa por nosotros jamás vista ni oída ---, que vuestra merced sea servido de mostrarnos algún retrato desa señora.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 4 (R. 1. 263 2 ; fol. 14 vº)."
+            },
+            {
+              "texto_cita": "«Yo encargaría mucho mi conciencia, si no intimase y persuadiese a este caballero que no tenga más tiempo encogida y detenida la fuerza de su valeroso brazo.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 2. 7 (R. 1. 418 1 ; fol. 24 vº)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. de persona. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es cosa importantísima buscar personas ---, y mandar y encargarles mucho la conciencia, que den aviso de las cosas que han menester remedio.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst. 1. 11 (1. 343). +"
+            },
+            {
+              "texto_cita": "«¿Qué palabras tan graves y de tan vivo sentimiento diría el prudente y severo padre Eusebio? Sospecho que alguna vez haría también del teólogo, y le encargaría la conciencia y le diría ---»",
+              "autor": "",
+              "referencia_obra": "Sig . Vida de S. Jer. 2 (96)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si hallares a tu estómago agraviado de lo mucho que comió y a tu conciencia encargada de si en algo se derramó, no dejes luego de confesarte.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 29 (p. 616)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Encomendar o pedir a alguien la realización de una cosa ( trans. ). Se construye con acus. de cosa y dat. de persona. El compl. directo puede ser la realización o la cosa misma ( comp. Encargar la edificación de una casa = Encargar una casa ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es prudencia encargar la ejecución a quien da el consejo, cuando tiene partes para podérsele fiar.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 112 1 ). —"
+            }
+          ]
+        },
+        {
+          "id_marcador": "- α α )",
+          "definicion": "Con una prop. infinitiva como compl. directo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A mí me han encargado | Recoger algunos días | Por aquestas caserías | La limosna y el cuidado | De la iglesia que labramos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los Tellos de Meneses, 1ª parte ., 2. 5 (R. 24. 5 18 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con una prop. subj. como compl. directo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bien dice la madre Pipota, dixo la Escalanta, y, echando mano a la bolsa, le dio otro quarto, y le encargó que pusiesse otras dos candelicas a los Santos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 3 (fol. 78 rº)."
+            },
+            {
+              "texto_cita": "«Se contentó de llevar solo el pergamino, encargando al huésped que, si acaso viniesen por Constanza, le avisase.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 8 (R. 1. 196 1 ) ."
+            },
+            {
+              "texto_cita": "«Avisó a su escudero Sancho del día y la hora que pensaba ponerse en camino, para que él se acomodase de lo que viese que más le era menester; sobre todo le encargó que llevase alforjas.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 7 (R. 1. 268 2 ; fol. 24 vº)."
+            },
+            {
+              "texto_cita": "«Vasco Núñez le dejó [al cacique] los castellanos enfermos que tenía en su tropa, encargándole mucho que los cuidase hasta que se restableciesen y pudiesen seguirle.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 292 1 ). — Con un pronombre neutro, que anticipa la oración subordinada. +"
+            },
+            {
+              "texto_cita": "«Quiso [el Príncipe o señor] embiar por él [por el Licenciado Vidriera], y encargóselo a vn Cauallero amigo suyo, que estaua en Salamanca, que se lo embiasse.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 5 (fol. 117 vº). — Sin partícula o conj. de enlace. +"
+            },
+            {
+              "texto_cita": "«Traían también una carta para el Almirante, en que don Jaime le encargaba persuadiese al rey de Sicilia que consintiese en aquella conferencia.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 229 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Pas. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto bastó para que, prefiriéndole a muchos buenos artífices, se le encargase la construcción de esta obra.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 376."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era la noche del siguiente día | En que murió Ronquillo ---, | Y sus honras, encargadas | A los severos padres franciscanos, | Estaban con gran pompa preparadas.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Leyenda 6 (p. 377). x"
+            },
+            {
+              "texto_cita": "«Vestía Robertson trajes encargados a buenos sastres.»",
+              "autor": "Baroja",
+              "referencia_obra": ", Los contrabandistas vascos (p. 111). — Como predicado de una oración subordinada. +"
+            },
+            {
+              "texto_cita": "«Él se fue luego, dexando muy encargado al Cadí que con breuedad embiasse la cautiua.»",
+              "autor": "",
+              "referencia_obra": "Cerv . El amante liberal (fol. 53 vº)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Mandar, preceptuar.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. infinitiva como compl. directo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encargó [Rómulo] a los viejos el ser consejeros, dándoles autoridad de padres y llamándolos senadores.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Conserv. de monarq . 3 (R. 25. 462 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con una prop. subj. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Diole [un adalid], con efecto, el rey de Castilla, pero encargándole que llevase a los moros por donde menos mal hacer pudiesen.»",
+              "autor": "Quint.",
+              "referencia_obra": "Guzmán el Bueno (R. 19. 213 2 ). +"
+            },
+            {
+              "texto_cita": "«El virrey le encargó mucho [a Masanielo] que acabase con los bandidos.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 14 (R. 102. 170 1 ). +"
+            },
+            {
+              "texto_cita": "«En el acto [Justa y Martina] encargaron al cochero que las llevase a una casa decente y modesta.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 2 (1. 120). — Sin partícula o conj. de enlace."
+            },
+            {
+              "texto_cita": "«Aunque me canso, es tanto el provecho que hacen estas casas en el pueblo en que están, que me encarga la conciencia haga las que pudiere.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 1. 30 (R. 55. 15 2 ). +"
+            },
+            {
+              "texto_cita": "«Despachó [el virrey] contentísimos a los diputados de la sublevación, encargándoles asegurasen al pueblo que sólo deseaba afianzar su felicidad.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 2. 2 (R. 102. 198 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Sin dat. de persona. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encargó esto nuestro Señor tan encargado, que mandó que, en memoria de esta merced, le celebrasen cada año una pascua.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst . 2. 68 (1. 565). +"
+            },
+            {
+              "texto_cita": "«Dile que al fuerte Estérope al instante | Deje ---, | Porque a todo el infierno es importante | La suma brevedad, la cual encargo.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 8 (R. 17. 600 1 )."
+            },
+            {
+              "texto_cita": "«No solamente deben los príncipes honrar a los nobles y grandes ministros, sino también a los demás vasallos, como lo encargó el rey don Alonso el Sabio en una ley de las Partidas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 59 (R. 25. 157 2 ). +"
+            },
+            {
+              "texto_cita": "«Ser muy puntual | En todo aquello que encarga | La regla; sí, pues en esto | Estriba ser buena y santa.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr . (2. 601)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Pedir o mandar que se traiga o envíe de otro lugar alguna cosa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encargo hoy mismo a París una boquilla de mérito.»",
+              "autor": "T. Luceño",
+              "referencia_obra": ", Teatro escogido (ed. 1894), t. 4, p. 271. X"
+            },
+            {
+              "texto_cita": "«Por mi parte --- me contentaría con los zapatos. Mi mujer los quiere, me los encargó.»",
+              "autor": "Osorio Lizarazo",
+              "referencia_obra": ", La cosecha, p. 233 . X"
+            },
+            {
+              "texto_cita": "«He encargado carbón para todo el mes.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. sb. voc. x"
+            },
+            {
+              "texto_cita": "«Ya he encargado la comida.»",
+              "autor": "",
+              "referencia_obra": "Id. ib."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Aconsejar, advertir o prevenir algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eso de gobernarlos bien [los vasallos], respondió Sancho, no hay para qué encargármelo, porque yo soy caritativo de mío, y tengo compasión de los pobres.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 33 (R. 1. 476 1 ; fol. 130 rº)."
+            },
+            {
+              "texto_cita": "«Es inútil que yo encargue a un hombre de juicio y de honor como usted cosa ninguna relativa a el trato que debe tener con ella durante su permanencia en esa casa.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 2, p. 228."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. como compl. directo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En lo que toca a cómo has de gouernar tu persona y casa, Sancho, lo primero que te encargo es que seas limpio y que te cortes las uñas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 43 (fol. 161 rº; R. 1. 493 1 ). +"
+            },
+            {
+              "texto_cita": "«Se dice aquí [este caso] por encargar a los hijos que, aunque les parezca que saben más que los padres ---, los han de obedecer y respetar.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 15 (Cl. C. 43. 212)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sin dat. de persona.+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No encargo el buen ejemplo que es rnenester que vuestra señoría y sus oficiales den al pueblo.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst. 1. 11 (1. 343)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Recomendar, pedir con insistencia una cosa ( trans .). Se construye con acus. de cosa y dat. de persona.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me descubrió todos sus amores ---, encargándome mucho el secreto de lo que en ellos pasaba.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 2 (86). +"
+            },
+            {
+              "texto_cita": "«Y ansí le envié a llamar, y le conté con todo el secreto que yo le pude encargar, lo que pasaba.»",
+              "autor": "",
+              "referencia_obra": "Sta.Ter. Fund. 15 (Cl. C. 115. 238) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. subj. como compl. directo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le encargauan mucho que no dixesse a su amo quién ellos eran ni que los conocía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 27 (fol. 137 vº; R. 1. 320 1 ). x"
+            },
+            {
+              "texto_cita": "«La que me ha hablado es Rosita Suárez, a quien tú conoces muy bien. Pero te encargo que no le hables de esto.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 3 (ed. Aguilar, 2. 199)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y para que los maestros quieran hacerlo [llevar a los niños a oír misa], débeseles rogar y encargar; y para que los niños quieran ir, también se les debe rogar.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst. 4. 179 (856)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Confiar, o poner al cuidado de otro alguna cosa ( trans .). Como en la acepción anterior, se construye con acus. de cosa y dat. de persona.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En conociéndote, no consentirá estés ocioso, antes te encargará la cantidad de ganado que pudieres gobernar.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 1 (5). +"
+            },
+            {
+              "texto_cita": "«El fin por que te di este oficio y te encargué este gran cargo fue para que de raíz arranques y destruyas todo lo que es malo.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 18 (p. 560). +"
+            },
+            {
+              "texto_cita": "«En mi tierna edad fui llevado a la corte del rey de lusitanos, y allí criado y querido no sólo de los señores principales della, mas aun del mismo rey, tanto que nunca consintió que me partiese de su corte, hasta que me encargó la gente de guerra que tenía en la costa de Africa.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana , 2 (Cl. C. 135. 42)."
+            },
+            {
+              "texto_cita": "«Les pesaba en el alma [a los Laras] le encargasen [a don Enrique] el gobierno del reino.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 1 (R. 30. 428 2 )."
+            },
+            {
+              "texto_cita": "«En criando Dios al primer hombre, le encargó el cuidado de cultivar y guardar el paraíso.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Conserv. de monarq. 39 (R. 25. 532 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. Actuando como dat. el sust. pies , y como acus. la vida, Huir , escapar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viendo la vida de su rey perdida, | Todos en cargan a los pies la vida.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 12 (R. 17. 623 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Absol . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ábrese la despensa, y, aunque el ama | De llaves encarga a la sobrina, | Que es vigilante asaz, alguna vieja | Mete en el delantal una morcilla.»",
+              "autor": "",
+              "referencia_obra": "A. Saav . Moro expós. 6 (R. 100. 172 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—γ γ )",
+          "definicion": "Pas. refl. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A nuestro magno Granestor se encarga | Una escuadra feroz de gente hormiga.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 10 (R. 17. 612 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y encargadas ya las ovejas a la pastora Polyntia, salió de su aldea acompañada de su rústica çampoña.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana , 2 (Cl. C. 135.74)."
+            },
+            {
+              "texto_cita": "«Desta manera son los negocios del bueno, encargados a Dios y gobernados por su mano.»",
+              "autor": "Quev.",
+              "referencia_obra": "Cuna y sepult . 5 (R. 48. 91 2 ). +"
+            },
+            {
+              "texto_cita": "«En Aragón se movieron cuestiones poco seguras sobre el gobierno de la corona, que, por el testamento del rey don Fernando, quedó encargado al arzobispo de Zaragoza.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 4 (R. 28. 211 1 ). — Sin dat."
+            },
+            {
+              "texto_cita": "«Ya los demás garzones iban recogiendo a la sombra los encargados rebaños.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 1 (13)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de + el sust. que indica el objeto confiado. La persona a quien se encarga pasa a acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pompeyo ese noble anciano | A quien el senado encarga | Del gobierno deste estado.»",
+              "autor": "Mto.",
+              "referencia_obra": "El licenciado Vidriera , 1. 1 (R. 39. 249 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encargado del gobierno y avisado por el desastre de Asdrúbal, termía que la muerte no le cortase los pasos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 2. 9 (R. 30. 38 2 ). +"
+            },
+            {
+              "texto_cita": "«Gonzalo, que en esta ocasión hizo las mismas pruebas de valor y capacidad que siempre, quedó encargado por los Reyes de la defensa de Illora.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitán (R. 19. 252 2 ). — Substantivado. +"
+            },
+            {
+              "texto_cita": "«Hacen gastar dinero a sus protectores., molestan a los encargados de tales compras.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 3, p. 46. x"
+            },
+            {
+              "texto_cita": "«El dueño o encargado del negocio miró displicentemente el aparato que le entregué.»",
+              "autor": "Flórez",
+              "referencia_obra": ", La nube enjaulada (p. 218). x"
+            },
+            {
+              "texto_cita": "«La encargada del teléfono grita: ¡Señor García Pérez!»",
+              "autor": "Cela",
+              "referencia_obra": ", Café de artistas y otros cuentos (p. 17)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl . Tomar para sí obligación o carga. Lo que se torna como obligación va precedido por la prep. de, a veces en.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ansí la misma naturaleza de las cosas pide, y la razón del gobierno y mando, que, cuanto uno es mayor señor y gobierna a más gentes y se encarga de rnás negocios y oficios, tanto sea más sufrido y más manso.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3 , Cordero (3. 400). +"
+            },
+            {
+              "texto_cita": "«Al fin se determinó [Francisco Patti] a encargarse de misión tan delicada.»",
+              "autor": "",
+              "referencia_obra": "A. Saav . Masan . 2 . 18 (R. 102. 243 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de + una prop. de relativo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pecan en encargarse de lo que se habían de descargar, y pecan en descargarse de lo que se habían de encargar.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 15 (p. 546)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de + infinitivo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Toma sobre sí muy gran carga el que de gobernar ánimas se encarga.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 17 (p. 557)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Entrar a desempeñar las funciones propias de una dignidad o empleo. El nombre que indica el empleo o dignidad va regido por la prep. de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encargóse Iscam de aquel imperio el año que se contó 724 de nuestra salvación.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 7. 3 (R. 30. 193 2 ). x"
+            },
+            {
+              "texto_cita": "«Pocos días después su sobrino se encargó del negocio.»",
+              "autor": "Flórez",
+              "referencia_obra": ", Las gafas del diablo . (p. 97)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Comprometerse a realizar alguna cosa, tomar el propósito de llevarla a cabo.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de + infinitivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A todo esto me respondió D. Fernando que él se encargaba de hablar a mi padre.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 27 (R. 1. 321 2 ; fol. 141 rº)."
+            },
+            {
+              "texto_cita": "«Encargóse Sancho de hacerlo así como se le mandaba, y de traerle tan buena respuesta como le trujo la vez primera.»",
+              "autor": "",
+              "referencia_obra": "Id. ib 2. 10 (R. 1. 422 2 ; fol. 32 rº). +"
+            },
+            {
+              "texto_cita": "«Me encargo | De darle al diablo que mejor lo haga, | Del negro infierno lo mejor por paga.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 8 (R. 17. 602 1 ). +"
+            },
+            {
+              "texto_cita": "«Encargóse de hacer el convite el electo Francisco Arpaya.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 2. 3 (R. 102. 200 2 ). — Con la prep. omitida (raro)."
+            },
+            {
+              "texto_cita": "«Daros otro [cargo] igual me encargo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Privar contra su gusto , 3. 2 (R. 5. 358 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Preocuparse por algo o alguien.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El buen soldado no desea mercedes del que a su capitán es contrario: que es aleve encargarse del enemigo de aquel a quien sirve.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 12 (3. 485). +"
+            },
+            {
+              "texto_cita": "«La Nueva-España o está sin historia que merezca este nombre, o necesita de ponerse en defensa contra las plumas que se encargaron de su posteridad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 2 (R. 28. 209 1 ). — Con una oración de relativo. +"
+            },
+            {
+              "texto_cita": "« Venite ad me todos los que estáis no ociosos, sino trabajados ---; no descargados, sino cargados; no libres, sino sujetos, porque yo no me encargo de los que procuran la libertad, sino de los que se prescian de la virtud.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 5 (p. 486). — Con infinitivo. +"
+            },
+            {
+              "texto_cita": "«Sí tú, oh buen Jesús!, no te encargases de nos descargar, cargas son estas para con ellas caer.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 5 (p. 485). +"
+            },
+            {
+              "texto_cita": "«¡Oh con cuánta facilidad se suelen encargar muchos hombres de castigar y corregir culpas ajenas!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 11 (p. 525). +"
+            },
+            {
+              "texto_cita": "«Jonadab tomó cargo de rnandar y los hijos se ofrecieron a obedescer, y Dios se encarga de los pagar.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 13 (p. 539). +"
+            },
+            {
+              "texto_cita": "«Como se hospedaba [el señor Estirado] en casa de su amigo, los dependientes de la tienda de comercio se encargaron de llevarle por todas partes.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 5 (2. 177)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Os podréis asegurar, | Cuando en vuestro honor me encargo.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Casarse por vengarse , 2 (R. 54. 109 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part . En superlativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue la madre luego a hacer la visita, encargadísima de sacar la licencia que deseaba su hijo.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 20 (R. 18. 63 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El papa Eugenio le encargó negocios arduos.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 19 (113). +"
+        },
+        {
+          "texto_cita": "«El rey --- encargó [al conde de Haro ] grandes e arduos negocios.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 8 (Cl. C. 49. 74) ."
+        },
+        {
+          "texto_cita": "«El raposo, por encargar al rey con sus servicios, fue al asno.»",
+          "autor": "",
+          "referencia_obra": "Id. Cartas, 23 (258). +"
+        },
+        {
+          "texto_cita": "«Las cartas se fazen muy encargadas para ellos, e los caballeros van con ellas a grand priessa.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 117 (364). +"
+        },
+        {
+          "texto_cita": "«Les encargaba mucho --- que amos a dos, e cada uno por su parte, se trabajassen --- de se avissar de los fechos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 108 (325). +"
+        },
+        {
+          "texto_cita": "«El Rey no fallaba grande ninguno en los sus reynos que de aquella capitanía ossase ni quisiese encargarse.»",
+          "autor": "",
+          "referencia_obra": "Ib. 26 (99). +"
+        },
+        {
+          "texto_cita": "«Lope de Estúñiga encargó al Rey de armas e al faraute dixessen de su parte a Don Juan de Portugal que, por la honra que le desseaba ---, le encargaba --- procurasse ganar más honra que otros.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 70 (592)."
+        },
+        {
+          "texto_cita": "«Fablaron con el infante algunos caballeros sus amigos ---, que le encargaron de conciencia, mostrándole muchas razones, cómo tal caballero non era de perder.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 190 ."
+        },
+        {
+          "texto_cita": "«Era un caballero tal, que la su valía me encarga a non decir quién era.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 179 . — Siglo XIV : X"
+        },
+        {
+          "texto_cita": "«E vos dél non avedes nin coita nin embargo: | Dezídesme ‘non’ siempre, maguera vos encargo | Con tantas mesuras.»",
+          "autor": "Corominas",
+          "referencia_obra": ", p. 323; R. 57. 252 1 , v. 806b). +"
+        },
+        {
+          "texto_cita": "«Miénbresevos que por vn pecado sólo fue Adán echado de paraýso; e ¿por auentura sy querrá acoger en él a quien fuere encargado de muchos?»",
+          "autor": "Zifar",
+          "referencia_obra": ", 124 (p. 256). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Los fariseos --- encargaban los homes de muy grandes cargas, que ellos solamiente non las querríen mover con el dedo.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 88 (1. 154)."
+        },
+        {
+          "texto_cita": "«Et face despreciar la ley et encargarse los homes de pecados.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 4. 85 (1. 151). +"
+        },
+        {
+          "texto_cita": "«Los prelados han de encargar los omnes de tal manera que puedan ganar amor de Dios.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Seten . ley 107 (p. 258) . +"
+        },
+        {
+          "texto_cita": "«Otrossí ssería de aquellos que ouyessen peccado en dezir malas palabras, por que lo ouyessen a encargar con oraçiones.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. ley 100 (p. 202). +"
+        },
+        {
+          "texto_cita": "«Ssomos todos encargados de maldades e de yerros.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. ley 99 (p. 194). +"
+        },
+        {
+          "texto_cita": "«Venit a mí todos los que trabaiastes, ssuffriendo muchas coytas en este mundo, e sodes encargados de peccados, ca yo uos pecharé.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. ley 84 (p. 142). +"
+        },
+        {
+          "texto_cita": "«Todos en vno encargados por la franqueza real, después de ocho días que fueron tomados ymbiólos libremente a sus tierras.»",
+          "autor": "Tuy",
+          "referencia_obra": ", Crón. Esp. 3. 51 (ed. Puyol, 249)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. *incarricare (cfr. Körting, s. v .), y éste de in y carricare ‘cargar’, verbo que, a su vez deriva de carrum , vocablo de origen céltico. Ital. incaricare e incarcare, rum. încárca, engad. enkarger, gall.-port. y cat. encarregar, prov. encargar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe gu : encargue, encarguéis, encargué, etc. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

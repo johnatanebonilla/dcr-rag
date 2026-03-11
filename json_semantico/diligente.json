@@ -1,0 +1,235 @@
+{
+  "lema": "DILIGENTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Activo y cuidadoso en la ejecución de una cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hombre rico, diligente y tan cuerdo, que la segunda vez que fue á Berbería llevó su hacienda y dos hermanos, y se quedó en Argel.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 1 (R. 21. 72 2 )."
+            },
+            {
+              "texto_cita": "«Lo dejaron tan miserable y desnudo, para que así su pobreza lo hiciese humilde, y la necesidad diligente.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 3. 1, 2ª. pte . (R. 8. 171 2 )."
+            },
+            {
+              "texto_cita": "«Dejando el lecho Palinuro entonces, | Diligente observó todos los vientos.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 3 (3. 229)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el acto en que se muestra actividad cuidadosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues la santa Inquisición | Suele ser tan diligente | En castigar con razón | Cualquier secta y opinión | Levantada nuevamente.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2. (R. 32. 157 1 )."
+            },
+            {
+              "texto_cita": "«Marco Varrón, autor gravísimo y diligente en buscar los principios de los pueblos, dice, según Plinio refiere, que en España vinieron los persas, iberos y fenices, todas naciones de oriente, con Baco.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 4 (R. 21. 117 1 )."
+            },
+            {
+              "texto_cita": "«El que quiere ser gran letrado, ha de ser muy diligente en el estudio.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 26, § 5 (R. 6. 253 2 )."
+            },
+            {
+              "texto_cita": "«El autor que esto escribió fue muy diligente en alegar el libro, y el capítulo y el principio dél, en su misma lengua.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 22 (R. 6. 543 1 )."
+            },
+            {
+              "texto_cita": "«Mostréme solícito y diligente en la guarda del rebaño.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 228 2 )."
+            },
+            {
+              "texto_cita": "«En Roma son frecuentes los robos y asesinatos, y el gobierno poco diligente en reprimir tales excesos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 419."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue de semblante áspero, de corazón ardiente, y diligentísimo en ejecutar lo que determinaba.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 27 (R. 21. 26 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con para , que señala el objeto que se sabe y puede hacer con diligencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Diligente para cobrar.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Diligente para un negocio.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ligero, pronto, presto en el obrar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Venid y lavadme á mí, y mirad que no se os acabe el agua. La muchacha aguda y diligente llegó y puso la fuente al duque como á D. Quijote.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 32 (R. 1. 473 1 )."
+            },
+            {
+              "texto_cita": "«Caminaban --- como quien iba sobre mulas de canónigos --- Llegaron los diligentes á los perezosos, y saludáronse cortésmente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 47 (R. 1. 388 1 )."
+            },
+            {
+              "texto_cita": "«Los cocineros y cocineras pasaban de cincuenta, todos limpios, todos diligentes y todos contentos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 12. 20 (R. 1. 445 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rui López, secretamente | Tres caballos me aprestad. | — En dar á tu majestad | Gusto, seré diligente.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los novios de Hornachuelos , 2 (R. 41. 396 1 )."
+            },
+            {
+              "texto_cita": "«Quedaron --- muertos muchos indios y puestos en fuga los que fueron más avisados en conocer el peligro ó más diligentes en apartarse de él.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 8 (R. 28. 215 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Aplicado á cosas, Hecho con diligencia, en que se muestra actividad y cuidado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué oración puede haber si no hay diligente guarda en el corazón?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 5, § 17 (R. 8. 156 1 )."
+            },
+            {
+              "texto_cita": "«El interés del colono no sólo será más activo y diligente, sino también mejor dirigido.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 89 2 )."
+            },
+            {
+              "texto_cita": "«En sus obras [de Pomponio Mela] y en sus diligentes versiones hechas por Tribaldos y Salas deberán trabajar continuamente nuestros académicos.»",
+              "autor": "",
+              "referencia_obra": "Id. Disc. sobre el leng. y estilo de un dicc. geogr . (R. 46. 310 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hicieron digilentísima pesquisa de la doctrina, vida y ocupaciones de Ignacio.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de S. Ign . 1. 14 (R. 60. 31 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si quieres ser rico, has de ser verdadero é diligente.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras , 23 (257)."
+        },
+        {
+          "texto_cita": "«Díjole que le diese por escripto algunos caballeros y escuderos --- que fuesen buenas personas é diligentes, para les repartir los pertrechos.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 1. 37 (R. 68. 292 2 )."
+        },
+        {
+          "texto_cita": "«Yo paso ligeramente | Por sus actos virtuosos, | Por que son tan copiosos | Que non so suficiente | A ello, nin diligente | A todos los explicar.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var . 351 ( Rim. inéd . 324)."
+        },
+        {
+          "texto_cita": "«La principal virtud del rey despues de la fe, es ser industrioso y diligente en la gobernacion é regimiento del su reino.»",
+          "autor": "",
+          "referencia_obra": "Id. Gener . 33 (R. 68. 713 1 )."
+        },
+        {
+          "texto_cita": "«En la guerra diligente | Fui quanto se convenia.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 200."
+        },
+        {
+          "texto_cita": "«Bien son mis amigos los muy diligentes.»",
+          "autor": "",
+          "referencia_obra": "C anc. de Baena , p. 206. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Si perdieres el tu falcon, serás bien diligente á le buscar.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 8 ( Bibl. venat. 3. 208)."
+        },
+        {
+          "texto_cita": "«Juzgará bien deligente | Biuos e muertos.»",
+          "autor": "",
+          "referencia_obra": "Tract. de la doctr . (R. 57. 373 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., it. diligente ; cat., prov. , fr. diligent : del lat. diligentem , diligens , propiamente part. act. de diligere , querer, amar, y metafóricamente, que hace las cosas con amor, con cuidado. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

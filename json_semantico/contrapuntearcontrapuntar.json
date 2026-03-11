@@ -1,0 +1,95 @@
+{
+  "lema": "CONTRAPUNTEAR (CONTRAPUNTAR).",
+  "categoria_gramatical": "",
+  "introduccion": "CONTRAPUNTEAR (CONTRAPUNTAR). v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Cantar de contrapunto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol. No sabe contrapuntear.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así como el contrapunto presupone el canto llano, y quien predica toma un tema que después declara, diciendo sobre él las doctrinas y puntos que se le ofrecen; así quien ha de tener oración, después de haberse apercebido y preparado para entrar en ella, conviene que lea en algún libro, para que, teniendo en la memoria los conceptos que lee, pueda el espíritu contrapuntear con la meditación.»",
+              "autor": "Gracián",
+              "referencia_obra": ", fol . 177 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al principio de comer no corría la vena, y así callábamos como en misa, y aun más, que para las mujeres que contrapunteamos una misa á lo jirguero, no es mucho encarecer.»",
+              "autor": "",
+              "referencia_obra": "Píc. Justina , 1. 2. 1. 3 (R. 33. 84 1 ; Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Decir una persona á otra palabras picantes ( trans .). Acad . Dicc . También se usa como refl. y como recipr., y en este caso se dice también contrapuntarse. Acad. Dicc.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Contrapuntearse de palabras.»",
+          "autor": "Acad.",
+          "referencia_obra": "Gram ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Refl . y recípr . Picarse ó resentirse. Se dice también contrapuntarse .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En sentido recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es que... usted no sabe... las dos familias están ahora contrapuntadas.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, El entremetido , 1. 7 (63)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Como refl. lleva con para señalar la otra persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Contrapuntearse con alguno.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram . — Es muy posible que la frase estar de punta haya contribuído á determinar esta acepción."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Cotejar, comparar ( trans .) ( ant. ). Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado, de contrapunto . Port. contrapontear : fr. contrepointer. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

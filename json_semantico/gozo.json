@@ -1,0 +1,327 @@
+{
+  "lema": "GOZO.",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "--> s. m.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Gusto, regocijo, placer que se experimenta con un bien poseído.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llena de gozos ufanos, | Rodeada de cristianos, | Los peones solicita. | Que no se daban a manos.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Obr. (Cl. C. 91. 180). X"
+            },
+            {
+              "texto_cita": "«Quien de dos claros ojos | Y de un cabello de oro se enamora, | Compra con miI enojos | Una menguada hora, | Un gozo breve que sin fin se llora.»",
+              "autor": "León",
+              "referencia_obra": ", Poes 1 ¿Qué vale cuanto ve? (4. 308). X"
+            },
+            {
+              "texto_cita": "«Este será un gozo tan grande que ningunas palabras bastan a darle debido encarecimiento.»",
+              "autor": "Gran.",
+              "referencia_obra": "Trat. de Orac. (R. 8. 56). X"
+            },
+            {
+              "texto_cita": "«La marquesa se hizo preñada y parió un hermoso niño, el cual fue un gozo singular para su padre y a todos sus amigos y vasallos.»",
+              "autor": "Timoneda",
+              "referencia_obra": ", El patrañuelo, 2 (R. 3. 133 1 ). X"
+            },
+            {
+              "texto_cita": "«En topando con la oveja, no la dio con el cayado, ni la lleva arrastrando, o a puntapiés, sino con grande gozo se carga de ella sobre sus hombros, hasta volverla a su rebaño.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 48 (2. 287). X"
+            },
+            {
+              "texto_cita": "«Sentía en lo interior de su espíritu una grande paz y un gozo muy regalado, causado de las influencias divinas que Dios enviaba sobre su alma.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 1. 10 ( Míst. 1. 39). X"
+            },
+            {
+              "texto_cita": "«La del alba sería cuando D. Quijote salió de la venta, tan contento, tan gallardo, tan alborozado por verse ya armado caballero, que el gozo le reventaba por las cinchas del caballo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 4 (R. 1. 262 2 ). +"
+            },
+            {
+              "texto_cita": "«El destrozo | Del enemigo fue grande, | Pero los humanos gozos | ¡Cuán rara vez son completos!»",
+              "autor": "Bretón",
+              "referencia_obra": ", Muérete y verás, 2. 13 (Cl. C. 92. 50)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α)",
+          "definicion": "Con de, para indicar: — la clase de gusto o alegría. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya no tiene [el alma] otra cosa que entender, ni otro exercicio en que se emplear, sino en darse en deleites y gozos de íntimo amor con el Esposo.»",
+              "autor": "",
+              "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 263). X"
+            },
+            {
+              "texto_cita": "«¡Oh, sor Medina, manos de vucé! ¿De qué es el gozo? Jamás creí que un hombre de tan mala condición se riera de tan buena gana.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", El sagaz Estacio, 3 (Cl. C. 57. 255). — El sujeto del gusto o alegría. X"
+            },
+            {
+              "texto_cita": "«Pues ¿qué se sigue de aquí, sino que pues es casi infinito el número de los bienaventurados, serán cuasi infinitos los gozos de cada uno de ellos?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 9, §34 (R. 8. 55 2 ). X"
+            },
+            {
+              "texto_cita": "«Porque como dice Sant Gregorio, aquella heredad celestial para todos es una, y para cada una toda; porque de los gozos de todos recibe cada uno tan grande alegría como si él mesmo los poseyera.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 9, §34 (R. 8. 55 2 ). X"
+            },
+            {
+              "texto_cita": "«Fue tan grande y tan universal el gozo de los inferiores, viendo la justa y piadosa resolución del Duque, que, aclamándole Augusto, y los más de rodillas, dijeron ---.»",
+              "autor": "Quev.",
+              "referencia_obra": "La hora de todos (Cl. C. 34. 161). — El objeto del gusto. X"
+            },
+            {
+              "texto_cita": "«Y aunque tu afecto debe | Buscar el gozo de Raquel hermosa, | La tendrás desdeñosa, | Si a tu Padre no ves, en su hermosura, | Como | causa final de tu ventura.»",
+              "autor": "Lobo",
+              "referencia_obra": ", Obr. poética, (2. 111). X"
+            },
+            {
+              "texto_cita": "«¿No era éste el secreto de su afición al pueblo? Gozo y tortura. Nuevos. Profundísimo. Con signo contrario, placenteros: gozo de la tortura: tortura del gozo, inextricables.»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua, p. 209."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh dulce Madre! ¿es ese por ventura vuestro dulcísimo Hijo? ¿Es ese el que concebistes con tanta gloria, y pariste con tanta alegria? Pues qué se hicieron vuestros gozos pasados?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 10, §13 (R. 8. 83 2 ). X"
+            },
+            {
+              "texto_cita": "«En la alegría tiene en ella compañía dulce, con quien acrecentará su gozo comunicándolo.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 2 (3. 433). X"
+            },
+            {
+              "texto_cita": "«De oy diré que es, amor, | Tu rigor blandura santa; | Ya [a] mi pena se adelanta | Mi gozo; ya me contemplo, | Libre del mar de mis penas, | Colgar, ¡o amor!, las cadenas | En los muros de tu [templo].»",
+              "autor": "Cerv.",
+              "referencia_obra": "Laberinto de amor (R. 156. 351 2 ), X"
+            },
+            {
+              "texto_cita": "«Deja que dando muestra de gratitud, mi gozo explique.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Raquel, 1 (Cl. Castal. 28. 97). X"
+            },
+            {
+              "texto_cita": "«Salve, Luisa sin par, pastora hermosa, | Galana cual la fértil primavera, | Gloria de este pensil, y más airosa | Que en el bosque la palma placentera; | Así a tu amor le seas más graciosa | Que es al pichón su dulce compañera, | Que des aliento al débil canto mío, | Pues aplaude tu gozo el bosque umbrío.»",
+              "autor": "Iglesias",
+              "referencia_obra": ", égl. 1 (R. 61. 463 1 ). X"
+            },
+            {
+              "texto_cita": "«¿Por qué en mi ensangrentaste | Tu inexorable guadaña, | Antes que en la tierna vida | De mi prima la emplearas? | ¿Por qué?... Mas, ¡ay!, que ya son | Todas mis querellas vanas; | Ya mi gozo terminó; | Ya huyeron mis esperanzas | Con la misma rapidez | Del rayo.»",
+              "autor": "",
+              "referencia_obra": "González del Castillo, Una pasión imprudente (Cl. Esp. 3. 256). X"
+            },
+            {
+              "texto_cita": "«He aprendido un amor que es terrible | Y que corta mi gozo a cercén; | He ganado el amor de la nada, | Apetito de nunca volver.»",
+              "autor": "Mistral",
+              "referencia_obra": ", Antol. p. 70."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Forma las siguientes expresiones.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El gozo en el pozo: da a entender que se ha malogrado una cosa que se esperaba o que se contaba con ella. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Señor, tu gozo en el pozo | —¿Cómo, Sancho? ¿Qué tenemos?»",
+              "autor": "Lope",
+              "referencia_obra": ", El lacayo fingido ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«¡Mi gozo en el pozo! ¡Vuelta a poner en tortura la mente! ¡Trabajo perdido!»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Cambia de pronto la decoración tan hábilmente combinada, y adiós plan, adiós proyecto, adiós empresa: nuestro gozo en un pozo.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ) . — Cayóse el gozo en el poço. X"
+            },
+            {
+              "texto_cita": "«Está acá nuesso amo el moço | — Cayóse el gozo en el poço.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los Tellos de Meneses, 227 vº (Fdz. Gómez , Vocab. de Lope )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Saltar de gozo; no caber en sí de gozo: estar sumamente contento . Cfr. Acad . Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "pl. Composiciones poéticas en honor a la Virgen María o a los santos, que se dividen en coplas, después de cada una de las cuales se repite un mismo estribillo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La lectura de las Jornadas se hace inmediatamente antes de los gozos.»",
+              "autor": "",
+              "referencia_obra": "Larrea, Novena para el aguinaldo, p. 1. X"
+            },
+            {
+              "texto_cita": "«Gozos: Santo que nunca desoyes | A quien confiado te implora | Ruega padre por nosotros | A María auxiliadora.»",
+              "autor": "",
+              "referencia_obra": "Novena y Biogr. de San Juan Bosco, p, 17. X"
+            },
+            {
+              "texto_cita": "«Novena al Sacratísimo Corazón de Jesús aumentada con los gozos.»",
+              "autor": "",
+              "referencia_obra": "Roca y Baloña, Novenario, p. 99,"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, para señalar a quien van dirigidos los gozos. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gozos al Sacratísimo Corazón de Jesús.»",
+              "autor": "",
+              "referencia_obra": "Roca y Baloña, Novenario, p. 103."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hasta que todos usías | Queden hartos de engullir | Y puedan cantar los gozos | De invicto San Crispín.»",
+              "autor": "Mesonero",
+              "referencia_obra": ", ( Pagés , Dicc .) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Me tovieron en sus aposentamientos con tanto gozo e alegría e cuidado de a mí me lo dar, como si hijo de un emperador del mundo yo fuera.»",
+          "autor": "Am. de Gaula",
+          "referencia_obra": "(Cl. Ebro, 62. 135). X"
+        },
+        {
+          "texto_cita": "«¡O tú, señora, alegría de las viejas mugeres, gozo de las moças, descanso de los fatigados como yo!»",
+          "autor": "Celest.",
+          "referencia_obra": "1. 6 (Cl. C. 20. 224). X"
+        },
+        {
+          "texto_cita": "«Mal gozo vea de mí, si burlo; sino que ha quatro horas, que muero de la madre, que la tengo sobida en los pechos, que me quiere sacar desde mundo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 6 (Cl. C. 20. 249). 53 X"
+        },
+        {
+          "texto_cita": "«El qual les ha convertido todo su placer en tristeza, toda su alegría en miedo, y todo su gozo en angustia y trabajo.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Epíst. 16 ( Dicc. Autor. )."
+        },
+        {
+          "texto_cita": "«Góçate, goçosa Madre, | Goço de la humanidat --- | Góçate, pues que pariste | Dios e ome por mysterio.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 308. X"
+        },
+        {
+          "texto_cita": "«Deve ser dicho e reputado al que por un poquito de delectación carnal dexa los gozos perdurables e perpetuamente se quiere condenar a las penas ynfernales.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Corbacho 1. 1. (Cl. Castal. 24. 48). X"
+        },
+        {
+          "texto_cita": "«Después serás ayuntado con los sus siervos en gozo perdurable.»",
+          "autor": "S. Ildef.",
+          "referencia_obra": "16 (Cl. C. 131. 57). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«Avrán el quinto gozo que de todos más val, | Que serán bien seguros de nunca aver mal; | Sennor que a sus siervos da gualardón atal, | Essi es verdadero, nadi non crea al.»",
+          "autor": "Berc.",
+          "referencia_obra": "Signos (Cl. Castal. 96. 145). X"
+        },
+        {
+          "texto_cita": "«El cuerpo e la alma yacerán en refrigerio, | Esso clama doblado gozo el Evangelio, I Otrosí los dampnados avrán doble lazarío, | Devié movernos mucho solo esti proverbio.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (Cl, Castal. 96. 144). X"
+        },
+        {
+          "texto_cita": "«En tierra de tristiçia tan grant gozo andaba.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores, 102 (R. 57. 96 2 ). X"
+        },
+        {
+          "texto_cita": "«Los laçerios que dieron los duelos ementados, | Leídos los lodores en gozos son cameados.»",
+          "autor": "Berc.",
+          "referencia_obra": "25 (R. 57. 145 2 ). — Siglo Xll: X"
+        },
+        {
+          "texto_cita": "«Grandes son los gozos en Valençia la mayor, | Por que tan ondrados fueron los del Campeador.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3711 (Cl. C. 24. 297). X"
+        },
+        {
+          "texto_cita": "«Al que en buen ora nasco legaua el menssaie; | Primado caualga, a reçebir los sale; | Armas ejua teniendo e grant gozo que faze.",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "« Ib. 2887 (Cl. C. 24. 257). X",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Hy iazen essa noche, e tan grand gozo que fazen.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2869 (Cl. C. 24. 256). X"
+        },
+        {
+          "texto_cita": "«Grandes son los gozos en Valençia con myo Çid el Campeador | De todas sus campañas e de todos sus vassallos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2505 (Cl. C. 24. 239). X"
+        },
+        {
+          "texto_cita": "«Los ynoios e las manos en tierra los fincó, | Las yerbas del campo a dientes tomó, | Lorando de los oios, tanto auce el gozo mayor.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2023 (Cl. C. 24. 215)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. gaudium, -ii, plural de ‘gozo’. It. gaudio, gioja, gioia; fr. joie; port. gozo. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,1236 @@
+{
+  "lema": "RECIBIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Tomar para sí una cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aplicado a objetos concretos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y sea proveída y solícita, dice, ansí la que tuviere el oficio como las otras serores, que acerca del sobredicho lugar a donde fueren llevadas, no adquieran ni reciban más de tierra, salvo aquello que la extrema necesidad demanda para un huerto, en que se plante hortaliza.»",
+              "autor": "Azorín",
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 158)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , que señala el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recibió a pactos el Gran Capitán la ciudad de Gaeta.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 96 (R. 25. 250 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La vez que les hace [la buena señora] esta buena obra toman [los varones] por regalo y reciben con rostro alegre un pedazo de pan, aunque sea seco y duro.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", El sagaz Estacio , 1 (Cl. C. 57. 139)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con de . Además con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien mate un puma recibe de la hacienda en calidad de premio, un potro o una potranca.»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno , 19 (p. 664)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con por para expresar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De lo dicho se infiere que el juez nunca puede recibir cosa alguna del litigante bien despachado, por vía de gratificación: porque como no es capaz de hacerle alguna gracia, tampoco es acreedor a alguna recompensa.»",
+              "autor": "Feijóo",
+              "referencia_obra": ", Teatro crít . 2 (Cl. C. 53. 88)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. Con de . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se hallan mal los miembros que, habiendo dado, tornan a recebir de lo que dieron.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist . 9. 6 (R. 162. 214 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Pas. refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los nobles ---, acudían con sus vasallos a los ejércitos y hacían continuos presentes al Rey, que se recibían como dádivas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 16 (R. 28. 29 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Percibir un pago. ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Diósele entonces un tercio de paga, y después en todo el tiempo que asistió en aquella provincia, que fue diez meses, no recibió más.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 38 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Loc. Recibir en cuenta : aceptar como parte de pago. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Respondió el medroso villano que para el paso en que estaba y juramento que había hecho (y aún no había jurado nada), que no eran tontos; porque se le habían de descontar y recebir en cuenta tres pares de zapatos que le había dado, y un real de dos sangrías que le habían hecho estando enfermo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 4 (Cl. C. 4. 118)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Aplicado a la correspondencia ( trans .). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al llegar a ella, recibí la estimable de Vm. del 12 del pasado, escrita en Bedford, y en medio del gusto de rever a mis antiguos amigos, tuve el de saber que mis amados Lord y Lady estaban buenos y alegres.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Cartas (Cl. C. 129. 306). X"
+        },
+        {
+          "texto_cita": "«Venían del otro lado de la ciénaga, a sólo dos días de viaje, donde había pueblos que recibían el correo todos los meses y conocían las máquinas del bienestar.»",
+          "autor": "García Márquez",
+          "referencia_obra": ", Cien años de soledad , p. 38."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Participar de los sacramentos de la iglesia ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viniendo el sacerdote adonde habíamos de comulgar con el Santísimo Sacramento en las manos, llegando yo a recibirle, junto al sacerdote se me representó el caballero que he dicho con rostro resplandeciente y alegre.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . (Cl. C. 115. 191). X"
+            },
+            {
+              "texto_cita": "«Informado de todo, y bien instruído en la Religión Christiana, Magundat] recibió el bautismo, y vivió algún tiempo en el Monasterio de San Anastasio, cuyo nombre tomó.»",
+              "autor": "Isla",
+              "referencia_obra": ", Año christ . 22 (p. 334). — met. Con bajo . X"
+            },
+            {
+              "texto_cita": "«Confirmó [Carranza] su dicho poniendo por testigo a aquel mismo Dios que tenía en su presencia, a quien iba a recibir bajo las sagradas especies y a cuyo tremendo tribunal debía en breve comparecer.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. (BAC. 48. 366)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en , que señala el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esposa querida y amada suya, por razón deste ayuntamiento que entre ellos se celebra cuando reciben los fieles dignamente en la hostia su carne, son una carne y un cuerpo entre sí.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 4, Esposo (Cl. C. 33. 220)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Tomar uno el título conveniente para ejercer una facultad o profesión, graduarse ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gocéis la plaza, dotor, | Muchos años, que autoricen | La cátedra vitoriosa, | Que hoy justamente os recibe.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amor médico , 3 (Cl. C. 131. 100)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Prnl . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es usted muy joven. ¿Qué edad tiene? —Veintisiete años. ¿Cuándo se recibió? Hace tres años.»",
+              "autor": "Fuentes",
+              "referencia_obra": ", Obr. compl . 1 (p. 1108)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar la profesión que se entra a desempeñar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El niño Agapito se recibió entonces de marcachifle, y recorrió las calles de Bogotá con el característico cajón colgado al cuello.»",
+              "autor": "R. Silva",
+              "referencia_obra": ", Artíc. de cost . p. 120. X"
+            },
+            {
+              "texto_cita": "«Ya estaba escribiendo el discurso para recibirse de doctor.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Se aplica a beneficios, consejos, etc. ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por tanto, señor cavallero, si sabéis dezirme dónde le hallaría, merced rescibiría muy grande que me lo dixéssedes.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo , 44 (Cl. C. 196. 84)."
+            },
+            {
+              "texto_cita": "«Hoy el mandar es de Sabino, y nuestro el obedecer; seguid Juliano, su voluntad, que el descanso que me ordena a mí, le recibo, no tanto en callar yo como en oiros a vos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3. 1 (3. 287). X"
+            },
+            {
+              "texto_cita": "«Mis humanos guardianes me han privado | Hasta del triste y necesario abrigo; | Mas tengo lumbre, y el papel amigo, | Que a recibir mi pensamiento va.»",
+              "autor": "Arboleda",
+              "referencia_obra": ", Poes . p. 89."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El acus. es una prop. indicativa. Además con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchos reciben de mí lo que no saben conservar.»",
+              "autor": "Quev.",
+              "referencia_obra": "La fortuna con seso (5. 405)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , que señala el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién más amigo de dar, si tuviese a quién, ni de recebir servicios a su costa?»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund. (Cl. C. 115. 114)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con que indica el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Os preguntamos de la lengua que se usa en la corte; y si alguna vez tocáremos cosas desotras provincias, recibiréislo con paciencia.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . ( Mayáns , Oríg. leng. esp. p. 29)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con de , que indica la persona que hace la entrega.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nuestra ánima ninguna claridad, ni virtud, ni gracia, ni habilidad para merecer tiene de sí mesma, sino sola aquella que recibe del verdadero sol de justicia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y medit . 3. 1 (2. 331 2 )."
+            },
+            {
+              "texto_cita": "«El ánima tiene vida de sí, y el cuerpo la recibe de ella.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 10 (3. 274)."
+            },
+            {
+              "texto_cita": "«Cierto es que Dios ama, y cada uno que no esté muy ciego, lo puede conocer en sí por los señalados beneficios que de su mano continuamente recibe.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares , pról . (4.1). — Además con en ."
+            },
+            {
+              "texto_cita": "«Y en el lecho de mano de los Dioses | El alto don del sueño recibieron.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 9 (1. 280)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con por , que que introduce un predicado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y para asegurarte desta verdad, aprieta la mano y recíbeme por esposo, si quisieres; que no tengo otra mayor satisfacción que darte del agravio que piensas que de mí has recebido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 60 (Cl. C. 22. 111). X"
+            },
+            {
+              "texto_cita": "«En presencia del aya y de un criado de su querido amante, le dio la mano y él la recibió por esposa, quedando con tan estrecho ñudo, con vínculo tan fuerte, enlaçadas sus almas en más perfecto y ligítimo amor.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 2 (Cl. C. 203. 127)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. Con por . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estos elogios, por causas manifiestas, son bien recibidos.»",
+              "autor": "Rdgz. Mohedano",
+              "referencia_obra": ", Hist. lit. esp . p. 25."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiero pagaros la merced recebida con dos qüentos.»",
+              "autor": "Cortés de Tolosa",
+              "referencia_obra": ", Lazarill. de Manzanares (Cl. C. 186. 81)."
+            },
+            {
+              "texto_cita": "«En tales amistades ni se han de considerar los vínculos de sangre ni las obligaciones de beneficios recibidos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 91 (R. 25. 239 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eran [los Moros] aficionados a los emperadores pasados, y al linaje de los Benhumeyas a causa de las muchas mercedes que de ellos tenían recibidas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 7. 5 (1. 334 2 ). X"
+            },
+            {
+              "texto_cita": "«Que parece [Lucrecio:] lo tomó [el proverbio Cursu lampada trado] de Platón, cuando, aconsejando la propagación, advierte que era necesaria para que como teda ardiente pasase a la posteridad de la vida recibida de los mayores.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 19 (Cl. C. 76. 177)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En el siguiente texto, Captar. trans . Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las criaturas unas veces se mueven de sí mismas y otras veces reciben el movimiento de otros.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. esp . 7 (6. 360 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Acoger a las personas o reconocerlas como autoridad o partícipes de alguna clase, corporación, relación personal.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Acoger como visitante ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando viene a vos, benignamente me recibistes.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 17 (3. 319 2 ). X"
+            },
+            {
+              "texto_cita": "«Oyólo decir esto el estudiante poeta hijo de don Diego, que con su madre había salido a recebirle, y madre y hijo quedaron suspensos de ver la extraña figura de don Quijote.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 18 (Cl. C. 13. 324)."
+            },
+            {
+              "texto_cita": "«Los naturales los recibieron [a Roger y los suyos] abiertas las puertas, como quien escapaba de tan dura servidumbre.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 14 (R. 21. 14 2 ). X"
+            },
+            {
+              "texto_cita": "«Recibiónos alegre el buen santero | Como a antiguos amigos.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Poes . (Cl. C. 63. 92). X"
+            },
+            {
+              "texto_cita": "«La tía Lorenza ya pudo reconstruir su pinche casa de Hamburgo y darse el gusto de correr a los judíos y a los gachupines y volver a recibir a las momias que quiera.»",
+              "autor": "Fuentes",
+              "referencia_obra": ", La reg. más transp. ( Obr . 1. 608)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tienes acabado con tu Eterno Padre, que perdone y reciba a su gracia a los pecadores, que por penitencia se convirtieren a él.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar 2 (3. 62)."
+            },
+            {
+              "texto_cita": "«Por lo cual fácilmente nos perdona Dios y nos recibe a su amistad.»",
+              "autor": "",
+              "referencia_obra": "J. de los Ángeles, Conq. del reino de Dios , 2 (p. 76)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con , que indica el modo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De cualquier manera y con cualquier ocasión que vamos a El, nos acoge y recibe con buen rostro.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 15 (R. 60. 388 1 ). X"
+            },
+            {
+              "texto_cita": "«Acrediten, pues, mis brazos | El amor con que os recibo.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 11). X"
+            },
+            {
+              "texto_cita": "«Y a Castilla al regresar | Me recibís con cantares.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Poes . (Cl. C. 63. 111)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en que indica: — el modo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijo que como su padre le recibiese en su gracia, volvería con todos los suyos a su obediencia.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 237 2 ). +"
+            },
+            {
+              "texto_cita": "«Llegó a Barcelona, donde sus moradores quisieron recibirle en triunfo.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 243 1 ). — El lugar. X"
+            },
+            {
+              "texto_cita": "«Y estad cierto que os haré vengado de vuestros enemigos tan a vuestro sabor, que digáys que en buena hora me recebistes en vuestra casa.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 5. 7 (Cl. C. 174. 153). X"
+            },
+            {
+              "texto_cita": "«También ha recibido hoy en su casa | Al ava de vuestra sobrina.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, La conjuración de Venecia 2 (Cl. C. 107. 324)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con un gerundio que indica el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ahora me salís a recibir dándome el conocimiento y memoria de la inocencia perdida.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 2. 5 (2. 422 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las grandes ciudades es fácil no recibir, aislarse, crearse una soledad, una Tebaida en medio del bullicio.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pepita Jiménez , p. 48. X"
+            },
+            {
+              "texto_cita": "«¿Y quién es? | —Se me da que la patrona de San Nicolás. | Anda y cerciórate. Y si es ella, que no recibo, ¿entiendes?»",
+              "autor": "Barrios",
+              "referencia_obra": ", Gran señor y rajadiablos , p. 107."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Pas. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Testigo [de la misericordia del Señor] aquella mujer pecadora, que a sus pies fue recibida.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del crist . 44 (R. 11. 212 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con mucho plazer fue recebido [el valiente caballero].»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo (Cl. C. 196. 135). — Además con de y por , para señalar el agente."
+            },
+            {
+              "texto_cita": "«Sabida su venida, y con alguna noticia de la embajada que traían, fueron recibidos de Andrónico con agradecido semblante.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 5 (R. 21. 6 2 )."
+            },
+            {
+              "texto_cita": "«Fue [Fernán Jiménez] de todos recibido con notables muestras de agradecimiento.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . (R. 21. 37 1 )."
+            },
+            {
+              "texto_cita": "«Fue recibido [el condestable] por el rey con las muestras de regocijo y gratitud.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna , 3 (34. 66)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , que indica el agente. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todas las cosas criadas an sido | Contrarias disformes con tanta de guerra | Assí es qualquier sabio en su propia tierra | De sus naturales mal rescebido.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Alcázar imperial (BALH. 18. 144)."
+            },
+            {
+              "texto_cita": "«Llegó el Marqués y fue bien recibido del Rey.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 3 (R. 21. 100 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salió la armada de Mesina, y con próspera navegación llegó a Malvasía, puerto de la Morea, donde fueron bien recebidos y ayudados con algún refresco por orden del Emperador.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 1. 7 (Cl. C. 54. 30)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Reconocer como autoridad ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con por y un predicado, que señala el cargo o calidad de quien se reconoce. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y diciendo esto, dio dos zapatetas en el aire, con muestras de grandísimo contento, y luego fue a tomar las riendas de la mula de Dorotea, y haciéndola detener, se hincó de rodillas ante ella, suplicándole le diese las manos para besárselas, en señal que la recibía por su reina y señora.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 30 (Cl. C. 8. 116)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por muerte de los Emperadores sobredichos fue recibido sin contradiciones por Emperador.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 4. 9 (1. 166 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Admitir como miembro de un conjunto de personas ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas lo que más le fatigaba era el no verse armado caballero, por parecerle que no se podría poner legítimamente en aventura alguna sin recibir la orden de caballería.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 2 (Cl. C. 4. 88)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , para expresar el conjunto al que se entra a formar parte. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Inhumanidad es rescebir niños y niñas a la Religión y muy gran crueldad es darles antes de tiempo la profesión.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 23 (p. 591)."
+            },
+            {
+              "texto_cita": "«El bien de las religiones está en no recibir al hábito sino solamente a aquellas personas de quien no se puede dudar que vienen llamadas de Dios.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 37 ( Míst. 1. 265)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ¿Por qué nó, si el hombre que proviene | De estirpe noble y clara; | Mucho más, cuando tiene | Suficiente dinero | Para ser recibido caballero?»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Arte poétic. de Hor. (4. 53)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Admitir a alguien en algún tipo de relación personal ( trans .)",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Determinó volver a su casa y acomodarse de todo, y de un escudero, haciendo cuenta de recibir a un labrador vecino suyo, que era pobre y con hijos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 4 (Cl. C. 4. 112). X"
+            },
+            {
+              "texto_cita": "«Atollábaseles la arismética en decir: Un oficio entre treinta y dos, ¿a cómo les cabe? Y restaban: Recibir uno y pagar treinta y dos no puede ser. Y todos se hacían el ‘‘uno’’ y encajaban a los otros el ‘‘no puede ser’’.»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos (Cl. Castal. 67.111). X"
+            },
+            {
+              "texto_cita": "«Pues siento no poder recibirla, María, porque precisamente tenemos cocina de hierro.»",
+              "autor": "R. Silva",
+              "referencia_obra": ", Artíc. de cost . p. 132."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , que expresa la calidad en que se acepta alguien.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Partió a toda prisa a Tarazona, y después a Zaragoza, donde para mayor seguridad se hizo recibir de vecino.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna , 3 (34. 28)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entiende bien lo que provees ---, pues me mandas que resciba a Saulo en novicio y que le dé el hábito de cristiano.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 7 (p. 503)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para , que expresa la calidad en que alguno es admitido. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era ley muy usada en el monesterio que nos rescibiesen para monjes a los que en las cosas ásperas no fuesen obedientes.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 45 (p. 698)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con por. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Navegó juntamente con él [Vassaill, religioso del Temple] Roger algunos años, y ganó tan buena opinión en el ejercicio que profesaba, que la religión le recibió por suyo.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 3 (R. 21. 5 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Pas . Con a para expresar el cuerpo de que se entra a formar parte. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lastimábase mucho --- de no ser recebido a las dignidades y oficios de magistrados y de honras superiores.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 2. 8 (Cl. C. 51. 61). +"
+            },
+            {
+              "texto_cita": "«Fueron [los Esguízaros] recebidos al gremio de la Iglesia solenemente.»",
+              "autor": "Fuenmayor",
+              "referencia_obra": ", Vida de Pío V , 5 (p. 195)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Enfrentar al adversario ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Marchaban las compañías de unos lugares a otros, y salían a recibirlas armados los paisanos, como a gente contraria.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 1 (R. 21. 468 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en , que señala la causa. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los masagetas, gente la más valiente de todas las naciones de levante, admirados más que atemorizados del caso, tomaron las armas y salieron a recibir sus enemigos en la defensa de sus hijos y mujeres.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 43 (R. 21. 40 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Taurom. Cuadrarse el diestro en la suerte de matar, para citar al toro, conservando esta postura, sin mover los pies, al dar la estocada, y resistir la embestida de la cual procura librarse con el quiebre del cuerpo y el movimiento de la muleta. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El matar recibiendo | A un toro cuando está huído | Y que no obedece al trapo, | Es un caso facilísimo | Que el diestro se encune, y salga | De entre las astas herido.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "Experimentar una sensación, impresión, placer o dolor ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan grande el gozo espiritual y alegría que recibieron, que no saben decir más de que les parecie que estaban en el cielo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . (Cl. C. 115. 216). X"
+            },
+            {
+              "texto_cita": "«Pidió, en entrando, un aposento, y como le dijeron que en la venta no le había, mostró recebir pesadumbre; y llegándose a la que en el traje parecía mora, la apeó en sus brazos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 37 (Cl. C. 8. 314). X"
+            },
+            {
+              "texto_cita": "«Acaso encontraría, investigando metafíscamente mi corazón, la causa que ha podido ponerme hoy en esta extraña disposición de ánimo; pero este trabajo me cansaría, y he dicho que no quiero hacer hoy impresiones, sino recibirlas.»",
+              "autor": "Larra",
+              "referencia_obra": ", Artíc. de cost . (Cl. C. 45. 155)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para señalar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mayor es la pena que he recibido con su muerte.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Ven Espír. Santo , 3 (2. 272). — El modo. X"
+            },
+            {
+              "texto_cita": "«Avnque, amigo Pinciano con las nueuas que desa tierra me soléys embiar, yo suelo recebir no pequeño regalo, con las de la carta passada fue tan grande, que no lo sé encarecer.»",
+              "autor": "L. Pinciano",
+              "referencia_obra": ", Philosophia (BALH. 19, 187)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el orden social el interés particular de los individuos recibe mayor seguridad de la opinión que de las leyes.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Informes (7. 38)."
+            },
+            {
+              "texto_cita": "«Lee, y tu tierno corazón reciba | De ellos [los rasgos] algún solaz.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. A Posidonio (1. 36)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por , que señala el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Considérese bajo el aspecto que se quiera la sensación, no es más que la impresión que recibimos por conducto de los órganos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. fund . (BAC. 37. 32)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl . Con de y una prop. infinitiva, que indica la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh que gozo se recibe de ver restaurarse aquellas sillas y edificarse aquella ciudad y repararse los muros de aquella noble Jerusalen!»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 1. 2 (2. 399 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Percibir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La flaqueza de nuestros entendimientos mejor recibe las cosas distintamente y poco a poco declaradas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3. 3. 2 (4. 519 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5.",
+      "definicion": "Aceptar, aprobar leyes, opiniones, dichos o costumbres ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aconsejó Anón al Senado que se compusiesen con los romanos, y por no haberlo hecho, recibieron después las leyes que quiso dalles Scipion.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 98 (R. 25. 256 2 ). X"
+            },
+            {
+              "texto_cita": "«Carlos previó que nada podría hacer en favor de su nación si antes no la preparaba a recibir estas reformas, si no le infundía aquel espíritu, de quien enteramente penden su perfección y estabilidad.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Discursos (Cl. C. 129. 65). X"
+            },
+            {
+              "texto_cita": "«¡Y recibe su culpa, como ropas | Cargadas de sudor y de vergüenza, | Sobre tus dos rodillas!»",
+              "autor": "Mistral",
+              "referencia_obra": ", Antol . p. 43."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así también solícitas apuran [las abejas] | El néctar blando que las urnas llena; | Y a las veces saliendo se apresuran | A recibir, de paz, la carga ajena.»",
+              "autor": "Caro",
+              "referencia_obra": ", Obr. de Virgilio (2. 60)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estas y otras cosas tales | Reciben en su razón | La costumbre y la opinión, | Y con ser maravillosas | Se juzgan fáciles cosas | Porque ya están recibidas.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 276)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. Con la prep. con , que indica el modo. Además con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sea conocidamente y con general aplauso recibida la opinión del príncipe por santa y justa.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 2. 12 (R. 18. 441 2 ). X"
+            },
+            {
+              "texto_cita": "«La moralidad misma que encierran y la instrucción que pueden suministrar, serían mal recibidas, si no viniesen ataviadas con las galas del estilo.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Arte de hablar , 2. 2 (p. 348)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por significando En calidad de, como. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aquello que dijo Plutarco, recibido está por adagio.»",
+              "autor": "Cascales",
+              "referencia_obra": ", Cartas filológ . 3. 5 (Cl. C. 118. 122)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Igualmente castizas pueden ser dos voces sinónimas, por razón de antigüedad y del uso nacional que las sanciona, o más castiza una que otra, y ésta, con todo, bien recibida, y malsonante aquélla en determinada jerarquía, a virtud de diferencias que, entre tales y cuales modos de hablar, tácita y convencionalmente quedaron establecidas.»",
+              "autor": "Caro",
+              "referencia_obra": ", Del uso , p. 48."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en , con sentido de como . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Está recebido en costumbre que el desafiador ha de dar y assegurar el campo, y el desafiado traer y escoger las armas con que ha de combatir, aunque las leyes en arbitrio del desafiado ponen lo uno y lo otro.»",
+              "autor": "A. de Valdés",
+              "referencia_obra": ", Diál. de Merc. y Carón , 2 (Cl. C. 96. 216). +"
+            },
+            {
+              "texto_cita": "«El chichi o chiche es un animalejo --- que no se distingue bien si es especie de gusano o de pescado, dado que está recibido por pescado, por usarlo por tal los indios.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo , 1. 7. 8 (R. 91. 289 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Loc. Recibir carta de naturaleza : hacer concesión a un extranjero de la gracia de ser tenido por natural del país. Los había de primera, segunda, tercera y cuarta clase, según las limitaciones que contenían. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchos nombres técnicos que reciben carta de naturaleza en el Diccionario vulgar, y penetran a las veces en el santuario de las Musas.»",
+              "autor": "Caro",
+              "referencia_obra": ", Del uso , p. 97."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Considerar, juzgar. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alguno querrá decir que la cabellera de la mujer se le puede recebir en lugar de barba ---.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist . 10. 13 (R. 162. 292 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque tratando el arte de la sonoridad, era preciso emplear la Poesía generalmente recibida por más sonora.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Música , pról . (1. 149)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6.",
+      "definicion": "Padecer una persona algo que le hacen o casualmente le sucede ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y no fue así; porque a poco más de tres estado dió fondo el rucio, y él se halló encima dél, sin haber recebido lesión ni daño alguno.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 55 (Cl. C. 22. 8)."
+            },
+            {
+              "texto_cita": "«Recibe [Julio] engaño, porque más seguro estoy de no enloquecer sin Dorotea, que con ella.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 3. 4 ( Obr. suelt . 7. 209)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , que indica el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si darme tales penas tenéis por cosa justa, sepa yo, señor mío, que es esse vuestro gusto, pues el solo entenderlo me hará que los reciba con más constante espíritu que vos me avéis amado; y con esta victoria moriré satisfecha.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 2 (Cl. C. 203. 140). X"
+            },
+            {
+              "texto_cita": "«Todos le juraron lealtad y miró esa foto del padre Pro, con los brazos abiertos, recibiendo la descarga.»",
+              "autor": "Fuentes",
+              "referencia_obra": ", Obr. complet. 1 (p. 1222)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recibió una bofetada un hombre de otro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3.1.19 (4.464 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues aunque al agua, errando, se derribe, | Hay cuerpo que su golpe en sí recibe.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Rimas (CL. C. 182. 83). +"
+            },
+            {
+              "texto_cita": "«Nombraron once personas para que se juntasen con los diputados que el Rey enviaría en el lugar donde fuese servido, para tratar de la enmienda que se había de dar a Berenguer por lo daños que había recibido en la pérdida de las galeras y en su persona.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 46 (R. 21. 44 1 ). +"
+            },
+            {
+              "texto_cita": "«Su mala estrella quiso que en el baile de máscaras recibiera la herida de amor que él --- presentía.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 1 (1. 87)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recibido algún mal suceso, no se ha de hacer la paz si la necesidad diere lugar a mejorar de estado.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 98 (R. 25. 255 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deseaba mucho no divertirse antes de vengar los agravios recibidos del Rey de Portugal.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 5 (2. 11 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. adj. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El afligido y afrentado viejo, desesperado y mudo, con larga enfermedad ocupó una cama, guardando en todos ellos con profundo silencio, en lo interior de su alma, la recibida injuria y diabólico enredo de don Luis.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 1. 4 (Cl. C. 202. 51)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con sujeto de cosa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya del olvido al amor | Anda el alma sin sosiego, | Porque ha recibido el fuego | Que encubrió mi altivo honor.»",
+              "autor": "M. de Amescua",
+              "referencia_obra": ", El ejemplo mayor de la desdicha , 3 (Cl. C. 82. 246)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Forma la expresión Recibir a prueba : pronunciar la sentencia interlocutoria, en que se mandan hacer las probanzas que convienen a cada una de las partes, para que la sentencia definitiva se pueda dar después con pleno conocimiento de causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De la sentencia interlocutoria de recibir a prueba tres maravedís de cada parte.»",
+              "autor": "",
+              "referencia_obra": "Recop . 2. 8 ( Autor. Dicc .). En el siguiente ejemplo, Permitir."
+            },
+            {
+              "texto_cita": "«Luego, si la fe se debe creer, no recibe disputa, porque la disputa tomada sola por sí engendra opinión.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 3. 2 ( Míst . 2. 48)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7.",
+      "definicion": "Albañ . Asegurar con yeso u otro material un cuerpo que se introduce en la fábrica; como un madero, una ventana, etc. ( trans .). Con la prep. con . X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«También le dará a ustedes (mi marido) cuatro o cinco baldosas que ha de haber rotas para que cuando vaya por allí el albañil las reciba con un poco de yeso.»",
+          "autor": "Pagés",
+          "referencia_obra": ", Dicc .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV : X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y si miraros condena | Y cualquier libre cativa, | No sé qué más bien reciba | Que gozar de tal cadena.»",
+          "autor": "Encina",
+          "referencia_obra": ", Poes. lír . (Cl. Castal. 62. 240). +"
+        },
+        {
+          "texto_cita": "«Muerto aquel cardenal, el papa Pío le recibió [al obispo de Coria] por su familiar, y le proueyó del deanadgo de Toledo.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 23 (Cl. C. 49. 131). X"
+        },
+        {
+          "texto_cita": "«Resçebido enseñamiento | En el huir del infante, | Pongamos fin a su cuento | Por proseguir el intento | Del Vita Christi adelante.»",
+          "autor": "Mendoza",
+          "referencia_obra": ", Canc . (Cl. C. 163. 121). X"
+        },
+        {
+          "texto_cita": "«El que lo reçibe [dineros contados] non toma trabajo e el que lo da muestra non querer vanagloria.»",
+          "autor": "Pz. de Guzmán",
+          "referencia_obra": ", Gener . (Cl. C. 61. 66). — Siglo XIV : +"
+        },
+        {
+          "texto_cita": "«Todos los de las otras villas et tierras llanas de Vizcaya venieron al Rey rescebirlo por Señor.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 137 (p. 265). +"
+        },
+        {
+          "texto_cita": "«Los reys bien se resçebieron | Todos con el su poder.»",
+          "autor": "",
+          "referencia_obra": "Alf XI , 1266 (p. 353). +"
+        },
+        {
+          "texto_cita": "«Mejor es resçebir los golpes delante e morir commo bueno, que resçebirlos en otra manera e morir commo malo.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 167 (p. 365). — Siglo XIII : X"
+        },
+        {
+          "texto_cita": "«E la vuestra piedat tan grande e tan conplida | Que siempre yo he de vos rescebida.»",
+          "autor": "",
+          "referencia_obra": "Vida de S. Ildef . (ICC. 36. 213). X"
+        },
+        {
+          "texto_cita": "«Mandó éll et defendió que ninguno nol llamasse rey fasta que recebiesse el sagramiento de la unción en la mayor eglesia de la cibdad de Toledo, como lo habíen en costumbre en aquel tiempo.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Crón. Gen . (Cl. Ebro, 46. 101). X"
+        },
+        {
+          "texto_cita": "«Rescibyeron los godos el agua a bautysmo.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz . (Cl. C. 128. 723). X"
+        },
+        {
+          "texto_cita": "«Quantas fueron las plagas que el Fijo sufrió, | Dizie él tantos gozos a la que lo parió: | Si bono fo el clérigo, e bien lo mereçió, | Ovo gualardón bueno, buen grado reçibió»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 4 (Cl. C. 44. 32). — Siglo XII . X"
+        },
+        {
+          "texto_cita": "«Firme estido Pero Vermuez, por esso nos encamó; | Vn colpe reçibiera,mas otro firió.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3630. ( Mndz. Pidal , p.1013). X"
+        },
+        {
+          "texto_cita": "«Moros le reçiben por la seña ganar, | Dan le grandes colpes, mas nol pueden falssar.»",
+          "autor": "Mndz. Pidal",
+          "referencia_obra": ", p. 931)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De re y cipere tema frecuentativo de capere ‘tomar, coger’. It. ricevere , fr. Recevoir , cat. rebre , port. recever . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

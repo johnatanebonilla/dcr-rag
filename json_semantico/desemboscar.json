@@ -1,0 +1,79 @@
+{
+  "lema": "DESEMBOSCAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer salir del bosque, de la espesura, de la emboscada.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los desemboscó con la artillería, con arte.»",
+              "autor": "Terreros",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Salir del bosque ó emboscada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los moros, que ya habían comenzado á desemboscarse y se mostraban á los enemigos, vista la determinación del duque, se recogieron á su fuerte.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granada, 4 (R. 21. 119 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. Con igual sentido que en la constr. refl. Así en Oudin, Franciosini y Terreros .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Sacar como de una espesura, desentrañar ( trans. ). Con de",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Quién podrá desemboscar de tan enmarañadas cláusulas alguna verdad, ó algún concepto que llene la curiosidad concebida?»",
+          "autor": "Luzán",
+          "referencia_obra": ", Poét. 2. 7 (1. 141)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desemboscarse: siluas relinquo .»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y emboscar . Port. desemboscar .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "constr. refl. Así en Oudin, Franciosini y Terreros . b) met. Sacar como de una espesura, desentrañar ( trans. ). Con de «¿Quién podrá desemboscar de tan enmarañadas cláusulas alguna verdad, ó algún concepto que llene la curiosidad concebida?» Luzán , Poét. 2. 7 (1. 141). Per. antecl. Siglo XV: «Desemboscarse: siluas relinquo .» Nebrija , Vocab . Etim. Compuesto del prefijo negativo des y emboscar . Port. desemboscar . Ortogr. Antes de e se escribe qu : desembosque . \u0000"
+}

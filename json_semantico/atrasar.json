@@ -1,0 +1,259 @@
+{
+  "lema": "ATRASAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer que algo se verifique después del tiempo fijado ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mucho menos podrá dispensar el rector enteramente alguno de dichos ejercicios, pues si ocurriese [ocurriere] grave y urgente causa que no permita tenerle en el día ó la hora señalados, podrá adelantarle ó atrasarle, pero nunca suprimirlo del todo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 2. 5 (R. 46. 218 2 )."
+            },
+            {
+              "texto_cita": "«Había muerto de repente en Zaragoza el gran canciller Selvagio su favorecedor y esto al parecer atrasaba el buen despacho de lo que con tanto ardor pretendía.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 445 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Retardarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La contratación de América aumentó la importancia de las ferias de Medina, las cuales solían atrasarse cuando se atrasaban las flotas.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr. 11 ( Mem. Acad. Hist. 6. 268)."
+            },
+            {
+              "texto_cita": "«Hemos debido --- decir algo del estado en que se hallaba Castilla, como una de las causas porque se detuvo la resolución del cardenal y se atrasaron las dependencias de Cortés.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 7 (R. 28. 353 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un compl. sin prep. para expresar la duración del retardo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Perderán un curso en la universidad, atrasarán un año la recepción del grado, y tal vez perderán el derecho de ser admitidos á la licenciatura.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 2. 5 (R. 46. 228 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Fijar en época posterior ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con un compl. sin prep. para denotar el tiempo que media entre las épocas de que se trata.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sirve [la bula de Paulo III] para corregir la equivocación del P. Huesca, que siguiendo incautamente al canónigo Sesé, atrasa un año este suceso.»",
+              "autor": "",
+              "referencia_obra": "Esp. sagr . 48, p. 41."
+            },
+            {
+              "texto_cita": "«Sigue después el [reinado] de Enrique IV, y en él refiere la privanza de D. Álvaro de Luna y su trágíca muerte, atrasándola cerca de veinte y cinco años, atribuyendo á D. Enrique lo que pertenece á su padre don Juan.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 80."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con hasta , que fija el término á que llega el retardo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hay quien le fije [el establecimiento de nuestra escena profana] en la entrada del siglo XVI para hacerle coetáneo de la musa dramática de Naharro, y quien le atrase hasta el reinado de Felipe II, para encontrarse con Lope de Rueda, comúnmente tenido por padre y restaurador de nuestro teatro.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect . 1 (R. 46. 488 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El principio de esta arquitectura no puede atrasarse más que hasta los fines de aquel siglo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de V. Rodr. nota 10 (R. 46. 380 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl . Quedarse, atrás.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en . Atrasarse en los estudios.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á , para expresar lo que no se puede igualar ó alcanzar (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como tan pequeños, como tan hombrecillos nos atrasamos á tanta grandeza.»",
+              "autor": "",
+              "referencia_obra": "Corral, Argenis, fol 103 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. dep. Hay que aguardar á los atrasados.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las cartas atrasadas de estafetas.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rim. de Burg. son. 94 ( Obr. suelt. 19. 94)."
+            },
+            {
+              "texto_cita": "«Mis nuevas | Algo atrasadas serán, | Y debisteis ya tenerlas.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea, 1. 2 (163)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Que dejó de pagarse al tiempo debido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recíbase esta cadena en prendas de los veinte ducados atrasados y de cuarenta que ofrezco por la venidera cuchillada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 3 (R. 1. 143 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Que no ha adelantado ó progresado. Los alumnos atrasados.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atrasado en el estudio.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "met. Atrasado de noticias: que ignora lo que saben todos ó lo que es muy común.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Toma! ¿Pues no lo sabe usted? Muy atrasada está de noticias.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A la vejez viruelas, 2. 16 (1. 11)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Tocar el registro del reloj á fin de que el volante gire con menos velocidad ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Hacer que el reloj señale tiempo que ya ha pasado.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Se dice del reloj que se atrasa cuando anda más despacio de lo que pide la medida justa del tiempo .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. Se dice que atrasa cuando, teniendo un movimiento regular, señala la hora después de lo que debe.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Él sacó su reloj; mostróle, y dijo: | ¿No ven ustedes cómo vengo á tiempo? Las dos en punto son. — i Qué disparate! | Le respondieron; tu reloj atrasa | Más de tres cuartos de hora.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb. 58 (1. 93). —"
+            },
+            {
+              "texto_cita": "«Las once y media; | Y yo atraso once minutos.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Me voy de Madrid, 3. 14 (2. 74)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Refl . Padecer menoscabo en los bienes de fortuna.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La alternativa de no hacer mal á alguno, ó de atrasarse uno mismo si no hace algún mal á otro, es de una tiranía tan despótica, que sólo puede resistirse á ella por la invencible fuerza de la virtud.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr . 52 (2. 220)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part . Alcanzado, empeñado, escaso de recursos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«i Su dinero de usted! ¡su dinero de usted! ¿Qué dinero tengo yo, parlera? ¿No he dicho yo que estoy muy atrasado? No puedo dar nada, no hay que cansarse.»",
+              "autor": "Mor.",
+              "referencia_obra": "El médico á palos , 3. 10 (R. 2. 472 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Se dice del que no ha recibido todo lo que se le debía. Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un abrazo recibí; | Estoy atrasado en seis.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea, 1. 5 (165)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de atrás . Port. atrasar , atrazar ; cat. atrassar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

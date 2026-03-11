@@ -1,0 +1,55 @@
+{
+  "lema": "DESCONTINUAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Romper la continuación, hacer que algo no sea continuo ó que no siga haciéndose ó sucediendo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Descontinuar la serie, la impresión del libro.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque no se descontinuase el comercio de las naves portuguesas que venían de la China, permitía que en el puerto de Nangasaqui quedasen algunos.»",
+              "autor": "Clem.",
+              "referencia_obra": "VIII , 58 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Interrumpir la ejecución de un acto, no continuar, dejar ( intrans. ). Con en , lo mismo que el verbo simple.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No descontinuaré en ofrecer por su eterno descanso los sacrificios á que di principio desde la primera noticia.»",
+          "autor": "Isla",
+          "referencia_obra": ", Cart. famil . 2. 12 (R. 15. 558 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y continuar . Port., cat. descontinuar ; it. discontinuare. En cast. se dice también discontinuar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "Se acentúa como el simple: descontinúo , descontinúen . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,365 @@
+{
+  "lema": "ABURRIR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "El sentido originario de Aborrecer fue muy común en castellano antiguo; aun se conservaba en el lenguaje literario del siglo XVI, y todavía corría entre el vulgo en el XVII, según se ve en Tirso de Molina. Hasta esta época aparece la forma aborrir , en especial en el participio.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No es ése, pastor, mi grave cuidado; | Mas verme penado de muerte herido, | De mano de quien me tiene aborrido.»",
+          "autor": "Mor.",
+          "referencia_obra": "Oríg . (R. 2. 232 2 )."
+        },
+        {
+          "texto_cita": "«Ninguno se acerque, digo, | Si no es que aburrida tenga | La vida.»",
+          "autor": "Tirso",
+          "referencia_obra": ", Desde Toledo á Madrid, 3. 12 (R. 5. 499 1 )."
+        },
+        {
+          "texto_cita": "«El desdichado mancebo, | Viéndose della aborrido, | Huyó agravios y despechos.»",
+          "autor": "",
+          "referencia_obra": "Id. La ventura con el nombre, 2. 17 (R. 5. 530 3 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Es arcaísmo que no merece imitarse, por más que Jovellanos haya dicho:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No presumas | Que podrá el bien de las acciones nuestras | Ser objeto jamás. El mal solmente | Lo puede ser, el mal tan aborrido, | De la alta voluntad que repugnamos.»",
+              "autor": "",
+              "referencia_obra": "Paraíso perd. (R. 46. 27 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "definicion": ". Dejar alguna cosa con ánimo de no volver á ella, aborreciéndola. Dícese de las aves que aburren el nido, los hijos ó los huevos. Acad . Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Por una metonimia muy expresiva (á la cual se agrega personificación, si el sujeto es nombre de cosa): Molestar hasta provocar aversión ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aburrir es causar molestia; fastidiar es cansar la paciencia. Los males aburren; la monotonía fastidia. La duración prolongada de las sensaciones agradables fastidia, como sucede en el empalagamiento; pero no se dirá que lo que es grato aburre. --- La adulación fastidia; los desatinos aburren.»",
+              "autor": "Mora",
+              "referencia_obra": ", Sinón. p. 5 ."
+            },
+            {
+              "texto_cita": "«Aquí se trata | De acosarle, de aburrirle, De obligarle á que se vaya.»",
+              "autor": "Mor.",
+              "referencia_obra": "El baron, 2. 5 (R. 2. 384 3 )."
+            },
+            {
+              "texto_cita": "«Se fastidió [ Conde] muy presto, y le fastidiaron y aburrieron los que en tiempo más feliz eran sus hermanos y parientes y amigos.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr . póst . 2, p. 258."
+            },
+            {
+              "texto_cita": "«Acaso por aburrir | A estos tacaños dijiste | Que tus riquezas perdiste.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Tanto vales cuanto tienes, 2. 30 (4. 70)."
+            },
+            {
+              "texto_cita": "«Al instante | El tráfico me aburrió, | Tan contrario á mi carácter.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelvo, 1. 4 (1. 72)."
+            },
+            {
+              "texto_cita": "«¡Por Lucifer, | Borracho, que ya me aburre | Tu plática sempiterna!»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, Los dos Guzmanes, 1 . 4 (1. 242)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aburre con sermones y regaños | A todos los que tienen menos años.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Arte poétic. de Hor. (4. 25)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Así como de decir que un objeto nos enfada, nos fastidia, nos horroriza, se ha pasado á decir que nos enfadamos, nos fastidiamos, nos horrorizamos de un objeto, lo mismo de Esto me aburre, se ha pasado a Me aburro de esto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Concebimos que un hombre se fastidie de los goces que proporcionan las riquezas; pero el que se aburre es el que lucha con la suerte adversa y con los males de la vida.»",
+              "autor": "Mora",
+              "referencia_obra": ", Sinón . p. 5."
+            },
+            {
+              "texto_cita": "«Aburríme y vendíselas [las comedias] al tal libero.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Com. Pról . ( Com . 1. LXIII)."
+            },
+            {
+              "texto_cita": "«Tanto me pierde el decoro, | Que se aburre si le adoro.»",
+              "autor": "Lope",
+              "referencia_obra": ", Contra valor no hay desdicha , 1. 6 (R. 41. 2 3 )."
+            },
+            {
+              "texto_cita": "«Porque la fiesta no agüéis | Ni el baile de aqueste día, | Aunque me afriga [pronunciacion vulgar por aflija ] y me aburra, | No he de decir lo que ha habido.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El pretendiente al revés , 1. 4 (R. 5. 22 2 )"
+            },
+            {
+              "texto_cita": "«Se aburre, y toma el partido de echar un sueño mientras llega la tonadilla.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 81)."
+            },
+            {
+              "texto_cita": "«El hombre formal se aburre, Y los tontos... se distraen.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelvo , 1. 3 (1. 73). —"
+            },
+            {
+              "texto_cita": "«Abúrrome, y escojo. — Dios te guíe. | — Si te aburres, Trampagos, la escogida | También será aburrida. — Errado anduve. | Sin aburrirme escojo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El rufián viudo . ( Com . 1. 203)."
+            },
+            {
+              "texto_cita": "«Obligádome has á que me aburra, | Y que á tu carta ó maldición responda.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, sát . (R. 69. 235 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dice el Salvador: El que ama su vida, ése la destruye; y el que la aborrece, ése la guarda para la vida eterna. Lo cual no se entiende del mal odio (como el que tienen los hombres aborridos y desesperados), sino del que tuvieron los santos á su propia carne.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 15, § 6 (R. 6. 147 2 )."
+            },
+            {
+              "texto_cita": "«Algunos, de aborridos, se matan, pensando que con la muerte acabarían las miserias y molestias de la vida.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Tribul . 1. 2 (R. 60. 363 1 )."
+            },
+            {
+              "texto_cita": "«Y así lo veréis andar --- | Recatado y sospechoso, | Importuno y desabrido, | Descontento y enfadoso, | Y gastado y aborrido.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 223 1 )."
+            },
+            {
+              "texto_cita": "«Tal vez por aburrido, | Viéndose aislado y sin medios, | Se ausentará de Sevilla.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Tanto vales cuanto tienes , 3. 7 (4. 82)."
+            },
+            {
+              "texto_cita": "«Por fin, viéndose aburrido | El pobre, tomó el portante.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelvo , 1. 6 (1. 75)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aburrirse de todo.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dámela [la mano], no seas cruel. |— Hágase allá; no se aburra | Por ella; que tiene dueño.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La villana de Vallecas , 2. 5 (R. 5. 54 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "Aventurar ó gastar algún dinero con el fin de lograr alguna ganancia ó diversión. Dícese también del tiempo, como Aburrir una tarde. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Extensivamente ( ant. y raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y pues que te quejas que ansina te trata, | Abúrrela un tiro con este mi dardo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg . (R. 2. 233 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo le dixe: ¿si podré | A tu mal dar algun medio? | Dixome: no, y el porque, | Es porque aborri el remedio | Quando del desesperé.»",
+          "autor": "Sánchez",
+          "referencia_obra": "de Badajoz ( Canc. de Baena , LXVIII)."
+        },
+        {
+          "texto_cita": "«La cara que muestras á los del infierno | Haré que la vuelvas al cielo superno | Tábida, aborrida y sin alabança.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 250 (87 2 )."
+        },
+        {
+          "texto_cita": "«Ansi fluctuosos, fortuna aborrida, | Tus casos inciertos semejan y tales, | Que corren por ondas de bienes y males | Haciendo no cierta ninguna corrida.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 12 (6 1 )"
+        },
+        {
+          "texto_cita": "«Tomatme en vuestro partido | Como quiera, | Porque, viviendo, non muera | Aborrido.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 449."
+        },
+        {
+          "texto_cita": "«El mi grant thesoro ya non aprovecha | que ove aborrydo por toda España.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 44 ."
+        },
+        {
+          "texto_cita": "«A vos me querello de vuestro marydo, | Que non sé por qué me tiene aborrydo, | E nunca me quiere fablar nin me llama.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 75."
+        },
+        {
+          "texto_cita": "«Alumbre á los prinçipes amar la justiçia; | Aburran judios é la vyl avariçia.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 119."
+        },
+        {
+          "texto_cita": "«E la suelta vanidat | Fue de mi syempre aborryda.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 260. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Cierto es que non podria ninguno resçebir | Nin alcançar la sçiençia, si se non fuera partir | Con todas las sus fuerças de en tal mundo biuir, | E fechos mundanales todos los aborrir.»",
+          "autor": "Pal.",
+          "referencia_obra": "1170 (R. 57. 463 2 )."
+        },
+        {
+          "texto_cita": "«Que cuydas que farán los pobres doloridos | Que moran en las casas de lodo aborridos?»",
+          "autor": "",
+          "referencia_obra": "Ib . 913 (R. 57. 456 1 )."
+        },
+        {
+          "texto_cita": "«Los males son en caso semejante de las melecinas, amargas é pesadas para el que las bebe, é son aborridas dél.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 18. 22 (R. 66. 567 2 )."
+        },
+        {
+          "texto_cita": "«Fis con el grand pesar esta trova cazurra, | La duenna que la oiere por ella non me aburra.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 104 (R. 57. 230 2 ). — Siglo XIII"
+        },
+        {
+          "texto_cita": "«Pues ella vos mostró el mundo aborrir, | Pues que comenzastes non querades fallir.»",
+          "autor": "S. Ildef.",
+          "referencia_obra": "(R. 57. 326 1 )."
+        },
+        {
+          "texto_cita": "«Non digo esto que vos oides con miedo de la muerte, que aun maguer que aborrida sea, rion la puede ninguno excusar.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 36 2 )."
+        },
+        {
+          "texto_cita": "«Dice por lengua de su propheta: Aborridas á mi alma vuestras pascuas, é vuestros sábados, é vuestros comienzos de meses.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 5 (190)."
+        },
+        {
+          "texto_cita": "«Estos atales agoradores son aborridos de Dios.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6. 2. 3 (105)."
+        },
+        {
+          "texto_cita": "«Pora los otros malos que fazen mala vida, | Que an la carrera derecha auorrida, | Fue fecho el infierno.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2175 (R. 57. 214 1 )."
+        },
+        {
+          "texto_cita": "«Mas se quisierdes esto vna uez auorrir | Fare uenir a Dario a merçed nos pedir.»",
+          "autor": "",
+          "referencia_obra": "Ib . 188 (R. 57. 153 1 )."
+        },
+        {
+          "texto_cita": "«Commo me lo podria el coraçon sofrir | Que yo atal amiga pudiese aborrir.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 277 (R. 57. 292 2 )."
+        },
+        {
+          "texto_cita": "«Et por salvar las almas el mundo aburriestes.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 497 (R. 57. 55 2 )."
+        },
+        {
+          "texto_cita": "«Sennor San Beneito, con los escapulados, | Que aburrieron el sieglo, visquieron ençerrados.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 525 (R. 57. 56 2 ) ."
+        },
+        {
+          "texto_cita": "«Padre, qui por la alma el cuerpo aborriste, --- | Ruega por nos ad Dominum a qui tanto serviste.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 767 (R. 57. 64 1 )."
+        },
+        {
+          "texto_cita": "«Que por salvar las almas las carnes aburrieron.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill. 306 (R. 57. 74 1 )."
+        },
+        {
+          "texto_cita": "«Entendió que Cantabria era a Dios fallida: | Si non se meiorasse que serie destruida, | Ca eral Dios irado, aviela aborrida.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 281 (R. 57. 73 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. aborrir , aborrecer; cat. aborrir , aborrecer, aburrir, aburrir; prov. aborrir, aorrir, aborrecer; fr. ant, aborrir , it. abborrire: del lat. abhorrere, comp . de ab, que expresa separación, y horrere , tener horror: apartar, apartarse con horror. Cp. Schuchardt , Vokal . 1. 272. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

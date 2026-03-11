@@ -1,0 +1,227 @@
+{
+  "lema": "DESCABALGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Apearse de una caballería ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos descabalgaron y le besaron la mano.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab. 155 (63 1 )."
+            },
+            {
+              "texto_cita": "«Apenas dio lugar el rey á que descabalgase el guerrero, el cual echó pie á tierra.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", H. P. del Pulgar (4. 30)."
+            },
+            {
+              "texto_cita": "«Y sin descabalgar siquiera, se encaminó á la iglesia, seguido de un tropel de guerreros.»",
+              "autor": "Solís",
+              "referencia_obra": ", 2. 23 (4. 371)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para especificar la caballería.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descabalga de una mula | Y en un caballo cabalga.»",
+              "autor": "",
+              "referencia_obra": "Romanc . (R. 16. 90 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hablándose de cañones y otras máquinas de guerra se decía antiguamente por Desmontar, ya se tratase de sacarlos para algún fin de la cureña ó montaje, ya fuese con el tiro de la artillería enemiga ( trans. ). Se halla también desencabalgar .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si bien antes desto le hubiese entrado la artillería con que poder batir la plataforma del rebellín, desencabalgando las piezas que estaban en él, no era de gran momento.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerras de los Países Bajos , 9. 11 (R. 28. 486 1 ; cita de Almirante )."
+            },
+            {
+              "texto_cita": "«Había pasado ya el conde de Varas seis cañones al puesto de La-Barlota, con los cuales --- se comenzó á inquietar el fuerte y á desencabalgalle algunas piezas.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 9 (R. 28. 113 1 )."
+            },
+            {
+              "texto_cita": "«También dicen que de Lérida con la artillería le habían desencabalgado algunas de sus piezas al de Condé.»",
+              "autor": "Almirante",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Aunque los enemigos desencabalgaron pronto muchas piezas, ofendíales en gran manera la fusilería de las murallas.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist. 10 (R. 64. 218 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Prosiguió la [artillería] del Vich día y medio en fulminar sin cesar, y con tal efecto que nueve cañones del campo español quedaron descabalgados.»",
+              "autor": "",
+              "referencia_obra": "Barén, Guerras de Flandes , 3. 2 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«Tenían ya rotas ó desencabalgadas diez piezas de artillería.»",
+              "autor": "Clem.",
+              "referencia_obra": "VIII , 42 ( Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Esta acepción corresponde al sentido trans. de Hacer apear ó bajar del caballo, quitar el caballo, que nos ofrecen autores anteclásicos.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E llegando cerca la procesión, el rey descavalgó.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 8. 8 (R. 68. 360 2 )."
+        },
+        {
+          "texto_cita": "«El rey, é la reyna é el maestre fueron á descavalgar al alcazar.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 74 (192)."
+        },
+        {
+          "texto_cita": "«Siguieron el alcance, firiendo, é prendiendo, é descavalgando dellos, fasta acerca de la villa de Olmedo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 55 (151)."
+        },
+        {
+          "texto_cita": "«Amigos, conviene que descabalgueis, que aquí viene el rey.»",
+          "autor": "",
+          "referencia_obra": "Ib . 11 (36)."
+        },
+        {
+          "texto_cita": "«E de aquella guisa volvían al palacio á la hora del comer, é descavalgaban todos, é iban á la sala.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 117."
+        },
+        {
+          "texto_cita": "«Despues que ovieron descavalgado á las puertas ordenadas ---»",
+          "autor": "Seg. de Tordes.",
+          "referencia_obra": "11 (21 1 )."
+        },
+        {
+          "texto_cita": "«Que por su priesa en verdat | Yo fynco descavalgado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 65. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Fasta que descavalga, yo nunca le digo nada.»",
+          "autor": "Pal.",
+          "referencia_obra": "446 (R. 57. 439 1 )."
+        },
+        {
+          "texto_cita": "«E él estonce descavalgó de un caballo en que venia, é fincó los finojos en tierra»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 18. 34 (R. 66. 577 2 )."
+        },
+        {
+          "texto_cita": "«Querian descavalgar de las bestias é venir de pie al rey --- pero el rey non quiso que ninguno descavalgase.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 10 (R. 66. 432 1 )."
+        },
+        {
+          "texto_cita": "«Descavalgó el rey del caballo é entró en una hermita que alli estaba.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 10 (R. 66. 432 1 )."
+        },
+        {
+          "texto_cita": "«Et desque Martin Alfonso et los de Córdoba entraron en el logar, fueron descabalgar cerca de la iglesia.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 108 (R. 66. 242 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Cuando lo vio así caido en tierra, díjole como reyendo: Gran vergüenza debia haber todo hombre bueno á quien tan á menudo descabalgan sin su grado.»",
+          "autor": "",
+          "referencia_obra": "Conq. de Ultr . 2. 35 (R. 44. 165 2 )."
+        },
+        {
+          "texto_cita": "«Deben dexar en derredor destas [puertas] plaza en que descabalguen los que venieren ver al rey.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 23. 20 (2. 245)."
+        },
+        {
+          "texto_cita": "«E luego que llegó á su casa, descabalgó de su caballo.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 62 2 )."
+        },
+        {
+          "texto_cita": "«Quandol vieron de pie que era descaualgado ---»",
+          "autor": "Cid",
+          "referencia_obra": ", 1757 (R. 57. 20 2 )."
+        },
+        {
+          "texto_cita": "«En cabo del cosso Myo Cid desca[ua]lgaua.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1592 (R. 57. 19 1 )."
+        },
+        {
+          "texto_cita": "«Legó a Sancta Maria: luego descaualga. | Ffincó los ynoios, de coraçon rogaua.»",
+          "autor": "",
+          "referencia_obra": "Ib . 53 (R. 57. 2 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¡Nullus homo non rignoret ganado, et non descavalget, caballero.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Uclés , año 1179 ( Llor. Prov. Vasc. 4. 241)."
+        },
+        {
+          "texto_cita": "«El homine qui non sit de Calatajube, si mataverit homine de Calatajube aut prendiderit vel distavalgaverit, pectet M morabatinos.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Calatayud, año 1131 ( Esp. sagr. 49. 349)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y cabalgar. Port. descavalgar ; cat. descabalcar ; prov. descavalcar ; it. discavalcare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe gu : descabalgué, descabalguen. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,76 @@
+{
+  "lema": "APRONTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Disponer, prevenir con prontitud ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entretanto no se descuidaba D. Patricio en ir aprontando su plática sobre los estudios de la niñez.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 31)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Anquises, entretanto, el aparejo | De los buques dispone que se apronte, | Porque no haya retardo, ya que fresco | El viento ayuda.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida, 3 (3. 225)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Con para, que expresa el designio de la prevención.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se presentaron en medio del círculo que formó el concurso, en ademán de aprontarse para la disputa.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell. (R. 63. 408 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Entregar sin dilación ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo, mis señores, no puedo | (Dios sabe lo que me pesa) | Menos de que este recibo | Se me asegure, ó con prenda | Suficiente, ó aprontando | La corta suma que reza.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Tanto vales cuanto tienes, 2. 29 (4. 69)."
+        },
+        {
+          "texto_cita": "«Vuelven los facciosos al pueblo, entran en casa del anciano --- y por contribución extraordinaria le intiman que apronte hasta el último ochavo.»",
+          "autor": "Hartz.",
+          "referencia_obra": "El ama de llaves (369)."
+        },
+        {
+          "texto_cita": "«Aprontas | Cinco mil duros, y yo | Diez mil.»",
+          "autor": "",
+          "referencia_obra": "A. L. de Ayala, El tanto por ciento, 1. 15 (5. 75)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y pronto . El Dicc. Autor. dice que es voz modernamente usada. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

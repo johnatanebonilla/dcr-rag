@@ -1,0 +1,134 @@
+{
+  "lema": "AMÉN. (I)",
+  "categoria_gramatical": "adv.",
+  "introduccion": "--> adv.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Excepto, fuera de (ant). Con de.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si vuestra merced, señor caballero, busca posada, amén del lecho (porque en esta venta no hay ninguno), todo lo demás se hallará en ella en mucha abundancia.»",
+          "autor": "",
+          "referencia_obra": "Cerv: Quij . 1. 2 (R. 1. 259 2 )."
+        },
+        {
+          "texto_cita": "«Dios loado, mi alma tengo en las carnes, y todos mis dientes y muelas en la boca, amén de unos pocos que me han usurpado unos catarros que en esta tierra de Aragón son tan ordinarios.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 48 (R. 1. 503 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "A más de, además de ( fam. ). Con de.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Este mesón es suyo, y amén desto tiene muchos majuelos y otros dos pares de casas.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov. 1 (R. 1. 115 2 )."
+        },
+        {
+          "texto_cita": "«Yo he visto á otros de menos habilidad que ellos salir cada día con más de veinte reales en menudos, amén de la plata, con una baraja sola, y ésa con cuatro naipes menos.»",
+          "autor": "",
+          "referencia_obra": "Id. Nov. 3 (R. 1. 144 2 )."
+        },
+        {
+          "texto_cita": "«Pusiéronse en camino con mulas propias y con dos criados de casa, amén del ayo, que se había dejado crecer la barba porque diese autoridad á su cargo.»",
+          "autor": "",
+          "referencia_obra": "Id. Nov. 8 (R. 1. 184 1 )."
+        },
+        {
+          "texto_cita": "«Amén de los corredores del asno, estaban otros cuatro aguadores.»",
+          "autor": "",
+          "referencia_obra": "Id. Nov . 8 (R. 1. 193 1 )."
+        },
+        {
+          "texto_cita": "«Hubo un labrador --- al cual dio Dios, amén de las muchas y grandes riquezas, una hija de cuyo parto murió su madre.»",
+          "autor": "",
+          "referencia_obra": "Id. Quij . 1. 12 (R. 1. 277 1 )."
+        },
+        {
+          "texto_cita": "«Le condenaron por seis años á galeras, amén de doscientos azotes que ya lleva en las espaldas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 2 (R. 1. 303 2 )."
+        },
+        {
+          "texto_cita": "«Dos ducados ganaba cada mes, amén de la comida.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 28 (R. 1. 464 1 )."
+        },
+        {
+          "texto_cita": "«Las ventanas, amén de estar con llave, las guarnecen con rejas y celosías.»",
+          "autor": "",
+          "referencia_obra": "Id. El viejo celoso ( Com . 2. 319). Item, Quij . 1. 26 (R. 1. 319 1 )."
+        },
+        {
+          "texto_cita": "«Basta por hoy, porque, amén de lo dicho, el otoño, que ha sido muy rigoroso, me ha traído muy resfriado.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Corresp. con Posada (R. 50. 201 1 )."
+        },
+        {
+          "texto_cita": "«No me quejaré ni de Gabriel Pieras, que nos trajo á punto cuatro halijas, ni de usted, que envió en ellas tres cartas y dos notas escritas en ocho días, y amén de esto, las acompañó con una del padre Corredor á don Antonio Carlos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (R. 50. 253 2 . Item, p. 258 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Según Cabrera , es compuesto de á y menos ; confirma esta opinión la circunstancia de haber sido muy común la locución á menos de en el sentido de sin , la cual en su formación guarda analogía con á más de :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mando que las non fagan [las entregas] á menos de los alcalldes o de los jurados, e si los non pudieren auer fagan las con otros omnes buenos.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez , año 1268 ( C. de L. y C . 1. 82)."
+        },
+        {
+          "texto_cita": "«Tovo por bien santa Eglesia que non andodiesen los perlados á menos de camisas romanas sobre los otros paños.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 39 (1. 224)."
+        },
+        {
+          "texto_cita": "«Non pueden bien fazer a menos destas dos cosas, de defender lo suyo, e ganar de lo de los enemigos.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 97)."
+        },
+        {
+          "texto_cita": "«Todo ome debe saber que non puede seer rey a menos de regno, nin regno sin rey.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 30)."
+        },
+        {
+          "texto_cita": "«El ome desto todo non puede aver nada por sise amenos de ayuda de muchos.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 1. 3 (O. L. 1. 13)."
+        },
+        {
+          "texto_cita": "«A menos de ella nada non se guiaba.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 22 (R. 57. 104 1 )."
+        },
+        {
+          "texto_cita": "«A menos de lid nos partirá aquesto.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1106 (R. 57. 14 2 ). El sentido Además de, fuera de, se ha desenvuelto en amén de, á menos de por los mismos trámites que en sin , según se ve claramente por este pasaje de Juan de Mena :"
+        },
+        {
+          "texto_cita": "«De gran estrado de rosas | Vi la fuente circundada | E de sillas muy fermosas, | A menos de otras cosas, | En torno bien ordenada; Sillas de ricas labores | Vacantes de sus señores | Vi de fieras esculpidas, | Sin otras que vi guarnidas | De muy prudentes actores.»",
+          "autor": "",
+          "referencia_obra": "Coron . 35 (17 2 ). Compárese esta locucion provenzal:"
+        },
+        {
+          "texto_cita": "«Pauc val sella ab meinhs d'arzons.»",
+          "autor": "Raynouard",
+          "referencia_obra": ", Lex. rom .) \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

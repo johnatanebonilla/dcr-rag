@@ -1,0 +1,20 @@
+{
+  "lema": "IRRITAR. (II)",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. for. Anular, invalidar (raro) ( trans .). «A los que no guardaren este orden, da por inhábiles el santo concilio, irritando el tal contrato.» Gran. Doctr. crist . 3. 16 (R. 11. 167 1 ). X «Los votos que accesoriamente tocan a la hacienda no los pueden irritar cuando son accesorios de los principales.» Azpilcueta.( Pagés , Dicc .). X «Irritar el voto es quitarle toda su obligación, quien tiene autoridad dominativa sobre la persona que hizo el voto.» M. de la Parra ( Pagés , Dicc.).",
+  "acepciones": [
+    {
+      "id": "Etim.",
+      "definicion": "De irrito ‘inválido, sin fuerza ni obligación’, voz que aparece testimoniada en Palencia: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Es testamento irrito el que no es fecho a derechas.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab . 225b; y éste del lat. irritus ‘sin valor, sin vigencia’. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

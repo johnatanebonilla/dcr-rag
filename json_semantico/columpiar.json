@@ -1,0 +1,119 @@
+{
+  "lema": "COLUMPIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Mecer, mover compasadamente de un lado á otro un objeto suspenso; y en especial, impeler al que está puesto en el columpio ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«También hacían ciertas figuras y las vestían como hombres ó mujeres, y colgándolas de los árboles, las columpiaban y mecían de una parte á otra.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Sin reparar en el dolor que le costé á mi madre cuando me parió, el trabajo que tuvo en envolverme, ni el molimiento que pasó en columpiarme, me dieron un susto con el debo condenar y condeno.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz . 5 (R. 33. 315 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Columpiarse en el aire.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            },
+            {
+              "texto_cita": "«El suspendido cuerpo avienta mece, | Por arrojarle del madero al llano; | Muerde un nervio tal vez bronco y marchito, | Y al nervio asida se columpia Erito.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 12 ( Fern. 7. 340)."
+            },
+            {
+              "texto_cita": "«Braceando sin cesar | En la silla se columpia.»",
+              "autor": "Bretón",
+              "referencia_obra": ", El pelo de la dehesa , 2. 10 (3. 46)."
+            },
+            {
+              "texto_cita": "«Columpiábanse multitud de pajaritos en sus flexibles ramas.»",
+              "autor": "Fern.",
+              "referencia_obra": "Caball. Cosa cumplida (7)."
+            },
+            {
+              "texto_cita": "«De la cascada | Sobre las ondas, | Cuál se columpia, | Cuál cabriola.»",
+              "autor": "Bello",
+              "referencia_obra": ", Poes. Los duendes (140)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Columpiado en muletas, | Y devanado en sogas, | Juanazo se venía, | Profesando de horca.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 5, baile 8 (R. 69. 124 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . Mover el cuerpo de un lado á otro al andar, ó por afectación ó por costumbre ( fam. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Andar columpiándose.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y es á tus ojos capital delito | Que dejando la escoba y el pespunte, | Moza ambulante esgrima su palmito | Y el columpiado talle descoyunte ---?»",
+              "autor": "Bretón",
+              "referencia_obra": ", Desvergüenza, 2 (32) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Columpio para columpiar: oscillum, i .»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab."
+        },
+        {
+          "texto_cita": "«Por satisfacer á la envidia de que vuestra Alteza ha fablado é por contentar á los envidiosos, me ha columpiado por diversas maneras, unas veces mandándome ir de su corte, otras veces mandándome tornar á ella.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 117 (318) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De origen desconocido. En prov. mod hay coulouma , precipitar, arrojar de arriba abajo, que Mistral iguala por pura conjetura al gr. χολνμ &V ω , sumergirse, nadar. La misma conjetura, é igualmente incierta, hace la Acad. con respecto á nuestro verbo. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

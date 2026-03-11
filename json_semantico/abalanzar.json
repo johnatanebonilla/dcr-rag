@@ -1,0 +1,392 @@
+{
+  "lema": "ABALANZAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner en fiel las balanzas ( trans .). Covarr.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Equilibrar (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si ésta [Francia] echase de Italia á los españoles, quedaría tan poderosa, ---que confusos los estados de Saboya y Piamonte, ó quedarían incorporados en la corona de Francia, ó con un vasallaje y servidumbre intolerable; la cual padecería también todo el cuerpo de Italia, sin esperanza de poderse recobrar por sí misma, y con poca de que volviese España á recuperar lo perdido y abalanzar las fuerzas, estando tan separada de Italia.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 95 (R. 25. 247 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Arrojar, impeler con violencia ( trans. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al mar el cuerpo desde allí abalanza.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Eneida, 4 (3. 281)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En esta forma es raro; ordinariamente se usa como refl. Arrojarse intrépida ó ansiosaniente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A otro que con denuedo se abalanza, | Le deja de un ardiente golpe frío.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 13 (R. 17. 283 1 )."
+            },
+            {
+              "texto_cita": "«Así á las huecas nubes tiende el vuelo, | Que no hay garza que tanto se abalance.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 20 (R. 17. 357 2 )."
+            },
+            {
+              "texto_cita": "«Con ímpetu de rayo se abalanza | El bravo aragonés; burla los golpes; | Y entre el fuego y horror del trance crudo | La vista apenas á seguirle alcanza.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Zaragoza (1. 81)."
+            },
+            {
+              "texto_cita": "«Vimos á los soldados abalanzarse, y arrancarnos los velos que nos cubrían el rostro»",
+              "autor": "",
+              "referencia_obra": "Id. Abén Humeya, 1. 2 (3. 300)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para denotar el punto adonde se encamina el movimiento, ó el objeto atacado, embestido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay águila ni ninguna otra ave de rapiña que más pronto se abalance á la presa, que nosotros nos abalanzamos á las ocasiones que algún interés nos señalen.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 109 2 )."
+            },
+            {
+              "texto_cita": "«Llevado de su amoroso y encendido deseo, y quitándole el nombre de esposo todos los estorbos que la honestidad y decencia del lugar le podían poner, se abalanzó al rostro de Leocadia.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 6 (R. 1. 471 2 )"
+            },
+            {
+              "texto_cita": "«Sinforosa, loca de contento, se abalanzó á Auristela, y le echó los brazos al cuello.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 2. 8 (R. 1. 601 1 )."
+            },
+            {
+              "texto_cita": "«Sin mirar en respetos y en puntos, como trae una mozuela á su niño y hermano en los brazos, y como se abalanza á él adoquier que le ve, desea traerle ella ansí siempre.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Esposo (R. 37. 161 1 )."
+            },
+            {
+              "texto_cita": "«No le hube llamado la mala palabra, cuando otra vez se quiso abalanzar á mí, y yo á él.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 349 1 )."
+            },
+            {
+              "texto_cita": "«Atraviesan la plaza y se abalanzan á las casas de su enemigo.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 365 2 )."
+            },
+            {
+              "texto_cita": "«Ayuna cuando la observa | Su padre; cuando se va, | Se abalanza á la despensa | Y se desquita...»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojigata , 1. 1 (R. 2. 393 3 )."
+            },
+            {
+              "texto_cita": "«Ya doce mil guerreros, | De mortíferos bronces precedidos, | A las débiles puertas se abalanzan.»",
+              "autor": "Gallego",
+              "referencia_obra": ", Poes. oda 3 (R. 67.406 1 )."
+            },
+            {
+              "texto_cita": "«Repitiendo el sacro nombre de la madre España, | Se abalanza á las bárbaras legiones.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Zaragoza (1. 83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un infinitivo que denota el objeto ó designio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A tomar el camino se abalanza | Con intrépidos pasos la primera.»",
+              "autor": "",
+              "referencia_obra": "B. Argens . epíst. Para ver acosar (R. 42. 306 2 )."
+            },
+            {
+              "texto_cita": "«Turlón, que sabe poco de destreza, | Con descomunal golpe se abalanza | A romperle la espada y la cabeza.»",
+              "autor": "Quev.",
+              "referencia_obra": "Nec. de Orl . 2 (69. 295 1 )."
+            },
+            {
+              "texto_cita": "«A romper la primer lanza | En el campo español vuela con ella, | Y á entrarse por sus puntas se abalanza.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 24 (R. 17. 392 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En la Introducción á la vida devota , 4. 13, dice Quevedo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las abejas, viéndose sobresaltadas del viento en la campaña, se abrazan de las pedrezuelas que pueden, para poder así abalanzarse al aire sin verse tan fácilmente expuestas al rigor de los vientos.»",
+              "autor": "",
+              "referencia_obra": "Abalanzarse al aire es en el original se balancer en l’air , traducción á su vez del sese per inania nubila librant de Virgilio, Georg . 4. 196. Pudiera dudarse si el español usó aquí el verbo por Equilibrarse; pero la construcción da á entender que se separó del original, aunque desmejorándolo, pues en este equilibrarse, ó lastrarse (como dice al mismo propósito Granada) con las pedrezuelas, estriba la oportunidad de la comparación, según puede verlo quien consulte el pasaje íntegro."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con hasta .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo visto la sacrílega serenidad del otro, se abalanzó hasta el altar para estorbarle que hiciese aquella bellaquería.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 2, p. 87. —"
+            },
+            {
+              "texto_cita": "«Soberbio se derriba y abalanza, | Hasta besar con reverencia y miedo | El pie de las murallas de Toledo.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 16 (R. 17. 311 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con para y un infinitivo que denota el objeto del arrojo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal tirria le tomó, que se abalanza | Para despedazarle á toda furia.»",
+              "autor": "",
+              "referencia_obra": "Quev . Nec. de Orl . 2 (R. 69. 296 2 )."
+            },
+            {
+              "texto_cita": "«Al abalanzarse para separarlos, se abrazó el mancebo con su esposa, y recibió una herida en la frente, cayendo bañado en su sangre.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1. 7 (4. 219)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con por , que señala el campo o medio que se atraviesa ó recorre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entra como un desesperado entre ellos, | Y por espesas puntas se abalanza, | Cortando piernas y segando cuellos.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 12 (R. 17. 622 1 )."
+            },
+            {
+              "texto_cita": "«Pero el incansable Orgóñez, que á todo atendía, se abalanzó con una banda de caballos por aquel camino, cortóle el paso, desbarató su gente, y le hizo rendirse prisionero.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 352 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con sobre , para denotar el objeto atacado ó embestido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En fin, á poco trecho les alcanzan, | Que un paso cenagoso los detiene; | Los bárbaros sobre ellos se abalanzan; | Por valiente el postrero no se tiene.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 3 (R. 17. 15 2 )."
+            },
+            {
+              "texto_cita": "«Sobre él furioso se abalanza.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 21 (R. 17. 364 2 )."
+            },
+            {
+              "texto_cita": "«Desalojar al flaco el fuerte intenta; | Sobre el fuerte el ligero se abalanza.»",
+              "autor": "Torrepalma",
+              "referencia_obra": ", Deucalión (R. 29. 484 2 )."
+            },
+            {
+              "texto_cita": "«Desarmarme, caer, y abalanzarse | La turba sobre mí, fue en un momento.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La viuda de Padilla , 5. 2 (3. 69)"
+            },
+            {
+              "texto_cita": "«Sin hablar ni una sola palabra, se abalanzaron sobre el infeliz.»",
+              "autor": "",
+              "referencia_obra": "Id. La conjuración de Venecia , 3. 2 (3. 400)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Con tras .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La corriente del agua le desvaneció la cabeza de modo que, sin poder tenerse, dio consigo en mitad de la corriente, tras quien se abalanzó con no creíble presteza el cortés Antonio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 3. 15 (R. 1. 652 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alguna vez parece ánimo lo que es cobardía, porque faltando fortaleza para esperar el peligro, nos abalanza á él la turbación del miedo.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 37 (R. 25. 94 2 )."
+            },
+            {
+              "texto_cita": "«Mas tiéndase esta noche á eternos años, | Que tantos seré yo de tu esperanza, | Sin dar un paso atrás en los extraños | Por donde amor me arroja y abalanza.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 8 (R. 17. 225 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No parezca que fuiste de mi abalanzado hacia los extraños y ajenos, sino más antes convidado para los tuyos.»",
+              "autor": "Laguna",
+              "referencia_obra": ", trad. de Cic. Catil . 1."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llegada un alma aquí, no es sólo deseos lo que tiene por Dios: su Majestad le da fuerzas para ponerlos por obra. No se le pone cosa delante, en que piense le sirve, á que no se abalance.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 21 (R. 53. 68 2 )."
+            },
+            {
+              "texto_cita": "«El determinar en ser monje fue abalanzarse al estado de la perfección, apartándose de la carrera vulgar y ancha.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 2. 2 (80)."
+            },
+            {
+              "texto_cita": "«Ordinariamente los que han recibido mucho caudal cobran grande ánimo y confianza para trabajar, y como mercaderes ricos se abalanzan á grandes empleos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 3. 58 (2. 339)."
+            },
+            {
+              "texto_cita": "«No te abalances á mayor empresa.»",
+              "autor": "Jáur.",
+              "referencia_obra": "canc. Deja tu albergue (R. 42. 118 1 )."
+            },
+            {
+              "texto_cita": "«A todos sus antojos se abalanza.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Dícesme, Nuño (R. 42. 309 2 )."
+            },
+            {
+              "texto_cita": "«Pero no á sus letrillas ni romances, | Donde Marte y Amor fundan blasones, | Aunque lo mande Silvia, te abalances.»",
+              "autor": "",
+              "referencia_obra": "Id. sát. Don Juan, ya se me ha puesto (R. 42. 349 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un infinitivo, connotando temeridad, indiscreción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchas veces se abalanzan á aconsejarles cosas desmedidas y apasionadas, pensando que son confomes á lo que ellos quieren.»",
+              "autor": "",
+              "referencia_obra": "Rivad . Cisma, pról . (R. 60. 184)."
+            },
+            {
+              "texto_cita": "«Con poca consideración se abalanzaron á tratar los sacrosantos misterios y el divino sacrificio de la misa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 11 (R. 60. 245 2 )."
+            },
+            {
+              "texto_cita": "«Queden confundidos los juicios temerarios de los que se abalanzaron á juzgar lo que no sabían.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1. 13 (1. 119)."
+            },
+            {
+              "texto_cita": "«No quiso abalanzarse á responder precipitadamente hasta que el ángel se fuese declarando más.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 6 (1. 287)."
+            },
+            {
+              "texto_cita": "«¡Cuán errados son los juicios de los hombres soberbios que se abalanzan á juzgar temerariamente los corazones!.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 25 (2. 177)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con hacia .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los pueblos que así lo comprenden y lo sienten, se abalanzan presurosos hacia el principio salvador.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 58 (4. 73)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El temor non retraya, nin abalançe el esfuerço de lo que paresçe pedir la raçon.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 499."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "En la primera acepción sale directamente de balanza ; para explicación de las otras hay que acudir al verbo francés balancer , balancear, que antiguamente significó también Arrojar, lanzar (Littré, Dict . sb. voc. hist .). La conexión semasiológica entre equilibrar, balancear, y arrojar, nos la explica el latín librare . El prefijo, aquí como en los dialectos cognados ( port. , val. abalançar , cat. , mall. abalansar ) refuerza la idea de movimiento y determina la dirección. N. Caix ( Zeitschrift für romanische Philologie , 1. 422) trae el lombardo sbalansà, lanciare con forza , y le explica como fusión de sbal -( estrare ) ó sbal -( zare ) y lanciare ; quizá ese vocablo es idéntico al nuestro, salvo la diferencia de los prefijos, y si así fuera, no sería exacta tal explicación. Aunque de todos modos es probable que la parte final haya contribuído poderosamente á modificar el sentido de la palabra haciéndola aparecer como compuesta de lanzar .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Cambia la z en c antes de e : abalancé, abalancemos . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

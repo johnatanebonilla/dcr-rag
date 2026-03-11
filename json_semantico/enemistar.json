@@ -1,0 +1,290 @@
+{
+  "lema": "ENEMISTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "En general, Hacer a uno enemigo de otro, o hacer que dos personas o grupos de ellas rompan la amistad ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo compl. directo las dos personas enemistadas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Él se ha valido | De un indigno fingimiento, | Para enemistar así | A dos que se están queriendo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El señorito mimado, 3. 3 (4. 262)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Con sentido recípr. Las personas enemistadas pasan a desempeñar la función de sujeto. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que no aya [en la guerra] muertes de ombres e inçendios ---, ni que las partes más se enemisten, ni preçedan los ardides, ni los pecados se avmenten. Oviedo, Quinquag. 1. 16 (1. 190).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Y en medio del deudo y amistad tan grande, vinieron a enemistarse por la pretura que llaman urbana.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 140 1 ). — Con entre. RAE"
+            },
+            {
+              "texto_cita": "«Sus dos hijos, Yahya y Omar Motawákkil se enemistaron entre sí.»",
+              "autor": "Mndz. Pidal",
+              "referencia_obra": ", España del Cid (1 . 183). — Part."
+            },
+            {
+              "texto_cita": "«Nada de esto hacía el siervo de Dios con ímpetu de ira, sino con celo de justicia; y, como esto entendían los delincuentes, quedan emendados y no enemistados. Gran. Vida de B. de los Márt. 7 (R. 11. 439 2 ). +",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Por la buena plática de los que entrevienen entre los que andan enemistados, se caen los rencores y se levantan entre ellos nuevas amistades.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crít . 8. 14 (R. 162. 177 1 )."
+            },
+            {
+              "texto_cita": "«Tenían [estos bandoleros] por señor y cabeza a un valeroso caballero catalán, que, por ciertas enemistades andaba en la compañía, como es ya antiguo uso de aquel reino, cuando los enemistados son personas de cuenta, salirse a ella y hacerse todo el mal que pueden.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 ( R. 1. 27 1 ) Part. +"
+            },
+            {
+              "texto_cita": "«El demonio a todos los que tiene por sus familiares amigos trae desordenados y enemistados.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 30 (p. 618)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Actuando como acus. una de las personas enemistadas, y la otra como compl. regido de la prep. con. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lutero e sus secuazes para enemistar a Çésar con sus príncipes e vasallos ---, despertaron derechos y notorios títulos ---, para que los duques du saxonia, e otros, temiesen e se juntasen con los eréticos.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag . 1. 12 (1. 158)."
+            },
+            {
+              "texto_cita": "«Heredó la culpa de sus padres, que es enfermedad en muchas maneras, por la fealdad suya que pone, y por la luz y la fuerza de la gracia que quita, y porque nos enemista con Dios, que es fiero enemigo, y porque nos sujeta al demonio.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Jesús ( 3. 363) x"
+            },
+            {
+              "texto_cita": "«Y aquellos mozos alzados iban a aventurarse en empresas que exigían la disciplina más fuerte, en guerras que solo podían ganar con diplomacia, enemistando unas tribus con otras y haciéndose a federados y amigos en la discordia de los contrarios.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda, 6 (p. 99)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. Con acus. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al consul sacro, al senador los muestra, | Con quien sólo sus armas enemista.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 14 (Fern 8. 44)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Refl. Pasa a sujeto el acus. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El Gran Capitán quisiera mucho que este desafío no pasara adelante, por no se enemistar con la nación de Italia.»",
+              "autor": "",
+              "referencia_obra": "Cron. Gran Capitán , 5. 13 (NBAE. 10. 355 2 ). +"
+            },
+            {
+              "texto_cita": "«El Césaro, no pudiendo hacer otra cosa, se las entregó [las tierras], así por su grave enfermedad como por no enemistar con los coloneses.»",
+              "autor": "",
+              "referencia_obra": "Ib. 7. 19 (NBAE. 10. 385 2 ). +"
+            },
+            {
+              "texto_cita": "«Se han que rido enemistar [los alemanes] con su Emperador e con Dios, que es más.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag . 1. 12 (1. 163)."
+            },
+            {
+              "texto_cita": "«Tanto dilató [Abenhumeya] la respuesta, que se enemistó con ellos.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 3 (R. 21. 102 2 ; ed. Madrid 1948, p. 133)."
+            },
+            {
+              "texto_cita": "«Porque, haciendo lo que es justo, | Con los necios me enemisto.»",
+              "autor": "Lope",
+              "referencia_obra": ", La hermosura aborrecida, 2. 1 ( R. 34. 102 2 )."
+            },
+            {
+              "texto_cita": "«Bien sé que con vosotros me enemisto | Porque le favorezco.»",
+              "autor": "",
+              "referencia_obra": "Id. El cardenal de Belén, 2 (R. 41. 599 3 )."
+            },
+            {
+              "texto_cita": "«Con estos dos famosos me enemisto, | Que --- | Quieren con perezosa tiranía | Alzarse, como dicen, a su mano | Con la ciencia que a ser divinos guía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 3 ( R. 1. 686 1 ). x"
+            },
+            {
+              "texto_cita": "«Después de la paz de Basilea —continuó el joven—, nos vimos obligados a enemistarnos con los ingleses, que batieron nuestra escuadra en el cabo San Vicente.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar, 6 (p. 60). — Part. +"
+            },
+            {
+              "texto_cita": "«La paz en la cruz se ganó, ¿por qué están muchos enemistados con Dios?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 2. 86 (1. 635). +"
+            },
+            {
+              "texto_cita": "«Qué mayor venganza quieres tú de un rico que verle --- envidiado de los pobres y enemistado con otros ricos?»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 47 ( p. 710)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. sust. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dadme cómo se pueda salvar de pecar el amancebado, enemistado, usurero y, en fin, cuantos están en pecado mortal, si, orando en pecado mortal, es nuevo pecado.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 13. 2 (R. 162. 437 1 ).+"
+            },
+            {
+              "texto_cita": "«El yugo del mundo no es suave, sino penoso, pues manda a los injuriados que se venguen, a los enemistados que desamen, a los afrentados que maten.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 5 (p. 487)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los enemistados [con Dios] andan muchos años por satisfacer sus malos deseos de lujurias y de homicidios.»",
+              "autor": "",
+              "referencia_obra": "J. de Pineda, Agr. crist. 6. 21 ( R. 162. 43 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Particularmente, Enfadar, molestar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No estorbaba yo esta batalla por menoscabar vuestra honra ---; hacíalo por no enemistar la nación de los italianos, que tan amigos tenemos.»",
+              "autor": "Crón. Gran Capitán",
+              "referencia_obra": ", 5. 13 (NBAE. 10. 355 2 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si hay hombre que enemista con ventaja, | De celos soy la flor de la borraja.»",
+              "autor": "Quiñ. de Benav.",
+              "referencia_obra": "entremés La hechicera (NBAE. 18. 683 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. Siendo una cosa el objeto de la enemistad, Despreciarla, no apetecerla, o aborrecerla.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con la prep. con . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No entran esa cuenta los religiosos y varones perfectos, los cuales se han de enemistar tanto con las riquezas, que no solo las han de desamar, mas aun ---.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 46 (P. 703). RAE"
+            },
+            {
+              "texto_cita": "«Carlos Samuel no entendía por qué la salud espiritual exigía enemistarse siempre con los alimentos.»",
+              "autor": "Aguinis",
+              "referencia_obra": ", Cruz invertida , p. 63."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. Con contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estando ya del todo al mal rendidos, | Del vivir despedidos, | Contra todo manjar enemistados.»",
+              "autor": "",
+              "referencia_obra": "Poes. 3, salmo 106 (4. 612)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Tratándose de cosas, Hacerlas incompatibles, oponerlas ( trans .). Con la prep. con.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Cuál de ellos no ha hecho estudio formal de enemistar sus cláusulas con la elocuencia?»",
+          "autor": "Forner",
+          "referencia_obra": ", Exequias de la lengua castell. (R. 63. 379 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E de tal manera los enemistó, que cada uno se recelaba del otro.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan lI, 14. 43 (R. 68. 397 1 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Enemistado era con él e con don Diego.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 15 (R. 66. 153 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«La tercera [razón], si fuese enemistado de guisa que non lo podiese ir rescebir sin peligro de muerte.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 18. 5 (2. 153)."
+        },
+        {
+          "texto_cita": "«E torné sin la duenya de muerte enamiztado.»",
+          "autor": "Appoll.",
+          "referencia_obra": "115 (R. 57. 287 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado verbal de enemistad (véase etim. de este vocablo). Cat. y gall. enemistar , port. inimizar o inimistar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

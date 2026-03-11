@@ -1,0 +1,193 @@
+{
+  "lema": "FISGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Pescar con una clase de harpón llamado fisga ( trans .). Cfr. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Husmear con el olfato ( trans. ). Cfr. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Husmear, espiar, enterarse de cosas ajenas ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En una hamaca de floreados flecos fumaba una mujer. Era la madona Zoraida Ayram. ¡Y me vio fisgándola!»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine, 3 (p. 201). X"
+            },
+            {
+              "texto_cita": "«Desde aquella altura [Tirano Banderas] fisgaba la campa donde seguían maniobrando algunos pelotones de indios con fusiles antiguos.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Tirano Banderas, p. 20. X"
+            },
+            {
+              "texto_cita": "«La candajo de la Carmina no hacía más que fisgar detrás de la persiana.»",
+              "autor": "Delibes",
+              "referencia_obra": ", Diario de un cazador, p. 162. X"
+            },
+            {
+              "texto_cita": "«El hombre baúl antiguo tomó su bastón, que lo había estado fisgando todo como pariente de la escribanía.»",
+              "autor": "Gómez de la Serna",
+              "referencia_obra": ", Cab. del hongo gris, p. 74."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su mala condición le granjeó muchos enemigos, que le llamaban por mal nombre el poeta Fisgarroa, compuesto de sus dos depravadas costumbres: fisgar y roer.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", La peregrinación sabia (Cl. C. 57. 45)."
+            },
+            {
+              "texto_cita": "«Yo lo diré; | Yo lo diré claro y presto: | Que no quiero andar fisgando. | Que no quiero llevar cuentos | Entre marido y mujer.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña, 2. 1 (R. 2. 343 1 ). X"
+            },
+            {
+              "texto_cita": "«La patrona, la vizcaína y algunos huéspedes salieron al pasillo a fisgar.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La busca, 1. 3 (p. 43). X"
+            },
+            {
+              "texto_cita": "«Se dio cuenta de que el domingo habría manifestación. — ‘Sa vaina es pa que vengan tiras y chapas a fisgar.»",
+              "autor": "Osorio Lizarazo",
+              "referencia_obra": ", El día del odio, p. 178."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, para señalar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sábado los habitantes de la calle de las Esmeraldas llegaban borrachos. Los policías fisgaban con mayor celo, pero si la dueña lograba agasajarlos con algún regalo --- no se empeñaban en que el negocio fuera clausurado a media noche.»",
+              "autor": "Osorio Lizarazo",
+              "referencia_obra": ", El día del odio, p. 202."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por, para señalar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijo Faustino que Rigache no hace nada si no nos metemos con él, y que mejor que nos estemos aquí, sin andar fisgando por las casas.»",
+              "autor": "",
+              "referencia_obra": "César Uribe, Toá, 4 (p. 48)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Burlarse de alguien o de algo, diestra y disimuladamente ( ant. ) ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo no digo que quien tiene por oficio el fisgar no viva de matracas.»",
+              "autor": "Píc. Just.",
+              "referencia_obra": "f. 20 ( Dicc. Autor. ). X"
+            },
+            {
+              "texto_cita": "«El paje ha dado en fisgar. | — Que me aborrezca o me quiera | Mucha razón has tenido | De reyrte de mí y désta.»",
+              "autor": "Lope",
+              "referencia_obra": ", Hijo de Reduán (ed. fasc. RAE. 75. 158). X"
+            },
+            {
+              "texto_cita": "«Extrañando de tal manera el traje toda la ciudad, que sus oficiales dejaban sus acostumbradas ocupaciones por salirme a ver a las puertas, por tener que reír y fisgar.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz. (Cl. C. 109. 225)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para indicar el objeto de la burla.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La gran autoridad de la moneda, | Del áspero desdén nunca ofendida, | Porque jamás oyó respuesta aceda; | Árbitro de la muerte y de la vida, | Que fisga del valor y del derecho.»",
+              "autor": "",
+              "referencia_obra": "B. Argens. epíst. Dícesme, Nuño (R. 42. 310 1 )."
+            },
+            {
+              "texto_cita": "«Y no aleguen a Séneca las damas, | Ni a Marcial, si tal vez por travesura | No fisgan de sentencias y epigramas.»",
+              "autor": "",
+              "referencia_obra": "Id. sát. Don Juan ya se me ha puesto (R. 42. 350 2 ). X"
+            },
+            {
+              "texto_cita": "«No te espante, | Que por todo estremo siento | Verla en la yglesia tan vana | Con dos o tres amig[u]illas, | Fisgar de mis lechug[u]illas, | Cubrirse y reyr sin gana.»",
+              "autor": "Lope",
+              "referencia_obra": ", Sembrar en buena tierra, 1 ( Obr. 9. 401 2 ). X"
+            },
+            {
+              "texto_cita": "«Con una niña de quince | Se casan estos setenta | De cuyos bríos está | Fisgando naturaleza.»",
+              "autor": "Quiñ. de Benav.",
+              "referencia_obra": "La muerte (NBAE. 18. 507 1 ). X"
+            },
+            {
+              "texto_cita": "«El perro era un poeta muy envidioso, fisgaba siempre de los escritos ajenos.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", Peregrinarión sabia (Cl. C. 57. 44)."
+            },
+            {
+              "texto_cita": "«Y el barba de manjar blanco | Fisga de sus lavatorios [del de barba teñida].»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom. 51 (R. 69. 191 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Rara vez Trans . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bie[n] sabrá mi hermano ser elocució[n] a cerca de los Romanos, co[n] q[ue] manifestaba[n] el fisgar algo disimuladame[n]te.»",
+              "autor": "Carrillo y Sotomayor",
+              "referencia_obra": ", Libro erud. poétic. (BALH. 6. 59)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. vulg. *fixicare, ‘clavar’, de fixus, ‘fijo’. Port. y cat. fisgar. Aunque la primera documentación la fija Corominas en 1605, eon el sentido de burlarse con disimulo, no obstante, pescar con fisga o arpón es anterior, y se registra únicamente en el Dicc. Acad. desde 1817. Por otra parte, la acepción espiar, enterarse de cosas ajenas, que se usa posteriormente, en la actualidad parece ceder ante los derivados fisgón y fisgonear, X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Les di a entender que, si yo entrara a la Asamblea, vendría a gozar de toda la influencia necesaria para poderles quitar de encima el fisgón importuno.»",
+          "autor": "Marroquín",
+          "referencia_obra": ", Blas Gil, 10 (p. 97). X"
+        },
+        {
+          "texto_cita": "«Carlé llevaba varias semanas fisgoneando y poseía mucha información que entregó a Aravena con petulancia de novato, aventurando de paso complicados pronósticos políticos.»",
+          "autor": "I. Allende",
+          "referencia_obra": ", Eva Luna, p. 138. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

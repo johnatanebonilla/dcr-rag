@@ -1,0 +1,1308 @@
+{
+  "lema": "ACERTAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v . El concepto que sirve de base a todas las acepciones es el de golpe disparado á un blanco; pero así como en el tiro se pueden considerar el disparo y el blanco á que se dirige, lo mismo, en un acto encaminado á lograr un fin, puede mirarse la manera en que dicho acto se ejercita para poder alcanzar este fin, ó el fin mismo en cuanto se consigue ó no con los medios empleados. Tomado este punto de vista, se dividen las acepciones en dos grupos: corresponde el primero al concepto de golpe bien disparado; el segundo al de blanco herido con el tiro.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ".",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(I)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Llevar á efecto con perfecta conformidad al fin propuesto ( trans .). Dícese especialmente del tiro ó golpe.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No has visto un esgrimidor, | Que, una herida imaginada, | Tienta la contraria espada | Para acertarla mejor?»",
+              "autor": "Lope",
+              "referencia_obra": ", El rnayor imposible , 2. 11 (R. 34. 475 1 )."
+            },
+            {
+              "texto_cita": "«Revuela [el águila], sube, baja, vuelve, espera, | Y codiciosa de acertar el salto, | Cercando va la descuidada fiera.»",
+              "autor": "",
+              "referencia_obra": "Valb . Bern. 14 (R. 17. 293 1 )."
+            },
+            {
+              "texto_cita": "«Al primer golpe que acertó de lleno, | Dio al valiente francés por cama el heno»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 24 (R. 17 . 393 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un dat. de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus golpes perder hizo, y su braveza, | Acertándole algunos el guerrero, | A pesar de su altura, en la cabeza.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 9 (R. 17. 234 2 )."
+            },
+            {
+              "texto_cita": "«A pesar de la maza que esgrimía, | Un golpe le acertó por la cintura.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (R. 17. 234 2 )."
+            },
+            {
+              "texto_cita": "«Hízole al moro errar su desatino | Y acertarle el contrario un revés fiero | Que dejó por el suelo su braveza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3 (R. 17. 168 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en, que expresa la parte donde da el golpe.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con una lanza como gruesa entena | Contra él por medio del furor se lanza, | Y en el soberbio pecho, que resuena | En negro aliento soplos de venganza, | El encuentro acertó.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 7 (R. 17. 216 2 )."
+            },
+            {
+              "texto_cita": "«Ferragut le acertó un descaminado | Golpe del yelmo en la dorada talla.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 7 (R. 17. 217 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Siguiendo la analogía de dar , pegar, se omite el acusativo tiro , golpe, herida , y aparece solo el dativo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Apretando más la espada en las dos manos, con tal furia descargó sobre el vizcaíno, acertándole de lleno sobre la almohada, que sin ser parte tan buena defensa, --- comenzó á echar sangre por las narices, y por la boca, y por los oídos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 9 (R. 1. 272 3 )."
+            },
+            {
+              "texto_cita": "«Si toma [el amor] por blanco un corazón, por pequeño que sea le acierta y traspasa de parte á parte con sus flechas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 58 (R. 1. 525 2 )."
+            },
+            {
+              "texto_cita": "«Voy á Flandes, donde ruego | Al cielo que me traspase | Una bala, porque abrase | Un fuego con otro fuego. | Y para ser desta suerte | No tengo más que llegar, | Pues yo me pondré en lugar | Que el menos diestro me acierte.»",
+              "autor": "Lope",
+              "referencia_obra": ", El ausente en el lugar, 2. 6 (R. 24. 261 2 )."
+            },
+            {
+              "texto_cita": "«Allí han sonado las ramas. | El oso es: tira. — Acertéle, | Pues se queja.»",
+              "autor": "",
+              "referencia_obra": "Id. Los Tellos de Meneses , 1ª pte . 1. 12 (R. 24. 515 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Se emplea también el dat. cuando se trata de cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No siempre despide | La cuerda el són que el tocador la pide, | Que en vez de voces bajas, da las altas, | Ni siempre el tirador al blanco acierta.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Arte poétic. de Hor. (4. 48)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con para expresar el instrumento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le acertó con una bala junto á la cinta.»",
+              "autor": "",
+              "referencia_obra": "Gerv. Gal . 5 (R. 1. 70 1 )."
+            },
+            {
+              "texto_cita": "«Nadie se atreve con ella, nadie la acierta con un garrotazo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 3, p. 164 ( la = le , como á pocas líneas:"
+            },
+            {
+              "texto_cita": "«Desvencija á cuantos se la ponen delante»",
+              "autor": "",
+              "referencia_obra": ")."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , por analogía con dar , para señalar el punto donde hiere el tiro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No iremos á un punto si no sabemos dónde está; ni acertaremos en un blanco si no le vemos clara y distintamente.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Etica , 21 (424)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Lo mismo que con dar , el nombre del instrumento ó del golpe puede pasar á ser sujeto ( intrans .). Con dat.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el combate de Fraga | Piedra ó flecha le acertó.»",
+              "autor": "Lope",
+              "referencia_obra": ", La campana de Aragón , 3 (R. 41. 52 2 )."
+            },
+            {
+              "texto_cita": "«Al cielo | Le ruego que apenas pise, | De Flandes la tierra, cuando | La primer bala que tire | El enemigo, me acierte.»",
+              "autor": "Cald.",
+              "referencia_obra": "El astrólogo fingído, 1. 92 (R. 7. 574 2 )."
+            },
+            {
+              "texto_cita": "«Que á un fiero golpe de acerada maza | Que al yelmo ardiente y al escudo fino | De lleno le acertó, á la verde plaza | Cual duro roble destroncado vino.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 21 (R. 17. 375 1 )."
+            },
+            {
+              "texto_cita": "«El español, temiendo que le acierte, | Aparta el cuerpo al golpe inadvertido.»",
+              "autor": "Esquil.",
+              "referencia_obra": "Náp. recup . 3 (R. 29. 305 1 )."
+            },
+            {
+              "texto_cita": "«Disparaban sobre él los arcabuces, y ningún tiro le acertaba.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 152."
+            },
+            {
+              "texto_cita": "«Hubo ya algunos que osaron hacerle frente y tirarle piedras, acertándole una con un peligroso golpe.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 19 ( 5. 142)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para fijar la parte herida.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunos desde lejos tiraban piedras á los que ya se iban acogiendo al agua; y quiso la mala suerte que una acertase en la sien á Marco Antonio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 206 2 )."
+            },
+            {
+              "texto_cita": "«Allá le enderezó con diestra mano | Una pelota al bárbaro guerrero, | Que le acertó en las sienes.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42.114 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(II)",
+      "definicion": "Herir ó tocar con precisión cierto y determinado objeto ( trans .),",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tirando así, no hay alma que resista | Las duras puntas de las flechas fieras --- | ¡Oh si con vista, dulce amor, nacieras, | Y acertaras las almas con la vista!»",
+          "autor": "Lope",
+          "referencia_obra": ", Quien ama no haga fieros, 1 . 12 (R. 24. 439 1 )."
+        },
+        {
+          "texto_cita": "«La punta enderezó contra el costado | Del fuerte Ron, y así acertó la vena, | Que la espada de sangre sacó llena.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 5 (R. 17. 24 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Conseguir el fin juzgar, obrar ó decir como se debe ó según exigen las circunstancias ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El amor y la afición con facilidad ciegan los ojos del entendimiento, tan necesarios para escoger estado; y el del matrimonio está muy á peligro de errarse, y es menester gran tiento y particular favor del cielo para acertarle.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 19 (R. 1. 443 2 )."
+            },
+            {
+              "texto_cita": "«La historia pocos hasta hoy son los que la han acertado: historia de santos muchos las han emprendido; si han salido con el intento, dificultoso es juzgarlo.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. pról. (4)."
+            },
+            {
+              "texto_cita": "«Abreviar la ejecución | Es acertar el suceso.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Todo es ventura, 2. 17 (R. 20. 130 1 )."
+            },
+            {
+              "texto_cita": "«Que quien los principios yerra, | ¿Cómo ha de acertar los fines?»",
+              "autor": "Lope",
+              "referencia_obra": ", Los Tellos de Meneses, 1ª pte . 1. 11 (R. 24 . 515 2 )."
+            },
+            {
+              "texto_cita": "«Acostumbrados los viejos á juzgar siempre de lo que sucederá por lo que ha sucedido, y adquiriendo en la práctica la presunción de acertarlo todo, no hay hecho ni circunstancia de la cual no piensen adivinar el éxito.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet, 2, nota 5 (R. 2. 556 2 ). — ¿"
+            },
+            {
+              "texto_cita": "«Pues qué astrólogo acertó | Cosa que dijo?»",
+              "autor": "Cald.",
+              "referencia_obra": "El astrólogo fingido, 3. 5 (R. 7. 587 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con el neutro lo ó el idiomático la .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Saldré sin duda. — No sé si lo aciertas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El gallardo español, 1 ( Com. 1. 12)."
+            },
+            {
+              "texto_cita": "«Yo de corrido ni pude ni quise seguirle, y acertélo.»",
+              "autor": "",
+              "referencia_obra": "Id. Col . (R. 1. 243 2 )."
+            },
+            {
+              "texto_cita": "«¿Pues tiene Dios criado | Disimulo como el mío? | — Dijeras mulo, y yo fío | Que lo hubieras acertado.»",
+              "autor": "Lope",
+              "referencia_obra": ", El acero de Madrid, 1. 4 (R. 24. 366 3 )."
+            },
+            {
+              "texto_cita": "«Mas ni ocuparon las plazas que guarnecían los desfiladeros del Tirol, --- ni aprovecharon la gran superioridad que tenían para embestir de pronto á Ratisbona --- Lo primero no lo acertaron, á lo segundo no se atrevieron.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 146. —"
+            },
+            {
+              "texto_cita": "«Anduvimos vacilando | Sobre ir ó no ir á alguna fiesta; | Pero al fin... — Y la acertamos | En no pasar mala noche.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La niña en casa , 3. 4 (3. 115)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ah Celia! Todo se acierta | Cuando lo quieren los hados.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mayor imposible, 2. 19 (R. 34. 483 3 ) ."
+            },
+            {
+              "texto_cita": "«No quieren las cosas del ingenio ser menos comunicadas que los edificios que se fabrican, si han de acertarse.»",
+              "autor": "",
+              "referencia_obra": "Id. El dómine Lucas, dedic. (R. 24. 43)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . Hecho puntualmente según dicta la razón ó la conveniencia del caso; conforme á la razón ó la conveniencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En lo de forzarles que estudien [los hijos] esta ó aquella ciencia, no lo tengo por acertado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2.16 (R. 1. 436 2 )."
+            },
+            {
+              "texto_cita": "«No será acertado que nos halle el sol en la calle.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 9 (R. 1. 422 1 ):"
+            },
+            {
+              "texto_cita": "«Casamiento nacido | Por gusto de una mujer | De milagro suele ser | Acertado.»",
+              "autor": "Lope",
+              "referencia_obra": ", El ausente en el lugar , 1. 7 (R. 24. 253 1 )."
+            },
+            {
+              "texto_cita": "«Todos ellos se han empeñado en seguir un rumbo enteramente distinto del que tan acertado les parecía en el teatro griego.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa , Edipo, advert. (3. 228). — Sup ."
+            },
+            {
+              "texto_cita": "«Vuelvo la vista, á Mantuano veo, | Que tiene al gran Velasco por Mecenas, | Y ha sido acertadísimo su empleo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 4 (R. 1. 690 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Absol .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién ordena | El terrible dolor que adoro y siento? | Si digo que sois vos, Fili, no acierto, | Que tanto mal en tanto bien no cabe.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 23 (R. 1. 307 2 )."
+            },
+            {
+              "texto_cita": "«Para acertar aprovechará mucho haber errado, que ansí se toma experiencia.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 1. 42 (R. 55. 237 2 )."
+            },
+            {
+              "texto_cita": "«Pedirle quiero, si mandáis, limosna. | — Acertaréis, que es pródigo en extremo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los locos de Valencia , 3. 8 (R. 24. 131 3 )."
+            },
+            {
+              "texto_cita": "«Sin reglas del arte | Borriquitos hay | Que una vez aciertan | Por casualidad.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb . 8 (1. 16)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep . Que obra puntualmente según dicta la razón ó la conveniencia del caso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con esto le tuvieron á él por juez recto y acertado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 5 (R. 1. 163 2 )."
+            },
+            {
+              "texto_cita": "«Si en alguna cosa he andado demasiada ó no tan acertada como debiera, echad la culpa á lo que el señor licenciado dijo al principio de mi cuento.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 30 (R. 1. 334 1 )."
+            },
+            {
+              "texto_cita": "«Otros más acertados dicen que el dicho rey murió el año de cincuenta y siete.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 21 (R. 30. 493 2 )."
+            },
+            {
+              "texto_cita": "«Era diestro en las armas y de juicio muy acertado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6. 12 (R. 30. 166 1 )."
+            },
+            {
+              "texto_cita": "«Procedió con una diligencia, y un aviso tan acertado, que sin insolencia, sin escándalo y sin dar que decir, guardó á su padre de todas las asechanzas que se le pusieron en Madrigal y Tordesillas.»",
+              "autor": "",
+              "referencia_obra": "Quint . D. Álv. de Luna (R. 19. 423 1 ). — Sup ."
+            },
+            {
+              "texto_cita": "«El señor levantador quedó acreditado en el lugar por acertadísimo judiciario.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 25 (R. 1. 459 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , que expresa el punto, el campo donde se obra ó juzga con acierto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo he acertado en encomendarme al señor D. Quijote.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 30 (R. 1. 333 2 )."
+            },
+            {
+              "texto_cita": "«Recibieron los dos grande contento por parecerles que habían acertado en haberle traído encantado en el carro de bueyes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 1 (R. 1. 405 1 )."
+            },
+            {
+              "texto_cita": "«No diciéndoos que mentís, sino que no acertáis en lo propuesto, con las condiciones que habéis referido, acepto vuestro desafío.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 64 (R. 1. 541 2 )."
+            },
+            {
+              "texto_cita": "«Entre estos devaneos acertaban en tener por cierto --- que las ánimas humanas eran perpetuas, y que después de la muerte había premios y castigos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 5. 1 (R. 30. 118 1 )."
+            },
+            {
+              "texto_cita": "«¡Cuán mal acertastes en vuestros pronósticos!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 17. 13 (R. 30. 518 2 )."
+            },
+            {
+              "texto_cita": "«No detengan al príncipe los temores de errar, porque ninguna prudencia puede acertar en todo.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 28 (R. 25. 75 2 )."
+            },
+            {
+              "texto_cita": "«Sin errar Saúl en armar á David, acertó David en desarmarse.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios, 2. 23, § 1 (R . 23. 103 2 )."
+            },
+            {
+              "texto_cita": "«Es tan difícil conservar durante el curso de un drama el tono grave y sostenido, sin ostentación ni bajeza, que la tragedia requiere, que no es de extrañar que Virués, careciendo de buena escuela y de modelos, no acertase siemple en este punto.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. españ. (2. 65). —"
+            },
+            {
+              "texto_cita": "«Es menester andar siempre con temor y asidas de Dios, y fiar poco de nuestros entendimientos, porque, por buenos que sean, si esto no hay, nos dejará Dios para errar en lo que más pensamos que acertamos.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 1. 63 (R. 55. 237 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Digo | Que es Julia muy desdichada. | — No anduvo en irse acertada.»",
+              "autor": "",
+              "referencia_obra": "Cerv: El laberinto de amor, 3 (Com. 2. 166 )."
+            },
+            {
+              "texto_cita": "«El mismo poeta, dotado de clarísimo ingenio, y muy acertado en esta clase de composiciones, expresó un pensamiento semejante en otro soneto.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 4. 17 (1. 198)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Este verbo (lo mismo que aprender, comenzar, empezar ), aunque es transitivo si el objeto es un sustantivo ordinario, vr. gra. Acertar la ejecución, delante de un infinitivo exige á : Acertar á ejecutar. Pudiera pensarse que la preposición representa la acción significada por el infinitivo como el blanco á que se tira; admitido esto, habría que colocar esta acepción bajo el núm. 1.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mostróse á todos tan hermosa y ricamente vestida que no lo acierto á encarecer.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 41 (R. 1. 370 2 )."
+        },
+        {
+          "texto_cita": "«Acertastes, señor caballero, á conocer por mi suspensión mi deseo.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 2. 16 (R. 1. 435 2 )."
+        },
+        {
+          "texto_cita": "«Si entráis media legua mas adentro, quizá no acertaréis á salir.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 23 (R. 1. 308 2 )."
+        },
+        {
+          "texto_cita": "«Mas mi hado no quiere que yo acierte | A huír los peligros.»",
+          "autor": "Herr.",
+          "referencia_obra": "2 , eleg. 10 (R. 32. 324 1 )."
+        },
+        {
+          "texto_cita": "«Fieros los españoles con su superioridad peleaban como leones; no así los franceses, cuyo espíritu, primero sorprendido, después aterrado, no acertaba ni con la ofensa, ni con la defensa, ni á guardar ni á seguir consejo.»",
+          "autor": "Quint.",
+          "referencia_obra": "Gran Capitán (R. 19 . 270 2 )."
+        },
+        {
+          "texto_cita": "«Como sueño fugaz vuela su infancia, | Sin que acierte á gustar su breve dicha.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Poes . (1. 49)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En ocasiones, más que el tino del esfuerzo, parece denotarse su intensidad ó alcance y, por lo mismo llega el verbo á asemejarse á poder, aunque es notablemente más enfático por las ideas accesorias que sugiere.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ventura va guiando nuestras cosas mejor de lo que acertáramos á desear.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 8 (R. 1. 269 1 )."
+            },
+            {
+              "texto_cita": "«Dos mil veces he querido, | Obligado á lo que os debo, | Ir á besaros la mano, | Y á resolverme no acierto.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las bizarrías de Belisa, 1. 10 (R. 34. 561 3 )."
+            },
+            {
+              "texto_cita": "«Fuimos los dos tan amigos, | Que no acertaba á vivir | Uno sin otro.»",
+              "autor": "Cald.",
+              "referencia_obra": "El astrólogo fingido, 2. 1 (R. 7. 580 2 )."
+            },
+            {
+              "texto_cita": "«Ambas manos | Levantadas al cielo, así exclamaba, | Sin acertar á reprimir el llanto.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida, 1 (3. 12)."
+            },
+            {
+              "texto_cita": "«Si en algo á servirte acierto, | Manda con satisfacción.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña, 2. 3 (R. 2. 345 1 ) ."
+            },
+            {
+              "texto_cita": "«Salió Pulgar con ellos hasta la puerta de su albergue, y aun allí los alentó con blandas razones, dando á cada cual alguna muestra del aprecio en que le tenía; en tanto que ellos no acertaban á separarse de tan buen caudillo, mirándole en lo íntimo del corazón como en víspera de su muerte.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", H. P. del Pulgar (4. 42)."
+            },
+            {
+              "texto_cita": "«Tal era su afán por oír una vez y otra de los propios labios de la mora lo que tanto halagaba sus deseos, que no acertaba á desasirse de ella.»",
+              "autor": "Solís",
+              "referencia_obra": ", 1. 30 (4. 291) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "A veces se connota lo inesperado ó poco común del caso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando alguna mujer acierta á señalarse en algo de lo que es de loor, vence en ello á muchos hombres de los que se dan á lo mismo.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 2 (R. 37. 215 2 ) ."
+            },
+            {
+              "texto_cita": "«Bien parece un hombre en casa; | Pero si continuo es uno, | Es muerte civil, y más | Si acierta á ser calvo ó zurdo.»",
+              "autor": "",
+              "referencia_obra": "Góng . rom. 88 (R. 32. 538 2 ) ."
+            },
+            {
+              "texto_cita": "«Que un traidor, cuando acierta á ser valiente. | Un mundo entero matará de gente.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 5 (R. 17. 192 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Empléase la misma construcción para significar que impensadamente se hace ó sucede algo que precisamente coincide con el hecho principal de que se trata.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A cabo de seis días llegaron á la aldea de D. Quijote, adonde entraron en la mitad del día, que acertó á ser domingo.»",
+              "autor": "",
+              "referencia_obra": "Cerv . Quij . 1. 52 (R. 1. 400 1 )."
+            },
+            {
+              "texto_cita": "«Estando en esto acertó á pasar por allí un muchacho que iba de camino.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 31 (R. 1. 337 2 ). Item, Gal. 1 (R. 1. 14 1 ); Nov . 6 (R. 1. 169 1 )."
+            },
+            {
+              "texto_cita": "«Quien fuera tan dichoso que acertara en esta coyuntura á pasar por aquel lugar --- le preguntara: Señor; ¿qué vida es esta que vivís?»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med . 12 (R. 8. 536 1 )."
+            },
+            {
+              "texto_cita": "«Procuré con la sacristana y portera no lo dijesen á nadie. Aprovechóme poco, que acertó á estar á la puerta, cuando me llamaron, quien lo dijo por todo el convento.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 23 (R. 53. 75 1 ). Item, Fund. 22 (R. 53. 213 2 )."
+            },
+            {
+              "texto_cita": "«Comenzólo á tratar con personas espirituales de la Compañía de Jesús, entre los cuales fueron el padre Araoz, que era comisario de la Compañía, que acertó á ir allí ---»",
+              "autor": "",
+              "referencia_obra": "Ead. Cartas, 1. 19 (R. 53.161 2 )."
+            },
+            {
+              "texto_cita": "«Tres malos caballeros, que acertaron á pasar por allí hirieron á Risdeno.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 2, p. 58."
+            },
+            {
+              "texto_cita": "«En los mismos días acertó á morir el rey don Carlos de Navarra.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R . 19. 384 2 )."
+            },
+            {
+              "texto_cita": "«Desgraciadamente acertó á pasar por allí un navío español de los que recorrían aquellos mares.»",
+              "autor": "Casas",
+              "referencia_obra": "(R. 19. 443 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "La confusión de acertar y acaecer que se hizo presente al tratar del último verbo, es análoga á la que se observa en este ejemplo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las pláticas que las pastoras tenían, acertó que Leonarda llamó por su nombre á la encubierta Rosaura.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 4 (R. 1. 64 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En todas estas construcciones acertar puede atraer los casos pronominales pertenecientes al infinitivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiere que se alce con el cielo un malo, | Un pecador blasfemo, y que se acierte | A salvar en un corto y breve instante | Un ladrón que no tuvo semejante.»",
+              "autor": "",
+              "referencia_obra": "Cerv . El rufián dichoso, 3 (Com. 2. 52)."
+            },
+            {
+              "texto_cita": "«Sólo ha hecho pregonar | Que quien la acierte á librar, | Se la dará por mujer.»",
+              "autor": "",
+              "referencia_obra": "Id. El laberinto de amor, 1 ( Com . 2. 138)."
+            },
+            {
+              "texto_cita": "«Mal podía, | Aunque de amor guiado, | Acertarte á servir.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes . (R. 1. 713 2 )."
+            },
+            {
+              "texto_cita": "«Llevaba un vestido que aun yo no me lo acertaba á vestir sin ir tomando guía de pieza en pieza.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 3. 1 (R. 3. 240 1 )."
+            },
+            {
+              "texto_cita": "«Solamente escaparon dos [galeras] que por buena suerte se acertaron á hallar en alta mar.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 2 (R. 30. 498 1 )."
+            },
+            {
+              "texto_cita": "«Se acertaron á hallar solos en un huertecillo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Nov. 1 ( Obr. suelt. 8. 40)."
+            },
+            {
+              "texto_cita": "«Eran mis inconstancias de manera, | que nada me acertaba á dar concierto.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 5 (R. 47 . 198 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "El abuso que se hacía de de en los siglos XVI y XVII, llegó á introducirse en esta construcción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mientras pelean | Aquestos dos, podrá ser escaparme, | Si acaso acierto de tomar la parte | Que lleva á la montaña.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El gallardo español, 2 ( Com . 1. 33)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "El uso de acertar con el infinitivo neto es tan extraño, que puede mirarse, cuando ocurre, como vicio del texto ó como incorrección. Así, con razón corrigió Hartzenbusch (sin hacer observación alguna: 1863), el pasaje siguiente de Cervantes, pues es indudable que falta la preposición, como se patentiza con los dos que se agregan después:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El se veía levantado á la más alta felicidad que acertara desearse.»",
+              "autor": "",
+              "referencia_obra": "Quij. 1. 34 (R. 1. 352 1 )."
+            },
+            {
+              "texto_cita": "«En ésta sé que se hallará todo lo que se acertare á desear.»",
+              "autor": "",
+              "referencia_obra": "Ib . 1. 9 (R. 1. 272 2 )."
+            },
+            {
+              "texto_cita": "«Haré cuenta que vienen de golpe todas las venturas que acertare á desear.»",
+              "autor": "",
+              "referencia_obra": "lb . 2. 62 (R. 1. 537 1 ). — En el siguiente es obvio que el escritor se enredó y confundió á causa de la frase relativa interrogativa que sigue al verbo:"
+            },
+            {
+              "texto_cita": "«Risible personaje es á mis ojos | El que decir no acierta á lo que viene.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Arte poétic. de Boileau, 3 (R. 67. 122 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "Descubrir, dar, entre lo incierto ó dudoso, con lo que se busca ó necesita.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otro día llegaron al lugar donde Sancho había dejado puestas las señales de las ramas para acertar el lugar donde había dejado á su señor.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij 1. 27 (R. 1. 320 1 )."
+            },
+            {
+              "texto_cita": "«No le acertaban los médicos la enfermedad.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 4 (R. 1. 146 1 )."
+            },
+            {
+              "texto_cita": "«Que al mal de quien la causa no se sabe, | Milagro es acertar la medicina.»",
+              "autor": "",
+              "referencia_obra": "Id. La casa de los celos, 3 ( Com . 1. 109)."
+            },
+            {
+              "texto_cita": "«Señores, vosotros estáis dudosos de si la ciencia que yo tengo de adevinar es falsa ó verdadera, la cual ciencia no se acredita con decir las cosas que están por venir, porque solo Dios las sabe, y si algún humano las acierta, es acaso.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 3. 16 (R. 1. 652 1 )."
+            },
+            {
+              "texto_cita": "«Convenía que con doctrina clara se supiese esta falta, para aviso de los que desean acertar este camino.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 2. 20, § 3 (R. 6. 164 2 )."
+            },
+            {
+              "texto_cita": "«No aciertan este camino los que de tal manera se ponen en la oración á meditar los misterios divinos como si los estudiasen para predicar.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid. 1. 8, § 2 (R. 8. 16 2 )."
+            },
+            {
+              "texto_cita": "«Ni tú ni yo acertamos el camino.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 12 (R. 32. 331 1 )."
+            },
+            {
+              "texto_cita": "«Gran rato anduve así descarriado, | Que la oculta salida no acertaba.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 23 (R. 17. 87 1 )."
+            },
+            {
+              "texto_cita": "«Levántome como puedo, | Sin luz no acierto el vestido.»",
+              "autor": "Lope",
+              "referencia_obra": ", La discreta enamorada , 2. 17 (R. 24. 169 1 )."
+            },
+            {
+              "texto_cita": "«La razón | Del reino á esta pretensión | A muchos ha de llamar; | Y como se ha de escoger | Uno solo, no sabemos | Si el mejor acertaremos.»",
+              "autor": "",
+              "referencia_obra": "Id. El mejor mozo de España , 1. 12 (R. 41. 614 2 )."
+            },
+            {
+              "texto_cita": "«Nunca acierto los puntos | De su zapato, | Porque calza catorce, | Pidiendo cuatro.»",
+              "autor": "",
+              "referencia_obra": "Id. ¡Si no vieran las mujeres! 3. 6 (R. 34. 589 1 )."
+            },
+            {
+              "texto_cita": "«¡Oh fortuna cruel, golfo sin guía, | Suerte imposible que el tahur la acierte!»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 7 (R. 17. 208 1 )."
+            },
+            {
+              "texto_cita": "«Solo de estos escollos se liberta | El profesor que en su retiro acierta | La senda de la gran filosofía.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Música , 5 (1. 270)."
+            },
+            {
+              "texto_cita": "«Ya veo en vuestra sonrisa que aprobáis mi opinión. — En verdad, señor , que no habéis acertado mis ideas.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet, 2. 8 (R. 2. 501)."
+            },
+            {
+              "texto_cita": "«Si esta persona del eclesiástico tuvo original verdadero, Cervantes no acertó el modo ni la ocasión de zaherirle.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 5, p. 146."
+            },
+            {
+              "texto_cita": "«No acierto ¡viven los cielos! | La ocasión de sus tristezas.»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, Un hombre de estado, 3. 2 (1. 138)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sigue absorto sus pisadas | Sin saber qué le sucede, | Sin acertar qué le pasa.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Recuerdos de un grande hombre, 3 (3. 84)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. Siguiendo la analogía de dar, encontrar, topar, admite con , que, por la idea de contacto, realza la de hallazgo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensando dejar la oración por tres ó cuatro días, la dejan por toda su vida, porque cuando quieren tornar á ella, no aciertan con la puerta.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 2, § 9 (R . 8. 108 1 )."
+            },
+            {
+              "texto_cita": "«Lloran cuando se acuerdan de lo que perdieron, y cuando quieren volver á ello, no aciertan con la puerta.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist . 7. 1. 7 (R. 8. 394 2 )."
+            },
+            {
+              "texto_cita": "«Se tuvieron por más que dichosos en haber acertado con tan buen yerno.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 7 (R. 1. 173 2 )."
+            },
+            {
+              "texto_cita": "«Estuvo Tomás fuera de sí, combatida el alma de mil varios pensamientos, sin acertar jamás con ninguno de su gusto.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 8 (R. 1 . 196 1 )."
+            },
+            {
+              "texto_cita": "«Verdaderamente creyó que había acertado con el bálsamo de Fierabrás.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 17 (R. 1. 288 2 )."
+            },
+            {
+              "texto_cita": "«El hombre que acertare con una mujer de valor, se puede desde luégo tener por rico y dichoso.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 2 (R. 37. 215 1 )."
+            },
+            {
+              "texto_cita": "«Si de verdad deseo acertar con la divina voluntad, Dios me dará luz para conocerla.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 28 (1. 397)."
+            },
+            {
+              "texto_cita": "«Por uno, al fin, que acierta con la buena, | La suerte yerran mil.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 11 (R. 17. 263 1 )."
+            },
+            {
+              "texto_cita": "«Roma ni supo conocerlas [las artes] ni honrarlas debidamente, ni menos acertó con los medios de fijarlas en su imperio.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de las bellas artes (R. 46. 351 1 )."
+            },
+            {
+              "texto_cita": "«No acertaba con el placer, sino en medio de la agitación y violento ejercicio.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. sobre espect . 1 (R. 46. 481 2 )."
+            },
+            {
+              "texto_cita": "«Nadie acierta con aquella | Difícil facilidad.»",
+              "autor": "Mor.",
+              "referencia_obra": "rom . 7 (R. 2. 604 1 ) ."
+            },
+            {
+              "texto_cita": "«El alma sensible de Virgilio acertaba siempre con el tono patético.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 4. 5 (1. 172)."
+            },
+            {
+              "texto_cita": "«Ya mis dedos, | Trémulos con la edad, vagando errantes, | No aciertan con las cuerdas de la lira.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. lír. prof . 25 (R. 67. 297 1 ) ."
+            },
+            {
+              "texto_cita": "«Despechado de no haber acertado con las escuadras de sus contrarios, á los cuales había perseguido con actividad pasmosa, pero no con feliz fortuna, venía á ponerse sobre Cádiz.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 29."
+            },
+            {
+              "texto_cita": "«Me entretuve en discurrir, pero sin acertar con cosa que, aun medianamente, me satisficiese.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 427."
+            },
+            {
+              "texto_cita": "«Días pasados me mandé hacer un traje, y tres veces estuvo en casa de la modista por no acertar con mi gusto.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A la vejez viruelas , 1. 1 (1. 2)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans . Conservándose todavía la imagen del blanco á que se da, aparecen alguna vez estas construcciones:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dios sabe aquel que á la derecha vía, | Metido en la ocasión, acertaría.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 3 (R. 17. 12 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus agitaciones [de España], sus revueltas, sus guerras civiles están diciendo en alta voz que no se acierta en el verdadero sistema de gobierno.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 66 (4. 162)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5.",
+      "definicion": "Descubrir por casualidad ó por una feliz ocurrencia, adivinar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bien te podré decir que ningún hombre | He visto más galán y gentil hombre. | En un overo, como tú dijiste... | — ¿Hay cosa igual? Luego ¿acerté el overo?»",
+              "autor": "Lope",
+              "referencia_obra": ", La portuguesa y dicha del forastero , 1. 6 (R. 34. 157 2 )."
+            },
+            {
+              "texto_cita": "«¿Sabes, oh palomita, | Sabes, dí, lo que envidio? | Ea pues, si lo aciertas | Tienes un beso mío.»",
+              "autor": "Mel.",
+              "referencia_obra": "La paloma de Filis, 24 (R. 63. 115 2 )."
+            },
+            {
+              "texto_cita": "«Ya lo acerté: os ha enfadado | Con alguna impertinencia | Mi bendita hermana.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La niña en casa , 1. 1 (3. 76 ). —"
+            },
+            {
+              "texto_cita": "«¿Qué es quisicosa, marido, | Tres esposas y una esposa? | — Las trébedes. — ¡Bien por Dios! | Malo estaba de acertar.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los locos de Valencia , 2. 15 (R. 24. 126 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recóbrala al punto [la sortija]. | — Pues ¿á que usted no acierta | Quién la empeñó?»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El señorito mimado, 2. 1 (4. 198)."
+            },
+            {
+              "texto_cita": "«Respondieron que no vendrían en partido alguno sin que primeramente el condestable saliese de la corte. Cómo él á la sazón no estaba en ella, no se acierta qué era lo que querían decir con esta condición.»",
+              "autor": "",
+              "referencia_obra": "Quint . D. Álv. de Luna (R. 19. 410 1 )."
+            },
+            {
+              "texto_cita": "«No podían acertar los de Alhama de dónde procedía aquella hueste.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 26 (4. 379)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tales son los adevinos, gente engañosa y vana, tales sus pronósticos; nunca aciertan ó por maravilla.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 5. 3 (R. 30. 123 2 )."
+            },
+            {
+              "texto_cita": "«Tal vez se ejercitaban los talentos [de mis amigas] | En resolver enigmas misteriosos. | Y aquella que acertaba, | Mil parabienes y una flor ganaba.»",
+              "autor": "",
+              "referencia_obra": "Cienfuegos , La pastorcilla enamorada (R. 67. 27 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , que expresa el punto con respecto al cual se ha atinado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De las cosas pasadas dice mucho más [el mono de maese Pedro], que de las que están por venir; y aunque no todas veces acierta en todas, en las más no yerra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 25 (R. 1. 458 1 )."
+            },
+            {
+              "texto_cita": "«En verdad, gitanilla, que has acertado en muchas cosas de mi condición.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 1 (R. 1. 107 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6.",
+      "definicion": "Entre sastres, Recorrer é igualar la ropa cortada ( trans .). Covarr. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "7.",
+      "definicion": "Prevalecer y probar bien las plantas y semillas ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Son árboles [los duraznos] que presto vienen, y presto se hacen viejos; y aunque se puede plantar de rama ó de algunos pimpollos de los que suelen echar al pie, pocas veces aciertan, ni aun salen buenos; y por esto es mejor, pues tienen muy granada simiente en los cuescos, ponerlos dellos.»",
+          "autor": "Herr.",
+          "referencia_obra": "Agric. gen . 3. 23 (2. 205)."
+        },
+        {
+          "texto_cita": "«Pónense también [los manzanos] de ramo desgarrado mas esta tal postura las más veces no acierta, y aunque acierte lleva tarde.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 3. 31 (2. 288)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Es de notarse el uso de acertarse por Hallarse presente). — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Exáltanlo mucho en aver quemado su brazo porque no acertó de matar al rey que pensaba.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 14 (98)."
+        },
+        {
+          "texto_cita": "«Pensando acertarle en el otro ojo con la espada, quisole Dios guiar á que gela metió por una de las ventanas de las narices.»",
+          "autor": "",
+          "referencia_obra": "Amadís de Gaula , 3. 11 (R. 40. 231 2 )."
+        },
+        {
+          "texto_cita": "«Traxieron consigo alguna vianda que se les entonce acertó.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 29 (R. 68. 392 1 )."
+        },
+        {
+          "texto_cita": "«El podria venir seguro, é todos los que con él viniesen, salvo los que se acertaron en la muerte del arzobispo de Zaragoza.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6. 13 (R. 68. 346 2 )."
+        },
+        {
+          "texto_cita": "«E los lombarderos eran tales que tiraron dos dias que no acertaron en la villa.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 36 (R. 68. 991 2 )."
+        },
+        {
+          "texto_cita": "«No acertaron en el camino de la ciudad.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": ", 1 . 19 (R. 36. 373 1 )."
+        },
+        {
+          "texto_cita": "«Mando soberano me façe atrever | A vos responder, querrá Dios que açierte.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 319."
+        },
+        {
+          "texto_cita": "«En esta torre del Faro está siempre un faron que arde de noche, porque los navios que allí fueren acierten en aquella entrada.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 35. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«El enemigo mio, mi seruis quebrantó, | Asy como a fito o a sennal açertó.»",
+          "autor": "Pal.",
+          "referencia_obra": "1081 (R. 57 . 461 1 )."
+        },
+        {
+          "texto_cita": "«Era bien que él se acertase en tal batalla.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I , 10. 16 (R. 66. 497 2 )."
+        },
+        {
+          "texto_cita": "«E la saeta fiere | Al viuo si le açierte.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 451 (R. 57. 359 2 )."
+        },
+        {
+          "texto_cita": "«La fuente de la Cova es buen monte de puerco en verano, et algunas veces en ivierno, cuando acierta la bellota.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 3. 14 ( Bibl. venat. 2. 210)."
+        },
+        {
+          "texto_cita": "«En cada una destas buscas que vaya hi un can muy bueno de levantar, porque de las muchas buscas conviene que la una dellas acierte en la ida mas fresca desa manana para poderlo levantar.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 30 ( ib . 1. 94)."
+        },
+        {
+          "texto_cita": "«Yo so cierto del rey que por detenerte dos dias por acabar tal aventura, que como quier quél pasara por non se acertar en ella, que te pone mas culpa por non la porfiar»",
+          "autor": "",
+          "referencia_obra": "Ib. Carta á Albar Garcia ( Bibl. venat. 2. 408)."
+        },
+        {
+          "texto_cita": "«Acertad aqueste fecho, pues que vierdes las voluntades.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 6 (R. 57. 248 2 )."
+        },
+        {
+          "texto_cita": "«Si la rason entiendes, o en el seso açiertas, | No dirás mal del libro, que agora refiertas.»",
+          "autor": "",
+          "referencia_obra": "Id. 58 (R. 57. 229 1 )."
+        },
+        {
+          "texto_cita": "«Era ella de tan buen entendimiento et de tan buenas obras, que siempre acertaba en lo mejor.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 5 (R. 51. 398 1 )."
+        },
+        {
+          "texto_cita": "«Muchas cosas ha mester el home para saber acertar en lo mejor et facerlo.»",
+          "autor": "",
+          "referencia_obra": "Id . ib . 12 (R. 51. 420 2 )."
+        },
+        {
+          "texto_cita": "«Yo querria que él acertase en lo mejor.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 48 (R. 51. 400 2 )."
+        },
+        {
+          "texto_cita": "«Por las muchas feridas que hubiera en las lides en que se acertara, --- se le enflaqueciera tanto la cabeza, que por poco vino que bebiese --- le facía perder el entendimiento.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 5 (R. 51. 397 1 )."
+        },
+        {
+          "texto_cita": "«Dice don Johan quel dijieron que habie hi pieza de buenas riberas, mas dice que non se le acertó de cazar en ellas.»",
+          "autor": "",
+          "referencia_obra": "Id. Caza , 12 (Bibl. venat. 3. 135 )."
+        },
+        {
+          "texto_cita": "«Non son creidas [las mugeres] si los omes que se y acertaron, o alguno dellos non testimonia eso mismo .»",
+          "autor": "Leyes del est.",
+          "referencia_obra": "96 ( O. L. 2. 279)."
+        },
+        {
+          "texto_cita": "«Si son tales omes aquellos, que se acertaron en el fecho, o algunos dellos, que puedan, et deban ser metidos a tormento, debelo fazer el alcalde por saber qual lo firió.»",
+          "autor": "O. L.",
+          "referencia_obra": "2. 263). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Estando delante fulan et fulan monges, nombrando todos quantos se acertaren hi, fulan abat por sí et por sus sucesores --- vende et da á fulan --- tal casa ó tal heredat.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 18. 63 (2. 587)."
+        },
+        {
+          "texto_cita": "«Tirábase una lanza de nueve pasadas, et sil acertaba al otro ó le mataba non habie por ello homeciello nin caloña alguna.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 28. 6 (2. 322)."
+        },
+        {
+          "texto_cita": "«Alli do non habien tales escripturas, facienselo retraer á los caballeros buenos et ancianos que se en ello acertaron.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 21. 50 (2. 213)."
+        },
+        {
+          "texto_cita": "«Acorrer deben los alcaydes á los castiellos que tovieren del rey si se non acertaren hi.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 18. 16. (2. 163)."
+        },
+        {
+          "texto_cita": "«Et todos los que se acertasen hi con él, que jurasen de guardar dos cosas.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 15. 5 (2. 136)."
+        },
+        {
+          "texto_cita": "«Qui es descomulgado desta descomunion bien se puede acertar con sus compañeros en eleccion facer, mas non pueden esleer á él sabiendo que es descomulgado.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 9. 6 (1. 332)."
+        },
+        {
+          "texto_cita": "«Quando el obispo quisiere facer algun arcipreste, el arcediano se debe acertar con él en facerle.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 6. 4 (1. 254)."
+        },
+        {
+          "texto_cita": "«Quando vagare alguna eglesia --- el dean et los canónigos que en ella se acertaren débense ayuntar.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 17 (1. 207)."
+        },
+        {
+          "texto_cita": "«El patriarca o el primado que se acertare hi por ruego del rey ó de aquel que la conquirier, bien puede bendecir et consagrar.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 14 (1. 205)."
+        },
+        {
+          "texto_cita": "«Jurador quando oviere de jurar, deve catar tres cosas --- La primera que sepa bien ciertamente --- Este saber dezimos que deva seer veyendolo o acertandose en ello.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 11. 29 ( O. L. 1. 416)."
+        },
+        {
+          "texto_cita": "«Esto serie como si acusasen a alguno de mal que oviese fecho, e los testigos que aduxiesen provando aquel fecho, dixiesen que ellos se acertaran con él en fazerlo.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 395)."
+        },
+        {
+          "texto_cita": "«Falsedades podrian seer fechas en las cartas por que despues las desecharian en pleito o en juyzio. Esto serie --- escriviendo nonbres de algunos por testigos, que non se acertasen en fazer la carta.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 373)."
+        },
+        {
+          "texto_cita": "«Si alguno se seyendo siervo, vio o se acertó en alguna cosa porquel aduxiesen despues en testimonio en tiempo que fuese libre, dezimos quo non pueden desechar su testimonio.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 193)."
+        },
+        {
+          "texto_cita": "«Bien puede provar el siervo, si acaesciere algunt fecho en que non se acierten omes libres que puedan seer testigos.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 191)."
+        },
+        {
+          "texto_cita": "«Si consienten á sus sabores et non les dicen la verdad, --- non lo aciertan bien.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 28 2 )."
+        },
+        {
+          "texto_cita": "«Acertóse con unos sabios cuidando que sabia tanto como ellos.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 12 1 )."
+        },
+        {
+          "texto_cita": "«Non sabe el so desden sobre quieno reuierta, | Empeytra del cauallo á quien quier que açierta.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2246 (R. 57. 216 1 )."
+        },
+        {
+          "texto_cita": "«Mandól la mano diestra el rey luego cortar, | Et non si non por quanto nol pudo açertar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1079 (R. 57. 180 2 )."
+        },
+        {
+          "texto_cita": "«Quando por aventura en algo açertaba | Por poco la gent loca que non lo adoraba.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 724 (R. 57. 125 2 ). —"
+        },
+        {
+          "texto_cita": "«Toto homine qui se acertare ó homine mataren, dicat lo que uiderit.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid, año 1202. Mem. Acad. Hist . 8. 34)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y cierto ; formación análoga á la de asegurar, afirmar . Tiene igual forma en los demás dialectos peninsulares; en port. ocurre también la expresión acertarse, alguem em alguma parte , y se emplea además el verbo como término de sastrería. Fr. ant. acerter, acertainer (inglés to ascertain ); it. accertare , asegurar, afirmar..",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: aciert-o, as, a, an; aciert-e, es, e, en; acierta tú .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans.: 1, a - 2 - 3, a - 4, α - 5 - 6 . — Absol.: 3, b - 5, γ . — Intrans .: 1, c - 3, c - 4, β , γ - 7 . — Part .: 3, a, β - 3, β, α , α α - 3, b, β , α α . — Con á : 3, c - 4, γ , α α . — Con: 1, b, β - 4, β . — De : 3, c, ε . — En : 1, a, γ - 1, β, γ - 1, χ, β - 3, β, β - 4, γ , β β - 5, δ . — Con infin. : 3, c, ζ . — Con prop . indic. : 3, c, γ , α α . — Prop. interr. : 4, α , α α - 5, β . — Atrae los pronombres del infinitivo siguiente: 3, c, δ . — Constructio praegnans : 1, b . \u0000"
+}

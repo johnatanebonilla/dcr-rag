@@ -1,0 +1,399 @@
+{
+  "lema": "EMPUÑAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Tener o asir con el puño un objeto.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dícese en especial de las armas o de otros instrumentos que, a semejanza de ellas, están provistos de empuñadura ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y diciendo esto se levantó en pie y empuñó la espada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 63 (fol. 244 rº; R. 1. 538 2 )."
+            },
+            {
+              "texto_cita": "«Este alfange que empuño defenderá mi derecho y castigará tu atrevimiento.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 2 (fol. 49 rº; R. 1. 125 1 )."
+            },
+            {
+              "texto_cita": "«Que quien tiene noble el pecho, | Por Dios, por su honor y el rey | Sólo empuña el blanco acero.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovia, 2ª pte. 1. 14 (R. 20. 399 2 ). +"
+            },
+            {
+              "texto_cita": "«Sé que te armas de diamante | --- | Y para arneses de vidrio | Espada de acero empuñas.»",
+              "autor": "Góng.",
+              "referencia_obra": "Nº 26 (1582), v. 100 (ed. Foulché, 1. 35). +"
+            },
+            {
+              "texto_cita": "«Si empuña, si embraça acaso | Lança i adarga el Parnaso.»",
+              "autor": "",
+              "referencia_obra": "Id. Nº 483, v. 16 (ed. Foulché, 3. 39). +"
+            },
+            {
+              "texto_cita": "«Empuñe su majestad la espada, o por ella su ejército.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal, 2 (R. 21. 483 1 )."
+            },
+            {
+              "texto_cita": "«Los caballeros juraban sacando la espada o empuñándola, expresando en la fórmula: por esta espada, por la cruz de esta espada.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet. 1, nota 30 (R. 2. 556 1 )."
+            },
+            {
+              "texto_cita": "«El ínclito león describe hispano, | Que su derecha mano | Empuña regia lanza y amenaza | Crudo rigor.»",
+              "autor": "Jáur.",
+              "referencia_obra": "madr. Esta imperial efigie (R. 42. 109 2 ). +"
+            },
+            {
+              "texto_cita": "«Con presteza | Se desembarazó de su ropaje | Y la daga empuñó.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 9 (R. 100. 224 1 ). +"
+            },
+            {
+              "texto_cita": "«Cegué, grité venganza, | Y el alfange empuñé con firme diestra.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . 4 (R. 100. 142 1 ). +"
+            },
+            {
+              "texto_cita": "«Las dos cuadrillas, a una y otra parte, | Dejando el campo libre, se separan, | Y el primero, Zeir, empuña, altivo, | Una delgada y primorosa lanza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1 (R. 100. 108 2 ). +"
+            },
+            {
+              "texto_cita": "«Empuñan los alarbes sus gumías; | Cuchillos y asadores, diligentes, | Empuñan los de Salas.»",
+              "autor": "",
+              "referencia_obra": "Id . Ib. 8 (R. 100. 210 2 ). +"
+            },
+            {
+              "texto_cita": "«¡Ay! Giafar era, | Que, aunque muerto, inspiraba el miedo mismo | Que cuando el cetro o la invencible lanza | Empuñando, era numen de exterminio.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5 (R. 100. 154 2 )."
+            },
+            {
+              "texto_cita": "«Los jóvenes y ancianos | Morir anhelan por la amada patria, | Y el hierro empuñan sus endebles manos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Za ragoza (1. 82)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Duque (empuñando contra don Juan): Vuestra amistad engañosa | Castigaré.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Las paredes oyen, 3. 17 , v. 14 (R. 20. 61 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Demudada la color, los ojos encarnizados, y empuñada la espada, salen a la calle.»",
+              "autor": "Quev.",
+              "referencia_obra": "Capitulaciones, 8 (R. 23. 464 1 ). +"
+            },
+            {
+              "texto_cita": "«El Alguacil trató de su negocio sin meterse en más dimes ni diretes, deseando más que hubiese dares y tomares, y doña Tomasa estuvo empuñada la espada y terciada la capa, a punto de pelear al lado de su soldado.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo Coj. 10 (Cl. C. 38. 305). +"
+            },
+            {
+              "texto_cita": "«Encendida una guerra y empuñada una espada, lo muy cierto está dudoso, cuánto más lo que está en duda.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 44 (R. 21. 42 1 )."
+            },
+            {
+              "texto_cita": "«Saltó del carro | Y en la mano siniestra la alta pica | Empuñada teniendo, con la diestra | Un enorme peñasco alzó del suelo.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 16 (2. 152). +"
+            },
+            {
+              "texto_cita": "«Mas no al embozado, que aun sangre su espada | Destila, el fantasma terror infundió, | Y, el arma en la mano con fuerza empuñada, | Osado a su encuentro despacio avanzó.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Estud. de Salam. 1 (R. 72. 60 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con que introduce la expresión del instrumento o medio. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un venablo empuñaba con la diestra | Y con su cascabel y capirote | En el puño siniestro sustentaba | Un fiero azor.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 7 (R. 100. 195 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por para denotar la parte o punto por donde se toma o tiene asido. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y esto causará poca extrañeza si se contempla la agilidad y destreza que era propia de aquella silla --- la ventaja que ofrecía el manejo de la lanza, ya terciándola, ya empuñándola por el medio, ya tomándola por el cuento para darla mayor alcance.»",
+              "autor": "",
+              "referencia_obra": "Estébanez, Escenas andaluzas (R. 78. 127 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con contra que, señalando el objeto del ataque, sugiere la idea de prepararse para el mismo y de Esgrimir. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Ansí pudo salir aquel Francisco, | Que contra España tanta espada empuña, | De Cádiz?»",
+              "autor": "Lope",
+              "referencia_obra": ", Dragontea, 2 ( Obr. Suelt. 3. 218). +"
+            },
+            {
+              "texto_cita": "«Que el gran Marqués difunto en Cataluña, | Honor de los Pachecos y Cerralvo, | Contra el orgullo inglés la espada empuña.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . 1. ( Obr. Suelt. 3. 191). +"
+            },
+            {
+              "texto_cita": "«Si declara que el acero | Osó contra mí empuñar.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . 1. 13, v. 30 (R. 20. 398 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Sostenerse, apoyarse en el puño de la espada ( refl .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y diziendo esto se levantó en pie y se empuñó en la espada, esperando qué resolución tomaría el Cavallero del Bosque.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 14 (fol. 48 vº; R. 1. 431 1 )."
+        },
+        {
+          "texto_cita": "«Si el clérigo le va a echar agua bendita, se empuña con la espada, pensando que le va a dar con el hisopo.»",
+          "autor": "Salazar",
+          "referencia_obra": ", Cartas , 5 (R. 62. 303 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "No determinándose ni individualizándose el arma o instrumento, empuñar vale, en general, Tomar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El entusiasmo que había llevado a empuñar las armas había cesado, o, dígase, los entusiasmados ya las habían tomado.»",
+              "autor": "",
+              "referencia_obra": "Galiano, Recuerdos, 7 (R. 83. 56 1 )."
+            },
+            {
+              "texto_cita": "«Por fiarse mucho de sus fuerzas, fue el primero que se determinó de empuñar las armas contra él.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 13. 14 (R. 30. 389 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué cosa hay más torpe que poner en los pies la esperanza quien tiene empuñadas las armas?»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 10. 17 (R. 30. 303 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Aplícase también a la vara, bastón o cetro, distintivos del que manda, dirige o gobierna. +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esos ofrecimientos que ha hecho Rana | Son desde lexos. A fe que si él empuña | Vara, que él se trueque, y sea otro hombre | Del que ahora parece.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Entremés de los Alcaldes (fol. 233 rº)."
+        },
+        {
+          "texto_cita": "«Hicieron una grande junta, en la qual eran muchos los que pretendían empuñar el bastón.»",
+          "autor": "",
+          "referencia_obra": "Ov. Hist. Chil. lib. 6. cap. 5 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Viéndose aplaudido y estimado como el primero de su nación, entró en esperanzas de empuñar el cetro en la primera elección.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj. 2. 3 (R. 28. 235 1 ). +"
+        },
+        {
+          "texto_cita": "«Ese injusto dueño, que tiene mal usurpada vuestra obediencia, empuñó el cetro de Tezcuco --- y como no es dada la ciencia de conservar a los tiranos, reinó como se hizo rey.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 5. 11 (R. 28. 360 2 ). +"
+        },
+        {
+          "texto_cita": "«En los demás causa desprecio el ver ocupada con el plectro o con el pincel la mano que empuña el ceptro y gobierna un reino.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 6 (R. 25. 21 2 ). +"
+        },
+        {
+          "texto_cita": "«Ahora que con tantos caballeros | Saldrán los escuadrones peleando, | Capitán general pretendo haceros | Contra el orgullo del contrario bando: | Empuñad el bastón sin deteneros.»",
+          "autor": "Villav.",
+          "referencia_obra": "Mosq. 7 (R. 17. 599 1 ). +"
+        },
+        {
+          "texto_cita": "«Suena en su labio la verdad, detesta | Al vicio aunque del orbe el cetro empuñe.»",
+          "autor": "Mor.",
+          "referencia_obra": "Epístolas (ed. Acad. Hist. 1. 137)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Por metonimia, Hacerse con el mando o gobierno, tomarlo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esté Sancho de buen ánimo, que cuando menos lo piense se verá sentado en la silla de su ínsula y en la de su estado, y empuñará su govierno.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 33 (fol. 129 vº; R. 1. 476 1 )."
+        },
+        {
+          "texto_cita": "«Pues en verdad, amigo Sancho, dixo el Duque, que si no os ablandáis más que una breva madura, que no havéis de empuñar el govierno.»",
+          "autor": "",
+          "referencia_obra": "Id. Ib. 2. 35 (folio. 139 rº; 8. 1. 481 1 ). +"
+        },
+        {
+          "texto_cita": "«Hombre que oficio empuñas, | Sabe templado ejercello, | Pues a tantos, por no hacello, | Has visto quitar las uñas.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", La Crueldad por el Honor, 2. 5. v. 33 (R. 20. 458 2 ). +"
+        },
+        {
+          "texto_cita": "«No empuñaréis los oficios [de mayordomo y camarero].»",
+          "autor": "",
+          "referencia_obra": "Id. Todo es ventura, 1. 16, v. 12 (R. 20. 124 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Tratándose de otros objetos, Asirlos, tomarlos o cogerlos con la mano.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los de la processión que los vieron venir corriendo, y con ellos los cuadrilleros con sus ballestas, temieron algún mal sucesso y hiziéronse todos un remolino alrededor de la imagen; y alçados los capirotes, empuñando las diciplinas, y los clérigos los ciriales, esperavan el asalto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 52 (fol. 311 vº; R. 1. 399 2 )."
+            },
+            {
+              "texto_cita": "«Aplicábanles [a los niños recién nacidos], si eran nobles, a la mano derecha una espada --- Las hembras de una y otra calidad empuñaban la rueca y el huso.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Mé¡. 3 . 17 (R. 28. 293 2 ). +"
+            },
+            {
+              "texto_cita": "«Acabado esto, que no fue poco de ver, todos empuñaron agujas y hilo para hacer un punteado.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 15 (Cl. C. 5. 173)."
+            },
+            {
+              "texto_cita": "«Su microscopio empuña: ármale, y cae | Sobre un átomo vil.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. A. Bermudo (R. 46. 43 2 ). +"
+            },
+            {
+              "texto_cita": "«Voyme a casa, y envainando | Mi cuerpo en la ropa negra, | Que al amor y a los malvados | Es igualmente funesta; | Empuñando fieramente | Un tomo de las Pandectas, | --- | Exclamo.»",
+              "autor": "Forner",
+              "referencia_obra": ", rom . 9 (R. 63. 331 3 ). +"
+            },
+            {
+              "texto_cita": "«En alta silla, | Soltaba el cónsul las temidas riendas | Para empuñar la cítara sonora.»",
+              "autor": "",
+              "referencia_obra": "Id. epíst . 1. (R. 63. 315 2 ). +"
+            },
+            {
+              "texto_cita": "«Don Opando, diciendo sorda y guturalmente que entre, que entre, abrió las puertas de par en par, y empuñó su velón de Lucena para alumbrar al misterioso peregrino.»",
+              "autor": "",
+              "referencia_obra": "Estébanez, Escenas andaluzas (R. 78. 179 1 ). +"
+            },
+            {
+              "texto_cita": "«La capa no estorba para correr, que el patriarca José a buen seguro que él la dejara cuando iba a huir, a no habérsela empuñado aquella buena amiga de Putifar.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . (R. 78. 265 1 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un acus. de persona (raro). +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No al sino que si Satanás no os empuña, los grajos vos saboreen.»",
+              "autor": "",
+              "referencia_obra": "Estébanez, Escenas andaluzas (R. 78. 234 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En los pasajes siguientes vale Tener, estrechar en el puño.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensé, Tristán, que tuvieras, | Solos para regalarme, | Veinte escudos; y obligarme | Agora mejor pudieras, | Que los doscientos empuñas.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Quien mal anda mal acaba, 2. 7 (R. 20. 220 1 ). +"
+            },
+            {
+              "texto_cita": "«Será cosa acertada, | Señor, que empuñe mi intento | Sus escudos más de ciento»",
+              "autor": "Góng.",
+              "referencia_obra": "Nº 299 (1615), v. 6 (ed. Foulché, 2. 229)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Demandé a la razón su opaca antorcha, | La empuñé audaz, precipité mis pasos.»",
+              "autor": "",
+              "referencia_obra": "M. De la Rosa, Poes. (1. 40)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y puño, como port. empunhar, cat . empunyar, prov . emponhar, fr. empoigner, it . impugnare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

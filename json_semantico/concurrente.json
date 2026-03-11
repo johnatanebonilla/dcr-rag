@@ -1,0 +1,184 @@
+{
+  "lema": "CONCURRENTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que concurre ó se dirige al mismo punto que otra cosa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Parece que el bien y el mal distan tan poco el uno del otro, que son como dos líneas concurrentes, que aunque parten de apartados y diferentes principios, acaban en un punto.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers. 4. 12 (R. 1. 675 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Que va á una reunión. Con frecuencia se usa como sust.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cada cual de los concurrentes brinda por algún sujeto de su estimación, amigo ú amiga ausente, y todos beben, repitiendo el brindis que dictó.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 164."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el lugar ó reunión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Don Ventura Rodríguez fue uno de los primeros que se adscribieron á nuestra Sociedad Económica --- y fue después uno de los individuos más concurrentes á las juntas ordinarias.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de V. Rodr. nota 17 (R. 46. 388 2 )."
+            },
+            {
+              "texto_cita": "«Así tuviera usted á la mano alguna historia del monasterio de S. Feliú de Guíxols, cuyo abad Bernardo, concurrente á esta conquista, fue nombrado antes que Ferrario para esta silla.»",
+              "autor": "",
+              "referencia_obra": "Id. Corresp. con Posada (R. 50. 253 1 ). —"
+            },
+            {
+              "texto_cita": "«Entre los concurrentes al teatro, siempre habrá muchos de aquellos que sólo tienen sentidos.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. sobre espect. 2 (R. 46. 498 2 )."
+            },
+            {
+              "texto_cita": "«Yerro gravísimo que procuré yo con otros pocos impedir, yéndome de banco á banco á recomendar la prudencia, y reclamando que guardasen orden los concurrentes á las tribunas.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 435."
+            },
+            {
+              "texto_cita": "«Gallego era muy amigo de Quintana, á cuya tertulia era concurrente asiduo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 98."
+            },
+            {
+              "texto_cita": "«Le oirán los concurrentes á sus lecciones, y espero que sacarán de su suficiencia más provecho que de la mía.»",
+              "autor": "",
+              "referencia_obra": "Id. Hist. lit. p. 6."
+            },
+            {
+              "texto_cita": "«La servidumbre del duque y los concurrentes á sus sermones --- parecían más dispuestos a escuchar primores retóricos que la sencilla palabra de Dios.»",
+              "autor": "Mora",
+              "referencia_obra": ", Vida de Granad. (R. 6. XVI)."
+            },
+            {
+              "texto_cita": "«Cae el telón, y una parte de los concurrentes al teatro se marcha al café.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Un entreacto (349) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Que existe en el mismo tiempo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La contraria opinión de que fue casto, y que no se casó, la afirman y aseguran Tertuliano, casi concurrente de los apóstoles, de Monogamia; san Epifanio ---»",
+          "autor": "Quev.",
+          "referencia_obra": "Vida de S. Pablo (R. 48. 13 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Que pretende lo mismo que otro, competidor. Se usa también como sust.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hizo Gonzalo á los italianos concurrentes toda clase de honras, como si á su valor estuviese fiada la fortuna de aquella guerra.»",
+              "autor": "",
+              "referencia_obra": "Quint . Gran Capitán (R. 19. 264 2 ). —"
+            },
+            {
+              "texto_cita": "«¿Es comerciante? Combinará sus especulaciones con detrimento público, suplantará ó engañará á sus concurrentes.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Ética (R. 46. 257 1 )."
+            },
+            {
+              "texto_cita": "«Un concurrente de esta clase debía ser de mucho peso en la balanza y poner en duda el vencimiento.»",
+              "autor": "Quint.",
+              "referencia_obra": "Meléndez (R. 19. 111 2 )."
+            },
+            {
+              "texto_cita": "«La lucha no podía durar mucho tiempo entre dos concurrentes tan desiguales [el rey de Castilla y el de León].»",
+              "autor": "Cid",
+              "referencia_obra": "(R. 19. 204 1 )."
+            },
+            {
+              "texto_cita": "«Papel que nadie ambiciona; | como no hay concurrentes, | Me hace á mí la olla gorda.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Me voy de Madrid, 3. 4 (2. 69)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si vuestra alteza se dignase de convidar con un gran premio de utilidad y honor al que escribiese obra tan importante, logrará sin duda algunos concurrentes á esta empresa.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 2 a . clase (R. 50. 125 1 )."
+            },
+            {
+              "texto_cita": "«Hemos examinado cincuenta y cinco dramas concurrentes al premio, y hallado ser los mejores dos comedias, una pastoral intitulada Las bodas de Camacho, y otra civil, Los menestrales. »",
+              "autor": "",
+              "referencia_obra": "Id. Cartas (R. 50. 311 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Llámase cantidad concurrente la parte de una suma que basta para pagar ó compensar otra.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Señalo y consigno para la paga de estos réditos, hasta la concurrente cantidad, y por hipoteca especial la renta del tabaco.»",
+          "autor": "",
+          "referencia_obra": "Nov. Recop. 10. 15. 25 (4. 297)."
+        },
+        {
+          "texto_cita": "«Está ya vendida la plata del señor Pola, cuyo importe hasta la concurrente cantidad de su deuda, nos ofrecen entregar inmediatamente.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Cartas (R. 50. 330 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. concurrentem, concurrens, part . activo de concurrere, concurrir. Se usó también la forma popular concurriente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Guardando aquella rregla que la pena vna ves dada en algunt caso, en aquel mesmo, sy concurriente las calidades de persona, manera e grado, injunga penas e non mas.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 17 (106)."
+        },
+        {
+          "texto_cita": "«Con dilaciones sordas le divierte | Entre unos verdes carrizales, donde | Armonioso número se esconde | De blancos cisnes, de la misma, suerte | Que gallinas domésticas al grano, | A la voz concurrientes del anciano.»",
+          "autor": "Góng.",
+          "referencia_obra": "Soled. 2 (R. 32. 472 2 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,1163 @@
+{
+  "lema": "DERRIBAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Impeler el que está arriba un objeto hacia abajo y hacerlo caer con ímpetu ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los de Troya empiezan | A derribar las torres y techumbres, | Que en estas armas libran su defensa.»",
+              "autor": "",
+              "referencia_obra": "T. Iriarte, Encida , 2 (3. 134)."
+            },
+            {
+              "texto_cita": "«¿Cómo dicen éstos que vamos tan altos si alcanzan acá sus voces ---? No repares en eso, Sancho, que como estas cosas y estas volaterías van fuera de los cursos ordinarios, de mil leguas verás y oirás lo que quisieres, y no me aprietes tanto, que me derribas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 41 (R. 1. 489²). —"
+            },
+            {
+              "texto_cita": "«Que fortuna los ha siempre ayudado | Y dádoles la mano á la subida, | Para después de haberlos levantado | Derribarlos con mísera caída.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 2 (R. 17. 7²)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hasta tres veces, | Apoyado en el codo, á la muralla | Subió el heroe, y tres veces derribado | Fue por Apolo.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 16 (2. 151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el lugar en que está el que impele.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hiriendo en la cabeza al monstruo insano, | Lo desvanece en su arrogancia altiva; | Y juntamente la invencible mano, | Venciéndole, del cielo le derriba.»",
+              "autor": "",
+              "referencia_obra": "Acevedo, Creación , 1 (R. 29. 250²). —"
+            },
+            {
+              "texto_cita": "«¡Ay fortuna, enemiga de mi descanso, con cuánta velocidad me derribaste de la cumbre de mis contentos al abismo de la miseria en que me hallo!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 12²)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las cavernas yacen [los gigantes], con violento | Rayo de la alta cumbre derribados.»",
+              "autor": "",
+              "referencia_obra": "Araguijo, son . 37 (R. 32. 399¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl . Echarse, precipitarse. Con de , para expresar el lugar elevado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se desnudó de cuanto sobre sí tenía, y derribándose de la cama en el suelo, se abrazó con la tierra desnudo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1, viern. por la mañ . (R. 8. 79²)."
+            },
+            {
+              "texto_cita": "«Del palafrén se derriba, | No porque al moro conoce, | Sino por ver que la hierba | Tanta sangre paga en llores.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 14 (R. 32. 509³)."
+            },
+            {
+              "texto_cita": "«Vio que eran dos hombres á caballo, y que el uno dejándose derribar de la silla, dijo al otro: Apéate, amigo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 12 (R. 1. 427²). —"
+            },
+            {
+              "texto_cita": "«El río Alberche, que se derriba de los montes de Ávila.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 4. 13 (R. 30.105¹)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer que algo que está en alto dé en tierra con ímpetu ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dice Bernal Díaz del Castillo --- que se determinaron á derribar los ídolos de Méjico y convertir en iglesia el adoratorio princípal.»",
+              "autor": "Solís",
+              "referencia_obra": "Conq. de Mej. 4. 1 (R. 28. 301²)."
+            },
+            {
+              "texto_cita": "«Determinó [el cacique] hacerse cristiano, derribó y quemó sus ídolos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 457²)."
+            },
+            {
+              "texto_cita": "«Llegó de tropel la extendida y gruñidora piara, y sin tener respeto á la autoridad de D. Quijote ni á la de Sancho, pasaron por cima de los dos, deshaciendo las trincheas de Sancho, y derribando no sólo á D Quijote sino llevando por añadidura á Rocinante.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 68 (R. 1. 547²)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si es que se muere de pesar de verse vencido, écheme á mí la culpa, diciendo que por haber yo cinchado mal á Rocinante le derribaron; cuanto más que vuestra merced habrá visto en sus libros de caballerías ser cosa ordinaria derribarse unos caballeros á otros, y el que es vencido hoy, ser vencedor mañana.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 74 (R. 1. 557²)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dio á correr [Rocinante] por el campo, con más ligereza que jamás prometieron los huesos de su notomía. Sancho, que consideró el peligro en que iba su amo de ser derribado, saltó del rucio, y á toda priesa fue á valerle, pero cuando llegó, ya estaba en tierra, y junto á él Rocinante, que con su amo vino al suelo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 11 (R. 1. 426¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el lugar elevado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al álamo que el caro nido abriga, | A sus implumes pajarillos vuela --- | La piedra que escondido tiró el duro | Villano, la derriba de la planta, | Ya infausto apoyo del amor más puro.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "eleg. Con feliz parto (R. 42. 343¹)."
+            },
+            {
+              "texto_cita": "«Un moro de á pie se abrazó con un escudero, y derribándole del caballo, se lo quitó.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Rebelión , 6. 33 (R. 21. 283²)."
+            },
+            {
+              "texto_cita": "«El me venció á mí me derribó del caballo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 65 (R. 1. 542²)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aplicado á los miembros ó partes del cuerpo ó á cosa que se tiene en ellos, Hacerlos caer de herida ó golpe. Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Sin ventura yo! dijo D. Quijote, oyendo las tristes nuevas que su escudero le daba que, más quisiera que me hubieran derribado un brazo, como no fuera el de la espada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 18 (R. 1. 293 1 )."
+            },
+            {
+              "texto_cita": "«Se le cayeron [las barbas], y como se vio sin ellas, no tuvo otro remedio sino acudir á cubrirse el rostro con ambas manos, y á quejarse que le habían derribado las muelas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 29 (R. 1. 332 1 )."
+            },
+            {
+              "texto_cita": "«Finalmente el licenciado le contó á estocadas todos los botones de una media sotanilla que traía vestida --- derribóle el sombrero dos veces.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 19 (R. 1. 444 2 )."
+            },
+            {
+              "texto_cita": "«Muchas veces | Derriba [Amor] á Marte la sangrienta espada | De la robusta mano.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , pról . (R. 42. 132 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Refl. Caer, descender.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cualquiera flecha ó lanza ofende y llaga, | Que allí los griegos y romanos tiran; | Pues aunque al agua, errando, se derribe, | Hay cuerpo que su golpe en sí recibe.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42. 112 2 )."
+            },
+            {
+              "texto_cita": "«Paróse [la luna] al medio curso más hermosa | A ver la extraña prueba en qué paraba; | Y viéndola en el punto y ser primero, | Se derribó en el ártico hemisfero.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 2 (R. 17. 10 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Hacer caer al suelo lo que está en pie ó derecho, trastornar, echar por tierra ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bendigaos Dios, ¡cómo lo reís y holgáis! --- mirá no derribéis la mesa.»",
+              "autor": "Celest.",
+              "referencia_obra": "9 (R. 3. 42 2 )."
+            },
+            {
+              "texto_cita": "«Y para grandes flotas por su playa | Los gruesos robles y álamos derriba.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 8 (R. 17. 224 1 )."
+            },
+            {
+              "texto_cita": "«Poniendo mano á su espada comenzó á derribar y á cortar de aquellas malezas que á la boca de la cueva estaban.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 22 (R. 1. 451 1 )."
+            },
+            {
+              "texto_cita": "«Abrazado [Sansón] con las colunas del templo, le derribó sobre ellos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 41 (R. 25. 104 2 )."
+            },
+            {
+              "texto_cita": "«Viose al letal gemido, | Cual bella palma que derriba el rayo, | Bajar envuelta en súbito desmayo | La triste madre al alfombrado suelo.»",
+              "autor": "Gallego",
+              "referencia_obra": ", eleg . 2 (R. 67. 401 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Tratándose de edificios, Demoler, hechar á tierra, arruinar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fácil es de publicar | Que se cayó, y derribar | Una tapia que está en medio.»",
+              "autor": "Cald.",
+              "referencia_obra": "Lances de amor y fortuna , 3. 13 (R. 7. 51 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Derruírse, caerse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pienso que mi esperanza ha fabricado | Edificio más firme; y aunque veo | Que se derriba, sigo al fin mi engaño.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, son . 100 (R. 32. 325 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Díjole también que en aquel su castillo no había capilla alguna donde poder velarlas armas, porque estaba derribada para hacerla de nuevo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 3 (R. 1. 260 2 )."
+            },
+            {
+              "texto_cita": "«Se continuaban los redutos hasta una iglesia derribada, llamada San Ole.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 118 2 ). Absol ."
+            },
+            {
+              "texto_cita": "«Se suele decir que es más fácil derribar que edificar.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 3. 10 (R. 8. 258 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , para expresar tanto el lugar en que quedan esparcidos los escombros, como la parte por la cual en cierto modo se corta el objeto que se echa á tierra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llegando á la iglesia del apóstol Santiago, derribó por el suelo mucha parte della.»",
+              "autor": "",
+              "referencia_obra": "A. Mor . Cron. 17. 24 (8. 411)."
+            },
+            {
+              "texto_cita": "«Mandó derribar por los cimientos las cuatro puertas de la ciudad.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 17. 23 (8. 411)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Aplicado á personas y ciertos animales, Hacer dar en el suelo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y fue nueva merced darme esta licencia que yo suplicaba, pues fue quitarme la carga cuando ya con su peso me iba á derribar.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "dedic. de las Obras de P. de Oliva."
+            },
+            {
+              "texto_cita": "«A veces quien se abrazó con otro derriballo cayó con él.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 50 (R. 25. 134 1 )."
+            },
+            {
+              "texto_cita": "«No pensará sino en moverse con agilidad y embestir con fuerza y denuedo, y menudear tajos, reveses y estocadas, sin otro fin que vencer y derribar á su enemigo.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Poét. 2. 18 (1. 278). — Recípr."
+            },
+            {
+              "texto_cita": "«Así estrechadas ya las fuertes manos | De los dos campeones que en la arena | Uno al otro querían derribarse ---»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 23 (2. 379)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es muy gallarda; | Y más cuando al pasar del arroyuelo, | Vino el torillo y derribóla al suelo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Al pasar del arroyo , 3. 5 (R. 24. 401 2 )."
+            },
+            {
+              "texto_cita": "«Que cada cual por el cuerno | Derriba al suelo un novillo.»",
+              "autor": "",
+              "referencia_obra": "Id. Los embustes de Celauro , 3. 11 (R. 24. 107 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alzó la lanza á dos manos, y dio con ella tan gran golpe al arriero en la cabeza, que le derribó en el suelo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 3 (R. 1. 261 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con su lanza | En cada vez á nueve campeones | Por tierra derribó.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 16 (2. 155)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con un pred.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas cuando de mí tuve más olvido, | Rompió los duros lazos al cuidado | De Amor el enemigo más honrado, | Y ante mis pies lo derribó vencido.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son . 41 (R. 32. 263 1 )."
+            },
+            {
+              "texto_cita": "«Con grandísimo aliento derriba muerto á un toro con el garrochón.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 2. 11 (R. 18. 440 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Tirarse ó echarse á tierra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Derríbate humilmente a sus pies [del Señor] con aquella santa pecadora no oses alzar los ojos al cielo con el publicano.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 4, § 3 (R. 8. 128 1 )."
+            },
+            {
+              "texto_cita": "«Derribémonos humilmente a sus pies, conozcamos nuestra pobreza ---»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist . 7. 1. 6 (R. 8. 391 2 )."
+            },
+            {
+              "texto_cita": "«Derribáronse [los otros presos] á los pies de los santos, rogándoles que les diesen conocimiento de Cristo.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 2. 22, § 3 (R. 6. 341 1 )."
+            },
+            {
+              "texto_cita": "«Se derribó á sus pies, y con lágrimas de sus ojos alcanzó el perdón de sus pecados.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. del crist . 5. 4 (R. 11. 182 2 )."
+            },
+            {
+              "texto_cita": "«Pues quiero, dijo él, hermano, que estés á la puerta del monasterio, y que te derribes ante los pies de todos cuantos entran y salen, y les digas: Ruega por mi, padre, que soy pecador.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. esp . 4, § 2 (R. 11. 298 1 )."
+            },
+            {
+              "texto_cita": "«¿Quién contra vos, quién contra el reino hesperio | Bastará alzar la frente, que al instante | No se derribe á vuestros pies rendido?»",
+              "autor": "Herr.",
+              "referencia_obra": "2, son . 83 (R. 32. 320 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con sobre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los brazos tiende y en su remo estriba; | Luégo esforzando el pulso y la pujante | Espalda, sobre el banco se derriba.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42. 112 2 )."
+            },
+            {
+              "texto_cita": "«Alegre desta manera | Tierno infante se derriba | Sobre la luz fugitiva | Que del cristal reverbera: | Que ufano coger espera | Los resplandores cercanos.»",
+              "autor": "",
+              "referencia_obra": "B. Argens. déc. Aunque ocupen (R. 42. 293 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tres veces en un brazo alzarse prueba, | Tres se derriba en el cojín.»",
+              "autor": "Maury",
+              "referencia_obra": ", Dido (R. 67. 182 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Camina para el palacio de la Virgen, y cuando á ella llegares derribado ante sus pies, comienza á decirle con dolorosa voz ---»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid 1, jueves por la mañ. (R. 8. 77 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aplicado á toros ó vacas, Hacerlos caer en tierra empujándolos con la garrocha ó agarrándolos por la cola. Delgado, Tauromaquía , pp. 72 y sgs. Madrid, 1827.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aplicado á lo inmaterial ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No menor impedimento para servicio de Dios la tristeza que consume y derriba el vigor del corazón, que la vana alegría que se hace absolula y sin peso.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 3. 12 (7. 50)."
+            },
+            {
+              "texto_cita": "«¿Qué consecuencia es ésta para derribar con ella tradición tan antigua?»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 3. 6 (197)."
+            },
+            {
+              "texto_cita": "«No puede la aspereza y desdén zahareño de Galatea acabar de derribar mis esperanzas, puesto que yo no espero de ella otra cosa sino es que se contente de que yo la quiera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 24 1 )."
+            },
+            {
+              "texto_cita": "«No sería esperanza aquella, dijo, á esta sazón Auristela, á que pudiesen contrastar y derribar infortunios.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. 1. 9 (R. 1. 574 1 )."
+            },
+            {
+              "texto_cita": "«Si el trabajo es continuo, derriba la salud y entorpece el ánimo.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 72 (R. 25. 197 1 )."
+            },
+            {
+              "texto_cita": "«Pero era su poder tan gigantesco, | Tan antiguo; tan fuertes sus parciales, | Que de pronto y de un golpe derribarlo | Daños ocasionar pudiera graves.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 9 (2. 328). —"
+            },
+            {
+              "texto_cita": "«No debemos derribar nuestro corazón por más que las penas crezcan, porque tanto más aparejo hay para que parezca la fortaleza de Cristo en nosotros, cuanto nuestras flaquezas fueren mayores.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 4. 9 (7. 328)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan gran máquina [la potencia romana] no se podía derribar, sin que cogiese debajo a quien lo intentase.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 34 (R. 25. 90 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero no bastó esto para reformar la religión [del Carmelo] que estaba tan derribada y caída.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 1 ( Míst . 1. 3)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ayer me vi contenta de mi suerte, | Sin temor de contraste ni recelo; | Hoy la sangrienta y rigurosa muerte | Todo lo ha derribado por el suelo.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 20 (R. 17. 79 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin ti, escura dejaste | La luz clara del día, | Por tierra derribada | La esperanza fundada | En el más firme asiento de alegría.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 6 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer caer del puesto elevado, de la dignidad ó privanza que se tiene ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchos con derribar á otros por medio de acusaciones verdaderas ó falsas y de chismes, pretenden alcanzar el primer lugar de privanza y de poder en los palacios de los reyes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 13. 6 (R. 30. 378 1 )."
+            },
+            {
+              "texto_cita": "«Los cortesanos, por saber muy bien esta su condición [de Fernando IV, que era intratable cuando se enojaba y no sabia refrenarse en la saña], se aprovechaban della á propósito de malsinar y derribar á los que se les antojaba.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 15. 11 (R. 30. 445 1 )."
+            },
+            {
+              "texto_cita": "«Estudien, lean, aprendan algo de virtud; que no ha de ser todo congraciarse con el señor derribando al uno, desacreditando al otro y amenazando á aquél.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 8 (R. 18. 396 1 )."
+            },
+            {
+              "texto_cita": "«Ayudábale como auxiliar el partido jacobino; bien fuese por conseguir el inmediato objeto de derribar al partido constitucional, bien porque anteviese desde entonces ---»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Esp. del siglo, 4. 8 (5. 249)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pecado de Aarón y María fue soberbia contra Moisén, queriéndose igualar con él, porque Dios los hablaba también á ellos, de que nació la envidia, y el deseo de derribarle de la privanza.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist . 1. 21 (124: Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«Cosas destas yo pienso que ninguna | Os puede derribar de vuestro estado.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 13 (R. 17. 53 1 )."
+            },
+            {
+              "texto_cita": "«Líbrame de ellas [de las manos del lobo infernal] por tu misericordia, para que no me derriben de tu gracia en el abismo de la culpa.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 5 (2. 48)."
+            },
+            {
+              "texto_cita": "«Pide á su príncipe que finja derribarle de su gracia, ponerle preso y perseguirle en juicio por causa de traición.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 2, p. 93."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Avasallar la voluntad, vencer, rendir, hacer caer, así en buena como en mala parte ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los otros persiguen al nuevo caballero de Jesucristo y derríbanlo por impaciencia, ó alábanlo por santo, y derríbanlo con mayor caída.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 29 (6. 155)."
+            },
+            {
+              "texto_cita": "«Y porque uno de mis principales motivos en el escribir de la historia de este gran Padre ha sido aficionar á los religiosos al estudio de la Santa Escritura con su ejemplo y con su doctrina, quiero traer aquí un lugar suyo que baste á convencer el entendimiento y derribar en esta afición la más apartada voluntad.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 3 (418)."
+            },
+            {
+              "texto_cita": "«Todas estas partes y gracias son bastantes á derribar una montaña, no que una delicada doncella.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 38 (R. 1. 485 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué fuerzas, qué edad, qué honor, | Qué santidad y valor | No han derribado mujeres?»",
+              "autor": "Lope",
+              "referencia_obra": ", La corona merecida , 2. 1 (R. 24. 235 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le derribó de intento semejante.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél . 16 ( Obr. suelt . 2. 252)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Postrar, abatir, humillar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El peligro y el daño derriba á los cobardes y anima á los valientes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 5 (R. 30. 34 1 )."
+            },
+            {
+              "texto_cita": "«Ya gozamos de la prosperidad, ya somos apretados de la adversidad, y un tiempo sucede á otro tiempo, para que ni nos levante la prosperidad ni la adversidad nos derribe.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 13 (R. 60. 384 1 )."
+            },
+            {
+              "texto_cita": "«Plégate, Señor, que este ejemplo penetre mi corazón, y derribe cualquiera presunción y soberbia que haya en él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 5. 5, orac . 3 (R. 8. 307 1 )."
+            },
+            {
+              "texto_cita": "«Que el cielo le concede | Aquel ramo de César invencible --- | Para que al turco horrible | Derribe el corazón y ardor terrible.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, canc . 6 (R. 32. 287 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando oyéredes que os amonesta cosas tan altas, no debéis derribaros, mas esforzaros.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 105 (2. 177)."
+            },
+            {
+              "texto_cita": "«Ni creo que es verdadera paciencia la que sufre á sus prójimos y no sufre á sí mismo, no para que deje de castigar y enmendar sus faltas, mas para que no se le derribe el corazón ni se entristezca demasiadamente.»",
+              "autor": "",
+              "referencia_obra": "Id. Epist . 3. 40 (7. 184)."
+            },
+            {
+              "texto_cita": "«A todos se pospone [la humildad], para todos se derriba, y juntamente con un trueque milagroso se levanta sobre todos.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 5. 1 (388)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part . ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando con los herejes y con otra gente sospechosa le vieren rígido, severo y fuerte, mírenle con estas santas vírgenes derribado, humilde y manso.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 3. 3 (157)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya que no creciese en bien, no se derribe ella misma á mayores males, como quien dice ---»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 2. 8 (6. 274)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siendo el natural de todas las que lo son [que son mujeres] derribado á las niñerias del agasajo, y sólo atento al logro de su hermosura ---»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 147 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Avasallar el entendimiento, convencer, concluír ( trans .). ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esta es la razón de san Jerónimo que yo no le hallo solución: y cuando ésta no nos derribara y forzara á tratar con mucho calor estos estudios, dejando algo de otros tan menos importantes, otra, que es del mismo seno y peso, es razón que nos haga fuerza.»",
+          "autor": "Sig.",
+          "referencia_obra": "Vida de S. Jer. 5. 3 (418)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Inclinar, agobiar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ni en el campo los manzanos, que al suelo su madura fruta derriba, ni mis labradas viñas --- igual deleite que tu vista ponen.»",
+          "autor": "Valb.",
+          "referencia_obra": "Siglo de oro , 2 (37)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Dicho de los miembros ó partes del cuerpo, Dejar caer ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A cada trago, que envasaba, volvía y derribaba la cabeza sobre el hombro izquierdo, y alababa el vino, que le ponía en las nubes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 199 2 )."
+            },
+            {
+              "texto_cita": "«Tan fiero el brazo alzó, que al derriballe | El monte hizo temblar, y atronó el valle.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 24 (R. 17. 393)."
+            },
+            {
+              "texto_cita": "«Saca entera la lanza, y derribando | El brazo atrás con ira la arrojaba.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 5 (R. 17. 24 1 )."
+            },
+            {
+              "texto_cita": "«Turba el convite su presencia y lloro; | Y el cabello donde almas enredaba, | Sobre los pies de Cristo lo derriba.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "canc. Aquella pecadora (R. 42. 337 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaba con la cabeza inclinada á un lado, y la una mano asida de la parte de la túnica que sobre el corazón caía, y el otro brazo á la otra parte flojamente derribado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 25 2 )."
+            },
+            {
+              "texto_cita": "«Vese el dulce color amortiguado, | Y sin vigor la bella y blanca frente, | Y queda el cuello apuesto derribado.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 6 (R. 32. 314 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Tratándose de las piezas del vestido, Dejar caer, bajar, quitar ( trans .) ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se paró y yo con él, y derribando el cabo de la capa sobre el lado izquierdo, sacó una llave de la manga.»",
+              "autor": "",
+              "referencia_obra": "Lazar . 3 (R. 3. 84 1 )."
+            },
+            {
+              "texto_cita": "«Al entrar los estudiantes derribaron sus bonetes con extraordinario modo de crianza y respeto mezclado de afición, plegando sus rodillas é inclinando sus ojos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Tía fing. (R. 1. 246 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se sentó en una silla junto á mí, derribado el manto hasta la barba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 11 (R. 1. 223 1 )."
+            },
+            {
+              "texto_cita": "«Derribado | El manto puedes tener, | Porque me afliges tapada.»",
+              "autor": "",
+              "referencia_obra": "Gald . Hombre pobre todo es trazas , 2. 1 (R. 7. 509 1 )."
+            },
+            {
+              "texto_cita": "«A los balcones de palacio asiste, | El bonete á los ojos derribado: | Que si llorar amando se consiente, | Es bajeza llorar públicamente.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 1 (Obr. suelt. 2. 10)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar la parte hacia la cual está más baja ó inclinada la pieza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oye usted, | La ropilla ancha de espaldas, | Derribadica de hombros | Y redondita de faldas.»",
+              "autor": "Cald.",
+              "referencia_obra": "Casa con dos puertas , 2. 12 (R. 7. 139 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Part . Dícese de las ancas de una caballería que por el extremo son algo más bajas de lo regular.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiene pequeña la frente, | Las caderas derribadas.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, A un caballo (R. 32. 168 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Equit. Del uso del part. ha venido al verbo la acepción de Hacer que el caballo meta las piernas para que baje o encoja las ancas o caderas.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Derribarse de anca.»",
+              "autor": "",
+              "referencia_obra": "Dicc. de equit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese su aplicación en la cetrería para significar el soltar las plumas los halcones.) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fortuna con su porfia | En tierra me derribó | Con crueldat.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 197."
+        },
+        {
+          "texto_cita": "«Ca tú nunca façes mal | A los malos por sus males, | Nin derribas mas los tales, | Mas á todos por egual.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 204."
+        },
+        {
+          "texto_cita": "«Agora veremos de que vos picades | En el derrybar de nuestros pendones.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 475"
+        },
+        {
+          "texto_cita": "«Pues mienten, çedo veran | Sus paredes derribadas.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 156. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«E si él derribare, quien puede edeficar?»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1041 (R. 57. 460 1 )."
+        },
+        {
+          "texto_cita": "«Despues que vieres que tu falcon comienza á derribar las péñolas, como corvas et cabo cuchillos, traelo en la mano et non lo pongas en la muda fasta que derribe péñolas de la cola --- et desque vieres que derriba de la cola --- ponlo en su muda.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 39 ( Bibl. venat. 3. 307)."
+        },
+        {
+          "texto_cita": "«Diole una lanzada que lo derribó en la puente.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 156 (R. 66. 275 1 )."
+        },
+        {
+          "texto_cita": "«Avian comenzado a derribar con los engeños dos torres.»",
+          "autor": "",
+          "referencia_obra": "Ib . 107 (R. 66. 241 2 )."
+        },
+        {
+          "texto_cita": "«Que yua --- | Commo vn leon fanbriento | En los moros derribando.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1768 (R. 57. 530 2 )."
+        },
+        {
+          "texto_cita": "«Envió mandar á los sus merinos de Castilla é de Leon é de Galicia que les derribasen todas las casas que avian los que estaban en Granada.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 50 (R. 66. 38 1 )."
+        },
+        {
+          "texto_cita": "«Ca muy pocos son los que veen cuando los falcones van con las gruas, et la apartan et la derriban.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caza , 2 ( Bibl. venat. 3. 15)."
+        },
+        {
+          "texto_cita": "«Nunca fue tierra, nin linaje, nin estado, nin persona en que este pecado regnase, que non fuese desfecho ó muy mal derribado.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . (R. 51. 426 1 )."
+        },
+        {
+          "texto_cita": "«Et vino el agua muy recía, et derribóle en el rio, et afógose.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 28 (R. 51. 407 1 )."
+        },
+        {
+          "texto_cita": "«Las fortalezas que viere que non puede defender, ó las derribe, ó las deje en tal manera que le non pueda dellas venir daño.»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. de los est . 1. 70 (R. 51. 319 2 )."
+        },
+        {
+          "texto_cita": "«Otrosi tengo por bien, que --- las otras fortaleças que fueron fechas en tienpo de la guerra desque yo rreyné aca, que las derriuen, e de las que fizieron e fazen malffetrias, que ssean derribadas.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 147). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Otrosi mando derribar luego las casas e las torres --- a todos aquellos que son en mio deseruicio.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Cuéllar , año 1297 ( C. de L. y C . 1. 136)."
+        },
+        {
+          "texto_cita": "«Nos pidieron que quando a alguno mandassemos derribar casa o torre o cortar vinnas o fazer otra cosa, que aquellos que lo feciessen por nuestro mandado que lo non pechassen depues.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid , año 1293 ( ib . 1. 126)."
+        },
+        {
+          "texto_cita": "«Si te non puede derribar desta altura, ve adelante, é derribarte he de la otra.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 48 (R. 51. 175 1 )."
+        },
+        {
+          "texto_cita": "«El árbol que ha fuertes raices --- el grand viento derribar non lo puede.»",
+          "autor": "",
+          "referencia_obra": "Ib . 31 (R. 51. 147 1 )."
+        },
+        {
+          "texto_cita": "«El rey fizo estonçes derribar todos los baños de su regno.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 4. 3 (314 1 )."
+        },
+        {
+          "texto_cita": "«Refizo las cibdades e leuantó lo derribado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 3 (296 2 )."
+        },
+        {
+          "texto_cita": "«Esto deziendo fue feryr en ellos muy de rezio, e derribó luego los dos dellos e venció los otros.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 2 (288 1 )."
+        },
+        {
+          "texto_cita": "«E fue ferido el conde don Nuño, e preso el conde don Garçia, e derribado del cauallo el rey don Sancho.»",
+          "autor": "",
+          "referencia_obra": "Ib . (288 1 )."
+        },
+        {
+          "texto_cita": "«Tomóla don Ferrando Flayno | a doña Sancha], e derribóla por, vnas escaleras ayuso.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 23 (269 2 )."
+        },
+        {
+          "texto_cita": "«Cerca de la puente de la otra parte del rio era y vn poco derribado, e auie y vn portillo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 1 (204 2 ). E fue assi quel postrimero año de la seca fizo vn viento tan grande que todas las arbores derribó porque las falló secas.» Ib . 1. 13 (9 2 )."
+        },
+        {
+          "texto_cita": "«Casa, ó torre ó otro edeficio habiendo algunt home que se quisiese derribar, et los vecinos temiéndose de rescebir daño de aquel logar le ficiesen afruenta que lo derribase ó lo endereszase ---»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 30. 15 (2. 753)."
+        },
+        {
+          "texto_cita": "«Si en la ribera de la mar fallare casa ó otro edificio qualquier que sea de alguno, nol debe derribar.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 28. 3 (2. 711)."
+        },
+        {
+          "texto_cita": "«Et derribó los muros de la cibdat de Jericó porque Josué la prisiese mas aina.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 11. 20 (2. 486)."
+        },
+        {
+          "texto_cita": "«Acucioso debe el rey seer en guardar su tierra de manera que non se yermen las villas, nin los otros logares, nin se derriben los muros nin las torres nin las casas por mala guarda.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 11. 3 (2. 92)."
+        },
+        {
+          "texto_cita": "«Eso mismo serie si fuese derribada [la iglesia] desde el cimiento et la quisiesen facer de nuevo.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 10. 1 (1. 358)."
+        },
+        {
+          "texto_cita": "«Mas qui en otro logar derribare cavallero deve aver destas tres cosas la una: el escudo, o la espada, o la siella.»",
+          "autor": "",
+          "referencia_obra": "Espéc . 3. 7. 5 (0. L. 1. 110)."
+        },
+        {
+          "texto_cita": "«Comol feziera en el cielo el mas onrado. que los otros, asi lo derribó en el infierno mas desonrado.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 8)."
+        },
+        {
+          "texto_cita": "«Prendet enxienplo, madre --- de los logares que se derribaron e que se ermaron, e tantos buenos castiellos e buenos pueblos que se derribaron e que se ermaron.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 41)."
+        },
+        {
+          "texto_cita": "«El seso vence la torpedat, e la derriba.»",
+          "autor": "",
+          "referencia_obra": "Ib . (Knust, 25)."
+        },
+        {
+          "texto_cita": "«E puedeles derribar las casas e destruirles las viñas e los arboles.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 1. 4. 1 (13)."
+        },
+        {
+          "texto_cita": "«Si algun home en su palacio [del conde] rompiere o derribare pared, peche quinientos sueldos.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Molina , año 1152 ( Llor. Prov. Vasc . 4. 121)."
+        },
+        {
+          "texto_cita": "«luro por el --- que derribó los muros de la ciudad de Ihericó.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 2. 15 (198)."
+        },
+        {
+          "texto_cita": "«E las casas de las falsas testimonias, derribenlas.»",
+          "autor": "León",
+          "referencia_obra": ", año 1020 ( Muñoz , F . 80)."
+        },
+        {
+          "texto_cita": "«Trauessólo de cuesta, fue Poro derribado.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2042 (R. 57. 210 1 )."
+        },
+        {
+          "texto_cita": "«Empeço luego Ector a fazer su grandia, | Derribar de las siellas quantos fallar podia.»",
+          "autor": "",
+          "referencia_obra": "Ib . 549 (R. 57. 164 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Qui crebantauerit casam. alienam, derribent suas casas ad terram.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid , año 1202 ( Mem. Acad. Hist. 8. 44)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. derribar. Compuesto de de y riba , tomándose éste en el sentido de peña, altura (véase ARRIBA ). En it. existe traripare , precipitarse, derribarse. Nuestro verbo es semejante á despeñar , derrocar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,98 @@
+{
+  "lema": "APECHUGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar ó empujar con el pecho, ó cerrar pecho á pecho ( intrans. ). Con con , como si se tratara de una lucha.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo en el ínterin, apechugando con la puerta y llamando á Dios --- al fin le eché un cerrojo.»",
+          "autor": "",
+          "referencia_obra": "Sold. Pínd . 2. 5 (R. 18. 332 1 )."
+        },
+        {
+          "texto_cita": "«Y luégo, todos á una, apechugando cada cual con el suyo, hacen fuerza á una voz.»",
+          "autor": "",
+          "referencia_obra": "Ovalle, Hist. de Chile , fol . 89 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Resolverse á alguna cosa ó á habérselas con alguna persona, atropellando los inconvenientes que se presentan ó venciendo la repugnancia que se tiene ( intrans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Lo que es la chica es muy guapa, | Eso es otra cosa; pero... | ¿Qué quiere usted que le diga? | No es tanto, tanto mi afecto | Que apechugue... Mire usted ---»",
+          "autor": "Bretón",
+          "referencia_obra": ", A Madrid me vuelvo , 3. 6 (1. 91)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Señor, Laura está aquí sola. | Ea, con ella apechugo.»",
+              "autor": "Mto.",
+              "referencia_obra": "El licenciado Vidriera , 2. 13 (R. 39. 259 3 )."
+            },
+            {
+              "texto_cita": "«Y si todas me quisieren | Apechugaré con ellas: | A más moros, más ganancias.»",
+              "autor": "",
+              "referencia_obra": "Id. El lindo D. Diego , 2. 6 (R. 39. 360 3 )."
+            },
+            {
+              "texto_cita": "«Siendo absolutamente necesario [este trabajo] para poner de par en par la mala fe del señor abogado, es preciso apechugar con él.»",
+              "autor": "Isla",
+              "referencia_obra": ", Cart. famil. 1. 149 (R. 15. 481 2 )."
+            },
+            {
+              "texto_cita": "«No se me diga que pido mucho, si lo que pido es necesario; si lo es, es menester apechugar con todo ó renunciar á la ciencia.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Instr. á un teól. (R. 46. 278 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con por , como si se abriera uno camino empujando con el pecho.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y como Dios hace la costa, apechugan por todos los riesgos y peligros.»",
+              "autor": "",
+              "referencia_obra": "Ovalle, Hist. de Chile , fol . 406 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Creo yo que pudiera apechugar por todo y seguir la fatiga con que se le amenaza.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 3, p.60."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y pechuga tomado en el sentido de pecho . El pasaje siguiente ofrece modificadas la forma y la construcción.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Nin deve otrosi quando a el [al rey] veniere apechiguar a la su bestia --- mas venir a el mansamiente e omildosamiente como ome deve venir a su rey e a su señor.»",
+          "autor": "Espéc.",
+          "referencia_obra": "2. 2. 4. ( O. L. 1. 22)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe gu: apechugue . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

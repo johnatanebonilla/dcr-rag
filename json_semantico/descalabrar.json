@@ -1,0 +1,287 @@
+{
+  "lema": "DESCALABRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. (Alguna vez se ha dicho y hoy vulgarmente se dice escalabrar .)",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Herir ligeramente en la cabeza ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Contaba [él] cuántas veces me había descalabrado y arpado la cara, y con vino luégo sanaba.»",
+              "autor": "",
+              "referencia_obra": "Lazar . 1 (R. 3. 80 2 )."
+            },
+            {
+              "texto_cita": "«Puede ser --- que en el camino caiga una teja del tejado y os descalabre.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Trat. de S. José (5. 38)."
+            },
+            {
+              "texto_cita": "«Ya mis muchachos se habían armado de piedras, y daban tras las verduleras y escalabraron dos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 2 (R. 23. 488 2 ; Sancha: descalabraron )."
+            },
+            {
+              "texto_cita": "«Como lo dijo tan claro, que aun si lo dijera, turbio no me pesara, agarré una piedra y escalabréle.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2 (R. 23. 487 2 ; Sancha: descalabréle ). —"
+            },
+            {
+              "texto_cita": "«Una teja que cayó le descalabró la cabeza, de que desde á once días murió.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 12. 6 (R. 30. 350 1 )."
+            },
+            {
+              "texto_cita": "«A sus razones replica | Mudarra, no con palabras, | Mas levantó para el rey | Juntos ajedrez y tabla, | Con que sin reparo alguno | De muerte le descalabra.»",
+              "autor": "",
+              "referencia_obra": "Romanc . (R. 10. 454 1 )."
+            },
+            {
+              "texto_cita": "«Veréis con cuánta fuerza descalabro | La cabeza del vulgo cenzalino.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 11 (R. 17. 618 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Justicia justísima es que si el ciego quiere ir delante del que sabe el camino muy bien, y le quiere guiar, que tropiece y se descalabre.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 19 (4. 227)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me alegro mucho destas nuevas, como los cirujanos de los descalabrados.»",
+              "autor": "",
+              "referencia_obra": "Celest . 1 (R. 3. 10 2 )."
+            },
+            {
+              "texto_cita": "«Que me lavas la cabeza | Después de descalabrada.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Com. Tinell . 4 ( Propal . 1. 355)."
+            },
+            {
+              "texto_cita": "«Mira cuán presto quieres ir descalabrado, si luégo no te vas de aquí.»",
+              "autor": "Villalobos",
+              "referencia_obra": ", Anfitrión (R. 36. 466 2 )."
+            },
+            {
+              "texto_cita": "«Sería cosa de providencia particular el que anduviese metido entre muchos que pelean entre sí mismos con obstinación y coraje, y entre muchas espadas y muchas piedras que de la una parte a la otra volasen no salir descalabrado de la reyerta.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 29 (2. 92)."
+            },
+            {
+              "texto_cita": "«Alzando el candil con todo su aceite, dio á D. Quijote con él en la cabeza, de suerte que le dejó muy bien descalabrado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 17 (R. 1. 288 1 )."
+            },
+            {
+              "texto_cita": "«Salíme de su casa, y fuime á ver á mi amigo don Diego, al cual hallé en la suya descalabrado.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 2 (R. 23. 488 2 )."
+            },
+            {
+              "texto_cita": "«¿Que esté yo descalabrada | Y nadie de mí se acuerde?»",
+              "autor": "Cald.",
+              "referencia_obra": "No hay cosa como callar , 2. 5 (R. 7. 558 2 )."
+            },
+            {
+              "texto_cita": "«Si soy yo el escalabrado, | ¿A quién se lo preguntáis?»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza de la ley, 2. 16 (R. 39. 93 2 ). —"
+            },
+            {
+              "texto_cita": "«Al descalabrado nunca le falta un trapo, que roto, que sano:»",
+              "autor": "",
+              "referencia_obra": "refr. con que se da á entender que ninguna desgracia deja de tener alivio ó consuelo, aunque sea pequeño."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Ser uno el descalabrado y ponerse otro la venda ( fam. ): frase que se emplea para motejar ó zaherir á quien se queja o lamenta, no siendo él, sino otro, el ofendido ó lastimado. Acad. Dicc .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar el instrumente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo traigo en mis alforjas un poco de queso tan duro, que pueden descalabrar con ello á un gigante.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 13 (R. 1. 430 1 )."
+            },
+            {
+              "texto_cita": "«Un mal libro, por malo que sea, siempre sirve, y más si es de buen tomo, para descalabrar con él á cualquiera.»",
+              "autor": "Mor.",
+              "referencia_obra": "Derr. de los pedantes (R. 2. 570 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Descalabrarse con una ventana.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Descalábreme con eso : expresión con que irónicamente se da á entender á uno que no hará lo que ofrece ó no dará lo que promete. Acad. Dicc .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Herir, maltratar, causar un descalabro ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E como un día los hombres del campo le trajesen lengua, de aquélla sabido cómo los caballeros de Granada que estaban en Alhendín, se podían descalabrar, hízolo saber á Martín de Alarcón, que con la gente de Moclín juntos --- los acuchillaron.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", 4. 87)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Causar daño, perjuicio ó disgusto ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué armas se pondrán con disculpa en vuestras manos, si con una manzana descalabrastes toda la generación de Adán?»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos , 40 (R. 23. 421 1 )."
+            },
+            {
+              "texto_cita": "«Si por otra me tiene, | Vaya á buscarla y diga su fineza, | Y no me esté quebrando la cabeza, | Ni con ese su amor me descalabre.»",
+              "autor": "",
+              "referencia_obra": "J. Polo de Medina, Apolo y Dafne (212)."
+            },
+            {
+              "texto_cita": "«Lo más gracioso es, que algunos de los que, por un motivo ú otro, se valen hoy de expresiones anticuadas, no reparan en usar á renglón seguido otras modernísimas, aunque sean galicismos que descalabren.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Epíst, crít. paren . (6. 380)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los príncipes descuidados, hasta que son descalabrados en la guerra, siempre tienen en poco la paz.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 73)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part . Que ha salido mal librado de cualquier empeño ó competencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nunca me tomé contigo, | Sin salir descalabrado.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1, contra el Amor (R. 32. 141 1 )."
+            },
+            {
+              "texto_cita": "«Nos metemos en negocios tan enconados y tan mal digestos, que no podemos salir dellos sino lastimados ó descalabrados.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 124)."
+            },
+            {
+              "texto_cita": "«No te metas en pleitos, no pidas justicia, que no es tiempo de eso, y no la pidas contra escribanos, porque saldrás descalabrado dos veces.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 2, p. 479."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Con acus. de cosa, Menoscabar, vulnerar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aunque se decía no hacían daño, no era pequeño el robar la fama y descalabrar la honra.»",
+          "autor": "Gracián",
+          "referencia_obra": ", Criticón , 3. 5 (1. 429)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(La Acad. da al part. la acepción de Imprudente arrojado.) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "« Excerebro , as : descalabrar, quebrar los sesos.»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Veo cosa fea | Tus pies descalabrados e al non sé que vea.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 1445 (R. 57. 272 2 )."
+        },
+        {
+          "texto_cita": "«Si un home fuese por una calle et lanzase otro una piedra á un pájaro et descalabrase á él en la cabeza ---»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 39 (R. 51. 417 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Escalauró çinquaenta aun a mal contar.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2020 (R. 57. 209 1 )."
+        },
+        {
+          "texto_cita": "«Trayen escabradas muchos las calaueras.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1064 (R. 57. 180 1 )."
+        },
+        {
+          "texto_cita": "«Andaban como beudos todos descalabrados.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 887 (R. 57. 130 2 )."
+        },
+        {
+          "texto_cita": "«Non vedien de los oios todos escalabrados.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 195 (R. 57. 137 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo des y calavera . Port. descaveirar ; escaveirar , descarnar la calavera; cat. escalabrar , tomado sin duda del cast.; prov. mod. escalabra , pasar de parte á parte., despedazar; el part. en estas dos lenguas se toma por Atolondrado, como el fr. écervelé ; fr. ant. écerveler , saltar la tapa de los sesos. En cast. mismo, según Covarr. , descalabrado",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«algunas veces significa el hombre alocado, semejante al que fue herido en la cabeza y quedó con alguna lesión en el celebro por este accidente.»",
+          "autor": "Acad.",
+          "referencia_obra": "á nuestro part. dice el cat. axalabrat, aixalabrat , que es el lat. excerebratus . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

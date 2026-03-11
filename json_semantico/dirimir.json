@@ -1,0 +1,143 @@
+{
+  "lema": "DIRIMIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Separar, dividir ( trans .). Es latinismo raro usado por los gongorinos.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal redimiendo de importunas aves | Incauto meseguero sus sembrados, | De liebres dirimió copia así amiga | Que vario sexo unió y un sulco abriga.»",
+              "autor": "Góng.",
+              "referencia_obra": "Polif . (R. 32. 463 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La magnitud de la facción reprime | Aun el incendio en que exhalado abundo, | Viendo el estrecho campo que dirime | De nuestros pies la posesión del mundo.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 13 (8. 22)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Terminar, fenecer una contienda ó controversia, como si se separara á los contendores ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los cerrannentos acabarán de dirimir las eternas e inútiles disputas que se han suscitado sobre la preferencia de los bueyes á las mulas para el arado.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 91 1 )."
+            },
+            {
+              "texto_cita": "«La sazón tampoco era favorable para dirimir una controversia sostenida por tan poderosos contendedores, y pedía más bien un acomodamiento.»",
+              "autor": "",
+              "referencia_obra": "Id. Jurisd. del Cons. de las órd . (R. 46. 466 2 )."
+            },
+            {
+              "texto_cita": "«La interposición de la corte dirimió la competencia, y el elegido fue Cerezuela.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 404 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las contiendas entre los maestros y aprendices --- ú otras cualesquiera que sean relativas al ejercicio y profesión de las artes, se dirimirán por el método que va señalado.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 45 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En orden al año del nacimiento de la reina doña Isabel, la discrepancia de los historiadores queda enteramente dirimida la carta en que el rey don Juan el II lo avisó á la ciudad de Segovia.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr . 1 ( Mem. Acad. Hist . 6.57)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Disolver, deshacer, especialmente el matrimonio ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Holgaban en particular haber hallado ocasión de apartar y dirimir aquel casamiento desgraciado.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 8 (R. 30. 288 1 )."
+            },
+            {
+              "texto_cita": "«Aun la esterilidad de la mujer, tan perjudicial al fin del matrimonio, no es poderosa á dirimirle.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist . 1. 11 (57: Pamplona, 1615)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre los que se han de casar se hace información de que ninguno dellos es tocado desta enfermedad; y si después andando el tiempo la experiencia muestra lo contrario, se dirime el matrimonio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 1. 18 (R. 1. 583 2 )."
+            },
+            {
+              "texto_cita": "«Yo he hecho diligencia | Con los obispos de León y Oviedo --- | Para la nulidad del casamiento. | Responden que no puede dirimirse | Ni en ley divina ni en derecho humano.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los Tellos de Meneses , 2 ª. pte . 2. 2 (R. 24. 537 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Rara vez se halla aplicado á los cónyuges mismos, como apartar .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi esposo sois. — Vuestro amante | Decid. — ¿Y no mi marido? | —Mi Basilisa, helo sido. | — ¿Qué es esto? Confusa estoy. | Pues ¿quién os ha dirimido?»",
+              "autor": "Tirso",
+              "referencia_obra": ", La ventura con el nombre , 2. 5 (R. 5. 527 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. dirimir ; fr. dirimer ; it dirimere : del lat. dirimere , compuesto del prefijo dis (convertida la s en r por quedar entre dos vocales), que indica separación, y emere , originariamente tomar y de ahí en el uso común comprar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

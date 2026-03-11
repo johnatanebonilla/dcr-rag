@@ -1,0 +1,548 @@
+{
+  "lema": "CONSOLAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Aliviar la pena ó aflicción ó procurarlo empleando los medios convenientes ( trans .). Es acus. la persona afligida.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando yo estoy triste no querría que me consolase el que está alegre.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 98)."
+            },
+            {
+              "texto_cita": "«Si es cosa que puede hacer, razón es de consolarle, que harto, está de padecer.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 2. 40 (R. 55. 284 1 )."
+            },
+            {
+              "texto_cita": "«Yo con gran compasión la consolaba, | Haciéndole seguro ofrecimiento | De entregarle el marido y darle gente | Con que salir pudiese libremente.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 21 (R. 17. 80 1 )."
+            },
+            {
+              "texto_cita": "«Han llorado conmigo consolándome, | Sin saber de mi mal la dura causa.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", égl. past . ( Fern. p. 62)."
+            },
+            {
+              "texto_cita": "«Y no piensen que las crió Dios y las dio al hombre solo para que le guarden la casa, sino también para que le consuelen y alegren.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 16 (3. 499)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con todo eso me consuelo, porque en fin en cualquiera figura que haya sido he quedado vencedor de mi enemigo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 16 (R. 1. 435 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viéronse y consoláronse aquella noche juntos el marqués y el conde.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 2 (R. 28. 22 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejóme consolada y esforzada.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 23 (R. 53. 75 2 ). — Sup ."
+            },
+            {
+              "texto_cita": "«Dejóme consoladísima y con mucha paz.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 33 (R. 53. 103 1 )."
+            },
+            {
+              "texto_cita": "«Con este favor de Dios, quedaron consoladísimos Joaquín y Ana.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Nativ. de Ntra. Sra . ( Vida de la Virgen , 75)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Puede ser suj. un nombre de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consuela, como de aquí se entiende, lo poco que el demonio puede sin licencia de Dios.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 1 (1. 14)."
+            },
+            {
+              "texto_cita": "«No sabiendo qué había de ser de mí, leí en un libro --- que decía san Pablo, que era Dios muy fiel, que nunca á los que le amaban consentía ser del demonio engañados. Esto me consoló mucho.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 23 (R. 53. 75 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , para expresar lo que se emplea como medio para aliviar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«D. Quijote que vio el llanto y supo la causa, consoló á Sancho con las mejores razones que pudo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 23 (R. 1. 306 2 )."
+            },
+            {
+              "texto_cita": "«Sancho la consoló con las mejores razones que él supo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 49 (R. 1. 507 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me parece á mí que aunque dello no me aprovechara, con la visla dello me consolara.»",
+              "autor": "",
+              "referencia_obra": "Lazar . 2 (R. 3. 81 2 )."
+            },
+            {
+              "texto_cita": "«Ni con el tiempo que ligero vuela, | Ni con los medios que el ausencia ofrece | Mi alma fatigada se consuela.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 22 1 )."
+            },
+            {
+              "texto_cita": "«Quedaron los padres de Leonora tristísimos, aunque se consolaron con lo que su yerno les había dejado y mandado por su testamento.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 7 (R. 1 . 183 2 )."
+            },
+            {
+              "texto_cita": "«Consuélase con esto la cuitada, y procura consolarse por no dar mal indicio de sí a sus padres.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 21 (R. 1. 302 1 ). — Con una prop. indic."
+            },
+            {
+              "texto_cita": "«Cuando errare, consuélese con que tal vez es menos peligroso errar por sí mismo que acertar por otro.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 28 (R. 25. 75 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiéndole preguntado la causa de sus lágrimas y consoládola con dalle esperanza que sus trabajos habrían el fin que ella deseaba, le dijo ---»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 5 (165). — Refl ."
+            },
+            {
+              "texto_cita": "«Todo esto se le renovó á D. Quijote en la soltura de sus puntos, pero consolóse con ver que Sáncho le había dejado unas botas de camino, que pensó ponerse otro día.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 44 (R. 1. 496 1 )."
+            },
+            {
+              "texto_cita": "«Se consolaban con decir que el marido debe ser de su mujer amado más que temido.»",
+              "autor": "Quev.",
+              "referencia_obra": "Casa de locos de amor . (R. 23. 354 2 )."
+            },
+            {
+              "texto_cita": "«Me consuelo con llorar | Donde he perdido la gloria.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La manganilla de Melilla , 2 (R. 20. 308 2 )."
+            },
+            {
+              "texto_cita": "«Si --- tuvo el desabrimiento de no hallarse en aquella solemnidad y regocijos, pudo consolarse fácilmente con no ser testigo de las desgracias ocurridas en ellos.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 408 2 ). — En el mismo sentido se usa el gerundio"
+            },
+            {
+              "texto_cita": "«El renegado les consoló diciéndoles cómo no iban cautivos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 41 (R. 1. 371 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Refl . La misma partícula señala la persona á quien uno comunica sus penas en busca de alivio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí hallará á quien imite y á quien le esfuerce, y con quien en todos sus trabajos y aflicciones se consuele.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3. 18, § 1 (R. 6. 431 1 )."
+            },
+            {
+              "texto_cita": "«Con vuestra merced podré consolarme, pues sirve á otro amo tan tonto como el mío.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 13 (R. 1. 429 2 )"
+            },
+            {
+              "texto_cita": "«La duquesa de Arcos --- fue á consolarse con la condesa en cierta ocasión.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 4. 5 (182)."
+            },
+            {
+              "texto_cita": "«Libia, yo te quiero bien, | Contigo he de consolarme, | Por ver si con referirlas | Pueden mis penas templarse.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Progne y Filomena , 3 (R. 54. 52 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Es hoy inadmisible la omisión de la partícula delante de una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si el padre presentado fray Domingo Báñez, que es mi confesor, á quien le daré antes que le veáis, viere que es para vuestro aprovechamiento y os le diere, consolarme he que os consoléis.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 42 (1. 592)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallóse consoladísima la bienaventurada madre con tales compañeras.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 29 ( Míst . 1. 241)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de , para expresar la pena que se trata de aliviar. En lat. (",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consolari aliquem de communibus miseriis»",
+              "autor": "",
+              "referencia_obra": ") la partícula señala la materia á que se refiere el consuelo; en cast. tiene el mismo sentido, aunque á veces parece inclinarse al que tiene con librar , sacar ."
+            },
+            {
+              "texto_cita": "«Sepa que consolando yo á fray Juan de la Cruz de la pena que tenía de verse en Andalucía, antes de ahora, le dije que como Dios nos diese provincia, procuraría se viniese por acá.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 2. 40 (R. 55. 283 2 )."
+            },
+            {
+              "texto_cita": "«Tanto pueden los vicios en los padres, que consuelan de sus desgracias, por grandes que sean, á los hijos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 7 (R. 23. 498 1 )."
+            },
+            {
+              "texto_cita": "«Por el mismo estilo místico-sublime consuela el maestro Ávila á una señora de la pérdida de una religiosa amiga suya.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc . 2. 1 (240)."
+            },
+            {
+              "texto_cita": "«Hasta este tristísimo recuerdo acrecentaba la ternura del comendador para con su hija, como si se la hubiese concedido Dios, en su infinita misericordia, para consolarle de tamaña pérdida.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1. 1 (4. 198). —"
+            },
+            {
+              "texto_cita": "«Solo | Tener sangre tuya puede | Consolarme deste daño.»",
+              "autor": "Cald.",
+              "referencia_obra": "Argenis y Poliarco , 3. 16 (R. 7. 457 2 )."
+            },
+            {
+              "texto_cita": "«Cuadro grandioso y encantador, cuya consideración debía llenar de placer el pecho de nuestra princesa, pero que no alcanzó á consolarla de las desgracias domésticas que afligieron el postrer período de su vida.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat . ( Mem. Acad. Hist . 6. 53)."
+            },
+            {
+              "texto_cita": "«El mundo ideal creado por su imaginación brillante y risueña le consolará de los amargos desabrimientos del mundo real en que vive.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cervantes (R. 19. 100 2 )."
+            },
+            {
+              "texto_cita": "«Pero el cargo de almirante de Aragón, el de vicealmirante de la Iglesia, el estado de Consentaina, y el enlace de su hija Beatriz con don Jaime de Ejérica, primo hermano del monarca aragonés, consolaron á Roger de las pérdidas que hacía en Sicilia.»",
+              "autor": "",
+              "referencia_obra": "Id. R. de Lauria (R. 19. 230 1 )."
+            },
+            {
+              "texto_cita": "«Su inocencia y sus caricias me consolaban de todas mis penas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La conjuración de Venecia . 3. 3 (3. 402)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siempre será tenido con razón por tal [por ambicioso] y por temerario --- quien se consolare de estar cuatro meses, cuanto más años, ausente de la plaza que se le tiene encomendada.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 27 2 )."
+            },
+            {
+              "texto_cita": "«Bien puede el trato del discurso nuestro | Consolarse con vos de algunas cosas, | Si bien indignas del ingenio vuestro.»",
+              "autor": "Lope",
+              "referencia_obra": ", epíst . 6 ( Obr. suelt . 1. 331)."
+            },
+            {
+              "texto_cita": "«Queda | Con quien consolarse pueda | De su desdicha y pesar.»",
+              "autor": "Cald.",
+              "referencia_obra": "El príncipe constante , 3. 1 (R. 7. 256 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de haberse consolado unos á otros de aquel infortunio, consultaron los mejores expedientes para la defensa de París.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 31 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con en , para expresar la situación ó caso en que se encuentra la persona y que motiva los consuelos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Publicaba venía á consolalla en su tristeza y trabajos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 19. 4 (R. 31. 37 1 )."
+            },
+            {
+              "texto_cita": "«La cruz nos consuela en todas las enfermedades y angustias.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3, diál . 4, § 1 (R. 6. 469 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tomaré aviso para sacar razones más divinas que humanas con que consolarme en mis trabajos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 22 (2. 475). —"
+            },
+            {
+              "texto_cita": "«Como verdadera amadora de la santa pobreza, jamás se podía consolar en tener rentas.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 17 ( Míst . 1. 178 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un infin. , conforme al uso de los siglos XVI y XVII, denotaba el acto que ofrece consuelo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes que le lleven [el niño], vuélvanmele á traer, que me consuelo en verle.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 10 (R. 1. 214 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con á , para expresar la pena á que uno se resigna consolado (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y deleitándose en ser descorteses, se consuelan á vivir malquistos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Premáticas (R. 23. 422 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Se usa como acus. el nombre mismo de la pena que se procura aliviar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Don Gregorio se irá conmigo á consolar la pena que sus padres deben tener por su ausencia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 65 (R. 1. 543 2 )."
+            },
+            {
+              "texto_cita": "«Traigo un pesar | Y véngole á consolar | Con vos, que me aconsejéis.»",
+              "autor": "Cald.",
+              "referencia_obra": "Casa con dos puertas , 2. 14 (R. 7. 140 1 )."
+            },
+            {
+              "texto_cita": "«Antes que de mis ansias | La novedad escuches, | Será bien que las tuyas | Consueles y asegures.»",
+              "autor": "",
+              "referencia_obra": "Id. Ni Amor se libra de amor , 2. 14 (R. 12. 670 2 )."
+            },
+            {
+              "texto_cita": "«Son Erídano y él | Hijos míos desde el día | Que con ellos consolé, | La pérdida de Climene.»",
+              "autor": "",
+              "referencia_obra": "Id. El hijo del Sol , Faetón , 1 (R. 14. 178 3 ). —"
+            },
+            {
+              "texto_cita": "«Usted comprenderá sin que yo se lo diga, cuánto consolarían este desierto tan agradables é inocentes objetos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Descr. del castillo de Bellver (R. 46. 401 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consolábanle los pastores su desdicha.»",
+              "autor": "Lope",
+              "referencia_obra": ", Arcadia , 4 ( Obr. suelt . 6. 294)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Confortar, recrear ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dadme un traguillo si tenéis, para consolar este estómago, que tan desmayado anda de contino.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov . 3 (R. 1. 140 1 )."
+        },
+        {
+          "texto_cita": "«Por cierto, poco pudiera consolar un rato de música á corazones tan quebrantados.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 4. 128)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Muy ligeramente se consolará por muerte agena aquel que toda hora pensará en la suya.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras , 15 (221)."
+        },
+        {
+          "texto_cita": "«Le habia embiado á consolar é le embió á decir como el reyno de Cecilia le pertenescia de derecho.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 4. 27 (R. 68. 327 2 )."
+        },
+        {
+          "texto_cita": "«Fue [el infante] á ver al adelantado é á le consolar en la muerte del hijo, al qual el adelantado dixo que le tenia en merced lo que le decia, pero quél estaba muy consolado en su hijo ser muerto en servicio de Dios, é del rey, e suyo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 50 (R. 68. 298 1 )."
+        },
+        {
+          "texto_cita": "«E con esto él fue muy contento é consolado.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 128 (377)."
+        },
+        {
+          "texto_cita": "«Idgelo á descir luego é consoladlo á él é á vos mismo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 115 (311)."
+        },
+        {
+          "texto_cita": "«Nuestro Señor, que consuela | A los que están en dolor.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var . 112 ( Rim. inéd . 288)."
+        },
+        {
+          "texto_cita": "«Han querido consolarme, | Mas non yo que me consuelen.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 20."
+        },
+        {
+          "texto_cita": "«Non sé á quién me consuele, | Nin io me quiero aconsolar.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 361."
+        },
+        {
+          "texto_cita": "«Consoláme vos, flor de desidores, | Con algund julepe de buenos olores.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 491. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Mas tú allí veniste, Sennor, consolador, | Alegrando e consolando tu pobre seruidor.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1453 (R. 57. 472 1 )."
+        },
+        {
+          "texto_cita": "«Sy el que va a otro por le bien consolar ---»",
+          "autor": "",
+          "referencia_obra": "Ib . 1076 (R. 57. 461 1 )."
+        },
+        {
+          "texto_cita": "«Pues consolación quisiste | Quando trabajo touiste, | Por ty sea bien en [el] triste | Consolado.»",
+          "autor": "",
+          "referencia_obra": "Tract. de la doctr . (R. 57. 375 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Bienaventurados son todos aquellos que lloran, que serán consolados en la gloria del paraiso.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 86 (R. 51. 221 1 )."
+        },
+        {
+          "texto_cita": "«Maria es significada fuente de piedad, de la cual son consolados todos los que en verdad la llaman en sus angustias y tribulaciones.»",
+          "autor": "",
+          "referencia_obra": "Ib . 82 (R. 51. 215 2 )."
+        },
+        {
+          "texto_cita": "«Una de las cosas que ayudan al home á consolarse de sus cuidados é á asosegar su corazon, es verse con su amigo.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 46 1 )."
+        },
+        {
+          "texto_cita": "«Et nunca se consuela el home entendudo de la amistad del que lo ha menester.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 42 2 )."
+        },
+        {
+          "texto_cita": "«Nin amigo a amigo nos pueden consolar.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1177 (R. 57. 15 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. consolar ; fr. consoler ; it. consolare : del lat. consolari , compuesto de cum , con, intensivo, y solari , restaurar, consolar; este último verbo, es según la opinión más probable derivado de sollus , entero.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas: consuel-o , as , a , an ; consuel-e , es , e , en ; consuela tú . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

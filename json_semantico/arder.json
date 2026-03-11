@@ -1,0 +1,899 @@
+{
+  "lema": "ARDER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Estar encendido ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Delante de sus sepulturas arden lámparas, y están llenas sus capillas de gentes devotas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 8 (R. 1. 420 2 )."
+            },
+            {
+              "texto_cita": "«Tomando en peso y arrebatadamente á Sancho y á D. Quijote, los entraron en el patio, al rededor del cual ardían casi cien hachas puestas en sus blandones, y por los corredores del patio más de quinientas luminarias.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 69 (R. 1. 548 2 )."
+            },
+            {
+              "texto_cita": "«La castidad sin la caridad es lámpara sin olio; si quitas el olio, no arderá la lámpara; y si quitas la caridad, no agradará la castidad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 3, § 2 (R. 8. 507 2 )."
+            },
+            {
+              "texto_cita": "«Esto es echar agua en la fragua para hacer que arda más la llama.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid. 2. 5, § 14 (R. 8. 154 1 )."
+            },
+            {
+              "texto_cita": "«Sería digno de escarnio quien quisiese apagar el fuego que arde en su casa, y él mismo le echase leña muy seca.»",
+              "autor": "",
+              "referencia_obra": "Avila, Audi , 5 ( Míst . 3.137)."
+            },
+            {
+              "texto_cita": "«Es como imagen la zarza del Exodo, que ardía y no quemaba, porque era cualidad de la ley vieja, que alumbraba el entendimiento, mas no ponía calor á la voluntad.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Rey (R. 37. 132 1 )."
+            },
+            {
+              "texto_cita": "«Mírame con piedad, y arda el cometa, | Filis, que agora pálido nos mira.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. que principia así (R. 42. 296 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El gerundio ardiendo, apartándose de su valor normal, aparece como puro adjetivo en conexión inmediata con un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El dios Apolo me manda que queme los ojos á esta mujer con lámparas ardiendo.»",
+              "autor": "Timoneda",
+              "referencia_obra": ", Los Menemnos, 10 (R. 2. 301 1 )."
+            },
+            {
+              "texto_cita": "«La apagó con un tizón ardiendo que metió con enojo por aquella misma parte donde era molestada.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 17 (R. 30. 486 1 )."
+            },
+            {
+              "texto_cita": "«Apagados los fuegos, resfriadas las láminas de hierro ardiendo, no se olvidaban del ejemplo de Cristo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 23, § 4 (R. 6. 350 1 )."
+            },
+            {
+              "texto_cita": "«Echó á su hijo en un horno ardiendo, donde él solía cocer el vidrio.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Smo. Sacram. ( Vida de Cristo, 389)."
+            },
+            {
+              "texto_cita": "«Vuela la estopa en vivo fue envuelta, | Alquitrán, y resina, y pez ardiendo.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 24 (R. 19. 92 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refr. Arde verde por seco: pagan justos por pecadores. Acad. Dicc .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Arda Bayona: expresión con que, al tomar alguna resolución, se muestra uno determinado á arrostrar cualesquiera consecuencias.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arda Bayona, dijo el alguacil; que estoy yo hasta el gollete, y he de hacer mi oficio.»",
+              "autor": "Quev.",
+              "referencia_obra": "Cuento de cuentos (R. 48. 412 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Resplandecer ( poéti. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como el lustre reluciente | Que arde en la tierna belleza | Robar y perder se siente, | Y deshace su viveza | Cualquier pequeño accidente.»",
+              "autor": "Herr.",
+              "referencia_obra": "12, redond. (R. 2. 338 2 )."
+            },
+            {
+              "texto_cita": "«Y en vez del hacha tosca ó dardo rudo, | Arde en su diestra refulgente acero.»",
+              "autor": "Gallego",
+              "referencia_obra": ", oda 3 (R. 67. 405 1 )."
+            },
+            {
+              "texto_cita": "«¿Yo dejaros | Sin ver vuestra sangre impura | Vertida por esta espada | Que arde en mis manos desnuda?»",
+              "autor": "A. Saav.",
+              "referencia_obra": "D. Álvaro , 5. 6 (4. 181)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar la cosa que produce el resplandor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El mismo sol no arde | En tan puros esplendores | Como él recatos me aplaude.»",
+              "autor": "Mto.",
+              "referencia_obra": "El lindo D. Diego, 3. 9 (R. 39. 368 2 )."
+            },
+            {
+              "texto_cita": "«Puedes arder en púrpura de Tiro, | Y no alcanzar descanso verdadero.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2, son. 2 (R. 69. 13 2 )."
+            },
+            {
+              "texto_cita": "«Bizarra calza de amarillo y pardo, | Grabado peto ardiendo en oro puro.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 150 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Estar aquejado por un gran calor.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en , que representa el objeto como sumergido en el fuego.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En un mar de lava hirviente | Mi cabeza siento arder.»",
+              "autor": "Espronc.",
+              "referencia_obra": "A Jarifa (150)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, que expresa el instrumento, la causa que produce el calor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El enfermo que arde con una calentura pide al médico que le dé agua, dando voces, y diciendo que arde, y que muere y que perece de sed.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 5. 2, § 6 (R. 8. 301 2 )."
+            },
+            {
+              "texto_cita": "«Como acaece á los que, ardiendo con alguna grande calentura, beben sin aguardar tiempo un gran golpe de agua.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid. 3. 2. 2, § 5 (R. 8. 187 1 )."
+            },
+            {
+              "texto_cita": "«Si un enfermo que arde con calenturas pidiese con gran instancia al médico que le consintiese beber una taza de vino ---»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 4, diál. 9 (R. 6. 583 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Se usa para significar que alguna pasión ó afecto está obrando con grande intensidad",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Qué diré del amor que nos tiene Dios, y de la caridad para con nosotros que arde en el alma de Cristo?»",
+          "autor": "León",
+          "referencia_obra": ", Nomb. 1, Faces (R. 37. 84 1 )."
+        },
+        {
+          "texto_cita": "«Si en todos los nobles ardiese la emulación de sus mayores, merecedores fueran de los primeros puestos de la república en la paz y en la guerra.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 17 (R. 25. 46 1 )."
+        },
+        {
+          "texto_cita": "«El símbolo desta empresa quisiera ver en los pechos gloriosos de los príncipes, y que, como los fuegos artificiales arrojados por el aire imitan los astros y lucen desde que salen de la mano hasta que se convierten en cenizas, así en ellos (pues los compara el Espíritu Santo á un fuego resplandeciente) ardiese siempre el deseo de la fama y la antorcha de la gloria.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 15 (R. 25. 43 1 )."
+        },
+        {
+          "texto_cita": "«En todas las ciudades y provincias dél se publicaban sus crueles edictos, y así en todas ellas ardía el furor de los infieles.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 3. 24, § 3 (R. 6. 442 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Dícese también de una guerra ó lucha encarnizada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arde la guerra, y su furor rehace | La monstruosa esperanza del tirano.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "canc. Pues que no hay voz (R. 42. 336 2 )."
+            },
+            {
+              "texto_cita": "«No hay cosa en él perfecta: | En medio de la paz arde la guerra.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, Los que tenéis en tanto (R. 37. 14 2 )."
+            },
+            {
+              "texto_cita": "«Aquí ardía la batalla, | Que un infierno parecía | La confusión.»",
+              "autor": "",
+              "referencia_obra": "Alto. De fuera vendrá... 1. 2 (R. 39. 58 3 )."
+            },
+            {
+              "texto_cita": "«Arde la lucha, | Retumba el bronce, los valientes caen.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Al armam. de las prov. esp. (R. 19. 11 1 )."
+            },
+            {
+              "texto_cita": "«Nueva lucha arde allí: nuevo destrozo | Allí.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Zaragoza (1. 83)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Dícese de las personas que están poseídas de una pasión vehemente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin verla me hielo, y en viéndola ardo.»",
+              "autor": "Encina",
+              "referencia_obra": "( Ens. bibl. esp. 2. 826)."
+            },
+            {
+              "texto_cita": "«Ardo, si los colores que lo adornan | Brillar miro en tu pecho fementido.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. amor. 7 (R. 67. 321 2 ). —"
+            },
+            {
+              "texto_cita": "«La sangre noble | Que arde en mi pecho, restaurar me manda | De mi familia el mancillado nombre.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 7 (2. 259)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, representándose la pasión como una llama ó incendio dentro del cual está el apasionado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Calisto arde en amores de Melibea.»",
+              "autor": "Celest.",
+              "referencia_obra": "1 (R. 3. 10 2 )."
+            },
+            {
+              "texto_cita": "«Cristo naciendo hombre, que es monte, en lo alto de su alma ardía todo en llamas de amor, y gozaba de la gloria de Dios alegre descansadamente.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Hijo (R. 37. 172 2 )."
+            },
+            {
+              "texto_cita": "«Tales fueron los suspiros cuando | De amor de Marte presa suspiraba, | Ardiendo en fuego deleitoso y blando.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg. 3 (R. 32. 262 2 )."
+            },
+            {
+              "texto_cita": "«Ardo en la llama más hermosa y pura | Que amante generoso arder pudiera.»",
+              "autor": "Rioja",
+              "referencia_obra": ", son. mor . 26 (R. 32. 378 1 )."
+            },
+            {
+              "texto_cita": "«Contra mí mesmo estoy ardiendo en ira, | Por ver que sufro tanto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 (R. 1. 25 1 )."
+            },
+            {
+              "texto_cita": "«Ardiendo en ira y en honroso celo, | De los cuerpos la fuerza ejercitastes.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 40 (R. 1. 364 2 )."
+            },
+            {
+              "texto_cita": "«Pareciáles sería bien conquistar para este efecto á Tifón hermano de Osiris, y concertarse con él; de quien se entendía y tenían aviso ardía en deseo de reinar y quitar á su hermano el reino.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 8 (R. 30. 9 2 )."
+            },
+            {
+              "texto_cita": "«Con tales demostraciones públicas procuraba disimular su ánimo: ardía en invidia de Germánico, y encendía más su gloria para apagalla mejor.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 78 (R. 25. 210 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué fe te guarda el vano | --- por quien velaste; | Por quien ardiste en celo? ---»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, Elisa, ya el preciado (R. 37. 5 1 )."
+            },
+            {
+              "texto_cita": "«Ansí falsa cantaba, | Ardiendo en crueldad; mas el prudente, | A la voz atajaba | El camino en su gente | Con la aplicada cera suavemente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1, Las sirenas á Querinto (R. 37. 6 2 )."
+            },
+            {
+              "texto_cita": "«Viéndolos á miserias sometidos | El error ignorante conocieron, | Ardiendo en viva rabia avergonzados | Por verse de mortales conquistados.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 2 (R. 17. 8 1 )."
+            },
+            {
+              "texto_cita": "«Incorregible Néstor, de los daños | Que trae consigo la vejez te dueles, | Porque ardes en afectos más noveles | Que Venus alentó en robustos años.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. que principia así (R. 42. 321 1 )."
+            },
+            {
+              "texto_cita": "«El émulo fiero desta gloria, | A singular batalla provocado, | Ardiendo en ira salta de las haces.»",
+              "autor": "",
+              "referencia_obra": "Id. canc. Pues que no hay voz (R. 42. 335 2 )."
+            },
+            {
+              "texto_cita": "«Ardiendo en deseos de venganza, | A solo este deleite y gusto aspira.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 145 1 )."
+            },
+            {
+              "texto_cita": "«Dudosa | De si es él, se abrasa y arde | En celos.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hombre pobre todo es trazas , 2. 10 (R. 7. 513 2 )."
+            },
+            {
+              "texto_cita": "«Leyendo los viajes de Sausseze por los Alpes, y de Ramond por los Pirineos, ardo en el deseo de que se escriba otro por los Alpes arbasios.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 225 1 )."
+            },
+            {
+              "texto_cita": "«La princesa Florisbella, hija del soldán de Babilonia, se aflige al saber que el caballero desconocido, en cuyo amor ardía, era cristiano.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 2, p. 68."
+            },
+            {
+              "texto_cita": "«Animaba á los nuestros el deseo de conservar el dominio y gloria recientemente ganados, mientras que los franceses ardían en ansia de vengar las afrentas y daños recibidos.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 221 1 )."
+            },
+            {
+              "texto_cita": "«Sí: tú me inspira, en amor divino | Arda por ti mi corazón.»",
+              "autor": "Mor.",
+              "referencia_obra": "oda 1 (R. 2. 587 1 )."
+            },
+            {
+              "texto_cita": "«Ardió mi fantasía | En ansia de admirar.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Al mar (R. 19. 19 2 )."
+            },
+            {
+              "texto_cita": "«Ardió mi pecho | En guerrero valor.»",
+              "autor": "V. de la Vega",
+              "referencia_obra": ", Don Fernando, 1. 5 (183)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Dícese también de los países que están trabajados por guerras encarnizadas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Italia estaba dividida en muchos señoríos, ardía en bandos y guerras.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 9. 14 (R. 30. 263 2 )."
+            },
+            {
+              "texto_cita": "«Florecía en aquel tiempo España con los bienes de una muy larga paz; Africa y Francia ardían en guerras civiles.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 7. 4 (R. 30. 195 2 )."
+            },
+            {
+              "texto_cita": "«Fue tan cobarde y afeminado, que, huyendo de las guerras en que ardía su patria Grecia, se fue á Italia.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 190 2 )."
+            },
+            {
+              "texto_cita": "«Ardía en aquella sazón Castilla en guerras civiles, atizadas por la ambición de los grandes.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 235 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de, representándose la pasión como origen ó causa del fuego.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo ardía de rabia y de celos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 27 (R. 1. 323 2 )."
+            },
+            {
+              "texto_cita": "«Como se os viene ante los ojos | Mi culpa, ardéis de generosa ira.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. ¿Qué estratagema (R. 42. 341 2 )."
+            },
+            {
+              "texto_cita": "«Eso no sé, porque, de furia ardiendo, | Corrí por alcanzarla y detenerla.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta, 3 (R. 42. 142 2 )."
+            },
+            {
+              "texto_cita": "«Ardía de saña el rey porque no acababan de entregar las fortalezas que, según el pacto hecho cuando la libertad del príncipe, se habían de poner en poder de aragoneses.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 239 1 )."
+            },
+            {
+              "texto_cita": "«Arde de amor; que amada | De ti la virgen bella, | Del fuego que te abrase | Será su pecho hoguera.»",
+              "autor": "Lista",
+              "referencia_obra": ", idil. 36 (R. 67. 366 1 ). —"
+            },
+            {
+              "texto_cita": "«Yo miré á Rui Velázquez, cuyos ojos | Ardieron de furor.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 3 (2. 98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Dícese también de los países que están trabajados por guerras encarnizadas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De Ferrara tomó el camino para Génova por Lombardía, la cual ardía toda de cruelísima guerra que entonces había entre los españoles y franceses.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de S. Ign. 1. 12 (R. 60. 28 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Dícese arder de amor por alguien:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ardí de amor por la voluble Elfrida, | Y ella en mi incendio se mostró abrasar.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", idil. 5 (R. 67. 49 1 ). — De aquí simplemente arder por alguien: Amarle extremadamente."
+            },
+            {
+              "texto_cita": "«Ardía por doña Berenguela de Rebolledo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 18 (R. 23. 516 2 )."
+            },
+            {
+              "texto_cita": "«Alcipe ama á Damón: Damón á Clori: | Arde Clori por Tirsi; y Tirsi ingrato | Por Dafne: Dafne está entregada á Glauco | En Glauco no hay amor.»",
+              "autor": "Figueroa",
+              "referencia_obra": ". égl. past. ( Fern. 63)."
+            },
+            {
+              "texto_cita": "«Ama un abeto al otro, el pino al pino, | El fresno al fresno, el sauce por el sauce, | Y una por otra haya arde y suspira.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 134 1 )."
+            },
+            {
+              "texto_cita": "«¿Y creeréis capaz de un sentimiento | Tan vil al corazón que por vos arde?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Pelayo, 2. 1 (R. 46. 57 2 )."
+            },
+            {
+              "texto_cita": "«Primero á mí me quiso, | A poco tiempo ardía | Por Dafnis, y al presente | Ya por Cleón suspira.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. trad. de Montesquieu (R. 46. 9 1 ). —"
+            },
+            {
+              "texto_cita": "«La materia, en saliendo el caos rudo, | Vio á la forma, y ardió por su hermosura, | Y de ambas hizo amor el primer ñudo.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "eleg. Con feliz parto (R. 42. 343 2 ). —"
+            },
+            {
+              "texto_cita": "«En fuego Coridón, pastor, ardía | Por el hermoso Alexi.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2, égl. 2 (R. 37. 19 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Arder por vale también Desear con ansia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rompiste mi cadena | Ardiendo por prenderme; al gran consuelo | Subido he por tu pena.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, ¿Qué vale cuanto vee (R. 37. 8 1 )."
+            },
+            {
+              "texto_cita": "«Miraban los napolitanos desde sus murallas esta devastación, | Y ardían a por salir á castigar la soberbia insolente de sus contrarios.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 220 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con con , representándose la pasión como el instrumento con que se forma ó atiza el incendio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunos destos [pecadores], mayormente en la juventud, como dice san Jerónimo, arden más que los fuegos del monte Etna, con llamas de lujuria, otros con ardores de codicia, otros con deseos encendidísimos y rabiosísimos de venganza, otros con apetitos de privanzas, dignidades y honras..»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med. 1, § 1 (R. 8. 499 2 )."
+            },
+            {
+              "texto_cita": "«Así también el que desta manera arde con entrañable deseo de aquella esposa celestial, que es la divina sabiduría y la caridad, ninguna otra cosa piensa.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 7. 3, § 1 (R. 8. 384 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Abrasar ( trans. ). Este uso fue harto común en los tiempos clásicos, pero ya en el siglo pasado lo notaba de raro el Dicc. Autor.; en el Dicc. vulgar tuvo la marca de anticuado hasta la décima edición; en la undécima y duodécima está rehabilitado.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En sentido propio.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No puede arder el Etna | Fuera de sí otra cosa.»",
+              "autor": "Quev.",
+              "referencia_obra": "Peste 1 (R. 48. 106 1 )."
+            },
+            {
+              "texto_cita": "«Díme, dije yo: ¿qué eres y de qué te quejas, si ninguno te molesta, si el fuego no te arde ni el hielo te cerca?»",
+              "autor": "",
+              "referencia_obra": "Id. Zahurdas (R. 23. 315 2 )."
+            },
+            {
+              "texto_cita": "«Icaro en senda de oro mal segura | Arde sus alas por morir glorioso.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 4, son. 8 (R. 69. 74 1 )."
+            },
+            {
+              "texto_cita": "«Tú que los montes ardes, si los tocas, | Y al suelo das temblores.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Padre (R. 37.111 2 )."
+            },
+            {
+              "texto_cita": "«Cuando en un ara la fraterna mano | Ardió los dos cadáveres reales.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 2 ( Fern. 7. 48)."
+            },
+            {
+              "texto_cita": "«Ruda trompa | Triste al concurso funeral preceda, | Y en torno al fuego, que los miembros arde, | Sin armas gire belicoso alarde.»",
+              "autor": "Fern.",
+              "referencia_obra": "8. 121)."
+            },
+            {
+              "texto_cita": "«Ardió en religioso aroma | A Dios piadosos olores.»",
+              "autor": "Cald.",
+              "referencia_obra": "Judas Macabeo , 1. 1 (R. 7. 311 2 )."
+            },
+            {
+              "texto_cita": "«Cumplidos | Breves inviernos, las soberbias torres | Arderá de Ilïón la llama argiva.»",
+              "autor": "Mor.",
+              "referencia_obra": "trad. de Hor, od. 1. 15 (R. 2. 596 1 ). —"
+            },
+            {
+              "texto_cita": "«¿Y qué otra cosa hace este calor día y noche, cuanto es de su parte, sino arder y abrasar todo lo bueno que hay en nuestras ánimas?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 1. 3, § 2 (R. 8. 175 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andrónico de los muros miraba como se ardían las casas.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 39 (R. 21. 37 1 )."
+            },
+            {
+              "texto_cita": "«Miraremos el teatro | Cómo se arde y centellea.»",
+              "autor": "Lope",
+              "referencia_obra": ", Roma abrasada , 3. 9 (R. 52. 298 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Será cosa conveniente imaginar el lugar del infierno --- como una ciudad espantable y tenebrosa, que toda se arde en vivas llamas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, viernes en la noche (R. 8. 47 2 )."
+            },
+            {
+              "texto_cita": "«Muy bien pudiera Jove de su mano | Librar el pleito de las diosas luégo | Sin remitirlas al zagal troyano; | Y con esto evitar el sacro fuego | En que Troya se ardió.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pienso pedir (R. 42. 315 1 )."
+            },
+            {
+              "texto_cita": "«¿No era bastante, impíos, | Los vientos escuchar que en torno braman, | Los escollos temblar, mirar el cielo | Cubrirse todo de espantosas nubes, | Y arderse en rayos ---?»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Al mar. (R. 19. 20 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallábanse los nuestros alejados del río al tiempo que el sol más ardía, sin ir apercebidos de agua.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 16 (R. 30. 452 2 )."
+            },
+            {
+              "texto_cita": "«Mandó Cortés que --- fabricasen número suficiente de barracas en que defenderse del sol, que ardía con bastante fuerza.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 21 (R. 28. 231 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. Recalentado. Dícese de algunas materias como el trigo, el tabaco, las aceitunas, etc. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Represéntanse las pasiones y afectos vehementes como fuego que abrasa á las personas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Honestísimo decoro | Se guardará en esta casa, | Puesto que me arda la brasa | De esta niña á quien adoro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La entretenida, 2 ( Com. 2. 204)."
+            },
+            {
+              "texto_cita": "«Por las llamas que despiden sus lenguas, conoceremos el infinito fuego que les ardía los pechos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Amado (3. 349)."
+            },
+            {
+              "texto_cita": "«La crecida | Llama que arde el pecho aun no ha menguado.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. 2, égl. 2 (R. 37. 19 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué vanas confianzas | De un morir atrevido | Llevan tu mariposa | A la luz amorosa | Del mismo fuego que arde tu sentido?»",
+              "autor": "Lope",
+              "referencia_obra": ", La buena guarda ,1 (R. 41. 330 2 ). —"
+            },
+            {
+              "texto_cita": "« Ni dura el mal, ni el bien le llega tarde | A quien hiela el desdén y el amor arde. »",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 3, p. 52)."
+            },
+            {
+              "texto_cita": "«Son varios los agravios con que el pecho | La francesa nación me enciende y arde. »",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 11 (R. 17. 254 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y como mientras bebía, | A la zagala miraba, | Su boca se refrescaba, | Pero su pecho se ardía.»",
+              "autor": "Somoza",
+              "referencia_obra": ", canc. 4 (R. 67. 472 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para expresar la pasión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Vive Dios que se me arde en rabia el pecho!»",
+              "autor": "Cerv.",
+              "referencia_obra": "El laberinto de amor, 2 ( Com. 2. 146)."
+            },
+            {
+              "texto_cita": "«En ira mi pecho se arde, | Por verte hablar sin cordura.»",
+              "autor": "Part.",
+              "referencia_obra": "Inflamado."
+            },
+            {
+              "texto_cita": "«Las manos virginales | Y el rostro ardido en caridad levantas.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. sagr. 9 (R. 67. 280 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ )",
+          "definicion": "Con en, tratándose de la algazara y bullicio de una fiesta (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Granada en fiestas de placer se ardía.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 23 (R. 17. 379 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γγ )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lloréme ya perdido, | Creyéndote mudable, | Y ardiéndoseme el pecho | Con celos infernales.»",
+              "autor": "Mel.",
+              "referencia_obra": "Anacr. 42(R. 63. 103 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "En especial, con por , para expresar la persona amada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya ni por Angélica se arde, | Ni de gozarla en paz recibe gloria.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 10 ( Obr. suelt. 2. 155)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Represéntasela pasión como materia que puede encenderse, ó sea excitarse (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¡Ese implacable Dios fue quien mis pasos | Encaminó al umbral desta morada ---! | ¡El, quien ardió improvisa en mis entrañas | La compasión que libertó al proscripto!»",
+          "autor": "V. de la Vega",
+          "referencia_obra": ", La muerte de César , 2. 3 (331)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "—Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quando mas ardia el fuego | Echaste el agua.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 53)."
+        },
+        {
+          "texto_cita": "«Arder [verde?] por seco é laçerar justo por pecador.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 506."
+        },
+        {
+          "texto_cita": "«Acordaron que le quemasen la ferida con un fierro ardiendo.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 84."
+        },
+        {
+          "texto_cita": "«Quando el sol les toma, diz que les va luego al corazon, que les face vasquear é morir, é diz que les arde las espadas mucho.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav. p. 114. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Ca yo en amar la justicia, así ardo como fuego.»",
+          "autor": "Pal.",
+          "referencia_obra": "362 (R. 57. 436 2 )."
+        },
+        {
+          "texto_cita": "«Acaesce á los falcones que se les finchan los pies et le[s] arden por desvariadas razones.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza, 27 ( Bibl. venat. 3. 270)."
+        },
+        {
+          "texto_cita": "«Los rreales se ardieron, | E la gente se morian.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2288 (R. 57. 546 1 )."
+        },
+        {
+          "texto_cita": "«E estando el rey en la cibdad de León, encendióse de noche fuego en la villa, é ardieron tres ruas las mejores que y oviera.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 16 (R. 66. 160 1 )."
+        },
+        {
+          "texto_cita": "«A los perdidos malos, que dexó en tu poder, | En fuego infernal los fases tu arder.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1539 (R. 57. 275 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Será ardido»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Si despues que la vendida fuere complida, la casa ardiere o cayere --- el daño sea de aquel que la compró.»",
+          "autor": "Fuero",
+          "referencia_obra": "real, 3. 10. 17 ( O. L. 2. 91)."
+        },
+        {
+          "texto_cita": "«E si algun omne mientra la casa ardió levó dend alguna cosa --- péchelo en quatro duplos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 5. 5. 3 (91; * ardeó)."
+        },
+        {
+          "texto_cita": "«Et esto semeja al fuego ardiente que toda leña que le echan arde mejor.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 12 2 )."
+        },
+        {
+          "texto_cita": "«Fueron en este conmedio las comarcas corridas, | Las que non se rendioron fueron todas ardidas.»",
+          "autor": "Alex.",
+          "referencia_obra": "867 (R. 57. 174 1 )."
+        },
+        {
+          "texto_cita": "«Plegó á Sant Fagunt, quemó una partida, | Fue cerca de la media de Carrion ardida.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill . 389 (R. 57. 76 2 )."
+        },
+        {
+          "texto_cita": "«Maes los façie arder que una grant foguera.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 163 (R. 57. 70 1 )."
+        },
+        {
+          "texto_cita": "«Ardrá todo el mundo, el oro e la plata.»",
+          "autor": "",
+          "referencia_obra": "Id. Signos , 21 (R. 57. 101 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. arder ; cat. ant. ardrer ; prov. ardre ; fr. ant. ardre , ardoir ; it. ardere : del lat. ardere , de ardus , aridus , árido: arida febris , Virg. fiebre abrasadora. (Corssen, Beitr. 111; Pott . Et. Forsch. 2 2. 481; Vanicek , Griech. lat. Wb. 53). En el sentido de Abrasar se usaba y a ardere en la baja latinidad española:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Messes ullius hominis nemo ardeat.»",
+          "autor": "Docum",
+          "referencia_obra": ". de fines del siglo XI (Villan. Viaje , 6. 321)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Intrans. : 1 . — Trans. : 2 . — Refl. : 2, a, β - 2, β , β . — Part .: 2, a , δ - 2, β , β , α α . — Con con : 1, c , β - 1, ε , ε - 2, β , β , γ γ . — De : 1, e , γ . — En : 1, b , β - 1, χ , α - 1, ε , β - 2, α , β , α α - 2, b , β , α α , β β . — Por: 1, e , δ - 2, β , β , δ δ . \u0000"
+}

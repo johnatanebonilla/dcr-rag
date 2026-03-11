@@ -1,0 +1,542 @@
+{
+  "lema": "DELGADO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "De poco espesor, sugiriendo el concepto de finura y suavidad.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Eran cuatro camisas de delgada holanda.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 23 (R. 1. 307 1 )."
+        },
+        {
+          "texto_cita": "«Venía una [danza] de espadas, de hasta veinte y cuatro zagales de gallardo parecer y brío, todos vestidos de delgado y blanquísimo lienzo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 20 (R. 1. 446 1 )."
+        },
+        {
+          "texto_cita": "«Traía en las manos un lienzo delgado, y entre él, á lo que pude divisar, un corazón de carne momia, según venía seco y amojamado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 23 (R. 1. 453 1 )."
+        },
+        {
+          "texto_cita": "«Todas --- con unas tocas blancas de delgado canequí, tan luengas que solo el ribete del monjil descubrían.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 38 (R. 1. 484 1 ). — Sup."
+        },
+        {
+          "texto_cita": "«Y luégo untarle todo con olorosos ungüentos, y vestirle una camisa de cendal delgadísimo.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 50 (R. 1. 395 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se quiebra por delgado, sino por gordo y mal hilado»",
+              "autor": "",
+              "referencia_obra": ": ref. con que se reprende al necio que toma los primores por imperfecciones y al contrario."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese del agua que contiene muy pocas materias extrañas, tal que se acerca en razón de su peso específico al agua destilada.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El pan [en Salamanca] es blanco, candeal y bien sazonado, y el agua delgada y fría.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud . 1. 11 (R. 18. 401 2 )."
+        },
+        {
+          "texto_cita": "«Mi linaje | Su origen debe á la deidad potente | Del Axio caudaloso, que derrama | Sobre la tierra la corriente undosa | Del agua más delgada y cristalina.»",
+          "autor": "",
+          "referencia_obra": "Hermosilla, Iliada. 21 (2. 290)."
+        },
+        {
+          "texto_cita": "«Los aljibes provistos de agua llovediza, que es delgada y sin sabor, bastaron a impedir que hubiese sed, sirviéndoles de suplemento algunos pozos, cuyo contenido, si menos grato, por ser el agua menos delgada, nada tenía de salobre.»",
+          "autor": "",
+          "referencia_obra": "A. Galiano, Recuerdos , p. 151."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Dícese de la tierra de poca sustancia ó jugo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Las aguas delgadas las más veces vienen de tierras delgadas y aun estériles, como son arenales y sierras pedrizas.»",
+          "autor": "Herr.",
+          "referencia_obra": "Agric. gen. 1. 3 (1. 15)."
+        },
+        {
+          "texto_cita": "«Susténtase la ciudad de Toledo comúnmente de acarreo, á causa que la tierra de su contorno es muy falta, por ser de suyo delgada y arenisca.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 9. 15 (R. 30. 265 1 )."
+        },
+        {
+          "texto_cita": "«Los demás reinos y provincias sujetos á Vuestra Majestad que no participan destas cargas, están muy poblados, muy ricos y descansados, con ser algunos dellos de tierra muy delgada y que no tiene la sustancia que la nuestra.»",
+          "autor": "",
+          "referencia_obra": "Consulta del Cons. de Cast. año 1619 (R. 25. 450 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "De poca consistencia.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La esperanza del malo es como el pelito de lana que se lleva el viento, y como la espuma delgada que deshace la ola.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 1. 18, § 1 (R. 6. 67 1 )."
+        },
+        {
+          "texto_cita": "«Bastó [la cítara de Orfeo] á sacar de la negra lama y podridas ovas del estigio lago aquellas delgadas fantasmas, imágenes de los que ya no viven.»",
+          "autor": "Valb.",
+          "referencia_obra": "Siglo de oro , 6 (137)."
+        },
+        {
+          "texto_cita": "«Dichoso puedes, Tántalo, llamarte --- | Delgada sombra desangrada y fría.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 4, son . 3 (R. 69. 51 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Dícese del aire puro que sopla suavemente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al blando soplo de un delgado viento | Las hojas tiemblan.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 5 (R. 17. 192 1 )."
+        },
+        {
+          "texto_cita": "«Falta lugar por donde el rayo quepa | Del sol, y soplan los delgados vientos.»",
+          "autor": "Espinosa",
+          "referencia_obra": ", Fáb. del Jenil (R. 29. 475 1 )."
+        },
+        {
+          "texto_cita": "«Ver le parece dividirse el cielo | Y en luz bañarse los delgados vientos.»",
+          "autor": "Jáur.",
+          "referencia_obra": "eleg. Partió la noche (R. 42. 107 2 )."
+        },
+        {
+          "texto_cita": "«Rogó al rey le permitiese llevarle [á su hijo] por algunos meses á su propio palacio, más elevado que el de la Albambra y de aires más delgados y puros.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Is. de Solís , 1. 17 (4. 246)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Entre la gente de mar se dice del horizonte despejado y de la celajería ligera, tenue y sutil. Dicc. marít .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Dícese de la voz suave, que no es gruesa ni desapacible.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con voz baja y delgada, le dijo lo que luégo dirá.»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job , 4 (1. 66)."
+        },
+        {
+          "texto_cita": "«Llamarme con delgadas voces siento | Del seno oscuro de la tierra helada.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 11 (R. 17. 260 2 )."
+        },
+        {
+          "texto_cita": "«Oh alma bienaventurada --- si acaso tu callada sombra por estas selvas anda volando, ya que á nuestros groseros sentidos no sea lícito oír su delgada voz ---»",
+          "autor": "",
+          "referencia_obra": "Id. Siglo de oro , 10 (206)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "De poco grueso, de poco diámetro.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si el hilado es tal, serte ha bien pagado — Delgado como el pelo de la cabeza, igual, recio como cuerdas de vihuela.»",
+              "autor": "",
+              "referencia_obra": "Celest . 4 (R. 3. 21 2 )."
+            },
+            {
+              "texto_cita": "«La cola larga y delgada [en el mastín] es señal de ligero; la corta y gorda es señal de más fuerza.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen . 5. 12 (3. 344)."
+            },
+            {
+              "texto_cita": "«La cual [humildad] les hace inclinar los corazones, como árboles delgados, al furioso viento de la tribulación.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 22, § 1 (R. 6. 82 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué instrumentos tiene este animalillo tan pequeño [la abeja], sino unos piecillos tan delgados como hilos, y un aguijoncillo tan delgado como ellos?»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 1. 20 (R. 6. 236 2 ). — Sup ."
+            },
+            {
+              "texto_cita": "«Apoyadas estas bóvedas en arcos altos y estrechos, sostenidos sobre columnas delgadísimas ---»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de V. Rodr. nota 11 (R. 46. 383 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para denotar aquella parte que en un objeto aparece de poco grueso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Delgado de cuerpo.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para denotar la parte ó extensión en que aparece el poco espesor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Delyado en la cintura.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            },
+            {
+              "texto_cita": "«El caballo ha de ser de perfecta estampa y proporcionados miembros --- de labios arredonados, y el superior delgado en su longitud.»",
+              "autor": "Banqueri",
+              "referencia_obra": ", Agric. de Ibn al-Auwam , 2, p. 509."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met. Quebrar por lo más delgado : expresión con que se da á entender que el débil y el desvalido suelen llevar lo peor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si irme, esconderme ó estarme | Todo es un inconveniente, | Mejor es que la fortuna por el más delgado quiebre. | Yo saldré.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mejor está que estaba , 1. 18 (R. 7. 230 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Cenceño, de pocas carnes.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que nace flaco y delgado, y en breve engorde, sospecha pone su duración y su vida.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 11 (R. 18. 461 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con menos propiedad se dice del animal que ha perdido carnes de resultas de una enfermedad ú otro accidente. Mora , Sinón. p. 57.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cómo estáis, Rocinante, tan delgado? | — Porque nunca se come, y se trabaja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. prelim. son. que principia así (R. 1. 255 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Agudo, penetrante.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con esta comunicación crece el deseo, y el extremo de soledad en que se ve con una pena tan delgada y penetrativa, que ---.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 20 (R. 53. 65 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado al entendimiento, Sutil, agudo ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El vientre lleno de mantenimiento no cría delgado entendimiento.»",
+          "autor": "Gran.",
+          "referencia_obra": "Orac. y consid. 3. 2. 1, § 5 (R. 8. 182 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se ha dicho de la persona de entendimiento agudo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sólo fue monstruoso en ser delgado y muy agudo dialéctico, mas aun ---»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 1 (389)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—β )",
+          "definicion": "Aplicado á la pluma salta más á la vista la cualidad material á que se refiere la metáfora.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién quita que yo no favorezca mi esperanza, si ya no se despierta por nuestro ejemplo alguno que con pluma más delgada se nos adelante en escribir las grandezas de España?»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. dedic. (R. 30. LII )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Delicado , que requiere cuidado y atención ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sobre ceremonias delgadas del oficio, sobre cortesías vanas, sobre poco antes ó poco después, ó alborotan los reinos, ó los pierden.»",
+          "autor": "Quev.",
+          "referencia_obra": "Polític. de Dios , 2. 21 (R. 23. 96 1 )."
+        },
+        {
+          "texto_cita": "«Política muy delgada | Es ésta; y para venceros | Os daré más claramente | Su razón en un ejemplo.»",
+          "autor": "Mto.",
+          "referencia_obra": "No puede ser , 1. 2 (R. 39. 190 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se ha dicho de la persona que procede escrupulosamente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque en un alma por una parte tan pura y por otra parte herida tan crudamente, el dolor y la buena conciencia y la seguridad que de ella nace, cría naturalmente una santa osadía que entre amigos se sufre y perdona; mas el juicio de Dios fiel y puro y que con los más suyos es más delgado, tuvo por demasía faltar, por pequeña cosa que fuese, á la modestia y respeto que una bajeza debe á la grandeza divina.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 38 (2. 258)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Por lo delgado : escrupulosamente ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estotros por parecerles no hacen ninguna cosa de aquellas graves, toman más anchura para sus contentos, y por la mayor parte ternan sus oraciones vocales no muy bien rezadas, porque no lo llevan por tan delgado.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Concept. 2 (R. 53. 394 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Delicado , difícil de contentar ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La mujer que ha de ser propia, | Ha de estar en una caja, | Como el gusano de seda, | Hasta ser paloma blanca --- | — Muy delgado, hermano, eres: | A tales hombres despachan | Por mujeres á Alcorcón, | Que de barro se las hagan, | A Estremoz ó á Talavera | Cuando han de ser vidriadas. | No se casan con melindres | Los que tan ciegos se casan.»",
+          "autor": "Lope",
+          "referencia_obra": ", Al pasar del arroyo , 3. 9 (R. 24. 403 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "Sust. m. pl .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "mar. Las partes de los extremos de popa y proa en las cuales se estrecha el pantoque, formando sus lados un ángulo más ó menos agudo desde la quilla, que es donde está el vértice. A medida que el ángulo es más o menos agudo, se dice que el buque es de muchos ó pocos delgados. Dicc. marít .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En los cuadrúpedos, partes inferiores del vientre, hacia las ijadas. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Falda de las canales ó reses muertas. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la acepción Corto, escaso.) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fue hombre delgado é alto de cuerpo.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 8 (71)."
+        },
+        {
+          "texto_cita": "«Fue hombre de mediana estatura, el cuerpo delgado é bien compuesto.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 6 (53)."
+        },
+        {
+          "texto_cita": "«El cuerpo pequeño é muy derecho, é blanco, gracioso de talle en toda la su edad, é delgado en buena forma.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 68 (182)."
+        },
+        {
+          "texto_cita": "«Fue este don Pero Lopez de Ayala alto de cuerpo y delgado.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 7 (R. 68. 703 1 )."
+        },
+        {
+          "texto_cita": "«En la mano derecha tenía un cordel delgado con una pieza de plomo.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect. 1. 5 (R. 36. 348 2 )."
+        },
+        {
+          "texto_cita": "«Las junturas de los dedos tanto eran de delgadas, que no se hallaba ahí vestigio alguno de carne.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 2 (R. 36. 344 1 )."
+        },
+        {
+          "texto_cita": "«Que ya todas las gentes | Lo tienen por licenciado | Muy delgado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 150."
+        },
+        {
+          "texto_cita": "«E estas dichas imágenes parescian como que esto viesen entre las nubes del cielo, quando está claro, é como si toviese un velo delgado ante sí.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav. p. 61 — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Et destas viandas delgadas e frias fazle buen papo.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 40 ( Bibl. venat. 3. 311)."
+        },
+        {
+          "texto_cita": "«Et que preguntasen á algunos pastores qué hora habian oído un can de unas voces delgadas, para que tomasen tiento á dó había dejado.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 3. 9 ( Bibl. venat. 2. 139)."
+        },
+        {
+          "texto_cita": "«Et sean hi puestas tablas de pino muy delgadas, et tan anchas como el pulgar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 1. 16 ( Bibl. venat. 1. 152)."
+        },
+        {
+          "texto_cita": "«La boca non pequenna, labros al comunal, | Mas gordos que delgados, bermejos como coral.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1461 (R. 57. 273 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Auie [Caligula] la ceruiz e las piernas muy delgadas.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 1. 109 (76 1 )."
+        },
+        {
+          "texto_cita": "«Era [Domiciano] muy gordo de vientre, e auie las piernas delgadas.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 17 (91 1 )."
+        },
+        {
+          "texto_cita": "«El coraçon es cosa sotil e cosa delgada, y el cuerpo es cosa espessa.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 60)."
+        },
+        {
+          "texto_cita": "«Nen era muy grueso [el árbol] nen muy delgado.»",
+          "autor": "Alex.",
+          "referencia_obra": "1969 (R. 57. 207 2 )."
+        },
+        {
+          "texto_cita": "«Tantol ualdrie loriga cuemo que ça delgada.»",
+          "autor": "",
+          "referencia_obra": "Ib . 598 (R. 57. 166 1 )."
+        },
+        {
+          "texto_cita": "«Los cabellos en tuerto, la mayxiella delgada.»",
+          "autor": "",
+          "referencia_obra": "lb . 32 (R. 57. 148 1 )."
+        },
+        {
+          "texto_cita": "«Un vestido he solo flaco e muy delgado.»",
+          "autor": "Appoll.",
+          "referencia_obra": "138 (R. 57. 288 1 )."
+        },
+        {
+          "texto_cita": "«Tales avie los brazos commo tabla delgada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 676 (R. 57. 61 2 )."
+        },
+        {
+          "texto_cita": "«Oras se façie chico, oras grant desguisado, | A las veçes bien gruesso, a las veçes delgado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 328 (R. 57. 50 1 )."
+        },
+        {
+          "texto_cita": "«Façien grant sacrilegio por ganançia delgada.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 877 (R. 57. 130 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. delgado ; cat. ant. delgat ; prov. delguat , dalgat : del lat. delicatus , de que delicado es forma cuasi-erudita. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

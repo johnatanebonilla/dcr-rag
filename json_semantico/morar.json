@@ -1,0 +1,743 @@
+{
+  "lema": "MORAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Vivir, residir en un sitio ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«E partiendo de allí, comenzó de se ir por el camino cuanto podía; e hallose ya cerca del día en un valle donde vio una ermita, e fue allá por saber si moraba hi alguno.»",
+              "autor": "Am. de Gaula",
+              "referencia_obra": "(Cl. Ebro, 62. 62). X"
+            },
+            {
+              "texto_cita": "«Pues allá en Nauarredonda | Tengo mi madre senora. | — ¿Allá viue? — Allá mora.»",
+              "autor": "Fernández",
+              "referencia_obra": ", Farsas y égl. (Cl. Castal. 72. 96)."
+            },
+            {
+              "texto_cita": "«Y decíase ansí la ciudad, por el contento y descanso que daba a los que moraban.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares, 6 (4. 101). X"
+            },
+            {
+              "texto_cita": "«Ofrencíanse a ir con ellas, a morar como y donde los enviassen.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerr. de Granada, 2. 6 ( Dicc. Autor. ). X"
+            },
+            {
+              "texto_cita": "«Algunos ai donde moro, | Que, a poco que les atizen, | Sobre qualquier cosa dicen.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. (3. 47). X"
+            },
+            {
+              "texto_cita": "«Labradores, hombres buenos, | Oficiales, que la plebe | Desta ciudad populosa | Moráis, leales y fieles.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Antona García (NBAE. 4. 625). X"
+            },
+            {
+              "texto_cita": "«Aquella ilustre familia tuvo la dicha de hospedar a San Pedro en su palacio en el año 44. Siete años moró allí el Príncipe de los apóstoles.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma, p. 464. X"
+            },
+            {
+              "texto_cita": "«Bordea el tren la espléndida ría de Arosa y pasa luego junto a Padrón, la antigua Iria Flavia, donde dicen que moró más tiempo el apóstol.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Andanzas y visiones esp. p. 42. X"
+            },
+            {
+              "texto_cita": "«Un peregrino | Que vuelve solitario de la sagrada tierra | Donde Jesús morara, camina sin camino, | Entre los agrios montes de la galaica sierra.»",
+              "autor": "Machado",
+              "referencia_obra": ", Poes. complet. p. 186."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , para indicar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque vengo vestida a la ginovesa, soy española y de Córdoba. — ¿De Córdoba? ¡Por vuestra vida, ahí tenemos todas parientes! ¿Y a qué parte morábades?»",
+              "autor": "Delicado",
+              "referencia_obra": ", La Lozana (Cl. Castal. 13. 47). X"
+            },
+            {
+              "texto_cita": "«Fueron mis padres a morar a Córdoba.»",
+              "autor": "",
+              "referencia_obra": "Simancas, Vida (NBAE. 2. 151 1 ). +"
+            },
+            {
+              "texto_cita": "«¿Por qué procuras de morar a do quieres, y por qué tienes lo que a ti te place?»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio, 9 (p. 510). — Además con la prep. con. X"
+            },
+            {
+              "texto_cita": "«A la mano derecha tenían su cuartel los de Rubén con los de Simeón y de Gad juntamente; a la izquierda moravan con los de Dan los de Asser y Neftalim.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 4. Esposo (Cl. C. 33. 259)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con cabe, con el sentido de cerca (de). +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los marcómanos se llamaron así --- porque moraban cabe la Marca o raya [que] por grandes leguas divide a los alemanes de los sármatas.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 6. 14 (R. 162. 30 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la prep. con , que expresa la compañía. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué relaciones tan íntimas han mediado entre ambos para ser tú el único que morase con él?»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La conjuración de Venecia, 5 (Cl. C. 107. 381). — Además con en , para señalar el lugar. X"
+            },
+            {
+              "texto_cita": "«Si suponemos pues que no se tiene idea alguna de otra vida distinta de la presente, ni de otro mundo que el que está a nuestra vista, ni de otros vivientes que los que moran con nosotros en la tierra, el hombre fingirá gigantes, fieras monstruosas.»",
+              "autor": "Balmes",
+              "referencia_obra": ", El criterio , p. 218. X"
+            },
+            {
+              "texto_cita": "«Los Arvagonzález moran | Con sus mujeres en ellas [en las habitaciones].»",
+              "autor": "Machado",
+              "referencia_obra": ", Poes. complet. p. 125. — Además con hasta , para expresar el límite de la acción. X"
+            },
+            {
+              "texto_cita": "«Procuréis de morar con su padre fasta que os ella [la guerra] mande.»",
+              "autor": "Am. de Gaula",
+              "referencia_obra": "(Cl. Ebro, 62. 93)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con en , que especifica: — el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Aquí en Toledo, no mora | Fabricio?»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. (1. 457). X"
+            },
+            {
+              "texto_cita": "«Venida la ocasión, con mujeres, hijos y hacienda vinieron los pueblos enteros a morar en ella [España].»",
+              "autor": "Mariana",
+              "referencia_obra": ", ( Pagés , Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Y como tal vez llegaba a las casas de quien él sabía los sucesos de los que en ella moraban ---.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 27 (R. 1. 462 1 ). X"
+            },
+            {
+              "texto_cita": "«El uno fue Bonifacio de Verona y el otro Roger Deslau, caballero de Rosellón y muy conocido en nuestro ejército, por haber venido muchas veces con embajada del duque a nuestros capitanes cuando moraban en Casandria.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 1. 65 (Cl. C. 54. 231). X"
+            },
+            {
+              "texto_cita": "«Éste es un misterio, continuó Cervantes, que le sabemos sólo los que moramos en estas provincias.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell . (Cl. C. 66. 88)."
+            },
+            {
+              "texto_cita": "«Y ¿hay quien quiera morar en este bosque | De bandidos y monstruos?»",
+              "autor": "Lista",
+              "referencia_obra": ", El enemigo (R. 67. 298 2 ). X"
+            },
+            {
+              "texto_cita": "«Aunque mi zagal pulido | Es rey grande y yo pastora, | El allá en su corte mora.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poes. 1 (Cl. C. 47. 237). X"
+            },
+            {
+              "texto_cita": "«Moraba en esos montes una tribu guahiba, semidomada, que convino en acogernos, a condición de que admitiéramos el \"guayuco\".»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine , 2 (p. 99). — El tiempo. X"
+            },
+            {
+              "texto_cita": "«Él moraba en el principio, y principio no tenía.»",
+              "autor": "",
+              "referencia_obra": "Juan de la Cruz, Poes. (Cl. Ebro, 68. 46)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con entre , para indicar las personas con quienes se vive. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hove compassión de los unos y de los otros, y harto de ver tanta ceguedad, tanta maldad y tantas abominaciones, no quise más morar entre tal gente.»",
+              "autor": "A. de Valdés",
+              "referencia_obra": ", Diál. de Merc. y Carón, 1 (Cl. C. 96. 23). X"
+            },
+            {
+              "texto_cita": "«Os ha traído a vivir y morir entre estas soledades como bruto animal, pues moráis entre ellos tan ajeno de vos mismo cual lo muestra vuestro traje y persona.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 24 (Cl. C. 6. 261). X"
+            },
+            {
+              "texto_cita": "«No hay para odiar la tiranía como vivir bajo ella. Ni para exacerbar el fuego poético, como morar entre los que carecen de él.»",
+              "autor": "Martí",
+              "referencia_obra": ", Páginas escogidas, p. 130. — Además con para y una prop. infinitiva."
+            },
+            {
+              "texto_cita": "«¡Oh, bienaventurado tiempo en que se nos representa la venida de Dios en carne a morar entre nosotros para enseñar nuestras tinieblas, y encaminar nuestros pies en la carrera de la paz.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. (Cl. Ebro, 17. 80)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ ζ )",
+          "definicion": "Con por, para indicar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mientras el sol sus rayos muy ardientes | Con tal furia y rigor al mundo envía, | Que de ninfas la casta compañía | Por los sombríos mora y por las fuentes.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana (Cl. C. 135. 30)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ θ )",
+          "definicion": "Con sobre, para indicar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque los que moraban sobre las ruinas antiguas parecían vivir como todos, debajo se oían a veces apagados murmullos, o se encontraban residuos de huesos y escombros de palacios que fueron altaneros, o rumores o leyendas de pasiones extinguidas.»",
+              "autor": "Sábato",
+              "referencia_obra": ", Abaddón, p. 503."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Sustantivado. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh, cuán buena y alegre cosa pregonó David ser el morar los prójimos, y que se tienen por hermanos, en unidad de caridad.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 10. 5 (R. 162. 281 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esperad, que os ha de dar primero una gotera en el pecho, una gotera muy grande y muy excelente, que os haga, no tímidos ni temerosos, pero valientes y esforzados, animosos; será una caridad perfecta que echará fuera el temor, porque no pueden morar juntos.»",
+              "autor": "",
+              "referencia_obra": "Vásquez, Serm. (Cl. C. 123. 90). X"
+            },
+            {
+              "texto_cita": "«¡Oh sepulcro do mora | La alegría del cielo.»",
+              "autor": "Aldana",
+              "referencia_obra": ", Poes. (Cl. C. 143. 41). X"
+            },
+            {
+              "texto_cita": "«Este nombre no se estiende a más que a un respecto debido a la persona o casa donde la virtud mora.»",
+              "autor": "",
+              "referencia_obra": "Cortés de Tolosa, Lazarill. de Manzanares (Cl. C. 186. 113). X"
+            },
+            {
+              "texto_cita": "«Donde siempre el desorden ha morado, | Oculta la maldad de su pecado.»",
+              "autor": "Iglesias",
+              "referencia_obra": ", eleg. 4 (R. 61. 485 1 ). X"
+            },
+            {
+              "texto_cita": "«¿No sabéis cuánto dista | El alcázar insigne donde mora | Su alteza la verdad?»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb. 57 (Cl. C. 179. 76). X"
+            },
+            {
+              "texto_cita": "«Yo he cerrado detrás de mí, las puertas del templo de la Ternura, y le he vuelto la espalda, internándome silencioso en el bosque sagrado, donde moran las grandes visiones consoladoras.»",
+              "autor": "Vargas Vila",
+              "referencia_obra": ", Alba roja, p. 219."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Del deleite supremo el dulce cáliz | Me dio a gustar natura, porque sienta | El valor infinito de la dicha | Y el peso del dolor intolerable | Que para siempre morará conmigo.»",
+              "autor": "",
+              "referencia_obra": "Marchena, epíst. ( Poesía Siglo XVIII; Cl. Castal. 65. 350)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Adónde iré mejor | Que a vuesa merced, señora, | En quien tanta virtud mora, | Que os oso de mi dolor | Dar la llave desde agora?»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Obr. de amores (Cl. C. 79. 52). X"
+            },
+            {
+              "texto_cita": "«Bien sé que ella mora siempre en tu coraçón.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana (Cl. C. 135. 36). X"
+            },
+            {
+              "texto_cita": "«Cuando Dios vee al alma graciosa en sus ojos, mucho se mueve a hacerla más gracia, por quanto en ella mora bien agradado.»",
+              "autor": "",
+              "referencia_obra": "Juan de la Cruz, Cántico espiritual (Cl. C. 55. 251). X"
+            },
+            {
+              "texto_cita": "«Por cuya causa, en muchos lugares, la Escriptura dize que mora Dios en el medio del coraçón.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 4, Esposo (Cl. C. 33. 244). X"
+            },
+            {
+              "texto_cita": "«Cuerpo, no seas loco, | Por el Alma que en ti mora, | Que en la materia que toco, | Tanto estimo a tu señora | Cuanto a ti te tengo en poco.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 288). X"
+            },
+            {
+              "texto_cita": "«Dulces endechas vierte en voz süave | El pez alado que a Meandro honora | Y con velas de pluma es blanca nave | Que al morir canta y en sus ondas mora.»",
+              "autor": "Villamediana",
+              "referencia_obra": ", Obr. (Cl. Castal. 8. 249). X"
+            },
+            {
+              "texto_cita": "«Yo la vestimenta de Pierrot tenía, | Y aunque me alegraba y aunque me reía, | Moraba en mi alma la melancolía.»",
+              "autor": "Darío",
+              "referencia_obra": ", Poes. p. 197. X"
+            },
+            {
+              "texto_cita": "«Soy los pensamientos que debieron morar en tu cabeza: las obras que debieron tomar impulso de tu brazo: los bríos que debieron alentar tu corazón.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 45. X"
+            },
+            {
+              "texto_cita": "«La fuerza de transformación y de fomento que mora en aquella profundidad es infinita.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 58."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con entre . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La Pereza aun esta vez llegó tarde, y hallándolo todo embarazado, hubo de pasar a la América a morar entre los indios.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón, 1. 13 (Cl. C. 165. 213)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Tratándose de animales. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ansí vella [el ave] no podemos, | Y quien la está decubriendo, | Sabio queda en sola una hora; | Mas tal vez la conocemos, | Las paredes solas viendo | De la casa donde mora.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana (Cl. C. 135. 228). X"
+            },
+            {
+              "texto_cita": "«Niña la llevó su padre | Por las selvas espantosas | Y, entretenido en la caza | De las fieras que allí moran.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes. (Cl. C. 95. 262)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cuál es el animal que empolla y saca | Ajenos hijos que feroz devora, | Con todos vive y con ninguno mora?»",
+              "autor": "Bello",
+              "referencia_obra": ", Poes. p. 448."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni al blanco cisne que en las aguas mora | Por no morir como Faetón en fuego, ---.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Obr. égl. 2 (Cl. C. 3. 41). X"
+            },
+            {
+              "texto_cita": "«Como mariposas de esas que moran en los estantes de las bibliotecas, empapa sus alas en el polvo secular de aquellos pergaminos marchitos como el pasado y amarillos como la muerte.»",
+              "autor": "Nervo",
+              "referencia_obra": ", Est. lit. 4 ( Obr. complet. 2. 15)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Refrán: quien cabo maI vecino mora, horas canta y hora llora. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dezimos también de mora morar, que quiere dezir habitare , como parece por el refrán que dize: Quien cabo mal vezino mora, horas canta y horas llora. »",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Cl. C. 86. 189)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ocupar, poblar, habitar un determinado lugar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Morar los montes yermos y fragosos | A ti, ni la cabaña desagrade.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. trad. égl. 2. Virgilio ( Fern. 10. 84)."
+            },
+            {
+              "texto_cita": "«Que nunca de mí fueron conocidos | El mentir ni el fingir, ni sé la hora | Cuando en breve mis días fenecidos, | Me llevará ante sí el que el cielo mora.»",
+              "autor": "",
+              "referencia_obra": "Id. Expos. de Job , 2. 32 (2. 154)."
+            },
+            {
+              "texto_cita": "«Con los que moran la región escura | Y triste, con aquellos soy contado.»",
+              "autor": "Fern.",
+              "referencia_obra": "10. 278)."
+            },
+            {
+              "texto_cita": "«El salmo hace morar los desiertos y vivir con templanza en las ciudades.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y medit. 3. 1 (2. 303 2 ). +"
+            },
+            {
+              "texto_cita": "«Nortmanos o nortmandos --- es palabra que significa varones que moran la tierra del norte.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 6. 14 (R. 162. 30 2 ). X"
+            },
+            {
+              "texto_cita": "«Si todos se fuessen a morar a los yermos, ya los yermos no serían yermos, sino ciudades, y las ciudades se tornarían en yermos.»",
+              "autor": "",
+              "referencia_obra": "Pinto, Diál. 2 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«La parte de aquella ciudad que moraban los Griegos venidos Phocea ---, se mantenían en la devoción los romanos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 25 (1. 94 1 ). X"
+            },
+            {
+              "texto_cita": "«Diga el señor Juan Alonso de Buena que esté cierto le serviré en lo de la casa como tengo obligación, no aviendo de ir oi a morarla.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. (3. 239). X"
+            },
+            {
+              "texto_cita": "«Quantos las aguas moran | Antiguos Dioses; Deidades nuevas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (1. 272). X"
+            },
+            {
+              "texto_cita": "«¿Persuadiraste a creer | Que Mahoma, para ver | Los palacios que Alá mora, | Suba por una escalera | A los siete Paraísos | Que nos vende?»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los lagos (NBAE. 9. 35). X"
+            },
+            {
+              "texto_cita": "«Trata en pastores Lucrecia | (Que caballeros desprecia, | Después que estos campos mora) | Y yo invito a la a la señora, | Ya sea cuerda, ya necia.»",
+              "autor": "",
+              "referencia_obra": "Id. La ninfa del Cielo (NBAE. 4. 442)."
+            },
+            {
+              "texto_cita": "«No quiera Dios que imite estos varones, | Que moran nuestras plazas macilentos, | De la virtud infame histriones.»",
+              "autor": "Rioja",
+              "referencia_obra": ", Epíst. moral ( Fern. 18. 79). X"
+            },
+            {
+              "texto_cita": "«\"Mansión de eterna vida mora el justo | Que muere en el Señor\". Vive, mi amigo; | Y vive para ti.»",
+              "autor": "Lista",
+              "referencia_obra": ", A Silvio ( Poesía Siglo XVIII; Cl. Castal. 65. 391)."
+            },
+            {
+              "texto_cita": "«Ni ¿quién al egido, | Que moras tú, robarme?»",
+              "autor": "Lista",
+              "referencia_obra": ", A la resurrección (R. 67. 283 1 )."
+            },
+            {
+              "texto_cita": "«Doctas Pimpleas, que las verdes faldas | Moráis alegres del feliz Parnaso.»",
+              "autor": "",
+              "referencia_obra": "Id. A las musas (R. 67. 288 2 ). X"
+            },
+            {
+              "texto_cita": "«Llegaremos un día, | Y tanta ruina | De la fantasma casa | Será esplendor, puesto que el hombre entonces | Vendrá a morarla.»",
+              "autor": "Pellegrini",
+              "referencia_obra": ", Antol. p. 132."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , que expresa la compañía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El dulce valle que moré contigo, | Ya es triste y enojoso.»",
+              "autor": "Lista",
+              "referencia_obra": ", La ausencia (R. 67. 328 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bisagra un duro grillo abrazadora, | Une el sagrado pie siempre inocente, | Con el de un joven, que la cárcel mora | Por secuaz de Loyola.»",
+              "autor": "Domínguez Camargo",
+              "referencia_obra": ", Obr. (ICC. 15. 267)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl. Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La zona de enmedio que se llama la tórrida q[ue] está debaxo del cérculo oquinocial se mora en muchas partes porque Tolomeo pone por abitable la ysla trapobana.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Alcázar imperial (BALH. 18. 81)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuevas do el silencio apenas | Deja que sombras las moren | Profanas con sus abrazos | A pesar de sus horrores.»",
+              "autor": "Góng.",
+              "referencia_obra": "Poes. (Cl. Ebro, 11. 33). X"
+            },
+            {
+              "texto_cita": "«Cueuas do el silencio apenas | Dexa que sombras las moren.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. (1. 228)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Referido a los animales. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el verano moran las grúas la tierra de Tracia.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 13. 24 (R. 162. 471 2 ). X"
+            },
+            {
+              "texto_cita": "«Nuestros nobles caballos relinchando | Regias habitaciones morarán.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poes. 1 (Cl. C. 47. 134). X"
+            },
+            {
+              "texto_cita": "«Es el Istro undoso río, | En cuyas serenas ondas, | Cisnes de plata viviente | Albergues de cristal moran, | Siendo huéspedes del agua, | En vez de cerúleas ovas, | Peces de nieve que dulces | Escamas de pluma adornan.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 13)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sábete que ya no quiero | Por esta sierra morar.»",
+          "autor": "Encina",
+          "referencia_obra": ", Poes. lír. (Cl. Castal. 62. 233). X"
+        },
+        {
+          "texto_cita": "«Fui para donde morava | Aquélla que más quería, | Por quien yo triste penava, | Mas ella no parecía.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (Cl. Castal. 62. 96). X"
+        },
+        {
+          "texto_cita": "«Scotia es comarca non lexos de hibernia iunta a bretaña o anglaterra... los que la moran llaman scotos.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab. 440d. X"
+        },
+        {
+          "texto_cita": "«Mora tardança... es morari gastar tiempo baldío dilatar, alongar, morar, tardar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 288b. X"
+        },
+        {
+          "texto_cita": "«Erebus es profundidad infernal apartada y es... la parte de infierno do dizían morar los que bien viuieran los cuales no venían a los campos elisios fasta ser purgados.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 138b. X"
+        },
+        {
+          "texto_cita": "«Contubernium es morar iuntos a tiempo llegándose a estar o a beuir en vno segund en el exercicio militar que vnas vezes van acá y otras allá los guerreros de vna compañía.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 93b. X"
+        },
+        {
+          "texto_cita": "«Como fue sentido por los moros que en aquellas partes moran, juntáronse grand multitud dellos, e antes que se pudiese proueer, le cercaron por todas partes.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 5 (Cl. C. 49. 50). X"
+        },
+        {
+          "texto_cita": "«Mas la alta perfeçión | Que en ella siempre morava, | Con pesada discreçión | Sojuzgava el coraçón | En tanto que el rey hablava, | Mas acabado a desora.»",
+          "autor": "Mendoza",
+          "referencia_obra": ", Canc. (Cl. C. 163. 84). X"
+        },
+        {
+          "texto_cita": "«¡O letor!, tú te adevinas | Que tras las ricas cortinas | Moran sierpes peligrosas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (Cl. C. 163. 42). X"
+        },
+        {
+          "texto_cita": "«El biuir qu’es perdurable | Non se gana con estados | Mundanales, | Nj con vida delectable | Donde moran los pecados jnfernales.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Canc. (Cl. C. 94. 107). X"
+        },
+        {
+          "texto_cita": "«Et mandat que nos den una posada muy buena en el vuestro alcázar, do non nos fagan ningún embarazo en cuanto y hobrésemos a morar.»",
+          "autor": "Pagés",
+          "referencia_obra": ", Dicc. ). X"
+        },
+        {
+          "texto_cita": "«Es avariçia, do quiera que mora, | Viçio que todos los bienes confonde, | De la ganançia, do quier que se esconde, | Una solíçita inquisidora.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. (Cl. C. 119. 56). X"
+        },
+        {
+          "texto_cita": "«Sy non que mi Señor me ayuda, poco menos en el ynfierno morara ya la mi ánima.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Corbacho (Cl. Castal. 24. 230). X"
+        },
+        {
+          "texto_cita": "«¿Que cuydas que farán los pobres doloridos | Que moran en las casas de lodo aborridos?»",
+          "autor": "Pal.",
+          "referencia_obra": "( Pagés , Dicc.). — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«Quiero yr a Alcalá e moraré y la feria, | Dende andaré la tyerra, dadno a muchos laseria.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 313 (Cl. C. 17. 169). X"
+        },
+        {
+          "texto_cita": "«A Jonás, el Profeta, del vientre de la ballena, | En que moró tres días dentro en la mar llena, | Sacástelo tú sano, como de casa buena.»",
+          "autor": "",
+          "referencia_obra": "Id. 5 (Cl. C. 14. 4). +"
+        },
+        {
+          "texto_cita": "«El infante Roboán moró en aquella çibdat fasta que vino el Caballero Amigo.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 186 (p. 399). +"
+        },
+        {
+          "texto_cita": "«A la buena dueña dio sus cámaras do el moraua.»",
+          "autor": "",
+          "referencia_obra": "Ib. 84 (p. 171). +"
+        },
+        {
+          "texto_cita": "«Por mío acuerdo tu te yras morar a aquel regno de Menton.»",
+          "autor": "",
+          "referencia_obra": "Ib. 83 (p. 169). +"
+        },
+        {
+          "texto_cita": "«Falló [el Cauallero Zifar] vna hermita de vn ome bueno sieruo de Dios que moraua en ella.»",
+          "autor": "",
+          "referencia_obra": "Ib. 51 (p. 106). — Siglo XIII: +"
+        },
+        {
+          "texto_cita": "«Han [en el rregno de Seuilla] lo que an mester para los que y moran e para abondar las otras tierras, leuándolo por tierra e por mar.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Seten. ley 10 (p. 20). +"
+        },
+        {
+          "texto_cita": "«El [Dios] mora en todo e por todo quanto ffizo, que es muy luengo de contar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. ley 1 (p. 6). +"
+        },
+        {
+          "texto_cita": "«Mató [Josué] al linage de Enachín que morauan en las montañas.»",
+          "autor": "",
+          "referencia_obra": "Id. General estoria, 2. 1 (Josué, 57. 72). +"
+        },
+        {
+          "texto_cita": "«La paloma mora sienpre en alto.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1 (p. 211). X"
+        },
+        {
+          "texto_cita": "«¡Qui allí se morasse seríe bien venturado!»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. intr. (Cl. C. 44. 4). X"
+        },
+        {
+          "texto_cita": "«Por ganar la tu gracia fizi obedïencia, | Por vevir en tormento, morar en penitencia.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Dom. (Cl. Castal. 49. 80). X"
+        },
+        {
+          "texto_cita": "«Alçose a los yermos, do omnes non moravan.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (Cl. Castal. 49. 73). X"
+        },
+        {
+          "texto_cita": "«Por es[s]o vos [lo] digo que byen lo entendades, | Mejor es dotrras tierras en la que vos morades, | De todo bien conplida en la que vos estades.»",
+          "autor": "",
+          "referencia_obra": "Fern Gonz. 5 (Cl. C. 128. 44). X"
+        },
+        {
+          "texto_cita": "«Quando reynó [ don ] Çi[ n ]dus, vn buen guerreador, | Era San Evgenio d’espannones pastor, | | En Toledo morava est santo confessor, | Ysydrro en Sevylla arçobyspo e sen[ n ]or.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2 (Cl. C. 128. 7). X"
+        },
+        {
+          "texto_cita": "«Non moraban y monges mas calongia | Cuyo hábito don Alfonso tomar quería.»",
+          "autor": "",
+          "referencia_obra": "Vida de S. Idelf. (ICC. 36. 196). X"
+        },
+        {
+          "texto_cita": "«E díxo-les: Mostrád-me-lo. E dixiéron-le: En los fonsarios mora todavía.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", p. 133. X"
+        },
+        {
+          "texto_cita": "«Ressucitó a gra n t esfuerço; | A los varones apa r eció, | Con e llos xl días moró, la ley nueua les mostró, | Enla boca los besó.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egip. (RAE. 126). — Siglo XII: X"
+        },
+        {
+          "texto_cita": "«Venidos son a Castiella aquestos ospedados, | El Çid e sos hyernos en Valençia son rastados. | Y moran los ifantes bien cerca de dos años, | Los amores que le fazen mucho eran sobejanos.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2271 (Cl. C. 24. 226)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Voz culta tomada del lat. morari ‘detener, entretenerse, quedarse, permanecer’. Port. morar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

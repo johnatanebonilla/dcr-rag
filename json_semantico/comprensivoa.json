@@ -1,0 +1,69 @@
+{
+  "lema": "COMPRENSIVO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que comprende, contiene o incluye. Con de , para denotar lo comprendido.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Habiéndose concluído, impreso y publicado en el año de 1567 en dos tomos comprehensivos de nueve libros.»",
+          "autor": "",
+          "referencia_obra": "Nov. Recop . 1, p. XL."
+        },
+        {
+          "texto_cita": "«Prescindo de las dificultades que ofrece la ejecución de un reglamento comprensivo de todas las manufacturas que pueden trabajarse sin sujeción á gremios.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 40. 33 1 )."
+        },
+        {
+          "texto_cita": "«Acostumbraban --- presentarle un tomo ó cuaderno comprehensivo de los principales puntos que convenía discutir y resolver.»",
+          "autor": "",
+          "referencia_obra": "Martínez Marina, Origen de la monarq. p. 77."
+        },
+        {
+          "texto_cita": "«Aplaudióse entonces universalmente el decreto acordado en aquel día, comprensivo de las proposiciones formalizadas por los señores Muñoz Torrero y Luján.»",
+          "autor": "Toreno",
+          "referencia_obra": ", Hist . 13 (R 64. 289 1 )."
+        },
+        {
+          "texto_cita": "«El se presentó con un escrito en que había treinta proposiciones comprensivas de todo lo que pensaba, respecto de lo hecho en Indias.»",
+          "autor": "Quint.",
+          "referencia_obra": "Las Casas (R. 19. 473 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Que tiene facultad ó capacidad de comprender ó entender.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Solo el Padre conoce la persona y esencia del Hijo, y el Hijo la persona y esencia del Padre, con noticia perfecta y comprehensiva.»",
+          "autor": "",
+          "referencia_obra": "Fonseca, Vida de Cristo , 4, pl. 228 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«En esto no quiere decir el apóstol, que el conocimiento que tendremos de Dios en la gloria, será igual al que Dios tiene de nosotros, sino solamente semejante; porque el nuestro será intuitivo, y solo el de Dios es comprensivo.»",
+          "autor": "Scío",
+          "referencia_obra": ", S. Pablo , Cor . 1. 13. 12, nota ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. comprehensivo; prov. comprehensiu; fr. compréhensif; it. comprensivo : del lat. comprehensivus , derivado de comprehendere , comprender.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr. y pros.",
+      "definicion": "Tiene todavía algún uso comprehensivo . Véase COMPRENDER. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

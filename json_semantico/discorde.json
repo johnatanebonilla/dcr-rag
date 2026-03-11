@@ -1,0 +1,179 @@
+{
+  "lema": "DISCORDE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que no es del mismo querer, parecer ó juicio que otro.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tenía particular cuidado de hacer amistades entre personas discordes.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS . 1º. de Abril ."
+            },
+            {
+              "texto_cita": "«Se ha de desear --- que los malos estén discordes, para que no ofendan á los buenos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 89 (R. 25. 236 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con la venida deste socorro --- se quitó el poder de alterarse á los discordes contra los cartagineses.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 19 (R. 30. 25 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el punto en que consiste la desconformidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y es cosa de admiración que con ser tantas las diferencias de naciones y sectas que hay en el mundo, y tan enemigas entre sí, y tan discordes en todas las cosas ---en una sola son concordes, que es en despreciar, maltratar y vejar esta pobre gente.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4. 18 (R. 6. 522 1 )."
+            },
+            {
+              "texto_cita": "«Uniéronse, es verdad, á la vista del común peligro --- aunque se hubiesen antes mostrado discordes en pareceres.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 4. 17 (5. 282)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con sobre , para expresar el punto acerca del cual se discurre con variedad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los historiadores están discordes sobre á quién de ellos embistió primero.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cid (R. 19. 203 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Así como en latín no se tiene en cuenta la idea de divergencia sino la de no conformidad ( discors secum , patri ), así en castellano se usa con más bien que de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cómo sentirá el armonía aquel que consigo está tan discorde?»",
+              "autor": "",
+              "referencia_obra": "Celest . 1 (R. 3. 6 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado á cosas, De diversa naturaleza ó cualidades.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es muy conveniente, dice Platón, que los esclavos no sean de un mismo país, y que en cuanto fuere posible sean discordes sus costumbres y voluntades.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 15 (1. 217)."
+            },
+            {
+              "texto_cita": "«Las palabras y los discordes gritos se confundían, imposibilitando todo concierto.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 5 (5. 55). —"
+            },
+            {
+              "texto_cita": "«Que si tus apariencias no lo quitas, | Presto ha de verse el mundo en la pelea | De la discorde confusión primera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 27 (R. 1. 320 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un compl. recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Defensas en que los hechos se confunden las épocas se alteran --- se comparan los objetos más discordes entre sí.»",
+              "autor": "Mor.",
+              "referencia_obra": "Derr. de los pedantes (R. 2. 568 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Falto de consonancia, disonante.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Súbito en triste tono levantaba | Un alboroto y doloroso llanto, | Que el gran desastre más solemnizaba, | Y al són discorde y áspera armonía | La casa más vecina respondía.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 7 (R. 17. 27 2 )."
+        },
+        {
+          "texto_cita": "«Estaban como lobos carniceros | Sobre la mansa oveja desmandada, | Cuando discordes con aullidos fieros | Forman música en vozdesentonada.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 6 (R. 17. 24 2 )."
+        },
+        {
+          "texto_cita": "«El enojoso | Sonar de las discordes campanillas.»",
+          "autor": "Jovell.",
+          "referencia_obra": "epíst . á sus amigos de Sev. (R. 46. 39 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Asi los llorantes e los que reyan | Con bozes discordes el campo atronauan.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr . 1, p. 104."
+        },
+        {
+          "texto_cita": "«Señora muy eçelente, | Noble reyna doña Juana, | A quien fuera la mançana | Discorde propio presente.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1, p. 183."
+        },
+        {
+          "texto_cita": "«Tuvo manera quel rey mandase, quando estos cinco fuesen discordes en el consejo, que lo que la mayor parte dixese, aquello se librase.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II , 13. 6 (R. 68. 379 1 )."
+        },
+        {
+          "texto_cita": "«Algunos de los de su consejo eran discordes.»",
+          "autor": "Seg. de Tordes.",
+          "referencia_obra": "82 (110 1 )."
+        },
+        {
+          "texto_cita": "«Piensa que su poder et su voluntad sean diversas cosas et discordes.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 7 (R. 36. 350 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., it. discorde ; cat. discort ; fr. discord: del lat. discordem , discors , compuesto del prefijo dis , que denota divergencia, y cor , corazón, ánimo, espíritu. Véase C ONCORDE . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

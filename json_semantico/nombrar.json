@@ -1,0 +1,752 @@
+{
+  "lema": "NOMBRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Denominar ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que yo llamo gusto de Dios, que en otra parte lo he nombrado oración de quietud, es muy de otra manera.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 4. 2. (Cl. C. 1. 64). X"
+            },
+            {
+              "texto_cita": "«A Jerwis le nombraba como los mismos ingleses, esto es, Viejo zorro.»",
+              "autor": "",
+              "referencia_obra": "P. Galdós, Trafalgar, 4. (p. 34). X"
+            },
+            {
+              "texto_cita": "«Así lo nombran, Cachafaz a secas. Es un zagalón retostado, sin otro rasgo notable que sus dientes, muy y muy blancos.»",
+              "autor": "Barrios",
+              "referencia_obra": ", Gran señor y rajadiablos, p. 150."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—α α )",
+          "definicion": "Con la prep. con, para señalar el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los cuales vocablos [de la lengua arábiga] tomamos de los moros con las mesmas cosas que nombramos con ellos.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. ( Mayáns , Oríg. leng. esp. p. 81). X"
+            },
+            {
+              "texto_cita": "«Y avéis de saber que, aunque para muchas cosas de las que nombramos con vocablos arávigos tenemos vocablos latinos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (Cl. C. 86. 29). X"
+            },
+            {
+              "texto_cita": "«Comúnmente se platica: que el marido de la mujer adúltera, puesto que él no lo sepa, ni haya dado ocasión para que su mujer no sea la que debe, no haya sido en su mano, ni en su descuido y poco recato, estorbar su desgracia, con todo, le llaman y le nombran con nombre de vituperio y bajo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 33 (Cl. C. 8. 196)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No obstante que sea encarecimiento, los nombramos por hermanos, pues tienen otras más propias maneras de hablar, sin preguntar si está en la tierra vivo el que nunca fue al cielo y está presente.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 39)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La luz del orbe y la flor d’ España --- | Doña Anna d’ Aragón se nombra y llama, | A do paró el amor, cansó la fama.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, p. 207. X"
+            },
+            {
+              "texto_cita": "«Mudanza ya, que no mujer, se nombra | Pues cuando más segura, quien la tiene, | Tiene polvo, humo, nada, viento y sombra.»",
+              "autor": "Lope",
+              "referencia_obra": ", Poes. lír. (Cl. C. 68. 188). X"
+            },
+            {
+              "texto_cita": "«Ya de horror y asombro lleno | Vio la imagen, pues su seno | Penetr[a] horror, que se nombra | llusión, letargo y sombra | Frenesí, olvido y veneno.»",
+              "autor": "Cald.",
+              "referencia_obra": "Autos, 1 (Cl. C. 69. 45). X"
+            },
+            {
+              "texto_cita": "«Si en presencia de la torre de los Calderones no pude menos de sentir en mi propia sangre la importancia del nombre (nada es si no se nombra); crear es bautizar.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 201."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por, para señalar la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se intitulauan la Vigornia y por este nombre eran conocidos en todo Campos, y por esto solían también nombrarse los Campeones.»",
+              "autor": "Píc. Just.",
+              "referencia_obra": "(1. 105)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El Hombre soy, a Asturias inclinado, | Y por serlo hoy Ulises me he nombrado, | Que en griego decir quiere, | Contentoso, y así, quien ya quisiere, | Corra las líneas de la suerte mía.»",
+              "autor": "Cald.",
+              "referencia_obra": "Autos, 2 (Cl. C. 74. 70). X"
+            },
+            {
+              "texto_cita": "«También el Rey un momento | Afable al corro acercose, | Hablando de una comedia | Que salió al público entonces, | Y cuyo autor se nombraba | Un ingenio de esta corte.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Rom. (Cl. C. 9. 77)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. Con por, para señalar la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Montano, cuyo nombre es la primera | Estrellada señal por do camina | El sol el cerco oblicuo de la esfera | Nombrado así por voluntad divina.»",
+              "autor": "Aldana",
+              "referencia_obra": ", Poes. (Cl. C. 143. 57). X"
+            },
+            {
+              "texto_cita": "«Mas en tanto que damos vista a las Canarias, passamos el temeroso golfo de las Yeguas, nombrado assí por las que en él se le perdieron a su mayor explorador.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 1. 21 (Cl. C. 202. 198)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Citar, mencionar, decir el nombre de una persona o cosa ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y desta manera fue nombrando muchos caballeros del uno y del otro escuadrón, que él se imaginaba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 18 (Cl. C. 6. 83). X"
+            },
+            {
+              "texto_cita": "«Sancho, que avía estado escuchando al mensajero, haziéndosele la boca agua de oýr nombrar albondiguillas y manjar blanco, le dijo: ---.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 6. 13. (Cl. C. 175. 22). X"
+            },
+            {
+              "texto_cita": "«Si yo nombraba a Jesús, mi hermana a su madre María, no teníamos otra comunicación sino ésta. Hicimos voto en voz de vivir y morir en la religión cristiana.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 16 (Cl. C. 51. 247). X"
+            },
+            {
+              "texto_cita": "«¡No la nombres! (rugió como un tigre). ¡No la nombres, que tu boca la infamaría sólo con mentarla! ¡No la nombres, o te mato aquí mismo!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El escándalo, 2 (Cl. C. 178. 132). X"
+            },
+            {
+              "texto_cita": "«Y eterno es mi dolor, que aún el agudo | Dardo yo siento en la cerrada llaga | Cuando una voz la nombra.»",
+              "autor": "Querol",
+              "referencia_obra": ", Poes. (Cl. C. 160. 80). X"
+            },
+            {
+              "texto_cita": "«Ay Ramón, ¿no te digo que estás raro? | — El cáncer es cada día más vulgar y menos raro. | — Ya lo sé, pero yo tengo una superstición. | Me parece que si no lo nombro, estoy a salvo.»",
+              "autor": "Benedetti",
+              "referencia_obra": ", Gracias por el fuego, 6 (p. 107)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con dat. Además con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay quien resista, | Pedro, vuestras sinrazones: | ¿Esa fiera me nombráis | Por consuelo cuando os vais?»",
+              "autor": "Lope",
+              "referencia_obra": ", Servir a señor discreto (Cl. Castal. 68. 179)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con, para señalar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cervantes apreciava como devía la memoria de un príncipe i señor suyo de tanto valor i de tan heroicas virtudes, i muchas veces le nombró con la mayor veneración.»",
+              "autor": "Mayáns",
+              "referencia_obra": ", Vida de Cerv. p. 139. — Además con por, para señalar el medio. X"
+            },
+            {
+              "texto_cita": "«Y apenas lo uvo començado a poner por obra, quando la devotíssima imagen de la Virgen la nombró por su nombre con una voz como de reprehesión.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 6. 19 (Cl. C. 175. 134)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con desde. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde agora os nombro el lugar para el dicho combate, sobre el río que passa entre Fuenterrabía y Andaya.»",
+              "autor": "A. de Valdés",
+              "referencia_obra": ", Diál. de Merc. y Carón, 2 (Cl. C. 96. 245)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con en, para señalar: — el lugar. X Algunos nombra en su Biblioteca don Nicolás Antonio, de los cuales no tuvo noticia sino por autores extranjeros.» Feijoo, Cartas eruditas (Cl. C. 85. 154). X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con todo, como puede ser gustoso a algunos leer otras historias que allí hay escritas de muy curiosa invención y pasatiempo, doy el título de dicho libro que está en el museo de Londres y nombran en su catálogo.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poes. (Cl. Castal. 20). — La ocasión. X"
+            },
+            {
+              "texto_cita": "«Siete cosas leí que aún no las he oído nombrar en mi vida.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 82). X"
+            },
+            {
+              "texto_cita": "«En nada de esto consiste la exactitud. Y los que lo enseñan corrompen las artes con su tartarismo. Se te ofrecerá muchas veces haber de nombrar en tus versos quatro o seis hombres de la antigüedad.»",
+              "autor": "Forner",
+              "referencia_obra": ", Los gramáticos (Cl. C. 168. 62)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con entre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vno dezía venir del claro, y alto | Insuperable Alcides, y de Thebas, | Entre su antigüedad otro nombraua, | Baco por principal, otro Mercurio.»",
+              "autor": "Aldana",
+              "referencia_obra": ", Obr. complet. (BALH. 22. 56). — Además con a, para señalar el tiempo. X"
+            },
+            {
+              "texto_cita": "«A pesar de su obstinado silencio, le nombró entre sus cómplices a la séptima vuelta del tormento.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La conjuración de Venecia, 5 (Cl. C. 107. 384)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ ζ )",
+          "definicion": "Con para. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conque, así, tan sólo usted | Puede con dulzura y maña | Cortar el lance. Mas cuenta | No me nombre para nada; | Que no quiero que ninguno | Me tome ojeriza ¡Guarda!»",
+              "autor": "Gonz. del Castillo",
+              "referencia_obra": ", La madre hipócr. (Cl. Esp. 3. 131)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η η )",
+          "definicion": "Con un gerundio que expresa el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ni siquiera me has preguntado, por vuestra hija! Quedé un momento turbado, porque apenas hacía memoria. --- No me atreví. —¿Por qué? —No quería nombrarla viniendo en aventura con el Rey.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Sonata de invierno, p. 130."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Poco tiempo después, salió de Mendoza el general don Juan Jofré, con alguna gente a descubrimiento hacia el norte, y descubrió, en efecto, varios valles que no se nombran, si no es el de Tulún.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Prov. p. 20."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para señalar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el texto sagrado | Cuántas veces las aguas se han nombrado.»",
+              "autor": "Cald.",
+              "referencia_obra": "Autos, 2 (Cl. C. 74. 70). — La ocasión. X"
+            },
+            {
+              "texto_cita": "«Abraham fue su padre, no se nombre primero en el linaje del Redentor.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. 3. 20 (Cl. C. 105. 202)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con entre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Palabras torpes y locas, y chucarrerías o truhanerías que no convienen para la gravedad de nuestro instituto, no se nombren entre vosotros.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 2. 10. (Cl. C. 97. 153). X"
+            },
+            {
+              "texto_cita": "«Era la historia de su vagar sin rumbo ni objeto, al azar de una aventura fácil, dejando por el trayecto sus cantares y sus fantasmas, cada vez que a solas se nombraba, desintegrándose a fuerza de andar señero bastándose a sí mismo.»",
+              "autor": "Gallegos",
+              "referencia_obra": ", Cantaclaro, p. 211."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por, para señalar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó mi don Hilarión a buscar a don Eleuterio para dar con él en la chimenea. Andaba de aquí para allí desojándose. Pero, cayendo en que se nombraba el libro por el autor, dixo: —¡Pataratas! ¡Melindres!»",
+              "autor": "Forner",
+              "referencia_obra": ", Los gramáticos (Cl. C. 168. 128)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Señor don Carlos primero, | Y doña Mencía, octava | Maravilla, más famosa | Que no las siete nombradas.»",
+              "autor": "",
+              "referencia_obra": "M. de Amescua, La Fénix de Salam. 3. (Cl. C. 82. 142)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por quien su lugar [Toboso], será famoso y nombrado en los venideros siglos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 32 ( Dicc. Autor. ). X"
+            },
+            {
+              "texto_cita": "«Llevé a la frente el nombre de algún ilustre personage; o para ser más comúnmente nombrado en las conversaciones de los Eruditos.»",
+              "autor": "Forner",
+              "referencia_obra": ", Declam. contra la charl. p. 31."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Don Eugenio, que es el nombrado, me enseñó las riquezas de su iglesia parroquial.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 87."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Designar a alguien para un cargo o empleo ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De casualidad oí decir esta mañana al de Historia Natural que le han nombrado jurado para los premios de San Antón.»",
+              "autor": "Delibes",
+              "referencia_obra": ", Diario de un cazador, p. 101. X"
+            },
+            {
+              "texto_cita": "«Y que dende aquel momento | Me nombraba de sargento | Pa que mandara la gente.»",
+              "autor": "J. Hernández",
+              "referencia_obra": ", Martín Fierro, 1. 12 (p. 252). — Con a. X"
+            },
+            {
+              "texto_cita": "«Yo moví influencias y lo hice nombrar a pesar de que ocupaba el segundo lugar en la terna.»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno, 7 (p. 253)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un predicado que designa el cargo o empleo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde 1821 en que había sido nombrado cura, los gobiernos sucesivos de la provincia le habían prohibido entrar en funciones, por librarse de las malas artes de aquel caudillo del fanatismo.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Prov. p. 49. X"
+            },
+            {
+              "texto_cita": "«Para que me pisotee, para que me entregue a los tribunales, para que castigue, en fin, todas mis antiguas fallas, ya que Dios omnipotente lo ha nombrado ministro de su justicia.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El escándalo (Cl. C. 178. 212). X"
+            },
+            {
+              "texto_cita": "«Pizarro todavía parece ser el porquero de Extremadura. Hay que nombrar a un capitán del común. ¿Quién puede ser? La respuesta es unánime: ¡Que sea Vasco Núñez de Balboa!»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 4 (p. 69). — Además con en. X"
+            },
+            {
+              "texto_cita": "«A mí, que por más servicios | Nombró en la elección primera | Del pueblo primer Tribuno.»",
+              "autor": "Cald.",
+              "referencia_obra": "Las armas de la hermosura, 1 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo más que logró, fue que le nombrasen un Vicario.»",
+              "autor": "Isla",
+              "referencia_obra": ", Año christ. 31 (p. 485)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para y una prop. infinitiva, que expresa la finalidad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto fue quizá lo más arduo— buscaron y nombraron un juez para juzgar al juez.»",
+              "autor": "Borges",
+              "referencia_obra": ", El hombre ( El Aleph , p. 151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con por , para señalar el cargo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde la eternidad, antes que el cielo | Amaneciese al mundo el primer día, | Nombrado, oh gran Felipe, | Dios te había | Por rey universal de todo el suelo.»",
+              "autor": "Aldana",
+              "referencia_obra": ", Poes . (Cl. C. 143. 20). X"
+            },
+            {
+              "texto_cita": "«Envió sus probisiones en que mandó que por quanto convenía mudarse la forma del gobierno de aquella rrepública, nonbraua por duque d´ella Alexandro de Médizis.»",
+              "autor": "Jmz. de Quesada",
+              "referencia_obra": ", El Antijovio (ICC. 10. 238). X"
+            },
+            {
+              "texto_cita": "«Nombraron a Diego Centeno por capitán general, el qual nombró capitanes de pie y de caballo, y comenzó a juntar gente, y proveerse con gran diligencia de armas.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Coment. ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. Con un predicado que designa el cargo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Agustín, el heroico soldado cantado por Ercilla, el más famoso y travieso de todos, el que fue nombrado, al final de su vida, gobernador del Tucumán.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Zogoibi , p. 46. X"
+            },
+            {
+              "texto_cita": "«En 1869 fue nombrado sargento de la policía rural.»",
+              "autor": "Borges",
+              "referencia_obra": ", Biogr. de Tadeo ( El Aleph , p. 57). X"
+            },
+            {
+              "texto_cita": "«El siete de febrero de 1941 fui nombrado subdirector del campo de concentración de Tarnoitz.»",
+              "autor": "",
+              "referencia_obra": "Id. Deutsches Reqiem ( El Aleph , p. 87)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , para señalar el tiempo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por iniciativa del señor Caballero, fue Mutis nombrado botánico y astrónomo del rey, al mismo tiempo que director de la expedición botánica.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños , 2 (p. 132). X"
+            },
+            {
+              "texto_cita": "«A la muerte de Francisco, Elías fue nombrado sucesor.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda , 1 (p. 17)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por , para señalar el agente. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Renunció con Rivadavia, hasta que con la revolución de lo de Diciembre fue nombrado de nuevo ministro por el gobierno provisorio.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Prov . p. 44. X"
+            },
+            {
+              "texto_cita": "«Supo que estaba vacante la cátedra de elocuencia en Milán, y después de un examen en que venció a todos sus competidores, fue nombrado por Símaco, prefecto de Roma.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Est. disc. p. 282."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Con desde. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde hoy queda usted nombrado director de las bandas del ejército con sueldo de capitán. Deme usted la mano.»",
+              "autor": "Palma",
+              "referencia_obra": ", Trad. peruanas, p. 350."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con para, que expresa la finalidad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandó tomar por minuta las personas menesterosas de la ciudad, su estado y calidad: y según essa por personas nombradas para su visita, las remediaba.»",
+              "autor": "Fuenmayor",
+              "referencia_obra": ", Vida de S. Pío V, fol. 27 ( Dicc. Autor. ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En el siguiente ejemplo, Constituir, instalar. Pas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Queda encargado de recaudar las cuotas, y de preparar, de acuerdo con la comisión que será nombrada mañana, todo lo que conduzca a hacer una ovación digna de la gran figura que ha salvado al gobierno.»",
+              "autor": "R. Silva",
+              "referencia_obra": ", Artíc. cost. p. 81."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Famoso ( part. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Humíllese, pues, a la verdad la infidelidad, y, convencida, confiese que Cristo, nuestro bien, no es invención del demonio, sino verdad de Dios y fuerça suya y su justicia y su valentía y su nombrado y poderoso Braço.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Braço (Cl. C. 33. 85). X"
+            },
+            {
+              "texto_cita": "«No puedo dejar de admirarme de ver cómo haya sido imposible que en la compañía de las ovejas, en la soledad de los campos, se puedan aprender las ciencias que apenas saben disputarse en las nombradas universidades, si ya no quiero persuadirme a lo que primero dije.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2. (Cl. C. 155. 72)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para señalar aquello que constituye la fama. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si alguna pena teneís en vuestro corazón, más es por la opinión que teneís que por la vida que pasáis. Acá, señor, en España érades muy bien afamado y nombrado de montero famoso, de bolar una garza, matar un puerco, jugar a la primera.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. 1. 62 (Cl. Esp. 10. 426)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En comparativo, con valor ponderativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llevole a aquella parte el buen agüero, | De aquella tierra de Alba tan nombrada, | Que este es el nombre della, y dél Severo.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Obr. 2 (Cl. C. 3. 83). X"
+            },
+            {
+              "texto_cita": "«Que se quería ahora hacer santa, porque está claro que luego mudaría vestido y todo lo demás, pues ahora se dice a personas que no son tan nombradas ¿qué sería entonces?»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 7. 4 (Cl. C. 1. 249). X"
+            },
+            {
+              "texto_cita": "«Y el que está al izquierdo lado, | Si bien no es menos estrecho, | Hace camino derecho | Al desierto tan nombrado | De la Tebaida de Egipto.»",
+              "autor": "M. de Amescua",
+              "referencia_obra": ", La mesonera (Cl. C. 171. 119)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En superlativo relativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por beber la nuda verdad en las fuentes más nombradas de la sabiduría vino a la Urbe capitolina.»",
+              "autor": "Lz. de Mesa",
+              "referencia_obra": ", El libro de los apól. p. 256. — Además con en, que señala el lugar. X"
+            },
+            {
+              "texto_cita": "«Eran los oradores, por sus letras y partes, de los más conocidos y nombrados en aquella ciudad.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 1. 13. (Cl. C. 202. 131)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De tales reyes vencido | Honra te deve ser nada | ¡O Granada noblecida, | Por todo el mundo nombrada, | Hasta aquí fueste cativa | Y agora ya libertada!»",
+          "autor": "Encina",
+          "referencia_obra": ", Poes. lír. (Cl. Castal. 62. 91). X"
+        },
+        {
+          "texto_cita": "« Nominare: nombrar, llamar, mentar.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab. 304d. X"
+        },
+        {
+          "texto_cita": "«Por la gigante maldad | Del vicio que aquí non nombro, | En tan flaca humanidad.»",
+          "autor": "Mendoza",
+          "referencia_obra": ", Canc. (Cl. C. 163. 6). X"
+        },
+        {
+          "texto_cita": "«La fortaleza nombrada | Están los altos alcores | D´una cuesta, | Sobre vna peña tajada, | Maçiça toda d´amores, | Muy bien puesta.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Canc. (Cl. C. 94. 22). X"
+        },
+        {
+          "texto_cita": "«Ca quando la tierra se perdió en tienpo del rey don Rodrigo, non fincó en toda España lugar en que se osase nonbrar el nonbre de Ihesu Christo e de santa María si non en ella.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Vida de S. Ildef. 17. (Cl. C. 134. 60). X"
+        },
+        {
+          "texto_cita": "«O sepultura temprana | Dela hedad juuenil, | Que tu vicio tanto vil | Sigue comiendo sin gana | Del qual tanto mal emana | Que delos syete nombrados | Los cinco daré contados | Proceder de tu fontana.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coplas (NBAE. 19. 135 2 ). X"
+        },
+        {
+          "texto_cita": "«Vila estar en un ramo, | E pensé que era esparvel, | Nonbrando la que más amo. | Díxele: \"Se[ñ]or uxel, | Pues çercades el vergel, | Por merced, si vos plazería, | De grado saber querría | Vuestro nombre quál es él\".»",
+          "autor": "Santill.",
+          "referencia_obra": "Canc. y decires (Cl. C. 18. 222). — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«Buena concha muy grande de la carta colgada: | Aquel era el sello de la dueña nonbrada; | La nota es aquesta, a Carnal fue enbiada.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1074 (Cl. C. 17. 78). X"
+        },
+        {
+          "texto_cita": "«La exençión primera muy byen fue alegada, | Mas la descomonión fue un poco errada, | Que la constitución deviera ser nombrada, | E fasta nueve días deviera ser provada.»",
+          "autor": "",
+          "referencia_obra": "Id. 354 (Cl. C. 14. 132). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«E aun dixo más: que era su parienta bien acerca, comoquier que lo ella no nombrava aý por parienta.»",
+          "autor": "Conq. de Ultr.",
+          "referencia_obra": "(ICC. 51. 131). +"
+        },
+        {
+          "texto_cita": "«Nonbraron [los antigos] a cada vna [de las estrellas] ssegunt que eran affiguradas.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Seten. ley 34 (p. 64). X"
+        },
+        {
+          "texto_cita": "«Dijo Yusuf si eso non quieres pergonar, | Pergona la verdad e non quieras falsar; | Di; ¿Quien compra profeta e de alto lugar? | Filho es de Yacop si le oistes nombrar.»",
+          "autor": "",
+          "referencia_obra": "Poem. de José, 67 (R. 57. 415 2 ). X"
+        },
+        {
+          "texto_cita": "«Yo maestro Gonçalvo de Verçeo nomnado | lendo en romería caeçí en un prado | Verde e bien sençido, de flores bien poblado | Logar cobdiçiaduero pora omne cansado.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 1 (Cl. C. 44. 1.). X"
+        },
+        {
+          "texto_cita": "«Ricart era nomnado, | De bispo e abades avíe hy un fansado, | Ca vinera en ellos mucho buen coronado.»",
+          "autor": "",
+          "referencia_obra": "id. S. Dom. (Cl. Castal. 49. 190)."
+        },
+        {
+          "texto_cita": "«As de fazer bien a todos de manera que seas nombrado por toda la tierra e que finquen la tu nobleza por siempre jamás.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 35). X"
+        },
+        {
+          "texto_cita": "«Nonbrrauan los navarros [a] \"Panplona\", \"Estella\", | Los fyrmes castellanos nonbra[va]n a \"Casty[e]lla\", | Nonbraua rrey don Sancho a las vezes \"Casty[e]lla\", | Commo algunos frrançeses a vezes echan pella.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 13 (Cl. C. 128. 93). X"
+        },
+        {
+          "texto_cita": "«El sabio malo ha sabor de contradezir a los sabios que fueron ante que él, e pésa-le con los sabios que son en su tienpo; ca non querría que ninguno fuese nonbrado por sabio, si con él, por cobdicia de señorío.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", p. 96. X"
+        },
+        {
+          "texto_cita": "«Quando Gozimas sse oyó nombrar, | Bien ssopo que Dios la fazíe ffablar, | Ca ella non fabie ssu nombre | Sinón gelo dixiésse algún homne.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egip. p. 137. X"
+        },
+        {
+          "texto_cita": "«Esta de qui qujero ffablar | Marja la hoí nombrar. | El ssu nombre es en escripto, | Por que nasçio en Egipto.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 111. Siglo XII: X"
+        },
+        {
+          "texto_cita": "«Pocos días ha, rey, que una lid a arrancado: | A aquel rey de Marruecos, Yúceff por nombrado, | Con çinquaenta mill arrancolos del campo.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1849 ( Mndz. Pidal , p. 1095). X"
+        },
+        {
+          "texto_cita": "«Mandolos venir a la corth e a todos los juntar, | Quando los falló, por cuenta fízolos nonbrar; | Tres mill e seys çientos avie mio Çid el de Bivar; Alégrasle el coraçón e tornós a sonrrisar.»",
+          "autor": "Mndz. Pidal",
+          "referencia_obra": ", p. 1074). X"
+        },
+        {
+          "texto_cita": "«D´aqueste acorro fablará toda España. | Nonbrados con los que irán en el algara, | E los que con mio ficarán en la çaga.»",
+          "autor": "Mndz. Pidal",
+          "referencia_obra": ", p. 1042)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. nominare ‘nombrar, designar por un nombre’. Cat. anomenar, nomenar, fr. nommer, it. nominare, port. nomear. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

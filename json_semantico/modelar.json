@@ -1,0 +1,423 @@
+{
+  "lema": "MODELAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar forma artística a una substancia plástica ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Modela, esculpe, Guatemala artística, | Tu Venus tropical, noble y gentil.»",
+              "autor": "Pombo",
+              "referencia_obra": ", Antol. poética, p. 140. X"
+            },
+            {
+              "texto_cita": "«Él nos buscaba a nosotros cada dos o tres días, yendo por la mañana al Colegio de San Carlos, o por la tarde a mi estudio (donde Diego estaba casi siempre viéndome modelar el barro o labrar la piedra de mis esculturas...).»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El escándalo, 1 (Cl. C. 177. 82). X"
+            },
+            {
+              "texto_cita": "«Toca a los artistas y poetas modelar el divino rostro [una de Minerva española] y bordar el espléndido manto.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 10 (p. 247). — met. X"
+            },
+            {
+              "texto_cita": "«¿Qué artista fielmente modela y colora | El ansia del pecho, que es la inmensidad?»",
+              "autor": "Núñez",
+              "referencia_obra": ", Poes. p. 80. X"
+            },
+            {
+              "texto_cita": "«Injertó en su tejido nueva piel de greda, y fue modelándola como una obra tierna de alfarero que crecía entre sus manos.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas, p. 42. X"
+            },
+            {
+              "texto_cita": "«El espíritu modela nuestra arcilla como el soplo del alfarero griego modela el vaso.»",
+              "autor": "",
+              "referencia_obra": "Amórtegui, De incógnito, p. 28."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué es esto? — preguntó un cliente a cierto escultor modernista que le había modelado un busto. — Un magnífico retrato de usted, con alma, expresión y carácter.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 9 (p. 189)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con, para señalar: — el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las manos creadoras que modelaron gigantes con la arcilla de los aluviones y plasmaron esferas de luz regidas por un ritmo feliz, penden cansadas en su lividez huesosa.»",
+              "autor": "Valencia",
+              "referencia_obra": ", Discursos, 1 (p. 64). — El modo. X"
+            },
+            {
+              "texto_cita": "«El señor de Bienville modela con ternura su pegote de barro.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 3. 14 (p. 266)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en, para indicar el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Odiaban nuestra raza a través de sus puños | Porque hizo el vientre de nuestras madres como eI alfarero | Que modela los vasos del templo en arcilla dorada.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poétic. 2 (p. 147)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con sobre, para precisar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un verso mago en que se aunara el lustre | De las gemas y el oro a la inefable | Música de la línea amplia y serena; | Que fuera así como la copa ilustre | Que modeló un artífice impecable | Sobre los senos de la Argiva Helena.»",
+              "autor": "",
+              "referencia_obra": "Castillo, Versiones ( El árbol, p. 145)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sujeto de cosa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cincel que el bloque muerde | La estatua modelando, | Y la belleza plástica | Añade a la ideal.»",
+              "autor": "Bécquer",
+              "referencia_obra": ", Rimas, p. 16."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol. Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Numen de clase vulgar [Prometeo], | Es voz que ganó renombre | Formando un proyecto de hombre | Con barro de modelar.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb. 119 (Cl. C. 179. 154)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Pas. refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al llegar [el amor] a nuestra vida, el genio individual sufre sensibles cambios, empieza a modelarse la estatua.»",
+              "autor": "S. Villegas",
+              "referencia_obra": ", Canc. caminante, p. 15."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, que indica el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con esa piedra se construyeron, se tallaron, se modelaron, diría mejor, las catedrales góticas más hermosas del mundo.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 247."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y mira mi alma cómo la vieja ciencia de las Pirámides resucita; --- y cómo en la carne de los seres se modela la futura estatua que ha de ser el coronamiento de los reinos; la triple estatua de los talones de piedra, cintura de árbol y cabeza elocuente.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. poética complet. p. 99."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part. Con por, para indicar el agente. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A veces recordamos los monumentos que simbolizan al Libertador, sus estatuas modeladas por los primeros escultores, los bridones de bronce que soportan el peso de sus hazañas y de sus pensamientos.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños, 3 (p. 303)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, que señala: — la materia. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus ingenuos ojos y puras facciones recordáronme mucho la belleza de mi adorada, cuyo clásico rostro me parecía contemplar, no ya modelado en suave cera, sino esculpido en bronce y algo agigantado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El escándalo, 2 (Cl. C. 178. 101). X"
+            },
+            {
+              "texto_cita": "«De mi rostro marchito, | Modelado en la gleba pecadora, | Se borrarán las huellas del insomnio | Sufrido entre los brazos mercenarios.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poétic. 2 (p. 125). — El modo. X"
+            },
+            {
+              "texto_cita": "«Desde sus primeros cuadros [de Rafael] hasta el último; desde las obras modeladas en el estilo paterno hasta las inmortales creaciones del período romano, cada lienzo es una cualidad de su genio que se desemboza.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 116."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con entre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando la divina Palas, modelada entre todos y convertida en ser vivo por un milagro del amor colectivo, salga refulgente del taller y desafíe las miradas de los extraños, estemos seguros de que será saludada con respeto y simpatía.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 10 (p. 248)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "En los siguientes ejemplos, Crear.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Modelándose [la poesía erudita], ora sobre la poesía provenzal, ora sobra la italiana, --- nunca adoptó los verdaderos caracteres nacionales.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum histór. 3. 15 (p. 622). X"
+            },
+            {
+              "texto_cita": "«¿Cómo puedes modelar este juguete que cambia así de voz?»",
+              "autor": "Arguedas",
+              "referencia_obra": ", Ríos prof. 8 (p. 94)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vaya, pues, dibujemos y modelemos con la palabra al llamado tempe tesálico — decía un genuino griego.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Andanzas y visiones esp. p. 167. X"
+            },
+            {
+              "texto_cita": "«La tierra con frente de cobre triste, | Con rostro de minero, de agricultura, de peñasco, --- | Y manos de mujeres alfareras | Que modelaban niños con barro de sus vientres.»",
+              "autor": "Castro Saavedra",
+              "referencia_obra": ", Joven América, p. 77."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sabroso misterio de arcilla; | La palabra de carne | Modelada en la pluma de Dios!»",
+              "autor": "Herr.",
+              "referencia_obra": "y Reissig, Poes. y prosa, p. 136."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Conformar, constituir algo por procesos naturales, humanos, históricos ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los gastos de las mesas se modelaron por las reglas de la razón.»",
+              "autor": "Acad.",
+              "referencia_obra": "Hist. ilustr. 12 (6. 308). X"
+            },
+            {
+              "texto_cita": "«Rivadavia --- traía sabios europeos para la prensa y las cátedras, colonias para los desiertos, --- todas las grandes teorías sociales de la época para modelar su gobierno; --- y realizar en diez años la obra que antes necesitara el transcurso de siglos.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Facundo, 2. 3 (p. 117). X"
+            },
+            {
+              "texto_cita": "«Si los normales faltan, un seudoprincipio se encarga de modelar la jerarquía y definir las clases.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Dinámica del tiempo, p. 312."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, que señala el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En todas estas palabras que hay que seguir oyendo con reservas, está el ingenuo orgullo de esos hombres, que puestos en medio de temporales y flechas, modelan con sus manos nuevas repúblicas.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 3 (p. 55)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en, para señalar: — el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hoy vamos a vaciar una República en el molde de la Universidad y a modelar en la Universidad — barro de América — el espíritu de nuestra nación.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda, 16 (p. 229). — El tiempo. X"
+            },
+            {
+              "texto_cita": "«No es caso extraordinario que el estilo, el sesgo peculiar, que ha de prevalecer definitivamente en la obra de un escritor o de un artista, se relacione, --- más bien con las impresiones que lo modelaron en sus primeros años.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 84."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl. Con a. El término es una prop. infinitiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo cuanto los libros nos enseñan en los años apacibles de nuestra educación primera, todo está sujeto a una especie de reconstrucción, en que ciencias y artes y pensamientos y gustos se modelan al vario querer del espíritu enfermizo y casi siempre solitario.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma, p. 343."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otoño con dos ríos ha dorado | El cerco del gigante centinela | De piedra y luz, prodigio torreado | Que en el azul sin mancha se modela.»",
+              "autor": "Machado",
+              "referencia_obra": ", Poes. complet. p. 247."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Con por, que señala la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No llegan tal vez a nuestra alma, de abismos remotos o cercanos: los ecos del pensar y el sentir de mil abuelos, esparcidos por diversas partes del mundo, vinculados a distintos tiempos, modelados por los hábitos de cien diferentes vocaciones y ejercicios?»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 52. X"
+            },
+            {
+              "texto_cita": "«Tratar de persuadir a esas cabezas modeladas por hábitos y creencias milenarios es como tratar de convencer al Gran Lama del Tibet del error de su religión y de la inanidad de su pretensión a la inmortalidad terrena.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café , 7 (p. 156)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Crear con el pensamiento ideas, opiniones, teorías. Con hasta. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ciencia y el principio unitario del hombre como “ razón pura ” crea los distintos estilos intelectuales que modelan diferencialmente hasta las extremas abstracciones de la obra matemática.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas, Pról. (p. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas. refl. Con para, que señala el fin. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquella [concepción de la existencia, propia para aprender] en que se acumulan las provisiones del camino y se modelan para siempre las energías que luego han de desplegarse en acción.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 19."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. Con por, para indicar la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Proyectos, modelados por el tiempo, | De razas intermedias; | Principios sutilísimos, que oscilan | Entre la forma errante y la materia.»",
+              "autor": "Zorrilla",
+              "referencia_obra": "de S. Martín, Tabaré, introd. (p. 26). — Con sobre. X"
+            },
+            {
+              "texto_cita": "«Acaso dependa de que, como diría Bergson, modelados nuestros conceptos sobre lo discontinuo de la sensación, la imaginación sólo sabe forjar, como presentación última de las cosas, algo semejante al dato sensorial mismo.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos de la voluntad, 7 (p. 146)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Hacer que una persona adquiera o desarrolle una aptitud o toda la personalidad, educar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El toque está en conquistarla para la obra común, en constituirse en su director espiritual, en modelar su carácter, plegándolo a las exigencias de una vida seria, de trabajo intenso y de recato austero.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos de la voluntad, 6 (p. 132)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para señalar: — la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La sucesión rítmica y gradual de la vida, sin remansos rápidos, de modo que la voluntad, rigiendo el paso del tiempo, sea como timón el que no tuviera más que secundar la espontaneidad amiga de la onda, es, pues, idea en que debemos tratar de modelarnos.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 24. — El tiempo. X"
+            },
+            {
+              "texto_cita": "«Entre otras ventajas, este método de precoz trasplantación tendría la valiosísima de modelar la voluntad y el carácter en la época en que el ambiente social, los deportes, etc. obran con mayor eficacia educativa.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos de la voluntad, 11 (p. 221)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Con por, que indica el agente. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Existen dos variedades humanas, de valor harto desigual: el hombre rebañiego, modelado por la tradición y la rutina, y el hombre nuevo, forjado por la autorreflexión.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 8 (p. 163)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de modelo y éste del lat. modulus, ‘molde’. Cat. modelar, fr. modeler, it. modellare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,37 @@
+{
+  "lema": "ARRECIRSE.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Entorpecerse ó entumecerse por exceso de frío. — α ) Part . «Estuvimos toda la noche haciendo consultas, y á la mañana amanecimos arrecidos, por ser cerca de navidad.» Esteb. Gonz . 13 (R. 33. 365 1 ). — β ) Con de , para expresar la causa del entorpecimiento. «Arrecirse de frío.» Acad. Gram . — α α ) Part . «Al romper el alba viéronse ya seguros al abrigo de la fortaleza de Alhendín --- si bien extenuados de fatiga, arrecidos de frío.» M. de la Rosa , H. P. del Pulgar (4. 49).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo con miedo et arresido prometil una guarnacha.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 940 (R 57. 256 2 )."
+        },
+        {
+          "texto_cita": "«Desque me vi en coyta, arresido, maltrecho, | Amiga, dixel, amidos fase el can barbecho.»",
+          "autor": "",
+          "referencia_obra": "Id. 928 (R. 57. 256 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de recio , en el sentido etimológico de rígido, lat. rigidus , de rigere .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Este verbo es de aquellos que no pueden usarse sino en las inflexiones cuya terminación es i ó empieza por i : arrecir, arrecido, arrecía. Acad. , Salvá , Bello . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

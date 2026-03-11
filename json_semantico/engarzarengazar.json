@@ -1,0 +1,381 @@
+{
+  "lema": "ENGARZAR (ENGAZAR).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Trabar una cosa con otra u otras formando cadena, o pasando un alambre entre ellas ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cual bello cisne --- Cercos engarza de liviana espuma ---. »",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 14 (R. 17. 286 1 )."
+            },
+            {
+              "texto_cita": "«Cuantos engasta el oro del cabello, | Cuantas del uno ya y del otro cuello | Cadenas, la concordia engaza rosas.»",
+              "autor": "Góng.",
+              "referencia_obra": "Soled. 1 (R. 32. 468 2 )."
+            },
+            {
+              "texto_cita": "«Son [las virtudes] joyas tan preciosas, que no quiso la naturaleza, cuidadosa de nuestro bien, tenerlas desbaratadas, ni, al modo de las cosas perdidas, cada una de por sí; sino que, como perlas riquísimas, las engarzó como en una sarta de sumo valor, para atavío del alma.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. 615)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú, prole de Jacob, sola tú lloras | La esclavitud común; flores engaza | A su dura cadena el mundo ciego.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. sagr. 6 (R. 67. 276 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arracadas dichas de azabache o nácar, engarzadas, y con guarnición de plata de una o tres caídas.»",
+              "autor": "",
+              "referencia_obra": "Aranceles de Aduanas (ed. 1782, p. 1)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, para indicar el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era [el collar] de unas conchas carmesíes de gran precio en aquella tierra, dispuestas y engarzadas con tal arte, que de cada una de ellas pendían cuatro gambaros o cangrejos de oro.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 10 (R. 28. 280 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en, para indicar el metal de que está hecho el alambre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo las pedí por favor y como en gracia un rosario engarzado en oro, que llevaba la más bonita de ellas.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 15 (R. 23. 512 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Enlazar, unir dos o más cosas ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquel istmo o estrecho de tierra que divide y engaza las dos Américas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2 . 3 (R. 28. 235 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mientras que el brío perdido resucite | El santo cielo y la fortuna engaza | De nuevo vuestras cosas, ya podremos | Del riesgo allí escapar que aquí tenemos.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 5 (R. 17. 193 2 ). — Con en y por"
+            },
+            {
+              "texto_cita": "«Fuente --- | De tantos caños y tan varia traza | Que el sutil artificio desvanece; | Y así en nuevos primores los engaza | Los unos por los otros, que parece | Que es toda junta en su primor distinto | De agua y cristal un bello laberinto.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 153 2 ). — Con tras ."
+            },
+            {
+              "texto_cita": "«Venía [el Sol] en su seguimiento ---, dios ocupado en ensartar un día tras otro y en engazar años y siglos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos, preámb. (R. 23. 385 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con sentido intrans., y un compl. precedido de con, para indicar el objeto con que se produce la unión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fueron, al fin, a rematar la punta | A los bajos antípodas del mundo, | Pasando en invariable vuelo junta | La oscura inmensidad del mar profundo, | Hasta donde con él se engaza y junta, | Suelto del primer orbe este segundo, | Que hoy a España tributa y da barata | La sangre de sus venas vuelta en plata.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 18 (R. 17. 331 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Recípr. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por la qual [los átomos] son capaces de engarzarse más o menos estrechamente.»",
+              "autor": "",
+              "referencia_obra": "M. Martínez, Philosophia sceptica (ed. 1730, p. 28)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el objeto a que se une. met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los males engazados con los bienes.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 2 (R. 17. 156 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con dos compls. precedidos de con y por , para indicar el modo y el lugar respectivamente. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Decía un sujeto --- que el hombre no era más que la unión de dos pirámides, conjuntas de cierto modo y por manera más o menos gentil y esbelta, y tomada y engarzada con más o menos gracia por la región abdominal.»",
+              "autor": "Cald.",
+              "referencia_obra": "Nov. (R. 79. 412 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en. met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Juntos y engazados andan en los amores los gustos y los disgustos.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 155 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Particularmente, Enlazar, relacionar ideas, partes del discurso, etc. ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volved a engarzar la cadena de vuestro cuento, no se os pierdan algunos eslabones.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 4. 1 ( Obr. suelt. 7. 269). RAE"
+            },
+            {
+              "texto_cita": "«Allí, durante toda una tarde, Pedro Mourlane Michelena nos habló con voz campanuda y reposada, engarzando ideas y palabras, sin que jamás la maraña dejara de ser clara.»",
+              "autor": "Díaz-Cañabate",
+              "referencia_obra": ", Hist. tertulia, p. 10."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con dos compls. precedidos de por y con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Valame Dios, dijo Rutilio en esto, y por qué rodeos y con qué eslabones se viene a engarzar la peregrina historia tuya, oh Periandro! »",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 2. 17 (R. 1. 615 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con sentido recípr., y un compl. con en para indicar el objeto u objetos con los que se produce la unión. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los relatos --- se engarzan hábilmente unos en otros, a fin de que no decaiga un momento el interés.»",
+              "autor": "Casares",
+              "referencia_obra": ", Crít. efim. p. 207."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El lenguaje de Armando Guerra --- se distingue --- por la trabazón de las frases, engarzadas según la antigua usanza castellana.»",
+              "autor": "Casares",
+              "referencia_obra": ", Crít. efim. p. 290."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. Enzarzarse, enredarse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con sentido recípr. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tuve que separarlos porque vi que se engarzaban.»",
+              "autor": "Alcalá Venceslada",
+              "referencia_obra": ", Vocab. andaluz, sb. voc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "met. Con en y con. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde ese instante se engarzó en una conversación fácil y alegre con Graciela.»",
+              "autor": "",
+              "referencia_obra": "J. Prieto, El ocio (ed. 1945, p. 35)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Con en o entre. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rodó una mula, y poco le faltó para caer en el río; por fortuna había árboles a la orilla, y quedó engarzada la carga en ellos con la mula.»",
+              "autor": "Caldas",
+              "referencia_obra": ", Cartas (ed. 1917, p. 8). RAE"
+            },
+            {
+              "texto_cita": "«El torero quedó engarzado entre los cuernos del toro.»",
+              "autor": "",
+              "referencia_obra": "P. Alvarez, Colegiales, p. 186."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Engastar, o incrustar una cosa en otra, especialmente una piedra preciosa en un metal ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hombres expertos la tallan [la gema], la pulen, la avaloran, la combinan con piedras de otro color, la engarzan.»",
+              "autor": "Flórez",
+              "referencia_obra": ", Disc. recep. Acad. p. 5."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para indicar el objeto o material. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un platero de Burgos había engarzado artísticamente a ruego de Macías en un mismo anillo aquellas seis piedras.»",
+              "autor": "Larra",
+              "referencia_obra": ", Obr. complet. (ed. Baudry, t. 1, p. 148). x"
+            },
+            {
+              "texto_cita": "«Engarzar un rubí en oro.»",
+              "autor": "Acad.",
+              "referencia_obra": "s. v . met."
+            },
+            {
+              "texto_cita": "«Errores dulces, dulces desvaríos | Hacen sus aguas con lascivo fuego, | Engazando edificios en su plata.»",
+              "autor": "Góng.",
+              "referencia_obra": "Soled. 1 (R. 32. 464 2 )."
+            },
+            {
+              "texto_cita": "«El sol engarza en oro su esmeralda.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 9 , Poema her. (R. 69. 341 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí les decía cómo habían de engazar la joya, las niñas por gracia, las mozas por deuda, y las viejas por respeto y obligación.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón 21 (R. 23. 521 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y el sol por su tupida celosía | Su luz quería engazar, y no podía.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 2 (R. 17. 163 2 ). Part. Con en. RAE"
+            },
+            {
+              "texto_cita": "«¿Son estas piedras de Francia? | Sí, señora. | Y diga usted: ¿están en fino engarzadas?»",
+              "autor": "R. de la Cruz",
+              "referencia_obra": ", Las resultas (ed. 1925, p. 332)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Rizar los cabellos ( trans. ) (cfr. Dicc. Acad. ). Part.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tiene el cabello Negro, engarzado, y las cejas | Como dos arcos del cielo, | Sobre la mayor blancura | Que han visto los Pirineos.»",
+          "autor": "Lope",
+          "referencia_obra": ", De cosario a cosario , 2. 11 (R. 41. 494 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Vocablo de etimología incierta. Se barajan dos hipótesis: según la primera, procedería del ár. jaraza 'cuenta o abalorio engarzado', solución propuesta por la Acad. (véase Dicc. sb. voc. ); según la otra, defendida por Corominas (DCEC sb. voc. ), derivaría del lat. *íncastrare 'insertar, articular', a través del mozár., dialecto en que el grupo -str - evoluciona a -çr-, el cual, por otro lado, puede reducirse a - ç - o trasponerse en -rç- , de donde resultarían las formas engazar, engarzar. A nuestro juicio, y puestos a buscar una etimología latina, nos parece más sencillo partir de un hipotético *incaptiare 'coger dentro de sí', derivado de *captiare 'coger', y del que saldría la forma engazar, la cual, a juzgar por el material de que disponemos, es más antigua que engarzar. Ésta, por su parte, podría muy bien deberse a una contaminación o cruce de engazar con enzarzar, pues la acep. 'enredarse o enzarzarse' no es, como piensa Corominas , exclusiva de América (véanse ejs. en 1, d ) ni, posiblemente, tan reciente.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Ante e se escribe c : engarcé, engarcéis, etc. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

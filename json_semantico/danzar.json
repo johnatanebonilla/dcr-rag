@@ -1,0 +1,216 @@
+{
+  "lema": "DANZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Bailar á compás de instrumentos con orden y escuela.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Danzar á la guitarra, á compás.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            },
+            {
+              "texto_cita": "«Danzaban entre sí los cortesanos, y sacaban á danzar á las damas de palacio. En particular la reina, presente el rey y por su mandado, salió á bailar con el embajador francés; él acabado el baile, juró de no danzar más en su vida con mujer alguna, en memoria de aquella honra tan señalada como en Castilla se le hizo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 23. 5 (R. 31. 156 1 )."
+            },
+            {
+              "texto_cita": "«Colocaron los músicos en su lugar, comenzaron á salir muchos mancebos moros, y danzaron uno á uno maravillosamente.»",
+              "autor": "P. de Hita",
+              "referencia_obra": ", Guerras civ. de Granada, 2. 14 (R. 3. 637 2 )."
+            },
+            {
+              "texto_cita": "«Verdad es que es el danzar | El alma de la hermosura, | Que más que el rostro procura | Persuadir y enamorar.»",
+              "autor": "Lope",
+              "referencia_obra": ", El maestro de danzar, 1. 4 (R. 34. 73 3 )."
+            },
+            {
+              "texto_cita": "«Si danza, parece que con el aire se lleva tras sí los ojos, con la disposición las almas, y que con los chapines pisa los deseos.»",
+              "autor": "",
+              "referencia_obra": "Id. La viuda valenciana, dedic. (R. 24. 68)."
+            },
+            {
+              "texto_cita": "«Baila y danza allá en tu casa | Hasta que el suelo se hunda.»",
+              "autor": "",
+              "referencia_obra": "Id. El maestro de danzar, 1. 4 (R. 34. 73 2 )."
+            },
+            {
+              "texto_cita": "«No ya Nores allí, no Marcos suena | Para que el Brando inglés al son danzase.»",
+              "autor": "",
+              "referencia_obra": "Id. Cor. trág. 4 ( Obr. suelt. 4. 112)."
+            },
+            {
+              "texto_cita": "«Canta como una calandria, danza como el pensamiento, baila como una perdida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 48 (R. 1. 504 2 )."
+            },
+            {
+              "texto_cita": "«Estas dieron tanta priesa en sacar á danzar á. D. Quijote, que le molieron no sólo el cuerpo pero el ánima.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 62 (R. 1. 536 1 )."
+            },
+            {
+              "texto_cita": "«Se comenzó un alegre y concertado sarao, en que danzaron muchas damas con los caballeros que de sortija habían salido.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Esp. Ger. 1. 3 (R. 18. 190 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado el infin. ( ant. )",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El bosque fresco, la repuesta cueva, | Las ninfas, sus danzares, | Me alejan de la gente y sus cantares.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2, trad. de Hor. od. 1. 1 (4. 477)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans. Se usa como acus. el baile ó danza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta danza se usa en el reino de Toledo, y dánzanla en camisa y en gregüescos de lienzo con unos tocadores en la cabeza.»",
+              "autor": "Covarr.",
+              "referencia_obra": "sb. voc. dança de espadas."
+            },
+            {
+              "texto_cita": "«En el villano de amor | Es muy cierta esta mudanza, | Y la danzan muchas veces | Los que de veras se aman.»",
+              "autor": "Romanc.",
+              "referencia_obra": "(R. 10. 18 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Danzábase ya entonees entre damas y caballeros: danzábase de uno á uno, ó de más á más; y se danzaban bailes de enlace y maestría.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect. 1 (R. 46. 487 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Danzar de cuenta: véase este sust. , 1, f, γ .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Moverse una cosa con aceleración, bullendo y saltando ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En esto empezó á alborotarse la caldera y á hacer espuma; víase un figurón danzando entre el caldo y chirriando.»",
+          "autor": "Quev.",
+          "referencia_obra": "Entremetido (R. 23. 376 2 )."
+        },
+        {
+          "texto_cita": "«Dijéronme que llegase, y vi jigote que se bullía en un ardor terrible y andaba danzando por todo el garrafón.»",
+          "autor": "",
+          "referencia_obra": "Id. Visita (R. 23. 339 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Mezclarse ó introducirse en un negocio ( intrans .) ( fam. ). Se usa más para zaherir al que interviene en lo que no le toca. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Qué se hizo aquel danzar, | Aquellas ropas chapadas | Que traían?»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 52)."
+        },
+        {
+          "texto_cita": "«El senor condestable le hizo mui grandes fiestas de combites y salas, y danzaron y baylaron, y el dicho cavallero danzó con la señora doña Juana, hermana del dicho señor condestable, que era mui gentil dama y lo sabia bien fazer.»",
+          "autor": "Crón. M. Lucas",
+          "referencia_obra": "( Mem. hist. esp. 8. 85)."
+        },
+        {
+          "texto_cita": "«Aquellos caballeros mancebos danzaron con las doncellas, é tovieron mucha fiesta.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 74 (194)."
+        },
+        {
+          "texto_cita": "«Si el rey salía á danzar, non queria que otro caballero ninguno, nin grande nin rico ome, danzase con él, salvo don Álvaro de Luna.»",
+          "autor": "",
+          "referencia_obra": "Ib. 8 (22)."
+        },
+        {
+          "texto_cita": "«Acabada la danza, daba pax madama al capitán, é cada uno á la suya con quien habia danzado.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 117."
+        },
+        {
+          "texto_cita": "«Se llegó á un caballero de los que danzaban en la sala.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 5 (3 2 )."
+        },
+        {
+          "texto_cita": "«E trayga buen gesto en dançar fermoso.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p. 215."
+        },
+        {
+          "texto_cita": "«Decian que el rey mesmo tomó por la mano este dia de sus bodas á la dicha su muger, y que danzó con ella.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 32. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Ca como ellos tromparen asi convien danzare.»",
+          "autor": "Pal.",
+          "referencia_obra": "319 (R. 57. 435 1 )."
+        },
+        {
+          "texto_cita": "«Dançad, padre santo, syn mas detardar.»",
+          "autor": "Danza de la muerte",
+          "referencia_obra": "(R. 57. 380 1 )."
+        },
+        {
+          "texto_cita": "«Vnos andauan dançando | Desde el fondo fasta ençima, | E los otros bofordando, | E otros jogando esgrimma.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 339 (R. 57.,489 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Non cae al rey --- de cantar ante los homes nin de bailar é danzar.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 11 (R. 57 114 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. dançar; cat., prov. dansar; fr. danser; it, danzare: de l’ ant. al. alto dansôn, estirar, extender. El al. moderno tanzen es tomado de las lenguas romances.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe c : dance, dancemos. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,237 @@
+{
+  "lema": "AVASALLAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Etimológicamente, llacer súbdito ó vasallo; en general, Sujetar, rendir ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Impio César imperios avasalla, | Y le amparan benignas tus piedades.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 13 ( Fern. 8. 6). —"
+            },
+            {
+              "texto_cita": "«Mostrando agilidad y gentileza, | Y cómo los caballos avasallan.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 1 (2. 25)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue [el reino] totalmente asolado, destruído y aniquilado, y sus moradores derramados por todas las naciones del mundo, y en ellas avasallados y maltratados.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 32, § 3 (R. 6. 393 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Haber permitido el que tantos reinos y naciones de cristianos (donde un tiempo tanto floreció la fe y culto de Dios) estén agora ocupadas, y avasalladas, y tiranizadas de cruelísimos infieles.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 38, § 11 (R. 6. 284 2 )."
+            },
+            {
+              "texto_cita": "«Aquella nación que, como dijo Moisén, era la más ilustre y la más ennoblecida del mundo --- es agora, do quiera que está, la más avasaellada del mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4. 18, § 4 (R. 6. 526 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo sujeto un nombre de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si es así, podré yo afirmar que ha echo Amor en estos dos días dos de los mayores milagros, que en todos los de su vida ha hecho, como son rendir y avasallar el duro corazón de Lenio, y poner en libertad el tan sujeto mío.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 79 2 )."
+            },
+            {
+              "texto_cita": "«Ella fue sola la que sola pudo | Rendir el golpe crudo | De corazón exento, | Y avasallar el libre pensamiento, | El cual, si á su querer no se rindiera, | Por de mármol ó acero le tuviera.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2 (R. 1. 23 1 )."
+            },
+            {
+              "texto_cita": "«Allí miré y fui vista; allí, según creo, rendí corazones, avasallé voluntades.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 10 (R. 1. 214 2 )."
+            },
+            {
+              "texto_cita": "«Entró luégo el monstruo de la naturaleza, el gran Lope de Vega, y alzóse con la monarquía cómica; avasalló y puso debajo de su jurisdicción á todos los Irsantes.»",
+              "autor": "",
+              "referencia_obra": "Id. Com. pról. ( Com . 1. LXII )."
+            },
+            {
+              "texto_cita": "«Lisardo enamorado | Avasallar desea mi cuidado.»",
+              "autor": "Cald.",
+              "referencia_obra": "El secreto á voces , 3. 18 (R. 7. 433 1 )."
+            },
+            {
+              "texto_cita": "«Ya sabes tú que hay un arte, | En el cual soy yo maestra, | De atraer y avasallar | Aun al que más nos desprecia.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El filósofo casado , 2. 1 (5. 33)."
+            },
+            {
+              "texto_cita": "«Reunió ese gran poeta tantas y tan extraordinarias dotes, que no es extraño que desde luégo avasallase el teatro español.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Trag. esp. (2. 82)."
+            },
+            {
+              "texto_cita": "«Los afectos todos acallando, | Amor renace en mi agitado pecho, | Lo rinde, lo avasalla cual tirano.»",
+              "autor": "",
+              "referencia_obra": "Id. Moraima , 3. 5 (3. 205)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo sujeto un nombre de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh poderosa fuerza deste que llaman dulce dios de la amargura --- y con qué veras nos avasallas | ¡y cuán sin respeto nos tratas!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 110 2 )."
+            },
+            {
+              "texto_cita": "«O de mí sé decir que me rindiera y avasallara la más mínima razón amorosa suya.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 58 (R. 1. 525 2 )."
+            },
+            {
+              "texto_cita": "«No puedo pensar qué fue lo que vio esta doncella en vuesa merced que así la rindiese y avasallase.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 58 (R. 1. 526 1 )."
+            },
+            {
+              "texto_cita": "«Allá os avenid, señoras, con vuestros deseos, que la que es reina de los míos, la sin par Dulcinea del Toboso, no consiente que ningunos otros que los suyos me avasallen y rindan.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 62 (R. 1. 536 1 )."
+            },
+            {
+              "texto_cita": "«Mucho alcanza el poder y la ventura, | Pero más avasalla la hermosura.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Endimión (R. 61. 208 1 )."
+            },
+            {
+              "texto_cita": "«¿Cuál de estas artes por sí sola, | Sin tu dichosa alianza, | Oh inmortal armonía, | Avasallar los ánimos podría?»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Múica,. 4 (1. 226)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar el objeto que viene á dominar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La grande causa dudo | Que á ese despecho avasallarte pudo.»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios , loa (R. 7. 264 2 )."
+            },
+            {
+              "texto_cita": "«¿Para qué vas á buscalla? | — Porque mi amor me avasalla | A este tormento, aunque es fuerte.»",
+              "autor": "Mto.",
+              "referencia_obra": "El caballero, 3. 1 (R. 39. 304 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acorredme, señora mía, en esta primera afrenta que á este vuestro avasallado pecho se le ofrece.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 3 (R. 1. 261 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. Propiamente, Hacerse súbdito ó vasallo de algún rey ó príncipe; en general, Sujetarse, someterse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero su hermosura altiva | Domina, no se avasalla.»",
+              "autor": "Lista",
+              "referencia_obra": ", rom. 13 (R. 67. 346 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Soy por ventura mujer | Que he de avasallarme á un paje?»",
+              "autor": "Cerv.",
+              "referencia_obra": "La entretenida, 1 ( Com. 2. 183)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , como si se dijera asentar ó ajustarse como vasallo con (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque desde aquella hora y momento se despidieron del Dios de Judea, y se avasallaron con el César de Roma.»",
+              "autor": "Guev.",
+              "referencia_obra": "Monte Calvario, 1 ( Dicc. Autor ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. met. Someterse por impotencia ó debilidad al que tiene poder ó valimiento, ó ceder al influjo de una causa poderosa. Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A lo que entonces siente | La tierna edad, se rinden y avasallan.»",
+          "autor": "Lope",
+          "referencia_obra": ", Gatom. 2 ( Obr. suelt. 19. 195)."
+        },
+        {
+          "texto_cita": "«Trueque amor, contrate y venda | Si al interés se avasalla.»",
+          "autor": "Tirso",
+          "referencia_obra": ", La huerta de Juan Fernández , 3. 3 (R. 5. 645 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á , que expresa la reducción á cierto estado, y vasallo . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

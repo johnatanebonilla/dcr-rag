@@ -1,0 +1,303 @@
+{
+  "lema": "AHONDAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer más honda una cavidad ó agujero.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por más que aquella noche se procuró fortificar cuanto se pudo, no se hizo más que ahondar el foso por la frente.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 58 2 )."
+            },
+            {
+              "texto_cita": "«¡Cuántas [manos] se ocupan en fabricar comodidades á la delicia y divertimentos á los ojos; cuán pocas en ahondar fosos y levantar muros que defiendan las ciudades!»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 71 (R. 25. 196 1 )."
+            },
+            {
+              "texto_cita": "«Mandó que le rasgasen las carnes con garfios de hierro. Desta manera ahondando las heridas, le arrancaron tanta carne que ya se le parecía la figura y forma de las entrañas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 22, § 1 (R. 6. 337 2 )."
+            },
+            {
+              "texto_cita": "«No hay ánimo ni brazo allí tan blando | Que no cale y ahonde la herida.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 32 (R. 17. 117 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es como quien quisiere sacar un gran río de madre, que como tiene tantos años há abierta y ahondada la canal por donde corre, es dificultosísima cosa sacarlo de allí.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 3. 5 (R. 8. 250 1 )."
+            },
+            {
+              "texto_cita": "«Creo sin duda que estaría [la llaga] tan abierta y tan ahondada que si un poco pasaran más adelante [los verdugos] llegaran á descubrir los huesos blancos entre la carne colorada, y acabara aquella santa vida antes de la cruz en la columna.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 10, § 5 (R. 8. 74 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que bien edifican, á proporción del edificio que levantan, ahondan siempre, y hacen fuerte el cimiento.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 6 ( Míst . 1. 20)."
+            },
+            {
+              "texto_cita": "«Ahonda más adentro, | Desvuelve las entrañas, el insano | Puñal penetra al centro.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, A Felipe Ruiz (R. 37. 8 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans . Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que cavan algún pozo, mientras más ahondan en la tierra, más jugo hallan en ella.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 5. 2, § 6 (R. 8. 302 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Hacer más profundo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esta escena patética, esta despedida bellísima que estrecha el corazón, acaba ahondando en el alma los mismos sentimientos que había labrado la tragedia.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Anot. á la Poét . 5 (1. 238)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión, Cavar profundizando, excavar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Para qué quieres ahondar la tierra y buscar nuevas vetas de nuevo y nunca visto tesoro, poniéndote á peligro que todo venga abajo?»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 33 (R. 1. 345 2 )."
+        },
+        {
+          "texto_cita": "«El hombre abate | Y ahonda el recio pino, | Y, tremolando en él tirantes lonas, | Sobre el inquieto campo cristalino | Lanza flotante puente.»",
+          "autor": "Hartz.",
+          "referencia_obra": "Al Istit . español (408)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Introducir una cosa muy dentro de otra.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero yo propio, sin querer ahondo | El puñal en tu pecho, renovando | Ante tu vista la funesta imagen | De la noche fatal.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Poes. epíst. al D. de Frías (1. 47)."
+            },
+            {
+              "texto_cita": "«Eso es dejar en la herida | El puñal, y complacerse | En ahondarle á todas horas.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, El haz de leña , 5. 1 (511)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Penetrar, introducirse una cosa muy dentro de otra. Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cáncer destructor quedó en su alma, | Devorándola está furioso y vivo, | Y más y más ahondándose.»",
+              "autor": "Saav.",
+              "referencia_obra": "Moro expós . 5 (2. 169)."
+            },
+            {
+              "texto_cita": "«Corromperse | Sentí el sosiego y libertad pasada, | Y el mal de que muriendo estó, engendrarse, | Y en tierra sus raíces ahondarse | Tanto cuanto su cima levantada | Sobre cualquier altura hace verse.»",
+              "autor": "Garcil.",
+              "referencia_obra": "canc . 4 (R. 32. 30 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans . En igual sentido. Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quería herirles las entrañas [Dios á los israelitas por medio de Moisés] hiriendo las de la piedra primero, y avergonzarlos de que ahondase tan poco su palabra en ellos, ahondando tanto en el pedernal.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gobern. crist. 1. 27, § 1 (1. 355)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "met. Escudriñar lo más profundo ó recóndito de un asunto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí hay mucho que pensar y que ahondar.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 9 (R. 6. 39 1 )."
+            },
+            {
+              "texto_cita": "«No sé cómo puede tener pena demasiada ni turbación ó desconsuelo que dure por cosa criada, fuera de lo que es culpa, si con viva fe ahonda y penetra los secretos de la divina providencia.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 6, preámb. á las de la Provid . (3. 422)."
+            },
+            {
+              "texto_cita": "«Oyen y leen las cosas de Cristo nuestro Señor, y las creen á bulto, y sin ahondar ni penetrar los misterios que en sí encierran.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 43 (2. 579)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y advierte que por ti, que un hombre triste | Eres, y al cieno vil por padre tienes, | Padece Dios; y ahonda en qué consiste | El origen primero de tus bienes.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 8 (R. 17. 464 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans . Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin ahondar mucho en mis discursos, --- una noche escurísima salí de casa con intención de ir á Salamanca.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 201 1 )."
+            },
+            {
+              "texto_cita": "«Sabed pues ahondar bien en el sér y fuerzas que tenéis, y no paréis hasta llegar al fundamento primero.»",
+              "autor": "",
+              "referencia_obra": "Ávila, Audi , 64 ( Míst . 3.252)."
+            },
+            {
+              "texto_cita": "«En esto solo que habéis dicho, y sin ahondar más en ello, ya se me ofrece á mi, y como se me viene á los ojos, ver cómo este nuevo espíritu en que el segundo y nuevo nacimiento nuestro consiste, es cosa metida en nuestra alma, que la transforma y renueva.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Padre (R. 37. 103 2 )."
+            },
+            {
+              "texto_cita": "«Después que el entendimiento criado hubiere ahondado mucho en la profundidad de vuestras excelencias, aun le quedará infinito campo por descubrir.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 7. 2. 1, § 11 (R. 8. 403 2 )."
+            },
+            {
+              "texto_cita": "«Suele proceder de espacio considerando y ahondando en las palabras y obras de Dios.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid . 2. 5, § 1 (R. 8. 142 1 )."
+            },
+            {
+              "texto_cita": "«Hay otros también que toda la vida gastan en pensar sus pecados; --- allende de levantarse algunas tentaciones del ahondar mucho en esta materia, no es razón que anden siempre los siervos de Dios con esta manera de tristeza y desmayo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 5, § 20 (R. 8. 157 2 )."
+            },
+            {
+              "texto_cita": "«Considerando y ahondando mucho en la consideración destas cosas, poco á poco se va encendiendo nuestro corazón en amor de tal Señor.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 1, § 3 (R. 8. 5 1 )."
+            },
+            {
+              "texto_cita": "«Si S. Bernardo dice que la humildad es desprecio de sí mismo (el cual procede del conocimiento de sí mismo), cierto es que cuanto más el hombre con la consideración ahondare en este conocimiento y cavare en este muladar tanto más de veras conocerá lo que es, y tanto más se despreciará y humillará.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 1, § 4 (R. 8. 6 2 )."
+            },
+            {
+              "texto_cita": "«Diré tus males sin que mucho ahonde | En ellos.»",
+              "autor": "Rioja",
+              "referencia_obra": ", silva 11 (R. 32. 385 1 )."
+            },
+            {
+              "texto_cita": "«Los que no ahondamos tanto en las especulaciones, no podemos determinarnos á dejar las ciudades de Europa y pasar á vivir con los hotentotes.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr . 89 (2. 360)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Forma primitiva: afondar ; la cual aparece todavía como variante en el lugar de Saavedra citado en 1, α . ) — Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ellos tenian la cava bien fonda et bien limpia, porque de cada noche la afondaban.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 245 (R. 66. 321 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Affondóse la mula con el rey en un soterraño.»",
+          "autor": "",
+          "referencia_obra": "Crón. rim . 94 (R. 16. 652 2 )."
+        },
+        {
+          "texto_cita": "«Mandaron que los despeñasen de logar alto porque se desmembrasen, ó los afondasen en la mar ó en las otras aguas porque non paresciesen.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 22. 24 (2. 218)."
+        },
+        {
+          "texto_cita": "«En el segundo dia parescerá [el mar] affondado, | Mas baxo que la tierra bien tanto commo fue puyado.»",
+          "autor": "Berc.",
+          "referencia_obra": "Signos , 7 (R. 57. 101 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á , que expresa reducción ó tránsito á cierto estado, y hondo. Port. afundar ; it. affondare: éstos corresponden tanto á hondo como á fondo , pues valen Ahondar y Echar á fondo. A este último concepto se refieren el cat. afondar , afonar , afonsar ; prov. afonsar , afonzar ; fr. ant. afonder .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La combinación aho forma dos sílabas : a-honde . En las inflexiones que llevan el acento en la terminación, como ahondaba , ahondaré , es hoy admisible la sinéresis, como se ve en los ejemplos de A. Saavedra y Núñez de Arce. Véase AHOGAR. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

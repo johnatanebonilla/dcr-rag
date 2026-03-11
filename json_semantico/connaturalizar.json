@@ -1,0 +1,132 @@
+{
+  "lema": "CONNATURALIZAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer connatural ó conforme á la naturaleza del individuo, hacer propio de ella ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en , que representa la persona como campo donde queda la cualidad ó accidente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De quien [de la corte] mil veces nos dijo | Tanto mal --- | Que connaturalizó | En nosotros desde niños | Su sabio aborrecimiento.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Privar contra su gusto , 1. 12 (R. 5. 350 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que en ellos es natural y costumbre ya connaturalizada, fuera penitencia muy grande en otras naciones.»",
+              "autor": "",
+              "referencia_obra": "Ovalle, Hist. de Chile , pl. 89 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Muchas veces de esta verdad se repetirán en la obra presente testimonios; y muchos otros en la misma podrá observar cualquiera de iguales transferidos adornos, ya connaturalizados en nuestro lenguaje, que tanta aptitud tiene para recibirlos y convertirlos en suyos naturales.»",
+              "autor": "Quev.",
+              "referencia_obra": "(R. 69. 355 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, que denota la conformidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siendo pues la autoridad paterna imagen de la monarquía, fue ésta adoptada generalmente, la consagró el uso, y los hombres se connaturalizaron con ella.»",
+              "autor": "M. Marina",
+              "referencia_obra": ", Orig. de la monarq. 37 (44)."
+            },
+            {
+              "texto_cita": "«De otro modo hablarían, si se viesen precisados --- á limar la traducción de suerte que no pueda conocerse si lo es, y á connaturalizarse, digámoslo así, con el autor cuyo escrito traslada, bebiéndole las ideas, los afectos, las opiniones.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 94)."
+            },
+            {
+              "texto_cita": "«Llegó de tal modo [Lista] á connaturalizarse con el lenguaje artificial, que es á menudo difuso y palabrero.»",
+              "autor": "Cueto",
+              "referencia_obra": ", Bosquejo hist. 16 (R. 61. cxcv)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como todos los campesinos que están connaturalizados con toda clase de riesgos y peligros, no era hombre que conociese el miedo.»",
+              "autor": "",
+              "referencia_obra": "F. Caball. Simón Verde ( Cuadros de costumbres , 1. 34)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Alguna vez se halla en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaba ya su alma tan transformada y connaturalizada en estos deseos, que solía decir que el padecer no tenía necesidad de otro fin sino padecer.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Sta. Teresa ( Dicc. Autor. ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer que un viviente se acostumbre á cosas á que no estaba hecho, como al trabajo, al clima, á los alimentos, etc., y que vengan á serle connaturales ( trans .). Se usa más como refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Aplicado á cosas, en sentido propio ó figurado, Aclimatar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se ha obstinado por espacio de doce años en connaturalizar en España ---una planta venenosa, que aun ensu tierra natal --- no ha podido prevalecer.»",
+          "autor": "",
+          "referencia_obra": "Hermosilla, Jacob . 1, p. 73."
+        },
+        {
+          "texto_cita": "«A pesar de los cortos ensayos que se han hecho para connaturalizar entre nosotros los metros latinos ---»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Anot. á la Poét . 3. 1 (1. 147)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. Naturalizarse, adquirir derecho de naturaleza en país extranjero.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ni podían quedarse en la segunda patria del Japón, donde se habían avecindado y connaturalizado.»",
+          "autor": "",
+          "referencia_obra": "Palafox, Conq. de la China, fol. 496 ( Dicc. Autor .) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de connatural.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e la z se convierte en c: connaturalice. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

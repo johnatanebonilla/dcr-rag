@@ -1,0 +1,75 @@
+{
+  "lema": "ANTIPATÍA.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Aversión natural é infundada.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ellos mismos huyen de su presencia como de señor á quien aborrecen por la antipatía natural.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud. 1. 15 (R. 18. 410 1 )."
+        },
+        {
+          "texto_cita": "«Tú no sabes lo que es antipatía, | ¿Por qué secreta estrella me aborreces?»",
+          "autor": "Lope",
+          "referencia_obra": ", El villano en su rincón , 3. 22 (R. 34. 153 2 )."
+        },
+        {
+          "texto_cita": "«Yo la tengo antipatía, | Porque es del color del miedo.»",
+          "autor": "Mto.",
+          "referencia_obra": "El valiente justiciero , 2. 7 (R. 39. 340 1 )."
+        },
+        {
+          "texto_cita": "«De este insecto refieren una cosa: | Que, comiendo cualquiera porquería, | Nunca pica las hojas de la rosa. | Aquí el autor con toda su energía | Irá explicando como Dios le ayude | Aquella extraordinaria antipatía.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Fáb. 65 (1. 104)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se construye con aquellas preposiciones que se emplean para denotar el objeto de un sentimiento desfavorable, como á , con , contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si en los sentidos y apetitos naturales se halla una simpatía ó antipatía natural á las cosas, ¿por qué no en los afectos y pasiones?»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 49 (R. 25. 125 1 )."
+            },
+            {
+              "texto_cita": "«En Nápoles no había antipatía contra España.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 1 (5. 28)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En sentido recíproco. La antipatía que hay entre los dos.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á cosas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dicen que las estrellas tienen cierta antipatía con la complexión de aquel hombre.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers. 2. 5 (R. 1. 596 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Gr. V , comp. de V ι , contra, y BV2@l , sentimiento, pasión. Véase ANTE y PADECER. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

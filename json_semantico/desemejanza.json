@@ -1,0 +1,31 @@
+{
+  "lema": "DESEMEJANZA.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f. Falta de semejanza. — α ) «A la santa, mirando su poquedad flaqueza, y mucho más la desemejanza de su condición, le parecía disparate y locura [el pensamiento de emprender la fundación de frailes descalzos].» Yepes , Vida de Sta. Ter. 2. 15 ( Míst . 1. 167). «Reuniendo unos [seres] por la analogía de sus formas y propiedades, separando otros por la desemejanza de sus fenómenos --- lograron al fin componer estos sistemas ---» Jovell. Orac. sobre el est. de las ciencias nat. (R. 46. 339 1 ). — β ) Con en, para expresar las circunstancias que constituyen la falta de semejanza. «Había desemejanza grande en el trato y costumbres de la reina Catalina y del rey Enrique.» Rivad. Cisma , 1. 3 (R. 60. 189 2 ). «Puso [la naturaleza] en el decir algunas señas que diferencien los sujetos ---. En el estilo pues que me señaló esta gran maestra escribí la historia que sale hoy á luz, temiendo hallar esta misma desemejanza en los juicios humanos.» Solís , Conq. de Méj. proemio (R. 28. 207) . — γ ) Con entre, que reduce á dos los objetos ó grupos comparados. «Es imposible que no haya mucha desemejanza entre los concilios y las asambleas políticas, ya por lo que toca á las épocas de sus reuniones, ya con respecto á su organización y procedimientos.» Balmes , Protest . 55 (4. 112).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIII :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Non puede seer que semeje tanto la letra de un escribano con la de otro que non haya hi alguna desemejanza entre ellas.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 18. 111 (2. 624)."
+        },
+        {
+          "texto_cita": "«Non deve seer creyda [aquella carta], fueras ende si vieren omes buenos e conoscedores de letra que juren primero que digan verdat, et dixieren que aquella desemeianza es por razon de la tinta o del pergamino, mas que la materia de la letra una es.»",
+          "autor": "Espéc.",
+          "referencia_obra": "4. 12. 46 (0. L. 1. 273 1 ); item, Part. 3. 18. 111 (2. 624)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y semejanza. Port. dessemelhança; cat. dessemblansa; prov. dessemblanza; fr. dissemblance; it. dissimiglianza, dissomiglianza. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

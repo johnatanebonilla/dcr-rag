@@ -1,0 +1,99 @@
+{
+  "lema": "CONSIGUIENTEMENTE.",
+  "categoria_gramatical": "adv.",
+  "introduccion": "--> adv.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Como consecuencia, guardando consecuencia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Leyendo ansí no hace mal sentido, y júntase consiguientemente con lo que antecede.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 34 (2. 194)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el antecedente con que se enlaza algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consiguientemente á esto, y recordándose el capitulo XLIII, se dice que D. Quijote ---»",
+              "autor": "Clem.",
+              "referencia_obra": "C oment . 2, p. 35."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por consecuencia.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y porque diciendo esto se le ofreció que aunque le miraba no le veía, y aunque razonaba con El no le respondía palabra, consiguientemente desea poder hablar con él en la manera que con sus compañeros hablaba.»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job , 16 (1. 267)."
+        },
+        {
+          "texto_cita": "«Se queda [el hombre] como un vaso de barro frágil quebradizo, y sujeto como antes á la alteracion, corrupción y muerte, y consiguientemente á las enfermedades y miserias de esta vida.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Trib . 1. 26 (R. 60. 410 1 )."
+        },
+        {
+          "texto_cita": "«Habiéndose podido prometer sin ofensa de Dios la seguridad de que se trata, consiguientemente se ha de poder cumplir lícitamente.»",
+          "autor": "Márquez",
+          "referencia_obra": ", Gob. crist . 2. 24 (2. 227)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "En seguida.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Del primer golpe le cortaron la mano derecha, y consiguientemente le acabaron.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 14. 12 (R. 30. 421 1 )."
+        },
+        {
+          "texto_cita": "«Volvió su pensamiento á dar orden en las cosas de su casa y consiguientemente en el estado de la república.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 5. 14 (R. 30. 146 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Semejante juramento ficieron los otros ya nombrados, jurando de todos tiempos mirar al servicio del rey --- é consiguientemente ficieron juramento los unos á los otros --- de guardar el estado é honor del otro.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 89 (235)."
+        },
+        {
+          "texto_cita": "«E respondian las partes é los sacerdotes é descian: Amén. E consiguientemente desmembraban la puerca.»",
+          "autor": "",
+          "referencia_obra": "Ib . 89 (233)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Formado de consiguiente con el sufijo mente . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,566 @@
+{
+  "lema": "APOSTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Pactar entre sí los que tienen alguna disputa ó competencia que quien salga vencido en ella perderá cierta cantidad ú otra cosa ( trans .). Las personas que figuran en el pacto pueden aparecer gramaticalmente: como sujeto del verbo: Ellos, él y ella apostaron; una como sujeto y otra precedida de con ó en dat. : El apostó conmigo, yo le apuesto. Otras veces aparece sólo uno de los contendores, como sujeto, cual si meramente se quisiera proponer la apuesta. En las citas del presente párrafo se verán ejemplificadas estas construcciones.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Quién apostaba ropa, quién ganado, | Quién tierras de labor, quién granjerías.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 29 (R. 17. 109 1 )."
+            },
+            {
+              "texto_cita": "«El rey ha apostado contra él seis caballos bárbaros.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet , 5. 5 (R. 2. 548)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar la materia de la competencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ha apostado el hablador | Un doblón de á ocho conmigo | A que no me pagáis hoy.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante , 2. 3 (R. 39. 152 1 ). —"
+            },
+            {
+              "texto_cita": "«Ayer noche apostaba yo al marido de la graciosa seis onzas de oro á que no tienen esta tarde en su corral cien reales de entrada.»",
+              "autor": "Mor.",
+              "referencia_obra": "La comedia nueva , 2. 1 (R. 2. 365 2 )."
+            },
+            {
+              "texto_cita": "«Son cuidados | Que las señoras tenemos. | — ¿Y cuál es el que te aflige?... | Un abanico te apuesto | A que lo acierto.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La niña en casa , 1. 2 (3. 78). —"
+            },
+            {
+              "texto_cita": "«Un cuarto apostaré á que en este instante | Dice, hablando del león, algún amante, | Que de la misma muerte haría gala, | Con tal que se la diese la zagala.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 3. 7 (R. 61. 367 2 )."
+            },
+            {
+              "texto_cita": "«Su carta de usted se habrá extraviado en Oviedo ó Gijón; y apuesto esta pluma (que es acaso lo menos despreciable que poseo) á que soy el primero después del venerable tío, á quien usted anunció su satisfacción.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp . con Posada (R. 50. 178 1 )."
+            },
+            {
+              "texto_cita": "«Yo no he menester citar los nombres de tantos ilustres calumniados; pero apostaré mi cabeza á que si se presenta su lista á mis lectores, para que señalen con el dedo los que crean capaces de cometer tan grave y ruin delito, resultará de este criterio que la más considerable parte de nosotros queda exceptuada y libre de tan infame presunción.»",
+              "autor": "",
+              "referencia_obra": "Id Def. de la Junta Central , 1. 2 (R. 46. 524 2 )."
+            },
+            {
+              "texto_cita": "«Pues apostara | La cabeza á que mi padre | Lo aprueba y me da las gracias.»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojigata , 3. 14 (R. 2. 415 1 )."
+            },
+            {
+              "texto_cita": "«¿A que no tiene reglas la comedia de hoy? — ¡Oh! eso yo te lo fío: bien puedes apostar ciento contra uno á que no las tiene.»",
+              "autor": "",
+              "referencia_obra": "Id. La comedia nueva , 1. 1 (R. 2. 359 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Como se ve por los ejemplos que preceden, el uso actual no permite la omisión de la preposición delante de que , cuando va expreso el acus. En época anterior era vario el uso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo apostaré un brazo que puede Camacho envolver en reales á Basilio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 20 (R. 1. 445 1 )."
+            },
+            {
+              "texto_cita": "«Apostaré un ducado que mi roña | Acabas de entender en este verso, | Al fuego condenando mi zampoña.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 7, sát. á una dama (R. 69. 272 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué apostaremos, ¡ah perros! | Que no me alcanzáis de un salto?»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Las mocedades del Cid , 1ª pte. 2 (R. 43. 249 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porfiar, mas no apostar.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": "."
+            },
+            {
+              "texto_cita": "«Apuestas en favor y contra había, | Otros sin apostar dudosamente | Hacia el oriente vueltos, aguardaban | Si los febeos caballos asomaban.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 2 (R. 17. 10 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Omitido el acus. , ó porque no se fija lo que ha de perder el vencido ó por no venir á cuento el decirlo, tiene todavía cabida el compl. con á , para expresar la materia de la contienda.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los he visto yo en sus fiestas, holguras y juegos apostar á correr de dos en dos con gran ligereza.»",
+              "autor": "",
+              "referencia_obra": "Ovalle, Hist. de Chile , fol . 86 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Fuertes, valerosos griegos, | ¿Hay quien me apueste á luchar? | — Luchemos los dos.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El dueño de las estrellas , 1. 7 (R. 20. 269 2 )."
+            },
+            {
+              "texto_cita": "«Apostaría | A que tienen mala cena | Mis amos.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Los dos sobrinos , 4. 14 (1. 41)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Es raro que en lugar de formar el compl. un infin. ó una prop. indic. , lo forme un sust. ordinario ó un pred.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un alma su amada encierra, | Que puede apostar á juicio | Con la más fina Lucrecia.»",
+              "autor": "Forner",
+              "referencia_obra": ", rom . 9 (R. 63. 332 2 )."
+            },
+            {
+              "texto_cita": "«Viéndote en pobrezas tantas | Que en tu amor á firme apuestas --- | Me acordó mi hambre prolija | De un mercader rico y sano | De mi tierra.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante , 1. 8 (R. 39. 148 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Ahora, como en tiempo de Cervantes, se omite comúnmente la prep. antes de que , cuando falta el acus. natural; probablemente el carácter aseverativo que asume el verbo hace que venga á significar algo como Sostener con apuesta. Admitida esta análisis, la prop. indic. es el verdadero acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Apostaría que tiene en sus papeles notadas algunas cosillas sobre esta materia de que le queremos hablar.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 15)."
+            },
+            {
+              "texto_cita": "«Apostaré yo que hace melindres, y que niega el hurto con habérsele cogido en las manos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 116 1 )."
+            },
+            {
+              "texto_cita": "«Apostaría yo, Ricardo amigo, que te traen por estos lugares tus continuos pensamientos.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 2 (R. 1. 119 1 )."
+            },
+            {
+              "texto_cita": "«Yo apostaré que lleva aquel juez víboras en el seno, pistoletes en la tinta y rayos en las manos, para destruír todo lo que alcanzare su comisión.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 5 (R. 1. 163 2 )."
+            },
+            {
+              "texto_cita": "«Apostaré que es ya de día, y que debe hacerse alguna fiesta en un monasterio de nuestra Señora del Carmen que está aquí cerca.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 8 (R. 1. 186 2 )."
+            },
+            {
+              "texto_cita": "«Apostaré, replicó Sancho, que piensa vuestra merced que yo he hecho de mi persona alguna cosa que no deba.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 20 (R. 1. 298 1 )."
+            },
+            {
+              "texto_cita": "«Apostaré que está mirando la mula de alquiler que está muerta en esa hondonada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 23 (R. 1. 308 1 )."
+            },
+            {
+              "texto_cita": "«También mi señor es poeta; todo lo sabe, todo lo alcanza: yo apostaré que si quisiera ser albañil, que supiera fabricar una casa como una jaula.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 6 (R. 1. 416 2 )."
+            },
+            {
+              "texto_cita": "«Yo apostaré, dijo D. Quijote, que debe de ser más amigo de Camacho que de Basilio el tal bachiller.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 20 (R. 1. 446 2 )."
+            },
+            {
+              "texto_cita": "«Estos bien nos han conocido; yo apostaré que han leído nuestra historia, y aun la del aragonés recién impresa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 61 (R. 1. 534 2 )."
+            },
+            {
+              "texto_cita": "«Apostaré que el ánima del muerto | Por gozar este sitio hoy ha dejado | La gloria donde vive eternamente.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes . (R. 1. 709 2 )."
+            },
+            {
+              "texto_cita": "«A chinches hiede, dije yo; apostaré que alojan por aquí los zapateros.»",
+              "autor": "Quev.",
+              "referencia_obra": "Zahurdas (R. 23. 311 2 )."
+            },
+            {
+              "texto_cita": "«Yo apostaré que no sabe por qué traigo este sombrero con la falda presa arriba.»",
+              "autor": "",
+              "referencia_obra": "Id. Gran Tac . 14 (R. 23. 509 2 )."
+            },
+            {
+              "texto_cita": "«En la mano tengo excusas, | Que, siendo tú misma el juez, | Apostaré que otra vez | Ni te quejas ni me acusas.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "redond. Mil quejas , niña (R. 42. 296 1 )."
+            },
+            {
+              "texto_cita": "«Yo apostaré que en Castilla | Se humillan los más lozanos.»",
+              "autor": "Góng.",
+              "referencia_obra": "déc. Pensé , Señor (R. 32. 486 1 )."
+            },
+            {
+              "texto_cita": "«Apostaré que Lucinda | Debe de andar por aquí.»",
+              "autor": "Lope",
+              "referencia_obra": ", El arenal de Sevilla , 4. 14 (R. 41. 545 2 )."
+            },
+            {
+              "texto_cita": "«Agil y andaluz mancebo | Eres, Tello, y yo me atrevo | A apostar que á dos liciones | Que te dé solas, te pones | En los caballos de Febo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Todo es ventura , 2. 1 (R. 20. 125 2 )."
+            },
+            {
+              "texto_cita": "«¿Y quién será el amante infeliz que se viene á puntear á estas horas en ese callejón tan puerco? Apostaré que son amores con la moza de la posada, que parece un mico.»",
+              "autor": "Mor.",
+              "referencia_obra": "El sí de las niñas , 3. 1 (R. 2. 434 2 )."
+            },
+            {
+              "texto_cita": "«Apostaré que me viene á hablar de los cómicos.»",
+              "autor": "",
+              "referencia_obra": "Id. Hamlet , 2. 9 (R. 2. 502)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Suena menos bien la omisión de á delante de una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Apostando entre sus doncellas cuál arrojaba más lejos la flecha.»",
+              "autor": "",
+              "referencia_obra": "Corral, Argenis , fol . 128 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part . En el siguiente lugar se toma como deponente por Que se ha comprometido ó empeñado con apuesta. ¿No será un portuguesismo de Fr. Luis?",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con la recordación desta palabra luégo recoja y componga su corazón, y su cuerpo, y sus sentidos, como hombre (si decirse puede) apostado á nunca desmandarse en nada, ni desviarse de la presencia de su Señor.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 15, § 1 (R. 8. 496 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Competir, rivalizar ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en , para expresar la materia de la contienda, y con , para expresar la persona con quien se compite.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con estas cosas quedaron tan bien doctrinados sus limosneros, que daban lo que les mandaba el santo arzobispo y lo que tenían, y apostaban en actos de piedad unos con otros; y en solo esto y la virtud y oración había competencia en aquella casa.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Tomás de Villan . 4 (R. 48. 65 2 )."
+            },
+            {
+              "texto_cita": "«Recibir de Dios para dar á Dios, es en cierta manera apostar con él en liberalidad.»",
+              "autor": "",
+              "referencia_obra": "Id. Polític. de Dios , 2. 23 (R. 23. 107 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Análogo sentido tiene la frase idiomática Apostarlas , apostárselas á alguno , con alguno: declararse su competidor, competir con él.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuyos insignes maestros y estudiantes las pueden apostar con los más aventajados de cualquiera otra arte:»",
+              "autor": "",
+              "referencia_obra": "Ovalle, Hist. de Chile , fol . 126 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«En correr sortijas puede | Apostárselas al rey | Y á mí. »",
+              "autor": "Cald.",
+              "referencia_obra": "Mañana será otro día , 3. 3 (R. 7. 539 3 )."
+            },
+            {
+              "texto_cita": "«Esta crítica ha sido para mí una lección. Confesaré sinceramente que no he acertado á aprovecharme de ella, si en mi colección no se halla más de la mitad de fábulas que en la claridad y sencillez del estilo no pueda apostárselas á la prosa más trivial.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb. pról . (R. 61. 357 2 )."
+            },
+            {
+              "texto_cita": "«¿No es bastante lo que he ensartado para poder apostárselas á todos los juristas presentes, pretéritos y futuros?»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Erud . (1. 249)."
+            },
+            {
+              "texto_cita": "«En punto á sutilezas, veo que puede usted apostárselas al mismo Escoto.»",
+              "autor": "Gallego",
+              "referencia_obra": ", Diál. crít . (R. 67. 439 2 )."
+            },
+            {
+              "texto_cita": "«No merece grande elogio la policía de los teatros de Londres: el populacho de esta capital (que puede apostárselas en ferocidad é ignorancia al primero en Europa) tiene facultad por el dinero que da á la puerta, de gritar, cantar, alborotar.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 238."
+            },
+            {
+              "texto_cita": "«Vi --- un altar, rico de mármoles, dedicado á san Antonio de Padua, de lo más extravagante que pudo soñar Churriguera; y en frente de esta iglesia hay un cierto palacio, que se las apuesta con el altar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1, p. 458."
+            },
+            {
+              "texto_cita": "«Esta mujer pasaba por simple, por tonta: á fe que en todo el transcurso de su vida de sirvienta pudo apostárselas á la más hábil y honrada.»",
+              "autor": "Hartz.",
+              "referencia_obra": "El ama de llaves (369)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El Dicc. Autor. comprueba con el pasaje de Ovalle citado arriba la acepción de Emularse, que bajo el título de recíproco se encuentra en el Vulgar. No sabemos si se hallan ejemplos que cuadren mejor con dicha calificación.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "La Academia da también á esta frase el significado de Amenazar.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En apostárselas el se puede ser reflejo, es decir, referirse al sujeto: El palacio se las apuesta con el altar, como Tuvo que habérselas conmigo (Tuve que habérmelas con él); ó bien oblicuo, referente á un dativo inmediato: Usted se las apuesta al mismo Escoto, como Se las chantó al mercader. Por aquí se echa de ver la incoherencia gramatical de este pasaje:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando este enorme trozo del hielo empedernido no me ha levantado un chichón, digo que quedo apostárselas á cabeza con el coloso de Rodas.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell . (R. 63. 395 2 ). El puedo exige luégo apostármelas ; pero éste sería inaceptable, porque se aparta de la forma consagrada por el uso en esta expresión. Debió pues ponerse tan solo apostarlas , ó bien adoptar otro giro, como Puede mi cabeza apostárselas á la del coloso de Rodas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Poner una ó más personas ó caballerías en puesto ó paraje señalado para algún fin. Es de mucho uso como término militar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Repitió el infeliz lo que había dicho á la mujer, añadiendo que ya anteriormente Cemaco había tratado de dar muerte á Vasco Núñez, y que para eso había apostado guerreros suyos disfrazados de trabajadores en una de sus labranzas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 288 2 )."
+            },
+            {
+              "texto_cita": "«Al ver la novedad, avisaría | El zagal que aposté sobre la loma.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Alfonso el Casto , 1. 7 (57)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otros cuerpos pequeños se iban apostando por todos los caminos y sendas del Parnaso, que absolutamente ignoraban los enemigos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Derr . de los pedantes (R. 2. 572 2 )."
+            },
+            {
+              "texto_cita": "«Aunque Rodrigo se apostó en parte donde avisado pudiese efectuar su unión, sea descuido, sea error, ésta no se verificó.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cid (R. 19. 206 2 )."
+            },
+            {
+              "texto_cita": "«Mandando á su alférez Juan de Silva que tendiese su bandera, se apostó en la plaza de San Antolín.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Álv. de Luna (R. 19. 412 2 )."
+            },
+            {
+              "texto_cita": "«Tomadas estas disposiciones, se salió de la plaza y se fue á apostar en Gerona con un cuerpo de tropas escogidas, para atender desde allí y acudir á donde fuese menester hostigar y fatigar al enemigo para romper y burlar sus intentos.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. inéd . p. 139."
+            },
+            {
+              "texto_cita": "«Se llamó batallón sagrado, se apostó en otra de las avenidas de la casa real para rondar, observar y hacer el servicio de guerra que las circunstancias exigiesen.»",
+              "autor": "",
+              "referencia_obra": "Id. Cartas á L. Holland , 6 (R. 19. 563 1 )."
+            },
+            {
+              "texto_cita": "«¿Cómo has perdido | Hoy el golpe también? ¿Dó te apostaste? | Cerca de Burgos, respondió; en el paso | Que cierran á una mano los tapiales | De la arruinada ermita, y á la otra | El espeso encinar.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 9 (2. 340)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Formando el mismo león una enramada, | Mandó al asno que en ella se ocultase--- | Pues apenas se vio bien apostado, | Cuando---»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 3. 14 (R. 61. 368 2 )."
+            },
+            {
+              "texto_cita": "«Se refería haber pasado los franceses el famoso desfiladero de Despeñaperros, sin tropiezo alguno, retirándose fugitivas y dispersas las poquísimas tropas constitucionales apostadas en aquel paso.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 427."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Usábase generalmente en el sentido de Adornar, ataviar, aparejar, proveer.) — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿E quién dubda que --- las dulçes voçes é fermosos sones non apuesten e acompañen todo rimo, todo metro, todo verso?»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 10."
+        },
+        {
+          "texto_cita": "«Salió otra mujer de las del señor, la qual venia apostada segun esta otra, con tales vestimentas coloradas, con tal cimera é con tales aparejos, é con tales cerimonias como la primera.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 174."
+        },
+        {
+          "texto_cita": "«Todos cuantos con él venian traian vestidos de pellejos, dellos traian el pelo á fuera é dellos adentro; é tambien apostados que parescian ferreros que salian de labrar fierro.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 159."
+        },
+        {
+          "texto_cita": "«Cierto es | Que nunca vy al marques | De tal jaes apostado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 146."
+        },
+        {
+          "texto_cita": "«Non saldredes denodado, | Mas vestido é apostado | De rropa maginativa.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 113."
+        },
+        {
+          "texto_cita": "«Gasté toda mi fazienda | Por bien apostar tres lanzas | Para mis fuertes andanzas.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 71."
+        },
+        {
+          "texto_cita": "«Non truxe mucho dinero | Nin vine muy apostado.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 65. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Conosce como Dios de muchos bienes le dotara, | Al omne de riquesa e de rason apostara.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1503 (R. 57. 473 2 )."
+        },
+        {
+          "texto_cita": "«Otrosi mandó al su tesorero que diese á Mosén Beltran treinta mil francos para se apostar é encavalgar é armar.»",
+          "autor": "",
+          "referencia_obra": "Crón . Pedro I , 18. 18 (R. 66. 562 1 )."
+        },
+        {
+          "texto_cita": "«Todo cazador debe ser muy apostado en sus aves --- debe traerlos [los halcones] bien guarnidos et bien apostados, et para esto andar bien apercebido de traer buenos capirotes.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 47 ( Bibl. venat. 3. 338)."
+        },
+        {
+          "texto_cita": "«Desque los cuchillos et tijeras hobieren derribado, et apuestan las tijeras cuanto dos dedos, sácalo de la muda en la noche, et ande en la mano.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 40 ( Bibl. venat. 3. 311. Es de sospecharse que en vez de apuestan , haya de leerse apuntan ; el pasaje paralelo de D. Juan Manuel dice:"
+        },
+        {
+          "texto_cita": "«De que fueren saliendo las tiseras.»",
+          "autor": "",
+          "referencia_obra": "Caza , 9, ubi supra 3. 76)."
+        },
+        {
+          "texto_cita": "«Lo que vno denuesta | Veo otro loarlo, | Lo que este apuesta | Aquel otro afearlo.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 57 (R. 57. 335 1 )."
+        },
+        {
+          "texto_cita": "«Su hueste luego alcançaron, | Vn dia amanesçiente, | Los xristianos apostaron, | Commo fueron noblemente.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1302 (R. 57. 516 2 )."
+        },
+        {
+          "texto_cita": "«Hay algunos montes que son muy espesos et non son muy grandes, et son bien apostados.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 21 ( Bibl. venat. 1. 71)."
+        },
+        {
+          "texto_cita": "«Et esto facian ellos porque avia muy poco tiempo que fuera el fuego muy grande, et coydando que estaban mal apostados.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 300 (R. 66. 366 1 )."
+        },
+        {
+          "texto_cita": "«Es un decir fermoso e saber sin pecado, | Rason mas plasentera, fablar mas apostado.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 5 (R. 57. 227 1 )."
+        },
+        {
+          "texto_cita": "«Joglares para te facer alegría et solaz, et muy buena posada, mucho apostada de camas et de estrados --- de todas estas cosas á ti non mengua nada.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 25 (R. 51. 375 1 )."
+        },
+        {
+          "texto_cita": "«Et las mentiras que dicen, sábenlas tan bien apostar et aprovecharse en ellas que me traen á mí grand daño.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 42 (R. 51. 395 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "En última instancia todas las acepciones se refieren á poner , aunque inmediatamente proceden de distintos derivados de éste: por Hacer apuesta, se acerca á puesta , en el juego ( cp. it. posta , puesta, compromiso); por Adornar, á apuesto ; por Situar gente ó caballerías, á posta . Port. apostar , hacer apuesta, adornar, aparejar; apostado , firmemente resuelto; fr. aposter , poner en acecho; poster , poner en un puesto, it. appostare , id.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas: apuest-o , as , a , an ; apuest-e , es , e , en ; apuesta tú ; pero en el sentido de Situar gente ó caballerías es regular, según la Acad. : yo aposto .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans.: 1, a - 1, b , β - 2 . — Intrans .: 1, b . — Refl.: 2, α , α α . — Part. : 1, a , ε - 2, α , β β . — Con á : 1, a , β , δ . — Con : 1, a , β - 1, β , α , β . — Contra: 1, a , α . — En : 1, b , α , β . — Con dat .: 1, a , β - 1, β , β . — Con prop. indic .: 1, a , β , α α - 1, a , δ , β β . — Prop. interr .: 1, a , δ , γ γ . \u0000"
+}

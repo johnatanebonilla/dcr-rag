@@ -1,0 +1,242 @@
+{
+  "lema": "DESASIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Soltar lo que está asido á otra cosa ó los objetos que están asidos entre sí ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto le dijo al desatar las manos--- | Bajó luego á los pies por desasirlos.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 3 (R. 42. 142 2 )."
+            },
+            {
+              "texto_cita": "«Metí en paz la brega, desasí á los dos, y levanté al corchete del suelo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 11 (R. 23. 506 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Recípr. Soltarse los que se tienen asidos mutuamente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero al cabo los dos se desasieron, | Y otra vez á las armas acudieron.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 15 (R. 17. 58 2 )."
+            },
+            {
+              "texto_cita": "«Mudamos de baile, de manera que fue menester que las pastoras nos desasiésemos y diésemos las manos á los pastores.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 16 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Soltarse el que está asido por otro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vio que la moza forcejaba por desasirse, y D. Quijote trabajaba por tenerla.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 16 (R. 1. 287 1 )."
+            },
+            {
+              "texto_cita": "«Yo me así luégo de la cola, y las peregrinas de mí, y --- llegamos á la orilla, donde el caballo nos rocio por la puerta falsa, que debía de venir acebadado; pero no por eso me desasí hasta verme ya pisar la orilla.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 3 (R. 18. 449 1 )."
+            },
+            {
+              "texto_cita": "«Asióme | La alcayata de la aldaba | Por los tiros del estoque. | Aquí para desasirme | Fue fuerza que atrás me torne.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La verdad sospechosa , 2. 9 (R. 20. 331 1 )."
+            },
+            {
+              "texto_cita": "«Los riscos darán un día de alto abajo horrendo estampido. Desasiránse los montes; reventarán los cielos.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 4 (271)."
+            },
+            {
+              "texto_cita": "«Algunas de las galeras enemigas, que pudieron desasirse, tomaron la vuelta de Nápoles.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 221 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de , para expresar la cosa de que el objeto queda suelto ó libre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Do se representan [en los gestos del que muere] las crudas agonías en que dentro anda [el alma], entre el amor de la vida y temor del infierno, hasta que la muerte con su cruel mano la desase de las entrañas.»",
+              "autor": "",
+              "referencia_obra": "P. de Oliva, Diál. (R. 65. 389 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tenía ya el medio cuerpo en el río, y la cabeza debajo del agua, forcejando con los pies por desasirse de las pastoras, que su desesperado intento estorbaban.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 6 (R. 1. 95 1 )."
+            },
+            {
+              "texto_cita": "«Halláse Leocadia entre los brazos de Rodolfo, y quisiera con honesta fuerza desasirse dellos.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 6 (R. 1. 171 2 )."
+            },
+            {
+              "texto_cita": "«Solo Sancho se desesperaba porque no podía desasirse de un criado del canónigo que le estorbaba que á su amo no ayudase.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 52 (R. 1. 398 2 )."
+            },
+            {
+              "texto_cita": "«Así la hallastes | Diciendo cuando llegastes | Que peligraba su honor, | Y á mí procurando della | Desasirme y ausentarme.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo , 2. 9 (R. 20. 72 3 )."
+            },
+            {
+              "texto_cita": "«Al fin del velo me desasgo, y pierdo | Con él algunas hebras del cabello.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 144 2 )."
+            },
+            {
+              "texto_cita": "«Aquella nave Argos, que se atrevió la primera á desasirse de la tierra y entregarse á los golfos del mar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 68 (R. 25. 186 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Procurando verme | Dél con alguna traza desasido, | Comienzo á andar apriesa.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "sát. Yendo por la vía sacra (R. 42. 358 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entrañada estaba [su bondad] en él, y embebida en las venas, y aunque le has, dice, desasido de lo demás, no has podido desasirle de su bondad.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 2 (1. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siento que ya la vida se me acaba, | Y que el alma comienza á desasirse.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 11 (R. 17. 261 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. En especial, Dejar libre de cosa á que está uno ligado ó apegado por la afición ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con aquella palabra la apresuró Dios á sí mismo, y la sacó y desasió de aquesto vísible, y en medio del mundo la puso consigo solo.»",
+              "autor": "León",
+              "referencia_obra": ", Vida de Sta. Ter. (2. 372)."
+            },
+            {
+              "texto_cita": "«Los sorberá él en su ira, ó en la otra vida con la pena y purgación del purgatorio, ó en ésta con penas y trabajos que para desasirlos de los apetitos les envía.»",
+              "autor": "",
+              "referencia_obra": "S. Juan de la Cruz, Monte Carm. 1. 8 (R. 27. 13 1 )."
+            },
+            {
+              "texto_cita": "«Añadía que los mismos superiores, cuantlo mandaban alguna cosa á sus súbditos, no les habían de dar por razón de aquel mandamiento otros respetos humanos sino solo el servicio ó la mayor gloria de Dios, para desasirlos de los afectos humanos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. 21 de Junio ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Ordinariainente se usa como refl . Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Créanme esto, que --- el estilo que pretendemos llevar es no sólo de ser monjas, sino ermitañas, y ansí se desasen de todo lo criado.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 13 (R. 53. 335 1 )."
+            },
+            {
+              "texto_cita": "«Porque todo lo que os he avisado en este libro, va dirigido á este punto de darnos del todo al Criador, y poner nuestra voluntad en la suya, y desasirnos de las criaturas.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib . 32 (R. 53. 360 1 )."
+            },
+            {
+              "texto_cita": "«Y por eso se hallan pocos contemplativos, porque poquítos saben desasirse del todo de las criaturas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Imit. 3. 36 (R. 11. 408 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo su estudio de aquella santa compañía de religiosas era, desasidas y olvidadas de todo lo que no es Dios, abrazarse con su divino Esposo.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 12 ( Míst. 1. 151). — Absol."
+            },
+            {
+              "texto_cita": "«Lo cual dice el Apóstol, enseñándonos cuán desasida nos conviene tener el alma para ir á Dios.»",
+              "autor": "",
+              "referencia_obra": "S. Juan de la Cruz, Monte Carm. 1. 11 (R. 27. 16 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. desasir . Véase ASIR . No se halla en Nebrija , pero sí en el Vocabulista arábigo de P. de Alcalá.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares desasgo; desasg-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

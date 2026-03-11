@@ -1,0 +1,123 @@
+{
+  "lema": "DESENCONAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Mitigar, quitar la inflamación ó encendimiento de lo que está enconado ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Que él solo por sí solo te perdona | Tus culpas y maldades | Y cura lo herido y desencona, | De tus enfermedades.»",
+          "autor": "León",
+          "referencia_obra": ", Poes. 3, salmo 102 (4. 606)."
+        },
+        {
+          "texto_cita": "«Dígale á su madre si quiere unas cuentas de leche para desenconar los pezones.»",
+          "autor": "",
+          "referencia_obra": "Pic. Justina , 1. 1. 1 (R. 33. 61 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Desahogar el ánimo enconado ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejemos llorar al que dolor tiene, que las lágrimas é sospiros mucho desenconan el corazón dolorido.»",
+              "autor": "Celest.",
+              "referencia_obra": "1 (R. 3. 6 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suplico á vuestra merced la vea [mi letra], y si le pareciere digna de que su Majestad la vea, se la muestre, y si no, la rompa, porque para mí bástame haberme desenconado en haberlo fecho.»",
+              "autor": "Mend.",
+              "referencia_obra": "(R. 21. XXIII 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desenconado ya con haber ultrajado á su voluntad al afligido inocente, entra agora á tratar la causa de Dios.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 15 (1. 242)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Moderar, calmar el encono ó enojo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con su moderación logró desenconar los ánimos.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A todos los mira como á enemigos, y para con ninguno tiene su ánimo desenconado y amable.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Príncipe (3. 225)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con de, para expresar el mal ánimo que uno depone.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con el buen ánimo que conocieron en mí, se desenconaron del ruin que ellos tenían.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 18 (R. 18. 470 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. Perder una cosa su violencia; y por extensión, Hacerse suave una cosa perdiendo la aspereza. Acad. Dicc.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si algún fuego te quema, es como paja, | Que en un instante crece y se reposa. | Poca es la diligencia que lo ataja, | Y su furor se apaga y desencona | Por arrojar en él cualquier alhaja.»",
+          "autor": "Mend.",
+          "referencia_obra": "carta 9 (R. 32. 65 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y enconar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

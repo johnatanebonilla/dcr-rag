@@ -1,0 +1,287 @@
+{
+  "lema": "COMPARACIÓN",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Acción y efecto de comparar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo el artificio del silogismo consiste en comparar los extremos con un término medio, para deducir la relación que tienen entre sí. Cuando se conocen ya, y se tienen presentes esos extremos y ese término medio, nada más sencillo que hacer la comparación.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Criterio , 15, § 4 (119)."
+            },
+            {
+              "texto_cita": "«La verdad que comúnmente se dice, de que toda comparación es odiosa, en la de las bellezas viene á ser odiosísima.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 4. 3 (R. 1. 664 2 )."
+            },
+            {
+              "texto_cita": "«Cuente vuesa merced su historia como debe, que ya sabe que toda comparación es odiosa, y así no hay para qué comparar á nadie con nadie.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 23 (R. 1. 453 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Para designar los objetos comparados se emplea:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Entre... y .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esmaltada de vivísimas imágenes y animada de vehemente expresión es la comparación que hace don Diego Saavedra entre la paz y la guerra.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. apénd . 1 (597). — Nótese la incongruencia de la construcción en el siguiente pasaje:"
+            },
+            {
+              "texto_cita": "«Siendo tanta la ventaja de Criador á criatura, y de Dios á hombre, ¿qué comparación puede haber entre lo que hace Dios por su propria mano, con lo que hace el hombre por la suya?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4. 12, § 2 (R. 6. 503 1 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "De... con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué comparación hay de fuego que dura por espacio de una avemaría con luego que durará eternalmente, mientras Dios fuere Dios?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 2. 30, § 1 (R. 6. 673 2 )."
+            },
+            {
+              "texto_cita": "«Proverbio fue de los antiguos: Purpura iuxta purpuram diiudicanda , para mostrar que las cosas se conocen mejor con la comparación de unas con otras.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 16 (R. 25. 44 1 )."
+            },
+            {
+              "texto_cita": "«Este influjo se conocerá fácilmente por la simple comparación de las ventajas que la facilidad de adquirir la propiedad territorial proporciona al cultivo, con los inconvenientes resultantes de su dificultad.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1 a . clase (R. 50. 99 1 ). — Dicho se está que puede cambiarse el giro de modo que desaparezca el de ."
+            },
+            {
+              "texto_cita": "«¿Qué victoria, aunque junten en uno todo lo próspero en armas, y lo victorioso y valeroso que ha habido, traída con esta victoria á comparación, tiene sér?»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Brazo (3. 162)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "De... á . Esta combinación no tiene cabida sino con la frase hacer comparación .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así hablaba con ellas [con las ruinas de la cuidad], y hacía comparación de sus miserias á las suyas, como si ellas fueran capaces de entenderle.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 2 (R. 1. 119 1 )."
+            },
+            {
+              "texto_cita": "«¿Y es posible que vuestra merced no sabe que las comparaciones que se hacen de ingenio á ingenio, de valor á valor, de hermosura á hermosura y de linaje á linaje son siempre odiosas y mal recebidas?»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 1 (R. 1. 407 1 )."
+            },
+            {
+              "texto_cita": "«Luégo tengo de hacer comparación de este pecado á los muchos míos, ponderando con cuánta más razón merecía yo estar en el infierno.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 1. 2 (1. 68)."
+            },
+            {
+              "texto_cita": "«No hagas comparación de uno á otro, porque es cosa odiosa.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Avisos (R. 53. 286 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "De... y.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La simple comparación de sus ventajas é inconvenientes arrojaba un resultado cierto y constante.»",
+              "autor": "",
+              "referencia_obra": "Jovell Ley agraria, 1ª. clase (R. 50. 112 1 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Correr la comparación: haber la igualdad y proporción correspondiente entre las cosas que se comparan. Acad. Dicc .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Hacer comparación: ser comparable.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es la desesperación | Pecado tan malo y feo, | Que ninguno, según creo, | Le hace comparación.»",
+              "autor": "",
+              "referencia_obra": "Cerv . La gran sultana, 3 ( Com . 2. 96)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "En comparación de: si vamos á comparar con, hecha la comparación, en vista de, con respecto á.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí se ve claro, Jesús mío, el poco poder de todos los demonios en comparación del vuestro.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 28 (R. 53. 86 1 )."
+            },
+            {
+              "texto_cita": "«El oro siempre es poco en comparación de la plata, ni es tan usual ni tan ordinario .»",
+              "autor": "Mariana",
+              "referencia_obra": ", Mon. de vellón , 12 (R. 31. 591 1 )."
+            },
+            {
+              "texto_cita": "«Es figura [el arca de Noé] de cuán poquitos son los que se salvan, en comparación de los que se condenan.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 27, § 2 (R. 6. 103 2 ). —"
+            },
+            {
+              "texto_cita": "«Hermosa, rica y bien nacida es Sinforosa; pero en tu comparación es fea, es pobre y de linaje humilde.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2. 6 (R. 1. 598 1 )."
+            },
+            {
+              "texto_cita": "«Que en vuestra comparación | Pílades y Orestes son | Amiguillos de la legua.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Sin honra no hay amis tad, 1 (R. 54. 295 3 ). — ζ .) Sin comparación : se emplea para reforzar los comparativos ponderando la desigualdad entre dos objetos ó el exceso del uno sobre el otro en aquello de que se trata."
+            },
+            {
+              "texto_cita": "«Una vez, teniendo yo la cruz en la mano, que la traía en un rosario, me la tomó con la suya; y cuando me la tornó á dar, era de cuatro piedras grandes muy más preciosas que diamantes sin comparación, porque no la hay casi á lo que se ve sobrenatural (diamante parece cosa contrahecha é imperfeta) de las piedras preciosas que se ven allá.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 29 (R. 53. 88 2 )."
+            },
+            {
+              "texto_cita": "«Este fin se conseguiría mucho mejor, sin comparación alguna, con las comedias buenas que con las no tales.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 48 (R. 1. 391 1 )."
+            },
+            {
+              "texto_cita": "«Más es sin comparación lo que él pierde al año, que lo que saca de los naipes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 49 (R. 1.506 2 )."
+            },
+            {
+              "texto_cita": "«Mi dama, sea quien fuere, es sin comparación más hermosa que tu Dulcinea del Toboso.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 64 (R. 1. 541 2 )."
+            },
+            {
+              "texto_cita": "«Es mucho mayor sin comparación el alegría que se recibe en El, que en todos los bienes del mundo juntos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 1. 1, § 6 (R. 8. 420 2 )."
+            },
+            {
+              "texto_cita": "«Demás que este lugar es mejor que la cátedra, lo que tratamos agora es sin comparación muy más dulce que lo que leemos allí.»",
+              "autor": "León",
+              "referencia_obra": "; Nomb. 2, introd . (3. 135)."
+            },
+            {
+              "texto_cita": "«¡Gran cosa, señor, que valga más sin comparación hablar de los valientes, y escribir de los virtuosos, y á veces perseguirlos, que ser virtuosos, ni valientes, ni doctos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios, 1. 7 (R. 23. 18 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Retórica . Símil.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No pára en nada [la imaginación], sino de uno en otro, que no parece sino de estas maripositas de las noches, importunas y desasosegadas: ansí anda de un cabo á otro. En extremo me parece le viene al propio esta comparación, porque aunque no tiene fuerza para hacer ningún mal, importuna á los que la ven.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 17 (R. 53. 58 2 )."
+        },
+        {
+          "texto_cita": "«¿No has visto tú representar alguna comedia adonde se introducen reyes, emperadores y pontífices, caballeros, damas y otros personajes? --- y acabada la comedia y desnudándose de los vestidos della, quedan todos los recitantes iguales --- Pues lo mismo acontece en la comedia y trato de este mundo --- ¡Brava comparación! dijo Sancho, aunque no tan nueva que yo no la haya oído muchas y diversas veces.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 12 (R. 1. 427 1 )."
+        },
+        {
+          "texto_cita": "«Blair ha censurado con razón á algunos poetas dramáticos ingleses, que pusieron en boca de los interlocutores en situaciones de mucha agitación largas y estudiadas comparaciones.»",
+          "autor": "",
+          "referencia_obra": "Hermosilla, Arte de hablar, p. 115."
+        },
+        {
+          "texto_cita": "«Un célebre publicista ha dicho que la comparación no es razón, y es imposible negar este axioma.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos, 1, p. 49. —"
+        },
+        {
+          "texto_cita": "«Por comparación se confrontan dos objetos en razón de alguna propiedad, calidad ó circunstancia común a los dos, y, á diferencia del símil, que se toma de alguna imagen que los uniforma metafóricamente, la comparación tiene en dos cosas comparadas un sentido propio y natural, y nunca figurado.»",
+          "autor": "",
+          "referencia_obra": "Capm .Filosof. eloc. apénd. 1 (589)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E como quiera que los franceses eran muchos más sin comparación, los ingleses fueron vencedores.»",
+          "autor": "",
+          "referencia_obra": "Crón . Juan II, 10. 2 (R. 68. 370 1 )."
+        },
+        {
+          "texto_cita": "«Verdaderamente se conoscia que á respecto é en comparacion de la lealtad que debía al rey su señor, ningund otro debdo nin ningund otro pariente tenia en este mundo mas principal que el servicio suyo.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 80 (204)."
+        },
+        {
+          "texto_cita": "«Toda utilidad et provecho es inútil en comparación de la bienaventuranza eterna.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect. 1. 2 (R. 36. 344 1 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«De la muger pequenna non hay comparaçion, | Terrenal parayso es, e grand consolaçion.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1590 (R. 57. 277 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Como el mundo todo sea pequeño en comparacion del cielo, ¿como le podrian llamar grande en tan pequena cosa?»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 33 (R. 51. 153 1 )."
+        },
+        {
+          "texto_cita": "«Non fables ante ningunt omne fasta que oyas su palabra e sepas que conparacion ha entre lo que en ti ha de saber e lo que ha en el, e si fallares que el ha mejoria callate e pugna de ganar algo del»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro , 10 (Knust, 149)."
+        },
+        {
+          "texto_cita": "«Sabe de clerizia quantas artes hy son, | Esforçio e franqueza non ha comparaçion.»",
+          "autor": "",
+          "referencia_obra": "Alex . 138 (R. 57. 151 2 )."
+        },
+        {
+          "texto_cita": "«Avia en si el infante atal comparaçion | Cvemo suele auer el chiquelle [sic] leon, | Quando iaz en la camma e vee la uenaçion, | Non la puede prender e bateiel corazon.»",
+          "autor": "",
+          "referencia_obra": "Ib . 28 (R. 57. 148 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. comparaçao ; cat, comparació ; prov. comparaso ; fr. comparaison ; it. comparazione: del lat. comparationem , comparatio , derivado de comparare , comparar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

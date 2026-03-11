@@ -1,0 +1,473 @@
+{
+  "lema": "FALSEAR, (FALSAR). *",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Falsificar, adulterar, hacer o producir algo en reemplazo de algo valioso.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dicho de cosas materiales (monedas, escritos), Forjar sustitutos para reemplazarlos con dolo ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encarecen que será fácil falsear esta moneda --- porque no tiene plata, y por ella se podrá distinguir la buena de la contrahecha y falsa.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Moneda de vellón, 9 (R. 31. 581 1 ). X"
+            },
+            {
+              "texto_cita": "«Fue estando mi amor dormido; | Que agora que desperté, | Llaues, sospechas, desuelos, | Honra, honestidad y zelos | Falseó, engañó y burló.»",
+              "autor": "Lope",
+              "referencia_obra": ", El castigo del discreto , p. 159. X"
+            },
+            {
+              "texto_cita": "«Quién pensara que el papel | Aquel villano trocara, | Que mi letra falseara | Y me difamara en él?»",
+              "autor": "",
+              "referencia_obra": "Id. El maestro de danzar ( Obr. dramát . 7. 503). X"
+            },
+            {
+              "texto_cita": "«Dicen que desde la Synagoga de Jerusalén se enviaban mensajeros por todo el mundo, para que pusiesen las Santas Escrituras en todas las Synagogas como ellos las havían falseado.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 4. 4 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Falseó D. Álvaro unas cartas de la Reina para confidentes suyos.»",
+              "autor": "",
+              "referencia_obra": "Colmenares, Hist. Segob. 20, §3 ( Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien amar su mujer sabe, | Su amor en ella conserva, | Pues con amalla preserva | Que no le falsee la llave.»",
+              "autor": "Lope",
+              "referencia_obra": ", El Toledano vengado ( Obr. dramát. 2. p. 596). X"
+            },
+            {
+              "texto_cita": "«Teníale en un cofre barreado de hierro, con una llave tan extraordinaria que fuera imposible falseársela ni sacar aquella moneda de allí si no era por aquel camino que Rufina había tomado, saliéndole bien su traza.»",
+              "autor": "Solórzano",
+              "referencia_obra": ", La Garduña de Sevilla , 1 (Cl. C. 42. 85)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son las lágrimas moneda que no se puede falsear, único refugio nuestro; lavan las manchas de nuestros pecados, aplacan la ira de Dios, alcanzan el perdón, alegran el alma ---.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Magd . 3. 25 (Cl. C. 105. 256)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Preguntámosle cómo iban estos mensajeros, si llevaban libros falseados, porque eran mucha carga.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 4. 4 ( Dicc. Autor. )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dicho de instituciones humanas, Desfigurarlas, corromperlas, hacerles perder sus caracteres normales o prístinos ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sufragio —dice el maestro— es la base de la libertad... El pueblo no tendrá libertad mientras los gobiernos falseen las elecciones... Y las falsearán mientras no haya hombres... ¡Ya no los hay!... Roque Bercia ¡ese sí que era un tío!»",
+              "autor": "Azorín",
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 259)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los visires dan el gobierno de los nomos a sus hijos, quienes, saltando los eslabones del antiguo escalafón jerárquico, falsean por completo el aparato administrativo.»",
+              "autor": "Oliván",
+              "referencia_obra": ", tr. Hist. Univ. de Pirenne, 1. 1 (p. 20)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las nuevas instituciones politicas se falsean más o menos en todas las revoluciones.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Escritos polít. (23. 43). X"
+            },
+            {
+              "texto_cita": "«Porque si se quiere acomodar la Constitución al estado social del país, parecerá que se la falsea.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (23. 86)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Dicho de facultades, expresiones o contenidos mentales o psíquicos, Desfigurarlos, contrahacerlos, fingirlos o hacerlos perder autenticidad o calidad ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me lleva el juramento | Ni las suertes que falsastes; | Que el amor y la venganza | Bastaban para llevarme.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Este odio y esta envidia las recoge Jovio falseando la verdad de los acontecimientos, los que Jiménez de Quesada va corrigiendo hasta en el más mínimo detalle.»",
+              "autor": "",
+              "referencia_obra": "Perozzo, Quesada ( Forj. de Col. 1. 23). X"
+            },
+            {
+              "texto_cita": "«No se conoce el motivo que habrá falseado el juicio. Desgraciadamente, los hombres de elevado talento adolecen muy a menudo del defecto que estamos censurando.»",
+              "autor": "Balmes",
+              "referencia_obra": ", El criterio, p. 196. X"
+            },
+            {
+              "texto_cita": "«La tiranía envilece a los caracteres y falsea los talentos: la servilidad, el hábito de adular inventa un estilo exagerado, enfático y tortuoso.»",
+              "autor": "Caro",
+              "referencia_obra": ", Del uso, p. 100. X"
+            },
+            {
+              "texto_cita": "«Lo que lleva a ambos críticos a desestimar el verdadero pensamiento de nuestro autor, actitud que ha contribuído a falsear la imagen que de él tienen algunos.»",
+              "autor": "",
+              "referencia_obra": "Reyes, Grata compañía, 1. 13 (p. 139). X"
+            },
+            {
+              "texto_cita": "«Nuestra mente es porosa para el olvido; yo mismo estoy falseando y.perdiendo, bajo la trágica erosión de los años, los rasgos de Beatriz.»",
+              "autor": "Borges",
+              "referencia_obra": ", El Aleph (El Aleph, p. 174)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No sabes tú que casi todos los arrimos del mundo son falsos, chimeneas tras tapiz, que hasta los parientes falsean y se hallan peligro en los mismos hermanos?»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón, 2. 1 (Cl. C. 166. 26). X"
+            },
+            {
+              "texto_cita": "«Y, lo que es peor, todos son hombres malos. Todos mienten, roban, falsean, perjuran, usurpan, matan y asesinan.»",
+              "autor": "Larra",
+              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 20). X"
+            },
+            {
+              "texto_cita": "«La mano del hombre es terrible para estropear y falsear: dejadle que toque una cosa cualquiera, o la quebranta o la tuerce.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Escritos polít. (23. 42)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aun fuera de los casos en que es menester levantar del fondo de uno mismo la personalidad verdadera, falseada por sortilegios del mundo y aun fuera de aquellos otros en que un hado inconjurable se opone al paso de la vocación que se seguía ---.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 153."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El imitador mejoró extraordinariamente el original, y consignó en sentidísimas estrofas afectos personales y de familia, atristados y falseados por desgracia en la parte final, con la mezcla de la obligada fantasmagoría sepulcral.»",
+              "autor": "Caro",
+              "referencia_obra": ", Bello (Torres Quintero, Bello en Colombia, p. 189)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "En el juego de tresillo, Salir de una carta que no sea triunfo ni rey, en la confianza de que no poseen otra mayor los contrarios, para despistarlos y evitar que se la fallen. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Falsear el caballo.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Arq. Desviar un corte ligeramente de la dirección perpendicular. Cfr. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Fallar o hacer que algo falle no cumpliendo o cumpliendo indebidamente su función propia.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Romper, traspasar la armadura del oponente ( ant. ) ( trans. ). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y no era bastante espada | A falsar aqueste arnés.»",
+          "autor": "Pagés",
+          "referencia_obra": ", Dicc. ). X"
+        },
+        {
+          "texto_cita": "«El amor es una cota de malla que no se puede falsear; despide las saetas, sacude los dardos, escarnece los peligros, burla la muerte.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía, 1. 28, §3 (R. 6. 108 1 ). X"
+        },
+        {
+          "texto_cita": "«Falseando la sobrevista | Hirió el acerado hierro | A mi hermano ---.»",
+          "autor": "Cald.",
+          "referencia_obra": "El alcaide de sí mismo, 1 ( Dicc. Autor. ). X"
+        },
+        {
+          "texto_cita": "«Vos sabréis que no falsea | Los temples de mi armadura | Ni el bote de la pelea | Ni el ruego de la hermosura.»",
+          "autor": "Arolas",
+          "referencia_obra": ", Poes. (Cl. C. 95. 80)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Flaquear, perder una cosa su resistencia o firmeza ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sacaron muchos platos, aunque los más comen simplato, arrastraron sillas, y al punto que el convidado fue a sentarse en una (que no debiera tomarlo tan de asiento), falseóle a lo mejor [la silla] y al caer él, se levantó la risa en todo el teatro.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón, 1. 7 (Cl. C. 165. 111). X"
+            },
+            {
+              "texto_cita": "«Desde el accidente me falsea la pierna derecha.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Dicho de instituciones sociales, Hacer inseguro o débil ( part. adj. ). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Montan un poco más que estos extremos propósitos, aspiraciones imperfectas e insinuaciones tímidas con que individual y dislocadamente lucha hoy la falseada e insegura representación cubana en las Cortes españolas.»",
+          "autor": "Martí",
+          "referencia_obra": ", Sus mejores páginas, p. 40."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Dicho de productos de la mente, Cojear, resultar defectuoso o poco sólido ( intrans .). Con por, para indicar el sitio o punto que cojea. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En cuanto a la vejez, dígote que tu silogismo falsea por los cimientos.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst. (2. 298)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Disonar, no dar el tono correcto ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El bordón de la guitarra falsea»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A una hora que estás martillando esas clavijas, templando más que las cuerdas las locuras del pensamiento. —He quitado dos o tres porque falseaban en los bemoles.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, fol. 214 ( Dicc. Auto r.)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Entre guarnicioneros, Dejar en las sillas hueco o anchura para que los asientos de ella no hieran ni maltraten a la cabalgadura. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Así se evitará también la necesidad de falsear las sudaderas por asentarse demasiado en ciertos puntos causando alunaduras y peladuras.»",
+          "autor": "",
+          "referencia_obra": "Díaz, El agricultor venezolano, 2 (p. 100)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el predominio de la forma falsar ). Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Falzar, contrahazer: falso, -as; adultero, -as.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. X"
+        },
+        {
+          "texto_cita": "«Falsada cosa assí: adulterinus, -a, -um.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. X"
+        },
+        {
+          "texto_cita": "«Falsándolo mesclándolo resina o goma pero conócese de su propiedad. Ca el encienso en el fuego arde a llamas et la resina echa fumo et la goma deslíese.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. Vocab. 513b. X"
+        },
+        {
+          "texto_cita": "«Fazer algo engañoso y burlar con dissimulación; et de esta causa se llama impostor... el alquimista que falsa los metales fingiendo fazer de vn vil metal oro o plata.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 205d. — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«Vino luego en ayuda la salada sardina, | Ferió muy reciamente a la gruesa gallina, | Atravesósele en el pico, afogóla aína, | Después a don carnal falsol la capellina.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1077 (R. 57. 261 1 ). X"
+        },
+        {
+          "texto_cita": "«Suero encontró a Negrete en la falda del guardabrazo izquierdo e dióle tal golpe que se le falsó, e apuntóle en el peto.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 58 (p. 50 2 ). X"
+        },
+        {
+          "texto_cita": "«Encontró Benavides a Vesga en el piastron en derecho del corazón, e falsando el piastron, le apuntó en el peto de las platas.»",
+          "autor": "",
+          "referencia_obra": "ib. 30 (p. 26 1 ). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«Et si falsa su fieldat non face ninguna bondat, e habrá por ello pena en el otro siglo, et después ninguno non le querrá más descobrir su poridat nin fiará dél.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": ", 4 (R. 51. 35 1 ). X"
+        },
+        {
+          "texto_cita": "«Pero cuemo yo creo e mia consciençia, | Non desoredey orfano nin falsey conuecençia; | Siempre ame paze escusey entençia, | Siempre ame paz e amey aueniençia.»",
+          "autor": "Alex.",
+          "referencia_obra": "1543 (R. 57. 195 1 ). X"
+        },
+        {
+          "texto_cita": "«Firme seré en esto, nunca en al creería, | Que non escusa muerte omne por couardía; | Non morra por Achilles Ector ant del día, | Loco fue qui por miedo falsó cauallería.»",
+          "autor": "",
+          "referencia_obra": "ib. 629 (R. 57. 167 1 ). X"
+        },
+        {
+          "texto_cita": "«Dijo Yusuf si eso non quieres pergonar, | Pergona la verdad e non quieras falsar; | Di: ¿Quien compra profeta e de alto lugar? | Filho es de Yacop si le oistes nombrar.»",
+          "autor": "",
+          "referencia_obra": "Poem. de José, 67 (R. 57. 415 2 ). X"
+        },
+        {
+          "texto_cita": "«Diole tan gran ferida de la lanza | Que le falseó todo el escudo, | E le quebrantó el arzón de la silla.»",
+          "autor": "",
+          "referencia_obra": "Crón. Gen. 4. 220 ( Dicc. Autor. ). X"
+        },
+        {
+          "texto_cita": "«E enbiávangelas selladas, por que non las pudiese ninguno falsar.»",
+          "autor": "",
+          "referencia_obra": "Bocados de oro, p. 165. X"
+        },
+        {
+          "texto_cita": "«En gran vergüenza yago mezquino peccador | Quando veo por mal siervo muerto tan buen sennor | Yo falsé su mandado, él muere por mi amor.»",
+          "autor": "Berc.",
+          "referencia_obra": "Loor. 94c (R. 57. 96 2 ). X"
+        },
+        {
+          "texto_cita": "«El diablo andaba por ferse dél seguro; | Mas lo que él buscaba paroseli en duro, | Assaz fizo ensayos, mas non falsó el muro, | Cuydo ser artero, robós por fadeduro.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 46c (R. 57. 95 1 ). X"
+        },
+        {
+          "texto_cita": "«Era muy cobdicioso, querie mucho prender | Falssava los iudizios por gana de aver.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 10 (Cl. C. 44. 61). X"
+        },
+        {
+          "texto_cita": "«Escripto es que el omne allí do es fallado, | O en bien o en mal por ello es iudgado; | Si esti tal decreto por ti fuere falssado, | El pleit del Evangelio todo es descuidado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2 (R. 57. 106 2 ). — Siglo Xll: X"
+        },
+        {
+          "texto_cita": "«Este colpe fecho, otro dio Muño Gustioz: | Por medio de la bloca el escudol crebantó; | Nol pudo guarir, falssóle la guarnizón.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3681 (Cl. C. 24. 296). X"
+        },
+        {
+          "texto_cita": "«Veriedes tantas lanças premer e alçar | Tanta adágara foradar e passar, | Tanta loriga falssar e desmanchar.»",
+          "autor": "",
+          "referencia_obra": "ib. 728 (Cl. C. 24. 145). X"
+        },
+        {
+          "texto_cita": "«Moros le reçiben [a Per Vermudoz] por la seña ganar, | Danle grandes colpes, mas nol pueden falssar.»",
+          "autor": "",
+          "referencia_obra": "ib. 713 (Cl. C. 24. 144)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. falsare, con igual significado. La terminación en -ear terminó por imponerse, aunque los derivados admiten las dos formas Cfr. falsario-falseador. Fr. fausser, it. falsare, port. falsar, cat. falsejar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

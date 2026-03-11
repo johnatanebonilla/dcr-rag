@@ -1,0 +1,60 @@
+{
+  "lema": "AFLUENTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Abundante. Con en.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Nací de honesta madre; diome el cielo | Fácil ingenio en gracias afluente.»",
+          "autor": "",
+          "referencia_obra": "Mor . son. 13 (R. 2. 598 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Absol. En especial, Abundante en expresiones ó palabras.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Juan de la Cueva, --- afluente versificador, que, cultivando todos los géneros de la poesía para no ser perfecto en ninguno, siguió las huellas de Malara, empezó desde el año de 1579 á dar al público sus comedias y tragedias.»",
+          "autor": "Mor.",
+          "referencia_obra": "Oríg. disc. hist. (R. 2. 162)."
+        },
+        {
+          "texto_cita": "«Dotado de ingenio y afluente vena compuso [Juan de la Cueva] varias obras líricas, épicas y dramáticas que le adquirieron general estimación.»",
+          "autor": "",
+          "referencia_obra": "Id. Oríg. catál. 150 (R. 2. 219 2 )."
+        },
+        {
+          "texto_cita": "«Cuánta doctrina al afluente labio | Dieras, y cuántas, inflamado el numen, | Imágenes sublimes hallarías | En los destrozos del mayor imperio!»",
+          "autor": "",
+          "referencia_obra": "Id. epíst. 2 (R. 2. 581 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. affluentem, affluens, part. de affluere , correr, rebosar. El sentido primitivo correr hacia ó á, aparece en el empleo sustantivo por Arroyo ó río secundario que desemboca ó desagua en otro principal.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Suya [de Enrico Martín] es la envidiable gloria de haber proyectado, no el desagüe total y pernicioso de la laguna, sino templar por el escape de Huehuetoca el concurso de sus más bravos afluentes.»",
+          "autor": "Fernández",
+          "referencia_obra": "Guerra, Alarcón , 1. 13 (97)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La combinación ue forma dos sílabas. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

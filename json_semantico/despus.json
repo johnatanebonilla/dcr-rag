@@ -1,0 +1,1182 @@
+{
+  "lema": "DESPUÉS.",
+  "categoria_gramatical": "adv.",
+  "introduccion": "--> adv.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose del orden con que están ó van los objetos de una tila ó serie, señala la situación de los que se hallan al lado ó á la espalda del primero ó de los primeros.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salió la ciudad y sus jurados con sus varas largas, y llevaban nueve pendones delante. Después estaba la procesión muy rica de canónigos, clérigos y religiosos de seis monesterios que allí hay, con trece cruces y capas ricas.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Opúsc. 1, p. 125."
+            },
+            {
+              "texto_cita": "«Iba después Simón, Cristo primero, | Y ambos la cruz llevaban sacrosanta.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 11 (R. 17. 487 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para señalar el objeto que está primero ó adelante.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después del arca --- venía entre acompañamiento ilustre el señor don Enrique Pimentel.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rel. de las fiestas de S. Isidro ( Obr. suelt . 12. LXIX)."
+            },
+            {
+              "texto_cita": "«Después desta cruz visible, había otra invisible en que aquella ánima santísirna estaba dentro del cuerpo crucificada.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, cap. últ . § 1 (R. 8. 91 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Tratándose de objetos colocados en la dirección que uno lleva, señala lo de más adelante, con alusión al tiempo en que se llega.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Media legua después recibe la mar el río de Almería.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón. 1. 2 (1. 15)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuatro leguas después de Almería viene un castillo fuerte y bien labrado, que dicen de las Roquetas.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón. 1. 2 (1. 16)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hablándose del orden con que se tratan las materias en el discurso, señala un punto más distante del principio que aquel en que se está actualmente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Es tan suficiente y de tanta fuerza [el testimonio de Ptolomeo], que él solo sin otra ayuda bastaba para probar manifiestamente todo lo que en esto se quisiera saber, si no hubiera algunos inconvenientes que después mostraremos.»",
+          "autor": "A. Mor.",
+          "referencia_obra": "Antig. disc. gen. 2 (1. 8) ."
+        },
+        {
+          "texto_cita": "«No se sabe la causa de haber dejado este nombre [de Gétulos] y tomado el de Gomeres, pero en solo esto difieren, conformando en todo lo demás; la causa del nombre puede haber sido que fuese de las sierras en que habitan, aunque no da dellas noticia la antigüedad; verdad es que, como después veremos, hubo muy poca en ella desta provincia.»",
+          "autor": "Aldrete",
+          "referencia_obra": ", Antíg. 3. 32 (460)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Este adverbio no significa de suyo sucesión inmediata en ninguna de sus aplicaciones, y cuando se quiere hacer hincapié en ello, se le agregan adverbios como luégo, inmediatamente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Maravilloso testigo es de lo que sabe y puede Dios el negocio de las nubes y lluvias; y ansí Job por este fin hace memoria de él luego después de la creación de las cosas.»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job, 26 (2. 58)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Como después señala colocación con respecto á los primeros, y en una serie puede, según las circunstancias, empezarse á contar por uno ú otro de los extremos, no es extraño que alguna vez parezca preposterado el orden de las cosas ó de los sucesos. Así, en el siguiente pasaje no se refiere el adverbio á la sucesión natural en el tiempo sino al orden que se ha escogido para la narración:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿De dónde, señor, venís? | — De Cuenca inmediatamente, | Y de las Indias después.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La villana de Vallecas , 1. 7 (R. 5. 47 2 ). El que habla vino primero de las Indias y después de Cuenca, más como empieza por narrar el último viaje, al primero le toca el postrer lugar en la enumeración. Una causa parecida debe de haber obrado para que en alguna parte de Galicia despois se tome por antes (Cuveiro Piñol)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose del orden con que se verifican las cosas en el tiempo, señala un momento ó espacio con respecto al cual otra ú otras son ya pasadas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De aquí tomaron las andas el duque del Infantado, y el conde de Coruña y marqués de Monteselaros, y don Enrique de Aragón, hermano del duque, y las llevaron un poco. Después las tomaron el corregidor y los regidores, y después los religiosos y clérigos y otra gente principal.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Opúsc. 1, p. 135."
+            },
+            {
+              "texto_cita": "«Tiene el príncipe tiempo de hacer experiencia del ministro, primero en los cargos menores, para que no salga muy costosa, y después en los mayores.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 51 (R. 25. 137 1 )."
+            },
+            {
+              "texto_cita": "«La odiosidad de esta ejecución recayó al principio toda sobre Hernando Pizarro, como instrumento inmediato y visible de ella; mas después se fijó con más encono en el gobernador, como principal autor de aquel desastre.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 361 2 )."
+            },
+            {
+              "texto_cita": "«Afligido Lope con estos disgustos domésticos, pensó en retirarse del mundo, como lo ejecutó haciéndose por de pronto hermano de la orden tercera, entrando luégo en la congregración del Caballero de Gracia, ordenándose después en Toledo y alistándose por último en la congregación de sacerdotes naturales de Madrid.»",
+              "autor": "",
+              "referencia_obra": "Gil Y Zárate, Resum. hist. p. 307. —"
+            },
+            {
+              "texto_cita": "«Deja andar: | Ayúdenos á juntar | Una vez la compañía | Que después en el pagar | Perderá la fantasía.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Comedia Soldadesca ( Propal. 1. 302)."
+            },
+            {
+              "texto_cita": "«Desta manera fue poniendo precio á otras muchas destrozadas figuras, que después lo moderaron los dos jueces árbitros.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 26 (R. 1. 461 2 )."
+            },
+            {
+              "texto_cita": "«Envió el duque á toda diligencia al capitán Escobar -- haciéndose él traer después en una literilla.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 58 1 )."
+            },
+            {
+              "texto_cita": "«El tiempo después mostró que ni los daños ni los provechos desta notable acción llegaron á las esperanzas y los medios de ambas opiniones.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 11 (R. 28. 171 1 )."
+            },
+            {
+              "texto_cita": "«Y si en los principios del gobierno perdiere la buena opinión, no la cobrará fácilmente después.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 15 (R. 25. 44 1 )."
+            },
+            {
+              "texto_cita": "«Le renunciaron [su puesto], y se hallaron después arrepentidos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 23 (R. 25. 65 2 )."
+            },
+            {
+              "texto_cita": "«Con el mismo furor que favorece [el vulgo] á uno, le persigue después.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 61 (R. 25. 170 1 )."
+            },
+            {
+              "texto_cita": "«Todos los reinos fueron pequeños en sus principios; después crecieron conquistando y manteniendo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 97 (R. 25. 253 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pueden precederle las preposiciones hasta y para .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta [carta] es del conde tu hermano. | — Guardadla para después.»",
+              "autor": "Mto.",
+              "referencia_obra": "El valiente justiciero, 2. 1 (R. 39. 337 2 )."
+            },
+            {
+              "texto_cita": "«Por la mitad del dinero puede adquirir el manuscrito, y queda á su voluntad el imprimirle ahora, si gusta, ó dejarlo para después.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. Póst. 2, p. 395."
+            },
+            {
+              "texto_cita": "«Peligros y dificultades hállanse a la verdad muy graves por este camino, y quedan para después resabios muy perjudiciales.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 2 (R. 19. 541 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Como si reviviera la partícula de contenida en la primera sílaba, se combina con acá , que presupone movimiento, real ó ideal, desde cierto punto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entendí de mí que aun había menester huir la ocasión y ansí con su favor lo he procurado hacer siempre después acá.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 32 (R. 53. 96 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué hará quien salió del vientre de su madre con pecado, y después acá no ha hecho sino pecar?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del crist. 5 (R. 11. 184 2 )."
+            },
+            {
+              "texto_cita": "«Lo que después acá á los dos ha sucedido requiere para mas tiempo otra sazón y coyuntura y otra lengua no tan turbada como la mía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 2 (R. 1. 133 1 )."
+            },
+            {
+              "texto_cita": "«No puedo yo creer que el rostro hermoso | (Después acá lo tengo imaginado) | Sin fuerza de otro hechizo poderoso | Pudiese hacerme tanto mal pintado.»",
+              "autor": "",
+              "referencia_obra": "Lope, Angél . 14 ( Obr. suelt . 2. 213)."
+            },
+            {
+              "texto_cita": "«Si lo hicieron [el oro], nadie lo ha sabido hacer después acá.»",
+              "autor": "Quev.",
+              "referencia_obra": "Zahurdas (R. 23. 315 1 )."
+            },
+            {
+              "texto_cita": "«Pues óyeme lo que á mí | Después acá me pasó.»",
+              "autor": "Cald.",
+              "referencia_obra": "A secreto agravio secreta venganza , 3. 12 (R. 7. 608 1 )."
+            },
+            {
+              "texto_cita": "«El señor don Felipe IV expidió en 23 de enero de 1628 una real cédula --- Después acá se ha observado constantemente el mismo método.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Jurisd. del Cons. de las órd . (R. 46. 461 2 )."
+            },
+            {
+              "texto_cita": "«Tantas causas influyeron en el enorme desaliento en que yacía nuestra agricultura á la entrada del presente siglo. Pero después acá los estorbos fueron á menos y los estímulos á más.»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria , introd . (R. 50. 81 1 )."
+            },
+            {
+              "texto_cita": "«Después acá perecieron estos importantes estudios.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2ª. clase (R. 50. 123 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Por efecto de su valor comparativo se junta con mucho y no con muy .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los romanos mucho después en el tiempo que poseyeron las Españas, lo hicieron astillero mayor de sus flotas.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón . 1. 38 (1. 193)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Cuando el espacio ó suceso pasado que se toma como punto de comparación se expresa por medio de un nombre ó un infinitivo, después rige de , como si se tratara del punto en que arranca la otra época de que se habla.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con un sustantivo significativo de tiempo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es muy para estimar el primor con que estos autores declararon la forma y hechura de su letra, de manera que habiéndola mudado los romanos, después de mil y cuatrocientos años la conociésemos.»",
+              "autor": "Aldrete",
+              "referencia_obra": ", Origen , 3. 18 (244)."
+            },
+            {
+              "texto_cita": "«Ellos se recogieron después de un rato de conversación.»",
+              "autor": "Lope",
+              "referencia_obra": ", Nov . 3 ( Obr. suelt . 8. 143)."
+            },
+            {
+              "texto_cita": "«Después de algunos días que la santa madre fundó el convento de Salamanca, habiéndose vuelto á Ávila ---»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 23 ( Míst . 1. 204)."
+            },
+            {
+              "texto_cita": "«Sus enemigos, después de doce días de camino, les alcanzaron antes de pasar el Hemos.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 43 (R 21. 39 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un sustantivo que significa cosa que ha sucedido ó existido y cuyo fin se toma como principio de la época en que sucede el hecho de que se trata.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hannón y Himilcón después de tan dificultosos viajes y tan largas navegaciones --- sin dilacion se volvieron á Cartago.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist . Esp . 2. 1 (R. 30. 28 1 )."
+            },
+            {
+              "texto_cita": "«Después de la guerra de Troya dicen que vino Ulises.»",
+              "autor": "Aldrete",
+              "referencia_obra": ", Origen , 3. 1 (266)."
+            },
+            {
+              "texto_cita": "«Aunque sea la mujer más rica del mundo, agradece lo que le dan, y más después de ausencia.»",
+              "autor": "Lope",
+              "referencia_obra": ", Nov . 3 ( Obr. suelt . 8. 158)."
+            },
+            {
+              "texto_cita": "«Después de tan grandes presas y despojos ríquísimos de las provincias conquistadas, pedirle luégo una pequeña paga señal de una codicia insaciable.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 19 (R. 21. 19 1 )."
+            },
+            {
+              "texto_cita": "«Después de Juan de la Cueva era todavía posible que un ingenio superior cambiase el rumbo que tomaba el teatro; después de Lope de Vega este rumbo estaba ya trazado irrevocablemente, y no era dable variarlo.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. hist . p. 288. —"
+            },
+            {
+              "texto_cita": "«Luégo después de la sequedad susodicha cuentan las crónicas de Castilla que salieron de la tierra de Suecia gentes extrañas.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón . 2. 2 (1. 234)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de haber saltado [la raposa] en algún corral de gallinas y muerto cuantas halla y bebido la sangre dellas, hace un hoyo y entiérralas allí.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 14, § 1 (R. 6. 216 1 )."
+            },
+            {
+              "texto_cita": "«Siempre son tantas las ingratitudes después del recibir, como fueron las reverencias antes del alcanzar.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 5. 2 ( Obr. suelt . 7. 379)."
+            },
+            {
+              "texto_cita": "«Español sois sin duda. — Y soilo, y soilo, | Lo he sido y lo seré mientras que viva, | Y aun después de ser muerto ochenta siglos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La gran sultana , 1 ( Com . 2. 69)."
+            },
+            {
+              "texto_cita": "«Después de haber dicho [Valdés] que entre los libros caballerescos comúnmente se daba la alma del estilo á los cuatro libros de Amadís, y en su juicio con razón, le nota varios defectos.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 1, p. 109."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con una prop. indic. ó subj. Es construcción imitada de la antecedente, y de raro uso porque siempre se dice después que .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En este mes á más tardar es cuando han de juntarse las colmenas débiles y los últimos enjambres, si no se ha podido hacer poco después de que hayan salido.»",
+              "autor": "",
+              "referencia_obra": "Adic. al cap. 8, lib . 5 de la Agric. gen. de Herrera (3. 311)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "El latín hacia mucho uso de la combinación del participio de pretérito, tanto pasivo como deponente, con un sustantivo en complementos circunstanciales; en castellano hemos conservado las locuciones correspondientes á post Veios captos , post homines natos , y admitido en ellas ciertas modificaciones desconocidas de la lengua madre.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Combinado el sustantivo con un part. pasivo ó deponente, se señala una época ó un momento posterior á la ejecución del acto denotado por el participio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dice --- que después de labrada la casa, quede una obra pía como la de Alba.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 2. 21 (R. 55. 96 2 )."
+            },
+            {
+              "texto_cita": "«Después de ganado Heel, quiso reconocer la dicha villa.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est . Bajos , 2 (R. 28. 19 1 )."
+            },
+            {
+              "texto_cita": "«Salió la Liberalidad, y después de hechas sus mudanzas, dijo ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 20 (R. 1. 446 2 ). —"
+            },
+            {
+              "texto_cita": "«Llegan [de la corte las resoluciones] después de pasada la ocasión.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 86 (R. 25. 230 1 )."
+            },
+            {
+              "texto_cita": "«Antes que amaneciese se fue el que llevaba las lanzas y las alabardas; y ya después de amanecido se vinieron á despedir de D. Quijote el primo y el paje.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 26 (R. 1. 461 2 )."
+            },
+            {
+              "texto_cita": "«Lo cual se mostró luégo después de cometida la culpa de nuestros primeros padres.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med . 2 (R. 8. 500 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Si en vez de un nombre ha de emplearse un pronombre, éste toma la forma del nominativo, preceda ó siga al participio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de yo degollado | Nada son cuerpo y cabeza.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "D. Álv. de Luna , 4 (3. 63)."
+            },
+            {
+              "texto_cita": "«Si el enfermo quiere sanar, la ha de beber aunque amargue después de ella bebida.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 27 (4. 412). —"
+            },
+            {
+              "texto_cita": "«Después de vos ido, nosotros nos concertamos desta manera.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 5)."
+            },
+            {
+              "texto_cita": "«Envió desde allí, después de ida yo á Soria, á un canónigo al arzobispo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 31 (R. 53. 243 1 )."
+            },
+            {
+              "texto_cita": "«Las que, como digo, tuvieren oración sobrenatural, procúrenlo después de yo muerta.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cam.perf . 25 (1. 507; R. 53. 349 2 la redacción es diferente)."
+            },
+            {
+              "texto_cita": "«Después de yo muerto, | Ni viña ni huerto.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom . 98 (R. 69. 233 1 )."
+            },
+            {
+              "texto_cita": "«Hagan de ella [de la cabeza] lo que quieran: después de yo muerto, el cuerpo y la cabeza nada son.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 430 1 )."
+            },
+            {
+              "texto_cita": "«Despues de yo muerto, poco me importa que se case usted con el patriarca de Jerusalén.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria , 3. 9 (287)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Cállase el pronombre cuando el contexto lo sugiere.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y después de hallado, ya por fuerza, ya por grado le hemos de llevar á la villa de Almodóvar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 23 (R. 1. 309 1 )."
+            },
+            {
+              "texto_cita": "«Impertinente cosa será hacer experiencia de la misma verdad, pues después de hecha, se ha de quedar con la estimación que primero tenía.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 33 (R. 1. 342 2 ). —"
+            },
+            {
+              "texto_cita": "«Soñaba que en el tiempo del estío | Llevaba, por pasar allí la siesta, | A beber en el Tajo mi ganado; | Y después de llegado, | Sin saber de cuál arte, | Por desusada parte | Y por nuevo camino el agua se iba.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 1 (R. 32. 4 1 )."
+            },
+            {
+              "texto_cita": "«Hanibal, después de venido, comenzó los negocios de su cargo.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón . 3. 10 (2. 59)."
+            },
+            {
+              "texto_cita": "«No se contenta este divino Espíritu con ayudarnos á entrar por la puerta de la justicia; mas ayúdanos también, después de entrados, á andar por los caminos della.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 5, § 2 (R. 6. 29 1 ). —"
+            },
+            {
+              "texto_cita": "«Tan hermosas quedaron después de lavadas como antes lo estaban.»",
+              "autor": "",
+              "referencia_obra": "Gerv. Gal . 1 (R. 1. 12 1 )."
+            },
+            {
+              "texto_cita": "«Por esto convino --- que viniese [Dios] á repararnos después de perdidos.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 108 (2. 188)."
+            },
+            {
+              "texto_cita": "«Después de confesados oyeron misa, solemne y comulgaron los seis donceles.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 1, p. 45."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "El participio puede llevar adjunto un predicado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y después de hallados fieles, envía su omnipotente favor.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 7 ( Míst . 3. 139)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Callándose el participio (ó si se quiere un infinitivo), queda sólo el predicado: después de rey = después de hecho rey ó después de ser rey .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No solamente las hojas y flores, empero también las raíces y las simientes después de secas, deben guardarse en cajones de madera enjuta.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Diosc. proem . (15)."
+            },
+            {
+              "texto_cita": "«La perdiz hurta á otra sus huevos, y los calienta y cría. Mas como éstos, después de ya grandecillos oyen el reclamo de la verdadera madre que puso los huevos, dejan la falsa y siguen la verdadera.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb 1. 17, § 2 (R. 6. 228 2 )."
+            },
+            {
+              "texto_cita": "«Estos libros y comentarios no se escribieron estando allí Jerónimo, sino después de ausente.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 1 (393)."
+            },
+            {
+              "texto_cita": "«Después de obispo también persiguió como origenistas á los santos varones Epifanio, Jerónimo y Teófilo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 8 (481)."
+            },
+            {
+              "texto_cita": "«No sólo antes del reino apacentó [David] las ovejas, pero después de rey, los pechos de que se mantenía eran sus labranzas y sus ganados.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 5 (3. 448)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Así como en latín se denota la posterioridad de un acto á otro por medio de postquam , en castellano empleamos después que en medio de dos verbos.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Tratándose de la sucesión natural y ordinaria de dos hechos sin determinación á cierta época, el verbo que va con después que va en antepresente ( he salido ) y el otro en presente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que han empollado y criado la enjambre nueva, es necesario matar los zánganos.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agríc. gen . 5. 8 (3. 307)."
+            },
+            {
+              "texto_cita": "«Lo mismo hace la zorra, que después que se ha cebado en la sangre de las gallinas que mató, hace un hoyo, en la tierra, y escóndelas allí y vuelve á comer dellas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 29 (R. 6. 256 2 )."
+            },
+            {
+              "texto_cita": "«Ni los animales engendran luego en naciendo, sino después que han llegado á perfecta edad.»",
+              "autor": "",
+              "referencia_obra": "Id. Vida de Áv. , 4 (R. 11. 469 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "A veces van ambos verbos en presente, particularmente cuando el de la proposición subordinada denota un estado, y no un acto pasajero.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que la gallina tiene pollos, poco reposa.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen . 5. 20 (3. 388)."
+            },
+            {
+              "texto_cita": "«Después que por la edad está flaco [el león] y pesado, y así inhábil para cazar, sale con sus cachorros, y espéralos en cierto puesto, y ellos traen al padre viejo la caza que hallaron.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 14, § 2 (R. 6. 218 1 )."
+            },
+            {
+              "texto_cita": "«Después que ellos [los hijuelos del gavilán] están ya más criados y pueden servirse algún tanto de las alas, pónenles delante un pájaro medio peladas las alas, y ellos aquejados de la hambre, van en pos dél.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 17 (R. 6. 227 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Tratándose de posterioridad con respecto á un hecho pasado, el verbo que lo significa va en pretérito de indicativo ( partí ), ó bien en antepresente ( he partido ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzará este libro con contarse en él la cosa más alta y de mayor maravilla y espanto que en el mundo después que él fue criado ha sucedido ni pudo suceder.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Crón . 9. 1 (2. 308)."
+            },
+            {
+              "texto_cita": "«Después que gobernó la república bien y prudentemente y fundó nuevas ciudades --- ya de grande edad pasó desta vida.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 9 (R. 30. 11 1 )."
+            },
+            {
+              "texto_cita": "«San Pablo antes de su conversión perseguía la Iglesia, y porque era soberbio no alcanzaba los misterios de nuestra fe; pero después que Dios le humilló y derrocó, fue alumbrado y llevado al tercero cielo.»",
+              "autor": "Estella",
+              "referencia_obra": ", Van. del mundo , 2ª. pte . 93 (258 2 )."
+            },
+            {
+              "texto_cita": "«Después que las dos dejaron ir á su albedrío sus ganados --- determinaron de lavarse los hermosos rostros.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 12 1 )."
+            },
+            {
+              "texto_cita": "«Después que bajé del cielo, y que desde su alta cumbre miré la tierra si la miré tan pequeña, se templó en parte en mí la gana que tenía tan grande de ser gobernador.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 42 (R. 1. 491 2 )."
+            },
+            {
+              "texto_cita": "«Le hubiera escrito después que vi pasada la tempestad; pero --- no sabiendo su casa, no quise exponer la carta á que anduviese de mano en mano.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 257."
+            },
+            {
+              "texto_cita": "«Abundaban los moriscos en los pueblos de la Mancha, especialmente después que de resultas del levantamiento de los del reino de Granada en los años de 1563 y 1569 se les obligó á abandonar sus hogares.»",
+              "autor": "Clem.",
+              "referencia_obra": "Colment . 1, p. 201."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con menos frecuencia se usa el antepretérito ( hube partido ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y después que hubo cantado, | Diana vio que venía.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 2 (59)."
+            },
+            {
+              "texto_cita": "«Después que Sileno con sus cuatro pastores hubo pasado y visto por todas partes la floresta, vuelto al encerrado valle, mandó que Arsindo tocase en él su bocina.»",
+              "autor": "Gálvez",
+              "referencia_obra": "de Montalvo , Pastor de Filida , 2 (62)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Cuando se denota posterioridad con respecto al principio de un acto que todavía dura, éste se expresa con el presente, tomándose después que en el sentido de desde que .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que somos caballeros andantes, ó vuestra merced lo es --- jamás hemos vencido batalla alguna si no fue la del vizcaíno.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 18 (R. 1. 290 2 )."
+            },
+            {
+              "texto_cita": "«Dígote este latín porque me doy á entender que después que eres gobernador lo habrás aprendido.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 51 (R. 1. 512 2 )."
+            },
+            {
+              "texto_cita": "«Después que soy caballero andante, soy valiente, comedido, liberal ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 50 (R. 1. 395 1 )."
+            },
+            {
+              "texto_cita": "«¿No sabes, pastor, que yo amo á Filena más que á mí, y que fui la causa de que tú la conocieses, y después que ella te conoce, nunca más ha vuelto sus ojos á mirarme?»",
+              "autor": "Gálvez",
+              "referencia_obra": "de Montalvo , Pastor de Fílida , 4 (145)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "La misma relación trasladada a una época anterior se expresa por medio del imperfecto (copretérito de Bello ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dice Jacob á su suegro Labán acordándole la buena cuenta que había dado de sí después que estaba en su casa ---»",
+              "autor": "Márquez",
+              "referencia_obra": "( Capm. Teatro , 4. 191)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Para significar posterioridad con respecto á un hecho futuro, separándonos del latín, como en las demás proposiciones subordinadas de esta clase, empleamos el subjuntivo, ya común, ya hipotético ( acabe , acabare ); prefiriéndose á menudo la forma simple á la compuesta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asímismo quieren que se cojan las flores cuando están en su perfección, que es después que fueren salidas y antes que de sí mesmas se caigan.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Diosc. proemio (14)."
+            },
+            {
+              "texto_cita": "«La gallina se morirá luégo el día siguiente después que las hubiere comido.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 6. 36 (56)."
+            },
+            {
+              "texto_cita": "«No te pido que me salves aquí, librándome de la cruz como pide mi compañero, sino que me salves después que muriere en la cruz, dándome la salud y salvación eterna.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 46 (2. 593)."
+            },
+            {
+              "texto_cita": "«Después que haya resucitado, os esperaré glorioso en Galilea.»",
+              "autor": "Valverde",
+              "referencia_obra": ", Vida de Cristo , 6. 13 (113)."
+            },
+            {
+              "texto_cita": "«Después que resucitare, iré delante de vosotros á Galílea.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Mateo , 26. 32."
+            },
+            {
+              "texto_cita": "«Después que hayamos adorado, volveremos á vosotros.»",
+              "autor": "",
+              "referencia_obra": "Id. Gén . 22. 5."
+            },
+            {
+              "texto_cita": "«Después que llegue.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Trasládase la misma relación á época pasada, poniendo las formas en ase ó ara .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Para qué es ese garabato que está en ese madero? El verdugo dijo, que para poner su cabeza después que fuese degollado.»",
+              "autor": "Quint.",
+              "referencia_obra": "D . Álv. de Luna (R. 19. 430 1 )."
+            },
+            {
+              "texto_cita": "«Díme ahora, después que aquella ánima tan deseosa de agradar al eterno Padre esto conociese, ¿con qué linaje de amor revolvería hacia los hombres para amarlos?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 1 (3. 11)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Por raro caso se halla el indicativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y después que tendrás seguro el tino | Con el estilo firme y pulso cierto | No cures atajar luengo camino, | Ni por allí te engañe cerca el puerto.»",
+              "autor": "",
+              "referencia_obra": "Céspedes, Pintur . 1 (R. 32. 364 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Cuando en latín se agrega á las voces comparativas un nombre en ablativo que denota la cantidad en que consiste el exceso ( dimidio major ), en castellano ponemos un complemento sin preposición: dos años mayor. Esto es lo que sucede con nuestro adverbio: decimos él nació después , y especificando la diferencia él nació dos años despues .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Tomándose en absoluto el adverbio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El abad Raimundo falleció algunos años después en Ciruelos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist . Esp . 11. 6 (R. 30. 314 1 )."
+            },
+            {
+              "texto_cita": "«Salió tan mal herido, que murió algunos días después.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 7 (R. 28. 98 1 )."
+            },
+            {
+              "texto_cita": "«Si con estas prendas no aspiró á la gloria que adquirieron en Francia algunos años después Corneille y Moliere, ésta es la sola culpa de que se le puede acusar.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. disc. hist . (R. 2. 163)."
+            },
+            {
+              "texto_cita": "«Para ahora y para mucho tiempo después lo que los militares, sus mujeres, sus hijos y sus viudas pueden prometerse, es sólo muchísima hambre y necesidad.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. póst . 2, p. 251."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Seguido de un compl. con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pocas horas después desto se echó de ver que el enemigo desalojaba para mejorar de puesto.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 58 1 )."
+            },
+            {
+              "texto_cita": "«Marchó el ejército católico tres días después de salido de Neufchatel siempre en batalla.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5 (R. 28. 54 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Seguido de que .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los griegos desampararon de todo punto el Asia, y esto fue tres años después que los nuestros salieron della.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 45 (R. 21. 42 2 )."
+            },
+            {
+              "texto_cita": "«Compárese la suma de propiedades amortizadas en las familias seculares y en los cuerpos eclesiásticos, y se verá cuánto cae la balanza hacia los primeros, sin embargo de que los mayorazgos empezaron tantos siglos después que las adquisiciones del clero.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 103 2 )."
+            },
+            {
+              "texto_cita": "«Así decía al mismo propósito en el prólogo del Peregrino en su patria , publicado un año después que el Arte nuevo .»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. esp . 4 (2. 178)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "En los ejemplos que anteceden puede omitirse el complemento que determina al adverbio sin que la construcción padezca; pero la íntima conexión en que allí están los términos ha dado origen á locuciones anormales y difíciles de analizar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Forman el sustantivo y el adverbio un complemento semejante á los que sin preposición señalan tiempo, vr. gra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llegó el día siguiente.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 18 (R. 17. 71 1 )."
+            },
+            {
+              "texto_cita": "«Enmendó el cacique su falta de reparo, enviando el día después treinta indios de mayor porte.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 20 (R. 28. 229 2 )."
+            },
+            {
+              "texto_cita": "«Cuéntase que años después los reyes Felipe III y su esposa doña Margarita, pasando por Valencia de Don Juan, donde residía la dama celebrada con aquel nombre [de Diana, por Montemayor], quisieron verla.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . p. 583."
+            },
+            {
+              "texto_cita": "«La noche después de los sucesos que anteceden, entró don Galo en casa de la referida señora.»",
+              "autor": "",
+              "referencia_obra": "F. Caball. Clemencia , 1, p. 155."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Puede la combinación de los dos términos ir precedida de una preposición como lo haría un sustantivo acompañado de un adjetivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En los primeros tiempos de la Iglesia y en no pocos años después, era gran culpa en cualquier de los fieles no ocuparse mucho en el estudio y lección de los libros divinos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, introd . (3. 2)."
+            },
+            {
+              "texto_cita": "«Antes en tierra extranjera | Tenga incierta sepultura, | Y á manos de mi locura | En vuestra desgracia muera, | Sin que aun en tiempos después | Mi cuerpo entierre la tierra ---»",
+              "autor": "Lope",
+              "referencia_obra": ", El verdadero amante , 2 (R. 24. 11 3 )."
+            },
+            {
+              "texto_cita": "«A cosa de dos horas después de anochecido, volvieron todos.»",
+              "autor": "",
+              "referencia_obra": "Colonia, Guerras de los Est. Bajos , 2 (R. 28. 19 2 )."
+            },
+            {
+              "texto_cita": "«Presentando Ferreira al infante en Coímbra, y sacándole á la escena en el momento después de retirarse de ella doña Inés, parece extraño que nunca se presenten juntos ambos amantes.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trág. esp . (2. 46)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Tratándose del orden de los objetos según su grado de valor ó estimación, señala el lugar que corresponde á los de menos importancia.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Viváisme [oh Pedro] más que Noé, | Pues nunca jamás tal hombre | Después dél para mí fue; | Que sobre esa piedra y nombre | Mi Iglesia ediricaré.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 2 (R. 32. 178 1 )."
+        },
+        {
+          "texto_cita": "«Hace gran ventaja á todas las otras la resina terebintina, después de la cual es segunda en virtud la que del lentisco destila.»",
+          "autor": "Laguna",
+          "referencia_obra": ", Diosc . 1. 73 (105)."
+        },
+        {
+          "texto_cita": "«Almería, ciudad asentada en un sitio más á propósito que Málaga, y después della la más importante.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Gran . 2 (R. 21. 88 1 )."
+        },
+        {
+          "texto_cita": "«Después del elefante el perro tiene el primer lugar de parecer que tiene entendimiento.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Col . (R. 1. 227 1 )."
+        },
+        {
+          "texto_cita": "«En el colegio tendrán [los regentes] después del rector lugar y voz preferente á todos los colegiales de cualquiera grado que fueren.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Regl. col . de Calatr . 1. 2 (R. 46. 173 1 ). —"
+        },
+        {
+          "texto_cita": "«Podemos decir, que después de Dios, él nos dio la casa.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Fund . 31 (R. 53. 247 1 )."
+        },
+        {
+          "texto_cita": "«En vuestra prudencia, señor, después de Dios están puestas todas nuestras esperanzas.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 22. 6 (R. 31. 129 1 ). —"
+        },
+        {
+          "texto_cita": "«[Juzgábale] por sujeto asaz a propósito para sus designios, porque después de ser noticioso de, las cosas, tenía parientes y amigos de autoridad en Barcelona.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal . 2 (R. 21. 479 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Después que yo fuere degollado, hagan del cuerpo y de la cabeza lo que querrán.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 46. 2 (R. 68. 683 2 )."
+        },
+        {
+          "texto_cita": "«E después que ya era de dia, el bienaventurado maestre oyó misa en su posada.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 128 (378)."
+        },
+        {
+          "texto_cita": "«Despues que subieres en el monte serás digno de recebir el saber destos secretos.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 1 (R. 36. 343 1 ). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«En vida le honrrará | Y después que muriere.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 245 (R. 57. 47 1 )."
+        },
+        {
+          "texto_cita": "«Después adelante veno vn dia que el enperador e todos los rromanos fasian grant fiesta por vna buena andanja que ouieron.»",
+          "autor": "",
+          "referencia_obra": "Placidas (Knust, 133). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«El fierro es mejor de majar estando caliente que despues que es frio.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 90 (R. 51. 228 1 )."
+        },
+        {
+          "texto_cita": "«Non ates nada que despues non puedas desatar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 48 (R. 51. 175 1 )."
+        },
+        {
+          "texto_cita": "«Comenzó de llorar muy fuertemente, porque después de cient años ninguno de aquellos non podria vivir.»",
+          "autor": "",
+          "referencia_obra": "Ib. 28 (R. 51. 143 2 )."
+        },
+        {
+          "texto_cita": "«Despues que en la mañana entrava en la ygresia nunca dende salie fasta que eran acabadas quantas missas fallaua, que se y estouiessen diziendo.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 3. 20 (253 1 )."
+        },
+        {
+          "texto_cita": "«Despues a dias la destroyeron moros quando llegaron a Santiago.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 13 (237 2 )."
+        },
+        {
+          "texto_cita": "«Amos fueron reyes despues a dias.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 9 (223 1 )."
+        },
+        {
+          "texto_cita": "«Non duró mucho, que lo mataron luego los suyos a poco tiempo despues.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 137 (110 2 )."
+        },
+        {
+          "texto_cita": "«Después del alçaron los romanos en su logar por señor de floma --- a Octauiano.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 107 (75 2 )."
+        },
+        {
+          "texto_cita": "«Despues que Jullio Cesar ouo muerto a Ponpeyo e vençido a sus enemigos ---»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 104 (72 1 )."
+        },
+        {
+          "texto_cita": "«Contece que los homes que son testigos de los pleytos, que non se acuerdan despues.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 18. 115 (2. 628)."
+        },
+        {
+          "texto_cita": "«Si los ffijos partieren con el padre después de muerte e su madre ---»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1262 ( Mem. Acad . Hist . 8. 62)."
+        },
+        {
+          "texto_cita": "«¡Commo es ligera la muerte al que es cierto de lo que es despues della!»",
+          "autor": "",
+          "referencia_obra": "Boc . de oro , 11 (180)."
+        },
+        {
+          "texto_cita": "«Omirus --- fue despues de Muysen quinientos e setenta años.»",
+          "autor": "",
+          "referencia_obra": "Ib .5 (Knust, 114)."
+        },
+        {
+          "texto_cita": "«Semblante de la leticia quando viene sobre la tristeza es semblante del dia quando viene despues de la noche.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 25)."
+        },
+        {
+          "texto_cita": "«Despues nunqua paresco en essi derredor.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 333 (R. 57. 50 2 )."
+        },
+        {
+          "texto_cita": "«Si ante fuera buena, fue despues muy meyor.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 18 (R. 57. 138 1 )."
+        },
+        {
+          "texto_cita": "«Los que fueron con él e los de despues, todos son pagados.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1248 (R. 57. 15 2 )."
+        },
+        {
+          "texto_cita": "«Mas despues que de moros fue, prendo esta presentaia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 884 (R. 57. 12 1 )."
+        },
+        {
+          "texto_cita": "«Et si con forza entraret, et non lo firieren despues que la casa le deuedaren, pectet LX solds.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid , año 1202 ( Mem. Acad. Hist . 8. 39)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., gall. despois ; cat. després , despuix ; val despúix , despos ; prov. despuois; fr. ant. despuis : representa las partículas latinas de - ex - post ; fuera de esta combinación se halla también de-post : port., gall. depois ; cat. depuix ; val. depúix , depos ; prov. depueis , depos ; fr. depuis ; it. dopo . En cast. se dijo depues :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mucho he deseado hacer esto, depués que supe estaba vuestra excelencia en su casa.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Cartas , 1. 9 (R. 55. 251 1 )."
+        },
+        {
+          "texto_cita": "«Mas será servido que su excelencia gane ahora mucho con nuestro Señor y depues venga todo junto el consuelo.»",
+          "autor": "",
+          "referencia_obra": "Ead. ib. 1. 9 (R. 55. 252 1 )."
+        },
+        {
+          "texto_cita": "«Otrossi uos otorgamos todos uuestros ffueros e ffranquezas e libertades e buenos vsos e costunbres e priuilleios e cartas que auedes del Emperador --- e del buen rey don Alffonso que venció la batalla de Vbeda, --- et de los otros rreyes que vinieron despues dellos.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Burgos , año 1315 ( C. de L. y C . 1. 291)."
+        },
+        {
+          "texto_cita": "«E les mande dar comunal galardon, e que den la cuenta depues llana mientre.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Palencia , año 1286 ( C. de L. y C . 1. 97)."
+        },
+        {
+          "texto_cita": "«Otrosi de las marçadgas e de las martiniegas, si los cogedores non pagaren los mr. depues que fueren echados fata tres meses a aquellos e los deuen auer ---»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid , año 1258 ( C. de L. y C . 1. 56)."
+        },
+        {
+          "texto_cita": "«Primero deven seer ciertos si es aquella heredat comunal, e depues pedir que la partan.»",
+          "autor": "",
+          "referencia_obra": "Espéc . 5. 7. 28 (0. L. 1. 355)."
+        },
+        {
+          "texto_cita": "«Suel en pos luno siempre uenir lo al: | El mal depues el bien, e el bien depues lo mal.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1490 (R. 57. 193 1 ). —"
+        },
+        {
+          "texto_cita": "«Los suyos tornar vio, | De pos dellos los paganos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1673 (R. 57. 527 2 )."
+        },
+        {
+          "texto_cita": "«De pos dellos nos vayamos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1430 (R. 57. 520 2 )."
+        },
+        {
+          "texto_cita": "«Depos desto nos convien a nos sacerdotes de Dios ---»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , preámb . 9 ( VIII )."
+        },
+        {
+          "texto_cita": "«Et [rogamos] á todos los otros principes que an de venir depois de vos ---»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb . 3 ( IV ; * despois, depues, despues)."
+        },
+        {
+          "texto_cita": "«Et primeramientre nos todos diemos gracias al nuestro Salvador Dios, que pode facer todas las cosas, et depois desto al devandicho rey.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb . 1 ( I ; * depos, depues esto, despues desto). — En después , dempués , en que figura la partícula in , son vulgares:"
+        },
+        {
+          "texto_cita": "«Dios os mantenga | Mientras vuestro amante venga | Y endespués hasta morir.»",
+          "autor": "Lope",
+          "referencia_obra": ", Los embustes de Celauro , 3. 2 (R. 24. 104 3 )."
+        },
+        {
+          "texto_cita": "«¿Qué dijo? — Que moriría | Endespués del casamiento | De Belisarda.»",
+          "autor": "",
+          "referencia_obra": "Id. com. La Arcadia , 1. 22 (R. 41. 163 3 )."
+        },
+        {
+          "texto_cita": "«Fueron --- | De parecer que se diesen, | Y endespués también lo acuerdan | Nuño Velasco Velazquez, | Pero Ruiz ---»",
+          "autor": "",
+          "referencia_obra": "Id. Las famosas asturianas , 2. 21 (R. 41. 477 1 )."
+        },
+        {
+          "texto_cita": "«La tercera [parte de sus bienes] mandó enterrar consigo para que se pudiese mantener endespués de su muerte.»",
+          "autor": "",
+          "referencia_obra": "Libro de los enxemplos , 52 (R. 51. 460 1 )."
+        },
+        {
+          "texto_cita": "«Un dia endespues de sus trabajos fuese á folgar á aquel verjel.»",
+          "autor": "",
+          "referencia_obra": "Ib. 53 (R. 51. 460 1 )."
+        },
+        {
+          "texto_cita": "«Dempués de deletreada la gaceta.»",
+          "autor": "R. de la Cruz",
+          "referencia_obra": ", Manolo , 1 (1. 83)."
+        },
+        {
+          "texto_cita": "«Que sabe más que Galeno | El letrado, y nos podrá | Poner dempués algún pleito.»",
+          "autor": "Mto.",
+          "referencia_obra": "De fuera vendrá , 2. 9 (R. 39. 68 2 )."
+        },
+        {
+          "texto_cita": "«Beba, y la hestoria dempues.»",
+          "autor": "Rojas",
+          "referencia_obra": ", Obligados y ofendidos , 3 (R. 54. 77 1 ). Véase PUES . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,49 @@
+{
+  "lema": "CONCRETAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Reducir á un solo punto ó materia con exclusión de otros ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quisiéramos que en el invierno y verano del segundo año de instituciones canónicas, enseñase el regente á sus discípulos el compendio de la historia eclesiástica del Berti, y el de la disciplina de Alejo Pellicia, que hemos señalado para los teólogos; ampliando y concretando estos estudios á los de historia y disciplina particular de España.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr. 2. 4 (R. 46. 214 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Reducirse á tratar ó hablar de una cosa sola, con exclusión de otros asuntos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se diferenciaba notablemente, por ser una asociación puramente política y concretarse á los negocios del país donde estaba establecida.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 378 ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Combinar, concordar algunas especies ó cosas ( trans .). Acad . Dicc. Esta acepcion la comprueba Terreros refiriéndose á la Aprob. del R. P. Andrade, en la obra Desagravios, etc. contra el Barbadiño. Es la única que registra este lexicógrafo. En el Dicc. Autor. aun no aparece el verbo.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de concreto . El verbo significa primeramente en port. y fr. Cuajar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

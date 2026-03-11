@@ -1,0 +1,539 @@
+{
+  "lema": "ABRIGAR",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar calor defendiendo ó resguardando del frío ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y dice no solamente que había nacido de Dios antes que Dios hiciese estas cosas, sino que cuando las hizo --- estaba en el seno del Padre y junto con él componiéndolas. Y como decimos componiéndolas, da licencia el original que digamos alentándolas, y abrigándolas, y regalándolas y trayéndolas en los brazos, como el que llamanos ayo ó ama que cría, suele traer á su niño.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Hijo (R. 37. 171 1 )."
+            },
+            {
+              "texto_cita": "«Busqué una cañita que llevar en la mano; parecióme que con ella era llevar capa, pero ni me honraba ni abrigaba tanto.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 2. 1 (R. 3. 218 2 )."
+            },
+            {
+              "texto_cita": "«Di en tener pajarillos, y entre ellos, en regalar un pardillo. --- Hacíale abrigar en mi aposento de noche.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 11 (R. 18. 460 2 )."
+            },
+            {
+              "texto_cita": "«La gallina á sus pollos abrigando | Con sus piadosas alas como madre, | Y las sencillas aves aun volando, | Me prestan reglas para ser buen padre.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 6. 1 (R. 61. 378 2 )."
+            },
+            {
+              "texto_cita": "«A una culebra que de frío yerta | En el suelo yacía medio muerta | Un labrador cogió; mas fue tan bueno, | Que incautamente la abrigó en su seno.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 7 (R. 61. 363 2 )."
+            },
+            {
+              "texto_cita": "«Sola la sierpe vil, la sierpe ingrata | Al descuidado seno que la abriga | Callada llega y ponzoñosa mata.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Al arm. de las prov. españ. (R. 19. 10 2 ). —"
+            },
+            {
+              "texto_cita": "«Esta ansia, este veneno, | Aspid ingrato que abrigué en mi seno, | --- No es posible que sea | Amor.»",
+              "autor": "Cald.",
+              "referencia_obra": "El galán fantasma , 2. 7 (R. 7. 298 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Halló todo el monte lleno de nieve, y ninguna casa y lugar do se abrigase.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 29, § 15 (R. 6. 378 1 )."
+            },
+            {
+              "texto_cita": "«Púsole la Virgen así empañado en el pesebre, para que con alguna paja ó heno que allí había, y con el huelgo del buey y del jumento que allí estaban, se abrigase algún tanto y se mitigase la fuerza de aquel frío y rigor.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Nativ. ( Vida de Cristo, 156)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es necesario que ande más á recaudo el que anda en tierra enemigos que de amigos, y más abrigado el cuerpo en tiempo de invierno que de verano.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 3, § 1 (R. 8. 174 2 )."
+            },
+            {
+              "texto_cita": "«Los troncos dellos [los árboles] están vestidos, y abrigados con sus cortezas, para que estén más seguros, así del frío, como del calor.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 1. 3, § 8 (R. 6. 193 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para denotar que se resguarda aproximando (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suena el acero; asombra su vislumbre, | Y el Pirineo tembló por los cimientos: | Las madres dentro en los vecinos techos | Sus hijos abrigaron á sus pechos.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 24 (R. 17. 392 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con, que denota el instrumento empleado para resguardar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues no va bien con adular, Cratilo, | Rindamos la verdad á la cautela; | Que en sus aplausos la virtud se hiela | Sin que nadie la abrigue con un hilo.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. que empieza así . (R. 42. 322 1 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A las noches se pasaba algún frío, que le hacía; aunque con la manta y las capas de sayal que traemos encima, nos abrigábamos.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Fund . 15 (R. 53. 205 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con un nombre de cosa por sujeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son [las cortezas] como camisas ó ropas que los abrigan.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 10, § 2 (R. 6. 208 1 )."
+            },
+            {
+              "texto_cita": "«Y si en invierno abrigaban [los tapices], | Ya en el verano congojan.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El amor y el amistad, 3. 1 (R. 5. 338 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Resguardar, defender.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquel rey contestó tener entendido que los ganados que se reclamaban eran de los infantes ó de vasallos suyos, y que en este supuesto los había dejado abrigar en sus tierras.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna, (R. 19. 394 2 )."
+            },
+            {
+              "texto_cita": "«Al descubierto cielo una grande ara | Hubo en el centro del palacio, y cerca | Un laurel muy antiguo daba sombra, | A los penates abrigando en ella.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 2 (3. 141)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Abrigados con la isla tuvieron lugar los turcos de saltar en tierra para ir á ver si había quedado alguna reliquia de la galeota.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 2 (R. 1. 123 2 )."
+            },
+            {
+              "texto_cita": "«Entonces Celia, | Abrigada con la gente | Que acudía á la pendencia, | Pudo, sin ser conocida, | Dar á su casa la vuelta.»",
+              "autor": "Cald.",
+              "referencia_obra": "El escondido y la tapada, 1. 1 (R. 7. 460 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Con contra , para indicar el objeto que ofende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay olivo ni almendro que no abrigue una familia contra los rayos del sol equinoccial.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Descr. del castillo de Bellver (R. 46. 402 2 ). —"
+            },
+            {
+              "texto_cita": "«El ave te saluda dulcemente, | Cuando en la selva amiga | Contra el sol en los fresnos de la fuente, | Cual bajo manto maternal, se abriga.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. amor. 2 (R. 67. 320 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Buscan para vestirse, no lo que abriga del frío, sino lo que excita al orgullo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 10, nota (2. 393)."
+            },
+            {
+              "texto_cita": "«Sola la protección de vuestro asilo | Pudo abrigarme del rigor del viento.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 1. 2 (R. 19. 59 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo por un mar bien célebre en naufragios, | Del soplo de ambición al ronco estruendo, | Las borrascas políticas huyendo, | Vengo á abrigarme en vuestra ilustre tropa.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Cant. lír . 1 (R. 67. 96 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á , para significar el lugar en que se busca resguardo ó defensa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acabamos de ver cómo el Empecinado se abrigó á Ciudad-Rodrigo.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 8 (R. 64. 187 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , para expresar el objeto que sirve de resguardo; construcción análoga á la de favorecerse , ampararse .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«O'Donnell y Haro se abrigaron de los fuertes del Condestable y Capuchinos.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist. 10 (R. 64. 220 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part. Tratándose de lugares, Resguardado del frío ó del viento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que ordenó fue que le pusiesen en un aposento abrigado, donde le dejasen sosegar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 9 (R. 1. 207 1 )."
+            },
+            {
+              "texto_cita": "«Supongamos que hace una tarde de lluvia, y viento frío, y que por pasar el tiempo en paraje abrigado, se acoge un hombre al teatro.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 76)."
+            },
+            {
+              "texto_cita": "«La armada del enemigo, | Como estaba hacia la parte | Del puerto abrigada, en él | Quiso el cielo que se ampare.»",
+              "autor": "Cald.",
+              "referencia_obra": "El mayor monstruo, los celos 1. 4 (R. 7. 482 3 )."
+            },
+            {
+              "texto_cita": "«Salió con él robada el mismo día | Que el rey volvía á su abrigado puerto.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 21 (R. 17. 367 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para expresar el objeto que sirve de resguardo. Este complemento representa el sujeto de la construcción activa. Cp. a, δ .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y un sitio que en mitad del pueblo había | Le tenían de tapión fortificado, | Que en recogido cuadro le ceñia: De los fuertes bastiones abrigado ---»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 9 (R. 17. 36 1 )."
+            },
+            {
+              "texto_cita": "«Sonriéndose el indio respondía | Ser cosa de intentar bien excusada, | Por el reparo y sitio que tenía, | Y estar por las espaldas abrigada | De una tajada peñascosa sierra | Que por aquella parte el fuerte cierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 12 (R. 17. 50 1 )."
+            },
+            {
+              "texto_cita": "«Y así al cuerpo de en medio, que por suerte | Según orden de guerra le tocaba, | Enderezó su escuadra aventajada | De sus tendidos cuernos abrigada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 24 (R. 17. 91 2 )."
+            },
+            {
+              "texto_cita": "«Hace la isla un escondido seno | De seis tajadas peñas abrigado.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 11 (R. 17. 255 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de, para expresar el objeto que ofende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si en lugares que algo declinan fríos los han de poner, sea en solanas ó lugares abrigados del frío.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric . gen. 3. 32 (2. 299)."
+            },
+            {
+              "texto_cita": "«Han de ser [los establos para el ganado vacuno] hacia el mediodía, abrigados del cierzo y de todo frío.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 43 (3. 536)."
+            },
+            {
+              "texto_cita": "«Era el sitio de lo más rodeado, | Aunque por esta senda y paso abierto; | Del éste, norte, oeste está abrigado, | Y el sur le hiere casi en descubierto.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 4 (R. 17. 18 1 )."
+            },
+            {
+              "texto_cita": "«Sobre el cabo de Cori el baluarte | De una florida selva da, abrigada | De los vientos de oriente, una bahía, | Donde el rey fugitivo llegó un día.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 14 (R. 17. 289 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met. Amparar, patrocinar ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Te me encargó y me dijo --- que te buscase, y allegase, y abrigase.»",
+          "autor": "Celest.",
+          "referencia_obra": "1 (R. 3. 13 2 )."
+        },
+        {
+          "texto_cita": "«A los tristes y afligidos procuran consolaciones, y santamente los abrigan.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 4. 12, § 4 (R. 6. 505 2 )."
+        },
+        {
+          "texto_cita": "«De ninguno era más propia dicha obra, y ninguno debiera abrigarla más que el mismo obispo.»",
+          "autor": "Isla",
+          "referencia_obra": ", Cart. famil. 1. 105 (R. 15. 463 1 )."
+        },
+        {
+          "texto_cita": "«Venid, corred, que vuestro rey piadoso | Ya os abriga en su seno, ya os ampara.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Poemas varios, 1 (R. 63. 39 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Acoger, albergar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En este melancólico retiro | Do la indulgente soledad me abriga ---»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. En la muerte de un amigo (R. 19. 29 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este ejercicio [de lavanderas] se halla hoy á cargo de las mujeres exclusivamente en las cortes y grandes capitales, esto es, donde se abriga la parte más delicada y melindrosa de este sexo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre libre ejerc. de las artes (R. 50. 34 1 )."
+            },
+            {
+              "texto_cita": "«Nunca halle paz, y de su injusto pecho | Huya por siempre la inocencia amable | Que en el campo y los árboles se abriga.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Cienfuegos (R. 19. 31 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Llevar en sí, tener dentro de sí.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ninguno tiene noticia | Del incendio de mi pecho, | Porque mi silencio abriga | El áspid de mi dolor.»",
+          "autor": "Mto.",
+          "referencia_obra": "El desdén con el desdén. 1. 1 (R. 39. 3 1 )."
+        },
+        {
+          "texto_cita": "«Cual bóreas fue tu aliento soberano, | Contra nubes que abrigan en su seno | Rayos que rugen con rumor lejano.»",
+          "autor": "Arriaza",
+          "referencia_obra": ", Cant. lír. 7 (R. 67. 105 1 )."
+        },
+        {
+          "texto_cita": "«¿Quién, insensato, imaginar podría | Que, en sí abrigando corazón de esclavo, | Señor gran tiempo el español sería?»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes. El panteón del Escorial (R. 19. 37 2 )."
+        },
+        {
+          "texto_cita": "«Yermos los campos, | Mustios los pueblos, indolente el hombre, | --- ruina y silencio | Cual de peste mortífera abrigaban.»",
+          "autor": "Jovell.",
+          "referencia_obra": "(R. 19. 25 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Tratándose de las ideas y afectos.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ingrato, injusto, bárbaro y despiadado será el hombre que á vista de tan noble y prudente conducta pueda abrigar en su corazón la más liviana sospecha contra nuestra fidelidad.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central, 1. 3 (R. 46. 532 2 )."
+            },
+            {
+              "texto_cita": "«¿Por qué abrigar tal miedo | En un siglo en que el astro más benigno | Sus rayos vuelve hacia las artes bellas?»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Cant. didáct. 4 (R. 67. 126 2 )."
+            },
+            {
+              "texto_cita": "«La que al veros así toda es temores | Muy puro amor abrigará en el pecho.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet, 3. 13 (R. 2. 514)."
+            },
+            {
+              "texto_cita": "«Las penas | Que en este triste corazón abrigo.»",
+              "autor": "Quint.",
+              "referencia_obra": "El duque de Viseo, 1. 3 (R. 19. 44 1 )."
+            },
+            {
+              "texto_cita": "«El, en la negra | Envidia que abrigó contra su hermano, | Bebió el veneno que su pecho encierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 3 (R. 19. 48 2 )."
+            },
+            {
+              "texto_cita": "«Ni podía [su familia] proporcionarle medios seguros de subsistencia, ni abrigar esperanzas de verle progresar.»",
+              "autor": "",
+              "referencia_obra": "Id. Cervantes (R. 19. 89 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sé que en ti solo tal gracia se abriga | Que puedes á vida tornar lo que es muerto.»",
+              "autor": "Encina",
+              "referencia_obra": "( Ens. bibl. esp. 2. 826)."
+            },
+            {
+              "texto_cita": "«No basta pues que los pueblos estén quietos; es preciso que estén contentos; y sólo en corazones insensibles ó en cabezas vacías de todo principio de humanidad y aun de política puede abrigarse la idea de aspirar á lo primero sin lo segundo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect. 2 (R. 46. 492 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desnudo d'esperança é abrigado | D’inmensa cuyta.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 283."
+        },
+        {
+          "texto_cita": "«Que vos apercivades de casas abrigadas é calientes, é leña, é vituallas para el tiempo fuerte.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 30."
+        },
+        {
+          "texto_cita": "«Dolet vos de mí que non fallo abrygo | En quien me devia tener abrigado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 72."
+        },
+        {
+          "texto_cita": "«El que quando quiere, abriga | A quien le plaze abrigar, | Vos abrigue syn tardar, | Pues á mí me desabriga.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 159. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«En la paz e concordia mejor te abrigará.»",
+          "autor": "Pal.",
+          "referencia_obra": "1587 (R. 57. 476 1 )."
+        },
+        {
+          "texto_cita": "«Abrigandome su manto | Padre e Fijo, Espiritu Santo | Seguiré el dulçe canto.»",
+          "autor": "",
+          "referencia_obra": "Trat. de la doctr. (R. 57. 373 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Debe a San Martino seer apareiado, | Que vio a don Christo del manto abrigado | El que dado ovo al mesquino lazdrado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 252 (R. 57. 48 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "En los demás dialectos peninsulares abrigar; prov. abricar, abriar; fr. ant. abrier, hoy abriter (véase Diez, Gramm . 1, 175, trad. franc.). Siempre se había tenido por origen de nuestro vocablo el lat. apricari, calentarse al sol, formado de apricus , expuesto al sol; pero Diez, teniendo sólo en cuenta el valor etimológico de estos vocablos ( apricus , abierto, descubierto, de aperire , abrir), sostuvo constantemente que no puede haber conexión entre descubrir y abrigar, y propuso una etimología germánica. Mahn , Littré, Bugge y Scheler han sostenido la antigua, y con razón. El eslabón entre la voz romance y la latina es el concepto de calentar, que es el que llegó á dominar en latín, supuesto que en Columela flatus apricus es el viento del mediodía, y que el mismo opone regiones apricas á loca frigida; apricare vino á ser resguardar del frío, como aparece en el lugar de Paladio citado por Freund y aprovechado también á este propósito por Bugge. De suerte, pues, que de lugar abrigado, se pasó á aposento abrigado; de ahí á abrigarse del frío, y por último á abrigarse del viento, del sol.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "La g se cambia en gu antes de e: abrigue, abriguemos.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. En general. — Refl : 1, a, α , α α - 1, a, γ , α α - 1, b, β , δ - 3, a, α , α α . — Part. : 1, a, α , β β - 1, b, α , α α - 1, b, ε . — Con á: 1, a, β - 1, β, δ , α α . — Con: 1, a, γ - 1, β, α , α α . — Contra: 1, b, β . — De: 1, b, γ - 1, β, δ , β β - 1, b, ε , α α , β β . \u0000"
+}

@@ -1,0 +1,341 @@
+{
+  "lema": "HAMBRIENTO.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que tiene mucha hambre y deseos de comer.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Aplicado a personas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Della [de esta aventura] habemos salido sin palos y sobresalto alguno, ni hemos echado mano a las espadas, ni hemos batido la tierra con los cuerpos, ni quedamos hambrientos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 58 (R. 1. 525 2 )."
+            },
+            {
+              "texto_cita": "«Ninguna caza, ninguna fruta, ningún alimento: ellos cargados de las armas y pertrechos de guerra, despeados, hambrientos, sin consuelo, sin esperanza.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 302 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado comparativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quiero yo decir, ni me pasa por pensamiento, que es tan buen estado el de caballero andante como el del encerrado religioso: sólo quiero inferir por lo que yo padezco, que sin duda es más trabajoso, y más aporreado, y más hambriento y sediento, miserable, roto y piojoso.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 13 (R. 1. 279 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En particular se aplica a los animales.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El [león] macho va en esta jaula primera y la hembra en la de atrás, y ahora van hambrientos porque no han comido hoy.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 17 (R. 1. 438 1 )."
+            },
+            {
+              "texto_cita": "«En busca de alimento | Iba un lobo hambriento.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb. 5. 25 (R. 61. 378 1 ). X"
+            },
+            {
+              "texto_cita": "«Entre los despojos de tu cuerpo, | Entre gusanos hambrientos y febriles, | Aun allí estará mi alma.»",
+              "autor": "Sábato",
+              "referencia_obra": ", Abaddón, p. 523. X"
+            },
+            {
+              "texto_cita": "«Dicen que en los cerros lejanos | Que en los bosques sin fin, | Una hambrienta serpiente, | Serpiente diosa, hijo del Sol, dorada, | Está buscando hombres.»",
+              "autor": "Arguedas",
+              "referencia_obra": ", Katatay, p. 45."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué? si el tiempo y la edad hambrienta lleva | Las peñas enriscadas y subidas, | El fiero diente y su crueza ceba | De piedras arrancadas y esparcidas.»",
+              "autor": "",
+              "referencia_obra": "Céspedes, Pintur. 1 (R. 32. 363 2 )."
+            },
+            {
+              "texto_cita": "«Se llegó a uno de los solícitos cocineros y con corteses y hambrientas razones le rogó le dejase mojar un mendrugo de pan en una de aquellas ollas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 20 (R. 1. 445 2 )."
+            },
+            {
+              "texto_cita": "«Luego que el campo y gente victoriosa | Sin mí quedó en dos bandos dividida, | Y su hambrienta codicia y la ambiciosa | Sed de mandar no se halló oprimida ---.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 148 1 )."
+            },
+            {
+              "texto_cita": "«Fuele forzoso al rey de los amores | Ir en persona a castigar la afrenta | Y el daño que en sus fieles servidores | Del interés causó la gula hambrienta.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 10 (R. 17. 252 1 )."
+            },
+            {
+              "texto_cita": "«Vive de lo que justamente adquieres, | Y no siempre arrastrado de otro día | Con hambrienta esperanza te atormentes.»",
+              "autor": "Quev.",
+              "referencia_obra": "Fócil. (R. 69. 407 1 )."
+            },
+            {
+              "texto_cita": "«¡Cuán prestamente | En los hambrientos dientes de la envidia | Los vi yo triturados!»",
+              "autor": "Jovell.",
+              "referencia_obra": "Epíst. a sus amigos de Salam. (R. 46. 38 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi espíritu sediento | Y hambriento de supremas realidades, | Ávido de saber la sola cosa | Que hay que saber en vísperas | De la gran travesía...»",
+              "autor": "Nervo",
+              "referencia_obra": ", Poes. ( Obr. complet. 2. 1803)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En el siguiente ejemplo, Estéril. En comparativo, con valor ponderativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nunca Dios tal quiera, que viva en región tan hambrienta, ni sirva a tan cruel amo, ni me ocupe en tal vil oficio.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 49 (2. 291)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Se aplica a los necesitados o miserables, que padecen hambre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Él recogía los niños huérfanos y pobres que andaban por las calles hambrientos y desnudos, y vestíalos, y manteníalos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 22 (R. 6. 387 1 )."
+            },
+            {
+              "texto_cita": "«Pero no le pasó por pensamiento | A Delio, que el ejército conduce, | Satisfacer al mísero hambriento.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje, 3 (R. 1. 687 1 )."
+            },
+            {
+              "texto_cita": "«Entre los pobres no es la pobreza igual, porque hay algunos que están desnudos, mas no hambrientos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Peste 4 (R. 48. 136 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para rescatar a los cautivos, dar de comer a los hambrientos, y de vestir a los desnudos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Fl. sanct. vida de S. Juan el limosnero ( Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Refranes.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Más discurre un hambriento que cien letrados: indica que nunca se agudiza más el ingenio que cuando se está en apuros. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Discurro un medio para salir del paso o lo invento; más discurre un hambriento que cien letrados.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ). X"
+            },
+            {
+              "texto_cita": "«El hambre hace prodigios, | Dice un adagio: | Más discurre un hambriento | Que cien letrados.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Estómago hambriento no escucha razones: señala que por remediar una necesidad se pueden cometer desafueros. Cfr. Pagés , Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Deseoso, ávido.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Referido a personas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El codicioso y hambriento rey le tomó [a la galera venenciana] muchas y muy ricas mercadurías de que venía cargada.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 3 (R. 30. 499 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para expresar el objeto del deseo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me deseches a mí, que hambrienta de tu gracia he huído al sagrario de tu misericordia.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Magd. 3. 36 (R. 27. 357 1 )."
+            },
+            {
+              "texto_cita": "«El malvado | Y fiero rey de Tracia, hambriento de oro ---.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 9 (R. 17. 237 1 )."
+            },
+            {
+              "texto_cita": "«Me indigno | De ver que celebrados escritores, | Infieles a la gloria, hambrientos de oro, | Se vendan del librero a los salarios.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Arte poétic. 4 (R. 67. 126 1 )."
+            },
+            {
+              "texto_cita": "«Hambrientos | De estragos y miserias luego osaron | Sus asientos fijar cabe el asiento | Del Señor.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd. (R. 46. 29 2 )."
+            },
+            {
+              "texto_cita": "«Entre tanto quedo hambriento de alguna carta de usted.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 260 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Obsérvense las formas: fambriento, famniento ). Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hambriento: famelicus, a, um; esuritor, oris.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab."
+        },
+        {
+          "texto_cita": "«Yo veo a Synón | Magra la cara, desnudo e fambriento»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 281."
+        },
+        {
+          "texto_cita": "«Mas commo perro fambriento | Nunca me pude fartar.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 324. — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«Por farto non se suente syn otro ser fanbriento.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 659 (R. 57. 371 1 )."
+        },
+        {
+          "texto_cita": "«E vino para Xatiua assí como león fambriento va al cordero.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 4. 3 (p. 312 1 )."
+        },
+        {
+          "texto_cita": "«E yremos en catiuerio fambrientos e lazrados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 19 (p. 245 2 )."
+        },
+        {
+          "texto_cita": "«Es caridad gobernar al fambriento.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Libro de los predic. (R. 51. 366 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Diré que fartará Dios el ánima fambrienta de muchos bienes en el su santo nombre.»",
+          "autor": "Cast. e docum.",
+          "referencia_obra": "85 (R. 51. 219 2 )."
+        },
+        {
+          "texto_cita": "«Acorríe al famniento, dábali refrigerio.»",
+          "autor": "Berc.",
+          "referencia_obra": "(R. 51. 145 2 )."
+        },
+        {
+          "texto_cita": "«Andaban rabiosos commo famnientos canes.»",
+          "autor": "Berc.",
+          "referencia_obra": "Duelo, 197 (R. 57. 137 1 )."
+        },
+        {
+          "texto_cita": "«Vistíe a los desnudos, apacíe los famnientos.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 708 (R. 57. 125 1 )."
+        },
+        {
+          "texto_cita": "«Vinieron muchos pobres un día por ventura | Famientos e menguados todos de vestidura.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill. 239 (R. 51. 72 1 )."
+        },
+        {
+          "texto_cita": "«E dad a comer a los fanbrientos.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 2 (p. 96)."
+        },
+        {
+          "texto_cita": "«Libró a Daniel de la boca de los leones fambrientos.»",
+          "autor": "Fuero",
+          "referencia_obra": "juzgo, 12. 3. 15 (p. 198)."
+        },
+        {
+          "texto_cita": "«E non se farta de tierra [el gusano], et está siempre fambriento por miedo que le fallecerá la tierra et quedará sin vito.»",
+          "autor": "",
+          "referencia_obra": "Cal. e Dymna (R. 51. 65 1 )."
+        },
+        {
+          "texto_cita": "«E en esto pasó por allí un lobo fambriento.»",
+          "autor": "",
+          "referencia_obra": "Ib. (R. 51. 43 2 )."
+        },
+        {
+          "texto_cita": "«Dicen que una gulpeja fambrienta pasó cerca de un árbol en que estaba un atambor colgado.»",
+          "autor": "",
+          "referencia_obra": "Ib. (R. 51. 22 2 )."
+        },
+        {
+          "texto_cita": "«De la corte del infierno un fambriento lugar ---.»",
+          "autor": "Alex.",
+          "referencia_obra": "2170 (R. 57. 213 2 )."
+        },
+        {
+          "texto_cita": "«Amolaua los dientes cuemo león fambriento.»",
+          "autor": "",
+          "referencia_obra": "Ib. 27 (R. 57. 148 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. fames, -is, ‘hambre’ y del sufijo -ento, proveniente del lat. -entus, como se observa en: famulentus, sanguinolentus. It. affamato, fr. affamé, Port. faminto. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

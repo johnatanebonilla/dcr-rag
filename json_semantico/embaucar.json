@@ -1,0 +1,32 @@
+{
+  "lema": "EMBAUCAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Engañar, alucinar ( trans .). — α ) «Don Gabriel Manrique | A quien en palacio embauca | Un duende monjitornero | Que invisible nos regala.» Tirso , Amar por señas, 2. 10 (R. 5. 471 3 ). «Y embáucales el juicio para que no entiendan el verdadero sentido.» Venegas , Agonía, 2. 12 ( Míst. 3. 71) . «Esta [la Fama] que los cerebros embaúca, | Y con mentiras a la gente espanta.» Villav . Mosq. 3 (R. 17. 581 1 ). «Vosotras, cuyo ingénito salero | Enciende al joven, al anciano hechiza, | Embaúca al atónito extranjero, | Vuelca al hereje, y al infiel bautiza.» Maury , Esv. y Alm . 7 (229). — α α ) Part . «Congraciándote con ellos | Los traes embaücados | Y vendidos.» Castillejo , Diál. entre la verdad y la lisonja (R. 32. 238 3 ). «Ya que esté tan embaucado que piense que no los ha confesado [sus pecados], entre sí puede pedir perdón a Dios dellos y arrepentirse dellos interiormente.» Venegas , Agonía, 2. 9 ( Míst . 3. 56). «¡Oh miserable frenético, embaucado por el enemigo, sentenciado a perpetuas tinieblas interiores y exteriores ---!» Gran. Mem. vida crist. 1. 5 (R. 8. 214 2 ). «Ya que libre dejó el súbito espanto | Al embaucado Pran, que estaba fuera, | Visto el destrozo cierto, y falso cuanto | El traidor de Andresillo le dijera --- | A morir se arrojó desesperado.» Erc. Arauc. 32 (R. 17. 117 2 ). — β ) Con con , para expresar el medio que se emplea para engañar. «Es poderosa | Con sus ardides sabidos, | De embaucaros los sentidos, | Y dorar cualquiera cosa.» Castillejo , 2, Condic. de las mujeres (R. 32. 205 1 ). «Y luego los embaucaba | Con unos modos que usaba | Extraordinarios de hablar.» Tirso , D. Gil de las calzas verdes, 1. 2 (R. 5. 403 3 ). «Con formas | Espantables, y extrañas brujerías | Al fanático Egipto embaücaron.» Jovell. Paraíso perd. 1 (R. 46. 30 2 ). — α α ) Part. «Pusieron aquí su corazón, y embaucados con esto presente se olvidaron de lo que Dios promete.» Ávila , Epist . 2. 12 (6. 296).",
+  "acepciones": [
+    {
+      "id": "Etim.",
+      "definicion": "La forma originaria, que se usa todavía en Asturias , es embabucar:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La causa de haber tenido flaca la nuca --- | Fue por haber comido mucha yuca, | Que a los más confiados emborracha, | Porque con el sabor los embabuca.»",
+          "autor": "Castellanos",
+          "referencia_obra": ", Eleg. 2ª pte. 4. 2 (R. 4. 298 2 ). Este es sin duda uno de los muchos verbos que se allegan en el sentido y en la forma a los derivados de baba con que se designa al bobo (véase Körting, Lat. rom. Wörterb . s. v . babulus ) : port. embabacar; cat. embobiecar, embabillar, embabuixar (Jaume Roig , Libre de les dones, p. 38: Valencia , 1735); mall. embabayar."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "Hoy se pronuncia embáuca; pero los ejemplos citados arriba prueban que la pronunciación originaria emba-úca, emba-ucado persistió hasta no hace mucho tiempo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Et los que tenian aquel cuerpo façian creher a otra gente que façia ver a los ciegos et fablar a los mudos, et andar a los cojos; desta guisa embaucauan a las gentes que eran sandias.»",
+          "autor": "Acad.",
+          "referencia_obra": "Hist. 8. 93."
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

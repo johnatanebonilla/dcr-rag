@@ -1,0 +1,1096 @@
+{
+  "lema": "CORONAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner una corona en la cabeza ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bajaban á los prados | Para mezclar las hojas con las flores, | Lo verde y las colores | Y coronar al victorioso Febo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo , 6 ( Obr. suelt . 1. 126)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchacho, dáme agua, | Muchacho dáme vino, | Róseas guirnaldas trae, Qué á coronarme aspiro.»",
+              "autor": "",
+              "referencia_obra": "C. y Ayensa, Anacr . 55 (177). —"
+            },
+            {
+              "texto_cita": "«Este valle en que Agosto se corona, | Es la patria del pan.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Para ver acosar .(R. 42. 305 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y siendo por mis ninfas coronado, | Resonará su nombre por doquiera.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana , 3 (153)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la muerte condenado, | Quiero morir coronado, | Pues como víctima voy. | Dadme, hermosas flores bellas, | Rubí, zafir y esmeralda | Para hacer una guirnalda.»",
+              "autor": "Lope",
+              "referencia_obra": ", El remedio en la desdicha , 1. 1 (R. 41. 135 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para señalar la clase de corona. Esta partícula se usa más de ordinario con un nombre determinado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los honran [á los poetas], los estiman y los enriquecen, y aun los coronan con las hojas del árbol á quien no ofende el rayo, como en señal que no han de ser ofendidos de nadie los que con tales coronas ven honradas y adornadas sus sienes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 16 (R. 1. 437 1 )."
+            },
+            {
+              "texto_cita": "«Ea pues, moradores de Carpento, | Venid, y con guirnaldas de oloroso | Mirto tejidas, y de verde hiedra, | Venid y coronad al nuevo huésped.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. A Eymar (R. 46. 37 1 )."
+            },
+            {
+              "texto_cita": "«Traían los cabellos por las espaldas, que en rubios podían competir con los rayos del mismo sol; los cuales se coronaban con dos guirnaldas de verde laurel y de rojo amaranto tejidas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 58 (R. 1. 526 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salid, hijas de Sion, salí á porfía, | Veréis á Salomón rey coronado | Con la corona rica, que en el día | De su gozo su madre le había dado.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares , 3 (4. 158)."
+            },
+            {
+              "texto_cita": "«Vieron venir hacia ellos hasta seis pastores vestidos con pellicos negros, y coronadas las cabezas con guirnaldas de ciprés y de amarga adelfa.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 13 (R. 1. 278 1 )."
+            },
+            {
+              "texto_cita": "«Tenía la cabeza sobre una almohada de brocado, coronada con una guirnalda de díversas y odoríferas flores tejida.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 69 (R. 1. 548 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en sentido análogo, sólo que suele preferirse con un nombre que no está determinado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Solo el necio mancebo | Que corona de flores la cabeza, | Es el que sólo empieza | Siempre á vivir de nuevo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 9, salmo 7 (R. 69. 332 1 )."
+            },
+            {
+              "texto_cita": "«El troyano Paris coronando estaba de nuevas guirnaldas los vencedores toros.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 7 (147)."
+            },
+            {
+              "texto_cita": "«Habiendo primero el ilustre Anfimedonte coronado de verde arrayán sus blancas sienes ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 12 (228)."
+            },
+            {
+              "texto_cita": "«¿Quién fue el cruel que de tu frente | Pudo la nieve mancillar? | ¿Quién de ese círculo inclemente | Tu sien hermosa coronar?»",
+              "autor": "D. Solís",
+              "referencia_obra": ", Cánt. sagr . 1 (R. 67. 260 1 )."
+            },
+            {
+              "texto_cita": "«Yo, numen de los amores, | Le coronaré de flores, | Y atándolo en tiernos lazos, | Colocaré entre sus brazos | La más insigne beldad.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "El desengaño en un sueño , 1. 1 (4. 449)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A cuya grave trompa [de Lucano], | Si en algo mi atrevida voz comparas, | Ufano pensaré que en alto vuelo | Ya me corono de la luz del cielo.»",
+              "autor": "Jáur.",
+              "referencia_obra": "canc. Útil y cierto amigo (R. 42. 112 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las sienes de sus profesores fueron y son coronadas de laureles.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 1 (45)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí verás á Augusto | Coronado de olivas, | De laureles á César, | De hiedra á las sibilas.»",
+              "autor": "Villegas",
+              "referencia_obra": ", cantil , 1 (R. 42. 553 2 )."
+            },
+            {
+              "texto_cita": "«Y perdiendo el sol dorado | A Dafne ingrata y cruel, | Quiso del mismo laurel | Andar sienipre coronado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La manganilla de Melilla , 2 (R. 20. 308 2 )."
+            },
+            {
+              "texto_cita": "«Emperatriz del sueño, | De ciprés coronada y de beleño | Tienes la adusta frente | En el lóbrego imperio de occidente.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mejor está que estaba , 2. 8 (R. 7. 234 1 )."
+            },
+            {
+              "texto_cita": "«Así aquella, que al hombre solo es dada, | Sacra razón y pura me despierta, | De esplendor y de rayos coronada.»",
+              "autor": "",
+              "referencia_obra": "Epíst. moral (R. 32. 388 2 )."
+            },
+            {
+              "texto_cita": "«Filis más bella y más resplandeciente | Que el claro cielo y el ameno prado, | Este gamo de flores coronado, | Que á su madre quité, te ofrezco ausente.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 2, son . 8 (37)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Por más extraño que parezca, el siguiente pasaje de Góngora puede dar luz para entender el de Moratín que agregamos después, si es que nuestro verbo es ahí algo más que voz poética :",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sicilia, en cuanto oculta, en cuanto ofrece, | Copa es de Baco, huerto de Pomona; | Tanto de frutas ésta la enriquece, | Cuanto aquél de racimos la corona.»",
+              "autor": "Góng.",
+              "referencia_obra": "Polif . (R. 32. 460 1 )."
+            },
+            {
+              "texto_cita": "«Ya los felices campos que corona | Profundo el Po y el Atesis fecunda, | Oigo sonar con voces de alegría | Que repiten los ecos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oda 1 (R. 2. 586 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , en sentido análogo. Es peculiar del lenguaje poético de Herrera y sus imitadores; fúndase acaso en el uso provincial de en por con , ó más bien representa la cabeza dentro de la corona. (Cp. en la Vulgata",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Coronavit eum in vasis virtutis.»",
+              "autor": "",
+              "referencia_obra": "Eccli . 45. 9)."
+            },
+            {
+              "texto_cita": "«Cantó el crinado Apolo | Entonces dulcemente, | Y en oro y lauro coronó su frente.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, canc . 6 (R. 32. 286 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vén, no esparciendo al aire tus olores, | Citerea, ni en mirto coronada, | Ni mezclando las rosas á las flores.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, égl . 1 (R. 32. 336 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "A semejanza de ceñir , vestir , se halla en el siguiente lugar con acus. significativo de la corona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No dudo yo de mi heroico | Animo merecimientos | Para el laurel que corono.»",
+              "autor": "Cald.",
+              "referencia_obra": "La gran Cenobia , 1. 2 (R. 7. 188 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "A veces sirve de sujeto la corona misma ó aquello que la forma.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sacarán las nayades, | Las dríadas y oreas, | Aquellas de las ondas, | Las otras de las selvas, | Las frentes que coronan | Corales y verbenas.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 3. 1 ( Obr. suelt . 7. 161)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese también con respecto á objetos inanimados ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entran el puerto dulce y deseado, | Cargados los navíos de provecho, | Alegres con laurel los marineros | Coronan á los árboles veleros.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, Geórg . 1 (4. 454)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y del vino las urnas los donceles | Coronaron con flores olorosas.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 9 (1. 255)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sepulcro de flores coronaron, | Y á su sagrado río se tornaron.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, égl . 2 (105)."
+            },
+            {
+              "texto_cita": "«¿Qué mayo con diversos instrumentos --- | No coroné sus jambas y linteles | De mirtos, arrayanes y laureles?»",
+              "autor": "Lope",
+              "referencia_obra": ", égl. Amarilis ( Obr. suelt . 10. 169)."
+            },
+            {
+              "texto_cita": "«Corona tú tus lares | De arrayán y romero.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", Hor. od . 3. 23 (2. 139)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Se emplea también como suj. el nombre que significa la corona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Laureles de la orilla | Solamente coronan | Navíos de alto bordo | Que jarcias de oro adornan.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 3. 7 ( Obr. suelt . 7. 243)."
+            },
+            {
+              "texto_cita": "«Frescas guirnaldas de tempranas flores, | Ninfas, coronarán vuestros altares, | Si propicias guiáis nuestros amores.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 4 (93)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes que las sierras | Coronen las cumbres | De confusas nieblas ---»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 23 (R. 32. 512 2 )."
+            },
+            {
+              "texto_cita": "«Con lágrimas turbando la corriente, | El llanto en perlas coronó las flores.»",
+              "autor": "",
+              "referencia_obra": "Id. son . 135 (R. 32. 443 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Moncayo, como suele, ya descubre | Coronada de nieve la alta frente.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "son. Llevó tras sí (R. 42. 275 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Tómase á menudo en el sentido de Premiar, por alusión á la corona que se daba al vencedor ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al trono me elevaron: justo y recto | La virtud coroné, castigué el crimen.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , 1. 2 (3. 257)."
+            },
+            {
+              "texto_cita": "«Pues no son tan funestos á mi pecho [mis remordimientos] | Como la gloria, la fortuna, el brillo, | Que siempre coronaban á Eduardo | Para eterno baldón y oprobio mío.»",
+              "autor": "Quint.",
+              "referencia_obra": "El duque de Viseo , 1. 3 (R. 19. 44 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién es tan varonil que desee vivir por durar más y merecer en esta batalla? En la cual no se corona el que no peleare legítimamente.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 2. 5 ( Míst . 3. 19)."
+            },
+            {
+              "texto_cita": "«Acordémonos que por muchas tribulaciones nos conviene entrar en el reino de Dios y que no será coronado sino aquel que varonilmente peleare.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 10 (R. 6. 136 2 )."
+            },
+            {
+              "texto_cita": "«Si vencemos, merecemos ser coronados; si somos vencidos, castigados.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. espir . 15, § 2 (R. 11. 333 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con premios | Eternos corona y paga | Los afanes de esta vida | Transitoria.»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojigata , 3. 4 (R. 2. 410 3 )."
+            },
+            {
+              "texto_cita": "«¡Oh espíritu mío, alégrate en Dios tu Salvador, porque te corona con misericordias y llena tu deseo de innumerables bienes!»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 12 (1. 322)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y [murieron] muchos de otros estados más bajos, cuyo número llegó á diez y seis mil mártires gloriosos, que con diversas maneras de tormentos fueron coronados.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 13 (R. 6. 312 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con vuelo ligero | Viniendo la victoria | Corona al vencedor de gozo y gloria.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, No siempre es poderosa (4. 301)."
+            },
+            {
+              "texto_cita": "«¡Mil veces, oh señor, felice tengas | Las merecidas glorias | Que eterno te coronan de victorias!»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios , 2 (R. 7. 276 1 )."
+            },
+            {
+              "texto_cita": "«Que se dejaba pedir aquel caribe de don Bruno (Dios le haya coronado de gloria) los veinte y los treinta reales por cada papelillo de píldoras de coloquíntida y asafétida.»",
+              "autor": "Mor.",
+              "referencia_obra": "El sí de las niñas , 2. 2 (R. 2. 426 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rico ya se coronaba | De glorias el corazón, | Suaves bebiendo en oro | Rigores del ciego Dios.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 95 (R. 32. 540 2 )."
+            },
+            {
+              "texto_cita": "«En torno | Estaban de Patroclo, y combatían | Por llevarle á llïón, y de alta gloria | Coronarse esperaban.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 17 (2. 175)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "En especial, Poner solemnemente la corona á un soberano cuando entra á reinar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pueblo hizo gran demostración de alegría, y los cardenales legados le ungieron y coronaron conforme á la costumbre.»",
+              "autor": "",
+              "referencia_obra": "Illescas, Hist. pontif. 6. 1 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Unas veces el sentido es pasivo, otras parece fundarse la construcción en el hecho de ponerse el rey mismo la corona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No aceptó la elección hecha por los cardenales en su persona hasta tanto que el clero de Roma viniese en lo mismo; y así no se coronó hasta los quince de octubre.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 11 (R. 30. 293 1 )."
+            },
+            {
+              "texto_cita": "«Juntó los grandes y prelados en las Huelgas, monasterio cerca de Burgos, en que los reyes de Castilla acostumbraban á coronarse.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 19. 1 (R. 31. 32 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto declaró muy bien un rey que, habiendo de ser coronado, primero que le pusiesen la corona en la cabeza, la tomó en las manos, y la tuvo así por un poco de espacio, diciendo ---»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 4. (R. 6. 126 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le llevaron á caza de montería, con tanto aparato de monteros y cazadores como pudiera llevar un rey coronado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 34 (R. 1. 477 2 ). —"
+            },
+            {
+              "texto_cita": "«Lo que se afea de las repúblicas --- no comprehende á aquellas repúblicas coronadas ó bien instituídas, cuyo proceder es generoso y real.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. advert . (R. 25. 4). — En el siguiente pasaje se junta mediante de con el nombre del imperio como si se subentendiese emperador ."
+            },
+            {
+              "texto_cita": "«Imaginábase el pobre ya coronado, por el valor de su brazo, por lo menos del imperio de Trapisonda.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 1 (R. 1. 257 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un pred. que expresa la dignidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y qué hacía él entretanto para dar motivo á estas sospechas odiosas? --- Negarse á las repetidas instancias que se le hicieron para coronarle rey de Sicilia.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 242 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así por la tierra extraña | Es estimado y querido. | — Coronóse emperador, | Título en sus reyes nuevo.»",
+              "autor": "Lope",
+              "referencia_obra": ", El servir con mala estrella , 1. 1 (R. 52. 47 1 )."
+            },
+            {
+              "texto_cita": "«Se llamó y coronó rey de su nación en Damasco, nobilísima ciudad de la Siria.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 6. 26 (R. 30. 186 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El príncipe fue coronado por el papa mismo rey de Sicilia y señor de Pulla, Capua y de Calabria.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 225 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Este pred. puede ir precedido de por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bien podría ser que antes de seis días ganase yo tal reino, que tuviese otros á él adherentes que viniesen de molde para coronarte por rey de uno dellos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 7 (R. 1. 268 2 )."
+            },
+            {
+              "texto_cita": "«Casado con Floripes Güi de Borgoña, el emperador los coronó por reyes de aquella tierra. Clem. Coment . 3, p. 448.",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Paréceme que acabáis de vencer á todo el mundo, y que os coronan por reina y señora dél.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 4 (154)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Había sido coronado por rey de Siracusa, si bien era mozo de quince años.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 15 (R. 30. 46 1 )."
+            },
+            {
+              "texto_cita": "«A dos de junio, Ana fue coronada por reina, con la mayor pompa y aparato que ninguna otra reina lo había sido.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 23 (R. 60. 208 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay posada, hermano; vaya con Dios, y menos golpes, que le coronará por necio un orinal de seis días.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los tres maridos burlados (R. 18. 486 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las tiernas gracias y el pudor mostrando, | De la beldad se coronó por reina.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. filosóf . 3 (R. 67. 303 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. En el juego de damas, Poner un peón sobre otro que llega á ser dama, para que se distinga de los demás ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Las siguientes acepciones se toman de la forma y de la colocación de la corona:",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Rodear, ceñir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este es sin duda | El vendido aduar: el paraíso | Do está la gloria que mi alma busca. | Con la caballería, como es uso, | Le puedes coronar á la redonda, | Porque apenas se escape un solo moro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El gallardo español , 2 ( Com . 1. 32)."
+            },
+            {
+              "texto_cita": "«La hermosa vista del lago y los montecillos que le coronan, dilatan el ánimo con objetos más agradables.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 433."
+            },
+            {
+              "texto_cita": "«Vivid felices luengos años en el mundo, oh dichosos y bellísimos amantes; coronen presto hermosísimos hijos vuestra mesa, y á largo andar se dilate vuestro amor en vuestros nietos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 1. 10 (R. 1. 575 1 )."
+            },
+            {
+              "texto_cita": "«Siete hermosos mancebos coronaban | La sobria mesa.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 3 (2. 84)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿De qué sarta de perlas no tenía | La cándida garganta coronada?»",
+              "autor": "Lope",
+              "referencia_obra": ", égl. Amarilis ( Obr. suelt . 10. 170)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ponerse en la parte superior, como de una fortaleza ó eminencia, ocuparla ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con paso largo y ademán compuesto, | Todo el monte coronan.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 7 (R. 1. 695 1 )."
+            },
+            {
+              "texto_cita": "«Los bárbaros, que de no muy lejos lo miraban, quedaron más suspensos, y en un momento coronaron la ribera, armados de arcos y saetas.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 1. 2 (R. 1. 564 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . en sentido pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasó la noticia [de que venía el enemigo] sin hacer ruido; y como cayó este accidente sobre la prevencion ordinaria de nuestros soldados, se coronó brevemente la muralla, y se dispuso con facilidad todo lo que pareció conveniente á la defensa.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 2. 19 (R. 28. 260 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El agente se señala siempre con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Coronóse luégo todo el puerto y la ribera toda de cristianos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2 (R. 1. 122 1 )."
+            },
+            {
+              "texto_cita": "«En un instante se coronaron todos los corredores del patio de criados y criadas de aquellos señores, diciendo á grandes voces ---»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 31 (R. 1. 469 1 )."
+            },
+            {
+              "texto_cita": "«Estando en esto, me pareció por entre la dudosa luz de la noche, que la peña que me servía de puerto, se coronaba de los mismos lobos que en la marina había visto.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 1. 5 (R. 1. 568 1 )."
+            },
+            {
+              "texto_cita": "«En viendo la ocasión, se coronaron de gente los pretiles y dieron la carga disparando sus flechas y sus dardos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 16 (R. 28. 331 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallóse, cuando llegó el ejército, puesto en defensa, porque los mejicanos que le habían ocupado tenían coronada la cumbre.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 16 (R. 28. 369 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar el agente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya en este tiempo estaban el duque y la duquesa puestos en una galería que caía sobre la estacada, toda la cual estaba coronada de infinita gente que esperaba ver el riguroso trance nunca visto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 56 (R. 1. 522 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Poner en la parte superior ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar lo que figura la corona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Extrañas alegrías | Hacen en Teruel. — De luminarias | Corona su muralla, y las vacías | Torres ocupa de invenciones varias | De pólvora y de fuego.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los amantes de Teruel , 3 (R. 5. 703 1 )."
+            },
+            {
+              "texto_cita": "«Mandando [Nemurs] coronar toda la muralla de mosquetería y arrojar grinaldes de alquitrán encendidas al foso, comenzaron á ojear á los realistas con muerte de los más atrevidos.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 35 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni César levantó tan de repente | En Dirraquio la cerca milagrosa --- | Cuanto fue de nosotros coronada | De una gruesa muralla la montaña, | De fondo y ancho foso rodeada.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 17 (R. 17. 67 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Estar ocupando ó adornando algún lugar elevado ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Coronaba la orilla cuando salieron una muchedumbre de indios que contemplaban pasmados aquella máquina nunca vista.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 308 2 )."
+            },
+            {
+              "texto_cita": "«Un numeroso gentío coronaba la muralla, atento al espectáculo que presentaba aquel extraño desenlace.»",
+              "autor": "",
+              "referencia_obra": "Id. Cartas á L. Holland , 9 (R. 19. 583 2 )."
+            },
+            {
+              "texto_cita": "«Se quemaron | Los olmos y los sauces, y los mirtos, | Y la grama, y el loto y el cipero, | Que en abundancia mucha las orillas | Del caudaloso río coronaban.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 21 (2. 300). —"
+            },
+            {
+              "texto_cita": "«Aluden [á las virtudes de la Esposa] los follajes de azucenas que coronaban las columnas del templo de Salomón, para perficionallas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 6 (R. 25. 21 1 )."
+            },
+            {
+              "texto_cita": "«De cuadros de primor ricos encajes | Coronan la imperial tapicería, | Con faunos, fuentes, riscos y follajes, | Dïanas, Venus, cazas, montería.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 1 (R. 17. 153 2 )."
+            },
+            {
+              "texto_cita": "«Es también circular [la torre] y su cima se ve ceñida en torno de treinta y ocho grandes modillones almohadillados, que naciendo del muro con tres pies de alto y dos y medio de proyectura superior, se avanzan en forma de tornapuntas á recibir el antepecho volado en la cumbre, y la coronan majestuosamente.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Descr. del castillo de Bellver (R. 46. 393 2 )."
+            },
+            {
+              "texto_cita": "«¿Sabes --- | si á este tiempo, ya deshecha | La flaca resistencia de los nuestros, | Coronan sus cabezas las almenas | En los muros del pueblo?»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 5. 1 (R. 19. 72 1 ). —"
+            },
+            {
+              "texto_cita": "«Tras importunas lluvias amanece | Coronando los montes el sol claro.»",
+              "autor": "",
+              "referencia_obra": "L. Argens, son. que principia así (R. 42. 277 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ondean las copas de los cedros y de los otros árboles soberanos de que el Líbano se corona.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Monte (3. 88)."
+            },
+            {
+              "texto_cita": "«Vense | Que, descollando entre la selva, asoman | Dos gigantescas puntiagudas torres, | Que de cruces de fierro se coronan.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 10 (2. 377)."
+            },
+            {
+              "texto_cita": "«Los altos monumentos se coronaron de almenas, y el Anfiteatro Flavio, el mausoleo de Adriano y tantas otras maravillas de la arquitectura fueron ciudadelas.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma , p. 278."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuyas riberas claras coronadas | De blancas flores, de purpúreas rosas --- | Unas suben al cielo levantadas, | Otras caen en las aguas sonorosas.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, égl . 1 (87)."
+            },
+            {
+              "texto_cita": "«Fresca es la fuente entre el florido acanto, | De rosas y violetas coronada.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 4 (93)."
+            },
+            {
+              "texto_cita": "«Aquí las reales mesas coronadas | De costosas vajillas de oro fino, | Con preciosos manjares ocupadas, | Vestidas dio aquel día el blanco lino.»",
+              "autor": "",
+              "referencia_obra": "Id. Bern . 1 (R. 17. 154 2 )."
+            },
+            {
+              "texto_cita": "«Pardo risco de sauces coronado; | Alegre y fértil prado ---»",
+              "autor": "Rojas",
+              "referencia_obra": ", Casarse por vengarse , 1 (R. 54. 103 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Perfeccionar, completar, dar feliz término ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo suj. un nombre de pers. ó cosa personificada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El inmortal Buffon --- corriendo con pasos de gigante toda la tierra, coronó aquel glorioso monumento que Plinio había levantado á la naluraleza.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de las ciencias nat . (R. 46. 337 1 )."
+            },
+            {
+              "texto_cita": "«Así es como vuestra alteza podra coronar la grande empresa en que trabaja tanto tiempo ha.»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria , fin (R. 50. 135 2 )."
+            },
+            {
+              "texto_cita": "«Y ved aquí el noble impulso á que fueron debidas aquellas empresas memorables, que sólo pudo coronar la generosidad del poder, reunida al amor de la sabiduría,y que levantaron á tanto esplendor la ciencia geográfica.»",
+              "autor": "",
+              "referencia_obra": "Id. Disc. sobre la geogr. hist. (R. 46. 328 2 )."
+            },
+            {
+              "texto_cita": "«Que rara vez corona la fortuna | Lo que el furor frenético aconseja.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 3. 1 (R. 19. 65 1 )."
+            },
+            {
+              "texto_cita": "«Si la victoria corona sus primeras empresas, al ruido de su nombre y de su gloria acuden guerreros de todas partes a su bandera.»",
+              "autor": "Cid",
+              "referencia_obra": "(R. 19. 205 2 )."
+            },
+            {
+              "texto_cita": "«El éxito corone tu esperanza; | La fortuna te guíe...»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La viuda de Padilla . 4, 2 (3. 65). —"
+            },
+            {
+              "texto_cita": "«Se quedó solo [un soldado anciano] entre aquella gente mal reducida, para cuidar del culto de la imagen, coronando su vejez con este santo ministerio.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Mej . 2. 12 (R. 28. 248 2 )."
+            },
+            {
+              "texto_cita": "«Con aquel decreto --- coronó sus ilustres aunque desgraciadas tareas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta central , 1. 1 (R. 46. 516 1 )."
+            },
+            {
+              "texto_cita": "«Se suplió esta falta con el último memorable decreto de 29 de enero de este año, con que la Junta Central coronó sus servicios acordando la organización del primer congreso nacional.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 2 (R. 46. 550 2 )."
+            },
+            {
+              "texto_cita": "«Sólo me resta en la adversidad que me oprime, coronar mis principios con mi noble sufrimiento.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 236."
+            },
+            {
+              "texto_cita": "«Corona ya tus hechos inmortales | Con un hecho que á todos oscurezca: | Volviendo á Roma sus antiguas leyes | Y su antigua república.»",
+              "autor": "V. de la Vega",
+              "referencia_obra": ", La muerte de César , 1. 6 (318)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo suj. un nombre de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ved aquí el más sublime de los dones con que plugo al Altísimo enriquecer al hombre, y el que corona todos los demás: su alma.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de las ciencias nat . (R. 46. 341 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Determinó de se partir para Zaragoza, é partióse á diez de enero de mil é cuatrocientos é catorce para se coronar, como es costumbre de los reyes de Aragon de coronarse en aquella cibdad.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 8. 1 (R. 68. 358 1 )."
+        },
+        {
+          "texto_cita": "«Los príncipes delicados --- | Ungidos e rociados, | E de rosas coronados --- | Miren al rey montañés | De cueros crudos calzado.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var . 185 ( Rim. inéd . 299)."
+        },
+        {
+          "texto_cita": "«Te suplico, non porque io sea digna, mas por reverencia de aquel que de tantos ynfinitos peligros te ha guardado et de tantos triunfos et victorias te ha coronado.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stuñ . p. 319."
+        },
+        {
+          "texto_cita": "«En todos tiempos el leal amador | De bondad é onrra sus fechos corone.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 609. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Enpero con quantas llagas Satanas lo mansillara, | Con otras tantas coronas de vitoria coronara.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1250 (R. 57. 466 1 )."
+        },
+        {
+          "texto_cita": "«De todos los cardenales por papa fue tomado, | Despues solepnemente por ellos coronado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 198 (R. 57. 431 2 )."
+        },
+        {
+          "texto_cita": "«E luego fizo facer el rey don Enrique en las Huelgas --- muy grandes aparejos, é coronóse alli por rey.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 17. 7 (R. 66. 541 1 )."
+        },
+        {
+          "texto_cita": "«Et el dia que se ovo de coronar vestió sus paños reales labrados de oro et de plata á señales de castiellos et de leones.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 100 (R. 66. 235 1 )."
+        },
+        {
+          "texto_cita": "«E luego fuese para Toledo, é fízose coronar á él y á la reina dona Maria, su mujer; é coronáronlo cuatro obispos»",
+          "autor": "Crón. Sancho IV",
+          "referencia_obra": ", 1 (R. 66. 69 2 )."
+        },
+        {
+          "texto_cita": "«Ha de ir á otro castillo do está la corona con que lo han á coronar por rey de Alimania.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Lib. de los est . 49 (R. 51. 304 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«La piedat sube coronada con corona de oro é de piedras preciosas á los cielos.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 30 (R. 51. 145 1 )."
+        },
+        {
+          "texto_cita": "«La cual corona es aquella con que hoy día se consagran é se coronan primeramente los reyes de Inglaterra.»",
+          "autor": "",
+          "referencia_obra": "Ib . 7 (R. 51. 99 1 )."
+        },
+        {
+          "texto_cita": "«E ordenó nuestro Señor que el emperador de Constantinopla fue muerto entonces, et dejó el imperio á la fija; et como la fama divulgada de la bondat de aqueste mancebo veniese á los griegos, luego gela dieron por mujer á la dicha fija del emperador muerto, é lo coronaron por emperador de Grecia.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1 (R. 51. 91 1 )."
+        },
+        {
+          "texto_cita": "«Los maestros del canto e de los estormentes auien establesçido entre sy de fazer plazer a Nero de le embiar todas las coronas e las cantigas de los que vençien e eran coronados por ende.»",
+          "autor": "",
+          "referencia_obra": "Crón . gen . 1. 111 (80 1 )."
+        },
+        {
+          "texto_cita": "«Fue coronado por rey Pyrros.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 11 (8 2 )."
+        },
+        {
+          "texto_cita": "«Quando los emperadores ó los reyes se coronan ó se facen caballeros, alléganse hi grandes gentes para les facer honra.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 28. 48 (2. 732)."
+        },
+        {
+          "texto_cita": "«Et por coronarnos en el cielo consintió su Fijo quel posiesen corona de espinas.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 68 (1. 127)."
+        },
+        {
+          "texto_cita": "«Sedie el mes de Mayo coronado de flores.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2395 (R. 57. 220 2 )."
+        },
+        {
+          "texto_cita": "«Quando auien en Greçia rey a coronar | Alli lo auian a alçar, non en otro lugar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 176 (R. 57. 153 1 )."
+        },
+        {
+          "texto_cita": "«Estas tres sanetas virgines en çielo coronadas | Tenian sendas palombas en sus manos alzadas.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Oria , 30 (R. 57. 138 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. coroar ; cat., prov. coronar ; fr. couronner ; it. coronare ; vál. cununa : del lat. coronare , denominativo de corona .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. — Refl .: 1, a , α , α α - 1, a , γ , α α - 1, c , γ , α α - 1, d , α , α α - 1, d , β , α α - 1, d , δ , α α - 2, b , β . — Part. : 1, a , α , γ γ - 1, a , β , α α - 1, a , γ , γ γ - 1, a , δ , α α - 1, b , ε , α α - 1, d , α , γ γ - 2, a , α , α α - 2, b , γ - 2, δ , α , β β . — Con con : 1, a , β - 1, β , β - 1, χ , β - 2, ε , α . — De : 1, a , γ - 1, β , γ , ε - 1, c , γ - 2, β , α , α α - 2, b , γ , α α - 2, c , α . — En : 1, a , δ - 1, β , δ . — Por : 1, d , γ , δ . — Con un pred .: 1, d , β . \u0000"
+}

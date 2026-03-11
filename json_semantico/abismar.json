@@ -1,0 +1,164 @@
+{
+  "lema": "ABISMAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hundir en el abismo ó como en un abismo ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A haber sido conocida [la ciencia filosófica de las humanidades], hubiera puesto un grande obstáculo á las innovaciones funestas de Góngora y Quevedo, y al torrente de mal gusto que abismó en el siglo XVII la poesía y la elocución castellana.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 2, p. 47."
+            },
+            {
+              "texto_cita": "«La tumba fría | Me abismará también.»",
+              "autor": "Cienf.",
+              "referencia_obra": "La rosa del desierto (R. 67. 26 1 )."
+            },
+            {
+              "texto_cita": "«La silla rutilante | Ocupa, oh gran Jovino. No tu nombre, | Invocado del hombre, | Abismará vil tumba.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", oda 8 (R. 67. 218 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para indicar el objeto que se considera como un abismo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así el tiempo arrebata en su carrera | Al hombre sus afectos, y en su seno | La eternidad terrible los abisma.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. sagr . 12 (R. 67. 282 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sol yacerá apagado, | Caerá deshecha la luna, | Y en la confusión primera | Se abismará la natura.»",
+              "autor": "Lista",
+              "referencia_obra": ", rom . 1 (R. 67. 333 2 )."
+            },
+            {
+              "texto_cita": "«Ora en los senos, | Mansión eterna de la eterna noche, | Derrumbado se abisma y desparece.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", epíst . 1 (R. 67. 226 1 ). —"
+            },
+            {
+              "texto_cita": "«En un mar de confusiones | Y de desdichas me abismo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "El desengaño en un sueño , 3. 1 (4. 488)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Menospreciada la justicia, roto el freno de las costumbres, y abismados en la confusión y el desorden todos los objetos del bien y el orden público.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de Carlos III (R. 46. 342 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Empléase para denotar la profundidad del sentimiento ó de la consideración, representándose éstos como un abismo en que se hunde el espíritu ( trans. ) . Con en .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De derramar la sangre redentora | Se aproxima la hora--- | Hora que con horror prevé el infierno, | Y al cielo abisma en pasmo reverente.»",
+              "autor": "Gallego",
+              "referencia_obra": ", La última cena (R. 67. 424 2 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En mil y mil cuidados | Se abisma el pensamiento.»",
+              "autor": "Mel.",
+              "referencia_obra": "Anacr. Galatea , 13 (R. 63. 119 3 )."
+            },
+            {
+              "texto_cita": "«Abismábanse en conjeturas los más sagaces y avisados, explicando cada cual á su sabor la inesperada nueva.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 12 (4. 347)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Advirtió Arcadio que estos graves varones caminaban llorosos y abismados en profundísima melancolía.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castellana (R. 63. 415 1 )."
+            },
+            {
+              "texto_cita": "«Puestos los tristes ojos en el cielo, | De su belleza natural retrato, | Como abismada en el amargo duelo, | Inmóvil se mantuvo largo rato.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Cant. lír . 9 (R. 67. 109 2 ). —"
+            },
+            {
+              "texto_cita": "«No sé qué pasa en mi abismado pecho.»",
+              "autor": "",
+              "referencia_obra": "A. Saav . El desengaño en un sueño , 2. 2 (4. 474)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Destruír.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Reprendías la bajeza de Nerón, porque trabajaba á sí mismo y á los acusadores en ir destruyendo las casas de una en una, pudiendo abismar todo el senado con una sola palabra.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Tác. Hist . 4. 42 (253 — El original: Posse universum Senatum una voce subverti )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Nota.",
+      "definicion": "El Diccionario de Autoridades cita como ejemplo para comprobar el verbo abismar el pasaje siguiente de Quevedo, en que las ediciones que tenemos á la vista dicen animarle . Lo copiamos con mayor extensión para que se vea que el contexto apoya la lección común, y que hubo de haber error en la cédula que sirvió para la redacción de aquel artículo del Diccionario:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Queréis ver cómo hace Dios beneficios castigando, cómo da con lo que quita, cómo levanta al que derriba? Poned los ojos en san Pablo; espántale para animarle , derríbale del caballo para levantarle, quítale la vista para dársela y para que la dé á las gentes.»",
+          "autor": "",
+          "referencia_obra": "Peste 2 (R. 48. 114 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de abismo . Port. abismar ; fr. abîmer . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

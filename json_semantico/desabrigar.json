@@ -1,0 +1,246 @@
+{
+  "lema": "DESABRIGAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Quitar lo que cubre y abriga, dejar expuesto al frío ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Remolón fue hecho cuenta | De la sarta de la mar, | Porque desabrigó á cuatro | De noche en el arenal.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 5, jác . 1 (R. 69. 98 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Cuidado con desabrigarse. —",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vengados los tres, | Este áspid se desabrigue | Que cauto en iras por flores | Dentro del alma reside.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Sin honra no hay amistad , 3 (R. 54. 317 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si le prestaste sobre prenda, sobre su capa, ó sayo, ó frazada de la cama, y no le queda con que cubrirse, vuélvesela antes que se ponga el sol, porque si desabrigado y afligido del frío diere voces á mí, oírle he, que soy misericordioso.»",
+              "autor": "",
+              "referencia_obra": "Gran. Doctr. crist . 2. 8 (R. 11. 108 2 )."
+            },
+            {
+              "texto_cita": "«Andando él en medio del invierno muy mal vestido y desabrigado, y diciéndole un hermano suyo por escarnio: Francisco, véndeme una gota de ese sudor; el santo respondió: Yo lo tengo muy bien vendido á mi Señor.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 2. 7 (R. 6. 297 2 )."
+            },
+            {
+              "texto_cita": "«Aquel que viste los campos de hermosura, está en el árbol de la cruz desabrigado y desnudo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4, diál . 7. 2ª pte. (R. 6. 568 1 )."
+            },
+            {
+              "texto_cita": "«Naciste con un cuerpo más desabrigado que las ovejas y los corderillos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov . de Dios (R. 48. 173 2 )."
+            },
+            {
+              "texto_cita": "«El león, medio desnudo, á quien la greña es limitada muceta, nunca intentó añadirla para disimular la flaqueza desabrigada de sus espaldas y ancas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 48. 174 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para denotar aquello que uno se quita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con que en aplauso mío | Desabrigó su cabeza | De un trasto de terciopelo | Que allá se llama montera.»",
+              "autor": "",
+              "referencia_obra": "A. Pantaleón de Ribera, 2. rom . 5 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Milit. Dejar descubierto, sin defensa ó apoyo ( trans .) ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No era posible seguir el alcance sin desabrigar el cuartel.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 16 (R. 28. 332 1 )."
+            },
+            {
+              "texto_cita": "«Cargaba siempre [el número excesivo de las canoas] á la parte que desabrigaban los bergantines.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 21 (R. 28. 379 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Creyó el marqués que no dejara el río por no desabrigarse.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 2 (R. 28. 21 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el apoyo ó defensa de que uno queda privado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus peones no se desabrigaron de la sierra.»",
+              "autor": "Ayora",
+              "referencia_obra": ", Cartas , 4 (R. 13. 67 1 . Almirante , Dicc. Mil. ) ."
+            },
+            {
+              "texto_cita": "«No le pareció al duque desabrigarse mucho de la infantería, y así pudo retirarse el príncipe de Bearne sin más daño que la dicha pérdida.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 37 2 )."
+            },
+            {
+              "texto_cita": "«Con llegar muy cerca de sus trincheras, jamás quisieron desabrigarse dellas.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 6 (R. 28. 84 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deseoso de dar una mano á la caballería católica si la podía coger desabrigada de la infantería.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 53 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En general, Dejar sin reparo ó defensa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desarmaron la orilla, | Desabrigaron valles y llanuras, | Y borraron del mar las señas duras.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2, serm. estoico (R. 69. 85 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part . Que no está resguardado contra los vientos y mares, ó contra el frío. Dicc. Marít.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El tiempo de su nacimiento era invierno, la noche fría, el lugar desabrigado, la cama dura.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3, diál . 3 (R. 6. 464 1 )."
+            },
+            {
+              "texto_cita": "«En la natividad no faltaron lágimas, así del Niño como de la Madre, viéndolo ella en lugar tan pobre y desabrigado.»",
+              "autor": "",
+              "referencia_obra": "Id . Adic. al Mem. med. 23 (R. 8. 587 2 )."
+            },
+            {
+              "texto_cita": "«Sospecho que las paredes del costado eran de aquella filigrana cuyos enlaces formaban el principal adorno de la arquitectura llamada gótica, y que conociéndose después que hacían el templo claro y desabrigado en demasía se mandaron cerrar como en otras partes hacia fines del siglo XV.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Cartas á Ponz , 4 (R. 50. 287 2 )."
+            },
+            {
+              "texto_cita": "«Emprendemos nuestro viaje por el lago, en un barco chato, endeble, desabrigado y ridículo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 303."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Desamparar, dejar sin favor ni apoyo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Dónde irá la oveja, estando en toda parte cercada de lobos, si el pastor la desabriga y alanza de sí?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 57 ( Míst . 3. 239)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viéndose pues desabrigada, con temor de la murmuracion y de ocasión que le pudiera dañar, celosa de su honor, buscó un aposento en compañía de otras doncellas religiosas.»",
+              "autor": "Alemán",
+              "referencia_obra": "Guzmán , 2. 2. 9 (R. 3. 317 1 . Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Equit. Separar el jinete las piernas del vientre del animal para aliviarle de la opresión en que con ellas le tenía ( trans. ) . Diccion. Equitac.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dios --- | Vos abrigue syn tardar | Pues á mi me dessabriga .»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 159. — Siglo XIII."
+        },
+        {
+          "texto_cita": "«Per lo que ella puede esta desabrigada. | Se lo quemás fuego serie ella folgada.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2189 (R. 57. 214 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de des y abrigar. Port., cat. desabrigar ; fr. désabriter.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe gu: desabrigue , desabriguéis. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

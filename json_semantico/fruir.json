@@ -1,0 +1,54 @@
+{
+  "lema": "FRUIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Disfrutar, gozar del bien que se ha deseado ( intrans. ) . — α ) X «Fruyr es amar una cosa por amor de sí misma; y vsar es amarla no por sí sino por amor de otra cosa.» Estella , Medit. 3 (p. 3). X «Svma peruersidad es --- vsar de lo que deuemos fruyr.» Id. ib. 3 (p. 3). X « Fruición: Acción o efecto de fruir. Goce del bien que se posee.» Serrano, Dicc. sb. voc. fruición. — α α ) Con la prep. con, para señalar: — el medio. X «Dios nuestro Señor dioos ánima con que fruyéssedes, y entendimiento con que le conociéssedes.» Guev. epíst. A una sobrina suya ( Dicc. Autor. ) . — El modo. X «Entonces imité al amante de mi ama en lo de las montantadas, bernardinas y giros y como él me hice perrengue añusgándome a cada paso; también le copié en fruir con estuosidad.» Rojo y Sojo ( Pagés , Dicc. ) . — β β ) Con de. + «Aquel es malo que vsa del Criador y frue de la criatura.» Estella , Medit. 3 (p. 3). X «Svma peruersidad es fruyr de las cesas que hemos de vsar.» Estella , Medit. 3 (p. 3).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "« Vti... vsar estomar algo en la facultad voluntaria. Mas frui es vsar de algo con goso no por sperança saluo de fecho. Assí que el que fruye vsa pero no al contrario.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab. 539b."
+        },
+        {
+          "texto_cita": "«Por la qual [perfeción] se alcanza entre los mortales la corona de la buena fama, e ante Dios sempiterno fruir de la perdurable gloria.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron. 49 (p. 21 2 )."
+        },
+        {
+          "texto_cita": "«¿Y cómo abastaste mi seso infacundo | Fruir de coloquio tan alto a deshora?»",
+          "autor": "",
+          "referencia_obra": "Id. Lab. 24 (p. viii)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Cultismo raro del lat. frui, ‘ hacer ’ uso de, disfrutar, gozar y este de fructus, fruto, disfrute, producto. Es más frecuente la forma sustantiva fruición: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Contemplando con fruición aquel muelle de Buenaventura, recomendado en su discurso de posesión y fabricado luego por un gobernador que tuvo el valor de atreverse, como se atrevió Reyes, a construir el ferrocarril de Girardot.»",
+          "autor": "M. F. Suárez",
+          "referencia_obra": ", Sueños, 2 (p. 106). Port. fruir."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Presenta las siguientes formas irregulares: fruyo, -es, -e, -en; fruyó, -eron; fruya, -as, -a, -amos, -áis, -an; fruye (tú).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Ante e, a, o, cambia la i en y: fruyera, fruyese, fruyere, fruyendo, fruya, fruyo, fruyó. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

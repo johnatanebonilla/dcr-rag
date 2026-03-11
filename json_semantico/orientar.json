@@ -1,0 +1,333 @@
+{
+  "lema": "ORIENTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Colocar una cosa en una posición determinada ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con hacia, que indica la dirección; y para, la finalidad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Orientó el espejo hacia el sol para recoger la mayor cantidad de luz.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Sustantivado. Con para y una prop. subjuntiva, que señala la finalidad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En algunos árboles delicados... es práctica prolija, pero buena, el orientar y señalar los plantones para que caigan al mismo lado a que se habían acostumbrado en la almáciga.»",
+              "autor": "Oliván",
+              "referencia_obra": "( Pagés , Dicc .) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Determinar la posición de una cosa respecto de los puntos cardinales ( prnl .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallábanse en medio de un desierto sin agua, sin atinar a orientarse del rumbo a que quedaban las colonias.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Prov. p. 21."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para indicar: — el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mañana te orientarás en la dirección de aquellos luceros. Fíjate bien de qué lado brillan y recuerda que el sol sale por aquí.»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine, 2 (p. 155). — El lugar. Además con a, que señala la causa. X"
+            },
+            {
+              "texto_cita": "«Todo se hunde en la sombra: el monte, el valle, | Y la iglesia, y la choza, y la alquería; | Y a los destellos últimos del día | Se orienta en el desierto el viajador.»",
+              "autor": "Bello",
+              "referencia_obra": ", Poes. p. 288."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con hacia, que señala la dirección. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Caja de materia no magnética, con una aguja imanada en su centro, que gira libremente sobre un pivote, o suspendida de un filamento sin torsión, y cuyas extremidades se orientan hacia los polos magnéticos de la tierra, lo cual permite determinar el Norte.»",
+              "autor": "Gran encicl. Larousse",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con según, que indica el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Brújula: llámase de este modo a un aparato que consta esencialmente de una aguja o flechilla imanada dispuesta sobre una púa, la cual tiene la propiedad de orientarse según la línea de N. S. magnético.»",
+              "autor": "",
+              "referencia_obra": "Encicl. univ. ilustr."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dirigir una persona, cosa o acción hacia un fin determinado ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con hacia, para señalar la dirección. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El conferenciante orientó su charla hacia los problemas que afectaban a la población.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por, que señala el rumbo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Él orientaba sus investigaciones por un camino equivocado.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol. Con sobre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ante el feroz patetismo de esta cuestión que, queramos o no, está ya a la vista, el tema de la ‘justicia social’, con ser tan respetable, empalidece y se degrada hasta parecer retórico e insincero suspiro romántico. Pero, al mismo tiempo, orienta sobre los caminos acertados para conseguir lo que de esa ‘justicia social’ es posible.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de. las masas, p. 48."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Pas. refl. Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es más vida [nuestra vida actual] que todas las vidas, y por lo mismo más problemática. No puede orientarse en el pretérito. Tiene que inventar su propio destino.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas, 5 (p. 101)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Prnl. Con según. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tener conciencia clara del carácter de las facultades propias, cuando una avasalladora norma exterior impide modelos y procedimientos, por todos acatados, es punto de observación difícil: y orientarse según los datos de esa misma conciencia, cuando ellos pugnan con los caracteres que halagan a la afición común y a la fama, suele ser acto de resolución heroica.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 148."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part. Con a, que señala el destino. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es el rebajamiento de su actividad, orientada a su objeto propio, pero empequeñecida y deformada por los estrechos límites donde ha de contenerse.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 143."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con hacia. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es curioso y significativo de estos tiempos orientados hacia la técnica más que hacia los principios.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Una imaginación, una desbocada fantasía que instauraba, en forma sucesiva, espontánea y por sorpresa, escenarios, horizontes siempre orientados hacia una radical sedición contra toda norma escrita y establecida.»",
+              "autor": "",
+              "referencia_obra": "A. Mutis, llona, p. 72. — Además con la prep. con. X"
+            },
+            {
+              "texto_cita": "«El tiempo seguía su ruta inexorable y las dos mujeres envejecían en la insignificancia de sus propias vidas, orientadas con mayor ahínco hacia el egoísmo que les imponía su codicia.»",
+              "autor": "Osorio Lizarazo",
+              "referencia_obra": ", El camino en la sombra, p. 296."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Guiar, mostrar a alguien el camino que le conviene seguir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Julián tenia casi treinta años y ella no estaba vigilando y orientando sus actos. Mejor dicho, no los había vigilado nunca.»",
+              "autor": "Osorio Lizarazo",
+              "referencia_obra": ", El camino en la sombra, p. 304. X"
+            },
+            {
+              "texto_cita": "«El ala roja era mi hombro --- | Para descubrir las costas | Celestes, donde se encienden los faros | Que orientan a las naves.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poétic. 2 (p. 130). X"
+            },
+            {
+              "texto_cita": "«Los letreros del metro orientan al viajero.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El profesor orienta a los alumnos en sus trabajos.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con entre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A una linde de la carretera levantábanse de trecho en trecho grandes postes de piedra, aquellos postes que sirven para orientar a los caminantes descarriados entre la nieve.»",
+              "autor": "Pz. de Ayala",
+              "referencia_obra": ", Tinieblas (Cl. Castal. 36. 274)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para y una prop. infinitiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El guardia municipal los orientó para tomar el camino que los conduciría al castillo.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con sobre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pidió a sus compañeros que la orientaran sobre las tiendas en que podía comprar.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl. Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hombre se queja de que cuando suscribió el seguro no se le orientó suficientemente.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son estas bibliotecas para los que ansían a toda costa estar bien orientados.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Trasuntos de Esp. p. 10."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Encaminarse, encauzarse, tomar un camino seguro en lo que se hace ( prnl .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tenía la voz ronca y la palabra fácil. Más que inteligente, daba la impresión de tener esa facultad, muy rara, de orientarse en lo escencial, en lo duradero y cierto y prescindir de todo lo demás.»",
+              "autor": "",
+              "referencia_obra": "A. Mutis, llona, p. 109."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con hacia. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi hijo se orienta hacia la Medicina.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": ". — Además con por, para señalar la causa. X"
+            },
+            {
+              "texto_cita": "«Se orientaban hacia el Sur de Aragua, por ser más segura la región para los realistas por la vecindad del Llano.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas, 9 (p. 106)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de oriente. Cat. y gall. orientar, fr. orienter, it. orientare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

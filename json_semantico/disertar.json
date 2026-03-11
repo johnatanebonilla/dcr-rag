@@ -1,0 +1,53 @@
+{
+  "lema": "DISERTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Discurrir metódicamente sobre una materia, sosteniendo una opinión y rebatiendo las contrarias; y por extensión, Hablar sobre algo largamente y en tono magistral ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sesenta y ocho opiniones con que disertaban sus gentes.»",
+              "autor": "Cabrera",
+              "referencia_obra": ", Hist. Fel. ll , 2, f. 81 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Empieza á devorar. Mas no presumas | Que por eso calló: diserta y come, | Engulle y grita, fatigando á un tiempo | Estómago y pulmón.»",
+              "autor": "Mor.",
+              "referencia_obra": "epíst . 9 (R. 2. 586 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de ó sobre , para expresar la materia sobre que se discurre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En esta junta se hará el arreglo de los turnos, que dejamos establecidos para la distribución de los ejercicios semanales, y el señalamiento de los artículos particulares sobre que se deberá disertar en cada uno.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 2. 5 (R. 46. 218 1 )."
+            },
+            {
+              "texto_cita": "«De todo lo que no entiendes | Te pones á disertar.»",
+              "autor": "Mor.",
+              "referencia_obra": "rom . 7 (R. 2. 604 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. dissertar ; cat. disertar ; fr. disserter : del lat. dissertare , intensivo de disserere , compuesto del prefijo dis , que expresa disposición por partes, y serere , enlazar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

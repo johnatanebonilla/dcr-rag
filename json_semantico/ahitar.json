@@ -1,0 +1,115 @@
+{
+  "lema": "AHITAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Causar embarazo en el estómago el exceso de la comida ó la calidad de las viandas difíciles de digerir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Galalón que en su casa come poco, | Y á costa ajena el corpanchón ahita, | Por vomitar haciendo estaba el coco.»",
+              "autor": "Quev.",
+              "referencia_obra": "Nec. de Orl . 1 (R. 69. 289 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque las viandas groseras ahitan y causan enfermedades muy peligrosas.»",
+              "autor": "Gracián",
+              "referencia_obra": ", Morales de Plutarco , fol . 183 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Comer hasta padecer indigestión ó embarazo en el estómago.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quiero llegar á otras menudencias, conviene á saber, de la falta de camisas y no sobra de zapatos, la raridad y poco pelo del vestido, ni aquel ahitarse con tanto gusto, cuando la buena suerte les depara algún banquete.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 37 (R. 1. 360 2 )."
+            },
+            {
+              "texto_cita": "«Vamos y ahitémonos hoy; | Que si se supiese luégo, | Nos llevará á un hospital, | Y allá también comeremos.»",
+              "autor": "Mto.",
+              "referencia_obra": "El parecido en la corte , 1. 3 (R. 39. 313 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar lo que causa la indigestión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ahitarse de manjares.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Ahitarse de conserva, de comer.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Si se trata de un manjar que se determina, se usa con en lugar de de . Se ahitó con la conserva que le trajeron.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En un lugar sobra la doctrina y en otros falta; ahitando á los unos con la continuación della, y dejando á los otros perecer de hambre por su falta.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv. , 5. 1. (R. 11. 477 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ahora te puedes dar | Un hartazgo de finezas | Como para quince días, | Mas no te ahites con ellas.»",
+              "autor": "Mto.",
+              "referencia_obra": "El desdén con el desdén , 2. 3 (R. 39. 10 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de ahito . Port. afitar .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La combinación ahi puede contarse por de una sílaba cuando el acento cae fuera de ella, como se ve en el ahitémonos de Moreto; en el caso contrario es forzosamente disílaba: a -hí-te , a-hí-ta . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

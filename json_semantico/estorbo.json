@@ -1,0 +1,31 @@
+{
+  "lema": "ESTORBO.",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "-->s. m. Persona o cosa que estorba. — α ) X «Dolor de cabeza o muelas era poco estorbo; pero dijimos que nos dolían mucho las tripas.» Quev. Buscón , 3 (Cl. C. 5. 45). X «Esto que llamamos mundo no es más que una nonada embarazosa, con gran bulto y de mucho estorbo.» Nieremb. Epist . 1 (Cl. C. 30. 24). X «Y así, es fuerza, por quitar | Estorbos que puede haber, | Cerrar, señor, esa puerta.» Cald. La dama duende , 2 (Cl. C. 137. 78). X «Su hija ama a mi señor; él trata de casarla a su gusto; mi señor estorba sus planes, y el señor Polichinela supo toda su vida cómo suprimir estorbos.» J. Benavente , Intereses creados , 2. 3. 1 (p. 100). — α α ) Con a . «Luego el precio señalado por la ley era un estorbo al logro de sus fines.» Jovell. Inf. sobre extracc. de aceites (R. 50. 3 2 ). — β β ) Con para . X «Así deben hacer los señores, que, aunque en su grandeza hallen algún estorbo para seguir la humildad de la imitación de Cristo, más se han de esforzar a ser sus discípulos.» Nieremb. Epist . 24 (Cl. C. 30. 136).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV : X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estorbo: obstaculum , i; obex , icis; impedimentum , i .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. — Siglo XIII : X"
+        },
+        {
+          "texto_cita": "«O si le viniere enfermedad, o otro estorbo ---.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 2. 2. 4 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de estorbar (véase etimología de este vocablo). \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,437 @@
+{
+  "lema": "BESAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Tocar con los labios, dilatándolos y contrayéndolos suavemente, en señal de amor, amistad ó reverencia ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Con acus. de cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No era ofrecido el bodigo, cuándo en besando el feligrés la estola, era del primer voleo en mi casa.»",
+              "autor": "",
+              "referencia_obra": "Celest . 9 (R. 3. 44 1 )."
+            },
+            {
+              "texto_cita": "«Lo primero que Telesio hizo fue inclinar las rodillas, y besar la dura piedra del sepulcro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 6 (R. 1. 83 1 )."
+            },
+            {
+              "texto_cita": "«Luégo besa el ara, y hecha la señal de la cruz --- llégase al misal.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 3. 20 (R. 11. 173 1 )."
+            },
+            {
+              "texto_cita": "«Postróse Abén Farax en nombre de todos, y besó la tierra donde el nuevo rey tenía la planta.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granada, 1 (R. 21. 74 2 )."
+            },
+            {
+              "texto_cita": "«Besando la tierra en demostración de su agradecimiento, se ofrecieron con humilde solicitud á la ejecución de esta orden.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 7 (11. 28. 275 1 )."
+            },
+            {
+              "texto_cita": "«A los pies del invicto mártir puesto, | En lágrimas de amor deshecho todo, | Tierno los besa.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 12 (R. 17. 272 2 )."
+            },
+            {
+              "texto_cita": "«Dáme, Señor, que --- | Yo á los pies de tu cruz, devoto y sabio, | Tus llagas bese con humilde labio.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 11 (R. 17. 487 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "A menudo se usa un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con gran priesa le fue á asir del estribo derecho, y con devoto corazón y casi lágrimas le besó los pies una y muchas veces.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 16 (R. 1. 436 1 )."
+            },
+            {
+              "texto_cita": "«Regaba los pies de Cristo con lágrimas, llorando sus malos pasos --- besábaselos, pidiéndole que la reconciliase consigo.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 3. 25 (2. 176)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Besar la mano , manifestación de vasallaje, y besar los pies de sumisión, se han reducido hoy á expresiones de cortesía. La última no se usa ya sino al dirigirse á las damas ó á personas Reales.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El moro prometía que ayudaría al rey don Fernando y le serviría fuerte y lealmente, si le recibiese en su fe y protección, y, en señal de sujeción, de primera llegada le besó la mano.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 13 (R. 30. 374 2 )."
+            },
+            {
+              "texto_cita": "«Luégo fue á tomar las riendas de la mula de Dorotea, y haciéndola detener, se hincó de rodillas ante ella, suplicándole le diese las manos para besárselas en señal que la recebía por su reina y señora.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 30 (R. 1. 334 1 )."
+            },
+            {
+              "texto_cita": "«En la ceremonia de su jura el año de 1560, no consintió que le besaran la mano los prelados del reino.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 2, p. 463."
+            },
+            {
+              "texto_cita": "«Volvió Roger á despedirse del rey, y llegándose á su presencia, le pidió la mano para besársela, y el rey se la negó.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 229 2 )."
+            },
+            {
+              "texto_cita": "«Híncate de rodillas, Sancho, dijo D. Quijote, besa los pies á su excelencia por la merced que te ha hecho.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 32 (R. 1. 471 2 )."
+            },
+            {
+              "texto_cita": "«Quiso tomarle los pies para besárselos, mas no lo consintió Cardenio.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 29 (R. 1. 329 2 )."
+            },
+            {
+              "texto_cita": "«En vez de los príncipes iberios | Que se postraban á besar tu mano, | Hoy las estrella besarán tus plantas.»",
+              "autor": "Jáur.",
+              "referencia_obra": "canc. Ya que en silencio (R. 42. 107 1 )."
+            },
+            {
+              "texto_cita": "«Todas estas maneras de saludar se usan solamente entre los aldeanos y plebeyos --- El estilo de la corte es decirse unos á otros: Beso las manos de vuestra merced; otros dicen: Beso los pies á vuestra señoría; otros dicen: Yo soy siervo y esclavo perpetuo de vuestra casa --- Decir un hombre de bien á otro: Yo soy vuestro amigo, yo os tengo por deudo, estoy á vuestro mandado, haré lo que os cumpliere --- todo esto se sufre y pasa; mas decir: Bésoos las manos, bésoos los pies, ni se debe decir ni menos consentir; porque besar el pie es dignidad del Papa, y el besar la mano es del sacerdote de misa.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. famil. 2. 1 (R. 13.190 12 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Besar el látigo ó el azote: recibir el castigo con resignación ó humillación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ved los aragoneses, nuestros vecinos y amigos, cómo se humillan al precepto después que don Alonso de Vargas les hizo besar el látigo.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 3 (R. 21. 488 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Con acus. de pers. Se toma en especial por tocar con los labios la cara en señal de amor.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dio materia á la fábula de los poetas que Endimión era pastor en un monte de Caria llamado Latmo, cuando estaba dormiendo, la Luna descendía del cielo y le besaba.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab. 116 (38 2 )."
+            },
+            {
+              "texto_cita": "«Y acercándose á Jesús besóle y dijole: Dios te salve, Maestro.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 4. 24 (2. 481)."
+            },
+            {
+              "texto_cita": "«Es esta manera de amor [de Cristo á sus fieles] tierno y regalado, semejante al que los esposos tienen á sus esposas, y los padres á los hijos chiquitos que traen en sus brazos, regalándolos y besándolos.»",
+              "autor": "",
+              "referencia_obra": "Gran . Simb. 2. 29, § 14 (R. 6. 376 2 )."
+            },
+            {
+              "texto_cita": "«Déjame que te bese con locura, | Déjame que te apriete el corazón.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Diablo mundo, 5. 2 (392 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El rey se entró alegremente en la galera; los dos se abrazaron, se besaron, y estuvieron hablando algunas horas con muestras de amistad y alegría.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd. 1, p. 135."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Suelen agregarse compls. como en la frente, en la cara.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Allí se me ofrecían dineros, allí otras dádivas, besando el cabo de mi manto, y aun algunos en la cara, por me tener más contenta.»",
+              "autor": "",
+              "referencia_obra": "C elest. 9 (R. 3. 43 2 )."
+            },
+            {
+              "texto_cita": "«Así como entró, abrazó á su buen discípulo y le besó en el rostro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 7 (R. 1. 176 1 ) ."
+            },
+            {
+              "texto_cita": "«El luégo, en oyendo esto, abrió los brazos, y me los echó al cuello, y sin duda me besara en la frente, si la grandeza del cuello no lo impidiera.»",
+              "autor": "",
+              "referencia_obra": "Id. Adjunta (R. 1. 700 1 )."
+            },
+            {
+              "texto_cita": "«Allí llegó el rey moro acompañado de algunos caballeros y criados suyos, y así á caballo como venía, porque su alteza no consintió que se apease, llegó á él y le besó en el brazo derecho.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Rebelión, 1 . 20 (R. 21. 151 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por aquí se ve que no puede decirse besar á alguno en la mano ó en el pie; al paso que sí se dice besarle la frente á alguno, aunque con alguna tenue modificación en el sentido, más fácil de sentir que de expresar.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "De este uso con en ha venido el emplearse como intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Besa, besa este papel. | —¿Gánase alguna indulgencia? | —Gano por él á Clemencia. | — Quien la gana, bese en él .»",
+              "autor": "Tirso",
+              "referencia_obra": ", Ventura te dé Dios, hijo, 3. 16 ( Hartz. 3. 365)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Besar la jarra:»",
+          "autor": "Salvá",
+          "referencia_obra": "."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Refl. Tropezar impensadamente una persona con otra, dándose algún golpe en la cara ó cabeza ( fam. ).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "met. Llegar á tocar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En otra [gavia] se veía un luengo estandarte de tafetán negro, cuyas puntas besaban el agua.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 4 (R. 1. 150 1 )."
+            },
+            {
+              "texto_cita": "«El quedó tan cerca del suelo, que con los extremos de las puntas de los pies besaba la tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 43 (R. 1. 379 2 )."
+            },
+            {
+              "texto_cita": "«Al cabo y fin de las hileras venía una señora --- con tocas blancas tan tendidas y largas que besaban la tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 23 (R. 1. 453 1 )."
+            },
+            {
+              "texto_cita": "«Abatiendo las tiendas se descubrieron [las galeras] llenas de flámulas y gallardetes que tremolaban al viento, y besaban y barrían el agua.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 2. 61 (R. 1. 534 1 )."
+            },
+            {
+              "texto_cita": "«Adornaron la nave con flámulas y gallardetes, que ellos azotando el aire, y ellas besando las aguas, hermosísima vista hacían.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 1. 2 (R. 4. 564 1 )."
+            },
+            {
+              "texto_cita": "«Traía los cabellos sueltos por las espaldas, tan rubios que deslumbraban los del sol, y tan luengos que casi besaban la tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 10 (R. 1. 575 1 )."
+            },
+            {
+              "texto_cita": "«Puesto á caballo, la silla | Apenas ha de besar [la capa]; | Al suelo no ha de tocar | Si pongo en él la rodilla.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", No hay mal que por bien no venga , 1. 13 (R. 20. 181 3 )."
+            },
+            {
+              "texto_cita": "«Pues eres tú el mismo mar | Que con tus crecientes besas | Las murallas de mi patria.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 40 (R. 10. 141 2 )."
+            },
+            {
+              "texto_cita": "«Saliendo á caza al bosque más vecino | Del castellano Júcar en la boca, | Con que al sucrense golfo besa y toca, | Fuese toda la gente.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 6 (R. 17. 204 1 )."
+            },
+            {
+              "texto_cita": "«El alto Epiro se entendió que fuese | Por donde el vasto Jonio se atraviesa | Y el firme pie al Acroceraunio besa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13 (R. 17. 285 2 ) ."
+            },
+            {
+              "texto_cita": "«El mar profundo | El remate de España limpia y besa.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 19 (R. 17. 338 1 )."
+            },
+            {
+              "texto_cita": "« El mar cantabro con alternas ondas | Besar solía las amigas huellas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Poes. A Posidonio, 1 (R. 46. 45 2 )."
+            },
+            {
+              "texto_cita": "«¿No os acordáis de abril, cuando halagüeñas | Las manos de natura engalanaban | Vuestras frentes risueñas, | Cuando el aura os besaba con ternura?»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Despedida de la juventud (R. 19. 26 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr. y refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llevónos á un aposento estrecho, en el cual había dos camas tan juntas que parecían una, á causa que no había espacio que las dividiese, y las sábanas de entrambas se besaban.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 11 (R. 1. 224 2 )."
+            },
+            {
+              "texto_cita": "«Quedó D. Quijote, después de desarmado, en unos estrechos gregüescos y en su jubón de camuza, seco, alto, tendido, con las quijadas que por de dentro se besaba la una con la otra.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 31 (R. 1. 469 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La alta Gades contempla y sus murallas | Besadas por las olas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Al comb. de Traf. (R. 19. 17 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Besaré la cruda tierra | Que su sennora pisaba.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 364."
+        },
+        {
+          "texto_cita": "«Hiere sus pechos con mesura poca | Besando á su hijo la su fría boca.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. 204 (71 1 )."
+        },
+        {
+          "texto_cita": "«Con muy homilde y debida reverencia besamos vuestras manos é nos encomendamos en vuestra merced.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes. 49 (69) ."
+        },
+        {
+          "texto_cita": "«Vos besso , syn ser presente, | Pies e manos omilmente, | Commo á mi rey é señor.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 178. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Doña Leonor tomó al maestre su fijo, é abrazólo, é besólo, é estovo una grande hora llorando con él.»",
+          "autor": "",
+          "referencia_obra": "C rón. Pedro I, 2. 3 (R. 66. 412 2 )."
+        },
+        {
+          "texto_cita": "«Et tanto le amaban et lo presciaban aquellas gentes que cuando alguno se sentia ferido de muerte, venia al almirante et besabale la mano, et él dabale muy grand esfuerzo; et con las feridas tornaban a morir en la pelea.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 209 (R. 66. 307 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Estonce es el regno bien mantenido, quando la misericordia et la verdat se fallan en uno, et la paz et la justicia se besan.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 10. 2 (2. 88)."
+        },
+        {
+          "texto_cita": "«Aun dieron mas pena, que si alguno besase al muerto ó se echase con él en el lecho, que ayunase ocho dias á pan et á agua, et que le non recibiesen en la eglesia por un mes.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 100 (1. 170)."
+        },
+        {
+          "texto_cita": "«Non se deben besar unos á otros, porque en tal dia besando Judas á nuestro Señor lo trayó.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 42 (1. 97) ."
+        },
+        {
+          "texto_cita": "«Si --- el esposo --- la besó ante que muriese, la esposa aya la meytat de las donas que dél tenia.»",
+          "autor": "Fuero",
+          "referencia_obra": "real, 3. 2. 5 ( O. L. 2. 69)."
+        },
+        {
+          "texto_cita": "«E la dueña non quiso otorgar que la auia abraçado, nin besado, e diol todo lo que le auia dado.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 5 . 1. 4 (121)."
+        },
+        {
+          "texto_cita": "«Besauange las manos tres o IIII uegadas.»",
+          "autor": "Alex.",
+          "referencia_obra": "2159 (R. 57. 213 2 )."
+        },
+        {
+          "texto_cita": "«Besaronse nos ombros por la salua complir.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1718 (R. 57. 200 1 )."
+        },
+        {
+          "texto_cita": "«Besa-uos los pies e las manos amas.»",
+          "autor": "Cid",
+          "referencia_obra": ", 879 (R. 57. 12 1 )."
+        },
+        {
+          "texto_cita": "«Loraua de los oios, quisol besar las manos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 265 (R. 57. 4 2 )."
+        },
+        {
+          "texto_cita": "«Assi commo entraron al Çid besaron-le las manos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 153 (R. 57. 3 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. beijar; gall. beixar ; cat . besar; prov. baisar; fr . baiser; it. baciare: del lat. basiare, deriv. de basium , beso. Voz de origen oscuro. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

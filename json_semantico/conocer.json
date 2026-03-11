@@ -1,0 +1,1564 @@
+{
+  "lema": "CONOCER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ".",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tener la idea ó noción de alguna cosa; llegar á saber por el ejercicio de las facultades intelectuales la naturaleza, cualidades y relaciones de las cosas ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El alma del hombre conoce todos los objetos de la naturaleza por medio de los sentidos; y después de conocerlos tiene la facultad de conservar su imagen.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. preámb . (R. 46. 102 2 )."
+            },
+            {
+              "texto_cita": "«La inteligencia, tomada en su mayor generalidad, es la facultad de conocer las cosas. Estas pueden ser conocidas de una misma manera, y sin embargo ser objeto de sensaciones, imaginaciones y sentimientos muy diferentes.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Lógica, prelim. 2 (8)."
+            },
+            {
+              "texto_cita": "«Cuando conocemos perfectamente la verdad, nuestro entendimiento se parece á un espejo en el cual vemos retratados con toda fidelidad los objetos como son en sí.»",
+              "autor": "",
+              "referencia_obra": "Id. Criterio , 1, § 2 (2)."
+            },
+            {
+              "texto_cita": "«¿Cuál es el mejor carpintero? El que mejor conoce la naturaleza y calidades de las maderas, el modo particular de trabajarlas y el arte de disponerlas del modo más adaptado al uso á que se destinan.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1, § 4 (4)."
+            },
+            {
+              "texto_cita": "«Siempre el sol sale á su hora, siempre hace con su movimiento los cuatro tiempos del año, y lo mismo hacen todos los otros planetas y estrellas. De donde procede que los que conocen la orden destos movimientos, pronostican de ahí á muchos años los eclipses del sol y de la luna, sin faltar un punto.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 4 (R. 6. 195 2 )."
+            },
+            {
+              "texto_cita": "«No conocen del todo la bondad del Señor por experiencia, aunque la conocen por fe.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 23 (R. 53. 348 1 )."
+            },
+            {
+              "texto_cita": "«Así por lo visible conocimos | Lo invisible de Dios, cuya grandeza | En la naturaleza percebimos.»",
+              "autor": "Lope",
+              "referencia_obra": ", epíst . 13 ( Obr. suelt . 1. 445)."
+            },
+            {
+              "texto_cita": "«Conozco lo mejor, lo peor apruebo.»",
+              "autor": "Garcil.",
+              "referencia_obra": "son . 6 (R. 32. 32 2 )."
+            },
+            {
+              "texto_cita": "«Y hoy conoceréis la fe | De quien habéis perseguido.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Ganar amigos , 3. 13 (R. 20. 356 1 )."
+            },
+            {
+              "texto_cita": "«Conozco la flaqueza de mi dictamen, y dejo lo que afirmo al arbitrio de la razón.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. advert . (R. 28. 207)."
+            },
+            {
+              "texto_cita": "«No conocían otra virtud que la fortaleza, y si conocían otras, eran inferiores en su estimación.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 3 (R. 28. 235 1 ). —"
+            },
+            {
+              "texto_cita": "«Describiré --- las maneras | Del apartar la lana y hacer queso --- | Y conocer los perros por el hueso.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 2 (50)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La hermosura del cuerpo es lo visible por quien lo invisible se conoce.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 2. 5 ( Obr. suelt. 7. 120)."
+            },
+            {
+              "texto_cita": "«Cada uno habla y escribe con alguna diferencia de los otros, y tiene su propio dialecto para darse á entender con no sé qué distinción, que sólo se conoce cuando se comparan.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. advert. (R. 28. 207)."
+            },
+            {
+              "texto_cita": "«Estudió [Cervantes] humanidades con el presbítero don Juan Lope de Hoyos --- Estos son los únicos estudios que se lo conocen.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, Resum . histór . p. 600."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así pues, conocido el Criador y conocida la criatura racional, y en fin, conocidas las relaciones entre uno y otra, se hallarán naturalmente establecidos los principios de la ética acerca del Sumo Bien y del fin de las acciones humanas, los del bien y el mal, y los de la virtud y el vicio.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. preámb. (R. 46. 101 2 )."
+            },
+            {
+              "texto_cita": "«El mar sus peces espantó bramando, | Y la tierra tembló de su bramido, | A quien mil monstruos fueron afeando | De vista y talle nunca conocido.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 144 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El conocimiento y el juicio de la verdad está únicamente en el entendimiento. Las demás facultades le auxilian ofreciéndole objetos exteriores ó afecciones de la misma alma; pero ellas en sí mismas no conocen.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. prelim. 2 (8)."
+            },
+            {
+              "texto_cita": "«Para el conocimiento cierto de las cosas dos disposiciones son necesarias: de quien conoce, y del sujeto que ha de ser conocido.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 46 (R. 25. 114 1 ). —"
+            },
+            {
+              "texto_cita": "«Antes que conozcas, ni alabes ni cohondas.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": "; recomienda que no se exprese juicio favorable ó desfavorable sin que preceda exacto conocimiento de las cosas."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . Dícese de aquello que todos saben, que á todos es notorio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La sangre real, que interesa | Vuestra casa, es conocida, | Y de mí siempre estimada.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Palabras y plumas , 1. 6 (R. 5. 4 3 )."
+            },
+            {
+              "texto_cita": "«Tengo tratado casar | Por cartas en Orihuela | Con un hidalgo á Leonor, | De tan conocidas prendas, | Que él la merece, si hay | Alguno que la merezca.»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo , 1 (R. 54. 236 1 )."
+            },
+            {
+              "texto_cita": "«Muerto el padre, se querellaba que en la división del reino se le hizo conocido agravio: que todo el reino se le debía á él por ser el mayor.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 9. 7 (R. 30. 254 2 )."
+            },
+            {
+              "texto_cita": "«Las [comedias] imaginadas como las de historia, todas ó las más son conocidos disparates.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 48 (R. 1. 390 1 ). — Sup ."
+            },
+            {
+              "texto_cita": "«Los ejemplos son infinitos y conocidísimos en cada renglón de la Santa Escritura.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 2 (402)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "De conocido: conocidamente, notoriamente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues si la pierdo callando | De conocido, y hablando | Me arriesgo sólo á perdella, | ¿Qué tengo que recelar, | Si entre hablar y enmudecer, | Callando es cierto perder, | Y hablando puedo ganar? Alarcón, Los empeños de un engaño , 1. 12 (R. 20. 252 3 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Eran muchos los que decían con poco recato que no querían perderse de conocido por el antojo de Cortés, y que tratase de volverse á la VeraCruz.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 2. 18 (R. 28. 258 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado á personas, Tener noticia de ellas, por haberlas visto alguna vez ó por otro motivo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era una moza rolliza, zahareña, y tiraba algo á hombruna, porque tenía unos pocos bigotes, que parece que ahora la veo. ¿Luego conocístela tú? dijo D. Quijote. No la conocí yo, respondió Sancho, pero quien me contó este cuento me dijo que era tan cierto y verdadero, que podía bien, cuando lo contase á otro, afirmar y jurar que lo había visto todo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 20 (R. 1. 297 1 )."
+            },
+            {
+              "texto_cita": "«No os conozco, amigo, respondió D. Quijote, ni sé quién sois, si vos no me lo decís.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 66 (R. 1. 545 1 )."
+            },
+            {
+              "texto_cita": "«Oh Pedro ¿tan mal hombre es ése que ahí está, que por tan gran vergüenza tienes aun haberlo conocido?»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. espir . 14 (R. 11. 250 1 ). —"
+            },
+            {
+              "texto_cita": "«Quien no te conoce (ó conozca), ése te compre (ó que te compre)»",
+              "autor": "",
+              "referencia_obra": ": frase alusiva á un cuento vulgar, con la cual se da á entender que ya está uno al cabo del engaño ó malicia de alguien."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Admite compls. con de ó por significativos de modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conocer á otro de vista, de nombre, por su fama.»",
+              "autor": "Acad.",
+              "referencia_obra": ", Salvá , Gram ."
+            },
+            {
+              "texto_cita": "«Mis padres y hermano | Casarme en Castilla tratan | Con don Diego de Mendoza, | Que vos conocéis por fama.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Don Diego de noche , 3 (R. 54. 231 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de y un pred. , para expresar el oficio ó empleo que desempeñaba la persona cuando uno la vio por primera vez.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me acuerdo que le conocí en Salamanca de colegial, y á fe que entonces era bien enamorado.»",
+              "autor": "Jovell.",
+              "referencia_obra": "El delincuente honrado , 1. 5 (R. 46. 85 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo tengo por sospechosos ofrecimientos y caricias de gente no conocida.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 9 (R. 18. 158 2 )."
+            },
+            {
+              "texto_cita": "«No se diga de él que muere desconocido á sí mismo quien vivió conocido á todos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 101 (R. 25. 265 1 )."
+            },
+            {
+              "texto_cita": "«Qui, notus nimis omnibus, | Ignotus moritur sibi.»",
+              "autor": "León",
+              "referencia_obra": "dice:"
+            },
+            {
+              "texto_cita": "«El que de todo el mundo conocido | Solo de sí desconocido muere.»",
+              "autor": "",
+              "referencia_obra": "4, p. 521)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Dícese de la persona á quien todos conocen; en especial, Acreditado, ilustre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si cuanto la persona justiciada es más alta y más conocida, tanto mayor espanto nos pone su caída, vosotros, ángeles bien aventurados, que tan bien conocéis la alteza deste Señor, ¿qué sentistes cuando allí lo vistes?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 4 (R. 6. 24 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Aplicado á personas, Saber cuál es su carácter, sus aptitudes ó su modo de proceder ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como te conozco, Sancho, respondió D. Quijote, no hago caso de tus palabras.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 23 (R. 1. 454 1 )."
+            },
+            {
+              "texto_cita": "«La historia solamente le podrá enseñar á conocer los hombres, y á gobernarlos según el dictamen de la razón y los preceptos de las leyes.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la legisl. y la hist . (R. 46. 289 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los buenos espíritus se conocen y entienden.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 21 ( Míst . 1. 98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un pred. para especificar la cualidad ó estado de la persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi mozo, que hasta allí le había conocido perezoso y lerdo, se había vuelto un corzo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 11 (R. 1. 224 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo en el hábito me conozco religioso, siendo en lo demás hombre del siglo.»",
+              "autor": "J. de los Ángeles",
+              "referencia_obra": ", Conq. del reino de Dios , 1, § 1 (4). —"
+            },
+            {
+              "texto_cita": "«Bien como el ciervo, al conocerse herido | De enherbolado arpón, las cumbres altas | Sube.»",
+              "autor": "Mor.",
+              "referencia_obra": "idilio á la ausencia (R. 2. 609 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Este pred. va á menudo con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni consienta [la casada perfecta] que conozca á otra antes que á ella por madre, ni quiera que en comenzando á vivir, se comience á engañar.»",
+              "autor": "León",
+              "referencia_obra": ", Perf . cas . 18 (3. 510)."
+            },
+            {
+              "texto_cita": "«Ni los deudos ni amigos nos recibieran en la patria, ni ella nos conociera por hijos, si, muertos nuestros compañeros alevosamente, no se intentara la venganza.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 30 (R. 21. 28 1 )."
+            },
+            {
+              "texto_cita": "«Como nuestro Señor me conoce por tan miserable, siempre me ayuda con palabras y con obras.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 31 (R. 53. 243 1 )."
+            },
+            {
+              "texto_cita": "«Si conoce [el demonlo] á uno por mudable y que no está firme en el bien --- miedos le porná é inconvenientes, que nunca acabe.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cam. perf . 23 (R. 53. 348 1 )."
+            },
+            {
+              "texto_cita": "«No se había curado Sancho de echar sueltas á Rocinante, seguro de que le conocía por tan manso y poco rijoso, que todas las yeguas de la dehesa de Córdoba no le hicieran tomar mal siniestro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 15 (R. 1. 283 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así que, quien aquí llegare, alábele mucho, conózcase por muy deudor.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 10 (R. 53. 42 1 )"
+            },
+            {
+              "texto_cita": "«Porque la humildad verdadera, aunque se conoce el alma por ruin, y da pena ver lo que somos --- no viene con alboroto ni desasosiega el alma.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib . 30 (R. 53. 91 2 )."
+            },
+            {
+              "texto_cita": "«O si abren con el azote los ojos, conócense por tan necios, que eso mismo los derrueca, que tuvieron por su firmeza y amparo.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 4 (1. 72)."
+            },
+            {
+              "texto_cita": "«Dios no es injusto; y ansí es necesario que él se conozca por culpado, pues es notorio que Dios le aflige y azota.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 8 (1. 140)."
+            },
+            {
+              "texto_cita": "«Tornándote á Dios después del pecado, tanto más diligentemente te ocupa en buenas obras, cuanto por las malas que has hecho te conoces por más merecedor de castigo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 6 (R. 6. 130 2 )."
+            },
+            {
+              "texto_cita": "«Quien no se conoce por enfermo, no procura la medicina.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid . 2. 4, § 9 (R. 8. 133 2 )."
+            },
+            {
+              "texto_cita": "«Por eso no desmayo ni desconfío, aunque me conozco por tan indigno de ser amado.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem . 2. 14, consid. 3 (R. 8. 483 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hombre de grande oración y espíritu, de vida santísima, y conocido en todo el reino por tal.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 21 ( Míst. 1.98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Refl. Juzgar justamente de sí propio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Has de poner los ojos en quien eres, procurando conocerte á ti mismo, que es el más difícil conocimiento que puede imaginarse.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 42 (R. 1. 492 1 )."
+            },
+            {
+              "texto_cita": "«Es cosa tan importante este conocernos, que no querría en ello hubiese jamás relajación, por subidas que estéis en los cielos; pues mientras estamos en esta tierra, no hay cosa que más nos importe que la humildad.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor . 1. 2 (R. 53. 438 1 )-"
+            },
+            {
+              "texto_cita": "«No hay quien tan bien se conozca á sí, como conocen los que nos miran, si es con arnor y cuidado de aprovecharnos.»",
+              "autor": "",
+              "referencia_obra": "Ead. Vida , 16 (R. 53. 57 1 )."
+            },
+            {
+              "texto_cita": "«Torna [el alma | á cobrar el tino | Y memoria perdida | De su origen primera esclarecida. | Y como se conoce, | En suerte y pensamiento se mejora.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, El aire se serena (4. 301)."
+            },
+            {
+              "texto_cita": "«Dos cosas son precisamente necesarias al que emprende la guerra: la primera es conocerse, la segunda conocer a su contrario.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 3 (R. 21. 488 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con para . Se usa ponderativamente denotando la habilidad que uno reconoce en sí para alguna cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es verdad, como que soy el hombre que se conoce para cortar leña.»",
+              "autor": "Mor.",
+              "referencia_obra": "El médico á palos , 1. 3 (R. 2. 463 2 . El original:"
+            },
+            {
+              "texto_cita": "«Je suis le premier homme du monde pour faire des fagots.»",
+              "autor": "",
+              "referencia_obra": ")."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Aplicado á personas, Tener trato y comunicación ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vino por aquel tiempo á Ávila el santo padre fray Pedro de Alcántara --- No le conocía entonces la santa madre, pero conocíale una señora de aquella ciudad, muy noble y virtuosa, llamada doña Guiomar de Ulloa.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 21 ( Míst . 1. 98)."
+            },
+            {
+              "texto_cita": "«O tengo poco conocimiento, ó son algunos de los que vienen en este barco personas que yo conozco y me conocen.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 1. 12 (R. 1. 577 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Viéronse en efecto en aquella ocasión Hernán Cortés y Pizarro, que se conocían ya desde su primera residencia en Santo Domingo, y aun se dice que eran arnigos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 312 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Refl . con con , en sentido recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si vuestra señoría se conociese con el protector de nuestra orden, que dicen es sobrino del Papa, él lo acabaría con nuestro padre general.»",
+              "autor": "",
+              "referencia_obra": "Sta.Ter. Cartas , 1. 3 (R. 55. 162 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . Se usa á menudo como sust. : Persona con quien se tiene trato y comunicación, pero no amistad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si uno de corazón ama, por ninguna cosa deja de amar, y si el tal jura que ama y por otra parte deja de amar, al tal no le han de llamar enamorado, sino vecino ó conocido.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epist . fam . 2. 8 (R. 13. 202 1 )."
+            },
+            {
+              "texto_cita": "«Un conocido el alto Febo tiene, | . ¿Qué digo un conocido? un verdadero | Amigo, con quien sólo se entretiene.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 6 (R. 1. 87 1 )."
+            },
+            {
+              "texto_cita": "«En la rueda de la mucha gente que, como se ha dicho, siempre le estaba oyendo, estaba un conocido suyo en hábito de letrado.»",
+              "autor": "",
+              "referencia_obra": "Id . Nov . 5 (R. 1. 163 2 )."
+            },
+            {
+              "texto_cita": "«Y también te ofrezco todos los santos deseos de los devotos, y todas las necesidades de mis padres, hermanos, amigos y parientes, y de todos mis conocidos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Imit . 4. 9 (R. 11. 426 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Por eufemismo, Tener el hombre acto carnal con la mujer ( trans .). Aunque esta acepción era usual en latín, como lo es en muchas otras lenguas, es probable que á la nuestra haya venido de las sagradas Escrituras, donde ocurre repetidas veces.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Conoció carnalmente á su hermana Canace.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ", Lab . 103 (35)."
+        },
+        {
+          "texto_cita": "«Nunca conocí mujer, mas no por esto me tengo por virgen.»",
+          "autor": "Sig.",
+          "referencia_obra": "Vida de S. Jer . 1. 4 (46)."
+        },
+        {
+          "texto_cita": "«Las leyes eclesiásticas prohiben que ninguno se pueda casar con la hermana de la que antes carnalmenle hubiere conocido.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Cisma , 1. 10 (R. 60. 195 2 )."
+        },
+        {
+          "texto_cita": "«Los alemanes por cosa muy afrentosa tenían haber conocido mujer antes de veinte años de edad.»",
+          "autor": "Roa",
+          "referencia_obra": ", Vida de Dª. Ana Ponce de León , 2. 7 (83)."
+        },
+        {
+          "texto_cita": "«Tenía aquel conde de Flandes una hija, á quien conoció el joven Guifredo.»",
+          "autor": "",
+          "referencia_obra": "Esp. sagr . 29, p. 162."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Por metonimia, Sentir, experimentar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y sentía el trabajo, y conocía el hambre.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 308)."
+            },
+            {
+              "texto_cita": "«Del reinar sólo conoció las fatigas y peligros.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 6 (R. 21. 8 1 )."
+            },
+            {
+              "texto_cita": "«Los guerreros de Baeza, testigos del triunfo de Isabel, llegan á conocer el desaliento.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la. Cat. ( Mem. Acad. Hist. 6. 18)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nunca conocí qué es miedo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 20 (R. 1. 446 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g)",
+      "definicion": "Aplicado á personas, Reconocer, respetar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La gente libre, mal mandada, peor disciplinada, que no conoce capitanes ni oficiales, que aun el sonido de la caja no entendían.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 4 (R. 21. 116 2 ). —"
+            },
+            {
+              "texto_cita": "«Indómitas corrientes, | Que un tiempo imitadoras del diluvio, | No conocieron márgenes ni puentes.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Para ver acosar (R. 42. 306 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con por y un pred. significativo de la categoría en que se reconoce á alguno.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Anda el mundo tal, que si el padre es más bajo del estado en que está su hijo, no se tiene por honrado en conocerle por padre.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 27 (R. 53. 351 2 )."
+            },
+            {
+              "texto_cita": "«A ti solo | Por príncipe conocemos, | No al de Moscovia.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 3. 2 (R. 7. 13 2 )."
+            },
+            {
+              "texto_cita": "«Del córilo la Filis pues se agrada, | Al córilo conozcan por rey solo | El mirto y el laurel del crespo Apolo.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl . 7 (4. 425)."
+            },
+            {
+              "texto_cita": "«Entre las llamas renunció [el oro] la tierra; | Ya no conoce al risco por pariente.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2, son . 95 (R. 69. 31 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por extensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las venas de Castalia y de Pirene | Rebosarán por ti en su ondoso río, | Y vendrá, á conocelle señorío | Quien fue sepulcro al hijo de Climene.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, son . 123 (R. 32. 332 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Percibir el objeto como distinto de todo lo que no es él; y por extensión, Distinguir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre mil diferencias de hierbas que hay en el campo de un mismo color, conocen la que es de comer y la que no lo es.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 3 § 8 (R. 6. 193 2 )."
+            },
+            {
+              "texto_cita": "«¿Estoy yo obligado, á dicha, siendo como soy caballero, á conocer y distinguir los sones, y saber cuáles son de batanes ó no?»",
+              "autor": "",
+              "referencia_obra": "Cerv, Quij . 1. 20 (R. 1. 299 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bien sé que el caballero cristiano en las adversidades se conoce.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce do. León , 2. 4 (67)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Echar de ver que un objeto es el mismo de que ya uno tenía idea ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como vio á don Pedro su hermano, estuvo un poco sin hablar, como espantado: la grandeza del hecho le tenía alterado y suspenso, ó no le conocía por los muchos años que no se vieran.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist . Esp . 17. 13 (R. 30. 519 1 )."
+            },
+            {
+              "texto_cita": "«Como los vio, conociendo á su amigo Damón, con increíble alegría le salió á recebir.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 23 1 )."
+            },
+            {
+              "texto_cita": "«Se le puso á mirar con atención, y al fin le conocio, y quedó como espantado de verle.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 29 (R. 1. 331 2 )."
+            },
+            {
+              "texto_cita": "«¿No me conoce vuestra merced? pues míreme bien, que yo soy aquel mozo Andrés, que quitó vuestra merced de la encina donde estaba atado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 31 (R. 1. 337 2 )."
+            },
+            {
+              "texto_cita": "«Le vi á la puerta del mesón puesto en hábito de mozo de mulas, tan al natural, que si yo no le trujera tan retratado en mi alma, fuera imposible conocerle.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 43 (R. 1. 377 2 )."
+            },
+            {
+              "texto_cita": "«¡Ah señor cura, señor cura! ¿Pensará vuestra merced que no le conozco, y pensará que yo no calo y adivino adónde se encaminan estos nuevos encantamentos?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 48 (R. 1. 388 2 )."
+            },
+            {
+              "texto_cita": "«Viniendo con la señora princesa Micomicona, conocí mi asno, y que venía sobre él en hábito de gitano aquel Ginés de Pasamonte.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2.4 (R. 1. 412 1 )."
+            },
+            {
+              "texto_cita": "«Aunque la encuentren en mitad de la calle, no la conocerán más que á mi padre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 11 (R. 1. 425 1 )."
+            },
+            {
+              "texto_cita": "«Entonces Sancho le miró con más atención, y comenzó á refigurarle, y finalmente le vino á conocer de todo punto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 54 (R. 1. 518 1 )."
+            },
+            {
+              "texto_cita": "«¡Desdichado de mí que estoy tal que no me conocerá vuestra merced!»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 4 (R. 23. 492 1 )."
+            },
+            {
+              "texto_cita": "«Todos os cubrid los rostros; | Que es diligencia importante | Mientras estamos aquí | Que no nos conozca nadie.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 1. 3 (R. 7. 2 3 )."
+            },
+            {
+              "texto_cita": "«Conozco la mano de Dios en esta obra que emprendemos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 14 (R. 28. 222 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por no ser conocida, estaba cubierta y tapada con un manto.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 20 ( Míst . 1. 194)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar lo que sirve de indicio para comprobar la identidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conocióle en la voz y perdió el tino | Con el gran alborozo y alegría.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "terc. De David en el trono (R. 42. 279 2 )."
+            },
+            {
+              "texto_cita": "«Como habla disimulado | No le conozco en la voz.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Entre bobos anda el juego , 2 (R. 54. 26 3 )."
+            },
+            {
+              "texto_cita": "«Conocíla, respondió D. Quijote, en que trae los mismos vestidos que traía cuando tú me la mostraste.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 23 (R. 1. 454 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Presentándose su padre, Beltrán le conoció por el escudo de sus armas, y arrojó su lanza por no pelear.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 4, p. 258."
+            },
+            {
+              "texto_cita": "«Yo le conozco bien por el escudo | Y por la alta cimera del almete, | Y su carro es aquél.»",
+              "autor": "Hermosilla.",
+              "referencia_obra": "Iliada . 5 (1. 135)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con por y, como pred. , el nombre de la persona cuya identidad se percibe.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En llegando más cerca fue conocido de todos por el gallardo Basilio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 21 (R. 1. 447 2 )."
+            },
+            {
+              "texto_cita": "«La cual fue luégo de todos conocida por la cruel Gelasia.»",
+              "autor": "",
+              "referencia_obra": "Id. Gal . 6 (R. 1. 95 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Refl . Se usa en frases negativas, aplicado tanto á lo físico como á lo moral, para ponderar el gran cambio que se ha verificado en una persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedó tan otro de lo que antes parecía Cardenio, que él mismo no se conociera aunque á un espejo se mirara.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 29 (R. 1. 331 2 )."
+            },
+            {
+              "texto_cita": "«Otras veces me hallo tan asida, y de cosas que por ventura el día antes burlara yo dello, que casi no me conozco.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 38 (R. 53. 368 2 )."
+            },
+            {
+              "texto_cita": "«Te verás tan alto y tan sublimado que no te conozcas, y no saldrán defraudadas las promesas que te ha fecho tu buen señor.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 46 (R. 1. 386 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Admite un compl. con de en sentido causal.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquesta tan sencilla | Y tan pura amistad, quiso mi hado | En diferente especie convertilla: | En un amor tan fuerte y tan sobrado, | Y en un desasosiego no creíble, | Tal que no me conozco de trocado.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 2 (R. 32. 8 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Presumir ó conjeturar lo que puede suceder ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Conocer que ha de llover presto por la disposición del aire.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«Asímismo dije --- que por cuanto los agricultores ponen reglas y arte de astrología para que los labradores conociesen y supiesen entender y adevinar los mudamientos de los tiempos --- enseñaría y pornía otros avisos mas fáciles de entender.»",
+          "autor": "Herr.",
+          "referencia_obra": "Agric. gen . 6, pról . (4. 87)."
+        },
+        {
+          "texto_cita": "«Aun las animalias brutas por instinto natural conocen y adevinan los tiempos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 6 (4. 135)."
+        },
+        {
+          "texto_cita": "«Y porque con indicio verdadero | Podamos conocer lo que viniere, | Las lluvias, los calores, los estíos ---»",
+          "autor": "León",
+          "referencia_obra": ", Poes . 2, Geórg . (4. 456)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Echar de ver, advertir, entender, saber ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conociendo el enfermo el peligro de su dolencia, procura el remedio.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3. 2 (R. 6. 400 2 )."
+            },
+            {
+              "texto_cita": "«Querría avisar á vuestra merced para que si por aquí le tentare [el demonio], tenga alguna luz y lo conozca, si le dejare el entendimiento para conocerlo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 30 (R. 53. 91 2 ). —"
+            },
+            {
+              "texto_cita": "«Bien conozco en el peligro | Que está mi honor.»",
+              "autor": "Lope",
+              "referencia_obra": ", La llave de la honra , 3. 5 (R. 34. 130 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con una prop. indic.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo conozco con el natural entendimiento que Dios me ha dado, que todo lo hermoso es amable.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 14 (R. 1. 282 1 )."
+            },
+            {
+              "texto_cita": "«Vio una gran torre, y luégo conoció que el tal edificio no era alcázar, sino la iglesia principal del pueblo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 9 (R. 1. 421 2 )."
+            },
+            {
+              "texto_cita": "«Detuvíéronse todos, y conocieron que el que hacía las señas era D. Quijote.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 17 (R. 1. 439 1 )."
+            },
+            {
+              "texto_cita": "«Yo conozco que dice verdad; que si yo fuera discreto días ha que había de haber dejado á mi amo.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 2. 33 (R. 1. 475 2 )."
+            },
+            {
+              "texto_cita": "«Bien es que conozcan los potentados que su Majestad mantendrá siempre con ellos buena amistad y correspondencia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 97 (R. 25. 254 1 )."
+            },
+            {
+              "texto_cita": "«Vuestra merced se puso á la ventana, | Y luégo conoció que era poeta, | Que la pobreza nunca fue secreta; | Sin duda se lo dijo mi sotana.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rim . de Burg . son . 51 ( Obr. inéd . 19. 51)."
+            },
+            {
+              "texto_cita": "«No hablaremos aquí de la dotación de las sociedades: conocemos que sin facultades será menor la suma del bien que puedan hacer al público.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Dict. sobre decad. de las soc. econ . (R. 5O. 60 1 )."
+            },
+            {
+              "texto_cita": "«Apenas hubo tomado posesión del mando, conoció Bonaparte que nada urgía tanto como separar el ejército austriaco del sardo.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Esp. del siglo , 6. 5 (6. 17)."
+            },
+            {
+              "texto_cita": "«Dios dará remedio á todo y proveerá que mi padre y yo conozcamos que sois tan fieles servidores como debéis.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc . de Viana (R. 19. 237 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque le asiste la circunstancia de haber visto lo que escribió, se conoce de su misma obra que no tuvo la vista libre de pasiones.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 2 (R. 28. 209 2 )."
+            },
+            {
+              "texto_cita": "«Se conoció en su resistencia que traían capitanes de reputación.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 18 (R. 28. 373 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por más que procurase fingir alegría de aquel suceso, se le conocía no haber sido del todo conforme á sus designios.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 1 (R. 28. 14 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tu pecho fementido, | Que, ya de furias, ya de amores nido, | Jamás conoce si aborrece ó ama.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. amor . 16 (R. 67. 326 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con en ó por , para expresar el fundamento de lo que se piensa ó lo que conduce al conocimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero la discreción de Galatea conocía bien en los movimientos del rostro lo que Elicio en el alma traía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 3 2 )."
+            },
+            {
+              "texto_cita": "«Ni el necio que dijo en su corazón que no había Dios, ni el descarado Selio que dijo con la boca que no había dioses, dejaron de conocer por todas las criaturas y por el orden y concierto del Universo, que había Dios.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 194 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "For. Entender como juez en un negocio para juzgarlo y sentenciarlo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans . (raro). Cp. lat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«cognoscere causam.»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Los príncipes soberanos carecen de juez en la tierra --- pues nadie puede conocer causa de quien por ley divina y humana le es superior.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 6 (R. 28. 71 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans . Con de. Esta construcción, que nos ha venido del latín, tiene sin duda por fundamento el uso absoluto del verbo. (",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Verres adesse jubebat, Verres cognoscebat, Verres judicabat.»",
+              "autor": "",
+              "referencia_obra": ")"
+            },
+            {
+              "texto_cita": "«Llegado á aquella ciudad, se asentó para conocer de aquel pleito, cuando gran número de obispos, que allí se hallaban presentes por su llamado, dijeron á voces no ser lícito que alguno juzgase al sumo Pontífe.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 7. 11 (R. 30. 205 1 )."
+            },
+            {
+              "texto_cita": "«Presos los enviaron á Valencia para que allí se conociese de su causa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 12 (R. 30. 104 1 )."
+            },
+            {
+              "texto_cita": "«El original dice: maldad de justicia, esto es, maldad que por ley pertenece á juicio, y de quien los jueces, según lo establecido, por derecho conocen, para condenarla á castigo»",
+              "autor": "León",
+              "referencia_obra": ", E x pos. de Job , 31 (2. 122)."
+            },
+            {
+              "texto_cita": "«Este pleito, si ya no antes, empezó en 1448, pues que á 20 de enero --- nombró [el rey] á Juan Serralta y Juan Ferriola, mercaderes de Mallorca, para que conociesen de él y le determinasen.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Descr. de la lonja de Palm. (R. 46. 444 1 )."
+            },
+            {
+              "texto_cita": "«Colocado pues en aquella sala de hijosdalgo, que entonces conocía solamente de las causas de nobleza, fueron singulares la aplicación y el desvelo con que desempeñó las funciones de su nuevo ministerio.»",
+              "autor": "",
+              "referencia_obra": "Id. Elog . del M. de los Llan. (R. 46. 285 2 )."
+            },
+            {
+              "texto_cita": "«Es preciso repetir en este lugar que á la Iglesia pertenece la custodia é interpretación de las santas Escrituras, y que ella debe conocer de las traslaciones que se han de poner en manos de los fieles.»",
+              "autor": "Scío",
+              "referencia_obra": ", Biblia , Disert. prcl . 2 (1. XIX)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Alguna vez se usa en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo sido traída mi causa á tu tribunal, en que como gobernador ocupas el lugar de César, no toca ya á los judíos conocer en ella.»",
+              "autor": "Scío",
+              "referencia_obra": ", Hech. apost . 25. 10, nota."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Ser conocedor, estar versado en una materia, entenderla ( intrans .). Con de. Como saber , entender , etc . admiten igual construcción, no es forzoso suponer que este uso de conocer nazca del forense.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La hubieran enterrado si su padre no lo estorbara muchas veces, porque conocía mucho de pulso y no podía creer que estuviese muerta.»",
+          "autor": "Yepes",
+          "referencia_obra": ", Vida de Sta. Ter . 1. 6 ( Míst. 1. 21)."
+        },
+        {
+          "texto_cita": "«Otro debe de ser del nombre mío | El que tiene ese potro y que conoce | De caballos.»",
+          "autor": "Lope",
+          "referencia_obra": ", La niña de plata , 1. 12 (R. 24. 278 1 )."
+        },
+        {
+          "texto_cita": "«Conozco bien de pinturas, | Hago comedias á pasto.»",
+          "autor": "Rojas",
+          "referencia_obra": ", Entre bobos anda el juego , 3 (R. 54. 30 3 )."
+        },
+        {
+          "texto_cita": "«Sabed que yo también soy de vuestro oficio, y tengo más ha de veinte años carta de examen, y conozco muy bien de todos los instrumentos de la barbería.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 45 (R. 1. 382 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "Usábase en casos en que hoy decimos Reconocer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Por Confesar ( trans .). En este sentido es muy común en los antiguos códigos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A cuya razón no tuvieron que replicar, antes la conocieron y confesaron con ingenuidad.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 3. 7 (R. 28. 275 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Mostrar agradecimiento ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dios premió á Job con hacerle pobre el haber sabido ser rico, y Job conoció á Dios el haberle hecho rico con saber ser pobre.»",
+              "autor": "Quev.",
+              "referencia_obra": "Fantasma 2 (R. 48. 148 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«iOh pan mal conocido! Oh promesas mal colocadas! Oh hombre que tiene más de bestia que de persona.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 28 (R. 1. 465 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En este mundo viviendo, | El mundo no conoció | Su deidad.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 46)."
+        },
+        {
+          "texto_cita": "«Vio á Zayde Alemin é conosciólo, porque lo había visto ya en Velez.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan Il , 4. 23 (R. 68. 325 1 )."
+        },
+        {
+          "texto_cita": "«Era conoscida cosa que para esto le daba el principe su entero favor.»",
+          "autor": "",
+          "referencia_obra": "C rón. Álv. de Luna , 80 (205)."
+        },
+        {
+          "texto_cita": "«El rey don Enrique, como aquel que era muy conoscido é muy virtuoso príncipe, no se le olvidó la mucha honra é buen acogimiento que aquel caballero en su casa é tierra le ficiera.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2 (8)."
+        },
+        {
+          "texto_cita": "«Deçiplo ynorante, tu desaventura | Te fase que tomes atal atrevençia | Contra un sabio que toda Valençia | Non conostria su desenboltura.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 482."
+        },
+        {
+          "texto_cita": "«Dixo que le placia que le conoscer señorio é de facer trebuto.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 95. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«E ouo sus dos fijas él mesmo a conosçer.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 103 (R. 57. 428 2 )."
+        },
+        {
+          "texto_cita": "«Mandóle meter á tormento, et ante que lo atormentasen, conosció la verdad.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 273 (R. 66. 347 1 )."
+        },
+        {
+          "texto_cita": "«Et el escudero conosció luego que sí, que ge lo mandara.»",
+          "autor": "",
+          "referencia_obra": "lb . 139 (R. 66. 265 2 )."
+        },
+        {
+          "texto_cita": "«E grand ayuda le faria | Si le aquesto fesiese, | E gelo cognosçeria | Si a tal tienpo beniese.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI , 2197 (R. 57. 543 2 )."
+        },
+        {
+          "texto_cita": "«Yo tomé guerra muy mala, | Connosco me por culpado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 576 (R. 57. 494 2 )."
+        },
+        {
+          "texto_cita": "«Et si non fueren conoscidos [los canes], que los prendan et pregonen, porque vengan por ellos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 42 ( Bibl. venat. 1. 124)."
+        },
+        {
+          "texto_cita": "«Quien bien conosciere el rastro viejo, mejor conoscerá el nuevo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 2 ( Bibl. venat. 1. 17)."
+        },
+        {
+          "texto_cita": "«Sea tenudo de responder derechamiente a la demanda contestando el pleito conosçiendo o negando fasta nueue dias continuados.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Alcalá , año 1348 ( C. de L. y C . 1. 506)."
+        },
+        {
+          "texto_cita": "«Et si non ouier y querelloso, que non conoscan del pleito. Cortes de Alcalá , año 1345 ( C. de L. y C . 1. 478).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Rogóles mucho homilldosamente que guardasen señorio del rey don Fernando su fijo, é que en esto farian lo que devian, é él é ella siempre gelo conoscerian.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 1 (R. 66. 95 2 )."
+        },
+        {
+          "texto_cita": "«Yo vengo nuevamente | A esta vuestra çibdad; non conosco la gente.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 320 (R. 57. 237 1 )."
+        },
+        {
+          "texto_cita": "«Et otrosi conosció en la fabla que aquel era Saladin.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 12, (R. 51. 422 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Para mientes, mio fijo, cuant grand majamiento é cuant grand quebranto dio Dios sobre el rey Nabucodonosor porque se non conosció contra él.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 90 (R. 51. 227 1 )."
+        },
+        {
+          "texto_cita": "«Antes que se conozcan puede cada uno dellos entrar en orden é dejar al otro, é asi se suelta el matrimonio.»",
+          "autor": "",
+          "referencia_obra": "Ib. 77 (R. 51. 208 2 )."
+        },
+        {
+          "texto_cita": "«Si alguno prometiere á alguna mujer que casará con ella, é después la conociere, el derecho judga que alli hobo verdadero matrimonio.»",
+          "autor": "",
+          "referencia_obra": "Ib . 76 (R. 51. 207 1 )."
+        },
+        {
+          "texto_cita": "«Deben ser muy devotos en oir sus misas é en facer sus oraciones é en conocer á Dios cuanta merced les fizo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 74 (R. 51. 205 1 )."
+        },
+        {
+          "texto_cita": "«Yo só buen pastor é conozco las mis ovejas, é conocen á mí las mias.»",
+          "autor": "",
+          "referencia_obra": "lb . 16 (R. 51. 123 2 )."
+        },
+        {
+          "texto_cita": "«Aquella gente a quien los de Roma, que eran señores de toda la tierra, fincaron los ynojos cognosciendoseles por vençidos.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 2. 55 (202 1 )."
+        },
+        {
+          "texto_cita": "«Empero si aquel que dio o prometió alguna cosa al judgador --- lo descobriese veniendo conoscido de su grado, et lo podiere probar al rey ó á otro que fuese mayoral, non haya pena ninguna.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 22. 26 (2. 678)."
+        },
+        {
+          "texto_cita": "«Et si muchas demandas le ficiere el demandador por escripto ó por palabra, debe responder el demandado en cierto á cada una dellas apartadamente, fueras ende si las quisiere conoscer ó negar todas en uno.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 10. 3 (2. 465)."
+        },
+        {
+          "texto_cita": "«Conoscen á las vegadas los demandados lo que les demandan en juicio.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 3 8 (2. 388)."
+        },
+        {
+          "texto_cita": "«Qualquier que lo feciese posieron que facie traycion conoszuda.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 23.15 (2. 240)."
+        },
+        {
+          "texto_cita": "«Soterrado seyendo el rey finado, deben los homes honrados --- venir al rey nuevo para conoscerle honra de señorio, en dos maneras.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 13. 20 (2. 119)."
+        },
+        {
+          "texto_cita": "«Et los que contra esto feciesen á sabiendas, farien aleve conoscida.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 13. 19 (2. 119)."
+        },
+        {
+          "texto_cita": "«Ahora conozco que temes á Dios, pues quel obedeciste.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 12. 9 (2. 102)."
+        },
+        {
+          "texto_cita": "«Farien traycion conoszuda por que deben perder los cuerpos et quanto que hobieren.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 9. 8 (2. 65)."
+        },
+        {
+          "texto_cita": "«Et conosciéndose que erró, et habiendo fe et esperanza --- si en este comedio moriere, non puede ser perdido.»",
+          "autor": "",
+          "referencia_obra": "Part . 1 4. 79 (1. 143)."
+        },
+        {
+          "texto_cita": "«Que cumpla quanto el rey mandare, fueras ende si fuer traydor o alevoso conoszudo.»",
+          "autor": "",
+          "referencia_obra": "Leyes adelant . 5 (0. L. 2. 176)."
+        },
+        {
+          "texto_cita": "«Alzandose para ante el judgador seglar, a quien defienden las leyes que non conosca de pleitos espirituales ---»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 460)."
+        },
+        {
+          "texto_cita": "«E por ende dezimos que --- [si] aquel a qui demandaren, o su personero, o su vozero, conosciere lo quel demandan, que non es tenudo el demandador de dar otra proeva en aquello que conosceó su contendor.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 420)."
+        },
+        {
+          "texto_cita": "«El que faze avenencia en tal pleito semeia que viene ende conoscido.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 404)."
+        },
+        {
+          "texto_cita": "«E si acaesciere que alguno non quiera responder a la pregunta quel feziere el judgador, tanto vale como si la conosciese.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 349)."
+        },
+        {
+          "texto_cita": "«Que sea ome bueno, e coñusca bien el derecho.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 143)."
+        },
+        {
+          "texto_cita": "«Débele facer mas bien, et aquel á quien lo face, debele hacer mas gracias é conocérgelo.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 22 1 )."
+        },
+        {
+          "texto_cita": "«Non dexes de faser bien maguer telo non conoscan.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro , 11 (Knust, 194)."
+        },
+        {
+          "texto_cita": "«Faser bien al que lo non conosce, es perdido el su buen fecho.»",
+          "autor": "",
+          "referencia_obra": "lb . 3 (Knust, 111)"
+        },
+        {
+          "texto_cita": "«Ay, madre de Alexandre, gradesce al sennor de todo el mundo, e conosce que es poderoso sobre todas las cosas.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 56)."
+        },
+        {
+          "texto_cita": "«El sabio conosce el torpe porque fue torpe, y el torpe non conosce al sabio porque el non fue sabio.»",
+          "autor": "",
+          "referencia_obra": "Ib . (Knust, 31)"
+        },
+        {
+          "texto_cita": "«El que non sabe connoscer el bien del mal es tal commo bestia.»",
+          "autor": "",
+          "referencia_obra": "lb . (Knust, 18)."
+        },
+        {
+          "texto_cita": "«El que se connosce non se pierde ante los omnes.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, 12)."
+        },
+        {
+          "texto_cita": "«E si gelo él conosciere que lo fiço, devel pechar quinientos sueldos.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 1. 5. 12 (24)."
+        },
+        {
+          "texto_cita": "«Si el siervo que fuye dice que es libre, é non es connozudo ---»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 9. 1. 12 (154; *conosido, conoscido, connoscido)."
+        },
+        {
+          "texto_cita": "«Hy estos mandamos que sean creydos en tal manera, si el rey los a conuzudos por buenos é sin pecado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 4. 4 (34; *conoszudos)."
+        },
+        {
+          "texto_cita": "«E si non fueren en la tierra, deven otros meter en su logar, que connoscan daquel pleyto, é que lo determinen segund el derecho.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 1. 14 (15; * connuscan, conoszan)."
+        },
+        {
+          "texto_cita": "«Por eso conucerant los omnes que sodes mios disciplos, si vos amardes entre vos.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb . 9 (IX)."
+        },
+        {
+          "texto_cita": "«Ya conocie Dário por oio la trayçion, | Conoçie la paraula quel dixiera Padron.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1540 (R. 57. 194 2 )."
+        },
+        {
+          "texto_cita": "«Pero que soe de todos de menor connosçer, | A lo que a dito iol cuydo responder.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1464 (R. 57. 192 2 )."
+        },
+        {
+          "texto_cita": "«Coneçioron las armas quando el fue llegando»",
+          "autor": "",
+          "referencia_obra": "lb . 594 (R. 57. 165 2 )."
+        },
+        {
+          "texto_cita": "«Connesco bien grammatica, sé bien toda natura, | Bien dicto e versifico, connesco bien figura.»",
+          "autor": "",
+          "referencia_obra": "Ib . 38 (R. 57. 148 2 )."
+        },
+        {
+          "texto_cita": "«Connosco que a ti lo deuo gradeçer.»",
+          "autor": "",
+          "referencia_obra": "lb . 37 (R. 57. 148 2 )."
+        },
+        {
+          "texto_cita": "«Qui quisiere a Tarsiana primero conyosçer, | Vna liura de oro aurá hi a poner.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 401 (R. 57. 296 2 )."
+        },
+        {
+          "texto_cita": "«Ca non te connyosçemos, e podriemos errar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 158 (R. 57. 288 2 )."
+        },
+        {
+          "texto_cita": "«Algunos connuvieron que fijo de Dios mataron.»",
+          "autor": "Berc.",
+          "referencia_obra": "Loores , 76 (R. 57. 96 1 )."
+        },
+        {
+          "texto_cita": "«Sabie bien el obispo derecho connoçer.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 901 (R. 57. 131 1 )."
+        },
+        {
+          "texto_cita": "«Bien conosçió a Oria, sopo su poridat.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 204 (R. 57. 143 2 )."
+        },
+        {
+          "texto_cita": "«Quando lo vio Ferran Goçalez, conugo a Tizon.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3643 (R. 57. 37 1 ; Vollmöller: conuçio)."
+        },
+        {
+          "texto_cita": "«Violos el rey e connosçió á Munno Gustioz.»",
+          "autor": "",
+          "referencia_obra": "lb . 2932 (R. 57. 31 1 )."
+        },
+        {
+          "texto_cita": "«Essora lo connosçe Myo Çid el de Biuar, | Que a menos de batalla nos pueden den quitar.»",
+          "autor": "",
+          "referencia_obra": "lb . 983 (R. 57. 13 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Gall. coñecer ; port. conhecer ; cat. , mall. conexer ; val. coneixer ; prov. conoscer , conoiscer ; fr. connaître ; it. conoscere ; vál. cunoasce : del lat. cognoscere , compuesto de cum , con, intensivo, y noscere ( gnoscere ), forma inceptiva de la raíz gno , anchamente extendida en la familia indoeuropea: gr. γιγν ñ σχω , sans. g’ânâmi ; alto al. ant. knâu ; gót. kann ; escl. znati ; irl. ant. ad - gen - sa ( cognovi ). La forma portuguesa y gallega que se halla en el Alex . es la misma de este pasaje:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fia, qu'es hombre fiado, | Que lo lo coñezo ya.»",
+          "autor": "T. Naharro",
+          "referencia_obra": ", com . Trofea, 4 (1. 275). El conyoscer del Appoll . deja suponer que connoscer ( coñocer , Vollmöller) se pronunciaba con ñ ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares conozco ; conozca , as , a , amos , áis , an .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans .: en general. — Intrans. : 4, a , β - 4, β . — Refl .: 1, c , β , α α - 1, c, γ , α α - 1, c , δ - 1, δ, α , α α - 2, b , ε . — Recípr .: 1, c , α , α α - 1, d , α , α α . — Part .: 1, a , α , β β - 1, a, γ - 1, β , δ - 1, χ , γ , β β - 1, d , β - 5, β , α , α α . — Con con : 1, d , α , β β . — De : 1, b , β , γ - 2, b , ε , α α - 4, a , β - 4, β . — En : 2, b , β - 3, β , ε - 4, α , β , α α . — Para : 1, c , δ , α α . — Por : 1, b , β - 1, χ , γ - 1, γ , β - 2, β , γ , δ - 3, b , ε . — Con prop. indic .: 3, a - 3, b , β . — Infin .: 3, β , γ . — Interr .: 1, f , α , α α - 3, b , δ . — Con pred .: 1, b , γ - 1, χ , β - 1, γ , β - 2, β , δ . \u0000"
+}

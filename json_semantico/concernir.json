@@ -1,0 +1,52 @@
+{
+  "lema": "CONCERNIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Atañer, tocar ( intrans .). No se usa sino en las terceras personas de ambos números. Con á . — α ) «El rey --- amonestaba y rogaba á los prelados que no sólo determinasen lo que concernía á las cosas sagradas, sino también diesen orden en el estado del reino.» Mariana , Hist , Esp . 6. 9 (R. 30. 162 1 ). «Prisión y detención que se hizo por ciertas causas justas y razonables que concernían al buen estado, seguridad, paz, quietud y provecho del mismo rey.» Id. ib . 18. 18 (R. 31. 31 2 ). «Estoy resuelto --- ayudarme de vuestros avisos y prudencia en todo lo que concierne al gobierno de mi reino.» Id. ib . 19. 1 (R. 31..33 2 ). «Pero dejando el campo franco á los ingenios piadosos para ésta y semejantes alegorías, sigamos nosotros una que concierne más á nuestro argumento.» Márquez , Gob. crist . 1. 24 (142: Pamplona, 1615). «Si la reina sabía ceder y perdonar en lo que concernía á su persona, en los asuntos del gobierno era imperturbable su constancia.» Clem. Elog. de Is. la Cat. ilustr . 8 ( Mem. Acad. Hist. 6. 202). «Están descubriendo su incansable solicitud en desenterrar todas las instituciones, patronatos, cargas y dotaciones de los beneficios, y cuanto concierne al régimen de una iglesia.» J. Villan. Viaje , 3, p. 94. «Como este último punto concernía tan de cerca al imperio, rehusó por largo tiempo el Austria arreglarlo por sí sola.» M. de la Rosa , Esp. del siglo , 7. 15 (6. 183). «Un secreto instinto te decía que nunca estarían de acuerdo en aquello que concerniese al general.» Fern. Caball. La farisea , 5 ( Obras , 1. 276). — β ) Tratándose de personas, este complemento es convertible en dat. pron. En lo que le concierne.",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Por Dios y por su passion mirese agora con mucha diligentia que hay que emendar en todas las cosas que pueden recibir emienda, que hay que añadir de bien y de diligentia en las que conciernen las personas, las familias, y los reinos y señoríos.»",
+          "autor": "Acad.",
+          "referencia_obra": "Hist . 6. 366)."
+        },
+        {
+          "texto_cita": "«Enviará su embajada, é rogará aquellas cosas que concernen á la paz.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras , 26 (285)."
+        },
+        {
+          "texto_cita": "«Facia dél grand confianza, especialmente de aquellas cosas que concernian á la guerra.»",
+          "autor": "",
+          "referencia_obra": "Id. Clar. var . 7 (69)."
+        },
+        {
+          "texto_cita": "«Otorgarian que los de Espanna floreçen en estas dos cosas solas; pero en las que prinçipalmente concernen á la caualleria, iuzgarianlos mucho infiriores á nosotros.»",
+          "autor": "Pal.",
+          "referencia_obra": "Triunfo militar (54)."
+        },
+        {
+          "texto_cita": "«Mas el goço tomado por lo que á vuestra parte conçierne, se atibia.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 491."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. concernir; fr. concerner; it. concernere; lat. bajo concernere , propiamente cerner juntamente, de donde mezclar, é intransitivamente, tocar, atañer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "En las formas de que por su significado es susceptible este verbo sigue á discernir; así que son diptongadas: concierne , conciernen , y concierna , conciernan (si llegare el caso de usarlas). Por otra parte, fuera del presente, casi no se usan sino concernía , concernían , y, según la Acad. , el gerundio concerniendo . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

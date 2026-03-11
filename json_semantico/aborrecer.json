@@ -1,0 +1,448 @@
+{
+  "lema": "ABORRECER.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Etimológicamente, Apartarse con horror; en el uso común, Tener grande aversión. Es el término que aparece de ordinario en nuestros clásicos contrapuesto á Amar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": ".",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Apenas le hubo conorido el ama, cuando corrió á esconderse por no verle: tanto le aborrecía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 6 (R. 1. 416 2 )."
+            },
+            {
+              "texto_cita": "«De Galatea no se entiende que aborreciese á Elicio, ni menos que le amase.»",
+              "autor": "",
+              "referencia_obra": "Id. Gal . 1 (R. 1. 3 1 )."
+            },
+            {
+              "texto_cita": "«No aborrecistes, Señor de mi alma, cuando andábades por el mundo, las mujeres, antes las favorecistes siempre con mucha piedad.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 4 (R. 53. 322 1 )."
+            },
+            {
+              "texto_cita": "«De una misma manera Dios aborrece al malo y á su maldad.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 4 (R. 60. 365 1 )."
+            },
+            {
+              "texto_cita": "«En otro lugar se dice que el Altísimo aborrece á los pecadores, y da á los impíos el pago y castigo de su impiedad.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 61. 365 1 )."
+            },
+            {
+              "texto_cita": "«Si el príncipe es bueno, le aborrecen los malos; si es malo, le aborrecen los buenos y los malos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 100 (R. 25. 260 1 )."
+            },
+            {
+              "texto_cita": "«Filis, yo te aborrezco, y de manera | Que pasara contento con mi suerte | Si el cielo para solo aborrecerte, | Sin otro gusto, edad me concediera.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. que empieza así (R. 42. 319 2 ). —"
+            },
+            {
+              "texto_cita": "«En general aborrecían las maldades y aspereza de condición de su rey.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 17. 1 (R. 30. 496 1 )."
+            },
+            {
+              "texto_cita": "«Aunque desean la salud, aborrecen la medicina, porque la tienen por desabrida.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 28 (R. 6. 105 2 )."
+            },
+            {
+              "texto_cita": "«Cuánto sea lo que Dios le aborrece [el pecado] conocerse ha por los castigos espantables que contra él tiene hechos desde el principio del mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. del crist . 1 (R. 11. 178 2 )."
+            },
+            {
+              "texto_cita": "«Y yo, aunque miserable, era mucho lo que le suplicaba á el Señor muy del todo le tornase á sí, y le hiciese aborrecer los contentos y cosas de la vida.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 34 (R. 53. 105 1 )."
+            },
+            {
+              "texto_cita": "«Amastes la justicia y aborrecistes la maldad.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. (R. 60. 365 1 )."
+            },
+            {
+              "texto_cita": "«Como comúnmente --- llamamos bienes á estas cosas de que nos priva la tribulación, y como á tales naturalmente los apetecemos, así naturalmente aborrecemos la tribulación que nos priva dellos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 6 (R. 60. 368 1 )."
+            },
+            {
+              "texto_cita": "«Los hombres se compadecen de los vicios y aborrecen la hipocresía.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 18 (R. 25. 50 1 )."
+            },
+            {
+              "texto_cita": "«Todo aquel que mal hace, aborrece la luz.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 48 ( Míst . 3. 220)."
+            },
+            {
+              "texto_cita": "«No hay tirano que no acaben, si se juntan uno que aborrece la tiranía por su naturaleza y otro que la aborrece por la razón. Entonces el aborrecimiento es cabal, cuando se aúnan el que aborrece al tirano y el que aborrece la tiranía.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 143 2 )."
+            },
+            {
+              "texto_cita": "«Me consolaba sin tener consuelo, fingiendo unas esperanzas largas y desmayadas para entretener la vida que aborrezco.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 28 (R. 1. 328 2 )."
+            },
+            {
+              "texto_cita": "«Procura alegre llevallo | El yugo que echaste al cuello, | Que podrás aborrecello | Y no podrás desechallo.»",
+              "autor": "",
+              "referencia_obra": "Id. Gal . 3 (R. 1. 39 2 )."
+            },
+            {
+              "texto_cita": "«Aborrezco su amor, porque aborrece | Su amor mi honestidad, y amélo en tanto | Que de mí quiso lo que yo quería.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 133 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No eran las buenas partes y virtudes de Elicio para aborrecerse, ni la hermosura, gracia y bondad de Galatea para no amarse.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 3 1 )."
+            },
+            {
+              "texto_cita": "«Confieso que es terrible dolor querer y no ser querido, pero mayor sería amar y ser aborrecido.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3 (R. 1. 45 2 )."
+            },
+            {
+              "texto_cita": "«Quiso bien, fue aborrecido; adoró, fue desdeñado.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 13 (R. 1. 280 2 )."
+            },
+            {
+              "texto_cita": "«Todo el reino de Castilla se puso al lado del infante don Enrique contra el rey don Pedro el Cruel, porque aquél era amado y éste aborrecido.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 38 (R. 25. 96 2 )."
+            },
+            {
+              "texto_cita": "«Lo que se teme se aborrece, y lo que es aborrecido no es seguro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 25. 97 1 )."
+            },
+            {
+              "texto_cita": "«Y agora en tal manera | Vence el dolor á la razón perdida, | Que ponzoñosa fiera | Nunca fue aborrecida | Tanto como yo dél, ni tan temida.»",
+              "autor": "Garcil.",
+              "referencia_obra": "A la flor de Gnido (R. 32. 31 1 )."
+            },
+            {
+              "texto_cita": "«Tal vez agrada lo que no merece | Ser por el hombre amado, y se aborrece | Lo que de amor es digno.»",
+              "autor": "Lope",
+              "referencia_obra": ", Lo que ha de ser , 2. 2 (R. 34. 513 1 )."
+            },
+            {
+              "texto_cita": "«Aunque aborrecer se debe | Vida tan triste y amarga, | Si para sufrir es larga, | Para merecer es breve.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "redond. Señora , después que os vi (R. 42. 261 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sancho, aunque aborrecía el ser gobernador, --- todavía deseaba volver á mandar y á ser obedecido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 63 (R. 1. 538 1 )."
+            },
+            {
+              "texto_cita": "«Aborrezco el vivir, amo la muerte.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 3, Job , 7 (R. 37. 61 1 )."
+            },
+            {
+              "texto_cita": "«Yo aborrezco el mentir; soneto malo | Ni le alabo á su autor, ni se lo pido, | Aunque consista en ello mi regalo.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Con tu licencia (R. 42. 311 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Conforme al uso de los siglos XVI y XVII, se halla alguna vez con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal es mi condición, que siempre aborrezco de mirar en el rostro á mis enemigos.»",
+              "autor": "Villalobos",
+              "referencia_obra": ", Anfitrión (R. 36. 477 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Admite complementos con de que denotan manera.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aborrecer de muerte.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Causó en ellos tanto enfado, que me aborrecieron de muerte.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 3. 1 (R. 3. 239 2 )."
+            },
+            {
+              "texto_cita": "«No puedo sufrir que usted hable de esa manera de un hombre á quien aborrezco de todo corazón.»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos , 2. 8 (R. 2. 451 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Siendo sujeto un nombre de cosa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y como la naturaleza aborrece los monstruos, así Dios huye destos y los abomina.»",
+          "autor": "León",
+          "referencia_obra": ", Perf. cas. introd . (R. 37. 213 1 )."
+        },
+        {
+          "texto_cita": "«¿Quién no ve que no era malhechor el que ninguna cosa hizo aquí de las que los malhechores en tal tiempo suelen hacer, y que era más que hombre el que voluntariamente escogía lo que toda la naturaleza aborrece, que es la muerte?»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 5. 3. 20 (R. 6. 710 2 )."
+        },
+        {
+          "texto_cita": "«Todas las cosas naturalmente aborrecen sus contrarios, y huelgan con sus semejantes.»",
+          "autor": "",
+          "referencia_obra": "Id. Adic. al Mem. med . 21, § 3 (R. 8. 585 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dejar, abandonar cobrando aversión ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vive Dios, he de probar | Si casándome es posible | Aborrecer el jugar.»",
+          "autor": "Lope",
+          "referencia_obra": ", Las flores de D. Juan , 2. 6 (R. 24. 419 3 )."
+        },
+        {
+          "texto_cita": "«Lo generoso dellas [de las letras] hace aborrecer aquellos ejercicios en que obra el cuerpo, y no el entendimiento.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp . 66 (R. 25. 180 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dícese de las aves que aborrecen los huevos si se los manosean.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Aburrir, gastar ó aventurar algún dinero ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "Aburrir, fastidiar, ser aborrecible ( trans .) ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La vida así me cansa y aborrece, | Viendo muerto á mi esposo y dulce amigo, | Que cada hora que vivo me parece | Que cometo maldad, pues no le sigo.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 32 (R. 17. 118 2 )."
+            },
+            {
+              "texto_cita": "«Se usa y se consiente | Que ingratitud prevalezca, | Que no hay vicio entre la gente | Que más á Dios aborrezca.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 231 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Serán como los señores | Cuando quieren procurar | Un criado de su gusto, | Que prometen más que dan; | Porque en sabiendo que es suyo, | Es condición natural | Tratalle con tal desprecio, | Que se aborrece ó se va.»",
+              "autor": "Lope",
+              "referencia_obra": ", El piadoso veneciano , 2. 13 (R. 41. 557 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para indicar la causa, el objeto del disgusto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por estos términos comenzó á ser malquisto del común, y de allí á pegarse la mala voluntad en los principales; aborrecerse él de todos y de todo, y todos dél.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 3 (R. 21. 98 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La reyna mucho amaba [á doña Leonor López] é después la aborresció á causa desta Inés de Torres.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 10. 10 (R. 68. 372 1 )."
+        },
+        {
+          "texto_cita": "«La condicion de los hombres es atal, que lo que un tiempo amaron, en otro lo aborrescieron.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6. 7 (R. 68. 344 2 )."
+        },
+        {
+          "texto_cita": "«Toda cosa desea el bien ó alguna cosa so especie de bien, et toda cosa aborresce el mal ó lo que le paresce mal.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 2. 4 (R. 36. 379 2 ). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Usa mal contra los moros del regno de Granada, por lo qual todos le aborrescieron, é le quieren grand mal.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 13. 4 (R. 66. 518 1 )."
+        },
+        {
+          "texto_cita": "«El cuytado enfermo, lasrado e doliente --- | Aborresçilo de ver de todo buen talente.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 136 (R. 57. 429 2 )."
+        },
+        {
+          "texto_cita": "«Dicen los filósofos naturales que el cuervo cuando vee los fiios salidos de sus huevos cubiertos de pelo blanco, que los non conosce --- et aborrécelos.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 45 ( Bibl. venat. 3. 325)."
+        },
+        {
+          "texto_cita": "«¿Pues qual peccador non se aborresce | De syempre pecar commo fase el moro?»",
+          "autor": "",
+          "referencia_obra": "Revel. de un hermit . (R. 57. 388 2 )"
+        },
+        {
+          "texto_cita": "«Desecha et aborresçe el alma el pecado del amor loco deste mundo.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", preámb . (R. 57. 225 2 )."
+        },
+        {
+          "texto_cita": "«Los que mal quieren facer, siempre aborrescen la lumbre.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 49 (R. 51. 415 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Aborresce las cosas que son fuertes et espantables.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 13. 2 (2. 104)."
+        },
+        {
+          "texto_cita": "«Asi como el cuerpo del home muerto, que es ya corrompido, aborrecen los homes, porque les huele mal, así al pecador quando cumple el pecado por obra aborrecel Dios.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 24* (1. 131)."
+        },
+        {
+          "texto_cita": "«El rey enviso á las veces aborrece á algunt home, é aluéngalo de si.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R.51. 34 1 )."
+        },
+        {
+          "texto_cita": "«Mucho me has fecho aborrecer la privanza de Senceba.»",
+          "autor": "",
+          "referencia_obra": "lb . (R. 51. 27 1 )."
+        },
+        {
+          "texto_cita": "«Si algun omne quebrantar estos nuestros estavIecimentos, --- sea aborrecido ante los ángeles.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , preámb . 15 (XIII * obrricido)."
+        },
+        {
+          "texto_cita": "«Todo cristiano --- que se circumcide; --- que entenda quanto es aborrecido e descomulgado el mal que fizo.»",
+          "autor": "",
+          "referencia_obra": "lb . 12. 2. 17 (184 2 )."
+        },
+        {
+          "texto_cita": "«Encara no los puede tanto auorreçer | Que descobierta — miente le quieran falleçer.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1474 (R. 57. 192 2 )."
+        },
+        {
+          "texto_cita": "«Despues que se envuelve ome con ellas una vez | Siempre va arriedro, é pierde todo el prez: | Puede perder su alma, pues Dios le aborrez.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 221."
+        },
+        {
+          "texto_cita": "«Toda gloria del mundo avien aborrecida, | Por ganar en los çielos alegria complida.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 61 (R. 57. 41 2 )."
+        },
+        {
+          "texto_cita": "«Sennor, merçé te pido de que tanto feçiste, | Que me non aborrescas quando tant me quisiste.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores , 98 (R. 57. 96 2 )."
+        },
+        {
+          "texto_cita": "«lo mesquina si ploro, o si me amortesco, | O si con tan grant cueyta la vida aborresco, | Non sé porque me viene, ca io non lo meresco.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 143 (R. 57. 135 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Forma inceptiva de aborrir , aburrir. Port. aborrecer ; cat. val. aborreixer .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: aborrezco ; aborrezc-a , as , a , amos , ais , an . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

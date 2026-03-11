@@ -1,0 +1,208 @@
+{
+  "lema": "DESMONTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Bajo esta forma se comprenden dos derivaciones diferentes: en la una des privativo se junta con monte, y en la otra la misma partícula en sentido negativo se combina con montar, que a su vez es también derivado de monte.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(I)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dejar sin monte, cortar el monte ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Para desmontar tantas breñas como hay en ellas, eran necesarios más obreros.»",
+          "autor": "Gran.",
+          "referencia_obra": "Modo de cateq. pról. (R. 8. 596)."
+        },
+        {
+          "texto_cita": "«Acordó desmontar el bosque y los matorrales á propósito de edificar de nuevo la ciudad.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 8. 14 (R. 30. 244 2 )."
+        },
+        {
+          "texto_cita": "«Hace desmontar el bosque, y cavando en un montón de tierra, hallaron debajo una casita de mármol, y dentro el sagrado sepulcro.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 7. 10 (R. 30. 204 1 )."
+        },
+        {
+          "texto_cita": "«Bienaventurado el que está á raya en los límites de la ley; no cuando, para traspasarla, ha de ir desmontando cercas de abrojos de donde salte la culebra y le pique.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 4. 165)."
+        },
+        {
+          "texto_cita": "«Los monjes desmontaban terrenos incultos, secaban pantanos, construían calzadas, encerraban en su cauce los ríos.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Protest . 41 (3. 66)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. — Con de, para expresar aquello de que algo queda libre.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desmontada ya la tierra de nuestro corazón de todas las espinas y malezas de vicios y pasiones que hay en ella, resta plantar agora diversas flores y plantas de virtudes.»",
+          "autor": "Gran.",
+          "referencia_obra": "Doctr. espir. 37 (R. 11. 269 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Deshacer un montón de tierra, broza ú otra cosa ( trans. ) . Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Rebajar el terreno donde sea conveniente para la línea de un camino, según las pendientes determinadas ( trans. ) . Acad . Dice.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(II)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Desarmar, separar las piezas de que se compone una cosa ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Hablándose de la artillería. Sacarla de las cureñas ó afustes. Acad. Dicc .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Inutilizar con el tiro la artillería enemiga, destrozando sus montajes. Almirante , Dicc. mil .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Manejaron con destreza nuestra artillería los soldados y oficiales de aquella arma --- consiguiendo desmontar de un modo asombroso la de los contrarios.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist. 4 (R. 64. 105 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Derribar un edificio deshaciéndole por la parte superior ( trans. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se desmonta el teatro de los Caños, y se hará uno asombroso hacia donde estuvo San Juan.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 2, p. 306."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Bajar del disparador la llave del arcabuz ó escopeta ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Bajar de una caballería ó de cosa en que esté uno en posición semejante ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parte de nuestra caballería --- había desmontado y acometido á pie por aquella parte. La ocasión que tuvieron para desmontar estas tropas fue sólo por hallarse inútiles en este género de servicio, y que si no dejaran los caballos no pudieran pelear.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 36 (R. 21. 34 2 )."
+            },
+            {
+              "texto_cita": "«Discurría [Hernán Cortés] con una tropa de caballos por todas las partes donde se peleaba, y desmontando con el primer consejo de su valor, reforzó la compañía de Escobar con algunos tlascaltecas del retén y la gente de su tropa.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 16 (R. 28. 331 1 )."
+            },
+            {
+              "texto_cita": "«Decíales --- que haría desmontar la mitad de la caballería para guarnecer y defender su muralla.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 4 (R. 21. 515 2 )."
+            },
+            {
+              "texto_cita": "«Los caballeros desmontaban y dejaban pacer á sus caballos.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 2, p. 2."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para señalar la caballería de que uno se apea.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hombre lastimado desta fatalidad, desmontó del caballo y cogió en los brazos al muchacho muerto.»",
+              "autor": "",
+              "referencia_obra": "Cornejo, Crón. de S. Franc . 3. 2. 17 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por analogía con apearse se usa como refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se desmontó del caballo.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Quitar ó no dar la cabalgadura al que le corresponde tenerla ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Part . Soldado desmontado, el de caballería que no tiene ó pierde su caballo.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de des y monte, montar. Port., prov . desmontar; cat . desmuntar ; fr . démonter; it . dismontare, smontare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

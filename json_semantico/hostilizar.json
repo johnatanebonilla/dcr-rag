@@ -1,0 +1,212 @@
+{
+  "lema": "HOSTILIZAR. *",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer daño, atacar al enemigo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rosas --- hostilizando a las ciudades del interior, y abandonándolas a sus propias fuerzas, no obedece simplemente a las preocupaciones españolas contra los extranjeros.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Facundo , 2. 8 (p. 194). +"
+            },
+            {
+              "texto_cita": "«Todo lo consiguió [el duque de Arcos] sin ruido y sin tener que hostilizar al pueblo.»",
+              "autor": "Saav.",
+              "referencia_obra": "Masan . 1. 7 (R. 102. 146 1 ). X"
+            },
+            {
+              "texto_cita": "«Los gobiernos que han regido la nación desde 1886, en vez de hostilizar a la Iglesia y a sus ministros, y en vez de ser verdugos morales de la niñez y de la juventud, obran como hijos respetuosos de la Santa Sede.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños , 1 (p. 241). X"
+            },
+            {
+              "texto_cita": "«Debían hostilizar a los invasores y atraer a los huitotos hacia el Caquetá.»",
+              "autor": "C. Uribe",
+              "referencia_obra": ", Toá , 15 (p. 164)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el modo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hostilizar con tanto descaro el castillo manifestaba poquísimo deseo de avenencia.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 2. 7 (R. 102. 210 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con desde , para señalar el lugar de donde proviene el ataque. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es, en fin, algo parecida a la feudalidad de la Edad Media, en que los barones residían en el campo, y desde allí hostilizaban las ciudades y asolaban las campañas.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Facundo , 1. 1 (p. 37). X"
+            },
+            {
+              "texto_cita": "«Esperando cada uno que fuese el vecino el primero en atreverse, se contentaban con hostilizarle desde lejos.»",
+              "autor": "",
+              "referencia_obra": "Blasco Ibáñez, La barraca , 4 (p. 106)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en , para indicar la situación. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Elías se quedó en Sahagún con unos cuantos hombres, dispuestos a organizar allí una partida considerable que hostilizara a Ney en su salida de Galicia.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", La fontana de oro , 5 (p. 58)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los hijos podían ir por la vega sin ser hostilizados.»",
+              "autor": "",
+              "referencia_obra": "Blasco Ibáñez, La barraca , 2 (p. 243)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Pas. refl . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Teniendo algunos antecedentes de que se dará una batalla, o se hostilizará alguna plaza, paréceme que he oído cañonazos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", El criterio , p. 28."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Acosar, perseguir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus enemigos lo hostilizan y lo separan de los negocios, so pretexto de que es amigo de los porteños.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 3 (p. 270). X"
+            },
+            {
+              "texto_cita": "«El reinado se Servio Tulio, --- no es un reinado tranquilo: la clase patricia lo inquieta y hostiliza.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma , p.480. X"
+            },
+            {
+              "texto_cita": "«Vida mía: ámame, partiremos nuestros dolores y nuestra ventura; si nos hostilizan, iremos de aquí lejos, muy lejos.»",
+              "autor": "Vargas Vila",
+              "referencia_obra": ", Alba roja , p. 93."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Yo que venía a pedirle el favor en nombre de don Ramírez, de que por mucho que lo hostilicen y lo emborrachen con preguntas no diga esta boca es mía!»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Siervo , 3. 2 (p. 167)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en , para señalar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Recuerdas a Manuel Loreto, aquel primo hermano de Ruth, que me hostilizaba tanto en el colegio, y con quien tantas veces tuve que pelear a pescozones, a pesar de ser mucho más grande que yo?»",
+              "autor": "",
+              "referencia_obra": "Vargas Vila, Alba roja , p. 83."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empecé a sentirme hostilizado; por ejemplo, mediante cartas con santo y seña en que se me decía: \"¿Por qué no te largas del país, en vez de criticar a sus funcionarios?»",
+              "autor": "Vasconcelos",
+              "referencia_obra": ", El proconsulado , p. 258."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sujeto de cosa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como el ñato, con sus chistes y su exaberancia de juventud, la divertía, los encuentros intencionales se multiplicaban, al grado de haberse hecho ambos maestros en el arte de burlar la vigilancia celosa que los hostilizaba.»",
+              "autor": "Blest Gana",
+              "referencia_obra": ", El loco Estero , p. 52. X"
+            },
+            {
+              "texto_cita": "«Efectúase esto cuando el gobierno es perseguidor violento o perseguidor hipócrita, cuando la constitución y las leyes hostilizan los derechos religiosos de los ciudadanos.»",
+              "autor": "",
+              "referencia_obra": "M. F. Suárez, Sueños , 1 (p. 238)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que nadie hostilice... | Lo que el buen Rodrigo dice, | Suena bien.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea , 1. 10 (Cl. C. 113. 169)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Pas . Con por , para indicar la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La obra ha sido hostilizada, --- por el cargo de imaginarias imperfecciones en su construcción.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños , 2 (p. 146)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de hostil y éste del lat. hostilis , - e ‘extranjero, enemigo’. Cat. hostilisar , port. hostilizar , fr. hostilisier , it. osteggiare .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "En vez de z se escribe c ante e: hostilice , - es , - e , - éis , - en ; hostilicé . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

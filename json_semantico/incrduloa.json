@@ -1,0 +1,262 @@
+{
+  "lema": "INCRÉDULO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Escéptico, desconfiado, receloso.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Valdivia, perezoso y negligente, | Incrédulo, remiso y descuidado, | Hizo en la Concepción copia de gente.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 2 (R. 17. 12 1 ). X"
+            },
+            {
+              "texto_cita": "«No quisiera mostrar mis secretos delante de españoles, porque son incrédulos y agudos de ingenio.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 4. X"
+            },
+            {
+              "texto_cita": "«Un mes me manda agora este Rey bárbaro, | Que Galiana le pidió de término, | Ramón, que se dilate mi propósito, | Para que sea mi muger legítima: | Hasta que dél lo supe estaua incrédulo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los palacios de Galiana, p. 237."
+            },
+            {
+              "texto_cita": "«Cuidaba Pizarro de que estas noticias cundiesen entre los españoles; pero ellos escarmentados e incrédulos no les daban acogida.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 317 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, para expresar aquello en lo que se es escéptico.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No seamos incrédulos a estas promesas, ni perezosos en las ganar.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst. 4. 27 (7. 425)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Assí, señora, el hablarte, | Incrédulo desta suerte, | No ha sido por ofenderte | Sino por calificarte.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. complet. (2. 145). — El término es una prop. en indicativo."
+            },
+            {
+              "texto_cita": "«No os habéis de llamar, no, gente que murió de repente, sino gente que murió incrédula de que podía morir así.»",
+              "autor": "Quev.",
+              "referencia_obra": "Zahurdas (R. 23. 314 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En esta ocasión fui yo de los incrédulos, hasta que varias personas me afirmaron ser verdad averiguada lo que yo estimaba lo contrario.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 299."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Aplicado a cosas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oy se disculpó conmigo, | Celos incrédulos son, | Y una amorosa afición, | Vende al más seguro amigo.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mayordomo, p. 208."
+            },
+            {
+              "texto_cita": "«Quieroos yo desengañar, | Y cuando quien soy confieso, | Vuestro incrédulo desdén | A que lo encubra me avisa.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La ventura con el nombre, 3. 5 (R. 5. 534 3 )."
+            },
+            {
+              "texto_cita": "«¿Es cierto, | Es cierto que vivis? ¡Ah! que aún se niega | A tal ventura incrédulo mi afecto, | Y abrazándoos estoy.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo, 1. 5 (R. 19. 60 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En comparativo, con valor ponderativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque lo tengo entendido | Es tan incrédulo amor | Que no quiere --- | Dar crédito a los oídos.»",
+              "autor": "Lope",
+              "referencia_obra": ", El bobo del colegio, 1. 13 (R. 24. 186 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En particular, se predica de la persona que no cree en los misterios de la religión.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No ves incrédulo aquel | Que vio su costado abierto, | Y no lo ves confessando | A Christo entre mil tormentos?»",
+              "autor": "Lope",
+              "referencia_obra": ", El div. africano p. 69. X"
+            },
+            {
+              "texto_cita": "«Pues que se van los dos, | El rebelde pueblo hebreo, | Siempre incrédulo y traidor, | Los ha de tener asidos.»",
+              "autor": "",
+              "referencia_obra": "Id. obras son amores, p. 117. X"
+            },
+            {
+              "texto_cita": "«Yo, que oprimida me vi, | Y que al pie del Moro estava, | Y del incrédulo Hebreo, | Estoy en grandeza tanta, | Que espero poder tener | Hasta los fines de Arabia.»",
+              "autor": "",
+              "referencia_obra": "Id. El mejor mozo de Esp. p. 274. X"
+            },
+            {
+              "texto_cita": "«Yo soy Dios. ¿No me habías conocido? Cadalsito sintió entonces, además de la cortedad, miedo y apenas podía respirar. Quiso envalentonarse incrédulo, y con gran esfuerzo de voz pudo decir; ---.»",
+              "autor": "",
+              "referencia_obra": "P. Galdós, Miau, 3 (p. 33). X"
+            },
+            {
+              "texto_cita": "«Sea usted benigna, Donata, y no vea en mí un tipo vicioso, ni un incrédulo enemigo de Dios.»",
+              "autor": "Gran encicl. Larousse",
+              "referencia_obra": ")."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , para precisar lo que no se cree.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y no quisisteis subir, sino que incrédulos a la palabra del Señor Dios nuestro murmurasteis en vuestras tiendas ---.»",
+              "autor": "Scío",
+              "referencia_obra": ", Deuter. (1. 26). X"
+            },
+            {
+              "texto_cita": "«Los que no temen al Señor, no serán incrédulos a su palabra.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de. En grado superlativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas porque algunos son muy incrédulos de milagros ---.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 2. 24 (R. 6. 659 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los cobardes e incrédulos, los abominables y homicidas, los fornicarios y hechiceros, los idólatras y todos los mentirosos tendrán su parte en el lago que arde con fuego y azufre, que es la muerte segunda.»",
+              "autor": "",
+              "referencia_obra": "S. Juan, Apocalipsis, 21 (8. 1156)."
+            },
+            {
+              "texto_cita": "«Entonces la ley natural, si acaso reconoce alguna el incrédulo, no será para él sino una ley de conveniencia.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Moral relig. (R. 46. 262 2 ). X"
+            },
+            {
+              "texto_cita": "«Si yo tuviera dinero... reimprimiría las obras del padre Martín del Río y otras de su clase, para confusión de los incrédulos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Riv. (625. 1)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Difícil de creer.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Que parece cosa incrédula | Que digan más de lo dicho.»",
+          "autor": "Rojas",
+          "referencia_obra": "(M. de la Rosa, 2. 176)."
+        },
+        {
+          "texto_cita": "«Quimeras otro incrédulas pondera.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars. 2 ( Fern. 7. 42)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dice [san Pablo] que algunas veces fue ignorante, incrédulo, errante, servidor de deseos e deleytes varios con malicia, con envidia, aborrescible e aborrescido.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 23 (p. 254)."
+        },
+        {
+          "texto_cita": "«Ya incrédula, por Dios, | No queráys señora, ser, | Que después que amo a vos | Jamás otra pude ver.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 357."
+        },
+        {
+          "texto_cita": "«Bien assí se mostró en aquella ora | Un ser incrédulo e fermoso.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 245."
+        },
+        {
+          "texto_cita": "«El cruel dragón | Encrédulo, duro peor que Farón.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 116. — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Son [los viejos] incrédulos e de mala creencia.»",
+          "autor": "Cast. e docum.",
+          "referencia_obra": "71 (R. 51. 200 1 )."
+        },
+        {
+          "texto_cita": "«Europa tien la cruz, essa figura misma, | On deuíen los incrédulos prender la mala cisma.»",
+          "autor": "Alex.",
+          "referencia_obra": "258 (R. 57. 155 2 )."
+        },
+        {
+          "texto_cita": "«Yncrédulo fueste en tus pensamientos.»",
+          "autor": "",
+          "referencia_obra": "Hermit. 5 (R. 57. 387 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. incredulus. It. y port. incredulo, fr. incredule, cat. incrédul. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

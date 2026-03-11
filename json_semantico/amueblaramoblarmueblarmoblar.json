@@ -1,0 +1,93 @@
+{
+  "lema": "AMUEBLAR (AMOBLAR, MUEBLAR, MOBLAR).",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Proveer de muebles algún edificio ó parte de él ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He gastado en componer y amueblar el cuartito de mi estudio más de cuatrocientos francos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 479."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Una particularidad de la cultura gaditana --- era el cuidado con que se amueblaban las habitaciones interiores.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 11."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El teatro representa una sala bien amueblada.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A la vejez viruelas (1. 1)."
+            },
+            {
+              "texto_cita": "«Lo interior de los cuartos --- está mueblado con buen gusto, pero no con particular grandeza.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 358."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amueblar con sillas y mesas.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amueblar de nuevo (es decir, con muebles nuevos).»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Con de ó con .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Para escribir bien es necesario amueblar la memoria de una infinidad de ideas accesorias al asunto que se trata.»",
+          "autor": "Capm.",
+          "referencia_obra": "Filosof. eloc . 2. 1 (220)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Amueblar (que es la forma más usual) y amoblar son compuestos de á y mueble ; moblar y mueblar (éste no se halla en el Dicc. de la Acad. ) son derivados. No aparece todavía en el Dicc. de Autor. ni en el de Terreros .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

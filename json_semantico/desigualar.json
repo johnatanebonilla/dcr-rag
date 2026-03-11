@@ -1,0 +1,56 @@
+{
+  "lema": "DESIGUALAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Hacer desigual ( trans .). — α ) «¡Cuántos, tiempo, desigualas, | Que hiciera iguales amor!» Lope , Las flores de D. Juan , 2. 1 (R. 24. 417 1 ). «Sánchez desigualó capítulos con otra división, y yo sigo la suya.» Quev. Doct. estoica (R. 69. 415 1 ). «Ni algún respeto ya nos desiguala, | Que el vicio á todos los que infesta iguala.» Jáur . Fars . 9 ( Fern. 7. 260). «¡Tanto podía la educación sobre las costumbres! y tanto pudiera todavía si encaminada á más altos fines, tratase de igualar los dos sexos, disipando tantas ridículas y dañosas diferencias como hoy los dividen y desigualan!» Joyell. Mem. sobre espect. 1 (R. 46. 484 1 ). «Ninguna distinción [entre las sociedades primitivas], ninguna prerrogativa desiguala los sexos, sólo distinguidos por las funciones relativas al grande objeto de su creación.» Id. Inf. sobre el libre ejerc. de las artes (R. 50. 33 2 ). — α α ) Refl. «Tratando de las cosas con que otros se ilustran, dice: Hebreos son, y yo; son israelitas, y yo lo soy; son descendientes de Abrahán, y yo también. En esto se iguala con ellos. Prosigue: Ministros de Cristo son (hablo como menos sabio), yo más. Aquí se desiguala y prefiero á todos.» Quev. Vida de S. Pablo (R. 48. 19 1 ). — β ) Con de , para expresar el objeto de que llega otro á quedar desigual. «Mucho espíritu tiraniza [¿mucho tiraniza el espíritu?] al hombre verse despreciar de otro hombre, porque sabe que la naturaleza, el nacer y el morir no desigualan á uno de otro.» Quev. Fantasma 3 (R. 48. 150 1 ). — α α ) Refl. Se suele tomar por Aventajarse, adelantarse. «La alabanza ó el vituperio no se reciben del nacer; pero mídese bien con el nacer. Consiste en desigualarse por valor del igual por naturaleza.» Quev. Rómulo (R. 23. 116 1 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "(El part. se tomaba por Desigual, descomunal.) Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Salio con vn grito muy desigualado | Ronpiendo sus ropas.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr. 1, p. 112."
+        },
+        {
+          "texto_cita": "«Murió este rey de Aragon --- por cuya muerte se desigualó la paz e concordia de Castilla.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 4 (R. 68. 702 1 )."
+        },
+        {
+          "texto_cita": "«Pasado [Eneas] por los peligros del mar e desigualadas fortunas.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron . 48 (21 1 )."
+        },
+        {
+          "texto_cita": "«Por la qual cosa todas aquellas fijas otras [de Dánao] que aquel fecho tan aborrecedero e desigualado assayaron fueron leuadas a los infiernos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 8. (8 2 ). — Siglo. XIII :"
+        },
+        {
+          "texto_cita": "«En el cuerpo non debe haber sanidat cuando los humores están desigualados.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 81 (R. 51. 213 2 )."
+        },
+        {
+          "texto_cita": "«Mueven [las rencillas] los humores del cuerpo, é desiguálanlos, é así lo traen á malenconia é á enfermedat.»",
+          "autor": "",
+          "referencia_obra": "Ib . 74 (R. 51. 204 2 )."
+        },
+        {
+          "texto_cita": "« Imperare tanto quiere mostrar como desaparejarse o desigualarse de otros, e quiere dar a entender que el enperador non a par.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 102 (60 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de la partícula negativa des é igualar . Port., cat. desigualar ; prov. desegalar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

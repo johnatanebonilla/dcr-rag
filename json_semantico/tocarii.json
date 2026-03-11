@@ -1,0 +1,155 @@
+{
+  "lema": "TOCAR (II).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Peinar el cabello, componerlo con cintas, lazos y otros adornos ( refl .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya de tocarme acabé; | Quitar puedes el espejo. | ¿No está bien este cabello? | ¿Qué te parezco?»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio , 2 (Cl. C. 2. 87)."
+            },
+            {
+              "texto_cita": "«¿Piensas que no lo he oído? pues aunque me estaba tocando más tenía los oídos en su plática, que los ojos en mi espejo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 1. 2 ( Obr. suelt. 7. 10)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en , para señalar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué hace tu ama y mi dueño? | —Tocándose está en su cuarto. | —¿Podré hablarla? | —En el portal | Mete la mula, muchacho, | Y espera.»",
+              "autor": "Zamora",
+              "referencia_obra": ", El hechizado por fuerza , 1 (R. 49. 439 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con a , para indicar el modo. Además con en , para precisar el lugar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En Vizcaya y Guipúzcoa se vestía y tocaba a uso del país.»",
+              "autor": "Acad.",
+              "referencia_obra": "Hist. ilustr. 8 (6. 195)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Qué hermosa que está junto a él la Reina nuestra señora, y qué bien vestida y tocada.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo coj . 10 (R. 33. 40 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , para expresar el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por las dos puentes a la voz caladas | Salieron a caballo seis chilcanos, --- | Vestidas fuertes cotas, y tocadas | Las cabezas al modo de africanos.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 12 (R. 17. 48 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sustantivado. Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La poca práctica no la permite ser hábil en su tocado, y tarda en peinarse y se soba demasiado; está muy colorada y tiene un poco untada la frente de no sé qué, pero ello es que tiene reflejos nada agradables.»",
+              "autor": "Clarín",
+              "referencia_obra": ", Avecilla (Cl. Castal. 69. 133)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Enlucir, adornar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Luisa, entretanto, tocaba el vestido, le englobaba, y sus ojos estaban en un movimiento continuo, de la cintura a los hombros, de los hombros al rostro.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 5 (p. 563)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. refl. Con de , para señalar el objeto del que se cubre. Además con en , para especificar el lugar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y como el monte alto en la cumbre se toca de nubes, ---: ansí lo alto y la cabeza de Cristo es Dios.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1. 7 (3. 82)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Con la prep. con , para indicar el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiene la boca enjuta, los pómulos casi pelones, como una calavera; las manos huesudas, amarradas; la cabeza tocada con un chal; el cuerpo cubierto de imágenes y escapularios.»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua , p. 155."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me agrada de arreboles | Tocado ver el cielo | Cuando a ostentar empieza | Su clara lumbre Febo.»",
+              "autor": "Mel.",
+              "referencia_obra": "Anacr . 40 (R. 63. 103 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIV: +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E trayan todas en las cabeças, sobre todas las tocas e los velos e las coberturas en que se tocan.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "2. 15)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Denominativo de toca , y éste címbro toc 'gorra'. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

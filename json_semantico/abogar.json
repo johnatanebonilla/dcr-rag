@@ -1,0 +1,263 @@
+{
+  "lema": "ABOGAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Defender en juicio de palabra ó por escrito ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo soy graduado en leyes por Salamanca; --- aquí he venido á este gran mar de la corte para abogar y ganar la vida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 5 (R. 1. 166 1 )."
+            },
+            {
+              "texto_cita": "«No aboga el que jamás vio las escuelas | Como aquel que inventó los textos mismos.»",
+              "autor": "Lope",
+              "referencia_obra": ", La niña de plata , 1. 5 (R. 24. 275 3 )."
+            },
+            {
+              "texto_cita": "«Si abogares, dá muchas voces, y porfía.»",
+              "autor": "Quev.",
+              "referencia_obra": "Libro de todas las cosas (R. 23. 481 2 )."
+            },
+            {
+              "texto_cita": "«En las causas que unos defendían contra otros se mostraban tan rigurosamente contrarios en las palabras, que parecía reñir y no abogar.»",
+              "autor": "",
+              "referencia_obra": "Id. Vida de S. Pablo (R. 48. 28 1 )."
+            },
+            {
+              "texto_cita": "«Abogaban en el foro usando de la facundia y razones que sublimaban á los hombres al sumo grado de reputación.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. introd. (12)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con por , para expresar aquello en cuyo favor se alega.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si ella por tu causa aboga, | Haz cuenta que mi justicia | Esa apelación te otorga.»",
+              "autor": "Lope",
+              "referencia_obra": ", La llave de la honra , 3. 15 (R. 34. 133 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con acus. homogéneo (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La mujer es imposible | Que adquiera, tenga ni guarde | Hacienda, abogando pleitos | Ni curando enfermedades.»",
+              "autor": "Lope",
+              "referencia_obra": ", La venganza de las mujeres , 1. 1 (R. 41. 508 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Defender razonando, aunque no sea en juicio.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con por.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mientras la viuda y el padre de Padilla se limitaban [en el drama] á abogar cada cual por el partido político que había seguido, la misma gravedad del asunto y el peso de los argumentos lograban cautivar poderosamente la atención del auditorio.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La viuda de Padilla , advert . (3. 30)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en favor de , á favor de",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abogaba con denuedo [Rey de Artieda] á favor de las composiciones dramáticas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. Esp . 4 (2. 213)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quiero altercar más contigo, que, siendo mi padre, abogas contra mí.»",
+              "autor": "Timoneda",
+              "referencia_obra": ", Los Menemnos , 7 (R. 2. 299 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Presentarse en defensa, interceder.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con por , para expresar la persona ó cosa en cuyo favor se intercede.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mira otrosí las cinco vírgenes despedidas de las puertas del cielo, sin que nadie abogase por ellas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 8 (R. 6. 37 1 )."
+            },
+            {
+              "texto_cita": "«El está en el cielo representando al Padre eterno el precio de nuestra libertad, que son sus sacratísimas llagas, con las cuales aboga siempre por nosotros.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 5. 3. 9 (R. 6. 693 2 )."
+            },
+            {
+              "texto_cita": "«Los merecimientos de tu unigénito Hijo son de infinito valor, los cuales hablan y abogan por mí.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid . 1. 7, § 1 (R. 8. 14 2 )."
+            },
+            {
+              "texto_cita": "«Las que antes daban voces contra mí, agora en su manera rogarán y abogarán por mí.»",
+              "autor": "",
+              "referencia_obra": "Id. ib .1, lunes en la noche (R. 8. 25 1 )."
+            },
+            {
+              "texto_cita": "«Así como el Hijo mostrando sus llagas al Padre, aboga por nosotros; así esta Señora mostrando al Hijo los pechos virginales con que lo crió, aboga por nosotros,»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 23 (R. 8. 589 1 )."
+            },
+            {
+              "texto_cita": "«Fue conveniente que la Virgen sacratísima muriese, como lo dice la santa Iglesia, para que con mayor confianza abogue por nosotros en el cielo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Asunción ( Vida de la Virgen , 208)."
+            },
+            {
+              "texto_cita": "«Aunque acudan á los buenos á pedir misericordia é intercesión, no habrá quien interceda ni abogue por ellos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 3. 57 (2. 334)."
+            },
+            {
+              "texto_cita": "«Que no temo te aíres | En mirarte ofendido, | Pues abogando estás por pecadores.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, canc. á N. S. J. C . (R. 37. 13 1 )."
+            },
+            {
+              "texto_cita": "«Abogas por el duque de Viseo.»",
+              "autor": "Lope",
+              "referencia_obra": ", El duque de Viseo , 1. 10 (R. 41. 425 2 ). —"
+            },
+            {
+              "texto_cita": "«Mas porque es dificultoso açertar este medio, y la carne tira siempre para sí, y aboga por su parte, por tanto siempre debe el hombre tener por sospechosos sus pareceres en este caso.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 3, § 11 (R. 8. 123 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién podía abogar mejor por nuestra parte, que el sumo sacerdote del Padre?»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 3, § 1 (R. 8. 504 2 )."
+            },
+            {
+              "texto_cita": "«Oh emperador y abogado de los pobres, ¿cómo no hay quien os ampare y abogue por vuestra causa?»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 34 (2. 529)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á favor ó en favor de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú, hijo mío, ya has abogado bastante en su favor.»",
+              "autor": "Jovell.",
+              "referencia_obra": "El delincuente honrado , 3. 1 (R. 46. 90 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Suelen agregarse complementos con ante ó con para expresar, ya la persona en cuya presencia se habla, ya aquella a quien se dirige la intercesión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Teníamos también necesidad de un fiel abogado y sumo sacerdote que ante el eterno Padre abogase por nosotros y procurase el remedio de infinitas necesidades de que estamos cercados en esta vida.»",
+              "autor": "Gran.",
+              "referencia_obra": "Simb . 3 9 (R. 6. 413 1 )."
+            },
+            {
+              "texto_cita": "«Rogámoste pues humildemente, Señora y Madre nuestra, quieras tener fiel cuidado de nosotros, y abogar por nos ante el tribunal de tu muy amado Hijo.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist . 5. 7 (R. 8. 325 1 )."
+            },
+            {
+              "texto_cita": "«Tal estaba su figura, que ya no parecía quien era, y aun apenas parecía hombre, sino un retablo de dolores, pintado por mano de aquellos crueles pintores, y de aquel mal presidente, á fin de que abogase por él ante sus enemigos esta tan dolorosa figura.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6. 9 (R. 8. 363 1 )."
+            },
+            {
+              "texto_cita": "«Por la salud de vivos y muertos ninguna cosa aboga con mayor eficacia ante los ojos del Padre, que la sangre preciosa de su Hijo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 3 (R. 8. 245 2 )."
+            },
+            {
+              "texto_cita": "«El aboga siempre ante la cara del Padre por nuestras necesidades.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med . 2, § 2 (R. 8. 503 1 ). —"
+            },
+            {
+              "texto_cita": "«¿Quién podía abogar mejor por nuestra parte con Dios, que el sumo sacerdote del Padre eterno?»",
+              "autor": "",
+              "referencia_obra": "Id. Serm. Anunc . (R. 11. 10 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Otrosi mandamos, que los dichos abogados sean condenados en costas, y aun mayor pena por los del nuestro Consejo, quando hallaren que por malicia, ó por conoscida ignorancia del abogado abogaron en causas injustas.»",
+          "autor": "Orden. reales",
+          "referencia_obra": ", 2. 3. 34. — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Pero como quier que ninguno destos non puede abogar por otri, bien lo podrie facer por sí mesmo.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 6. 3 (2. 435)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. advocare , llamar en defensa ó auxilio, compuesto de ad , á , y vocare , llamar, de donde advocatus , llamado en defensa, abogado; en la baja latinidad advocare se usó intransitivamente por hacer el oficio de abogado: advocare contra Ecclesiam pro laico , Ducange . Port. advogar ; cat. advocar ; ital. avvocare .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Cambia la g en gu antes de e : abogue , aboguéis . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

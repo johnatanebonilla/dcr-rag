@@ -1,0 +1,276 @@
+{
+  "lema": "MESURAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Determinar la dimensión, medir ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo lo quel sol mesura, o mide—, lo mande e señores la Corona real de España.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag. 1. 7 (1. 106)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Con la prep. con, que indica el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando los versos van seguidos unos tras otros, la sonoridad es continua, uniforme, de una misma especie, mesurada siempre con igualdad y por lo mismo es armoniosa.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell. (Cl. C. 66. 193)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En los siguientes ejemplos, Lento, medido. Part. adj. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las personas demasiado ágiles y briosas se mantienen difícilmente en un paso mesurado y grave.»",
+              "autor": "Balmes",
+              "referencia_obra": ", El criterio, p. 115. X"
+            },
+            {
+              "texto_cita": "«Su palabra es mesurada y grave, pero que con el calor de la conversación se hace rápida, incisiva y hasta fogosa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 207."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sey mesurado de tu lengua, e refrena el vientre.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinguag. 1. 17 (1. 204). X"
+            },
+            {
+              "texto_cita": "«Pide licencia para entrar con un hombre que le acompaña, lánguido de pescuezo, mesurado de pasos, zonzo en los ojos.»",
+              "autor": "",
+              "referencia_obra": "Salas Barbadillo, El sagaz Estacio, 1 (Cl. C. 57. 91)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Brilla en el rostro del poeta joven honrada nobleza. Es mesurado en el alarde de su extravagancia.»",
+              "autor": "Martí",
+              "referencia_obra": ", Sus mejores páginas, p. 74."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Tomar una actitud seria o grave ( refl ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Traía muchos espíritus malos al diablo de los ladrones; grandemente acriminaban su delito. Plutón se mesuró, y un relator dijo: Señor, este diablo no sabe lo que se diabla.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 247). X"
+            },
+            {
+              "texto_cita": "«¡Vive Dios, que está aquí el Rey! | Él me ha visto, y se mesura.»",
+              "autor": "Cald.",
+              "referencia_obra": "El médico de su honra, 1 (Cl. C. 142. 42). X"
+            },
+            {
+              "texto_cita": "«Quien así le alaba no se mesura ni entristece, ni le advierte cuando le ve hacer alguna cosa indecente e indigna de su persona y grandeza.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 48 (Cl. C. 81. 217). X"
+            },
+            {
+              "texto_cita": "«Doña sabidilla | Ya está puesta la mesa | Doña festera y yo sentada. | — ¡Hola! mirad si estoy carimayada | Doña juvenala | Mesúrate, que pasa un caballero.»",
+              "autor": "Quiñ. de Benav.",
+              "referencia_obra": "Entremeses (NBAE. 18. 540). X"
+            },
+            {
+              "texto_cita": "«Mira al inferior que agasajan con altivez, escúchanle sin atención: si dice algo que no es muy de su gusto, se mesuran.»",
+              "autor": "Zabaleta",
+              "referencia_obra": ", Errores celebr. (Cl. C. 169. 68). X"
+            },
+            {
+              "texto_cita": "«Mesúrome como quien jamás ha quebrado un plato, y hago el arrimón.»",
+              "autor": "Zamora",
+              "referencia_obra": ", No hay plazo, 2 (R. 49. 421). X"
+            },
+            {
+              "texto_cita": "«Mesurose el hinchado Abate, y no muy satisfecho con tal género de celebridad: Insensatos (les decía a gritos) ¿a qué viene esa risa?»",
+              "autor": "",
+              "referencia_obra": "Fomer, Declam. contra la charl. p. 118."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Grave, serio, circunspecto. Part. adj. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le dijo con mesurado y magistral talante: Hasta aora, hijo mío, he procurado instruirte.»",
+              "autor": "Forner",
+              "referencia_obra": ", Los gramáticos (Cl. C. 168. 56)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado comparativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo una priesa notable a quitarse zapatos y medias, calzones y jubones, basquiñas y guardapiés, para acostarse hombres y mujeres, quedando las humanidades menos mesuradas y volviéndose a los primeros originales, que comenzaron el mundo horros de todas estas baratijas.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo coj. 1 (Cl. C 38. 36). — Con valor ponderativo. X"
+            },
+            {
+              "texto_cita": "«Don Juan Alfonso —tan parco, tan mesurado, de tan sólido juicio— ha escudriñado, en busca de datos sobre Cervantes.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quij. 5 (p. 353)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lejos de la pluma del escritor culto la odiosa personalidad; empero, lejos también de ella el uso harto mesurado de su cáustico talento.»",
+              "autor": "Larra",
+              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 62)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Estar atento ( part .). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mesurado, atiende el joven cada acento dividido, siendo al examen árbitro el oído.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Orfeo (Cl. C. 183. 46)"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Era mesurada en la continencia e movimientos de su persona; no bebía vino.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. (Cl. C. 49. 149). X"
+        },
+        {
+          "texto_cita": "«Vuestro mesuraros ha de ser qual es el gesto.»",
+          "autor": "Tapia",
+          "referencia_obra": ", Canc. cast. (NBAE. 22. 454 2 ). X"
+        },
+        {
+          "texto_cita": "«Yerra quien sabía do se reprende, | En dichos e fechos bevid mesurados, | Ca buelven acordes los desacordados, | E queda ofendido quien antes ofende.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. (Cl.C. 119. 86). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Señor, desque vos nasçistes, | SSienple fuestes mesurado.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI, 565 (p. 159). X"
+        },
+        {
+          "texto_cita": "«Como la buena dueña era mucho letrada, | Sotil e entendida, cuerda, bien messurada, | Dixo a la mi vieja, que l’ avia enbiada, | Esta fabla conpuesta de Ysopete sacada.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 96 (Cl. C. 14. 45)."
+        },
+        {
+          "texto_cita": "«Todo ome deue ser mesurado en su despensa.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 158 (p. 340). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«E después que fueron todos levantados de comer, aquel merino començolos de mesurar.»",
+          "autor": "Conq. de Ultr.",
+          "referencia_obra": "(ICC. 51. 178). X"
+        },
+        {
+          "texto_cita": "«E el Cavallero del Cisne no le respondió ninguna cosa e calló; e començolo de mesurar, e fizo un passo contra él.»",
+          "autor": "",
+          "referencia_obra": "Ib. (ICC. 51. 148). X"
+        },
+        {
+          "texto_cita": "«Mas pora aprender mejor la cuantía de las cosas et mesurarla más complidamientre habemos a saber que la cuantía se parte primeramente en dos partes.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Antol. p. 116. X"
+        },
+        {
+          "texto_cita": "«E Diz la hestoria en este logar que en tal fecho cuemo este, entender debíen los cabdiellos dallí e los de las otras tierras, silo mesurassen, que aquello los fados lo aducíen e les apressuraban, et que por ellos viníe más que por la fuerça de Julio César.»",
+          "autor": "",
+          "referencia_obra": "Id. Crón. gen. (Cl. Ebro, 46. 80). X"
+        },
+        {
+          "texto_cita": "«Et como quier que algunos lo mesurassen, era tarde, ca aquel don Gonçalo era ya alongado del rey; et callose desta guisa el fecho et non fizieron y al.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (NBAE. 5. 424)."
+        },
+        {
+          "texto_cita": "«El ssu poder [de Dios] es tan grande que non podría sser contado nin mesurado.»",
+          "autor": "",
+          "referencia_obra": "Id. Seten. ley, 1 (p. 6). X"
+        },
+        {
+          "texto_cita": "«E quando es con vicio, non se mesura, e quando viene alguna ocasión, non se sabe sofrir.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": "(Bonn, p. 149). X"
+        },
+        {
+          "texto_cita": "«E la buena vida es buena ganancia e espensa mesurada.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Bonn, p. 55). X"
+        },
+        {
+          "texto_cita": "«Pero así les era a todos mesurado | Que non parte ninguno de él despegado | Si alguno de afuera venía costado | De dicho e de fecho iba del conortado.»",
+          "autor": "",
+          "referencia_obra": "Vida de S. Idelf. (ICC. 36. 213). — Siglo XII: X"
+        },
+        {
+          "texto_cita": "«Los de Sant Estevan, siempre mesurados son, | Quando sabíen esto, pesoles de coraçón»",
+          "autor": "Cid",
+          "referencia_obra": ", 2820 (Cl. C. 24. 254). X"
+        },
+        {
+          "texto_cita": "«Los que ivan mesurando e llegando delant | Luego toman armas é tómase a deportar; | Por çerca de Salón tan grandes gozos van.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1513 (Cl. C. 24. 190)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. mensurare ‘medir’. Cat. y port. mesurar, fr. mesurer. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,762 @@
+{
+  "lema": "ENOJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Aburrir, causar disgusto o tedio ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que mucho me alegraba de antes, ahora me enoja.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Ven. Esp. Santo, 4 (2. 333)."
+            },
+            {
+              "texto_cita": "«O siguen algún bien que les falta, o huyen algún mal que los enoja.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Príncipe (3. 204)."
+            },
+            {
+              "texto_cita": "«Él va encantado en esta carreta, no por sus culpas y pecados, sino por la mala intención de aquellos a quien la virtud enfada y la valentía enoja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 47 (R. 1. 388 1 )."
+            },
+            {
+              "texto_cita": "«Ya mis finezas le cansan, | Ya mis regalos le enojan.»",
+              "autor": "Cald.",
+              "referencia_obra": "Argenis y Poliarco, 2. 8 (R. 7. 446 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En verdad, en verdad que tengo de honrar el gobierno de mi marido en cuanto yo pudiere, y, aun que si me enojo, me tengo de ir a esa corte y echar un coche como todas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 50 (R. 1. 511 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el objeto que produce el tedio o disgusto. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Finalmente, se enojaba con la noche, porque le parecía más larga que las otras.»",
+              "autor": "F. de Mena",
+              "referencia_obra": ", Teágenes y Cariclea, 2 (p. 84)."
+            },
+            {
+              "texto_cita": "«Se enojó con su hermosura, | Porque la halló en el cristal.»",
+              "autor": "Rojas",
+              "referencia_obra": ", No hay amigo para amigo, 1 (R. 54. 84 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de, para indicar lo mismo que en el caso anterior. En el siguiente ej. el sujeto es una cosa personificada, de donde el sentido met. del texto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Moró [la justicia] entre los hombres en tiempos antiguos, y después que se enojó dellos, subióse a los cielos.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro, 2. 52). — Con de + infinitivo. +"
+            },
+            {
+              "texto_cita": "«Si ella está alegre, el marido la tiene por deshonesta; si está triste, imagina que se enoja de verlo.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana, 2 (Cl. C . 135. 87)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Enfadar, causar enojo o ira ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Perdona a quien le enojó, y sufre con paciencia la cruz de la mala condición ajena.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 2 (3. 74)."
+            },
+            {
+              "texto_cita": "«Cuanto más amáis una persona, tanto más teméis no solo perderla, sino también enojarla.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 2. 17, § 1 (R. 6. 153 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, para indicar el medio o instrumento. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nadie debería atreverse a enojar con la lengua al que no es poderoso de resistirle con la lanza.»",
+              "autor": "Guev.",
+              "referencia_obra": "Oratorio , 20 (p . 574). +"
+            },
+            {
+              "texto_cita": "«Los cuales, habiendo enojado a alguno de sus amigos con muy pequeña ofensa ---.»",
+              "autor": "Gran.",
+              "referencia_obra": "Escala espir. de S. Juan Climaco, 1 (R. 11. 290 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suplico a vuestra merced me perdone, que, si yo pensara que en ello le enojava, antes me sacara los ojos.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, 2 (Cl. C. 27. 102)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sí; lo perdono todo. Pero no le enojéis por mi causa.»",
+              "autor": "Benavente",
+              "referencia_obra": ", Intereses creados, 1. 2. 10 (p. 93)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si vuestra merced se enoja, respondió Sancho, yo callaré.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 46 (R. 1. 385 1 )."
+            },
+            {
+              "texto_cita": "«Tengo determinado --- de ausentarme de estas riberas y no parecer en ellas en tanto que la vida me durare, ora mis padres se enojen, o mis parientes me riñan, o mis amigos se enfaden.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. 2. 11 (R. 1. 605 2 ). +"
+            },
+            {
+              "texto_cita": "«Yo, que lo oí, enojéme tanto, que salí allá diciendo que era mucha bellaquería y atrevimiento el venir a gruñir a casas ajenas.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón (Cl. C. 5. 74). x"
+            },
+            {
+              "texto_cita": "«Recuerdo que días antes de irte se te cayó en el arroyo del huerto, y yo me descalcé para buscártela; y como me mojé mucho, mamá se enojó.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 203. x"
+            },
+            {
+              "texto_cita": "«Pero no se lo dirás a mamá, porque se enojaría.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 234. x"
+            },
+            {
+              "texto_cita": "«Todos los días iban remaneciendo por la capital deudos y amigos ---, alguno de los cuales se me instaló en mi domicilio, porque ya sabía que yo había de enojarme si le veía tomar alojamiento en un hotel.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil , 19 (p. 207)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo sujeto la ira o furor. Con la prep. contra, para indicar el objeto a que se dirige el enfado. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dice [de David] la Sagrada Escritura que, habiéndose enojado el furor del Señor contra Israel, movió al rey David, o permitió --- que Satanás le tentase.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 2. 1 (R. 60. 412 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con dat. de persona, para indicar el objeto del enfado. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y si conocen | Que te burlas, y alguno se te enoja?»",
+              "autor": "Quiñ. de Benav.",
+              "referencia_obra": "Entremeses (NBAE. 18. 808 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la prep. con , para indicar lo mismo que en el caso anterior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Temí dos cosas: la una, que se había de enojar conmigo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund. 2 (R. 53. 182 2 )."
+            },
+            {
+              "texto_cita": "«Son, cuando se enojan con una mujer, algo crueles y no de buenos hígados.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Tía fing. (R. 1. 248 1 )."
+            },
+            {
+              "texto_cita": "«De cualquiera manera que yo me enoje con vos, ha de ser mal para el cántaro.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 20 (R. 1. 299 1 )."
+            },
+            {
+              "texto_cita": "«Si vuesa merced se enoja con ellos, claro está que ha de redundar en mi daño.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 51 (R. 1. 513 1 ). +"
+            },
+            {
+              "texto_cita": "«Revolvía [Cortés] en su imaginación todas las circunstancias de su agravio, y, poniendo los ojos en los desaires que había sufrido hasta entonces, se volvía contra sí, llegando a enojarse con su paciencia, y no sin alguna causa.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 13 (R. 28. 220 1 )."
+            },
+            {
+              "texto_cita": "«Poderoso es un rey cuando se enoja | Con algún inferior.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 1 (1. 5). x"
+            },
+            {
+              "texto_cita": "«Yo no volveré jamás a decirte eso... Nunca te habías enojado conmigo.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 228 . x"
+            },
+            {
+              "texto_cita": "«Yo pensaba que usted me coquetiaba por pasar el rato, o por burla... Como usted se enojó tanto conmigo la tarde que nos conocimos, por mi malcriadeza...»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Frutos, 17 (p. 194)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con la prep. contra . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Demasiada cosa es que nos enojemos contra los que de nosotros murmuraren.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag. 1. 11 (1. 153)."
+            },
+            {
+              "texto_cita": "«Se enojó [Dios] contra los tres amigos de Job.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 32 (2. 143)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con de, para indicar la causa del enfado. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Podemos coligir que no se enojó tanto el Señor de la torre que edificaron cuanto de las palabras soberbias que dijeron.»",
+              "autor": "",
+              "referencia_obra": "Guev . Oratorio, 19 (p. 570)."
+            },
+            {
+              "texto_cita": "«Eso haré yo de muy buena gana, señor mío, respondió Sancho, con condición que vuesa merced no se ha de enojar de lo que dijere.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 2 (R. 1. 409 1 ). — Con de + infinitivo. +"
+            },
+            {
+              "texto_cita": "«Unas veces hazía que no lo entendía, otras veces lo echava en burlas, otras me enojaba de vello tan importuno.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, 2 (Cl. C. 127. 137). - Con de seguida de una prop. subj."
+            },
+            {
+              "texto_cita": "«Y mire V. S. que es siervo de la Virgen, y que ella se enojará de que V. S. desampare a los que con su sudor quieren aumentar su orden.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas, 4. 72 (R.55. 50 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ξ ξ )",
+          "definicion": "Con de, para indicar la persona que produce el enfado, y un compl. con por , para expresar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con razón se enojó [Dios] de ellos por esto.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 32 (2. 143)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η η )",
+          "definicion": "Con por, para indicar la causa. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No os enojéis por mis inadvertencias, que estoy en tiempo de hacer y decir muchas.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 2 (Cl. C. 43. 58). x"
+            },
+            {
+              "texto_cita": "«Sí, Minita, no se enoje por eso.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Frutos, 1 (p. 10)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ θ )",
+          "definicion": "Con una prop. indic. , para expresar la causa. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues yo no voy a ser como otras, que se enojan porque el marido bebe; no, señor; los hombres deben beber sus tragos, y emborracharse también, si les da ganas.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Frutos , 6 (p. 90)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No ofendas al cabrón, porque enojado | Hiere mal con el cuerno acometiendo.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2 , égl. 9 (4. 432)."
+            },
+            {
+              "texto_cita": "«El valeroso enojado [Gaiferos no lo quiere aceptar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 26 (R. 1. 459 2 ).+"
+            },
+            {
+              "texto_cita": "«Y queriendo reparar mi falta, me llegué a mi bella, a quien hallé más que medianamente enojada, suplicándola tuviese a bien retirarme su indignación.»",
+              "autor": "Mesonero",
+              "referencia_obra": ", Mis ratos perdidos, 1 (R. 199. 7 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el objeto a que se dirige el enfado. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dice la misma Escritura Sagrada que la causa principal por que Roboán no dio contento al pueblo había sido porque Dios estaba enojado con él.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 2. 9 (R. 60. 425 1 ). — met. Con aplicación a una cosa personificada. +"
+            },
+            {
+              "texto_cita": "«Si naciérades en tiempo de los gentiles, que se usaban transformaciones, la naturaleza, de enojada con vos, por no contentaros con ella y por soberbio, os hubiera transformado en renacuajo.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 23 (Cl. C. 43. 279)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. contra, para indicar lo mismo que en el caso anterior. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando Dios quiere dar a entender que está muy enojado contra alguno, dice que no le castigará.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 1. 5 (R. 60. 367 1 ). +"
+            },
+            {
+              "texto_cita": "«Examine bien su conciencia ---, y despida de sí todo lo que viere que puede desagradar a Dios y tenerle enojado contra sí.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 12 (R. 60. 382 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con de, para indicar la persona que produce el enfado. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Neptuno, enojado de Minos por no le servir el imperio que tenía del mar más que otro de aquel tiempo en la Grecia, le echó aquel toro en su tierra.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 8. 1 (R. 162. 151 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "En superlativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las unas cantaban el Te Deum laudamus, otras maldecían a la priora y a quien se la habían enviado. Estaba el prior enojadísimo.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 24 ( Míst . 2. 212). +"
+            },
+            {
+              "texto_cita": "«Y él, muy enojado, me dijo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 9 (Cl. C. 5. 113)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "met. Referido a una cosa personificada. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No en el cielo, que el cielo está enojado, | Ni en el suelo, que está bramando el suelo.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 7 (R. 17. 453 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Dicho del mar y de los elementos, Embravecerse, alborotarse ( refl .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandándolo él, los vientos se enojaron | Y las olas alzaron | Al cielo furiosos.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 3, salmo 106 (4. 613). +"
+            },
+            {
+              "texto_cita": "«Así la valerosa y grande junta | Va sin temor que el ancho mar se enoje; | Que aun piensan, si se enoja, que su fuerza | Basta para que el mar de intento tuerza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 (R. 17. 585 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el modo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y el mar, que brama y con furor se enoja, | Con ímpetu soberbio las arroja.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 1 (R. 17. 573 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la forma enoiar. ) Siglo XV : +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y por esto no nos culpes, | Sí en la fuerça de tu yra | Te venimos a enojar.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Carcel de amor (Cl. C. 133. 165)."
+        },
+        {
+          "texto_cita": "«El infante estuvo algunos días enojado en Sevilla de calenturas.»",
+          "autor": "",
+          "referencia_obra": "Crón . Juan II, 5. 1 (R. 68. 334 1 ). +"
+        },
+        {
+          "texto_cita": "«Quien bien tiene e mal escoje, por mal que le venga non se enoje.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 520. +"
+        },
+        {
+          "texto_cita": "«En este déçimo soneto, el actor, enojado de la tardança, que los de la parte suya facían de acometer a la otra ---, dice que fiera Castino con la lança.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 277."
+        },
+        {
+          "texto_cita": "«Respondió [Tito] que non era deçente nin se convenía que ninguno triste nin enojado se partiesse delante la Imperial Majestad.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 82."
+        },
+        {
+          "texto_cita": "«Porque non podéys pensar | Quánto me habéis enoiado | Fasiéndome desamar | Donde más só enamorado.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 332."
+        },
+        {
+          "texto_cita": "«Desto non vos enogedes.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 149."
+        },
+        {
+          "texto_cita": "«A dios enojaban nuestros alaridos.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 40. +"
+        },
+        {
+          "texto_cita": "«El Rey çiertamente se muestra que está muy enojado de vos.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 122 (392). +"
+        },
+        {
+          "texto_cita": "«Como viniese enojado así del camino como de los fechos por la vía que andaban, dexó de por estonçe ir a fazer reberençia a la Reyna.»",
+          "autor": "",
+          "referencia_obra": "Ib. 102 (306). +"
+        },
+        {
+          "texto_cita": "«¿Por qué de la ajena virtud te enojas?»",
+          "autor": "",
+          "referencia_obra": "Ib . 34 (121)."
+        },
+        {
+          "texto_cita": "«Los quales [corredores] le ponían en trabajo la hueste e los enojaban assaz.»",
+          "autor": "",
+          "referencia_obra": "Ib. 20 (70). +"
+        },
+        {
+          "texto_cita": "«Non quedó la Reyna menos quexosa e enojada de don Áluaro.»",
+          "autor": "",
+          "referencia_obra": "Ib. 7 (26). +"
+        },
+        {
+          "texto_cita": "«En viendo doña Inés que don Áluaro de Luna se sentía enojado ---, ella lo apiadaba.»",
+          "autor": "",
+          "referencia_obra": "Ib . 7 (25)."
+        },
+        {
+          "texto_cita": "«E por quanto el adelantado estaba enojado, ovo de venir el almirante su hermano.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes. 23 (36 2 )."
+        },
+        {
+          "texto_cita": "«Quedó en su possada, por se sentir enojado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 11 (21). +"
+        },
+        {
+          "texto_cita": "«Los jueces, más enojados que antes, respondieron que no le darían tal licencia.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 41 (35 1 )."
+        },
+        {
+          "texto_cita": "«Los carneros son la más común e vsada vianda en estas partes e de que menos los omes se enojan.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 8 (64). +"
+        },
+        {
+          "texto_cita": "«Estos atales non podrían todavía sostener este çielo segunt atalante que se enojó.»",
+          "autor": "",
+          "referencia_obra": "Id. Doze trabajos, 12 (p. 126). +"
+        },
+        {
+          "texto_cita": "«Reposó [Hércules] en aquel lugar algunos días por engordar el ganado, que de luengo camino estava enojado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 10 (p. 104)."
+        },
+        {
+          "texto_cita": "«E desque tino es enojado de dar a beber, viene otro.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 157."
+        },
+        {
+          "texto_cita": "«Dixo a los embajadores que el señor estaba ocupado --- e que non se enojasen.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 148 ."
+        },
+        {
+          "texto_cita": "«Anduvimos a tan grande pieza, que éramos enojados quando a la posada llegamos.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 139. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«El maestre ya entendía que los de la villa se enojaban mucho de la guerra.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 7. 1 (R. 66. 470 1 )."
+        },
+        {
+          "texto_cita": "«Pero a esto digo, señor, así brevemente, en pocas razones, por non vos enojar ---.»",
+          "autor": "",
+          "referencia_obra": "Ib . 5. 5 (R. 66. 441 2 )"
+        },
+        {
+          "texto_cita": "«Sennor, ya la mi vida enoja cada día | A esta mi alma pobre, que sofrir non podía | A tanta amargura.»",
+          "autor": "Pal.",
+          "referencia_obra": "985 (R. 57. 458 1 )."
+        },
+        {
+          "texto_cita": "«De la su vida mesma están tan enojados, | Non saben qué quieren.»",
+          "autor": "",
+          "referencia_obra": "Ib . 125 (R. 57. 429 1 )."
+        },
+        {
+          "texto_cita": "«De más que ha por natura | El onbre de enojarse | Con lo que mucho dura, | Y con ello quexarse.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 457 (R. 57. 359 2 ). +"
+        },
+        {
+          "texto_cita": "«Vienen bien refrescados | E sin afán e sin pena | Buestros moros enojados, | Fanbrientos en tierra agena.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1374 (p. 383)."
+        },
+        {
+          "texto_cita": "«Et tanto levanté con él fasta que lo enojé et le cansé en aquello.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 23 ( Bibl. venat. 1. 78)."
+        },
+        {
+          "texto_cita": "«Ca, si fuese por la derecha, podría enojar el venado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 8 ( Bibl. venat. 1. 33)."
+        },
+        {
+          "texto_cita": "«Todo montero debe seguir bien los canes que andudieren en cierto, et non se enojar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 6 ( Bibl. venat. 1. 26)."
+        },
+        {
+          "texto_cita": "«He muy grant recelo de dos cosas: la una, que vos enojáredes de tan luenga scriptura.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Libro de los est. 1. 63 (R. 51. 314 2 )."
+        },
+        {
+          "texto_cita": "«Si el home non yerra, nin se enojó del su servicio [de Dios] ---»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 43 (R. 51. 300 2 )."
+        },
+        {
+          "texto_cita": "«Dios se enojó dellos, et envió el diluvio sobre la tierra.»",
+          "autor": "",
+          "referencia_obra": "Id, ib. 1. 27 (R. 51. 293 2 )."
+        },
+        {
+          "texto_cita": "«Ca non ha cosa, por bien dicha que sea, que, si muchas vegadas se dice una en pos otra, que se non enoje della el que la oye.»",
+          "autor": "",
+          "referencia_obra": "Id. Caball. e escud. 37 (R. 51. 244 2 )."
+        },
+        {
+          "texto_cita": "«De todos [los placeres] o de los más se enoja el home.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 21 (R. 51. 238 1 )."
+        },
+        {
+          "texto_cita": "«Es cosa [la vida] que non se enojan della.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 48). +"
+        },
+        {
+          "texto_cita": "«Onbre que es enojado nunca lo fallaredes de durable amor.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, Mitth. 30)."
+        },
+        {
+          "texto_cita": "«El amiztat del que se aýna enoja aýna se tuelle.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, 11 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E Catón aun soltaba su corazón a Juegos cuando estaba enojado de oír pleitos.»",
+          "autor": "",
+          "referencia_obra": "Cast. e docum . 51 (R. 51. 179 1 ). +"
+        },
+        {
+          "texto_cita": "«El que sus donas de buena mente da, nunca se enoja de dar e plázele mucho quando da.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 208 (p. 466). +"
+        },
+        {
+          "texto_cita": "«Todo ome que alguna cosa quiere acabar, tan bien en onrra commo en el que se fazer puede, auiendo con que la seguir, e fuere en pos ella e non se enojare, acabarla-ha çiertamente.»",
+          "autor": "",
+          "referencia_obra": "Ib . 176 (p. 382). +"
+        },
+        {
+          "texto_cita": "«Todos se aborresçian [al rey] e se enojauan dél.»",
+          "autor": "",
+          "referencia_obra": "Ib. 161 (p. 346). +"
+        },
+        {
+          "texto_cita": "«Non la codiçia [la muerte] ome, sy non seyendo enojado de la vida.»",
+          "autor": "",
+          "referencia_obra": "Ib . 46 (p. 114). +"
+        },
+        {
+          "texto_cita": "«Quando el buen Cauallero Zifar se vio asý desanparado de las cosas deste mundo que él más quería, con grant cuyta dixo asý: Señor Dios ---, sy te enojas de mí en este mundo, sácame dél, ca ya me enoja la vida.»",
+          "autor": "",
+          "referencia_obra": "Ib . 42 (p. 90). +"
+        },
+        {
+          "texto_cita": "«Estaua desesperado, e me enojaua ya de beuir en este mundo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 6 (p. 31) ."
+        },
+        {
+          "texto_cita": "«Se enojaron de la guerra --- e auiniéronse.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 2. 30 (164 2 )."
+        },
+        {
+          "texto_cita": "«E quando los vnos eran enojados de escreuir, escreuían los otros.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 129 (105 1 ). +"
+        },
+        {
+          "texto_cita": "«Secta tanto quiere dezir como cosa departida de otra. Et por ende aquellos que creen las cosas luengas e enoiáuansse de la longura dellas, et apartauan vna partida quanto entendían que podría abondar a su poco entendimiento.»",
+          "autor": "",
+          "referencia_obra": "Alf. x, Seten. ley 12 (p. 47)."
+        },
+        {
+          "texto_cita": "«Enojaba de guisa los jueces con sus voces, que non podíen con ella.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 6. 3 (2. 425)."
+        },
+        {
+          "texto_cita": "«Enojése el home de estar ahí et dejó el buey.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 19 2 )."
+        },
+        {
+          "texto_cita": "«Sabed que quien enojar' al rrey ensannarlo ha.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 7 (25)."
+        },
+        {
+          "texto_cita": "«Tanto auemos fecho que a los dios enoiamos.»",
+          "autor": "Alex.",
+          "referencia_obra": "1156 (R. 57. 183 1 )."
+        },
+        {
+          "texto_cita": "«Quiero vos fablar hun poco, que non vos enoiedes.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 236 (R. 57. 291 1 )."
+        },
+        {
+          "texto_cita": "«De la temporal vida era fuert enoiado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill . 34 (R. 57. 66 2 )."
+        },
+        {
+          "texto_cita": "«De fablar del buen sancto non nos ennoiaremos.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Dom. 752 (R. 57. 63 2 )."
+        },
+        {
+          "texto_cita": "«Avíen las mesquiniellas las yentes enoiadas, | Ca cadíen a menudo en tierra quebrantadas.»",
+          "autor": "",
+          "referencia_obra": "Id. Ib. 638 (R. 57. 60 1 )."
+        },
+        {
+          "texto_cita": "«Maguer vos enogedes devedes vos sofrir.»",
+          "autor": "",
+          "referencia_obra": "Id. Ib. 335 (R. 57. 50 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. inodiare, que a su vez deriva de la frase in odio esse 'ser odiado', y que en castellano dio enoyar o enoiar (comp . hodie > hoy, podium > poyo, etc.), formas que se encuentran, por ejemplo, en Berceo. El paso y > j se explica, según Corominas y M. Pidal, por influjo del prov. enojar. Fr. ennuyer. it. annoiare, prov. enojar, cat. enujar, port . enojar, anojar, gall. anoxar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

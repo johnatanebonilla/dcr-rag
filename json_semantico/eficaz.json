@@ -1,0 +1,349 @@
+{
+  "lema": "EFICAZ.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que obra activamente para producir cierto efecto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mortal en breve el eficaz veneno | A inmortal sueño a Eurídice traslada.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Orfeo, 1 ( Fern. 8. 257)."
+            },
+            {
+              "texto_cita": "«Es [el rayo del sol] de su misma cualidad y sustancia y tan lúcido y tan eficaz como él.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3 , Hijo (2. 284).."
+            },
+            {
+              "texto_cita": "«El viento le obedece | Contra la fuerza y orden de la luna; | Tiembla la firme tierra y se estremece | A su voz eficaz.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 23 (R. 17. 87 2 )."
+            },
+            {
+              "texto_cita": "«El ejercicio de las buenas obras hacía su oración más eficaz.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 5. 1, § 4 (R. 8. 295 2 )."
+            },
+            {
+              "texto_cita": "«Vi aquí claro lo mucho que el Señor había puesto de su parte, desde que era muy niña, para llegarme a sí con medios harto eficaces, y cómo todos no me aprovecharon.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Relac. (R. 53. 152 1 )."
+            },
+            {
+              "texto_cita": "«A unos trae y llama [Dios] con más eficaz llamamiento y fuerza que a otros.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. 2. 22 (R. 27. 330 2 )."
+            },
+            {
+              "texto_cita": "«Se inclinó a seguir el parecer de su hijo y poner remedio eficaz y violento a tantos daños.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 22 (R. 21. 22 1 )."
+            },
+            {
+              "texto_cita": "«Castigadas ante todas cosas las cabezas de la sedición, remedio, aunque eficaz de poca dura ---»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 4. (R. 28. 45 2 )."
+            },
+            {
+              "texto_cita": "«Era de agudo y presto entendimiento y elocuencia muy eficaz.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2 (R. 28. 24 2 )."
+            },
+            {
+              "texto_cita": "«Si públicamente no celebré mis desposorios, fue --- por otros inconvenientes quizá más eficaces que los dichos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 10 (R. 1. 218 2 )."
+            },
+            {
+              "texto_cita": "«Unos con ruegos, y otros con lágrimas, y otros con eficaces razones la pesuadían que diese la mano al pobre Basilio.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 21 (R. 1. 448 1 )."
+            },
+            {
+              "texto_cita": "«En fin, llegó el último de D. Quijote, después de recebidos todos los sacramentos, y después de haber abominado con muchas y eficaces razones de los libros de caballerías.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 74 (R. 1. 558 1 )."
+            },
+            {
+              "texto_cita": "«Singular escritor [Polibio ] , en cuya historia es eficaz el ejemplo y verdadero, el escarmiento provechoso, y la sentencia viva y elegante.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 136 2 )."
+            },
+            {
+              "texto_cita": "«Le dio a entender su engaño y la verdad de nuestra religión con argumentos --- tan eficaces, que el indio quedó asombrado.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 15 (R. 28. 223 1 )."
+            },
+            {
+              "texto_cita": "«En los hombres es más eficaz la esperanza que el agradecimiento.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 91 (R. 25. 240 2 )."
+            },
+            {
+              "texto_cita": "«Juzgó por conveniencia real fomentar la credulidad de aquellos vasallos, dando muestras más eficaces de partir.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 3 (R. 21. 498 2 )."
+            },
+            {
+              "texto_cita": "«Don Fernando, ¡quién pudiera | Con palabras eficaces | Decirte los parabienes | Que doy a mi amor de hallarte | Galán!»",
+              "autor": "Mto.",
+              "referencia_obra": "El parecido en la corte, 3. 7 (R. 39. 327 2 )."
+            },
+            {
+              "texto_cita": "«Se valió [Cervantes] de un arma más eficaz que las prohibiciones y los raciocinios. Pintó en D. Quijote de la Mancha lo ridículo del caballero andante.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 1, p. xx."
+            },
+            {
+              "texto_cita": "«Los medios indirectos, aunque más lentos, eran sin comparación más eficaces.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas a L. Holland, 4 (R. 19. 551 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La triaca se fabrica sobre el veloz veneno de la víbora, por ser el humor que más aprisa y derecho va al corazón; a cuya causa cargándola de muchos simples de eficacísima virtud, los lleva al corazón para que le defiendan de la ponzoña.»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos, 39 (R. 23 . 418 2 )."
+            },
+            {
+              "texto_cita": "«El cristiano para todos los males tiene una general y eficacísima medicina, que es la devota y perseverante oración.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med. 12, § 2 (R. 8. 538 1 )."
+            },
+            {
+              "texto_cita": "«Le ponen por nombre Jesús, que quiere decir Salvador, para que si la señal de pecador te desmayaba, te esfuerce este dulcísimo y eficacísimo nombre de Salvador.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. del crist. 36 (R. 11. 209 1 )."
+            },
+            {
+              "texto_cita": "«Porque en este Señor está aparejada una medicina saludable para todas nuestras angustias, y una eficacísima consolación para todas las tribulaciones desta vida.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 3. 18, § 1 (R. 6. 431 1 )."
+            },
+            {
+              "texto_cita": "«Para no caer en pecado mortal es remedio eficacísimo el recibir aqueste santo manjar.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 19 (4. 255)."
+            },
+            {
+              "texto_cita": "«Es causa y ocasión eficacísima para que muchas veces el hombre haga obras conforme a la tal afección.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 17 (4. 157)."
+            },
+            {
+              "texto_cita": "«Contrapuso [Dios] a la furia de tantos daños varones señaladísimos, llenos de santidad y doctrina, haciéndolos como unos firmes muros de su ciudad santa y reparos eficacísimos de tantas calamidades.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. pról. (4)."
+            },
+            {
+              "texto_cita": "«Con palabras eficacísimas y juramentos extraordinarios me dio la palabra de ser mi marido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 28 (R. 1. 327 1 )."
+            },
+            {
+              "texto_cita": "«Predicaba la ley de Cristo nuestro Señor con admirables y eficacísimas razones.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 5. 28 (3. 153)."
+            },
+            {
+              "texto_cita": "«Acordó de ir a tomar el agua de Aspa, en el país de Lieja, remedio, a lo que decían, eficacísimo.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 18 2 )."
+            },
+            {
+              "texto_cita": "«Esta forma de gobierno, fundada toda en hacerse temer con rigor inviolable, si bien como violenta no puede durar mucho, por poco tiempo es eficacísima.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 7 (R. 28. 101 1 )."
+            },
+            {
+              "texto_cita": "«Salió a la plaza superior del fuerte el sargento Ferrer, llevado de algún eficacísimo impulso.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 531 2 )."
+            },
+            {
+              "texto_cita": "«El [fin] de la comedia es corregir nuestros vicios por el eficacísimo medio de verlos ridiculizados.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. Poét. (R. 46. 145 2 )."
+            },
+            {
+              "texto_cita": "«Palabras breves y sencillas pero enfáticas y eficacísimas que confunden toda la presunción de la humana sabiduría.»",
+              "autor": "Scío",
+              "referencia_obra": ", Gén. advert."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Con para , que señala el objeto o término de la actividad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No es menos eficaz la ceniza de su estiércol, desatada en vino, para el uno y otro mal.»",
+              "autor": "Huerta",
+              "referencia_obra": "Plin. 28. 14 (2. 475 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lóale sus buenos consejos y dice cuán eficaces siempre fueron, ansí para poner orden en quien no la tenía, como para esforzar y animar al que padecía miseria.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 4 (1. 57)."
+            },
+            {
+              "texto_cita": "«Pues ¿qué imagen puede ser más eficaz para amansar los ojos del padre, que la cara amancillada de su hijo?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, Jueves por la mañ. (R. 8. 77 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué ejemplos más eficaces se podían hallar para esforzarnos y confundirnos que los de aquel Señor, que juntamente era Dios y hombre?»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 3, § 1 (R. 8. 505 1 )."
+            },
+            {
+              "texto_cita": "«Si la vida humana presenta una serie de errores, locuras, desgracias y escarmientos a quien la observa, la comedia, su imitadora fiel, repite en la escena aquellas situaciones de risa y llanto que son más eficaces para persuadir y deleitar.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 81. — Sup."
+            },
+            {
+              "texto_cita": "«Medicina eficacísima es este divino sacramento bien recibido para templar todas nuestras pasiones.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 9 (3. 238)."
+            },
+            {
+              "texto_cita": "«Envió para el plazo concertado dos onzas de unos polvos eficacísimos para dormir.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los tres maridos burlados (R. 18. 487 2 )."
+            },
+            {
+              "texto_cita": "«Las meditaciones de las postrimerías del hombre --- son eficacísimas para movernos al aborrecimiento de nuestros pecados, y al propósito eficaz de nunca más volver a ellos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1.6 (1. 86)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Con a , en sentido análogo (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es acerba al gusto y por esto eficaz a los corrimientos de los ojos.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Plin. 27. 9 ( 2. 434 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ)",
+          "definicion": "Con contra, para señalar el objeto que con la actividad se combate o precave.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vuestra pasión es medicina eficacísima contra todos los vicios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med. 13, § 1 (R. 8. 546 1 )."
+            },
+            {
+              "texto_cita": "«El ejercicio es un medio para muchos males y eficacísimo contra la melancolía.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 2, p. 307 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε)",
+          "definicion": "Con en, para expresar el objeto en que obra la actividad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La misma [hierba] es eficaz en el dolor de estómago.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Plin. 27.13 (2. 442 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ)",
+          "definicion": "Con con, para expresar la persona en quien obra algo (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recibió bien este ensalmo, que es eficacísimo con las mujeres.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 2. 10 (R . 18. 437 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado a personas, Que obra con actividad y empeño para el logro de cierto fin.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es maravilla nueva una flaca mujer tan animosa que emprendiese una cosa tan grande; y tan sabia y eficaz, que saliese con ella.»",
+              "autor": "León",
+              "referencia_obra": ", dedic. Obr. Sta. Ter. (4. 206)."
+            },
+            {
+              "texto_cita": "«Por cierto que has predicado | Tan eficaz, que imagino | Que si te oyera Calvino, | Hubiera su error dejado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovia, 2ª pte. 1. 16 (R. 20. 400 1 )."
+            },
+            {
+              "texto_cita": "«Los peligros son los más eficaces maestros que tiene el principe.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 37 (R. 25. 96 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Sup.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh Madre de misericordia! ¡Oh abogada sapientísima y eficacísima!»",
+              "autor": "Ávila",
+              "referencia_obra": ", Festiv. 9 (5. 258). —"
+            },
+            {
+              "texto_cita": "«Tú que el principio y fin de nuestra historia, | Divina Musa, sabes y te acuerdas, | Y con tu eficacísima memoria | Al són la cantas de tus dulces cuerdas.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 7 (R. 17. 597 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "port. efficaz; cat. eficás; prov. efficaci ; fr. , it. efficace: del lat. efficacem, efficax , derivado de efficere, llevar a efecto. En Nebrija se halla efficacemente ( s. v . efficaciter ); P. de Alcalá trae:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "« eficace cosa que mucho haze.»",
+          "autor": "",
+          "referencia_obra": "\u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

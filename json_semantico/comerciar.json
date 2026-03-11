@@ -1,0 +1,129 @@
+{
+  "lema": "COMERCIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Negociar ó traficar comprando y vendiendo ó permutando géneros ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comerciar por mayor, por menor.»",
+              "autor": "Acad.",
+              "referencia_obra": ", Salvá , Gram ."
+            },
+            {
+              "texto_cita": "«Comerciando y comunicándose unas islas á otras sus géneros, permutando unos por otros.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "Conq. de las Malucas, 4, fol. 89 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Genova existe por el comercio; si los nobles no comerciasen, todo el sistema de gobierno se trastornaría necesariamente, porque dejando de ser ricos, dejarían de ser poderosos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 512."
+            },
+            {
+              "texto_cita": "«Ofrézcase como campo á sus especulaciones un inmenso continente, en que pueda comerciar sin rivales.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 1. 11 (5. 43)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar las personas que concurren á la contratación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaban los isleños de Cozumel hechos á comerciar con naciones extranjeras de diversos trajes y lenguas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Mej. 1. 15 (R. 28. 222 2 )."
+            },
+            {
+              "texto_cita": "«Ya antes, en 1501, habíá Rodrigo de Bastidas recorrido las costas de Cumaná y de Cartagena, sin ánimo de poblar y sólo con el intento de comerciar pacíficamente con los naturales.»",
+              "autor": "",
+              "referencia_obra": "Quint . Balboa (R. 19. 281 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Salvá trae",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comerciar con naranjas,»",
+              "autor": "",
+              "referencia_obra": "pero esto no es común cuando se trata en general de un artículo de comercio. Dícese bien en otro sentido"
+            },
+            {
+              "texto_cita": "«Comerciar con su crédito,»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ., y metafóricamente:"
+            },
+            {
+              "texto_cita": "«Estúdiese la corte, y comerciando | Veráse allí la adulación grosera | Con el humo enfadoso que está echando.»",
+              "autor": "Quint.",
+              "referencia_obra": "Reglas del drama , 3 (R. 19. 79 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para expresar el ramo de comercio ó el artículo que se compra ó vende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El citado margrave comercia en hombres: todos sus vasallos se ejercitan desde la niñez en el uso de las armas --- los alquila después á cualquier soberano que se los pide por cierto tiempo y á tanto porcabeza.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 285."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es nuestra voluntad que los mantenimientos, bastimentos y viandas se puedan comerciar y trajinar libremente.»",
+              "autor": "",
+              "referencia_obra": "Recop. de Indias, 4. 18. 8 (2. 116 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquella misma cantidad que, libremente comerciada, hubiera nivelado los precios, saldrá sin hacer este efecto.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Apunt. para una mem. económ. (R. 50.51 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Recípr. Tener trato y comunicación unas personas con otras (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y como eran vecinos, no era reparable se comerciasen y tratasen á todas horas.»",
+          "autor": "Gracián",
+          "referencia_obra": ", Mor. de Plut. fol . 149 ( Dicc. Autor. )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de comercio . Port. commerciar ; fr. commercer. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,359 @@
+{
+  "lema": "DISCULPAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Procurar, dando razones ó pruebas, que una persona ó cosa no aparezca como culpable ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de la persona que se procura quede libre de culpa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En mitad de la fuga destas maldiciones y vituperios, la desculpaba, diciendo que no era mucho que una doncella, recogida en casa de sus padres, hecha y acostumbrada siempre á obedecerlos, hubiese querido condescender con su gusto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 27 (R. 1. 323 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Confusión grande me hace lo que os voy a persuadir, que no os disculpéis, que es costumbre perfetísima y de gran mérito.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 15 (R. 53.336 1 )."
+            },
+            {
+              "texto_cita": "«Ella se disculpaba diciendo que en matar á Isabela hacía sacrificio al cielo, quitando de la tierra á una católica.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 4 (R. 1. 153 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la culpa ó falta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Usted, señor don Tomás, ha querido disculpar en su discurso preliminar al licenciado Espinel de la prolijidad en su versión.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Donde las dan las toman (6. 50)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llegándose á él, se desculpó de la insolencia que aquella gente baja con él había usado, sin que él supiese cosa alguna.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 3 (R. 1. 261 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , para expresar la persona á quien se dan razones en defensa del culpable.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andaba buscando manera cómo disculpar á Lotario con Anselmo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 34 (R. 1. 346 2 )."
+            },
+            {
+              "texto_cita": "«Y desta descortesía | Me disculparás con ella.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende , 1. 4 (R. 7. 168 3 )."
+            },
+            {
+              "texto_cita": "«Consultad | Mi deseo á vuestro padre, | Y del engaño con él | Disculpadme.»",
+              "autor": "Mto.",
+              "referencia_obra": "El parecido en la corte , 3. 7 (R. 39. 327 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Topóme otras muchas veces, y me disculpé con él contándole mil embustes.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 15 (R. 23. 512 1 )."
+            },
+            {
+              "texto_cita": "«Vengo | A disculparme con vos | De mi inadvertencia.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mejor está que estaba , 2. 2 (R. 7. 231 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con con , para expresar aquello á que uno echa la culpa de lo que se le imputa; la partícula significa el medio que se emplea para la defensa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El médico se disculpaba con él, y al fin el boticario se desapareció.»",
+              "autor": "Quev.",
+              "referencia_obra": "Sueño (R. 23. 301 1 )."
+            },
+            {
+              "texto_cita": "«Si fueron injustas las órdenes, no se puede disculpar con ellas por no ofender al príncipe.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 50 (R. 25. 129 2 )."
+            },
+            {
+              "texto_cita": "«Dieron la obediencia, disculpándose con la opresión de los mejicanos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 16 (R. 28. 369 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Según esto, como observa Salvá ,",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Disculparse con otro de una falta»",
+              "autor": "",
+              "referencia_obra": "es dar disculpas á alguno de la falta que hemos cometido, ó echarle la culpa de la falta que se nos imputa; por tanto debe procurarse que en cada caso el contexto remueva toda duda."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Nuestros clásicos omitían la prep. delante de una prop. indic. ó subj. , cosa inadmisible hoy.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parte de la caballería se acogió fuera de tiempo, disculpándose que no se les hubiese dado la orden, ni esperado la arcabucería que dejaba atrás.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 3 (R. 21. 101 2 )."
+            },
+            {
+              "texto_cita": "«Deja pendiente el autor desta historia esta batalla, disculpándose que no halló más escrito destas hazañas de D. Quijote, de las que deja referidas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 8 (R. 1. 271 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con en , para expresar lo que se toma como defensa, en el concepto de fundamento ó apoyo de ella (muy raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Disculpéme en su hermosura»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo , 1 (R. 54. 234 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con acus. de la cosa que se procura no aparezca como culpa ó delito.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Disculpaba los excesos de la milicia como naturaleza de los ejércitos.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 2 (R. 21. 480 1 )."
+            },
+            {
+              "texto_cita": "«He de disculpar su acción; | Que no sé qué inclinación | Tengo desde que le vi.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 1. 2 (R. 39. 101 3 )."
+            },
+            {
+              "texto_cita": "«Y no disculpes conmigo | Cobardías que has usado.»",
+              "autor": "Cald.",
+              "referencia_obra": "Judas Macabeo , 3. 11 (R. 7. 325 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mis errores te prometo | Que hoy disculpados están.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Sin honra no hay amistad , 1 (R. 54. 299 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Con esta construcción puede introducirse un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que yo el no amarme os disculpo, | Pero el maltratarme no.»",
+              "autor": "Mto.",
+              "referencia_obra": "Primero es la honra , 3. 1 (R. 39. 242 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Servir de razón ó prueba para que una persona ó cosa no aparezca como culpable( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mil días ha que debo á Vm. la respuesta de su carta, y ocupaciones y poca salud que he tenido me disculpan.»",
+              "autor": "",
+              "referencia_obra": "Leon, Cartas , 6 (4.201)."
+            },
+            {
+              "texto_cita": "«Tu intención va á desculparte, | Y tu hermosura á dar muerte.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 103 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar lo que se mira como culpa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que su poca y tierna edad | De todo error me disculpa.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las paces de los reyes , 1. 13 (R. 41. 570 2 )."
+            },
+            {
+              "texto_cita": "«La escuridad disculpa al atalaya | Del mísero suceso que aquí veo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Los baños de Argel , 1 ( Com . 1. 130)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un pred.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si fue su esposa después, | También fue su dama antes, | Y el futuro matrimonio | No la disculpó de fácil.»",
+              "autor": "Cald.",
+              "referencia_obra": "Lances de amor y fortuna , 1. 2 (R. 7. 36 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Es inusitada la construcción con á , tomándose el verbo en el sentido de Autorizar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Caballero, aunque os disculpa | A usar de libres acciones | El ignorar mis blasones, | No estáis ajeno de culpa.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 1. 2 (R. 39. 101 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con acus. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El enojo y ceguera de aquel rey no disculpa la atrocidad del pecado que se cometió en su muerte.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 2 (R. 28.24 1 )."
+            },
+            {
+              "texto_cita": "«No hay belleza | Que disculpe la flaqueza | De una ligera mudanza.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo , 2. 3 (R. 20. 70 3 )."
+            },
+            {
+              "texto_cita": "«Dio á este ejercicio una extensión tan dilatada, que merecería la nota de ambiciosa si la rectitud de su intención y la grandeza del peligro no la disculpasen.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 1. 1 (R. 46. 519 2 )."
+            },
+            {
+              "texto_cita": "«En sus obras [de Alfieri] se ven esparcidas tan grandes ideas, máximas tán sublimes, ya de moral, ya de política, que en gran parte disculpan sus descuidos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 478."
+            },
+            {
+              "texto_cita": "«Supo don Francisco de Cárcamo ser su hijo el gitano y ser la Preciosa la gitanilla que él había visto, cuya hermosura disculpo con él la liviandad de su hijo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 119 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "En la construcción anterior tiene cabida un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El miedo me disculpa la ignorancia, y el sucederme la desgracia tan de repente.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 2 (R. 23. 488 2 )."
+            },
+            {
+              "texto_cita": "«También aquesa razón | Admito, para que haya | Otra más que me disculpe | No echaros á cuchilladas | De mis umbrales.»",
+              "autor": "Cald.",
+              "referencia_obra": "¿Cuál es mayor perfección? 2. 9 (R. 7. 79 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le respondieron disculpándose dulcemente.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 25 (R. 68. 390 1 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Fabló con el rey, desculpándose de la venida que feciera á su tierra.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 11. 4 (R. 66. 502 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E ella desculpándose é llorando su inocencia decia ---»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 9 (R. 51. 103 1 )."
+        },
+        {
+          "texto_cita": "«Por se desculpar metio mano al cuchillo e fue ferir a Apro.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen ."
+        },
+        {
+          "texto_cita": "«Non des luego pena, fasiendo el pecado, mas pon plaso entre ellos por el desculpar.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro , 2 (Knust, 109)."
+        },
+        {
+          "texto_cita": "«E desculparse omne muchas veses fase venir en mientes el yerro.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2 (Knust, 101)."
+        },
+        {
+          "texto_cita": "«Non sopo que fazer sinon que se desculpo al rrey e al pueblo que non avie ensennado el moço. »",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 10)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "El cast. ant. desculpar es compuesto del prefijo privativo ó negativo des y culpa ó culpar ; posteriormente se confundió este prefijo con dis de sentido análogo, acaso á influencia del it. , y resultó disculpar . Port., cat. desculpar , disculpar ; it. discolpare , scolpare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,632 @@
+{
+  "lema": "DOLER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Experimentar una parte del cuerpo una sensación molesta y aflictiva, como la que produce un golpe, una herida, ciertos desórdenes en las funciones animales ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiero decir, dijo D. Quijote, que cuando la cabeza duele, todos los miembros duelen.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 2 (R. 1. 408 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con dat. de la persona que siente el dolor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Repartió el tacto para todas las partes del cuerpo, para que si en la planta tuviere la picadura, allí le duela y acuda la mano y el ojo y la lengua a ponelle remedio.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd . 3.31 (R. 27. 347 1 )."
+            },
+            {
+              "texto_cita": "«Por ahora curémonos, que la oreja me duele más del que yo quisiera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 10 (R. 1. 273 2 )."
+            },
+            {
+              "texto_cita": "«De tal manera me duele á mí el cuerpo, que me parece que me han dado mil palos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 16 (R. 1. 285 2 )."
+            },
+            {
+              "texto_cita": "«De cuando en cuando daba Sancho unos ayes profundísimos y unos gemidos dolorosos; y preguntándole D. Quijote la causa de tan amargo sentimiento, respondió que desde la punta del espinazo hasta la nuca del celebro le dolía de manera que le sacaba de sentido. La causa dese dolor debe de ser sin duda, dijo D. Quijote, que como era el palo con que te dieron largo y tendido, te cogió todas las espaldas, donde entran todas esas partes que te duelen, y si más le cogiera, más te doliera.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 28 (R. 1. 464 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por metonimia, Causar dolor.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El cauterio, la operación le dolió.»",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Arria á Peto su marido | Presentándole el acero | Que acababa de sacar | De sus entrañas sangriento | No me duele, no (le dijo) | La herida que hice en mi pecho; | Duéleme sí la que harás | En el tuyo, amado Peto.»",
+          "autor": "",
+          "referencia_obra": "J. Iriarte, trad. de Marc . 1. 14 (1. 252)."
+        },
+        {
+          "texto_cita": "«No son burlas las que duelen, ni hay pasatiempos que valgan si son con daño de tercero.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 62 (R. 1. 534 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Causar pena, aflicción ó sentimiento ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entonces se demuestra más [el amor], cuando más duele lo que hacemos por quien amamos.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 21 (6. 91)."
+            },
+            {
+              "texto_cita": "«Y si vuestra merced ama á una persona mucho, no querria que á él se le quitasen los dolores, si había de ser con condición que se le pasasen á ella, en señal que le dolerían más en ella que le dolerían en él.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 21 (7. 396)."
+            },
+            {
+              "texto_cita": "«Mucho duele en la adversidad faltar los amigos, mas no duele menos ver también lo que los enemigos se gozan.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 19 (1. 297)."
+            },
+            {
+              "texto_cita": "«Duele más el daño propio que alegra el bien ajeno.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 6. 3 (569)."
+            },
+            {
+              "texto_cita": "«Más duele la pérdida que alegra la ganancia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 29, § 6 (R. 6. 115 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Más te dolieron, Señor, los pecados ajenos, que á ningún hombre dolieron los propios.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 81 (2. 50)."
+            },
+            {
+              "texto_cita": "«Si verdadero hijo fuese, más le doloría ver castigado á su padre que si le castigaran a él.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 71 ( Míst . 3. 269)."
+            },
+            {
+              "texto_cita": "«El [castigo] que diere siéntalo primero en su corazón, y duélale porque no puede dejar de dar el cauterio de fuego á un hijo suyo ó hermano.»",
+              "autor": "",
+              "referencia_obra": "Id. Epist . 4, instrucc. § 3 (7. 225)."
+            },
+            {
+              "texto_cita": "«¡Y qué bien hace de quejarse á quien tanto le han de doler sus penas!»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 2. 22 (R. 55. 107 1 )."
+            },
+            {
+              "texto_cita": "«Si les tiene amor [la monja á sus deudos], si le duelen mucho sus penas, y escucha sus sucesos del mundo de buena gana, crea que á sí se dañará, y á ellos no les liará ningún provecho.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cam . perf . 8 (R. 53. 330 1 )."
+            },
+            {
+              "texto_cita": "«Sé que me ayudarás como conviene | Y que mi duelo siempre te ha dolido.»",
+              "autor": "Hern. de Velasco",
+              "referencia_obra": ", Eneida , 1 (1. 50 : Valencia , 1776)."
+            },
+            {
+              "texto_cita": "«Los agravios ajenos y que otros padecen, son los que solamente le duelen; y la alegría y felicidad ajena es la suya.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Amado (3. 347)."
+            },
+            {
+              "texto_cita": "«Dolíanle entrañablemente, como á verdadero justo, las ofensas de Dios y el perdimiento de tantas ánimas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . med . 8, § 2 (R. 8. 524 1 )."
+            },
+            {
+              "texto_cita": "«¡Cuánto sentía y lloraba las ofensas que vía cometer contra Dios! ¡Cuánto le dolía la perdición de las almas!»",
+              "autor": "",
+              "referencia_obra": "Id. serm. en el dom. de las oct. de la Epif . (R. 11. 7 2 )."
+            },
+            {
+              "texto_cita": "«Que poco duele el hado á quien lo espera.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg . 10 (R. 32. 276 2 )."
+            },
+            {
+              "texto_cita": "«Suele | Vengarse bien del recibido daño, | En lo que al alma y á la honra duele.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél . 18 ( Obr. suelt . 2. 286)."
+            },
+            {
+              "texto_cita": "«Herístelos, y no les dolió; quebrantástelos, y rehusaron recibir la corrección.»",
+              "autor": "Scío",
+              "referencia_obra": ", Jerem. 5. 3."
+            },
+            {
+              "texto_cita": "«Nada les duele tanto como confesar que ignoran lo que no han estudiado.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Arte poétic. de Hor. nota 37 (1. 315)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por analogía con pesar , se halla usado como impers. con de . Hoy sería inadmisible.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando tenéis un huésped, no os duele de comprar sólo lo que á él le basta, pero aun compráis para que sobre.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Ven. Esp. Santo , 1 (2. 236)."
+            },
+            {
+              "texto_cita": "«Y entrañablemente le dolía de no la haber conocido, y del haber sospechado, y pidiendo de ello perdón á Dios, se fue á lo pedir á la Virgen.»",
+              "autor": "",
+              "referencia_obra": "Id. Festiv . 2 (5. 51)."
+            },
+            {
+              "texto_cita": "«Díme por tu vida, Lidia amiga, ¿cuánto vale una cinta encarnada para que te duela de verla en poder de Leocadia, ni de que se la haya dado Eugenio?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 13 2 )."
+            },
+            {
+              "texto_cita": "«Dolióme tanto de ver malogrado el trabajo de tantos ingenios, que volví el rostro á aquel examen.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep . (R. 25. 395 2 )."
+            },
+            {
+              "texto_cita": "«Pláceme de tu vida, mas me duele | De ajena muerte.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 4 (R. 42.144 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Es de presumirse que en el siguiente pasaje sobra por errata la prep. después de doler.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ponga todo el tiempo y todo el cuidado que ellas [aquellas obras] requieran, y nunca le duela en detenerse en cosas que los inteligentes han de ver, examinar y juzgar por espacio de muchos siglos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Bayeu (R. 50. 157 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En el siguiente lugar cedió el escritor á la analogía de frases como es de lamentar , es de admirar y otras en que figuran verbos transitivos:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas aun lo que peor es, y más de doler, y que basta para hacer reventar de dolor al cristiano corazón que tiene amor al Señor, es que ---»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 2 (3. 69)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "A quien le duele le duele: expresión familiar con que se da á entender que por más que uno tome parte en las penas ó cuidados de otro, no por eso deja éste de sentirlos.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl . Senfir pena ó aflicción.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar la causa del dolor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se dolía grandemente de verse burlado.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 12. 7 (R. 30. 351 1 )."
+            },
+            {
+              "texto_cita": "«Si aplaudimos el destierro de aquel furor que reinaba en los torneos, dolámonos á lo menos de no haber acertado á mejorarlos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect . 1 (R. 46. 486 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque probablemente se doliese [Atahualpa] en su interior de que el número de sus enemigos se aumentase, le recibió con el mismo buen semblante que á los demás castellanos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 328 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—β )",
+          "definicion": "Con con , para expresar la persona á quien acompañamos en su aflicción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Procura hacer lo que te enseña el Apóstol, que es alegrarte con los que por sus buenos sucesos se alegran, y dolerte con los que se duelen por sus trabajos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 2. 17, § 1 (R. 11. 126 2 )."
+            },
+            {
+              "texto_cita": "«Oyó también el Héspero tus males, | La blanca luna se dolió contigo.»",
+              "autor": "Arguijo",
+              "referencia_obra": ", son . 13"
+            },
+            {
+              "texto_cita": "«R. 32. 393 2 ).",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. dep . Afligido (ant.).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al ánimo dolido --- cuando se congoja y se duele, y cuando la pena le está presente, hacerle presente la culpa es añadirle congoja nueva.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 16 (1. 258)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Refl . En especial, Sentir pena y aflicción por cosa que uno ha hecho, arrepentirse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Pues cómo? ¿A mí no temeréis y delante de mi cara no os doleréis?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del Crist . 5 (R. 11. 184 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar, bajo el concepto de origen, el objeto del dolor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abra pues el hombre los ojos, y póngalos primeramente en la muchedumbre de sus pecados y después en Dios, contra quien pecó, porque cada cosa destas le dirá cuánta razón tiene para dolerse dellos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 2. 2 (R. 8. 217 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , para expresar la causa del dolor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Duélese por haber vanamente gastado el tiempo de la penitencia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 24 (R. 6. 86 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. dep . Arrepentido ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dios no se contenta con perdonar la culpa, sino añade la gracia; no sólo suelta la deuda, sino enriquece con nuevas dádivas; no sólo pierde el enojo, sino ama y abraza al dolido.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 22 (2. 13)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Refl . En especial, Sentir pena ó aflicción por los males de otro, compadecerse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de y un nombre de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Duélete de quien ama tan perdido.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg . 17 (R. 32. 293 2 )."
+            },
+            {
+              "texto_cita": "«Señora mía, si sabéis qué es amor y algún tiempo le tuvistes, y ahora le tenéis a vuestro esposo, doleos de mí, que amo tierna y honestamente al mío.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 116 2 )."
+            },
+            {
+              "texto_cita": "«Doliéndose de mí el cielo, sin duda creo que ha permitido ponerme de la manera que veis.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 9 (R. 1. 208 1 )."
+            },
+            {
+              "texto_cita": "«¡Señor, por amor de Dios, | Que de nosotros te duelas! Lope, Dineros son calidad , 3. 1 (R. 41. 69 3 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«De mi padre, del senado y del imperio mismo me duelo, si acaso nos es necesario el morir, ó (lo que para los buenos no es de menos sentimiento) hacer morir á otros.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Tác. Hist . 1. 29 (24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de y un nombre de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suplícote que te duelas de mis agravios, como entiendes que me duelo yo de los tuyos y los vengo.»",
+              "autor": "",
+              "referencia_obra": "P.S. de Abril, Cic. Fam . 8. 13 (2. 477)."
+            },
+            {
+              "texto_cita": "«Tú amaste, y como yo, también supiste | Del mal dolerte.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 9 (R. 32. 323 1 )."
+            },
+            {
+              "texto_cita": "«¡Ay qué contraste fiero, | Señora, hay entre el alma y los sentidos | Por decir que os doláis de los gemidos!»",
+              "autor": "Mend.",
+              "referencia_obra": "madrigal 4 (R. 32. 50 2 )."
+            },
+            {
+              "texto_cita": "«Porque no se pierdan | Suspiros tan tiernos, | Ella los recoge, | Que se duele dellos.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, end . 2 (70)."
+            },
+            {
+              "texto_cita": "«Todavía es consuelo en las desgracias hallar quien se duela de ellas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 24 (R. 1. 309 2 )."
+            },
+            {
+              "texto_cita": "«No ha querido nuestra corta suerte que muriésemos en nuestra patria y entre los nuestros, donde ya que no hallara remedio vuestra desgracia no faltara quien della se doliera, y en la última hora de nuestro pasamiento nos cerrara los ojos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 55 (R. 1. 520 1 )."
+            },
+            {
+              "texto_cita": "«Respondióles que agradecía su cuidado y lo que se dolían de los trabajos de los griegos.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 21 (R. 21. 21 1 )."
+            },
+            {
+              "texto_cita": "«Mas ¡ay! que en vano pido | Te duelas de mi daño, pues tampoco | Sientes el tuyo, ninfa, en la carrera.»",
+              "autor": "Jáur.",
+              "referencia_obra": "silva En la espesura (R. 42. 118 2 )."
+            },
+            {
+              "texto_cita": "«Viendo con sus ojos las necesidades, se dolerían dellas y las remediarían.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon . 26 (R. 25. 503 2 )."
+            },
+            {
+              "texto_cita": "«Espera pues, alma mía, y confía en tu Dios, que se dolerá de tu aflicción, y te librará de las garras de tus enemigos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 231 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. dep . Compadecido ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo lloraré tanto | Que la alma dolida | De mi triste vida | Se convierta en llanto.»",
+              "autor": "",
+              "referencia_obra": "F. de la Torre, 3, end . 10 (85)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g)",
+      "definicion": "Refl . Quejarse, explicar el dolor que uno siente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cómo en son no te dueles doloroso, | Pues hay tanta razón para quejarte | Del fiero turbador de tu reposo?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 21 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el objeto de la queja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como á la madre diese un anillo de plata y al ama un collar de oro, y como la madre indignada de esto se doliese de él, le respondió que no tenía razón.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 18 (3. 508)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , para expresar la persona á quien se declara la queja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sintió, como era razón, que no se hubiese ejecutado su orden, enviando infantería á las puertas como lo había prevenido y mandado á monsieur de Rona, con quien se dolió de aquel descuido.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 118 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E quiere que el pecador | Non muera, mas que se duela.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var . 112 (288)."
+        },
+        {
+          "texto_cita": "«Merçed vos demando que d'él vos dolades.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 301. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«La guerra quiere costa, et que non se duela de dar el que anda en ella.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1, pról . ( Bibl. venat. 1. 8)."
+        },
+        {
+          "texto_cita": "«Decia --- que toda la tierra era perdida por la mengua del rey, é él más lo decia por querer aver el poder de todos los reinos, que non porque se doliese de la tierra.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 16 (R. 66. 161 1 )."
+        },
+        {
+          "texto_cita": "«Fase doler la cabeza al que lo mucho coma.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1519 (R. 57. 275 1 )."
+        },
+        {
+          "texto_cita": "«De su muerte debemos dolernos e acordar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1033 (R. 57. 260 1 )."
+        },
+        {
+          "texto_cita": "«Tira un virote ó saeta de que se non duele mucho; et si mata aquella caza que tira, tiene por bien empleado aquel virote; et si yerra, tiene que ha poco perdido.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Libr. de los est . 2. 1 (R. 51. 341 1 )."
+        },
+        {
+          "texto_cita": "«Et non se doldrá de aventurar el cuerpo porque ellos sean defendidos et honrados.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 81 (R. 51. 328 1 )."
+        },
+        {
+          "texto_cita": "«Si home tiene que es piedat dolerse de cualquier que está en cuita, muy mayor piadad es dolerse de cualquier que puede perder el alma.»",
+          "autor": "",
+          "referencia_obra": "Id. Libr. de los predic . (R. 51. 366 2 )."
+        },
+        {
+          "texto_cita": "«Yo vos he á decir tres razones. La primera, rogarvos que vos dolades de la mi alma.»",
+          "autor": "",
+          "referencia_obra": "Id. Tract. sobre las armas (R. 51. 262 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E comenzó á sospirar é á dolerse mucho.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 42 (R. 51. 167 1 )."
+        },
+        {
+          "texto_cita": "«Ca el fuera ferido de una saeta en la facienda, é dolíale mucho la llaga.»",
+          "autor": "",
+          "referencia_obra": "Ib . 35 (R. 51. 156 2 )."
+        },
+        {
+          "texto_cita": "«Por piedat se duele home del mal de su prójimo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 30 (R. 51. 145 1 )."
+        },
+        {
+          "texto_cita": "«Cuando la cabeza duele, todos miembros se sienten.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3 (R. 51. 93 1 )."
+        },
+        {
+          "texto_cita": "«Pues que en la mia tierra me fallece quien me había de servir é ayudar, forzoso me es que en la agena busque quien se duela de mí.»",
+          "autor": "",
+          "referencia_obra": "Carta de Alf . X á Guzmán el Bueno , año 1282 ( Part . 1. XVII )."
+        },
+        {
+          "texto_cita": "«Doliale la muerte de su fijo como se deue doler padre.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 2. 10 (150 1 )."
+        },
+        {
+          "texto_cita": "«Puede --- quitarle de aquella pena que mandó que pechase, si se quisiese doler dél.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 22. 4 (2. 658)."
+        },
+        {
+          "texto_cita": "«Naturalmente se deben los hombres doler de los de su ley quando caen en cativo en poder de los enemigos.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 29, preámb . (2. 326)."
+        },
+        {
+          "texto_cita": "«El pecador debe ser mesurado en la tristeza que hobiere doliéndose de sus pecados.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 10. 15 (1. 367)."
+        },
+        {
+          "texto_cita": "«Mugieres que passaban doliense del Sennor.»",
+          "autor": "Berc.",
+          "referencia_obra": "Sacrif . 228 (R. 57. 87 2 )."
+        },
+        {
+          "texto_cita": "«Madre, mucho me duelo de los tus grandes males.»",
+          "autor": "",
+          "referencia_obra": "Id. Dueto , 81 (R. 57. 134 1 )"
+        },
+        {
+          "texto_cita": "«En la carrera do yua doliol el coraçon.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2767 (R. 57 . 29 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. doer ; cat. dóldrer ; prov. doler ; fr. douloir ; it. dolere ; vál. duré: del lat. dolere , que muchos consideran como cognado de dolare , labrar, desbastar, por manera que sería una metáfora parecida á estar quebrantado .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas: duel-o , es , e , en ; duel-a , as , a , an ; duélete . El futuro doldré , que se oye en alguna parte de América, se halla en castellano antiguo. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,233 @@
+{
+  "lema": "TAMBIÉN.",
+  "categoria_gramatical": "",
+  "introduccion": "TAMBIÉN.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "adv .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Denota igualdad, semejanza, conformidad o relación de una cosa con otra ya nombrada, Asimismo, igualmente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque también se padece naufragio en el puerto, como en la mar.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 2. 2. 2 (5. 561 2 )."
+            },
+            {
+              "texto_cita": "«No era razón que habiendo tantas maneras de medicinas para curar nuestros cuerpos, no hubiese también medicinas para curar las ánimas.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 3. 8 (2. 478 1 )."
+            },
+            {
+              "texto_cita": "«Yo consiento, dijo Juliano, y Marcelo dijo, que también consentía, aunque le tenía por algo sospechoso juez.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, introd . (3. 280). X"
+            },
+            {
+              "texto_cita": "«Por encima de la loba le ceñía y atravesaba un ancho ahelí, también negro, de quien pendía un desmesurado alfanje de guarniciones y vaina negra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 36 (Cl. C. 19. 16). X"
+            },
+            {
+              "texto_cita": "«No podemos dudar que éste fuese también uno de los ejercicios de destreza y valor a que se dieron por entretenimiento los nobles de la Edad Media.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect. (Cl. C. 110. 253). X"
+            },
+            {
+              "texto_cita": "«Conociendo a Fernanda como la conocía y habiéndoselas arreglado más tarde para conocer a Petra Cotes, le concedió la razón a su padre. También ella hubiera preferido ser la hija de la concubina.»",
+              "autor": "García Márquez",
+              "referencia_obra": ", Cien años de soledad , p. 249."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se emplea como respuesta positiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y caminarme sin aflojar la plata? —También. ¡Yo soy muy romántica! Ya te digo que de no hallarme tan en deuda con la madrota...»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Tirano Banderas , 3. 2. 1 (p. 65). X"
+            },
+            {
+              "texto_cita": "«No está muerto. Y esta mujer que cruza, ¿quién es? (Los mira) Claro. Vosotros no lo sabéis. Yo, sí. —¿Sí? ¿Y el señor del hongo? —(Grave.) También.»",
+              "autor": "Buero Vallejo",
+              "referencia_obra": ", El tragaluz (Cl. Castal. 35. 230)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Forma la expresión Así también: de la misma manera. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Del mismo modo el ordenando, el graduando y el consecrando, reciben de otras personas las órdenes, los grados y la consagración. Así también es patente que la sangría y la curación provienen de agentes distintos del enfermo.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños , 3 (p. 352)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Además, al mismo tiempo. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si una villana me conoce, ¿qué haré cuando todas me tomen en plática? Que mi casa será colmena, y también, si yo asiento en mi casa, no me faltarán muchos que yo tengo ya domados, y mitirillo por encarnazar, y será más a mi honra y a mi provecho, que no tomo sabor en casa de otrie.»",
+          "autor": "Delicado",
+          "referencia_obra": ", La Lozana (Cl. Castal. 13. 172). X"
+        },
+        {
+          "texto_cita": "«Ya veis cuál y cuánto mayor será la [pena] del pobre, que se ve desposeído de lo uno y de lo otro, y también de sí mismo.»",
+          "autor": "León",
+          "referencia_obra": ", Cantares , 7 (4. 126)."
+        },
+        {
+          "texto_cita": "«Pero también no tenía en tanto su agravio cuanto la furia de una nación entera.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal. 2 (R. 21. 477 2 ). X"
+        },
+        {
+          "texto_cita": "«Fáltale también el acierto en sus limosnas, pues las mide por el gusto y el disgusto que le dan las personas a quien las reparte, no por la necesidad, ni por Dios puramente, sino por la mezcla de su antojo o enojo.»",
+          "autor": "Nieremb.",
+          "referencia_obra": "Epist. 11 (Cl. C. 30. 67)."
+        },
+        {
+          "texto_cita": "«¿Quién ha visto jamás, ni quién ha oído | Más extraña pasión, más importuna, | Ni más loca también?»",
+          "autor": "Quint.",
+          "referencia_obra": "Trad. del Past. Fido , 3 (R. 19. 22 1 ). X"
+        },
+        {
+          "texto_cita": "«La calle es la espina dorsal del barrio | Es también el penthause del linyera | Un bostezo en la acera de sombra.»",
+          "autor": "Benedetti",
+          "referencia_obra": ", Ciudad ( La casa , p. 71)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Tanto o así. +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tenemos necesidad de remedios y medicinas compuestas, también como de simples.»",
+          "autor": "P. Mexía",
+          "referencia_obra": ", Coloq. 1 (p. 54). +"
+        },
+        {
+          "texto_cita": "«Supo Dios bien lo que dijo en lo que habéis romanzado de las malas mujeres, también como en todo lo demás que dice.»",
+          "autor": "",
+          "referencia_obra": "J. de Pineda, Agr. crist . 6. 19 (R. 162. 40 2 ). +"
+        },
+        {
+          "texto_cita": "«Las Sirenas y Calipso y Circe, figuras de las malas mujeres también como las Hespérides, todas se dicen morar en islas del mar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 8. 8 (R. 162. 166 1 ). +"
+        },
+        {
+          "texto_cita": "«La corneja dice con su canto cras , cras , que quiere decir mañana, mañana, también como el canto de los cuervos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 9. 24 (R. 162. 251 1 ). +"
+        },
+        {
+          "texto_cita": "«Si el vino es poco y bien aguado, se confortan los niervos, como son ofendidos con la demasía, también como los ojos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 10. 18 (R. 162. 300 1 ). X"
+        },
+        {
+          "texto_cita": "«¿Por qué también no lo ha hecho | Para no ofender al Conde?»",
+          "autor": "Alarcón",
+          "referencia_obra": ", Los pechos privilegiados , 1 (Cl. C. 147. 9). X"
+        },
+        {
+          "texto_cita": "«Fue esta la causa para que yo pensase en el doctor Miguel Abadía Méndez en los últimos días de mi encargo, atendiendo también a su origen caucano y a las sobresalientes circunstancias que lo rodean en virtud de su experiencia, ilustración y talentos.»",
+          "autor": "M. F. Suárez",
+          "referencia_obra": ", Sueños , 3 (p. 36)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "conj . Une el contexto de la oración en que hay dos extremos que se parecen entre sí, en lo que se afirma o se niega de ellos. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vos sabéis más de las cosas españolas que yo, nunca avía oído esta copla, y de veras que me contenta mucho en su arte. Y también los dos vocablos me parecen bien, y terníalos por arávigos, sino que aquel holagüeña me huele un poco a latino; del çahareña casi no dubdo.»",
+          "autor": "Valdés",
+          "referencia_obra": ", Diál. (Cl. C. 86. 113)."
+        },
+        {
+          "texto_cita": "«Así como estoy obligado a obedeceros, así también lo estoy a entregarme y ofrecerme a vos.»",
+          "autor": "Gran.",
+          "referencia_obra": "Mem. vida crist . 5 (3. 54 2 ). X"
+        },
+        {
+          "texto_cita": "«Ventana es el oído por donde entra la muerte, envuelta en la murmuración del prójimo, y en el cuento deshonesto y torpe; y también lo es la lengua y los demás sentidos, y estos son menester guardar.»",
+          "autor": "",
+          "referencia_obra": "M. de Chaide, Magd . 3. 17 (Cl. C. 105. 156). X"
+        },
+        {
+          "texto_cita": "«El oficial salió triste y desconsolado: Benavídez y Maradona pasaron luego a caballo, preocupados también ellos del rumbo que tomaría el asunto.»",
+          "autor": "D. F. Sarmiento",
+          "referencia_obra": ", Recuerdos de Prov . p. 137. X"
+        },
+        {
+          "texto_cita": "«Va para cuatro veces que vivo engañado... —¿A mí también?... ¿A mí? ¿Engañarme tú a mí?»",
+          "autor": "Isaacs",
+          "referencia_obra": ", María , p. 137. X"
+        },
+        {
+          "texto_cita": "«Mujer, pues yo juraría que esta casa la había visto yo antes de ahora... | —¡Ah! También tú... También tú...»",
+          "autor": "J. Poncela",
+          "referencia_obra": ", Eloísa , 2 (p. 150)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tanbién pensé que para ello me ayudaran virtud y conpación y piedad.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Cárcel de amor (Cl. C. 133. 186). X"
+        },
+        {
+          "texto_cita": "«Debes también de considerar que como por espeçial prerrogativa y privillegio de la graçia divina en la silla Apostólica de Roma al apóstol sanct Pedro suçedió otro tal que es Gregorio, así Isidoro, no menor que Gregorio, suçedió en España al Apóstol Santiago.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Vida de S. Isid. (Cl. C. 134. 69). — Siglo XIII: +"
+        },
+        {
+          "texto_cita": "«Creyen [los gentiles] que quando el omne moríe, que todo moríe, tan bien el cuerpo commo el alma.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Seten. ley 103 (p. 228). X"
+        },
+        {
+          "texto_cita": "«Nunqua fue Illefonso de maior dignidat, | Tanbién so consegrado como él por verdat, | Todos somos eguales enna umanidar.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 1 (Cl. C. 44. 18)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de tan y bien . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

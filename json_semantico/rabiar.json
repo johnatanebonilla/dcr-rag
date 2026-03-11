@@ -1,0 +1,413 @@
+{
+  "lema": "RABIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Padecer o tener el mal de rabia ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ay perros que no le entienden, | Y morderán como rabien, | Ni ay cosa que más codicien | Que los ábitos de un fraile.»",
+              "autor": "Lope",
+              "referencia_obra": ", El saber por no saber , p. 292 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«No ves aquel perro negro, 1 Que va huyendo y rabiando?»",
+              "autor": "Fdz. Gómez",
+              "referencia_obra": ", Vocab. de Lope ). +"
+            },
+            {
+              "texto_cita": "«Es cosa muy notable y digna de advertir, que nunca en estas Indias se haya visto rabiar perro ni otro animal.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo , 1. 10. 9 (R. 91. 389 2 ). X"
+            },
+            {
+              "texto_cita": "«Porque la gata, como maya tanto --- digo: | Si se queda allí encerrada | Y empieza a rabiar.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. (2. 438)."
+            },
+            {
+              "texto_cita": "«La embajada vino bien | Para achacar mil horrores | A Alfonso; y si da la gente | En decir que rabia el gozque, | Sea verdad o no sea, | Todos a matarle corren.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Alfonso el Casto , 1. 8 (p. 56)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por y una prop. infinitiva, que indica la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suelen assimismo rabiar los perros, por haber comido algunas carnes hediondas y corrompidas.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Diosc . 6. 36 ( Dicc. Autor )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Padecer un vehemente dolor, que obliga a prorrumpir en quejidos o gritos ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Considera que el que rabia, | Con el dolor nunca agravia | En publicallo.»",
+              "autor": "Mend.",
+              "referencia_obra": "Redond . (R. 32. 90 1 ) X"
+            },
+            {
+              "texto_cita": "«¡Cielos! ¡Peno, muero, rabio!...»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Las mocedades del Cid , 1 (Cl. C. 15. 20). X"
+            },
+            {
+              "texto_cita": "«Este parecer nace de la noble confian'a que as echo de mí; más quiero rabiando padecer, que destruyr tu fama.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 1. 13 (Cl. C. 202. 128). X"
+            },
+            {
+              "texto_cita": "«¡Ay de mí, si este villano | Se atreve a mi fama honesta; | Que si de lo que no hizo | Se alaba, esta daga fiera | Le sacará el corazón, | Y haré que rabiando muera!»",
+              "autor": "M. de Amescua",
+              "referencia_obra": ", La Fénix de Salam . 1. (Cl. C. 82. 45). X"
+            },
+            {
+              "texto_cita": "«Pero en medio de esta fiesta hacia un rincón de la sala se oyó un horroroso estruendo, como de uno que rabia; a cuya impensada novedad acudieron luego todos.»",
+              "autor": "Torres Villarroel",
+              "referencia_obra": ", Pronósticos , 2 (1. 189). X"
+            },
+            {
+              "texto_cita": "«Al despensero le quité ayer un dolor de muelas, que rabiava como un perro por la canícula.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , p. 226 ( Fdz. Gómez , Vocab. de Lope )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , que señala la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los glotones rabiarán con perpetua hambre y sed.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 1. 1 (2. 396 1 ). X"
+            },
+            {
+              "texto_cita": "«Al día siguente a la misma hora todavía estaba como entonces, rabiando con el dolor de las axilas.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Cien años de soledad , p. 120."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , con sentido análogo al anterior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién te librará de aquellos leones que rabian de hambre y están aparejados para tragar?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y medit . 1. 2. 3 (2. 103 2 )."
+            },
+            {
+              "texto_cita": "«Como aquel día no había comido casi nada, rabiaba de hambre, la cual con el sueño no tenía amistad.»",
+              "autor": "Lazar.",
+              "referencia_obra": "3 (R. 3. 85 1 ). X"
+            },
+            {
+              "texto_cita": "«Salía la dama con un chiquillo de la mano, ella y el chico rabiaban de hambre.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr (2. 264)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la expresión en medio de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiempo había de llegar en que si te hubieras condenado, podrías decir con verdad, después de mi muerte, desde que estoy rabiando en medio de este fuego, aquella hormiga hubiera transportado ya toda la arena, y toda la tierra del Universo.»",
+              "autor": "Isla",
+              "referencia_obra": ", Año christ . 26 (p. 401)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Impacientarse o enojarse con muestras de cólera y enfado ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y cuando más el desventurado raviare y se despechare, y ansioso se bolviere a mil partes, no podrá formar quexa sino es de sí solo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Braço (Cl. C. 33. 74). X"
+            },
+            {
+              "texto_cita": "« Secula seculorum es tamaño | Muy niño, y el Diluvio con sus truenos; | Ella y la sierpe son ni más ni menos; | Y el rey que dicen que rabió, es hogaño.»",
+              "autor": "Quev.",
+              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 187). X"
+            },
+            {
+              "texto_cita": "«Como ya no pueden lucir, rabían cuando otros lo lucen.»",
+              "autor": "Isla",
+              "referencia_obra": ", Fr. Ger. 3. 6 (Cl. C. 149. 311). X"
+            },
+            {
+              "texto_cita": "«Está un marido rabiando, | Hecho un diablo del infierno | Contra su muger, encarga | Para apurar sus recelos | A un criado, que la observe ---.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña , 2 (p. 55). X"
+            },
+            {
+              "texto_cita": "«Y si le dices que me amas a mí sola, si ella te conserva algún afecto, y al oirlo rabia... ¡Oh! si rabia, avísamelo; quiero tener ese gusto.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Familia de L. Roch , 1. 1 (1. 23)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , que indica la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rabio de enojo, y muero de despecho.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La casa de los celos , 1 ( Com . 1. 65)."
+            },
+            {
+              "texto_cita": "«Dió en seguirme adonde quiera que fuese, y hacerme cortesías, y rondar la casa, todo sin duda para que mi hermana lo supiera y rabiase de envidia.»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos , 3. 1 (R. 2. 454 2 ). — El término es una prop. infinitiva. X"
+            },
+            {
+              "texto_cita": "«Cómese de polo a polo | Quien come aqueste maná: | Cómese tanto que rabio | De ver lo que el hombre come, | Y de que coma me agravio.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 304). — Además con por ."
+            },
+            {
+              "texto_cita": "«Anda rabiando dellos por mí.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 22 (R. 18. 422 1 ). — El término es una prop. infinitiva."
+            },
+            {
+              "texto_cita": "«Yo rabiaba de cólera y enojos, | Por no haberme en la venta aprovechado.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 7 (R. 17. 454 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rabiaron los vecinos por el nuevo impuesto de alumbrado y los propietarios protestaron en todos los tonos por el desembolso a que la ley los obligó con el enlosado de las aceras, que ordenó el alcalde.»",
+              "autor": "R. Silva",
+              "referencia_obra": ", Artíc. cost . p. 194."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con sin y una prop. infinitiva. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si echase de la boca sin pasarlo a las tripas el vino que una vez hubiese puesto en ella, acabaría rabiando sin hallar consuelo para tan grande pérdida.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", El sagaz Estacio , 3 (Cl. C. 57. 222)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "met. Con la expresión en medio de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Qué breve alegría! | ¡Ojalá si fuera! | Que quizá algún día | Contento viviera. | Ellos nunca ven, | Como yo bien veo, | En medio del bien | Rabiar el deseo.»",
+              "autor": "Mend.",
+              "referencia_obra": "Poes. end. (R. 32. 89 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Forma la expresión Hacer rabiar a alguien : hacerlo enfadar, exasperarlo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para Marichu no había mejor diversión que la de burlarse de todo y de todos y hacer rabiar hasta a los niños de teta.»",
+              "autor": "Trueba",
+              "referencia_obra": ", Breve antol . p. 48. X"
+            },
+            {
+              "texto_cita": "«En la resolución de Helena entraba por mucho el hacerme rabiar y sufrir, el darme dentera, el rebajarme a Abel, y en la de éste el soberano egoísmo, que nunca le dejó sentir el sufrimiento ajeno.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Abel Sánchez , 5 (p. 32)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Desear una cosa con vehemencia ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con por y una prop. infinitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De la otra parte el araucano bando | Sujeta a lo que su caudillo ordena | Rabiaba por cerrar; mas la obediencia | Le pone duro freno y resistencia.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 5 (R. 17. 22 1 ). X"
+            },
+            {
+              "texto_cita": "«Rabiaba Sancho por sacar a su amo del pueblo, porque no averiguase la mentira de la respuesta que de parte de Dulcinea le había llevado a Sierra Morena.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 9 (Cl. C. 13. 172). X"
+            },
+            {
+              "texto_cita": "«Yo rabiaba ya por comer y por cobrar mi hacienda.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón (Cl. C. 5. 144)."
+            },
+            {
+              "texto_cita": "«Eres la primera doncella | Que no rabia por casarse.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El examen de maridos , 3. 4 (R. 20. 481 3 )."
+            },
+            {
+              "texto_cita": "«Y así considere usted | Como estaré yo rabiando | Por hablar de su casorio.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El filósofo casado , 1. 4 (5. 16)."
+            },
+            {
+              "texto_cita": "«Ya rabiamos por verle [el nuevo hijo].»",
+              "autor": "Jovell.",
+              "referencia_obra": "Cartas (6. 185). X"
+            },
+            {
+              "texto_cita": "«Tu rabias | Por hacer gran papelón.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. (2. 399). X"
+            },
+            {
+              "texto_cita": "«Me parecía que doña Javiera estaba rabiando por entroncar con vendesol.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc.)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. Con por y una prop. subjuntiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con todo esto me salen a la lengua y a la boca ciertos pensamiento, que rabian por que los ponga en voz.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2. 5 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Locuciones adv.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "A rabiar : mucho. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se ve otra cosa en el teatro todos los días, y siempre gusta, y siempre lo aplauden a rabiar.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr . (2. 215). X"
+            },
+            {
+              "texto_cita": "«Le aplaudieron a rabiar. Por cierto que lo que leyó se parece bastante a los poemitas de Coppée, que tanto me gustan.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Que rabia ( n ): mucho.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con pan me sabe | Que rabia, y más si hago sopas.»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza del natural , 1. 8 (R. 39. 213 2 )."
+            },
+            {
+              "texto_cita": "«Cierto que canta que rabia.»",
+              "autor": "Mto.",
+              "referencia_obra": "Lo que puede la aprehensión , 1. 4 (R. 39. 169 3 ). X"
+            },
+            {
+              "texto_cita": "«Suele, tal vez, | Ocupar una floresta | Importuna multitud | De cigarras vocingleras; | Cantan que rabian, y nunca, | Hasta reventar, lo dejan.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr . (4. 264)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Raviar, rabio , -is , -iui. Lymphor , -aris .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab . X"
+        },
+        {
+          "texto_cita": "« Rabire : raviar.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab . 409b. — Siglo XIII : X"
+        },
+        {
+          "texto_cita": "«Facen los corazones de los homnes rabiar de duelo; e bien cenro que ellas ficieron aquellas señales por mostrarme cual habie a seer el mio fado.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Antol . p. 84. X"
+        },
+        {
+          "texto_cita": "«Bien ploren los mios oios, non çesen de manar, | El corazón me rabia, non me puede folgar | Aciago es oy, bien nos debe membrar | Los siervos de mi fijo debenlo bien guardar.»",
+          "autor": "Berc.",
+          "referencia_obra": "Duelo , 140b (R. 57. 135 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de rabia y éste del lat. rabies , -ei ‘rabia, furia, ira, delirio’. It. arrabbiare , fr. rager .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "Se conjuga dejando átona la i , que funciona como semiconsonante constituyendo diptongo con la vocal que sigue. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

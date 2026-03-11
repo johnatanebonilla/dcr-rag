@@ -1,0 +1,192 @@
+{
+  "lema": "ANIMOSO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que tiene ánimo y valor.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El que en el palenque puesto | Teme á su contrario, yerra; | Y está el que animoso cierra | A la victoria dispuesto.»",
+          "autor": "Cerv.",
+          "referencia_obra": "El rufián dichoso, 2 ( Com. 2. 38)."
+        },
+        {
+          "texto_cita": "«Yo le libraré su remedio en la fuerza de mi brazo y en la intrépida resolución de mi animoso espíritu.»",
+          "autor": "",
+          "referencia_obra": "Id. Quij. 2. 36 (R. 1. 483 2 )."
+        },
+        {
+          "texto_cita": "«Queda el ánima animosa, que si en aquel punto la hiciesen pedazos por Dios, le sería gran consuelo.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida, 19 (R. 53. 61 2 )."
+        },
+        {
+          "texto_cita": "«Vese el pérfido bando | En la fragosa, yerta, aérea cumbre, | Que sube amenazando | La soberana lumbre, | Fiado de su animosa muchedumbre.»",
+          "autor": "Herr.",
+          "referencia_obra": "1, canc . 6 (R. 32. 287 1 )."
+        },
+        {
+          "texto_cita": "«Cuidó de que anduviesen delante dél alegres y animosos los españoles.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj. 4. 6 (R. 28. 310 2 ). — Sup ."
+        },
+        {
+          "texto_cita": "«Julio César, animosísimo y valentísimo capitán, fue notado de ambicioso y algún tanto no limpio, ni en sus vestidos ni en sus costumbres»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 2 (R. 1. 409 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en, para expresar la cosa en que se muestra valor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Animoso en los peligros.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            },
+            {
+              "texto_cita": "«Tú perdiste un romano generoso en la sangre, modesto en las prosperidades, animoso en los trabajos, solícito en los negocios.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 86)."
+            },
+            {
+              "texto_cita": "«Tan animosa es [la multitud] en las resoluciones arriscadas como en las injustas, porque, repartido entre muchos el temor ó la culpa, juzga cada uno que ni le ha de tocar el peligro ni manchar la infamia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 10 (R. 25. 33 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con para , á fin de expresar la cosa que se puede hacer ó intentar con ánimo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De los franceses, por estar más cerca, vino mayor número: gente muy alegre y animosa para tomar las armas, no tan sufridora de trabajos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 9. 16 (R. 30 . 266 2 )."
+            },
+            {
+              "texto_cita": "«Hale mudado el Señor casi del todo, de manera que casi él no se conoce, á manera de decir, y dado fuerzas corporales para penitencia que antes no tenía, sino enfermo, y animoso para todo lo que es bueno.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter . Vida, 34 (R. 53. 105 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con menos frecuencia se usa en igual sentido por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Animoso por vencer, | Saldré al campo á pelear.»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Las mocedades del Cid , 1ª pte . 3 (R. 43. 256 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar la cosa que se puede acometer con valor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Animoso á los peligros.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            },
+            {
+              "texto_cita": "«Pocos veo verdaderos contemplativos, que no los vea animosos y determinados á padecer.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf. 18 (R. 53. 340 1 ; dice sólo animosos )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á cosas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Alcemos, pues, con tiempo la licencia | Al curioso temor: vamos por donde | Nuestra animosa ceguedad nos guía.»",
+          "autor": "",
+          "referencia_obra": "B Argens. son. Solo ofende el agüero (R. 42. 327 1 )."
+        },
+        {
+          "texto_cita": "«¿Ves el furor del animoso viento | Embravecido en la fragosa sierra?»",
+          "autor": "Garcil.",
+          "referencia_obra": "égl . 3 (R. 32. 23 1 )."
+        },
+        {
+          "texto_cita": "«Entre los animosos vientos puesto, | Levanta su tridente.»",
+          "autor": "F. de la Torre",
+          "referencia_obra": ", 1, oda 2 (8)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Qué exige ó entraña valor.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vanos fueron los consejos animosos, aunque convenientes, que daban á Vitelio; porque, no teniendo valor para ejecutallos, se mostraba sordo á ellos.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 36 (R. 25. 94 2 )."
+        },
+        {
+          "texto_cita": "«No hay quien lo crea si no ha pasado por ello, y ansí no creen á la pobre alma, como la han visto ruin, y tan presto la ven pretender cosas tan animosas; porque luego da en no se contentar con servir en poco al Señor, sino en lo más que ella puede.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 20 (R. 53. 67 1 )."
+        },
+        {
+          "texto_cita": "«Hago, Fili, en el alma ausente | Para hablarte animosas prevenciones; | Y tú con un mirar las descompones.»",
+          "autor": "",
+          "referencia_obra": "B. Argens. son. que empieza así (R. 42. 297 1 )."
+        },
+        {
+          "texto_cita": "«El entendimiento se esfuerza con más animosas luces, cuanto más de cerca trata los confines de la muerte.»",
+          "autor": "Quev.",
+          "referencia_obra": "Prov. de Dios (R. 48. 181 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fue rey de gran discrecion, | Esforzado e animoso.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var . 212 ( Rim. inéd. 303)."
+        },
+        {
+          "texto_cita": "«Tanto fuerte et animosa | Fue la su comunidad, | Que en toda estremidad | Aborreció el servir.»",
+          "autor": "",
+          "referencia_obra": "Id. Ib. 18 ( Ib. 274)."
+        },
+        {
+          "texto_cita": "«Viril fue la vista que pudo miralla | Sin temor de muerte, é mas que animosa.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 122. —"
+        },
+        {
+          "texto_cita": "«Demostraba vuestro devoto é animoso propósito.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 37 (31 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat . animosus, deriv. de animus , ánimo . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

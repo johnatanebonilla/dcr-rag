@@ -1,0 +1,179 @@
+{
+  "lema": "ENCAPRICHARSE.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Empeñarse en sostener, desear o conseguir algo por mero antojo o capricho ( refl. ) Se construye normalmente con un compl. (sust., infinit. o prop.) precedido de prep. , para indicar el objeto del capricho.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Miserablemente se han encaprichado algunos ingenios de taracea en creer que son sabios porque saben leer los Mercurios.»",
+              "autor": "Forner",
+              "referencia_obra": ", Carta del tonto de la duquesa de Alba (R. 63. 346 1 )."
+            },
+            {
+              "texto_cita": "«Se encaprichó en que no había de aprender el arte de embrollar pleitos.»",
+              "autor": "",
+              "referencia_obra": "Id. Exe quías de la lengua castell., pról. (R. 63. 378 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con la prep. con. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi mujer se ha encaprichado con ese collar.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. s. v ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien se mata, ora Cayo, ora Sempronio, | No es un sabio; es un fatuo encaprichado, | Que hace un crimen proscrito y reprobado | Por toda ley.»",
+              "autor": "Forner",
+              "referencia_obra": ", Poes. son. 22 (R. 63. 319 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni estaba tan encaprichado con todas las opiniones antiguas, como lo suelen estar los que no han estudiado otras.»",
+              "autor": "Isla",
+              "referencia_obra": ", Fr. Ger. 2. 5 (R. 15. 111 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto --- dejó a mi buen hombre tan encaprichado en la idea de que algún espíritu benévolo se encargaba de su prosperidad ---.»",
+              "autor": "Mesonero",
+              "referencia_obra": ", Panor. Pretender por alto (p. 187)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Cuando el objeto del capricho es el amor o atracción sexual hacia una persona, equivale a Enamorarse irreflexivamente. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nada tiene de extraño que Justa se enamorara o se encaprichara.»",
+              "autor": "Cid",
+              "referencia_obra": ", 2 (1. 114)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo le diré que cometería un absurdo si se encaprichara por ese títere.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La coja y el encogido , 2. 3 (293). x"
+            },
+            {
+              "texto_cita": "«Se encapricha por una bella esclava.»",
+              "autor": "Sánchez",
+              "referencia_obra": "-Albornoz, España, un enigma hist . 1 (p. 580)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si tuvieras quince años, sí, me inspirarías algún temor, porque a esa edad se encapricha una de cualquiera, sin hacerse cargo de nada.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria, 2. 1 (269)."
+            },
+            {
+              "texto_cita": "«Su hija de usted se había encaprichado de ese doncel.»",
+              "autor": "",
+              "referencia_obra": "Id. Juan de las Viñas , 1. 6 (313)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con con . x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si se encapricha con su amiga, mejor y mejor.»",
+              "autor": "Reyes Aguilar",
+              "referencia_obra": ", Cartucherita (ed. 1911), p. 117."
+            },
+            {
+              "texto_cita": "«Él, desde que se encaprichó con la Amparo, andaba pensando en establecerse.»",
+              "autor": "A. Reyes",
+              "referencia_obra": ", Cielo azul , p. 7. x"
+            },
+            {
+              "texto_cita": "«Se ha encaprichado con ese muchacho y no hay quien la convenza de que es un inútil.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. sb. voc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque Martina sea la mujer más asombrosa que yo me he echado a la cara en todos los días de mi vida, y aunque yo esté encaprichado como un majadero, hay que tener firme la cabeza.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 3 (1. 244)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Rara vez se encuentra como trans . con el sentido factitivo de Hacer que alguien se encapriche. En tal caso la persona en quien se produce el capricho pasa a acus. x",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Su modo insultante y desabrido, disgustando los animos de los que las seguían, los encaprichó más en ellas.»",
+          "autor": "",
+          "referencia_obra": "Feijoo, Cartas , t. 5, p. 211. x"
+        },
+        {
+          "texto_cita": "«Me ensalzan porque intrigo, porque mi tipo afeminado encapricha a las señoras.»",
+          "autor": "Pardo Bazán",
+          "referencia_obra": ", Quimera , P. 108."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y caprichar , y éste de capricho ( < it. capriccio ‘antojo’). La forma caprichar , como intrans. , se encuentra en Salas Barbadillo (NBAE. 17. 252 1 ): +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dádselos [los ducados] luego doblados, | Y advertir, por vida mía, | Que este caprichar gallardo | Sólo es para un majadero | Que tenga mucho dinero. | --- | ¿Qué hombre, que se determina | A tan noble caprichar, | Naciese sujeto a echar | A otro una melecina?»",
+          "autor": "Corominas",
+          "referencia_obra": ", DCEC sb. voc. Capricho ), y de capra ‘cabra’, según otros. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

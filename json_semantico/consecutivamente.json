@@ -1,0 +1,95 @@
+{
+  "lema": "CONSECUTIVAMENTE.",
+  "categoria_gramatical": "adv",
+  "introduccion": "-->adv .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Uno después de otro, por su orden.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No fue una noche sola la plática, que fueron dos consecutivamente.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov . 11 (R. 1. 226 2 )."
+        },
+        {
+          "texto_cita": "«En cuatro restos consecutivamente perdió los cuatro cuartos del asno, y ganóselos el mismo que se le había vendido.»",
+          "autor": "",
+          "referencia_obra": "Id. Nov . 8 (R. 1. 193 1 )."
+        },
+        {
+          "texto_cita": "«Deste matrimonio nacieron don García, don Ordoño y don Fruela, que fueron consecutivamente reyes.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 7. 17 (R. 30. 213 2 )."
+        },
+        {
+          "texto_cita": "«Tuvo tres hijos, don Pedro, don Alonso y don Ramiro, que todos consecutivamente fueron reyes de Aragón.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 9. 7 (R. 30. 255 2 )."
+        },
+        {
+          "texto_cita": "«Aquellos sucesos, apacibles á su libertad, consecutivamente iban aficionando los ánimos de algunos que no rehusaban la sedición más de por el daño que temían.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal . 2 (R. 21. 474 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Inmediatamente después, luégo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Seguía á la vanguardia todo el carruaje, tras él quinientos alemanes con el coronel Curcio, y luégo consecutivamente toda la artillería.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 7 (R. 28. 94 1 )."
+            },
+            {
+              "texto_cita": "«Dicen éstos que son hombres los que han venido, y luégo que son semejantes á los dioses, y consecutivamente que son dioses.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 22 1 )."
+            },
+            {
+              "texto_cita": "«El doctor Juan de León consecutivamente pasa al apóstol desde el Laminio á Madrid, y dice: Que pisó la orilla de Manzanares, y bebía sus cristales.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 48. 6)."
+            },
+            {
+              "texto_cita": "«Dijo dioses en plural cuando dijo que los hombres van á los dioses; y dijo Dios en singular, consecutivamente, tratando de que Dios venía al hombre, y en el hombre.»",
+              "autor": "",
+              "referencia_obra": "Id. Prov. de Dios (R. 48. 195 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y por qué no antes de mil años, que es el plazo que Pitágoras puso, y no consecutivamente á la mortandad, han de volver á ser vivos los muertos?»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 190 2 )."
+            },
+            {
+              "texto_cita": "«El lo dice consecutivamente á los versos referidos.»",
+              "autor": "",
+              "referencia_obra": "Id. Job (R. 48. 235 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de consecutivo , mediante el sufijo mente . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

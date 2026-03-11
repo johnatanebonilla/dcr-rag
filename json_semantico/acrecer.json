@@ -1,0 +1,202 @@
+{
+  "lema": "ACRECER.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Acrecentar, aumentar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Esta mujer es adorable ! Este rasgo de su talento y de su pasión acrecen la que yo la tengo.»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos, 2. 6 (R. 2. 451 1 )."
+            },
+            {
+              "texto_cita": "«Los que al mundo | Naturaleza dio males crueles | ¿Tan pocos fueron que el error disculpen | Con que aspiramos á acrecer la suma?»",
+              "autor": "",
+              "referencia_obra": "Id . epíst. 1 (R. 2. 580 2 )."
+            },
+            {
+              "texto_cita": "«Halagan y alimentan la pereza | Y acrecen y eternizan nuestros males.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. Jovino á Poncio (R. 46. 48 1 )."
+            },
+            {
+              "texto_cita": "«La multitud acrece el embarazo, | Y al fuego tronador no hay quien ataje.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 9 (2. 319)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Semejante | Al hinchado torrente impetuoso | --- Cuando, acrecido por celeste lluvia, | Anega de repente las campiñas.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Il . 5 (1. 130)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. y dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deste aunque indigno entierro la estrecheza | Te acrece dignidad, no la deshace.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 16 ( Fern. 8. 130)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Casando la hija qué sucede con grandes príncipes, se acrecen á la corona grandes estados.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 70 (R. 25. 194 2 )."
+            },
+            {
+              "texto_cita": "«De comunicarse á otros ningún bien se le acrece, pues tan bienaventurado era antes de criar el mundo como ahora.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 6. 7 (3. 287)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese del aumento que por perder ó renunciar algún partícipe su cuota ó porción, corresponde por derecho á los demás ( derecho de acrecer ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si fuere justamente exheredado, se acrecerá á los demás hermanos su parte de herencia.»",
+              "autor": "",
+              "referencia_obra": "Febr. nov. 2. 2.12.16."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En igual sentido se usa como intrans. Con á.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Débense [las distribuciones cuotidianas] á los que se hallaron en las horas los días que ellos no rezaron, á quien según derecho acrecen.»",
+              "autor": "",
+              "referencia_obra": "Navarro, Manual, 25 ( Dicc. Autor. ) ."
+            },
+            {
+              "texto_cita": "«La parte que uno repudie acrece á la legítima de los demás.»",
+              "autor": "",
+              "referencia_obra": "Febr. nov . 2. 2 . 12. 14."
+            },
+            {
+              "texto_cita": "«La parte repudiada debe acrecer á los hermanos.»",
+              "autor": "",
+              "referencia_obra": "Ib . 2 . 2. 12. 15."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el pret. acrovo , y la acepción de Recrecer, resultar.) — Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando quesieren saber el comienzo de esta enfermedat por tal que los melecinen, antes que les acrezca mas, luego que vieren que comenzaren a desconoscer cátenles los fondones de las lenguas.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2. 37 ( Bibl. venat. 1. 207)."
+        },
+        {
+          "texto_cita": "«Que nos cunplades e nos mantengades nuestras heredades e las tierras e las contias de los dineros que de nos tenemos --- ssaluo ende ssi uos, sennor, fficierdes despues merçed a alguno de nos quel acresçierdes la quantia, que lo aya.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 208). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Lo faciamos con derecho, podiendo acrescer nuestras rendas, assi como los otros reyes ficieron.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1269 ( C. de L. y C. 1. 86)."
+        },
+        {
+          "texto_cita": "«Si por aventura alguno dellos moriese enante que el testador, ó viviendo renunciase su parte, --- entonce acrescerse hie aquella parte á todos los otros á quien fuese asi mandada. Part. 6. 9. 33 (3. 457).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Débeles el rey dar grandes heredamientos et buenos, et acrescerlos en otro bien segunt entendiere que les conviene et lo él pudiere facer.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 27. 7 (2. 313)."
+        },
+        {
+          "texto_cita": "«Este cuño debe seer fecho desta manera, poniendo primeramente delante tres caballeros, et á espaldas dellos seis, --- et así doblándolos et acresciéndolos todavia segunt fuere la compaña.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 23. 16 (2. 241)."
+        },
+        {
+          "texto_cita": "«Desque hobiesen puesto cienso á la eglesia en alguna destas maneras sobredichas, nol pueden despues poner otro de nuevo, nin acrescer aquel.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 22.10 (1. 481)."
+        },
+        {
+          "texto_cita": "«Esta manera acrece en su daño [de los omes] trabaiando e faziendo despensas sobre aquello que por derecho non pueden cobrar.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 5, preámb. (O. L . 1. 314)."
+        },
+        {
+          "texto_cita": "«Quantoquequier que el marido sea noble si se casa con la muier cuemo deve, e viviendo de so uno ganan alguna cosa, o acrecen, si alguno dellos fuere mas rico que el otro, de su buena é de todas las cosas que acresceren, é ganaren en uno, tanto deve aver de mas en aquello que ganaron en uno, quanto avie demas del otro en su buena.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 4. 2. 17 (71; * acresceron)."
+        },
+        {
+          "texto_cita": "«Fazienda vos acreçe, quierenuos guerrear, | Se mientes non metudes, pueden os quebrantar.»",
+          "autor": "",
+          "referencia_obra": "Alex , 2274 (R. 57. 217 1 )."
+        },
+        {
+          "texto_cita": "«A la muger en esto grant graçia li acrovo , | Todo lo a meiorado el tuerto que nos tovo.»",
+          "autor": "Berc.",
+          "referencia_obra": "Loores, 109 (R. 57. 97 1 )."
+        },
+        {
+          "texto_cita": "«Riqueza es que nos acreçe marauillosa e grand: | A poco que viniestes pressend uos quieren dar.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1648 (R. 57. 19 2 )"
+        },
+        {
+          "texto_cita": "«A Minaya LXV caualleros | acreçidol han: | E el se tenie c que aduxiera dallá.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1419 (R. 57. 17 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. accrescer; prov. acreisser; fr . accroître; it . accrescere: del lat . accrescere, comp. de ad , que expresa agregación, adición, y crescere, crecer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: acrezco; acrezc-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

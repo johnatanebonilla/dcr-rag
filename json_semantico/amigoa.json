@@ -1,0 +1,772 @@
+{
+  "lema": "AMIGO, A.",
+  "categoria_gramatical": "",
+  "introduccion": "AMIGO, A.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "sust .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Persona unida á otra por el vínculo del cariño y estimación recíproca.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Decía él, y decía bien, que el casado á quien el cielo había concedido mujer hermosa, tanto cuidado había de tener qué amigos llevaba á su casa, como en mirar con qué amigas su mujer conversaba.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 33 (R. 1. 341 1 )."
+        },
+        {
+          "texto_cita": "«No sé si por la mucha bondad suya ó por la fuerza de las estrellas, que á ello me inclinaban, yo procuré por todas las vías que pude serle particular amigo, y fueme en esto el cielo tan favorable, que casi olvidándose á los que nos conocían el nombre de Timbrio y el de Silerio, que es el mío, solamente los dos amigos nos llamaban, haciendo nosotros con nuestra continua conversación y amigables obras que tal opinión no fuese vana.»",
+          "autor": "",
+          "referencia_obra": "Id. Gal . 2 (R. 1. 26 1 )."
+        },
+        {
+          "texto_cita": "«Un amigo fiel es negocio raro y muy dificultoso de hallar. Que como el Sabio dice: El amigo fiel es fuerte defensa, el que le hallare habrá hallado un tesoro.»",
+          "autor": "León",
+          "referencia_obra": ", Nomb. 3, Amado (R. 37. 191 2 )."
+        },
+        {
+          "texto_cita": "«Yo quiero tanto á don Juan, | Que se ha criado conmigo, | Que más nombre de su amigo | Que no de su rey me dan.»",
+          "autor": "",
+          "referencia_obra": "Lope, La discreta venganza, 1 . 20 (R. 41 . 309 1 )."
+        },
+        {
+          "texto_cita": "«Con breve llanto por su muerto amigo | Muestras dio de su grave sentimiento.»",
+          "autor": "Hojeda",
+          "referencia_obra": ", Crist . 3 (R. 17. 424 1 )."
+        },
+        {
+          "texto_cita": "«Ninguno tiene mayor amor que éste, que es poner su vida por sus amigos.»",
+          "autor": "Scío",
+          "referencia_obra": ", S. Juan , 15. 13."
+        },
+        {
+          "texto_cita": "«Elige uno amigos entre los autores que lee como entre los hombres que trata: yo confieso que no lo soy de estos poetas [los Argensolas] que, á juzgar por sus versos, parece que nunca amaron ni estimaron á nadie.»",
+          "autor": "Quint.",
+          "referencia_obra": "Introd. al Parn. esp. 4 (R. 19. 137 1 )."
+        },
+        {
+          "texto_cita": "«¡Oh ilustre Cienfuegos, mi noble y digno amigo! Tu suerte ha sido bien triste; pero al menos tu desgracia venía toda entera de los extraños, y descendiste al sepulcro sin tener que beber la hiel de la persecución; no te has visto, como yo, en pago de tus buenos servicios y de tu ardiente celo, despojado de tu fortuna y de tus honores, arrancado á tu familia y á tus amigos, entregado sin defensa á la perversidad y á la calumnia --- y todo por mano de españoles!»",
+          "autor": "",
+          "referencia_obra": "Id. Obr. inéd. p. 176. — Aument."
+        },
+        {
+          "texto_cita": "«Prestar y confiar es gran locura; | Que en amigotes de los que hay agora | Ni deuda ni mujer está segura.»",
+          "autor": "Lope",
+          "referencia_obra": ", El amigo hasta la muerte, 3. 22 (R. 52. 345 3 )."
+        },
+        {
+          "texto_cita": "«¡Cuál tu hermano quedará | Y sus amigotes!»",
+          "autor": "",
+          "referencia_obra": "Id. Las flores de D. Juan , 1. 8 (R. 24. 413 2 )."
+        },
+        {
+          "texto_cita": "«El amigote de tu marido está en la torre, y dicen es quien mató al marqués.»",
+          "autor": "",
+          "referencia_obra": "Jovell . El delincuente honrado , 2. 9 (R. 46. 88 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Se usa como tratamiento afectuoso, aun cuando no haya verdadera amistad.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Podemos preguntar á los que así andan desterrados: Amigos, ¿qué se hizo aquella tan antigua república, aquel famosísimo templo, aquel orden de sacerdotes y levitas?»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 2. 14 (R. 6. 316 2 )."
+        },
+        {
+          "texto_cita": "«Y cuando llegaron los primeros, creyeron que les darían más; pero no recibió sino un denario cada uno. Y tomándole murmuraban contra el padre de familias, diciendo: Estos postreros sola una hora han trabajado, y los has hecho iguales á nosotros, que hemos llevado el peso del día y del calor. Mas él respondió á uno de ellos, y le dijo: Amigo, no te hago agravio ¿no te concertaste conmigo por un denario?»",
+          "autor": "Scío",
+          "referencia_obra": ", S. Mateo, 20. 10-14."
+        },
+        {
+          "texto_cita": "«Tantas idas | Y venidas, | Tantas vueltas | Y revueltas | Quiero, amiga, | Que me diga | ¿Son de alguna utilidad?»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Fáb. 31 (1. 47). — Dimin."
+        },
+        {
+          "texto_cita": "«Amiguito, | Todos hemos de vivir.»",
+          "autor": "Bretón",
+          "referencia_obra": ", El amigo mártir, 1. 1 (2. 111)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Dícese de las personas con quienes se simpatiza por tener unos mismos principios ú opiniones.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Este hombre, con quien fue mi suerte trabajar unido muchos años, que tuvo en el alzamiento de enero de 1820 una de las partes principales, que después ha hecho gran papel en la historia de nuestra patria, y del cual por no breve tiempo he sido amigo político, y por más largo tiempo contrario, viniendo en sus últimos días á renovar nuestra amistad privada --- era D. Juan Alvarez y Mendizabal.»",
+          "autor": "A. Galiano",
+          "referencia_obra": ", Recuerdos , p. 220."
+        },
+        {
+          "texto_cita": "«Absorto me he quedado de ver que habiendo sido yo amigo de Espronceda (amigo literario, quiero decir), y habiendo, en vida suya y después, intervenido en la impresión de gran parte de sus obras, no había hecho reparo en varios pasajes, que cita usted muy al caso.»",
+          "autor": "",
+          "referencia_obra": "Hartz."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Por eufemismo se dice de la persona con quien otra tiene trato ilícito.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ama con amigo, ni la tengas ni la des á tu vecino.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": "."
+        },
+        {
+          "texto_cita": "«¿Qué le iba á vuestra merced en volver tanto por aquella reina Magimasa, ó como se llama? ¿O qué hacía al caso que aquel abad fuese su amigo ó no?»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 25 (R. 1. 312 2 )."
+        },
+        {
+          "texto_cita": "«Más quiero ser mujer legítima de un lacayo, que no amiga y burlada de un caballero.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 56 (R. 1. 523 1 )."
+        },
+        {
+          "texto_cita": "«Los más testifican que esta señora adelante casó con el mismo don Alonso en sazón que era ya rey de Castilla --- Don Pelayo, el de Oviedo, dice que no fue su mujer, sino sú amiga.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 9. 3 (R. 30. 249 2 )."
+        },
+        {
+          "texto_cita": "«Mató el rey de Portugal á un Pero Cuello, y á otro cierto escribano llamado Álvaro, porque se acordaba que estos, por mandado de su padre, dieron la muerte á su amiga doña Inés de Castro.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 17. 4 (R. 30. 501 1 )."
+        },
+        {
+          "texto_cita": "«Ana era hermana de una de las amigas de Enrique (que tuvo muchas) é hija de otra.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Cisma, argum . (R. 60. 186)."
+        },
+        {
+          "texto_cita": "«Escribió al rey una carta en que le aconsejaba que, quedándose la reina por su mujer, tuviese á Ana Bolena por su amiga.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 16 (R. 60. 203 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Son notables las siguientes expresiones:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Amigo del asa : amigo íntimo de otro, ó parcial suyo muy adicto ( fam. ). Acad. Dicc.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Amigo de taza de vino : el que lo es solamente por interés ó conveniencia ( fam. ). Acad. Dicc.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Amigo hasta las aras : fino en la amistad hasta donde lo permiten los dictados de lo justo y honesto. Ordinariamente se usa esta expresión en latín: amicus usque ad aras , es dicho que se atribuye á Perieles. Clem. Coment. 3, p. 10.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los buenos amigos han de probar á sus amigos y valerse dellos, como dijo un poeta, usque ad aras , que quiso decir que no se había de valer de su amistad en cosas que fuesen contra Dios.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 33 (R. 1. 342 1 )."
+            },
+            {
+              "texto_cita": "«Habéis de saber, compadre, que los antiguos latinos usaban de un refrán que decía: amicus usque ad aras, que quiere decir: el amigo hasta el altar; infiriendo que el amigo ha de hacer por su amigo todo aquello que no fuere contra Dios.»",
+              "autor": "",
+              "referencia_obra": "Id. El viejo celoso ( Com. 2. 320)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Entre dos amigos : hablando del precio de las cosas, se suele familiarmente usar para denotar el que es más moderado ó conforme á equidad; y así se dice:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí, entre dos amigos, valdrá esto tal cantidad.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Ganar amigos y dinero: granjear en una acción intereses y honra. Acad. Dicc.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Tan amigos como de antes : denota la indiferencia con que uno ve que se le conceda ó no lo que pide á otro. Sbarbi , Libro de los refranes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Declarad á vuestra Teresa mi intención, y si ella gustare y vos gustáredes de estar a merced conmigo, bene quidem, y si no, tan amigos como de antes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 7 (R. 1. 418 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Figura en muchos refranes; hé aquí los que traen la Acad. y el Comend. Griego :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Amigo reconciliado, enemigo doblado:»",
+          "autor": "",
+          "referencia_obra": "no debe uno fiarse de un amigo con quien, después de haber reñido, se han hecho de nuevo las amistades. —"
+        },
+        {
+          "texto_cita": "«Amigo viejo, tocino y vino añejo:»",
+          "autor": "",
+          "referencia_obra": "en estas tres cosas, respectivamente, la más antigua es la mejor. —"
+        },
+        {
+          "texto_cita": "«Amigo quebrado, soldado, mas nunca sano:»",
+          "autor": "",
+          "referencia_obra": "la amistad, una vez interrumpida, difícilmente se restablece del todo después de una reconciliación."
+        },
+        {
+          "texto_cita": "«Amigo de todos y de ninguno, todo es uno:»",
+          "autor": "",
+          "referencia_obra": "quien hace á todos demostraciones de amistad, probablemente no es amigo sincero de nadie. —"
+        },
+        {
+          "texto_cita": "«Amigo Horozco, si te vi, no te conozco:»",
+          "autor": "",
+          "referencia_obra": "moteja á los que desconocen antiguas amistades. —"
+        },
+        {
+          "texto_cita": "«Amigo Pedro, amigo Juan, pero más amiga la verdad:»",
+          "autor": "",
+          "referencia_obra": "la causa de la verdad es superior á toda consideración personal ("
+        },
+        {
+          "texto_cita": "«Amicus Socrates, amicus Plato, sed magis amica veritas;»",
+          "autor": "",
+          "referencia_obra": "M\\8@. ` ETPDVJ0. , 88 n48JXD\" Z G8Z2,4\" ). —"
+        },
+        {
+          "texto_cita": "«Amigo por su provecho, la golondrina en el techo:»",
+          "autor": "",
+          "referencia_obra": "duran poco las amistades que ha formado el interés."
+        },
+        {
+          "texto_cita": "«Amigo del buen tiempo, múdase con el viento:»",
+          "autor": "",
+          "referencia_obra": "son poco estables las amistades del tiempo de la prosperidad. —"
+        },
+        {
+          "texto_cita": "«Amigo de Villalón, tuyo sea, y mío non; porque dicen ser gente recatada é interesal.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ". Análogos son estos otros dos:"
+        },
+        {
+          "texto_cita": "«Amigo burgalés, y zapato de baldrés, y caballo de andadura, poco dura;»",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Amigo de montaña, quien le pierde le gana.»",
+          "autor": "",
+          "referencia_obra": "—"
+        },
+        {
+          "texto_cita": "«Al amigo, con su vicio:»",
+          "autor": "",
+          "referencia_obra": "no se debe dejar al amigo porque tenga algún defecto. —"
+        },
+        {
+          "texto_cita": "«Al amigo y al caballo, no apretallo:»",
+          "autor": "",
+          "referencia_obra": "no se debe importunar á los amigos. —"
+        },
+        {
+          "texto_cita": "«Al buen amigo, con tu pan y con tu vino:»",
+          "autor": "",
+          "referencia_obra": "al amigo ha de hacerse toda suerte de agasajo y buenos oficios. —"
+        },
+        {
+          "texto_cita": "«A mi amigo soy leal hasta salir del umbral:»",
+          "autor": "",
+          "referencia_obra": "contra los amigos falsos. —"
+        },
+        {
+          "texto_cita": "«A muertos y á idos, no hay más amigos:»",
+          "autor": "",
+          "referencia_obra": "la ausencia suele entibiar la amistad."
+        },
+        {
+          "texto_cita": "«No se ha el Señor con sus amigos como se usa acá, que suele salir verdadero el proverbio que dice: A muertos y á idos, no hay amigos.»",
+          "autor": "Gran.",
+          "referencia_obra": "serm. Todos los Santos (R. 11 . 30 2 ). —"
+        },
+        {
+          "texto_cita": "«Aquel es tu amigo, que te quita de ruido:»",
+          "autor": "",
+          "referencia_obra": "los servicios oportunos son la mejor prueba de amistad."
+        },
+        {
+          "texto_cita": "«Aquellos son ricos, que tienen amigos:»",
+          "autor": "",
+          "referencia_obra": "pondera la ventaja de contar con buenos amigos. —"
+        },
+        {
+          "texto_cita": "«A su amigo el gato le deja siempre señalado:»",
+          "autor": "",
+          "referencia_obra": "tiene malas consecuencias la amistad con gentes de mala ley. —"
+        },
+        {
+          "texto_cita": "«A tu amigo, díle la mentira: si te guardare poridad, díle la verdad:»",
+          "autor": "",
+          "referencia_obra": "advierte la cautela con que se ha de hacer confianza de persona aun no experimentada. —"
+        },
+        {
+          "texto_cita": "«De amigo á amigo, de compadre á compadre, sangre en el ojo:»",
+          "autor": "",
+          "referencia_obra": "no conviene confiar demasiado en todos los que se venden por amigos. —"
+        },
+        {
+          "texto_cita": "«Descubríme á él como amigo, y armóseme como testigo:»",
+          "autor": "",
+          "referencia_obra": "enseña la cautela con que debe procederse para confiar un secreto. —"
+        },
+        {
+          "texto_cita": "«El amigo que no presta y el cuchillo que no corta, que se pierda poco importa:»",
+          "autor": "",
+          "referencia_obra": "poco importa que se pierdan amigos egoístas ó poco dispuestos á hacer algún sacrificio ó tomarse alguna incomodidad. —"
+        },
+        {
+          "texto_cita": "«Entre amigos con verlo basta:»",
+          "autor": "",
+          "referencia_obra": "enseña la suma precaución con que debe obrarse en materia de intereses; y también da á entender la desconfianza que se tiene del testimonio ajeno. —"
+        },
+        {
+          "texto_cita": "«Entre amigos y soldados, cumplimientos son excusados:»",
+          "autor": "",
+          "referencia_obra": "entre los que se tratan con amistad y llaneza, no se debe reparar mucho en ceremonias. —"
+        },
+        {
+          "texto_cita": "«Entre dos amigos, un notario y dos testigos:»",
+          "autor": "",
+          "referencia_obra": "la seguridad y formalidad en lo que se trata no se debe juzgar desconfianza en la amistad; antes bien sirve para mantenerla sin quiebra ó discordia. —"
+        },
+        {
+          "texto_cita": "«Más vale un amigo que pariente ni primo:»",
+          "autor": "",
+          "referencia_obra": "á veces vale más una buena amistad que el parentesco. —"
+        },
+        {
+          "texto_cita": "«Mientras más amigos, más claros:»",
+          "autor": "",
+          "referencia_obra": "entre amigos se debe hablar con toda con toda ingenuidad y franqueza. —"
+        },
+        {
+          "texto_cita": "«Reniego del amigo que cubre con las alas y muerde con el pico:»",
+          "autor": "",
+          "referencia_obra": "reprende á los engañosos y lisonjeros que, dando á entender que favorecen ó defienden á otro, le perjudican descubriendo sus faltas."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "adj.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En las significaciones que van explicadas es propiamente un adjetivo sustantivado; así es que se dice Una persona amiga, Somos muy amigos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En Florencia --- vivían Anselmo y Lotario, dos caballeros ricos y principales, y tan amigos, que, por excelencia y antonomasia, de todos los que los conocían los dos amigos eran llamados.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 33 (R. 1. 340 2 ). — Por esta razón se halla también alguna vez con á , como en lat. con dat. :"
+        },
+        {
+          "texto_cita": "«amicus est nobis.»",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«¿Es mi Sosia mi secreto amigo? el que yo me quiero bien sin que él lo sepa? el que deseo conocer por su buena fama? El fiel á su ama? el buen amigo á sus compañeros?»",
+          "autor": "",
+          "referencia_obra": "Celest . 17 (R. 3. 65 1 ; *amigo de sus compañeros)."
+        },
+        {
+          "texto_cita": "«Fue á mi locura amigo | Quien fue á mi razón ingrato.»",
+          "autor": "Mto.",
+          "referencia_obra": "El licenciado Vidriera , 3. 15 (R. 39. 268 1 ). — Pero en este uso adjetivo se ofrecen aplicaciones que se apartan algo del concepto etimológico de amar , y por esta razón figura en primer término el sustantivo."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Que favorece ó no hostiliza nuestros intereses ó designios.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Imaginó que algún sabio, ó ya amigo, ó enemigo, por arte de encantamento las habría dado á la estampa.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 3 (R. 1. 409 2 )."
+        },
+        {
+          "texto_cita": "«Porque en este camino no faltan peligros de otras aves enemigas, ordenó la divina Providencia que hubiese otras aves amigas que les fuesen fieles compañeras de su camino y las ayudasen á defender.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 1. 16, § 2 (R. 6. 225 1 )."
+        },
+        {
+          "texto_cita": "«Estimaba [Inglaterra ] más fácil influír en el gobierno de la república y someterle á su política, si la mayor parte del poder supremo se hallase reconcentrada en una sola mano, y ésa amiga.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp. del siglo , 3. 8 (5. 197)."
+        },
+        {
+          "texto_cita": "«Llegó el campo á Lan en dos alojamientos, y en otros dos á Suasón, todo país amigo.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 87 2 )."
+        },
+        {
+          "texto_cita": "«Saltan en los bergantines, atraviesan el golfo, y buscan en la costa opuesta la tierra amiga que se les anunciaba.»",
+          "autor": "Quint.",
+          "referencia_obra": "Balboa (R. 19. 282 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Tratándose de objetos materiales, Benigno, benéfico, grato. Es de particular uso en poesía.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Considero, apartado yo conmigo, | Del rojo sol la inmensa ligereza, | Y en cuánto infunde su calor amigo.»",
+          "autor": "Herr.",
+          "referencia_obra": "2, eleg. 13 (R. 32. 332 2 )."
+        },
+        {
+          "texto_cita": "«Este que ves, oh huésped, vasto pino, | Util sólo á la llama ya en el puerto, | Selva frondosa un tiempo en descubierto | Cielo, dio amiga sombra al peregrino.»",
+          "autor": "Rioja",
+          "referencia_obra": ", son. mor . 2 (R. 32. 378 2 )."
+        },
+        {
+          "texto_cita": "«Así en la fe del bosque Filomela | Al álamo que el caro nido abriga, | A sus implumes pajarillos vuela; | Y discurriendo por la sombra amiga, | Que á entregarle el depósito seguro | De las insidias rústicas se obliga, | La piedra, que escondido tiró el rudo | Villano, la derriba de la planta, | Ya infausto apoyo del amor más puro.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "eleg. Con feliz parto (R. 42. 343 1 )."
+        },
+        {
+          "texto_cita": "«Defendidos de la sombra amiga, | Este se acerca al campo y pabellones, | Y aquéI la retirada prevenía.»",
+          "autor": "Mor.",
+          "referencia_obra": "Toma de Granada (R. 2. 575 2 )."
+        },
+        {
+          "texto_cita": "«Alguna vez á mi dolor se presta | Benigno el sueño con amigas alas.»",
+          "autor": "",
+          "referencia_obra": "Id. A la ausencia (R. 2. 609 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Dícese de las cosas pertenecientes al amigo; amigable, amistoso.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Del bárbaro escribir seré culpado, | Pero no del sentir con pecho amigo.»",
+          "autor": "Lope",
+          "referencia_obra": ", eleg. en la muerte de Medinilla ( Obr. suelt. 1. 512)."
+        },
+        {
+          "texto_cita": "«Cama os llevarán allá | Y regalos de una mesa, | Si no poderosa, amiga.»",
+          "autor": "Tirso",
+          "referencia_obra": ", El amor médico, 1 . 9 (R. 5. 386 3 )."
+        },
+        {
+          "texto_cita": "«El sufrir una injuria vergonzosa | Con rostro amigo y frente sosegada, | Y padecer por Dios grandes tormentos, | Es muestra en la virtud de altos cimientos.»",
+          "autor": "Hojeda",
+          "referencia_obra": ", Crist . 4 (R. 17. 430 2 )."
+        },
+        {
+          "texto_cita": "«¿Permanecerán indecisos un solo instante, ó se negarán á tenderos una mano amiga?»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Abén Humeya, 1 . 11 (3. 316)."
+        },
+        {
+          "texto_cita": "«Elisio hubiera su postrer aliento | En sus amigos labios recogido.»",
+          "autor": "Lista",
+          "referencia_obra": ", égl . (R. 67. 373 2 )."
+        },
+        {
+          "texto_cita": "«Bajo la sombra de tu augusto velo | Las artes viven en concierto amigo.»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes. A la paz (R. 19. 9 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "adj.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que gusta mucho de alguna cosa. Con de.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tanto del oro te mostraste amiga, | Que echaste á las espaldas mis pasiones.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Gal . 3 (R. 1. 37 1 )."
+        },
+        {
+          "texto_cita": "«Era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza.»",
+          "autor": "",
+          "referencia_obra": "Id. Quij. 1. 1 (R. 1. 257 1 )."
+        },
+        {
+          "texto_cita": "«Era el cura tan buen cristiano y tan amigo de la verdad, que no diría otra cosa por todas las del mundo.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 1 . 6 (R. 1. 266 1 )."
+        },
+        {
+          "texto_cita": "«Siempre, hermano, fui amiga de la igualdad.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 5 (R. 1. 414 2 )."
+        },
+        {
+          "texto_cita": "«Yo te perdono con que te enmiendes, y con que no te muestres de aquí adelante tan amigo de tu interés.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 28 (R. 1. 465 1 )."
+        },
+        {
+          "texto_cita": "«Acá tenemos noticia, buen Sancho, que sois tan amigo de manjar blanco y de albondiguillas, que, si os sobran, las guardáis en el seno para el otro día.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 62 (R. 1. 535 1 )."
+        },
+        {
+          "texto_cita": "«Quiera Dios no le venga en voluntad al cura de entrar en el aprisco, según es de alegre y amigo de holgarse.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 2. 67 (R. 1. 546 1 )."
+        },
+        {
+          "texto_cita": "«Amigos en particular de traer por todo, como superiores, su autoridad.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Granad. 1 (R. 21. 70 2 )."
+        },
+        {
+          "texto_cita": "«Puede haber prioras tan amigas de tener monjas, que de poco se satisfagan.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Modo de visitar (R. 53. 296 1 )."
+        },
+        {
+          "texto_cita": "«El cangrejo es muy amigo de la carne de las ostras.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 1. 14, § 1 (R. 6. 215 2 )."
+        },
+        {
+          "texto_cita": "«Conózcome, señor, por amigo de mí mesmo.»",
+          "autor": "",
+          "referencia_obra": "Id. Orac. y consid. 1 , viernes por la mañana , § 4 (R. 8. 81 1 )."
+        },
+        {
+          "texto_cita": "«Cuando los príncipes son naturalmente amigos del dinero, conviene que no le vean y manejen.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 53 (R. 25. 142 2 )."
+        },
+        {
+          "texto_cita": "«Yo te juro que te hubieras ahorrado muchos ducados si te hubieras encomendado á mí, porque no soy nada amiga del dinero.»",
+          "autor": "Quev.",
+          "referencia_obra": "Gran Tac. 21 (R. 23. 521 2 )."
+        },
+        {
+          "texto_cita": "«Son por su condición aborrecibles, | Amigas de mudanzas imposibles.»",
+          "autor": "Lope",
+          "referencia_obra": ", Gatom. 3 ( Obr. suelt. 19. 207)."
+        },
+        {
+          "texto_cita": "«Yo no he visto gente más amiga de llorar.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst. 2, p. 251. — Sup ."
+        },
+        {
+          "texto_cita": "«Andaba entonces en Sevilla un gran principe --- amiguísimo de hacer bien. »",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud. 2 . 5 (R. 18. 431 1 ). — Dimin."
+        },
+        {
+          "texto_cita": "«Amiguita soy yo de oír resquebrajos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 10 (R. 1 . 424 1 )."
+        },
+        {
+          "texto_cita": "«Que soy hombre de bien á las derechas, | Y no amiguito de banquete y torta.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 7, terc . (R. 69. 272 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Tratándose de cosas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La mía [mi condición] es tierna, blanda y amorosa, | Y amiga de hacer bien á todas gentes.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 35 (R. 1. 480 1 )."
+        },
+        {
+          "texto_cita": "«Unas condiciones que hay de suyo amigas de ser estimadas y tenidas y mirar las faltas ajenas y nunca conocer las suyas.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Cam. perf. 13 (R. 53. 334 2 )."
+        },
+        {
+          "texto_cita": "«¿Qué diré del paladar? ¿cuán amigo es de manjares curiosos, y sabrosos, y costosos?»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 4, diál. 6 (R. 6. 559 2 )."
+        },
+        {
+          "texto_cita": "«Los santos evangelistas no hacen más que contar con palabras simples, amigas de la verdad, la historia de la vida y pasión de nuestro Salvador.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 9, § 3 (R. 6. 302 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Habiéndole sido amigo, | ¡Quán poco duro con él | Lo que le dio!»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 52)."
+        },
+        {
+          "texto_cita": "«Mas si amigo es Platon, | La verdad es mas amiga.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán , Clar. var. 230 ( Rim. inéd. 306)."
+        },
+        {
+          "texto_cita": "«Era hombre de buen seso é que en pocas palabras hacía grandes conclusiones, é buen amigo á sus amigos.»",
+          "autor": "",
+          "referencia_obra": "Id. Gener. 8 (R. 68. 703 2 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Pero amigo claro — Leal y verdadero, | Es de faltar muy caro: | Non se ha por dinero.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 489 (R. 57. 361 2 )."
+        },
+        {
+          "texto_cita": "«Guardevos Dios, amigos, de tales amigotes.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1452 (R. 57. 273 1 )."
+        },
+        {
+          "texto_cita": "«Quien con amigo malo pone su amistanza, | Por mucho que se tarde, mal galardon alcanza.»",
+          "autor": "",
+          "referencia_obra": "Id. 1450 (R. 57. 273 1 )."
+        },
+        {
+          "texto_cita": "«Caton sabio romano en su libro lo manda. | Dis que la buena poridat en buen amigo anda.»",
+          "autor": "",
+          "referencia_obra": "Id. 542 (R. 57. 244 1 )."
+        },
+        {
+          "texto_cita": "«Comenzó á acompañarse et á partir de lo que habia con muchos homes por tal de los haber por amigos. Et todos aquellos decian que eran sus amigos, et que farian por él todo lo que á él cumpliese.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 37 (R. 51. 418 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Asmadera virtud es llamado el quarto sentido que asma et face saber las cosas naturalmente por vista quál es amiga et á pro, et quál enemiga et á daño.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 13. 10 (2. 110)."
+        },
+        {
+          "texto_cita": "«El mejor de los amigos es el que mas lealmente conseja á sus amigos.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 26 2 )."
+        },
+        {
+          "texto_cita": "«Si probar non lo podier, digal verdat al otro, como amigo dis a amigo.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 4. 2. 3 (107)."
+        },
+        {
+          "texto_cita": "«Si algunos omes an pleito el uno con el otro, e amas las partes son avenidas de lo meter en manos de amigos; despues que lo an metido en manos de amigos, e firmado, non pueden sacarlo de suas manos sitio por cuatro cosas.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 1 . 1 (74)."
+        },
+        {
+          "texto_cita": "«El ermano que esto rescive, devegelo mostrar la primera vegada ante parientes e amigos fijosdalgo el tuerto quel’face, e devel’rogar ante ellos que gel’enderece.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 5. 5 (20)."
+        },
+        {
+          "texto_cita": "«Quien amigos non ha, pobre es e mendigo.»",
+          "autor": "Alex.",
+          "referencia_obra": "898 (R. 57. 175 1 )."
+        },
+        {
+          "texto_cita": "«El amico de miedo que serie acusado | Porque con Apolonio façie tan aguisado, | Despidiosse del rey su amor asentado.»",
+          "autor": "",
+          "referencia_obra": "Apoll. 78 (R. 57. 286 1 )."
+        },
+        {
+          "texto_cita": "«Dissolis el sant omne una respuesta dura: | Amigos, empezastes soberbia e locura.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill. 275 (R. 57. 73 1 )."
+        },
+        {
+          "texto_cita": "«Sennores e amigos, en vano contendemos.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 42 (R. 57. 104 2 )."
+        },
+        {
+          "texto_cita": "«Fixa, dixo Ollallia, tu tal cosa non digas, | Ca as sobre los cielos amigos e amigas.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria, 36 (R. 57. 138 2 )."
+        },
+        {
+          "texto_cita": "«Non dizes verdad [á] amigo ni ha sennor, | Ffalsso a todos e mas al Criador.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3386 (R. 57. 35 1 )."
+        },
+        {
+          "texto_cita": "«Dios salue a nuestros amigos e a uos mas, sennor.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3038 (R. 57. 32 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. amigo ; cat. amich ; prov. amic : fr. ami ; it. amico: del lat. amicus , derivado de amare, amar ( Bopp , Gramm. comp ., § 949). En el superlativo se halla alguna vez la forma puramente latina amicísimo:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aquel hombre amicísimo que había perdido era mejor y más verdadero que aquel fantasma en que yo le decía que esperase.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Conf. de S. Agustín , 14. 4."
+        },
+        {
+          "texto_cita": "«Es cordero castísimo y amicísimo de esta pureza virginal.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 4. 9 (2. 414). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

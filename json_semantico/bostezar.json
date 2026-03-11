@@ -1,0 +1,148 @@
+{
+  "lema": "BOSTEZAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer involuntariamente, abriendo mucho la boca, inspiración lenta y profunda y luégo espiración también prolongada y generalmente ruidosa. Es indicio de tedio, debilidad, etc., y más ordinariamente de sueño ( intrans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La primera cosa que hizo [el león] fue revolverse en la jaula donde venía echado, y tender la garra, y desperezarse todo: abrió luégo la boca y bostezó muy despacio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 17 (R. 1. 439 1 )."
+            },
+            {
+              "texto_cita": "«Vuelve á media noche; cena, si lo halla, y si no, santíguase, bosteza y acuéstase.»",
+              "autor": "",
+              "referencia_obra": "Id. El juez de los divorcios ( Com . 1. 191)."
+            },
+            {
+              "texto_cita": "«Mira que no se debe considerar esto durmiendo, ni bostezando, sino con mucha atención.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, pról . § 1 (R. 6. 13)."
+            },
+            {
+              "texto_cita": "«Hacía que bostezaba adrede, sin tener gana, por mostrar los dientes.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 18 (R. 23. 516 1 )."
+            },
+            {
+              "texto_cita": "«¡Ay, madre! advertid | Que, pues bostezáis, | Señal que os dormís.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los melindres de Belisa , 3. 25 (R. 24. 338 3 )."
+            },
+            {
+              "texto_cita": "«Cuando la hables, bosteza; | Si cuidadosa te mira, | Vuelve á un lado la cabeza.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El pretendiente al revés , 2. 6 (R. 5. 33 3 )."
+            },
+            {
+              "texto_cita": "«Por más que ofrendas mil le presentase [á Apolo], | Del dios ingrato en galardón recibe | Que cualquier que le oyera bostezase.»",
+              "autor": "Quint.",
+              "referencia_obra": "Reglas del drama , 1 (R. 19. 75 2 )."
+            },
+            {
+              "texto_cita": "«En un rincón bostezando | Hace un papel despreciable.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelvo , 1. 4 (1. 73)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Coman, que mozos son, y me huelgo de ver sus buenas ganas. Mire vuesta merced qué buen aliño para los que bostezaban de hambre.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 3 (R. 23. 489 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Las aplicaciones que ofrecen los pasajes siguientes no las toleraría el gusto actual:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Poned una señal en esta boca | Por donde melancólico bosteza | El monte: sea mordaza dura roca.»",
+          "autor": "Cald.",
+          "referencia_obra": "La Virgen del Sagrario , 1. 4 (R. 7. 329 3 )."
+        },
+        {
+          "texto_cita": "«De la boca de una cueva | Que á la falda de aquel risco | Melancólica bosteza.»",
+          "autor": "",
+          "referencia_obra": "Id. Darlo todo y no dar nada , 2. 1. (R. 12. 145 1 )."
+        },
+        {
+          "texto_cita": "«Ya bosteza la mañana | Crepúsculos clari-obscuros.»",
+          "autor": "Tirso",
+          "referencia_obra": ", La prudencia en la mujer , 1. 6 (R. 5. 289 2 )."
+        },
+        {
+          "texto_cita": "«Mejor cortesano se mostró que tú, siendo de la misma opinión, Lucano, que en algunos versos de su Farsalia pronuncia este error, y en muchas le bosteza, abriendo sin palabras la boca, tartamudeando todo el ateísmo.»",
+          "autor": "Quev.",
+          "referencia_obra": "Prov. de Dios (R. 48. 175 1 )."
+        },
+        {
+          "texto_cita": "«Olores sabeos | Encierra su copa, | Fragancias vertiendo, | Bostezando aromas.»",
+          "autor": "",
+          "referencia_obra": "Rebolledo, Ocios, fol . 53 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E porque non reguelde o escupa o tosa o bostese o estornude o le huela mal el resollo, antes deue vsar salsas.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 3 (19)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Es de formación oscura; en castellano se dijo también bocezar y aun hoy se usa como término de albeitería (también in la forma bocear ) por",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mover los labios el caballo y demás bestias hacia uno y otro lado, como lo hacen cuando toman el pienso ó beben.»",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Volvió á subir sobre la misma cama y á tenderse sobre el muerto, como antes había hecho. El cual bocezando siete veces, abrió los ojos y resucitó.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 3. 27, § 13 (R. 6. 454 1 )."
+        },
+        {
+          "texto_cita": "«Bocezar el niño siete veces nos significa la confesión de los pecados.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (R. 6. 454 2 )."
+        },
+        {
+          "texto_cita": "«El cuerpo después que está harto, y el estómago después que está repleto, no quiere sino dormir, no sabe sino bocezar.»",
+          "autor": "Guev.",
+          "referencia_obra": "Orat. de religiosos , 11, fol . 68. b ( Dicc. Autor . 2 )."
+        },
+        {
+          "texto_cita": "«Ca si tú vieres al leon, cuando entrares, estar agachado contra ti --- feriendo con la cola en tierra, é abriendo la boca et bocezando --- sepas que te quiere matar.»",
+          "autor": "Ducange",
+          "referencia_obra": ", y buccare , bucculare , hinchar la boca, mover el labio, en Diefenbach ). Pero todavía queda por explicar el sufijo ezar y el paso de bocezar á bostezar ; muy arduo lo último pues, st pasa á c , z (ó por los menos se ha admitido como posible el cambio), pero no al contrario. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

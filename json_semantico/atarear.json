@@ -1,0 +1,130 @@
+{
+  "lema": "ATAREAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Sujetar, poner á tarea ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para denotar el objeto en que consiste la tarea.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El alhelí, jazmines y claveles | Por cuadros, laberintos y planteles | Me construían macetas, | Que entre azahares ataba, | Con que el ocio al deleite atareaba, | Sin reparar entonces mis pesares, | Que pocas letras hay de azar á azahares.»",
+              "autor": "Tirso",
+              "referencia_obra": ", En Madrid y en una casa, 2. 5 (R. 5. 545 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He tenido muchos años atareado mi corto entendimiento á la inteligencia de este lugar.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios, 2. 21 (R. 23. 95 2 )."
+            },
+            {
+              "texto_cita": "«¡Gran servidumbre padece el entendimiento atareado á responder á solo aquello que le quisieren preguntar!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 12 (R. 23. 25 1 )."
+            },
+            {
+              "texto_cita": "«Estas criaturas en cuya grandeza parece que se desalienta la admiración, y queda absorto el espanto, se confiesan atareadas á superior voluntad.»",
+              "autor": "",
+              "referencia_obra": "Id. Provid. de Dios (R. 48. 194 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . Entregarse mucho al trabajo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para separar lo verdadero de lo falso he ideado esta obra, para esto me atareo, para esto trabajo.»",
+              "autor": "",
+              "referencia_obra": "Esp, sagr. 4, pról ."
+            },
+            {
+              "texto_cita": "«Esto me hace temer que usted se afane y ataree mucho más de lo que conviniera á una constitución delicada como la suya.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Trigueros (R. 50. 165 1 )."
+            },
+            {
+              "texto_cita": "«Quiero que viva y restablezca su salud; que se pasee, y lea, y se ataree poco, y pase las horas en compañía de sus amigos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 3, p. 118."
+            },
+            {
+              "texto_cita": "«No desaprovecharon los sitiados aquel respiro, y atareándose afanadamente, aumentaron los fuegos de flanco y parabólicos.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist .10 (R. 64. 219 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vivió siempre atareado [el maestro Alejo Venegas] para sostener una numerosa familia.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . p. 503."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part . Por extensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es el tiempo más enfadoso, más engorroso y más neciamente atareado de todo el año.»",
+              "autor": "Isla",
+              "referencia_obra": ", Cart. famil . 1. 45 (R. 15. 442 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar la clase de trabajo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atarearse á escribir.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Dícese también",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atarearse con , en los negocios.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y tarea . Port. atarefar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

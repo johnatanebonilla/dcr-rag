@@ -1,0 +1,103 @@
+{
+  "lema": "AMILANAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Causar tal miedo á alguno que quede aturdido y sin acción ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La voz del león, y sus bramidos, amilana los animales y bestias.»",
+          "autor": "Puente",
+          "referencia_obra": ", Conveniencia de las dos monarquías , 2. 4 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Abatir, hacer caer de ánimo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oh alma mía, si te amilana la culpa que tú hiciste por tu voluntad, anímete á confianza la obra que Dios hizo por su omnipotencia.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 6. 12 (3. 322). —"
+            },
+            {
+              "texto_cita": "«Va mucho á los principios de comenzar oración á no amilanar los pensamientos.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 13 (R. 53. 48 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": ". Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las tribulaciunes y tentaciones no tengo de amilanarme ni estar ocioso, dejando mi remedio á solo Dios, sino hacer de mi parte lo que pudiere.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 19 (2. 135)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Como en los verbos de significación análoga, la causa de la impresión se puede expresar con de ; pero también tienen cabida otros complementos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Piensas tú que me amilano | De mirarle cara á cara?»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, Los comuneros, 1 . 1 (3.188). —"
+            },
+            {
+              "texto_cita": "«Esto dijo para humillarlos por una parte y abajar los humos de su ambición, avisándoles de la flaqueza y cobardía que habían de tener, y por otra parte para prevenirlos porque no desesperasen ni se amilanasen por su caída.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 17 (92. 445)."
+            },
+            {
+              "texto_cita": "«No te amilanes por ver | Que es un pobre ganadero | Tu padre, y tu dote humilde | Tres bueyes y cien borregos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Esto sí que es negociar, 1. 1 (R. 5. 249 1 ). —"
+            },
+            {
+              "texto_cita": "«Menester era más que un ánimo varonil para no arredrarse por tantos obstáculos ni amilanarse con tamaños peligros.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1. 1 (4. 197)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este, con haber sido discípulo oculto de Cristo nuestro Señor, amilanado por temor de los judíos, entonces con grande ánimo se manifestó y tuvo atrevimiento para entrar á Pilatos y pedirle el cuerpo de su Maestro.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 54 (2. 627)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y milano ,",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«porque esta ave se acobarda y atierra cuando el águila la acomete, y lo mismo sucede á los pájaros menores cuando el milano los persigue.»",
+          "autor": "",
+          "referencia_obra": "Dicc. Autor . Formaciones semejantes son agazaparse, alebrarse, azorarse. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

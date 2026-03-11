@@ -1,0 +1,114 @@
+{
+  "lema": "DESCABALAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dejar incompleto ó manco, quitando ó haciendo perder algo de lo que constituye la cosa cabal completa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde que os vi á la ventana, | U dando ó tomando el sol | Descabalé mi asadura | Por daros el corazón.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom. 33 (R. 69. 178 1 )."
+            },
+            {
+              "texto_cita": "«Junta los cobardes el poder, y descabálalos el miedo.»",
+              "autor": "",
+              "referencia_obra": "Id. Polít. de Dios, 2. 22 (R. 23. 98 2 )."
+            },
+            {
+              "texto_cita": "«Y rio porque excluyamos la fénix ave, descabalaremos el hermoso argumento de Tertuliano, referido arriba, para probar la resurrección de la carne.»",
+              "autor": "",
+              "referencia_obra": "Id. Job (R. 48. 241 2 )."
+            },
+            {
+              "texto_cita": "«Pues si no hay prenda, no hay nada. | Mas de plata una salvilla | Hace poco que oí nombrar. | — ¿Y hemos de descabalar, | Don Simeón, la vajilla? | — ¿Descabalar? ¡buena es ésa! | Toda la he de recibir.»",
+              "autor": "",
+              "referencia_obra": "A. Saav, Tanto vales cuanto tienes , 1. 19 (4. 37)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descabalado queda el texto para los que osaren valerse de su aplicación.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 9 (R. 23. 60 2 )."
+            },
+            {
+              "texto_cita": "«Por otra parte asomó con pies descabalados Saturno, el dios marimanta.»",
+              "autor": "",
+              "referencia_obra": "Id. Hora de todos, preámb. (R. 23. 384 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado á lo moral ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No soy yo persona que por mí se ha de descabalar la decencia del señor D. Quijote.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 44 (R. 1. 495 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh señor, señor, por quien Dios es, que vuesa merced mire por sí y vuelva por su honra y no dé crédito á esas vaciedades que le tienen menguado y descabalado el sentido!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 23 (R. 1. 454 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me hizo rabiar de ver que mi traza se iba descabalando.»",
+              "autor": "",
+              "referencia_obra": "Píc. Justina , 2. 3. 2. 1 (R. 33. 133 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar aquello de que una cosa pierde parte (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las monarquías se descabalan del número de sus reinos, cuando á gobernarlos envían ministros que vuelven opulentos con los triunfos de la paz.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 135 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y cabal . Cat. descabalar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,644 @@
+{
+  "lema": "DURAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Aplicado á cosas materiales, Resistir á las causas de destrucción, continuar siendo, conservarse en buen estado ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comparaba un filósofo las vidas de los hombres á las campanillas ó burbujicas que se hacen en los charcos de agua cuando llueve, de las cuales unas se deshacen luégo en cayendo, otras duran un poquito más, y luégo se deshacen, otras también duran alao más, y otras menos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, martes en la noche (R. 8. 28 2 )."
+            },
+            {
+              "texto_cita": "«Afirman autores graves que duran hasta el día de hoy, así en la playa como en el suelo del mar, rastros ciertos de este castigo.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist . 1. 15 (82: Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«Fue siempre tenido [el sepulcro de Salomón] en gran veneración de los judíos, y duró hasta el tiempo del emperador Adriano.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 38 (389: Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«¿Quién vio á doña Marina tan hermosa | Cuanto viva la vi y la vi difunta, | Que piensa en el durar de alguna cosa?»",
+              "autor": "Mend.",
+              "referencia_obra": "eleg. (R. 32. 67 1 )."
+            },
+            {
+              "texto_cita": "«Mientras más gasté, | Más presto á verte volví; | Porque mientras más durara | El dinero, claro está | Que más estuviera allá.»",
+              "autor": "Lope",
+              "referencia_obra": ", La portuguesa y dicha del forastero, 2. 10 (R. 34. 163 3 )."
+            },
+            {
+              "texto_cita": "«Algunos de estos fastuosos monumentos subsisten aun íntegros, pero por mucho que duren, es indudable que cesarán de existir antes que perezca el nombre de Horacio.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", trad. de Hor. od . 3. 30, nota (2. 190)."
+            },
+            {
+              "texto_cita": "«Durar los zapatos y el vestido, no romperse en breve tiempo.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Es terciopelo inglés, un terciopelo nuevo, que cuanto más endeble parece, más dura.»",
+              "autor": "Frontaura",
+              "referencia_obra": ", Las tiendas , 13 (39)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El tiempo á que se extiende la duración se expresa generalmente por medio de un compl. sin prep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con estas dos cosas el trigo dura en la troje mucho tiempo.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen . 1. 11 (1. 107)."
+            },
+            {
+              "texto_cita": "«Y no es cierto de maravillar que sea tan quebradizo, pues él también es de barro; antes es más de maravillar cómo siendo de tal materia y tal hechura, pueda durar tanto tiempo, cuanto dura.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, martes en la noche (R. 8. 29 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Pero también se usa anteponer por á este compl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las tinajas son muy más seguras, que muy pocas veces revientan, y son de muy poca costa; que en una vez que las peguen bien, duran por quince y veinte años.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen . 2. 23 (1. 470)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con á , por analogía con resistir (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que no pudiera el flaco tierno suelo, | Ni las cosas recientes producidas, | Durar á tanto ardor, á tanto hielo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 299)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado á lo inmaterial, Continuar siendo, existiendo, verificándose ó ejecutándose ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El humo de las alabanzas humanas que de tan poco tomo es y tan poco dura.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Festiv. 2 (5. 55)."
+            },
+            {
+              "texto_cita": "«Es imposible durar el quererse el uno al otro --- Y este, amor, que sólo acá dura, alma destas á quien el Señor ha infundido verdadera sabiduría, no le estima en más de lo que vale.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf. 6 (R. 53. 327 2 )."
+            },
+            {
+              "texto_cita": "«Es cosa harto notable que dure aun hasta agora el contar así.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Crón 16. 29 (6. 259)."
+            },
+            {
+              "texto_cita": "«Mozo soy, dure la vida, que con ella todo se alcanza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 22 (R. 1. 304 1 )."
+            },
+            {
+              "texto_cita": "«Sin duda el sueño en mis palpebras dura, | Porque éste es edificio imaginado, | Que excede á toda humana compostura.»",
+              "autor": "",
+              "referencia_obra": "Id. Viaje , 8 (R. 1. 699 1 )."
+            },
+            {
+              "texto_cita": "«Mientras duraba la canción de Brasildo, Anfriso y Belisarda habían hablado grandes cosas.»",
+              "autor": "Lope",
+              "referencia_obra": ", Arcadia , 3 ( Obr. suelt . 6. 173)."
+            },
+            {
+              "texto_cita": "«Duraban todavía los abusos que el concilio de Aranda había querido extinguir.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. disc. hist. (2. 161)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensad cuán poco sabéis aprovecharos de las inspiraciones y hablas del Señor; y cuántas veces os dice el Señor una cosa, y cuán presto la olvidáis sin la poner en efecto, siendo razón que cada palabra de él os durase para toda la vida.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 4. 10 (7. 341)."
+            },
+            {
+              "texto_cita": "«Por Dios y en mi conciencia, que si me dura el gobierno (que no durará según se me trasluce) que yo ponga en pretina á más de un negociante.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 47 (R. 1. 501 2 )."
+            },
+            {
+              "texto_cita": "«Mientras duran las fuerzas al príncipe, ha de vivir y morir obrando.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 100 (R. 25. 260 2 )."
+            },
+            {
+              "texto_cita": "«La pena, | Que no el enojo, me dura.»",
+              "autor": "",
+              "referencia_obra": "Tamayo y Baus, La bola de nieve , 1. 16 (32)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con un compl. sin prep. , para expresar el espacio de tiempo que la cosa llena existiendo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Diome aquella noche un parasismo que me duró estar sin ningún sentido cuatro días poco menos.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 5 (R. 53. 31 2 )."
+            },
+            {
+              "texto_cita": "«Le había dado un desmayo que le duró veinte y cuatro horas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 3 (R. 1. 37 2 )."
+            },
+            {
+              "texto_cita": "«Quisieran que durara el cuento mas tiempo: tanta era la gracia con que Dorotea contaba sus desventuras.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 36 (R. 1. 357 2 )."
+            },
+            {
+              "texto_cita": "«Me respondió que eran justas | Mis leyes, y solo el tiempo | Que durasen duraría | La tranquilidad del reino.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El dueño de las estrellas , 2. 1 (R. 20. 273 3 )."
+            },
+            {
+              "texto_cita": "«Duró algunos días en nuestra inclinación el intento de continuar la historia general de las Indias que dejó el cronista Antonio de Herrera en el año de 1554.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 1 (R. 28. 208 1 )."
+            },
+            {
+              "texto_cita": "«Después del teatro se juntan ó en los casinos ó en las casas particulares, y dura la conversación ó el juego toda la noche.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 470."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Este compl. admite la prep. por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si el áspero furor del mar airado | Por largo tiempo en su rigor durase ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 67 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con para, que señala el término á que se extiende la cosa existiendo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bendígoos para siempre en fin vuestro reino durará para siempre.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf. 22 (R. 53. 346 2 )."
+            },
+            {
+              "texto_cita": "«Si todas cuantas penas hay en el infierno no fueran más que una sola punzada de alfiler, habiendo de durar para siempre, solo esto debiera bastar para que los hombres se pusiesen a todos los trabajos del mundo por evitar esta pena.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 10, § 1 (R. 6. 44 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "En el siguiente pasaje está empleado por Tardar:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero tiempo podrá venir en que se enmiende esa falta; y no dura más en hacerse la enmienda de cuanto quiera vuestra merced ser servido de venirse conmigo á mi aldea.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 24 (R. 1. 311 2 . Clemencín dice, y Salvá lo sigue, que el verbo está usado como impersonal; pero apenas cabe duda en que la construcción es:"
+            },
+            {
+              "texto_cita": "«la enmienda no dura más en hacerse ó ser hecha;»",
+              "autor": "",
+              "referencia_obra": "el sujeto es pues la enmienda .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Se traslada al lugar: Extenderse sin interrupción ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sólo hay un paso arenisco y firme, pero siempre cubierto de agua. Dura antes de llegar al fuerte algo menos de legua.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 67 1 )."
+        },
+        {
+          "texto_cita": "«Duraban las asperezas del camino, y franqueaba poca tierra la espesura del bosque.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj. 5. 10 (R. 28. 358 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Aplicado á personas, Mantenerse, perseverar ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Maldicen hoy día, y maldijeron antes de agora, y durarán maldiciendo aquel día en que se hizo de sus pecados venganza.»",
+              "autor": "",
+              "referencia_obra": "Leon, Expos. de Job , 3 (1. 41)."
+            },
+            {
+              "texto_cita": "«Oh alma, espera, | Dura con fuerte pecho, | Con fe acerada entera | Aguarda, atiende, sufre, persevera.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. 3, salmo 26 (4. 574)."
+            },
+            {
+              "texto_cita": "«Eres amado, no lo dudo; más ó modestia ó respeto se opone á tu felicidad --- Dura y vencerás.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis, 1 (9)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar la posición ó acto en que uno se mantiene sin cambiar ó desistir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aun confío, | Según el jüicio mío, | Que no duran tiempos largos | Ni las casas cabe el río | Ni ruines hombres en cargos.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", com. Tinelaria, 4 (1. 405)."
+            },
+            {
+              "texto_cita": "«Mas tal es la fortuna | Que no sabe durar en cosa alguna.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, La cana y alta cumbre (4. 298)."
+            },
+            {
+              "texto_cita": "«En este pensamiento duró otros ocho días.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 1 (R. 1. 258 1 )."
+            },
+            {
+              "texto_cita": "«Si algún tirano duró en la usurpación, fuerza fue de alguna gran virtud ó excelencia natural que disimuló sus vicios.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 18 (R. 25. 51 2 )."
+            },
+            {
+              "texto_cita": "«Duró en sus protestas requerimientos con tanta resolución, que Narváez --- le hizo prender ignominiosamente.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 6 (R. 28. 312 1 )."
+            },
+            {
+              "texto_cita": "«Aviso para los inconstantes, que no durando en cosa, todas las acaban en sus principios.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 1. 1 (14)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , para expresar la persona á quien uno acompaña perseverando.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era infatigable en el trabajo de visitar, y apenas había quien pudiese durar con él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de B. de los Márt. 7 (R. 11. 440 1 )."
+            },
+            {
+              "texto_cita": "«Huíd, dice, y durad conmigo á una, | Y reservaos para mejor fortuna.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "canc. Pues que no hay voz (R. 42. 336 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con un pred. , para expresar la manera ó modo de ser en que uno se mantiene; en igual concepto se dice de las cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nunca dura la mar alborotada.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", égl . 1 (89)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la acepción de Sufrir, aguantar.) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El acometer é el durar en las lides son dos actos pertenecientes á la virtud de la fortaleza.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 5 (50)."
+        },
+        {
+          "texto_cita": "«Duraron estas guerras los otros diez años postrimeros que este rey reynó.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1 (16)."
+        },
+        {
+          "texto_cita": "«No se engañe nadie, no, | Pensando que ha de durar | Lo que espera, | Más que duró lo que vio.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 45)."
+        },
+        {
+          "texto_cita": "«E quanto en uno duraron [el marqués de Villena y su mujer], siempre vivieron mal avenidos.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 1. 4 (R. 68. 279 1 )."
+        },
+        {
+          "texto_cita": "«Aquel lugar donde se dio la batalla era un grand sabre de mar que duraba media hora.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 157."
+        },
+        {
+          "texto_cita": "«El circuito desta iglesia solia durar al derredor desta iglesia diez millas.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav . p. 61. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«E tu nonbre será ensalçado por todo el mundo quanto él durará.»",
+          "autor": "Plácidas",
+          "referencia_obra": "(Knust, 143)."
+        },
+        {
+          "texto_cita": "«Dura bien una legua [esta isla], et hay en ella muchos venados.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2. 2 ( Bibl. venat. 1. 326)."
+        },
+        {
+          "texto_cita": "«Non dando nin sirviendo el amor poco dura.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1338 (R. 57. 269 2 )."
+        },
+        {
+          "texto_cita": "«Onde era señor quiso ser siervo --- onde era durado quiso ser mortal.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Libro de los est . 1. 57 (R. 51. 309 1 )."
+        },
+        {
+          "texto_cita": "«Ha de durar poco [el estado de este mundo] á comparación del duramiento del alma que ha de seer para siempre.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 47 (R. 51. 303 2 )."
+        },
+        {
+          "texto_cita": "«El placer, cuanto mas dura, es mayor.»",
+          "autor": "",
+          "referencia_obra": "Id. Caball. é escud. 21 (R. 51. 238 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Mas vale rescebir home honra por mano de otri e durarle, que tomarla por sí é haberla de perder porque la toma á sin razon.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 41 (R. 51. 166 1 )."
+        },
+        {
+          "texto_cita": "«E Galieno durando en su maldad e non dando nada por todo aquello, leuantose vn prinçipe muy poderoso que auie nonbre Primegenio por se alçar con el imperio.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 1. 135 (109 1 )."
+        },
+        {
+          "texto_cita": "«Non durarán mucho que me despedaçarán todo canes.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 117 (91 2 )."
+        },
+        {
+          "texto_cita": "«La cosa que alguna vegada non fuelga non puede mucho durar.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 5. 20 (2. 40)."
+        },
+        {
+          "texto_cita": "«El sennor de la tierra le deve [al iuez] mantinente ayudar, que los malfechores non puedan durar mucho.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 7. 4. 2 (127)."
+        },
+        {
+          "texto_cita": "«Ector e los troianos nol pudioron durar.»",
+          "autor": "Alex.",
+          "referencia_obra": "626 (R. 57. 166 2 )."
+        },
+        {
+          "texto_cita": "«Rey, suefres grant pena, no lo podrás durar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 289 (R. 57. 156 2 )."
+        },
+        {
+          "texto_cita": "«Tanto corrie el cauallo que dezien que uolaua, | Se un mes le durasse, el nunca se quexaua.»",
+          "autor": "",
+          "referencia_obra": "Ib . 113 (R. 57. 151 1 )."
+        },
+        {
+          "texto_cita": "«Quinze dias conplidos duraron en las bodas.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2251 (R. 57. 25 1 )."
+        },
+        {
+          "texto_cita": "«Si en estas tierras quisieremos durar, | Firmemientre son estos á escarmentar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1120 (R. 57. 14 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. durar ; fr. durer; it. durare : del lat. durare , propiamente, ser duro, derivado de durus, duro. En el lenguaje familiar se usa todavía el verbo aturar por Tapar y cerrar muy apretadamente, del lat. obturare , cambiado el prefijo:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pues atúrese esa boca, y cósase esa lengua con una agujeta de dos cabos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "La cueva de Salamanca ( Com . 2. 308)."
+        },
+        {
+          "texto_cita": "«Si estas niñerías tomas | Por deshonra ó por disgusto, | Yo me aturaré la boca | Con cal y arena á pisón.»",
+          "autor": "Valdés",
+          "referencia_obra": ", Diál . (Mayans, 68, 69). Covarr. y Oudin dan como usual turar por durar ."
+        },
+        {
+          "texto_cita": "«En tanto que los pollos en el corral le turaren, nunca su mujer estará sin fiebre.»",
+          "autor": "L. de Rueda",
+          "referencia_obra": "(R. 2. 281 1 )."
+        },
+        {
+          "texto_cita": "«En otros tiempos á las çeniças e defunçiones de los muertos metros elegiacos se cantavan; é aun agora en algunas partes tura.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 6."
+        },
+        {
+          "texto_cita": "«A otros do sçeptro é silla triunphante, | En tanto que turan sus mesmas edades.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 142."
+        },
+        {
+          "texto_cita": "«Quanto tiempo turasse en este loable exerçiçio, non s'escrive.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 150."
+        },
+        {
+          "texto_cita": "«Dessos todos que narraste | ¡O quantos te mostraré | Que prósperos aturé | Todos tiempos, sin contraste!»",
+          "autor": "",
+          "referencia_obra": "Id. p. 169."
+        },
+        {
+          "texto_cita": "«Esse que tanto ensalçó | En su clara trompa Homero, | Ardit, bellicoso é fiero, | Ya sabes quanto turó.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 179 (* duró)."
+        },
+        {
+          "texto_cita": "«Alli es do más atura | En los sennores larguesa, | En donas grand fermosura.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 158."
+        },
+        {
+          "texto_cita": "«En ella [en la montaña] avia muchos edificios y cimientos de casas de piedra seca, que turaban grande pieza.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav . p. 103."
+        },
+        {
+          "texto_cita": "«Amigo de fortuna | Prospera quando cresçe, | Tura mientra es vna | Quando mengua, fallesçe.»",
+          "autor": "",
+          "referencia_obra": "Sem Tob, 491 (R. 57. 362 1 )."
+        },
+        {
+          "texto_cita": "«Una legua de andadura | Aturó la arrancada.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1774 (R. 57. 530 2 )."
+        },
+        {
+          "texto_cita": "«E de las tierras de alen mar | Muchos moros son passados, | Sy esta guerra aturar, | Sserá por nuestros pecados.»",
+          "autor": "",
+          "referencia_obra": "Ib . 631 (R. 57. 496 2 )."
+        },
+        {
+          "texto_cita": "«Si ellos sopieran que el rey avia de cercar á Algecira, de otra manera trajeran menos gentes porque lo pudiesen aturar.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV, 17 (R. 66. 163 1 )."
+        },
+        {
+          "texto_cita": "«Quien por grand codicia de haber se aventura, | Será maravilla si el bien mucho le atura.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 38."
+        },
+        {
+          "texto_cita": "«Sin la justicia non puede mucho turar la fe pública, nin cibdat, nin regno.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 9 (R. 51. 105 2 )."
+        },
+        {
+          "texto_cita": "«E los moros bien cuydauan que aquellos franceses eran mejores caualleros del mundo, e mejor guarnidos, e que mas aturauan en lid.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 4. 3 (318 1 )."
+        },
+        {
+          "texto_cita": "«Ca vio que auie menester hueste cada año e de aturar la guerra.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 3 (316 1 )."
+        },
+        {
+          "texto_cita": "«Aturat en castigamiento»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Aturaredes»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Aturare escuentra ty»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Algunas cosas son que non han fermedumbre nin turan; la una es la sombra de las nubes.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 45 2 )."
+        },
+        {
+          "texto_cita": "«E yo si culpado fuese, foiria por la tierra é haberia anchura, et non aturaria á la puerta del rey.»",
+          "autor": "",
+          "referencia_obra": "Ib. (R. 51. 36 1 )."
+        },
+        {
+          "texto_cita": "«Tú ves que el agua es más blanda que la piedra; pues si mucho atura el agua por encima, face rastro en ella.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 30 2 )."
+        },
+        {
+          "texto_cita": "«Si fuere rrico viva mesuradamente, e si fuere pobre ature en la su labor.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": ", 12 (Knust, 207)."
+        },
+        {
+          "texto_cita": "«Toma de la rrays del estudiar e las rrayses de aturar en ello, e la cortesa de seguillo.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", preámb . 3 (Knust, 71)."
+        },
+        {
+          "texto_cita": "«Anda cuemo rueda que non quier aturar.»",
+          "autor": "Alex.",
+          "referencia_obra": "1644 (R. 57. 198 1 )."
+        },
+        {
+          "texto_cita": "«Se auedes cobdiçia de a la tierra tornar, | O en esta prouincia queredes aturar ---»",
+          "autor": "",
+          "referencia_obra": "Ib . 1449 (R. 57. 192 1 )."
+        },
+        {
+          "texto_cita": "«Ca puesto an los fados todos a uos lo dar, | Solo que uos querades un poco aturar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 744 (R. 57. 170 2 )."
+        },
+        {
+          "texto_cita": "«Dios uos fará merçed solo que aturedes.»",
+          "autor": "",
+          "referencia_obra": "Ib. 689 (R. 57. 168 2 )."
+        },
+        {
+          "texto_cita": "«Aturó bien Teofilo en su contemplaçion.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 854 (R. 57. 129 2 )."
+        },
+        {
+          "texto_cita": "«Los que fueren esse dia iuzgados de lazrar, | Abran con el diablo siempre a aturar.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores, 182 (R. 57. 99 1 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,349 @@
+{
+  "lema": "COMPAÑERO, A.",
+  "categoria_gramatical": "s.",
+  "introduccion": "--> s.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Persona que acompaña á otra, que está ó va con él para algún fin.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Me mostró tres labradoras que por aquellos amenísimos campos iban saltando y brincando como cabras, y apenas las hube visto cuando conocí ser la una la sin par Dulcinea del Toboso, y las otras dos aquellas mismas labradoras que venían con ella que hablamos á la salida del Toboso. Estándome diciendo Montesinos estas razones, se llegó á mí por un lado, sin que yo la viese venir, una de las dos compañeras de la sin ventura Dulcinea.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 23. (R. 1. 454 1 )."
+        },
+        {
+          "texto_cita": "«Por haberme hecho el cielo compañero de Zoraida, me parece que ninguna otra suerte me pudiera venir, por buena que fuera, que más la estimara.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 41 (R. 1. 374 1 )."
+        },
+        {
+          "texto_cita": "«Y en cierta manera le miran los que la maldad de su mujer saben con ojos de menosprecio, en cambio de mirarle con los de lástima, viendo que no por su culpa, sino por el gusto de su mala compañera está en aquella desventura.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 33 (R. 1. 343 2 )."
+        },
+        {
+          "texto_cita": "«Partí de Ávila por junio con una compañera y con el padre Julián de Ávila.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Fund . 13 (R. 53. 201 2 )."
+        },
+        {
+          "texto_cita": "«Desde el principio que Ignacio se determinó de seguir los estudios, tuvo siempre inclinación de juntar compañeros que tuviesen el mismo deseo que él de ayudar á la salvación de las ánimas.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Vida de S. Ign . 2. 4 (R. 60. 39 2 )."
+        },
+        {
+          "texto_cita": "«Prosiguieron su viaje Grijalva y sus compañeros por la misma derrota.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 1. 7 (R. 28. 214 1 )."
+        },
+        {
+          "texto_cita": "«Ningún colegial podrá salir del colegio sin compañero.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Regl. col. Calatr . 1. 5 (R. 46. 188 2 )."
+        },
+        {
+          "texto_cita": "«Y es cosa para notar que como buenos y fieles compañeros se esperan unas á otras [ciertas avecillas] para hacer juntas aquella jornada.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 1. 15, § 1 (R. 6. 222 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En los cuerpos y comunidades, como cabildos, colegios etc., cada uno de los individuos que los componen con respecto á los demás.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Defender la inocencia de mis ilustres compañeros era un oficio noble, desinteresado y recomendado por el honor y la justicia.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Def. de la Junta Central , 2 (R. 46. 543 1 )."
+        },
+        {
+          "texto_cita": "«En el cual [trabajo ] es justo contar el que tuve en la junta de instrucción pública, cuya presidencia preferí á la de constitución, que me señalaban mis compañeros, por el íntimo sentimiento que estuvo siempre grabado en mi espíritu de que la buena instrucción pública era el primer manantial de la felicidad de las naciones.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 2 (R. 46. 548 1 )."
+        },
+        {
+          "texto_cita": "«Aquel hombre insigne solía decir confidencialmente á sus compañeros que la Junta Central, para acabar con honor y seguridad, debía morir en brazos de las cortes.»",
+          "autor": "Quint.",
+          "referencia_obra": "Obr. inéd . p. 181."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "En varios juegos, cualquiera de los jugadores que se unen y ayudan contra los otros. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Persona que toma parte con otra en hacer algo ó corre la misma suerte ó fortuna que otra.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en , para expresar lo que se hace ó lleva en compañía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ruégote que no te olvides de mi buen Rocinante compañero eterno mío en todos mis caminos y carreras.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 2 (R. 1. 259 1 )."
+            },
+            {
+              "texto_cita": "«Si es verdad lo que comúnmente se dice: el tener compañeros en los trabajos suele servir de alivio en ellos, con vuesa merced podré consolarme, pues sirve á otro amo tan tonto como el mío.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 13 (R. 1. 429 2 )."
+            },
+            {
+              "texto_cita": "«Si padeciéremos con él, gozaremos también con él; y si fuéremos compañeros suyos en sus dolores, también lo seremos en sus contentos.»",
+              "autor": "Gran.",
+              "referencia_obra": "serm. Ascens . § 1 (R. 11. 16 1 )."
+            },
+            {
+              "texto_cita": "«El mismo hace memoria de Herennio Senecio, nacido en el Andalucía y cuestor della, orador y compañero suyo en una causa.»",
+              "autor": "Aldrete",
+              "referencia_obra": ", Orig . 1. 15 (107)."
+            },
+            {
+              "texto_cita": "«Procuraba [ganar] Tigelino la [voluntad] de Nerón, haciéndose compañero en sus maldades.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 13 (R. 25. 39 1 )."
+            },
+            {
+              "texto_cita": "«El Criador formó las mujeres para compañeras del hombre en todas las ocupaciones de la vida.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 33 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Piensa Tiberio en la muerte de Germánico, celoso de la gloria de sus victorias, y en extinguir la línea de Augusto; y le llamó al triunfo, y le hizo compañero del imperio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 78 (R. 25. 210 2 )."
+            },
+            {
+              "texto_cita": "«Unas, por su interés, tratan de corromper en ella [en la casada] la fe del matrimonio. Otras porque han faltado ellas, gustan de tener compañeros de sus faltas.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 10 (3. 467)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Es forzoso emplear de , cuando el término no lleva modificativo: Compañero de viaje, de colegio.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Hablándose de cosas inanimadas, la que hace juego ó tiene correspondencia con otra ú otras.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo llevo en este envoltorio unos gregüescos de terciopelo, compañeros desta ropilla.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 24 (R. 1. 455 2 )."
+            },
+            {
+              "texto_cita": "«Pasar la vida en música es pasarla en contento, porque es compañera de la alegría la música.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 21 (1. 325)."
+            },
+            {
+              "texto_cita": "«Si no son virtud, son compañeros della, y medios con que se alcanza, y con que obramos más acertadamente.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 7 (R. 25. 24 1 ). —"
+            },
+            {
+              "texto_cita": "«De cada especie de los animales limpios ó puros haz entrar siete en el arca: tres de ellos pareados ó con sus hembras, y el séptinio quedará solo sin compañera, para ser ofrecido en holocausto.»",
+              "autor": "Scío",
+              "referencia_obra": ", Gén . 7. 2, nota ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Es raro y no merece imitarse el uso de á por de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la otra capilla, compañera á ésta, hay un pozo lleno de huesos de santos mártires.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 463."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«.E sabia ser con ellos señor é compañero; é ni era altivo en el señorio, ni raez en la compañia.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 4 (37)."
+        },
+        {
+          "texto_cita": "«La grand fortuna siempre trae consigo por compañera la envidia.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 127 (373). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Si Dios quando formó el ome, entendiera | Que era mala cosa la muger, non la diera | Al ome por compannera, nin del non la fesiera.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 99 (R. 57. 230 1 )."
+        },
+        {
+          "texto_cita": "«Pedió á Dios por merced que le mostrase quién habia de ser su compañero en paraiso --- Enviole á decir por su angel que él et el rey Richarte de Inglaterra que serian compañeros en paraiso.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 4 (R. 51. 373 1 )."
+        },
+        {
+          "texto_cita": "«El seso le dirá como se debe mostrar por señor á los suyos, et como les debe seer buen compañero.»",
+          "autor": "",
+          "referencia_obra": "Id. Caball. et escud . 19 (R. 51. 237 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Cuatro cosas son que el home face, por las cuales se face el alma del santo home compañera de los ángeles.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 7 (R. 51. 99 2 )."
+        },
+        {
+          "texto_cita": "«Fue Trajano muy franco e muy compañero á sus amigos.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 119 (93 1 )."
+        },
+        {
+          "texto_cita": "«E este Claudio era mucho escaso a ssi mismo e compañero a los otros.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 110 (77 2 . Suetonio:"
+        },
+        {
+          "texto_cita": "«In semet augendo parcus atque civilis.»",
+          "autor": "",
+          "referencia_obra": "Claud . 12)."
+        },
+        {
+          "texto_cita": "«Aqueste era ome que se fazia muy compañero de las gentes por auer su amor.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 39 (18 2 )."
+        },
+        {
+          "texto_cita": "«Fue asi llamada [la cibdad] porque era atan viçiosa, que tenien que non a compañera en el mundo.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 4 (5)."
+        },
+        {
+          "texto_cita": "«Facen los homes compañias entre sí poniendo que todos los bienes que han ó ganaren dende adelante que sean comunalmiente de todos los compañeros.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 28. 47 (2. 731)."
+        },
+        {
+          "texto_cita": "«Compañeros seyendo algunos en mercadoria ó en otra cosa, si hobiesen pleyto en juicio sobre aquella cosa en que han la compañia, non debe seer rescebido el testimonio del uno por el otro.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 16. 21 (2. 525)."
+        },
+        {
+          "texto_cita": "«Si aquel á quien facen esta demanda es tenedor de aquella cosa del todo, et niega que el otro non es su compañero nin su aparcero, nin ha ningunt derecho de haber parte en ella ---»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 10. 7 (2. 468)."
+        },
+        {
+          "texto_cita": "«Eso mesmo serie quando alguno de los compañeros toviese las cartas de las cuentas que fuesen comunales de todos.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 2. 17 (2. 363)."
+        },
+        {
+          "texto_cita": "«Et porque ellos han á estar siempre aparejados de poner los cuerpos á muerte ó á vida por el rey, por eso los llamaron antiguamente compañeros de su palacio.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 9. 9 (2. 66)."
+        },
+        {
+          "texto_cita": "«Segunt natura el señorio non quiere compañero nin lo ha menester.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 1. 1 (2. 4)."
+        },
+        {
+          "texto_cita": "«Eso mismo dezimos en todos los otros pleitos, que son fechos por cartas, asi como entre conpaneros sobre conpania que oviesen fecho entre si.»",
+          "autor": "",
+          "referencia_obra": "Espéc . 5. 7. 5 (0. L. 1. 340)."
+        },
+        {
+          "texto_cita": "«E esto mismo dezimos de los que fueron herederos de una cosa, o conpaneros, e de clerigos en pleito de su eglesia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 8. 11 (0. L. 1. 227)."
+        },
+        {
+          "texto_cita": "«Que se guardasse de yr sennero por camino, e que siempre fuesse con uno de los sus companneros.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "( Knust , 19)."
+        },
+        {
+          "texto_cita": "«El omne sannudo es peligro pora su compannero.»",
+          "autor": "",
+          "referencia_obra": "Ib. ( Knust , 11)."
+        },
+        {
+          "texto_cita": "«Si el siervo furta alguna cosa á su sennor, ó á otro su compannero siervo de su sennor, el sennor faga dél lo que quisiere.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 7. 2. 21 (124)."
+        },
+        {
+          "texto_cita": "«Y el siervo que mató á so companero sea en poder del sennor, que faga dél lo que quisiere.»",
+          "autor": "",
+          "referencia_obra": "lb . 6. 5. 12 (114; * compannero)."
+        },
+        {
+          "texto_cita": "«Si alguno quisiere franquear el siervo que a con otro, primeramientre ge lo deve quitar con sus companneros ó por ruego o por precio.»",
+          "autor": "",
+          "referencia_obra": "lb . 5. 7. 2 (95)."
+        },
+        {
+          "texto_cita": "«Un dia Apolonyo salló a la ribera, | Su esposa conell, la dulçe companyera.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 242 (R. 57. 291 2 )."
+        },
+        {
+          "texto_cita": "«Dexole huna fija genta de grant manera: | Nol sabian en el mundo de beltat companyera.»",
+          "autor": "",
+          "referencia_obra": "lb . 4 (R. 57. 283 1 )."
+        },
+        {
+          "texto_cita": "«Non demandó consigo ninguna compannnera.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 519 (R. 57. 119 2 ). —"
+        },
+        {
+          "texto_cita": "«Et si --- non quisiere ibi seder, cada dia pecte X. m o ., los medios al adarue et los medios a sus companeros.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid , año 1202 ( Mem. Acad. Hist . 8. 46)."
+        },
+        {
+          "texto_cita": "«Et si super acotamento baraiaren, pecten I. m o . alos qui lo acotaren: et si non habuerint ibi alio conpanero, el iurado cum uno uicino.»",
+          "autor": "",
+          "referencia_obra": "lb . ( ib. 30)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Formado sobre compaña , lo mismo que el port. companheiro , prov. companhier , sobre companha . En latín bajo les correspondería companiarius , como compañón , prov. companh , companhon , fr. ant. compain, compagnon , representan á companio , companionem . Significa El que come el mismo pan, al modo que camarada , el que vive en la misma cámara. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,96 @@
+{
+  "lema": "DEDIGNAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Desdeñar, despreciar ( trans .) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los arcos, las estatuas --- los demuele y deshace el tiempo, los obscurece el olvido, la posteridad los menosprecia y dedigna.»",
+          "autor": "",
+          "referencia_obra": "Amaya, Desengaño de los bienes humanos , 9 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . No dignarse, tener por indigno de sí ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar aquello que no se digna uno hacer ó que no juzga digno de sí.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya se molesta y se dedigna | De poner armas á la plebe indigna.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 14 ( Fern. 8. 43)."
+            },
+            {
+              "texto_cita": "«Una vez que se atrevieron á pedir su lado y las sillas, siendo rey y Dios, no se dedigna de decir: No me toca á mi dároslo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 1. 2 (R. 23. 13 1 )."
+            },
+            {
+              "texto_cita": "«Pídele á Dios lo que á su grandeza se puede pedir, y lo que no se dedignará su mano poderosa de dar.»",
+              "autor": "",
+              "referencia_obra": "Id. Cuna y sepult . 5 (R. 48. 92 1 )."
+            },
+            {
+              "texto_cita": "«Más raro y santo ejemplo dio Pedro á los venideros con que no se dedignasen de ser corregidos de los postreros, que Pablo ---»",
+              "autor": "",
+              "referencia_obra": "Id. Vida de S. Pablo (R. 48. 30 2 )."
+            },
+            {
+              "texto_cita": "«Introdújola [la muerte] el pecado: es verdad; empero no se dedignó de padecerla quien quitó el pecado.»",
+              "autor": "",
+              "referencia_obra": "Id. Fantasma 1 (R. 48. 138 2 )."
+            },
+            {
+              "texto_cita": "«Favores de los que saben hacer los reyes cuando se hallan bien servidos y no se dedignan de quedar obligados.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 8 (R. 28. 356 1 )."
+            },
+            {
+              "texto_cita": "«Con ser inmenso no te dedignaste | De la estrecha clausura | De las entrañas de una virgen pura.»",
+              "autor": "D. Gonz.",
+              "referencia_obra": "A vos , Señor (R. 61. 196 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se dedignó recién nacido de que le abrigase en un pesebre el resuello de dos bestias menos nobles.»",
+              "autor": "Quev.",
+              "referencia_obra": "carta á Luis XIII (R. 23. 263 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Alguna vez se omitía el de antes de un infin. , como hoy se hace con dignarse .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No ignoraba cuánto aventuran los superiores que se dedignan caminar por las huellas de los que fueron delante.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 13 (R. 28. 325 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Es la forma erudita de desdeñar . Port. dedignarse . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

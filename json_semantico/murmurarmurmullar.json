@@ -1,0 +1,1061 @@
+{
+  "lema": "MURMURAR, MURMULLAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer un ruido armonioso y apacible el agua al caer o correr ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La fuente clara y pura murmurando | Nos está convidando a dulce trato.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Obr . 2 (Cl. C. 3. 86). X"
+            },
+            {
+              "texto_cita": "«El Tajo crece por mostrar su ira | Y corre de la muerte murmurando.»",
+              "autor": "Lope",
+              "referencia_obra": ", Poes. lír . (Cl. C. 68. 123). X"
+            },
+            {
+              "texto_cita": "«No pienses ya que el ábrego que suena | Ni el agua que murmura | Me podrán redimir de tanta pena.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Eróticas , 16 (Cl. C. 21. 76). X"
+            },
+            {
+              "texto_cita": "«Objetos | Son del Oído las puras | Fuentes, siendo en el rüido, | Compás que a coros se escucha, | Apacibles porque parlan, | Y alegres porque murmuran.»",
+              "autor": "Cald.",
+              "referencia_obra": "Autos , 2 (Cl. C. 74. 102)."
+            },
+            {
+              "texto_cita": "«Por los fecundos prados | Las fuentes murmuraban.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Luisa Tudi (R. 19. 6 1 ). X"
+            },
+            {
+              "texto_cita": "«Duerme: el bosque nos presta su toldo umbrío, | Susurra la floresta, murmura el río; | Duerme en calma tu siesta, que el duelo es mío.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Poes . (Cl. C. 63. 123). X"
+            },
+            {
+              "texto_cita": "«No oirás de su voz divina | La dulzura, | Ni en el ruiseñor que trina, | Ni en el raudal que murmura.»",
+              "autor": "Campoamor",
+              "referencia_obra": ", Poes . (Cl. C. 40. 38). X"
+            },
+            {
+              "texto_cita": "«Una nube redonda pasa, como un navío | Después de haberle dado su lluvia al caserío. | El horizonte es rojo. Lejos, murmura el río.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poét . 1 (p. 28)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , que indica la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Una fuente perpetua | Murmure con sus ondas.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Eróticas , 23 (Cl. C. 21. 273)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con entre . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Glorioso corre el apacible Henares | Y con la luz de su Academia el Tormes | Murmura entre sus mármoles dispares.»",
+              "autor": "Lope",
+              "referencia_obra": ", Poes. lír . (Cl. C. 75. 40). X"
+            },
+            {
+              "texto_cita": "«Cerca el Rhin murmuraba entre la bruma | Evocando leyendas, | Y sobre el muerto campo y en las almas | Flotaba la tristeza.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Antol. poét . p. 8."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por y una prop. indicativa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y unos ojos con tal fuego | Que las linfas, por su causa, | Si bullen es que se queman, | Murmuran porque se abrasan.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes . (Cl. C. 95. 257)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con sobre . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo sé bien que cuando el mundo | Cede, lívido, al descanso | Sobre el silencio profundo | Murmura el arroyo manso.»",
+              "autor": "Martí",
+              "referencia_obra": ", Páginas escogidas , p. 19."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Torna, y de noche entre las ondas flojas | De la hamaca que vio tu primer lloro, | De fina lluvia el murmurar sonoro, | Cayendo oirás del plátano en las hojas!»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 150. — Además con de sujetivo. X"
+            },
+            {
+              "texto_cita": "«Murmullo suave percibiose en el ambiente, cantos de ave, murmurar de arroyos, paso, reptación y vuelo de los seres animados.»",
+              "autor": "",
+              "referencia_obra": "Lz. de Mesa, El libro de los apólogos , p. 87."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Melancólico ruido | Del mar las olas murmuran, | Y fatuos, rápidos fuegos | Entre sus aguas fluctúan.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poes . (Cl. Castal. 20. 123). X"
+            },
+            {
+              "texto_cita": "«Acaso el banco, como viejo amigo, | Guarde el calor de tu regazo blando; | Tal vez la fuente, nuestro fiel testigo, | Siga las mismas voces murmurando.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poét . 1 (p. 18)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. Además con a . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y la marea, aislando poco a poco el escollo, jugaba con su manto verdusco, apagaba sus lamentos, se llevaba sus lágrimas y le murmuraba al oído enorme y despiadada canción, que reía con las espumas.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro , 3 (p. 285)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aplicado a otras cosas, como el viento, árboles, etc. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Murmura el bosque y ríe el verde prado, | Y cantan los parleros ruiseñores; | Mas yo en dos mil tristezas sepultado.»",
+              "autor": "",
+              "referencia_obra": "Gil Polo, Diana (Cl. C. 135. 112). X"
+            },
+            {
+              "texto_cita": "«Y cuando, a los rayos | De tu lámpara nocturna, | Junto a tu lecho la cuelgues, | Todo mullido de plumas, | Oirás sus cuerdas de oro | Que retemblando murmuran.»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 156. X"
+            },
+            {
+              "texto_cita": "«Mujik redento, escucha cómo | En tu rancho, en la pampa inmensa, | Murmura alegre el samovar.»",
+              "autor": "Darío",
+              "referencia_obra": ", Poes. p. 390. X"
+            },
+            {
+              "texto_cita": "«La lona de las velas murmuraba; daban golpes, que sonaban como coletazos, los foques.»",
+              "autor": "E. Zalamea",
+              "referencia_obra": ", Cuatro años , 15 (p. 241)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. adj. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y los ruidos se juntan, se atenúan: | Murmurada amalgama | Pendiente.»",
+              "autor": "Guillén",
+              "referencia_obra": ", Selec. poem. p. 215."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sustantivado. Con de sujetivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al son del agua y murmurar del viento, | Que entonzes a Sireno le servía | De templar con sus vozes su instrumento, l A cantar comenzó con alegría | El próspero viaje y el empleo, | Su rica y celestial mercadería.»",
+              "autor": "Solís",
+              "referencia_obra": "y Valenzuela, El desierto prodigioso , 1 (ICC. 25. 345)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los ojos, la boca, los brazos, las manos: cantan, murmuran, arrullan, besan, gritan, rugen, claman, lloran y se despedazan.»",
+              "autor": "S. Villegas",
+              "referencia_obra": ", Letras , p. 74. — Con la expresión en torno de , que indica el lugar. X"
+            },
+            {
+              "texto_cita": "«El sueño murmura en torno de los párpados, y la boca, la garganta, piden alcohol que embriague y que destruya.»",
+              "autor": "Zalamea",
+              "referencia_obra": ", Cuatro años , 12 (p. 199). — Sustantivado con de . X"
+            },
+            {
+              "texto_cita": "«Confuso murmurar de vida emergía del contorno.»",
+              "autor": "Lz. de Mesa",
+              "referencia_obra": ", El libro de los apól . p. 131."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hablar en voz baja casi sin pronunciar las palabras manifestando, generalmente, queja o disgusto ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«( Luisa murmura algo , inclinada sobre su plato .) — ¿Dices algo, Luisa?»",
+              "autor": "Sastre",
+              "referencia_obra": ", La mordaza (Cl. Castal. 61. 134. X"
+            },
+            {
+              "texto_cita": "«Debimos estar anhelantes y ávidos, sin respirar, los ojos dilatados, murmurando tal vez palabras incomprensibles, hasta que la pirámide humana se dividió.»",
+              "autor": "Vargas Llosa",
+              "referencia_obra": ", El desafí o, p. 110. X"
+            },
+            {
+              "texto_cita": "«Murmuró una palabra sucia y sonrió mientras se levantaba para recibir a las dos mujeres.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero , p. 30. X"
+            },
+            {
+              "texto_cita": "«Cierto que no es abundante [la sopa]. ( Pasea. Los ciegos cuchichean. Se detiene. ) — ¿Qué andáis murmurando?»",
+              "autor": "Buero Vallejo",
+              "referencia_obra": ", Concierto (Cl. Castal. 35. 82)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. Además con a , que señala el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La soledad nos trae sentimientos más tranquilos; entonces, podemos dialogar con la amada, mejor aún que si estuviera presente, y murmurarle al oído las más apasionadas ternuras.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Canc. caminante , p. 66."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con a , con el mismo sentido anterior. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era cierto lo que el Melanés había murmurado, torvamente, a su oído, el sábado en la tarde.»",
+              "autor": "Vargas Llosa",
+              "referencia_obra": ", Día domingo , p. 120."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la prep. con que indica el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El muchacho murmuró un suave insulto con su voz chillona y se fue.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero , p. 138. — Además con de . X"
+            },
+            {
+              "texto_cita": "«En los últimos tiempos los sueños de Angélica Inés, las síntesis, las frases que ella murmuraba de improviso con su voz blanda y deslumbrada, eran recogidas por Larsen como desafíos, como temas impuestos.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero , p. 129."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con en , que señala el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oigo una voz que murmura | En derredor de don Juan | Palabras con que su afán | Se calma en tu sepultura.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Don Juan Tenorio , 2. 1 (Cl. C. 201)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El acus. se presenta en estilo directo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre sueños murmuraba: | ‘Ven, oh gloria de mis penas, | Que es mi cama de azucenas | Y te guardo yo un placer.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes . (Cl. C. 95. 158). X"
+            },
+            {
+              "texto_cita": "«Es la voz del ama de leche... — murmuró Garduña.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El sombrero de tres picos , 28 (Cl. C. 200. 133). X"
+            },
+            {
+              "texto_cita": "«Al mirarte pasar murmuro quedo | Y acaso tú murmurarás, también | Esta expresión — la voz más melancólica | Del humano lenguaje: — pudo ser...»",
+              "autor": "",
+              "referencia_obra": "C. A. Torres, Obr. poét . p. 160. X"
+            },
+            {
+              "texto_cita": "«Pero la insistencia de los bronces rotos le recordó el entierro: ‘Es octubre’, murmuró, y caminó hacia el centro del cuarto.»",
+              "autor": "Márquez",
+              "referencia_obra": ", El coronel , p. 4. X"
+            },
+            {
+              "texto_cita": "«Antes de pisar los tres escalones, antes de la luna y de una soledad más soportable, Larsen murmuró como una excusa: — A todo el mundo le pasa.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero , p. 135."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , que indica el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se sorprendió a sí mismo murmurando, con un sentimiento que por primera vez lo visitaba: ¡Ah, malhaya un trotecito | Que no terminara nunca! | ¡Ah, malhaya quién hallara | Aquello que nadie busca!»",
+              "autor": "Gallegos",
+              "referencia_obra": ", Cantaclaro , p. 14."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en , que indica: — el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y la voz de Dios que viene con los rebaños del viento y que murmura en los oídos del abandonado Patricio Bronte: ‘¿Quién sabe cuál es el bien del hombre en la vida, todos los días de la vida de su vanidad los cuales él pasa como sombra?»",
+              "autor": "Zalamea",
+              "referencia_obra": ", Minerva en la rueca , p. 68. — El modo. X"
+            },
+            {
+              "texto_cita": "«Y don Diego, apoyado el codo sobre la mesa, levanta la cabeza pensativa, soñadora, y murmura en voz leve: — ¡psch, los académicos!»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quij . 14 (p. 390)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por , que señala el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Si te quedases en el pueblo y te ficieras marinero! Él murmuró por lo bajo, muy poco a poco: — Quizás al amanecer nos vayamos.»",
+              "autor": "Pz. de Ayala",
+              "referencia_obra": ", Tinieblas (Cl. Castal. 36. 117)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No soy yo, ¡pero soy! — murmuró el viento —, | Y vuelvo, amada mía, | Desde la eternidad para dejarte | Ver otra vez mi incrédula sonrisa.»",
+              "autor": "R. de Castro",
+              "referencia_obra": ", En las orillas del Sar (Cl. Castal. 90. 123). — Con dat. X"
+            },
+            {
+              "texto_cita": "«En tal sentido el espíritu de su obra [de García Márquez] remonta las fuentes mismas del género novelesco. Ella parece murmurar a su lector: aún habrá que ralatarles.»",
+              "autor": "Mejía Duque",
+              "referencia_obra": ", Ensayos , p. 45."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Avecinó los labios de su boca a la mejilla lastimada, y murmurando blandamente, dijo no sé que versos.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 2 (p. 144). X"
+            },
+            {
+              "texto_cita": "«Una vez bebido el aguardiente daban las gracias a media voz, como murmurando, se secaban los gruesos labios con el revés de la mano y escupían ruidosamente.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas , 8 (p. 97)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando veas dos o más personas que pasean siempre juntas y trabajan o murmuran en corro, no cometas la tontería de inmiscuirte en el bloque sentimental ni de iniciar tentativas para disociarlo.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café , 1 (p. 26)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sé afable con quien te adora, | Y verás toda la aldea, | Si ora tu altivez murmura, | Celebrar tu gentileza.»",
+              "autor": "Mel.",
+              "referencia_obra": "rom . 13 (R. 63. 138 3 ). X"
+            },
+            {
+              "texto_cita": "«Hoy le cargaba sin remedio esa cuarentona culiparada y patiabierta, que para escuchar abría los ojos con asombro y se balanceaba de pie a pie al responder o murmurar.»",
+              "autor": "Barrios",
+              "referencia_obra": ", Gran señor y rajadiablos , p. 102."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empiezan entonces a murmullar los resentimientos y rencores, sobrevienen las venganzas particulares, exígese que a ellos se prostituya la justicia pública.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Escrit. polít . p. 132. — Con de . X"
+            },
+            {
+              "texto_cita": "«Aquella cuesta de enfrente, | Donde está una hermosa fuente | De sí misma murmurando.»",
+              "autor": "M. de Amescua",
+              "referencia_obra": ", La mesonera (Cl. C. 171. 119). — Con en . X"
+            },
+            {
+              "texto_cita": "«¡En tu cumbre inmortal se dan la mano | La eternidad que fue con la futura: | La voz de lo pasado en ti murmura, | De una tierra ya muda, escombro vano!»",
+              "autor": "Heredia",
+              "referencia_obra": ", Antol . p. 45."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Loc. Murmurar entre dientes: hablar quejándose por algo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y sin mirarme, desdeñosa y fiera, | No sé qué allá entre dientes murmurando, | Me dejó aquí, y aquí quiere que muera.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Obr . 2 (Cl. C. 3. 50). X"
+            },
+            {
+              "texto_cita": "«¿Qué será cuando a la malignidad se acumulan los despropósitos del ingenio? Dijo, y volvió la espalda, murmurando todavía entre dientes.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell . (Cl. C. 66. 224). X"
+            },
+            {
+              "texto_cita": "«( Solo , murmura entre dientes .) — Cobardes..., cobardes.»",
+              "autor": "Casona",
+              "referencia_obra": ", La barca sin pescador , p. 100."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Comentar o contar cosas con poco fundamento y mala voluntad para perjudicar a alguien o algo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya se acordará de lo que mormuran estas mis andadas después, y quién son.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 239 (R. 55. 216 2 )."
+            },
+            {
+              "texto_cita": "«Y antes que otro lo mormure [vuestra inocencia], | Mejor es que yo lo diga.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 1. 19 (R. 39. 108 1 )."
+            },
+            {
+              "texto_cita": "«Ni el pastor envidioso | Murmura la ventura | Del otro a quien da el cielo más ganado.»",
+              "autor": "Mel.",
+              "referencia_obra": "Égl . 1 (R. 63. 177 1 ). X"
+            },
+            {
+              "texto_cita": "«Las mujeres rubias que moraban en los lindos bungalúes, más allá de la alambrada, en el vedado de los amos, murmuraban sus chismes imprudentes y llenos de malicia.»",
+              "autor": "C. Uribe",
+              "referencia_obra": ", Mancha aceite , p. 109."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El acus. es una prop. indicativa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Señor, el vulgo atrevido | Locamente ha murmurado | Que fui cómplice por ti.»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Las mocedades del Cid (Cl. C. 15. 264). X"
+            },
+            {
+              "texto_cita": "«Pusiéronse en seguro los delinqüentes mientras el lugarcillo començó a murmurar lo que oyeron los unos y contaron los otros.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 1. 4 (Cl. C. 202. 46). X"
+            },
+            {
+              "texto_cita": "«La de vn estudiante | Que allí la cabeça baxa | Murmura que siruo al Fuego, | Y si el fuego es el que abrasa, | Que cómo no me abrasó | Los pelos y las entrañas.»",
+              "autor": "Cueto",
+              "referencia_obra": "y Mena , Obr. (ICC. 9. 189)."
+            },
+            {
+              "texto_cita": "«Murmuraban que ningún respeto ni contemplaciones debían a un rey extraño.»",
+              "autor": "Quint.",
+              "referencia_obra": "Princ. de Viana (1. 74)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , que señala el tema comentado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Murmurábamos los dos | De vuestro olvido y tardanza | No ha un momento, y en venganza | Venís a volver por vos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Marta la piadosa (Cl. Ebro, 44. 60). X"
+            },
+            {
+              "texto_cita": "«Allí se pasa alegremente la mañana en contar las horas que faltan para irse a comer, si no hay, sobre todo, gordas noticias de Lisboa, o si no dan en pasar muchos lindos talles de quien murmurar.»",
+              "autor": "Larra",
+              "referencia_obra": ", Artíc. de cost . (Cl. C. 45. 137)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Es mucha la malicia de las mujeres! Se murmura por toda la vecindad, y no es para menos con el escándalo de guindas.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Viva mi dueño , 3. 4 (p. 79)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y entretanto, parecía que el mismo viento murmurase calumnias y que la delación se agazapara bajo el lecho en que se dormía.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro , 2 (p. 181)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Impers . Con en , que señala el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el Parnaso y su Corte se murmuran estas cosas y otras muchas que para el mundo son de mayor importancia y de que nosotros tenemos menos conocimiento.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", El Sagaz Estacio , 1 (Cl. C. 57. 113). X"
+            },
+            {
+              "texto_cita": "«Pero he visto que en el pueblo | Se murmura, se propagan | Mil calumnias contra mí.»",
+              "autor": "Mor.",
+              "referencia_obra": "El barón , p. 353."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Además con a . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la cual hoja se estampaban en letras de molde cuantas desvergüenzas se murmuraban al oído en las conversaciones reservadas.»",
+              "autor": "Pereda",
+              "referencia_obra": ", Pedro Sánchez , 2 (Cl. C. 145. 54)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , que indica la persona ofendida.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La lisonja podrá obrar que no llegue a los oídos del príncipe lo que se murmura dél.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 14 (R. 25. 41 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con una prop. indicativa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se murmuraba que era un hijo mostrenco de Francia.»",
+              "autor": "Roa",
+              "referencia_obra": "Bastos, Hijo de hombre , p. 12. — Además con en , que indica: — el lugar. X"
+            },
+            {
+              "texto_cita": "«En aquellas aldeas se murmuraba había sido en Italia famoso.»",
+              "autor": "Lope",
+              "referencia_obra": ", Arcadia (Cl. Castal. 63. 86). — El tiempo. X"
+            },
+            {
+              "texto_cita": "«Contaba la tradición que en su tiempo se murmuró que el fundidor empleaba malas artes para dar una sonoridad.»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno , 1 (p. 43). — Con entre . X"
+            },
+            {
+              "texto_cita": "«Y entre sus amigas se murmuraba que hubiese tenido tan bajos pensamientos que los pusiese en querer a un embelecador.»",
+              "autor": "Solórzano",
+              "referencia_obra": ", La Garduña de Sevilla , 2. 1 (Cl. C. 12. 26)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Criticar, censurar a alguien o algo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me parece que de ninguna cosa que dijesen de mí, o me murmurasen, no se me daría nada.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 38 (1. 571)."
+            },
+            {
+              "texto_cita": "«Clamaba muchas veces delante de vos, disculpando a las personas que me murmuraban.»",
+              "autor": "",
+              "referencia_obra": "Ead. Vida , 19 (1. 140)."
+            },
+            {
+              "texto_cita": "«Y de rabia incitados nuevamente | Maldicen y murmuran la tardanza.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 3 (R. 17. 13 1 )."
+            },
+            {
+              "texto_cita": "«La bulliciosa y esforzada gente | Ganosa de honra y de valor movida, | Murmurando el reposo impertinente, | Pide que se acelere la partida.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 21 (R. 17. 80 2 ). X"
+            },
+            {
+              "texto_cita": "«Ya no es menester hacellos | Para saber murmurallos; | Que se atreve a censurallos | Quien no se atreve a entendellos.»",
+              "autor": "Lope",
+              "referencia_obra": ", La dama boba , 1 (Cl. C. 159. 172)."
+            },
+            {
+              "texto_cita": "«Que si el pueblo me murmura, | Como no lo sepa el Rey, | No importa.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovia , 2. 1. 13 (R. 20. 398 3 ). X"
+            },
+            {
+              "texto_cita": "«Ya denguno hace burla de mis menguas, | Y ya no me mermuran malas llenguas; | Ya nada me hacen creer con desemulo, | ¡No hay vida como ser muy incrédulo!»",
+              "autor": "Mto.",
+              "referencia_obra": "Juan rama ( Ramillete de entremeses; Cl. Castal. 21. 431). X"
+            },
+            {
+              "texto_cita": "«Los embidiosos de su ingenio i eloquencia le mormuraron y satirizaron.»",
+              "autor": "Mayáns",
+              "referencia_obra": ", Vida de Cerv . p. 3."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Temía Alcibíades que le dijesen en su cara o en su ausencia le murmurasen algún defecto, y quería tapar las bocas con esta amenaza.»",
+              "autor": "Zabaleta",
+              "referencia_obra": ", Errores celebr . (Cl. C. 169. 157). X"
+            },
+            {
+              "texto_cita": "«Desde hoy empiezo a soñar. Ten paciencia, o ahórcate; que yo no he de perder mi sueño porque tú me murmures los letargos.»",
+              "autor": "Torres Villarroel",
+              "referencia_obra": ", Visiones y visitas , p. 10. X"
+            },
+            {
+              "texto_cita": "«Como por Ferias y Pascuas, | Es estilo de nosotras | Estar desacomodadas, | Porque no me lo mormuren, | Me he salido de una casa | Que tenía muchos gajes.»",
+              "autor": "R. de la Cruz",
+              "referencia_obra": ", Sainetes (NBAE. 26. 145 2 ). — Además con en . X"
+            },
+            {
+              "texto_cita": "«Y yo, aunque ofendida estoy, | Y aunque la muerte le diera | Con mis manos si pudiera, | No le murmurara hoy | En el honor, desleal.»",
+              "autor": "Cald.",
+              "referencia_obra": "El médico de su honra , 2 (Cl. C. 142)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Por sinécdoque.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si cuando coronado de laureles | Copias, Vander la primavera amena, | El lirio azul, la cándida azucena | Murmura la ignorancia tus pinceles.»",
+              "autor": "Lope",
+              "referencia_obra": ", Son . ( Obr. Suelt . 1. 274)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué nos representa el haber bajado del cielo a la tierra, y ser bautizado como publicano y perseguido y murmurado como malechor?»",
+              "autor": "Gran.",
+              "referencia_obra": "Medit . (3. 504 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de o por , que indica la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La riqueza del uno no ofende a nadie, la del otro es murmurada y aborrecida de todos.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 3 (4. 437). X"
+            },
+            {
+              "texto_cita": "«Nerón también fue murmurado, por muy dado a la música y por hazer versos, y Cómmodo, por ser gran tirador y luchador.»",
+              "autor": "Cascales",
+              "referencia_obra": ", Tablas poétic. 3 (Cl. C. 207. 75)."
+            },
+            {
+              "texto_cita": "«Siendo en otra ocasión murmurado de que no iba a quietar las legiones de Hungría y Germania, se mostró constante contra estos cargos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 86 (R. 25. 230 2 ). X"
+            },
+            {
+              "texto_cita": "«¡Pobres mujeres; de todo hemos de ser murmuradas!»",
+              "autor": "R. de la Cruz",
+              "referencia_obra": ", Sainetes (NBAE. 26. 343 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero juntarse a murmurar los unos de los otros, debe de traer gusto, pero parece envidia.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 4. 2 ( Obr. suelt . 7. 309). X"
+            },
+            {
+              "texto_cita": "«Entren todos y salga el que pueda. ¡Qué murmurar unos de otros! ¡Qué ambicionar éstos y aquéllos antes el ajeno daño que la propia satisfacción!»",
+              "autor": "Tam. y Baus",
+              "referencia_obra": ", Un drama nuevo , p. 153."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Intrans . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sabed qu’ el aborrecer | Es el principal oficio, | Hazañar, | Meter mal y blasfemar, | Holgar, burlar y mentir, | Revolver y trafagar, | Murmurar y maldecir | Muy frecuente.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Obr. mor . 8 (Cl. C. 88. 243). X"
+            },
+            {
+              "texto_cita": "«¡Quánto mejor era Febo! | Y Daphnes lo desdeñó. | Y, cuando no conociera | Otro en perfección igual, | Aquesto de dezir mal | ¿Es defecto como quiera? y ¿no es eso murmurar?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Las paredes oyen (Cl. C. 37. 124). X"
+            },
+            {
+              "texto_cita": "«El que mira lindamente es ciego o cegará, el que huele mucho huele mal a todos, el hablador no dice cosa, el que ríe regaña, el que murmura se condena.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón (Cl. C. 165). X"
+            },
+            {
+              "texto_cita": "«A tal señor, tal alcalde, | Y todo el mundo es lo mesmo: | Tontadas y latrocinios... | Pero al fin no murmuremos, | Que no le he de juzgar yo, | A quien Dios por su consejo, | De la vanidad del siglo, | Redujo a ser excremento.»",
+              "autor": "R. de la Cruz",
+              "referencia_obra": ", La viuda hipócrita y avarienta , p. 6. X"
+            },
+            {
+              "texto_cita": "«Nada a la verdad, nada seguramente: porque yo he tratado y visto murmurar a muchos ricos que escribían de los perros; pero a vuelta de estas murmuraciones los veía adular, y recomendar por los más hábiles pendolistas del universo.»",
+              "autor": "Fdz. Lizardi",
+              "referencia_obra": ", Vida Catrín , 1 (p. 15). X"
+            },
+            {
+              "texto_cita": "«¡Bah! Se les imputa | Cuanto malo se hace hoy día; | Mas la malicia lo inventa, | Pues nadie paga su cuenta | Como Tenorio y Mejía. | ¡Ya! | Es afán de murmurar, | Porque conmigo, señor, | Ninguno lo hace mejor, | Y bien lo puedo jurar.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Don Juan Tenorio , 1. 1 (Cl. C. 201. 15)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pueblo se juntó, el cual andaba murmurando de las bullas diciendo, cómo eran falsas.»",
+              "autor": "",
+              "referencia_obra": "Lazar . 5 (R. 3. 88 2 )."
+            },
+            {
+              "texto_cita": "«No tengas pena, que, o ellos han de alabarme a mí, o murmurar de ti, y en cualquier cosa destas ganas tú.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Mor . 6. 5 (2. 125)."
+            },
+            {
+              "texto_cita": "«Todos murmuraban del recato del Dictador.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 13 (1. 72 1 )."
+            },
+            {
+              "texto_cita": "«Públicamente en corrillos comenzaron a murmurar de este hecho del Rey.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 14. 12 (1. 716 2 )."
+            },
+            {
+              "texto_cita": "«Por cuatro o seis que de esta obra murmuraron, queréis que millones de hombres la engrandezcan.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 5 (2. 391)."
+            },
+            {
+              "texto_cita": "«Sentilo yo, porque sentí el provecho | Que de venderlo yo sacar pudiera, | Murmuré de su ilustre y santo hecho, | Como si perdición pródiga fuera.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 7 (R. 17. 454 2 )."
+            },
+            {
+              "texto_cita": "«Murmuro de los descuidos, y demasías de algunos oficiales.»",
+              "autor": "Quev.",
+              "referencia_obra": "Zahurdas (1. 39). X"
+            },
+            {
+              "texto_cita": "«Y esos que de mí murmuran, | Solo a vos dan que reír.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa , 8 rom. (9. 395)."
+            },
+            {
+              "texto_cita": "«Pienso que es exceptuado | Murmurar del que murmura.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Las paredes oyen , 3. 5 (R. 20. 58 1 )."
+            },
+            {
+              "texto_cita": "«No faltaba durante este tiempo quien murmurase de la empresa.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 120 2 )."
+            },
+            {
+              "texto_cita": "«Y cuando vive con éstos murmura también de aquéllos.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb . 26 (1. 37)."
+            },
+            {
+              "texto_cita": "«Los pueblos, [...], murmuraban de la funesta liberalidad de Enrique.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat . ( Mem. Acad. Hist . 6. 11)."
+            },
+            {
+              "texto_cita": "«De este intento [traicionar a España] murmuran ya los cabos | Moriscos sin rebozo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Pelayo , 1. 1 (1. 210). — El término es una prop. indicativa."
+            },
+            {
+              "texto_cita": "«Siendo reprendido de mis culpas, fui rebelde, o murmuré de quien me reprendía.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 16 (3. 317 2 )."
+            },
+            {
+              "texto_cita": "«Por envidia y malignidad [unos hombres], murmuran de lo que no entienden.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac . (2. 18). X"
+            },
+            {
+              "texto_cita": "«Confundiendo las cosas por malignidad o por ignorancia, que es lo más cierto, murmuran de lo que no debieran.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell . (Cl. C. 66. 125). — Además con la prep. con , que indica compañía. X"
+            },
+            {
+              "texto_cita": "«Con mis vasallos murmura | De los brutos de tu imperio.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Poes . (Cl. C. 136. 33). — Además con entre ."
+            },
+            {
+              "texto_cita": "«Su primera diligencia fue desacreditar a Motezuma, murmurando entre los suyos de la indignidad y falta de espíritu con que se dejaba estar en aquella violenta sujeción.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 2 (R. 28. 302 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por , que señala el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Únicamente las partes principales murmuran por lo bajo, y le dan con disimulo alguna que otra dentellada. Envidia, y nada más que envidia.»",
+              "autor": "Tam. y Baus",
+              "referencia_obra": ", Un drama nuevo , p. 214."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde un rincón la Oruga murmuraba | En ofensivos términos, friolera, llamando | La labor admirable, friolera, | Y a sus elogiadores, mentecatos.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Poes. (Cl. C. 136. 45). X"
+            },
+            {
+              "texto_cita": "«Un Arroyo añadió: Sí, padre mío; | Es una furia lo que ese hombre miente. | Yo voy a mi camino, no censuro, | Y con todo se empeña que murmuro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (Cl. C. 136. 100)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Adorado debe ser Dios en todo lo que hace, no juzgado, obedecido, no murmurado.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst. (5. 411)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , que señala el agente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejó por herederos de todos sus estados a los Templarios y a los Hospitalarios, ---: ejemplo de liberalidad murmurada mucho de las presentes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 15 (1. 507 2 )."
+            },
+            {
+              "texto_cita": "«Publicose la resolución, y fue bien recibida entre los que deseaban el acierto, pero murmurada de los que deseaban el cargo.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 10 (R. 28. 217 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "En los siguientes textos tiene el sentido de Protestar. intrans . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No soy (diréis) ambicioso; Mas a fe, aunque os lo confieso, | Que andáis siempre murmurando | Por más que os llamen risueño.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Poes . (Cl. Castal. 17. 114)."
+            },
+            {
+              "texto_cita": "«El moro triunfa, los cristianos doblan | A la dura cadena el dócil cuello, | Sin que uno solo a murmurar se atreva.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 1. 1 (R. 19. 58 1 ). X"
+            },
+            {
+              "texto_cita": "«¡No! Basta de favores... que se echan en cara. ¡Si la oyeras esta tarde! Desde media legua se la oía... ¡qué vergüenza! Si Roque la oye un día, no sé qué va a pasar. Y el Chinto, el judío, el ladrón, también murmura; también echa en cara lo que se le debe.»",
+              "autor": "Clarín",
+              "referencia_obra": ", Teresa (Cl. Castal. 69. 83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—β β )",
+          "definicion": "met. Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al decir esto hizo don Jeremías un movimiento tan brusco i trágico, que las hojas de maíz se pusieron a murmurar en coro de la poca consideración con que se les trataba.»",
+              "autor": "Fern.",
+              "referencia_obra": "Caball. Lágrimas , p. 49."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la forma vulgar mormurar que siguió siendo usada por algunos autores en diferentes épocas). Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tú darme el pago en mi presencia, paresciéndote mal cuanto digo, susurrando y murmurando contra mí en presencia de Calisto.»",
+          "autor": "",
+          "referencia_obra": "Celest . 17 (R. 3. 32 1 ). X"
+        },
+        {
+          "texto_cita": "«Murmuras, sabio lector | Que pareçe cosa dura | El eternal criador | Huir y mostrar temor l A su misma creatura.»",
+          "autor": "Mendoza",
+          "referencia_obra": ", Canc . (Cl. C. 163. 109). X"
+        },
+        {
+          "texto_cita": "«E, como dize en la leyenda de la quarta feria de Pascua de Resurección, donde dize: Non quieras murmurar, porque dixe: Ninguno a Mí non puede venir sy primero el mi Padre a Mí non lo troxiere.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Corbacho (Cl. Castal. 24. 209). X"
+        },
+        {
+          "texto_cita": "«Aquel es el tienpo en que ellas porfían, gañinan, murmuran con los de casa; pero con los estraños, alegres.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (Cl. Castal. 24. 168). X"
+        },
+        {
+          "texto_cita": "«E do podrá ser señora, mandar, e vedar, ser moça e captiva, ferida e menospreciada, e de todos los que la verán murmurada e fablada!»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (Cl. Castal. 24. 167). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«Comenzaron entonces a mormuliar toda la huest et a decir entre sí que por la saña de los dioses les acaescíe aquello que seyendo ellos homnes mortales entraban en la tierra de los dioses.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Antol . p. 152. X"
+        },
+        {
+          "texto_cita": "«¿Quién es este que dixo que fuese fecho non lo mandado el Señor? ¿De la boca del muy alto nin saldrán bienes, nin males? ¿Por qué murmurió ell homne varón vivient por sos pecados?»",
+          "autor": "",
+          "referencia_obra": "Id. ib . p. 136. X"
+        },
+        {
+          "texto_cita": "«Señor, Tú que das cevo a toda creatura, | Embíanos acorro, ca somos en ardura, | Tú vees est conviento de cuál guisa mormura, | Contra mí tornan todos, yo so en angostura.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . (Cl. Castal. 49. 150)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. murmurare ‘murmurar, hablar por lo bajo, quejarse’. Cat. murmurar , fr. murmurer , it. mormorare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

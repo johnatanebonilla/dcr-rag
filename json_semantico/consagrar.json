@@ -1,0 +1,848 @@
+{
+  "lema": "CONSAGRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Apropiar según rito alguna cosa á la Divinidad ó á su culto ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consagró la iglesia, y se encargó del gobierno espiritual.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 10 (R. 30. 292 1 )."
+            },
+            {
+              "texto_cita": "«Catorce veces ha consaarado aras; campanas, ocho veces; cálices y patenas, casi todos los días.»",
+              "autor": "",
+              "referencia_obra": "Esp . sagr . 23, p. 96."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El templo pues de Compostela ó de Santiago fue por aquellos obispos con grande solemnidad consagrado, á siete de mayo, día lunes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 7. 18 (R. 30. 215 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En esto plugo á la bondad inmensa | Darme otro sér más alto que tenía, | Bañándome en el agua consagrada.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, En el profundo del abismo (4. 363)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á . Este compl. es convertible en dat. pron. cuando se trata de personas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Domadas ya las islas Baleares, | Al pío culto el Celtiberio Augusto | Consagraba los bárbaros altares.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "terc. que empiezan así (R. 42. 331 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque estos espectáculos no hubieran sido consecrados á los falsos dioses, no deberían los cristianos verlos ni hallarse en ellos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 11 (R. 60. 378 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En un sentido análogo se usa para .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No es suyo [su cuerpo], sino del Espíritu Santo, que le consagró para sí en el bautismo.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 12 (3. 475)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar el destino que se da al objeto (hoy no tiene uso).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El siguiente mes á diez y siete de diciembre consagraron la mezquita mayor en iglesia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 2 (R. 30. 279 1 ). —"
+            },
+            {
+              "texto_cita": "«Acabemos pues este discurso con --- suplicarle humildísimamente que descienda y more en nosotros, y nos consagre en templo suyo para que gocemos de la solemnidad y alegría de tan grande fiesta.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Pentecostés ( Vida de Cristo , 312)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "En un sentido análogo se dice por ó como .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consagrásteme por templo, y híceme morada del demonio.»",
+              "autor": "",
+              "referencia_obra": "Gran Mem. vida crist . 2. 4 (R. 8. 222 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí fui adoptado por hijo, y consagrado como templo vuestro, y ungido como sacerdote.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 2. 4 (R. 8. 222 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En igual sentido se dice de las personas, y en especial de los obispos y reyes ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De monjes de San Benito, que lo eran en el monasterio de Moreruela, no lejos de León, los sacaron para obispos y los consagraron en un día.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 8. 11 (R. 30. 241 1 )."
+            },
+            {
+              "texto_cita": "«Recibiéronle por su prelado; diéronle las insignias episcopales, é hiciéronle consagrar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 17. 8 (R. 30. 511 2 )."
+            },
+            {
+              "texto_cita": "«Obligaban á sus reyes, cuando los consagraban, á que jurasen que administrarían justicia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 13 (R. 25. 39 2 )."
+            },
+            {
+              "texto_cita": "«En Francia, donde ha subsistido hasta estos últimos años la ceremonia de consagrar á los reyes, el prelado pregunta al pueblo, en medio de la ceremonia, si se somete á aquel príncipe.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 1. 2 (5.11)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habían vuelto de Méjico el obispo Marroquín, que había pasado allá á consagrarse, y el adelantado Alvarado.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 458 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de consagrado, mientras estuvo en Lisboa, jamás salió fuera á caballo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de B. de los Márt . 2 (R. 11. 433 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un pred. solo ó precedido de de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En fin, para el arreglo y servicio del culto divino, fue consagrado obispo del Darién fray Juan de Quevedo.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 294 2 )."
+            },
+            {
+              "texto_cita": "«Cuenta [Juan diácono] los obispos que el santo consagró de presbíteros cardenales.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 3. 6 (186)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Este pred. se ha usado con en , partícula que disonaría hoy.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandó [san Epifanio] á sus diáconos y presbíteros que le tapasen la boca [á Pauliniano] así cuando le ordenó de diácono, como cuando le consagró en presbítero.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 8 (481). —"
+            },
+            {
+              "texto_cita": "«Este año se consagró en la ciudad de Lérida don Juan, hijo del rey de Aragón, en arzobispo de Toledo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 15. 17 (R. 30. 454 1 ). —"
+            },
+            {
+              "texto_cita": "«Estaban los nuestros tan ciertos que tomarían la ciudad, que tenían antes de tomalla consagrado en obispo della á Pedro Librana.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 10. 10 (R. 30. 292 1 )."
+            },
+            {
+              "texto_cita": "«¿No eres tú el que partes la Iglesia, que mandas á tus clérigos que si alguno dijere que Pauliniano está consagrado en presbítero por Epifanio, no lo dejen entrar en ella?»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 8 (487)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Deificar, conceder la apoteosis, como los romanos á sus emperadores ( trans .). A menudo lleva un pred. precedido de por .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Consagró [el senado romano] por diosa una mujer pública llamada Flora, porque cuando murió le hizo heredero de una grande hacienda que había ganado en aquel oficio tan honrado.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 4. 10, § 1 (R. 6. 497 2 )."
+        },
+        {
+          "texto_cita": "«Los españoles con grande voluntad le consagraron por dios [á Hércules], y determinaron se le hiciesen honras divinas.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 1. 9 (R. 30. 11 1 )."
+        },
+        {
+          "texto_cita": "«En vida le consagraron por dios [á Safón] y le edificaron templos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 20 (R. 30. 26 1 ). —"
+        },
+        {
+          "texto_cita": "«Y agradóse el cincel en su tarea; | Que al fin en ella á consagrar no aspira | Aquellos hijos del poder que triste | La tierra siempre y con terror admira.»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes. A la duquesa de Alba (R. 19. 35 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Hacer venerable, y por extensión, autorizar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es [la lengua sirocaldaica] la vulgar de Palestina, y la que nuestro Señor y su santa Madre con el coro apóstolico consagraron, hablando con ella.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 3 (409)."
+            },
+            {
+              "texto_cita": "«Después de haberla confirmado [su doctrina] con la santidad de su vida, la consagró con la paciencia y voluntario sacrificio de su muerte.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Moral relig . (R. 46. 260 1 )."
+            },
+            {
+              "texto_cita": "«¿Veis, cristianos, | En la fortuna nuestra ley escrita? | El cielo la consagra con victorias | Y os abandona.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 2. 4 (R. 19. 63 1 )."
+            },
+            {
+              "texto_cita": "«Etiquetas ridículas que autoriza y consagra el poder.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 535."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Plinio atribuye este hecho á Hannón, la fama á Safón, confirmada y consagrada por el antiguo proverbio latino y griego, es á saber: Gran dios Safón.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 20 (R. 30. 26 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Pronunciar con intención el sacerdote las palabras de la consagración sobre la debida materia ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consagra [el sacerdote] este inefable sacramento en las especies de pan y vino; y, consagrado, muéstralo al pueblo para que, como creen que allí está Jesucristo --- así lo adoren.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 3. 21 (R. 11. 174 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y no solamente aqueste consagrarse Cristo en el pan es un cierto nacer, mas es como una suma de sus nacimientos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 312)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , por analogía con convertir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nace en cierta manera en la hostia, cuantas veces en el altar los sacerdotes consagran aquel pan en su cuerpo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 287)."
+            },
+            {
+              "texto_cita": "«Luégo se celebraba el santo misterio de la redención del mundo, consagrando el pan y el vino en cuerpo y sangre de nuestro Dios.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 4. 2 (230)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ansí que parece que Cristo nace allí, porque comienza á ser de nuevo allí, cuando el sacerdote consagra.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 311)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dedicar, ofrecer á Dios por culto ó voto ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "A menudo lleva un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al cielo y su autor bendito | Gracias y altar le consagro.»",
+              "autor": "Lope",
+              "referencia_obra": ", Don Juan de Castro , 2ª. pte . 3. 15 (R. 52. 414 2 )."
+            },
+            {
+              "texto_cita": "«Consagrar quería | Su roto barco al dios que fue su guía.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 4 (R. 17. 183 2 )."
+            },
+            {
+              "texto_cita": "«Determinó consagrar á Dios, demás de su espíritu, juntamente lo que á los hombres tanto agradaba, y así hizo voto de perpetua virginidad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3, diál . 4 (R. 6. 468 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consagróse luégo con voto de perpetua virginidad, y guardóla en cuerpo y alma con pureza de ángel.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Sancha Carrillo , 1. 6 (39)."
+            },
+            {
+              "texto_cita": "«¿Qué tiene que ver esto [las Vestales] con millares de vírgines nobilísimas, que en todas las partes de la cristiandad se consagraron á Dios, despreciadas grandes riquezas y casamientos?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 10, § 1 (R. 6. 305 1 )."
+            },
+            {
+              "texto_cita": "«Mas no sólo él, sino también otros muchos santos --- que dende su niñez se consagraron á Dios.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem . 2. 14, § 5 (R. 8. 475 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para los hombres consagrados á Dios, y que con religiosa virtud testifican su fe, no son éstas prisiones sino ornamentos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 16, § 1 (R. 6. 319 2 )."
+            },
+            {
+              "texto_cita": "«Quedo de mármol simulacro eterno | A su templo terrible consagrado»",
+              "autor": "",
+              "referencia_obra": "F. de la Torre, 1, son . 25 (26)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el designio ó intención del ofrecimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Levantó el corazón á su Majestad, y consagrando, si menester fuese, su salud y vida en rescate de su limpieza y de la ofensa divina, se arrojó en ella.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Sancha Carrillo , 2. 5 (105)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "A esta acepción se acercan más ó menos estos pasajes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si es que espada en tu cobarde mano | Falta á la atrocidad, ahí va la mía; | Que yo consagro mi inocente hijo | Sobre las aras de mi patria amada.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Guzmán el Bueno (R. 19. 13 1 )."
+            },
+            {
+              "texto_cita": "«Ansí las arrinconé [mis comedias] en un cofre, y las consagré y condené al perpetuo silencio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Com. pról . ( Com . 1. LXIII)."
+            },
+            {
+              "texto_cita": "«Y el nombre será siempre celebrado | A la inmortalidad ya consagrado.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 21 (R. 17. 79 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Erigir en perpetua memoria, de una persona ó suceso ( trans .). Con dat. de pers.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Coloca sobre esta plaza un robusto panteón cuadrado con graciosa portada, y en su interior, consagra el primero y más digno monumento á la memoria del gran Pelayo.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Elog . de V. Rodr . (R. 46. 373 2 )."
+        },
+        {
+          "texto_cita": "«No os llore como suele el mundo en vano, | Mas conságreos altar, ofrezca olores | Con voz alegre y semblante enjuto.»",
+          "autor": "Figueroa",
+          "referencia_obra": ", son . ¡ Oh del árbol ( Fern. p. 8)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Ofrecer, dedicar en calidad de homenaje ú obsequio ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Saturno se apresura á consagrarte | Del siglo de oro sus antiguas glorias.»",
+              "autor": "Jáur.",
+              "referencia_obra": "canc. Ya la corona (R. 42. 128 1 )."
+            },
+            {
+              "texto_cita": "«Ya con vihuelas dulces | Y sutiles zampoñas | Músicas me consagra.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El burlador de Sevilla , 1. 10 (R. 5. 574 3 )."
+            },
+            {
+              "texto_cita": "«Consagra á su memoria los instantes | Que de ella ausente estés.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", epíst . (1. 48)."
+            },
+            {
+              "texto_cita": "«Tres siglos han pasado desde la muerte de la reina católica doña Isabel, y el cuarto empieza con los públicos y solemnes loores que la Academia consagra á su memoria.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat . ( Mem. Acad. Hist . 6. 1)."
+            },
+            {
+              "texto_cita": "«No te ofenda, señor, si tan humilde | Tributo te consagro.»",
+              "autor": "Mor.",
+              "referencia_obra": "oda 4 (R. 2. 582 2 )."
+            },
+            {
+              "texto_cita": "«Estas pocas líneas que consagramos á su memoria tendrán por lo menos, á falta de otro mérito, el de la certeza y de la exactitud.»",
+              "autor": "Quint.",
+              "referencia_obra": "Meléndez (R. 19. 107)."
+            },
+            {
+              "texto_cita": "«Después de haber expuesto su libertad y su vida por la fama y la honra de su buen señor, supo también consagrarle su fortuna.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Álv. de Luna (R. 19. 383 2 )."
+            },
+            {
+              "texto_cita": "«Adios, mujer sacrílega; acaricia | Al insolente moro á quien adoras, | Conságralé tu abominable vida.»",
+              "autor": "",
+              "referencia_obra": "Id. Pelayo , 2. 6 (R. 19. 65 1 )."
+            },
+            {
+              "texto_cita": "«Para mostrar de su valor lo firme, | Y la tierna amistad que le consagra, | Quiere á la boda y al nupcial banquete | Con su presencia dar más lustre y fama.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 1 (2. 15)."
+            },
+            {
+              "texto_cita": "«¿Yo amarle? | Imposible: odio mortal | Es el afecto que yo | Le pudiera consagrar.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea , 3. 4 (181)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A Blanca, apenas mi esposa, | Blandamente me consagro.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Casarse por vengarse , 2 (R. 54. 108 3 )."
+            },
+            {
+              "texto_cita": "«Soy el Interés en quien | Pocos suelen obrar bien, | Y obrar sin mí es gran milagro, | Y cual soy te me consagro | Por siempre jamás amén.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 20 (R. 1. 446 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el designio ó intención del ofrecimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si el molesto dolor que me quebranta --- | Me dejase algún tanto --- | Consagraría en honra vuestra el canto.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, canc . 7 (R. 32. 291 2 )."
+            },
+            {
+              "texto_cita": "«Sí, gran Sevilla, sí, generosos sevillanos, yo voy á consagrar mi lengua en vuestro obsequio.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog . de las bellas artes (R. 46. 353 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Dedicar con suma eficacia y ardor á determinado fin ( trans .). Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Don Ventura Rodríguez, dedicado á la primera, á la más difícil, á la más importante y necesaria de las bellas artes, consagró á su ejercicio y perfección su vida y sus talentos.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Elog. de V. Rodr . (R. 46. 369 1 )."
+        },
+        {
+          "texto_cita": "«Desde su fundación había consagrado la Sociedad sus tareas al estudio de la agricultura.»",
+          "autor": "",
+          "referencia_obra": "Id. Ley agraria , preámb . (R. 50. 79 1 )."
+        },
+        {
+          "texto_cita": "«Por más importante que sea este objelo, no es el único á quien la Sociedad ha consagrado sus tareas: otros muchos de público y general interés la han ocupado útilmente.»",
+          "autor": "",
+          "referencia_obra": "Id. Disc. en la Soc. Econ. de Madrid en 24 de diciembre de 1784 (R. 50. 30 1 )."
+        },
+        {
+          "texto_cita": "«Entre todas las profesiones á que consagran los hombres sus talentos, apenas hay alguna á quien su estudio [de la historia] no convenga.»",
+          "autor": "",
+          "referencia_obra": "Id. Disc. sobre la legisl. y la hist . (R. 46. 289 1 )."
+        },
+        {
+          "texto_cita": "«Pero hablemos solamente de la obligación de entender las leyes patrias: obligación primitiva, fundamento de todas las demás, y á que debe consagrar el magistrado todas sus vigilias.»",
+          "autor": "",
+          "referencia_obra": "Id. Disc. sobre el est. de la lengua (R. 46. 299 2 )."
+        },
+        {
+          "texto_cita": "«Admíralos, Eymar, mientras, muy dignos | De eterna gratitud, al bien consagran | De su patria y hermanos sus fatigas.»",
+          "autor": "",
+          "referencia_obra": "Id. epíst. á Eymar (R. 46. 36 2 )."
+        },
+        {
+          "texto_cita": "«A otra ilusión consagra sus vigilias | Aquel que, huyendo de la luz y el lecho, | De la esposa y amigos, la alta noche | En un garito ó mísera zahurda, | Con sus viles rivales pasa oculto.»",
+          "autor": "",
+          "referencia_obra": "Id. epíst. á Bermudo (R. 46. 42 2 )."
+        },
+        {
+          "texto_cita": "«Todos se aterran de consagrar su vida á un trabajo de éxito dudoso, y cuya gloria no podría quizá gozar el autor.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos , 2, p. 50."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Dícese de las personas en sentido análogo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquél, valor de la marcial campaña, | A quien su padre consagró á la guerra, | De sus victorias la mayor hazaña.»",
+              "autor": "Lope",
+              "referencia_obra": ", epíst . 4 ( Obr. suelt . 1. 317). —"
+            },
+            {
+              "texto_cita": "«Mas considero | Que es tiempo ya de consagrar al ocio | De una pared mi veterano acero.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Para ver acosar (R. 42. 303 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde la primera edad se consagró á las ciencias.»",
+              "autor": "Lope",
+              "referencia_obra": ", Lo cierto por lo dudoso , dedic . (R. 24. 454)."
+            },
+            {
+              "texto_cita": "«Nadie se consagró al servicio de su patria con más prontitud y más entusiasmo que él.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr inéd . p. 177."
+            },
+            {
+              "texto_cita": "«Fueron la gloria de la patria mía | Los que al culto del bien se consagraron | Para felicidad de los mortales.»",
+              "autor": "Somoza",
+              "referencia_obra": ", son . 20 (R. 67. 466 2 ). —"
+            },
+            {
+              "texto_cita": "«¿Qué vale la instrucción que no se consagra al provecho común?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de la liter. y las ciencias (R. 46. 333 1 ). —"
+            },
+            {
+              "texto_cita": "«Aunque desgraciado, es noble, | Y á adorarte se consagra.»",
+              "autor": "Lista",
+              "referencia_obra": ", rom . 24 (R. 67. 351 2 )."
+            },
+            {
+              "texto_cita": "«A prepararse á entrambos sacramentos, | Y á instruírse en la fe santa, los dos novios | Se iban á consagrar.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 12 (2. 435)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo al provecho | Los verás de su patria consagrados.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. á Eymar (R. 46. 36 2 )."
+            },
+            {
+              "texto_cita": "«Nacido como yo de un padre | Al campo consagrado y su cultivo, | Leonardo es un soldado valeroso.»",
+              "autor": "Quint.",
+              "referencia_obra": "El duque de Viseo , 1. 5 (R. 19. 45 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con para (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Digo que me consagro desde agora | Para limpiar tus llagas, y curarte, | Hasta el fin de mi vida ó su mejora.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El rufián dichoso , 3 ( Com . 2. 44)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "met. En general, Destinar una cosa á cierto fin ( trans .). Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Paréceme que el mejor método sería dividir en dos ramos el estudio y las horas dadas á él: uno el estudio de las fuentes, dando á él la mayor y mejor parte del día; otro los estudios auxiliares, como son lenguas, erudición, historia, consagrándoles la otra.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Instrucc. á un teól . (R. 46. 278 2 )."
+        },
+        {
+          "texto_cita": "«A los pies se humillen | De la siempre insolente tiranía, | En tanto que nosotros consagramos | Las horas al placer y á la alegría.»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes. Para un convite (R. 19. 32 1 )."
+        },
+        {
+          "texto_cita": "«No quiera Dios que la Sociedad consagre su pluma al desprecio de unos institutos, cuya santidad respeta.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 102 1 )."
+        },
+        {
+          "texto_cita": "«Este es el día que el celo de nuestros mayores consagró al desempeño de la más importante y provechosa obligación de nuestro instituto.»",
+          "autor": "",
+          "referencia_obra": "Id. Elog. de las bellas artes (R. 46. 350 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En especial, Destinar una expresión ó palabra para una particular y determinada significación, como las palabras consubstancial , transubstancial . Acad. Dicc .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la forma consegrar .) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Gran inquisicion fizo Achimelech, sacerdote, antes que diese el pan consagrado á David.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras , 3 (164)."
+        },
+        {
+          "texto_cita": "«Despues de aver seido consagrado é alzado el cuerpo de nuestro Señor verdadero Dios é ome --- volviósse á todos los que presentes estaban.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 89 (234)."
+        },
+        {
+          "texto_cita": "«¡Oh lealtade fallescida | Contra el monte generoso | Consagrado!»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 210."
+        },
+        {
+          "texto_cita": "«E quando consagran [los armenios], non echan agua en el calice.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 85. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«E fisola consagrar [la mesquita] A religiosos perlados.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2454 (R. 57. 551 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«La cual corona es aquella con que hoy día se consagran é se coronan primeramente los reyes de Inglaterra.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 7 (R. 51. 99 1 )."
+        },
+        {
+          "texto_cita": "«Dixo sant Atendio la missa en su logar e consagró la crisma.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 147 (139 2 )."
+        },
+        {
+          "texto_cita": "«E desquel templo fue acabado de fazer e consagrado, embiaron a sus mandaderos munchos e muncho onrrados al ydolo del sol.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 107 (71 2 )."
+        },
+        {
+          "texto_cita": "«Otrosi auino que vna compaña de cauallos que Jullo Çesar consagrara a los dioses --- troxeronle nueuas dellos ante que muriesse que non querien comer ninguna cosa.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 106 (64 2 )."
+        },
+        {
+          "texto_cita": "«Sagradas cosas decimos que son aquellas que consagran los arzobispos et los obispos, asi como las eglesias et los altares dellas.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 28. 13 (2. 714)."
+        },
+        {
+          "texto_cita": "«Acabada et complida seyendo la eglesia de todas sus labores, puede el obispo en cuyo obispado fuere consagrarla.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 10. 12 (1. 365)."
+        },
+        {
+          "texto_cita": "«Primado et patriarca cada uno destos puede facer en su patriarcado señaladamiente estas cosas, asi como consagrar eglesias et facer altares en ellas de nuevo.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 13 (1. 203)."
+        },
+        {
+          "texto_cita": "«Sant Silvestre papa quando consagraba algunt altar ungielo con crisma.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. * 16 (1. 102)."
+        },
+        {
+          "texto_cita": "«Quando el obispo hobiere consagrado el olio para los enfermos --- ha de tornar á decir la sagra de la misa.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 40 (1. 95)."
+        },
+        {
+          "texto_cita": "«Leuauan por reliquias un fuego consagrado.»",
+          "autor": "",
+          "referencia_obra": "Alex . 805 (R. 57. 172 1 )."
+        },
+        {
+          "texto_cita": "«Casa es de Dios esta con crisma consegrada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill . 166 (R. 57. 70 1 )."
+        },
+        {
+          "texto_cita": "«El pan que sobre la ara consegra el abbat, | En su carne se torna, esta es la verdat.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacrif . 161 (R. 57. 85 2 )."
+        },
+        {
+          "texto_cita": "«Cogieron muchos miedo de façer tal peccado, | De quebrantar eglesia e logar consegrado.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 410 (R. 57. 116 1 )."
+        },
+        {
+          "texto_cita": "«Nunqua fue Illefonsso de maior dignidat, | Tan bien so consegrado commo él por verdat.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 69 (R. 57. 105 2 )."
+        },
+        {
+          "texto_cita": "«Madre, a ti comendo --- | Mis piedes e mis manos, peroque consegradas.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 208 (R. 57. 137 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. consagrar ; prov. consegrar , consecrar ; fr. consacrer ; it. consacrare : lat. consecrare , comp. de cum , con, intensivo, y s acrare , denominativo de sacer , sagrado. Consegrar es la forma popular que verdaderamente corresponde al verbo latino; consagrar deja ver la influencia de sagrado ; consecrar (que arriba vimos en un pasaje de Rivadeneira) es de origen erudito. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

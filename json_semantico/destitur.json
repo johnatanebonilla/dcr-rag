@@ -1,0 +1,141 @@
+{
+  "lema": "DESTITUÍR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Decíase en lat. spes destituit eum , la esperanza le ha abandonado, y con el part. spe destitutus , abandonado por la esperanza, falto, privado de esperanza. De este sentido del participio se ha originado el que damos al verbo: Privar, dejar sin aquello que se poseía ó se esperaba ( trans .). Con de , en sentido de privación.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensó, quedándose solo, derribar la fortaleza de una mujercita de buena gracia que iba en nuestra compañía, destituyéndola del arrimo y apoyo que llevaba con cierto oficial que se había de casar con ella.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 10 (R. 18. 399 2 )."
+            },
+            {
+              "texto_cita": "«Lo que hacen ordinariamente las pasiones es ofuscar nuestro entendimiento, torcer el juicio; pero no cegar del todo aquél ni destituírnos de éste.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Crit . 19, § 6 (160)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Despojarse, desprenderse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los apóstoles fueron agradecidos á Cristo, destituyéndose de lo que tenían y dejándolo, y por eso le siguieron.»",
+              "autor": "Quev.",
+              "referencia_obra": "Peste 2 (R. 48. 114 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La villa de Lerma asímismo destituída del socorro que de fuera esperaba, y cansada con los trabajos de un cerco tan largo, se entregó en los postreros de noviembre.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 16. 4 (R. 30. 466 1 )."
+            },
+            {
+              "texto_cita": "«Quiso el Señor --- que así se viesen destituídas de todo favor humano.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 30 ( Míst . 1. 242)."
+            },
+            {
+              "texto_cita": "«De tu piadoso celo | Tenemos tantos bienes recibidos; | Porque el bárbaro suelo, | Viéndonos oprimidos, | No diga: Están de Dios destituídos.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 3, salmo 113 (4. 616)."
+            },
+            {
+              "texto_cita": "«Por quien [por Dido] dijo Virgilio, | Destituída de mortal auxilio, | Que llorando decía | ¡Ay dulces prendas cuando Dios quería!»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom . 2 ( Obr . suelt . 19. 191)."
+            },
+            {
+              "texto_cita": "«Viéndome destituído | De todo favor humano --- | Me fingí loco.»",
+              "autor": "Mto.",
+              "referencia_obra": "El licenciado Vidriera , 3. 15 (R. 39. 267 3 )."
+            },
+            {
+              "texto_cita": "«Sufre Granada el dilatado cerco, | De fuerzas y poder destituída.»",
+              "autor": "Mor.",
+              "referencia_obra": "Toma de Gran . (R. 2. 574 2 )."
+            },
+            {
+              "texto_cita": "«El, mundo, bien que destituído de cualidades brillantes, tiene para mí la de hacerse amar.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria , 2. 2 (270)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese en especial con respecto á los cargos y empleos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Destituyeron á los unos sin más razón que la de haber sido agraciados por los gobiernos anteriores, y emplearon á otros sin más mérito que el de haber contribuído á la elevación en que ellos se hallaban.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland , 7 (R. 19. 567 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque es preciso que sienta | Destituír á mi hijo | Del estado y la grandeza, | Su incapacidad es tanta, | Que ya, Carlos, será fuerza | Ponerlo en ejecución.»",
+              "autor": "Mto.",
+              "referencia_obra": "[?] La fuerza del natural , 3. 1 (R. 39. 223 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Rara vez se halla con un predicado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque la fortuna | La destituyó de novia --- | Tomará de buena gana | Por la prelacía el velo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Honoria , 2. 5 (227)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., prov. , destituir ; cat. destituhir ; fr. destituer : del lat. deslituere , abandonar, compuesto de de en el sentido de ausencia ó separación ( de - esse , de-ficere ) y statiture , estallecer, fijar. En port. se conserva el sentido originario junto con el que proviene del participio; en cast, parece haber sido el part. la forma más antigua, así como en prov. y en fr. (véanse Raynouard y Littré); en ital. se usa destituto , pero no el verbo.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: destituy-o , es , e , en ; destituy-a , as , a , amos , dís , an ; destituy-e tú . En otras inflexiones la y no se agrega a la raíz, sino pertenece á la terminación: destitu-yó = part-ió , destituyera = part - iera .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La i acentuada forma sílaba distinta de la u precedente: destitu-ir , destitu-ímos , destitu-ído . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

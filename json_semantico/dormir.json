@@ -1,0 +1,828 @@
+{
+  "lema": "DORMIR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Darse ó estar entregado al sueño ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dormir á pierna suelta, con el niño.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Dormir á cielo abierto, al raso, á la serena, á la sombra, en cama blanda, en compañía de alguno.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            },
+            {
+              "texto_cita": "«Lo que dormía era sentado, la cabeza arrimada á un maderillo que tenía hincado en la pared.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 27 (R. 53. 84 1 )."
+            },
+            {
+              "texto_cita": "«Jueves y viernes es bien dormir en alguna tabla por acompañar al Señor que padeció en aquellos días.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 1. 12 (6.56)."
+            },
+            {
+              "texto_cita": "«Toda aquella noche no durmió D. Quijote pensando en su señora Dulcinea.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 8 (R. 1. 270 1 )."
+            },
+            {
+              "texto_cita": "«Come poco [Basilio] y duerme poco, y lo que come son frutas, y en lo que duerme, si duerme, es en el campo, sobre la dura tierra, como animal bruto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 19 (R. 1. 443 2 )."
+            },
+            {
+              "texto_cita": "«Duerme el criado y está velando el señor.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 20 (R. 1. 445 1 )."
+            },
+            {
+              "texto_cita": "«Mientras se duerme, todos son iguales, los grandes y los menores, los ricos y los pobres.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 43 (R. 1. 494 2 )."
+            },
+            {
+              "texto_cita": "«Oh tú que estás en tu lecho | Entre sábanas de holanda, | Durmiendo á pierna tendida | De la noche á la mañana.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 44 (R. 1. 496 2 ). Si yo no quiero dormir y estarme despierto tola la noche sin pegar pestaña, ¿será vuesa merced bastante con todo su poder para hacerme dormir, si yo no quiero?» Id. ib . 2. 49 (R. 1. 507 1 )."
+            },
+            {
+              "texto_cita": "«Durmiendo alivie su queja, | Pues sólo durmiendo deja | El pesar de ser pesar.»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios, 2 (R. 7. 280 1 ). —"
+            },
+            {
+              "texto_cita": "«Duerme á quien duele, y no duerme quien algo debe:»",
+              "autor": "",
+              "referencia_obra": "refr. con que se pondera cuán penoso es para el hombre honrado no poder pagar lo que debe. —"
+            },
+            {
+              "texto_cita": "«Quien mucho duerme, poco aprende:»",
+              "autor": "",
+              "referencia_obra": "refr. con que se da á entender cuán necesaria es la aplicación para adelantar en los estudios."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedó tan hermoso y tan sereno su rostro, que más parecía dormida que muerta.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. 26 de Enero."
+            },
+            {
+              "texto_cita": "«Un rey dormido en nada se diferencia de los demás hombres.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 45 (R. 25. 113 1 )."
+            },
+            {
+              "texto_cita": "«Yo quedé en fin dormido como un leño.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje, 5 (R. 1. 693 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "A duerme y vela, entre duerme y vela: medio durmiendo, medio velando. Acad. Dicc.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. homogéneo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mejor sueño duerme el pobre que no el que tiene de guardar con solicitud lo que con trabajo ganó.»",
+              "autor": "Celest.",
+              "referencia_obra": "4 (R. 3. 22 1 )."
+            },
+            {
+              "texto_cita": "«Sacó el mesmo alguacil una confición --- hecha con apio y simiente de cáñamo, fuerte para dormir sueño pesado.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran. 3 (R. 21. 103 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué tan profundo sueño dormía quien no despertaba con el trueno de tan grandes amenazas?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 2. 6 (R. 8. 225 1 )."
+            },
+            {
+              "texto_cita": "«Cumplió D. Quijote con la naturaleza durmiendo el primer sueño sin dar lugar al segundo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 68 (R. 1. 547 1 )."
+            },
+            {
+              "texto_cita": "«Pasásele en esto la mayor parte de la noche sin dormir sueño.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 9 (R. 1. 205 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque aquel dulcísimo sueño que con sosiego en sus brazos se duerme, no es razón que se dé sino á los que primero han peleado y con trabajos vencido á sí mismos.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 77 (2. 30)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "También se usa con acus. del tiempo durante el cual está uno entregado al sueño.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero, la noche venida, | Constantino se acostó, | No para dormirla, no, | Sino para dar salida | Al nuevo caso que vio.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, La invenc. de la Cruz (R. 32. 250 2 )."
+            },
+            {
+              "texto_cita": "«Cuanto fue de pesadumbre para Sancho no llegar á poblado, fue de contento para su amo dormirla [la noche] á cielo descubierto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 10 (R. 1. 274 2 )."
+            },
+            {
+              "texto_cita": "«Con recelo la [noche] he dormido | De alguna desgracia vuestra.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por señas , 1. 14 (R. 5. 467 2 )."
+            },
+            {
+              "texto_cita": "«Se pasea, come y duerme la siesta.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 3, p. 119."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como toda la noche hasta allí había sido tan inquieta y llena de disgustos --- lo que hasta la mañana quedaba se durmió tan profundamente, que siendo yo de poquísimo sueño, no desperté hasta que, por la mañana dieron golpes á la puerta.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 4 (R. 18. 384 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Se usa también con acus. en ciertas frases con que se denota que uno está entregado al sueño causado por la embriaguez.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dormir el vino, digerirle con el sueño, cuando alguno ha cargado la cabeza con él.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Claro está que hasta que se pase la ira, de ninguna cosa se debe fiar el airado, como tampoco el embriagado, hasta que haya dormido el vino y tornado á su juicio, que con la embriaguez había perdido.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 4, instrucc. § 4 (7. 236)."
+            },
+            {
+              "texto_cita": "«Despertad, que ya es hora, | Que dirán, ojos, que dormís la zorra.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom . 26 (R. 69. 173 1 ). Lo mismo"
+            },
+            {
+              "texto_cita": "«Dormir la borrachera, la perra, la mona.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Dicese de los ojos y del mirar cuando aquéllos se abren y cierran ó se revuelven pausada y melindrosamente como para signilicar algán particular afecto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Carolina era una nina prematura, apasionada y tierna por extremo, que lloraba sin saber porque, y se miraba al espejo, y dormía los ojos y hablaba con él, y chillaba al ver un ratón.»",
+              "autor": "Mesonero",
+              "referencia_obra": ", Esc. matrit. p. 224. —"
+            },
+            {
+              "texto_cita": "«Tus dos ojos, Marí Pérez, | De puro dormidos roncan, | Y duermen tanto que sueña | Que es gracia lo que es modorra.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom. 26 (R. 69. 172 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De mirar dormido y reír con donaire.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 5. 10 ( Obr. suelt . 7. 442)."
+            },
+            {
+              "texto_cita": "«A buenos ojos lindos bailes con las niñas, ya dormidillos, cerrándolos, ya elevaciones mirando arriba.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 21 (R. 23. 521 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Refl. Entregarse al sueño, dejarse vencer del sueño, conciliar el sueño.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo me caía de sueño; di en pasearme y en rezar, entendiendo que aprovecharía para no dormirme.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 22 (R. 18. 421 1 )."
+            },
+            {
+              "texto_cita": "«No se había aun dormido D. Rafael, esperando á su hermana.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 9 (R. 1. 205 2 )."
+            },
+            {
+              "texto_cita": "«Cuando convenía no gastar mucho tiempo en el sueño, dormía [Alejandro] tendido el brazo fuera de la cama con una bola de plata en la mano que, en durmiéndose, le dispertase cayendo sobre una bacía de bronce.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 45 (R. 25. 113 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por sinécdoque, Pernoctar, pasar la noche ( intrans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le había dicho que su señor --- había pasado por la barca de Aceca, y que aquella noche dormía en Orgaz.»",
+          "autor": "",
+          "referencia_obra": "Cery. Nov . 8 (R. 1. 188 2 )."
+        },
+        {
+          "texto_cita": "«Par Dios, dijo el mozo, así me haya vuesa merced dormir en la cárcel como hacerme rey. ¿Pues por qué no te haré yo dormir en la cárcel? respondió Sancho; ¿no tengo yo poder para prenderte y soltarte cada, cuando que quisiere?»",
+          "autor": "",
+          "referencia_obra": "Id. Quij. 2. 49 (R. 1. 506 2 )."
+        },
+        {
+          "texto_cita": "«Es muy de caballeros andantes el dormir en los páramos y desiertos lo más del año.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 15 (R. 1. 285 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Como causativo, Causar, infundir sueño ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dormir el niño.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«Músico arroyo la duerme, | Cristalino ruiseñor.»",
+          "autor": "Góng.",
+          "referencia_obra": "rom. 97 (R. 32. 541 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "met. Las acepciones figuradas ó representan en general la imagen del sueño, ó bien se refieren á la suspensión de toda acción ó movimiento voluntario y racional ó al reposo material del sueño.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En general ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al cabo de tantos años como ha que duermo en el silencio del olvido, salgo ahora con todos mis años á cuestas con una leyenda seca como un esparto, ajena de invención.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1, pról . (R. 1. 252)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. homogéneo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bien dices, respondió el santo, oh emperador, que duermo, porque duermo un dulce sueño, adormeciendome Cristo los dolores con la esperanza de los bienes advenideros.»",
+              "autor": "Gran.",
+              "referencia_obra": "Simb. 2. 22, § 2 (R. 6. 339 2 )."
+            },
+            {
+              "texto_cita": "«Se reclinó sobre el pecho de Cristo, durmiendo el dulcísimo sueño de la contemplación.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 4. 11 (2. 424)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Inquietan al ánima [los cuidados demasiados], y no la dejan dormir este sueño espiritual que se duerme en la oración.»",
+              "autor": "Doctr.",
+              "referencia_obra": "esp. 30 (R. 11. 261 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar las cosas á que está uno como insensible.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Queda [el alma] tan harta, tan satisfecha, y tan contenta, que por entonces duerme á todos los deseos y cuidados desta vida, porque no tiene más cuenta con ellos, que el que está durmiendo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 7. 1 (R. 8. 378 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí con estar todas dormidas, y bien dormidas á las cosas del mundo, y á nosotras mesmas ---»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 5. 1 (R. 53. 452 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dormir sobre algo es metáfora parecida á consultar con la almohada, y con la cual se denota que ha de tomarse tiempo para considerar los inconvenientes ó riesgos que en ello pueden ofrecerse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mire vuestra merced, señor Desamorado, lo que emprende en emprender á pelear conmigo, y duerma sobre ello. Sobre una muy buena cama dormirá mejor mi señor, respondió Sancho.»",
+          "autor": "Avell.",
+          "referencia_obra": "Quij. 31 (R. 18. 97 1 )."
+        },
+        {
+          "texto_cita": "«Señora, eso es una cosa, | Que es para dormir sobre ella.»",
+          "autor": "Mto.",
+          "referencia_obra": "El lindo D. Diego, 2. 4 (R. 39. 360 2 ) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Obrar con menos actividad y solicitud de la que se debe ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aníbal no dormía, antes con todo cuidado se apercebía para la guerra.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 2. 10 (R. 30 . 41 1 )."
+            },
+            {
+              "texto_cita": "«El demonio, que no dormía, sino ardía con envidia de que una criatura tan baja fuese substituída en su lugar y lograse lo que él había perdido, vino en figura de serpiente.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 4.2, § 2 (R. 6. 484 2 )."
+            },
+            {
+              "texto_cita": "«Ordenó pues la suerte y el diablo, que no todas veces duerme, que andaban por aquel valle paciendo una manada de hacas galicianas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 15 (R. 1. 283 2 )."
+            },
+            {
+              "texto_cita": "«El diablo, que no duerme y que todo lo añasca.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 20 (R. 1. 297 1 )."
+            },
+            {
+              "texto_cita": "«El diablo, que no duerme, ordenó que en aquel mismo punto entró en la venta el barbero á quien D. Quijote quitó el yelmo de Mambrino.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 44 (R. 1. 381 2 )."
+            },
+            {
+              "texto_cita": "«El enemigo, que no dormía --- llegó al castillo por la puerta del Socorro.»",
+              "autor": "",
+              "referencia_obra": "Colonia, Guerras de los Est. Bajos, 8 (R. 28. 108 1 )."
+            },
+            {
+              "texto_cita": "«Y sé que el conde no duerme, | Pues trae de Francia consigo | Un ejército volante | A poneros en aprieto.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Palabras y plumas, 1. 2 (R. 5. 2 2 )."
+            },
+            {
+              "texto_cita": "«Estén ciertos que Dios no duerme, y que descargará sobre ellos, cuando menos se piensen, su terrible venganza.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Pedro, 2. 2. 3, nota."
+            },
+            {
+              "texto_cita": "«Despertar á los que duermen entorpecidos en la pereza con el fuerte llamamiento de la humillación.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr. 2. 5 (R. 46. 225 2 )."
+            },
+            {
+              "texto_cita": "«Oh hermanas mías, no os aseguréis ni os echéis á dormir, que será como el que se acuesta muy sosegado, habiendo muy bien cerrado sus puertas por miedo de ladrones, y se los deja en casa.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Cam. perf. 10 (R. 53. 331 1 )."
+            },
+            {
+              "texto_cita": "«Alma que ha pretendido ser esposa del mesmo Dios, y tratádose ya con su Majestad, y llegado á los términos que queda dicho, no se ha de echar á dormir.»",
+              "autor": "",
+              "referencia_obra": "Ead. Mor . 5. 4 (R. 53. 459 2 )."
+            },
+            {
+              "texto_cita": "«Vuestra paternidad le diga á ese caballero, por caridad, que aunque de su natural es descuidado, no lo sea con ella, porque el amor, adonde está, no puede dormir tanto.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cartas , 2. 39 (R. 55. 226 1 ). —"
+            },
+            {
+              "texto_cita": "«Al tiempo de pelear | Así es | Que no durmieron sus pies | Ni te mintió su consejo.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Propal. retracto (1. 102)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Peligroso ejemplo nos dan desta verdad los cantones esguízaros, tan prudentes siempre y tan valerosos en la conservación de sus patrias y libertad, y hoy tan descuidados y dormidos, siendo causa de la ruina que los amenaza.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 87 (R. 25. 233 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se descuidaban los moros ni se dormían; el mayor deseo que tenían era de quemar nuestra armada.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 7 (R. 30. 379 1 )."
+            },
+            {
+              "texto_cita": "«No es creíble varón tan docto en la lengua tuviese tantos descuidos, y se durmiese tantas veces el buen Homero.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 4. 4 (273)."
+            },
+            {
+              "texto_cita": "«No sino dormíos y no tengáis ingenio ni habilidad para disponer de las cosas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 29 (R. 1. 331 2 )."
+            },
+            {
+              "texto_cita": "«El amor | Que está seguro, se duerme | Y descuida sus recelos, | Hasta que penas recibe.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amor y celos , 2. 4 (R. 5. 158 2 )."
+            },
+            {
+              "texto_cita": "«Si ella [la policía] no se duerme, yo aseguro que no se le escaparán [los vagos].»",
+              "autor": "Jovell.",
+              "referencia_obra": "carta al conde de Floridablanca (R. 50. 143 2 )."
+            },
+            {
+              "texto_cita": "«Los moros por su parte tampoco se dormían, recelosos, y no sin razón, de los males que les amenazaban.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 46 (4. 431)."
+            },
+            {
+              "texto_cita": "«Será prudente | No dormirse y observarlos.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Deudas de la honra , 1. 3 (14)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para expresar aquello en que uno se descuida.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que no descubran ni den á entender el rencor y mala voluntad que les quedó de la ofensa, sino que aguarden disimulados su tiempo, y que en esto nunca se descuiden ni duerman.»",
+              "autor": "Almazán",
+              "referencia_obra": ", Momo , 2. 2 (192)."
+            },
+            {
+              "texto_cita": "«Porque hasta en esto se vea cómo en ninguna cosa criada se durmió, ni perdió punto aquella soberana providenciay sabiduría del Criador.»",
+              "autor": "Gran.",
+              "referencia_obra": "Simb. 1. 10, § 3 (R. 6. 208 2 )."
+            },
+            {
+              "texto_cita": "«Nos han dicho que él | No se duerme en la defensa.»",
+              "autor": "Lope",
+              "referencia_obra": ", Contra valor no hay desdicha , 3. 1 (R. 41. 11 3 )."
+            },
+            {
+              "texto_cita": "«Me duermo, y los aguardo, y los recibo, porque ellos no se duermen en venirse, y en sonsacar á otros para que vengan.»",
+              "autor": "Quev.",
+              "referencia_obra": "Entremetido (R. 23. 378 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Dícese de los muertos, y por extensión de las cosas que están como sepultadas en alguna parte ( intrans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Las sepulturas de los muertos se abrieron, y muchos cuerpos de los santos, que dormían en el polvo de la tierra, resucitaron.»",
+          "autor": "Gran.",
+          "referencia_obra": "Adic. al Mem. med. 16, § 5 (R. 8. 558 2 )."
+        },
+        {
+          "texto_cita": "«No hay amenaza más usada en la Escritura que: No serás enterrado en el sepulcro de tus mayores; ni recomendación más de á cada paso que: Durmió con sus padres, y enterráronle con ellos.»",
+          "autor": "Márquez",
+          "referencia_obra": ", Gob. crist. 2. 38 (389: Pamplona, 1615)."
+        },
+        {
+          "texto_cita": "«Llevar yo en el alma adonde fuese, | El fuego en que me abraso, y guardaría | Su llama fiel con la ceniza fría | En el mismo sepulcro en que durmiese.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 4, son. 19 (R. 69. 76 1 )"
+        },
+        {
+          "texto_cita": "«Y puesto de rodillas [S. Esteban], clamó en voz alta, diciendo: Señor, no les imputes este pecado. Y cuando esto hubo dicho, durmió en el Señor.»",
+          "autor": "Scío",
+          "referencia_obra": ", Hechos apost. 7. 59."
+        },
+        {
+          "texto_cita": "«¿Hay otra [criatura que el hombre] por ventura capaz de abrazar este sistema de unión y de armonía en que están enlazados todos los entes, desde los brillantes escuadrones de estrellas que vagan por el inmenso cielo, hasta el más pequeño átomo de materia que duerme en el corazón de los montes?»",
+          "autor": "Jovell.",
+          "referencia_obra": "Orac. inaug. del Instit. Astur. (R. 46. 320 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Dícese de las cosas que no se manifiestan con los actos ó efectos que les son propios, ó que están suspensas porque no se las remueve ni da curso ( intrans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A pesar de ello su ambición dormía.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 302 1 )."
+            },
+            {
+              "texto_cita": "«El que compre los Orígenes ha de proponerse guardar el original y hacerle dormir hasta que pueda publicarse tal cual es.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 3, p. 119."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Obra por cierto digna de tan gran santo, nacida de una fe no dormida.»",
+              "autor": "",
+              "referencia_obra": "Sig, Vida de S. Jer. 4. 12 (370)."
+            },
+            {
+              "texto_cita": "«Los enemigos de Balboa avivaron otra vez las sospechas y rencor mal dormido de Pedrarias.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 299 1 )."
+            },
+            {
+              "texto_cita": "«El instinto se desenvuelve; el entendimiento yace todavía dormido.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos, 1, p. 5."
+            },
+            {
+              "texto_cita": "«Un siglo entero hubo de pasar para que se formase esta favorable revolución, y tanto fue menester para inspirar aquella justa seguridad que animó á los legítimos sucesores del gran Colón al uso de sus dormidos derechos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Introd. á un escrito forense (R. 46. 449 2 )."
+            },
+            {
+              "texto_cita": "«Sin destruír la antigua constitución del reino, antes bien restableciendo su antigua jerarquía y reintegrándola en los derechos que por tanto tiempo había visto atropellados y dormidos, habemos llamado á las cortes á todas las ciudades que tenían voto.»",
+              "autor": "",
+              "referencia_obra": "Id. Def. de la Junta Central, apénd. 15 (R. 46. 601 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Dícese de las cosas materiales que se muestran quietas y sosegadas, pudiendo estar alteradas ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No está tan quieto el mar cuando duermen todos los vientos, ni tan sereno el cielo cuando el cierzo ha desterrado todas las nubes, cuanto lo estaba aquella ánima bendita en medio de una tan grande tempestad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med. 4 (R. 8. 510 2 )."
+            },
+            {
+              "texto_cita": "«Vieron que ni los golpes cesaban, ni el viento dormía, ni la mañana llegaba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 20 (R. 1. 295 2 )."
+            },
+            {
+              "texto_cita": "«Las playas últimas y solas | Donde los vientos duermen y las olas.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 1 ( Fern. 7. 24)."
+            },
+            {
+              "texto_cita": "«Sabe Dios --- los años y días que ha de durar [el mundo], y el último en que este orden y música del cielo ha de dormir y parar para siempre.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 6. 15 (3. 343)."
+            },
+            {
+              "texto_cita": "«A veces le parece que el tiempo duerme olvidado de su carrera continua.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 7 (1. 124)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La mar clara y serena | Dormíase en la arena.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poes. La boda de Pórtici (1. 32)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Dícese de cosas sosegadas y que hacen poco ruido",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alzada y puesta en pie esta muerte viva, con voz algo dormida y con lengua no muy despierta, comenzó á decir desta manera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 35 (R. 1.479 2 )."
+            },
+            {
+              "texto_cita": "«En leves sombras cor dormidos pasos | La noche se envolvía.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", oda 3 (R. 67. 214 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g)",
+      "definicion": "Refl. Dicho de un miembro del cuerpo, Adormecerse, entorpecerse su movimiento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se me ha dormido una pierna.»",
+          "autor": "",
+          "referencia_obra": ""
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Durmia poco, comia é bebia templadamente.»",
+          "autor": "",
+          "referencia_obra": "C rón.Juan II, 10. 6 (R. 68. 371 1 )."
+        },
+        {
+          "texto_cita": "«E fue á comer á Xeribel, quatro leguas dende, é allí durmió.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 34 (R. 68. 291 1 )."
+        },
+        {
+          "texto_cita": "«E prendieron ende á Juan Furtado de Mendoza é á su muger, los quales dormian en el palacio.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 10 (31)."
+        },
+        {
+          "texto_cita": "«E en la tarde partieron --- é esta noche dormieron en el campo.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav . p. 119. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Dixeronles que Abomelique iba esa noche dormir á la vega de Pagana.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 200 (R. 66. 301 1 )."
+        },
+        {
+          "texto_cita": "«Amigo, non vos durmades, que la duenna que desides, | Otro quier casar con ella.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 687 (R. 57. 248 2 )."
+        },
+        {
+          "texto_cita": "«Et en el asentar asentados siempre en el mas alto logar, et eso mesmo en las camas que durmiéredes.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Libro infin . 7 (R. 51. 270 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Tómote con tal condición que pueda dormir con otra ó ella con otro.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 76 (R. 51. 206 2 )."
+        },
+        {
+          "texto_cita": "«Cuando el home duerme, pierde la tristeza.»",
+          "autor": "",
+          "referencia_obra": "Ib . 65 (R. 51. 193 1 )."
+        },
+        {
+          "texto_cita": "«Otrosí es malo para el cuerpo dormir mas de lo que debes.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1 (R. 51. 88 1 )."
+        },
+        {
+          "texto_cita": "«E el conde estando en esto faziendo su oraçion, vinol vn sueño e durmiose antel altar.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 3. 19 (245 1 )."
+        },
+        {
+          "texto_cita": "«E despues conviene que non durmades mucho.»",
+          "autor": "",
+          "referencia_obra": "Buenos proverbios (Knust, 62)."
+        },
+        {
+          "texto_cita": "«Mas si matar omne vieio, ó feble, ó omne que duerma, ó otro omne que se non pueda guardar ---»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 8. 3. 3 (138)."
+        },
+        {
+          "texto_cita": "«Durmíese en su lecho, ca era muy cansado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 226 (R. 57. 47 1 )."
+        },
+        {
+          "texto_cita": "«Inclinó la cabeza commo qui quier dormir.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 108 (R. 57. 134 2 )."
+        },
+        {
+          "texto_cita": "«Por su deudor me tengo durmiendo e velando.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 72 (R. 57.140 1 )."
+        },
+        {
+          "texto_cita": "«Yazies en vn escanno, durmie el Campeador.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2280 (R. 57. 25 2 )."
+        },
+        {
+          "texto_cita": "«E durmiendo los dias, e las noches tranochando.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1168 (R. 57. 15 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. , fr. dormir ; it. dormire ; vál. dormi : del lat. dormire , que corresponde al gr. *\"D - 2G n Ts sans. drâ , ant. escl. drjemati , ant. al. troum .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares duerm-o, es, e, en ; durm-ió, ieron ; duerm-a, as, a, an , durm-amos, áis ; durm-iese, ieses, iese, iésemos, ieseis, iesen ; durm-iera, ieras, iera, iéramos, ierais, ieran ; durm-iere, ieres, iere, iéremos, iereis, ieren ; duerme tú ; durmiendo . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

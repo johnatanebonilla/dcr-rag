@@ -1,0 +1,1399 @@
+{
+  "lema": "CRIAR, CREAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. La primera forma, netamente popular, prevalece en las aplicaciones de este carácter, mientras que la segunda sólo tiene cabida en el lenguaje elevado, técnico ó literario. En cada acepción ira indicado si se usan ambas promiscuamente ó tan sólo la una.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "( criar, crear ) Producir algo de nada; dar sér á lo que antes no lo tenía ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Criar, hablando propriamente, no es hacer de una cosa otra, porque esto se llama generación, sino es hacer de nada algo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 38 (R. 6. 275 2 )."
+            },
+            {
+              "texto_cita": "«A su Teresa Cristo en visión clara, | Que no sufrió ni transparente velo: | Si no hubiera criado, esposa, el cielo, | Para ti sola, dijo, lo criara.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. que principia así (R. 42. 342 1 )."
+            },
+            {
+              "texto_cita": "«Libres son las humanas voluntades, | El cielo las crió sin ligadura.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 3 (76)."
+            },
+            {
+              "texto_cita": "«En el principio crió Díos el cielo y la tierra.»",
+              "autor": "Scío",
+              "referencia_obra": ", Gén . 1. 1."
+            },
+            {
+              "texto_cita": "«Cuando lo que pasa de no ser á ser es sustancia, el causar se llama criar ó sacar de la nada; cuando es modificación se llama formar, mudar.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Ideol. 11 (201)."
+            },
+            {
+              "texto_cita": "«Las tinieblas estaban sobre la faz del abismo; Dios dijo: --- Sea la luz, y la luz fue. Esto es crear.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. Teod. 11 (348)."
+            },
+            {
+              "texto_cita": "«Interviene en su obra, no ya para comunicar á los agentes criados aquella cooperación ó concurso que necesitan las causas finitas y contingentes para producir sus efectos, sino para obrar en ellas, ya suspendiendo las leyes que les imprimió al criarlas, ya causaudo efectos ó fenómenos que exceden su capacidad.»",
+              "autor": "Mir",
+              "referencia_obra": ", Arm. entre la ciencia y la fe , 13 (279)."
+            },
+            {
+              "texto_cita": "«Creó el mundo porque quiso; por efecto de un decreto libérrimo de su voluntad, pronunció una palabra, y todo fue hecho; mandó y todo fue creado. De esta libertad de Dios en criar y sacar á luz esta universidad de cosas que vemos, se colige que entre Dios y su obra no hay relación de absoluta necesidad.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 13 (280)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«San Juan en su evangelio, hablando de la persona de Jesucristo, usa de las mismas palabras: En el principio; pero no dice: fue criado ó fue hecho, sino era; lo que denota su ser eterno y consubstancial con el Padre.»",
+              "autor": "Scío",
+              "referencia_obra": ", Gén . 1. 1, nota ."
+            },
+            {
+              "texto_cita": "«Hay también [seres] cuya existencia se opone á que hayan dimanado de otro cualquiera, á no ser que hayan pasado instantáneamente de la no existencia á la existencia, es decir, sin haber sido criados.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Cart. á un escépt. 9 (147)."
+            },
+            {
+              "texto_cita": "«Es así que ese comienzo no ha podido ser por agregación de varias partes, pues que el alma es simple, luego ha debido ser pasando de la nada á la existencia, es decir, siendo criada.»",
+              "autor": "",
+              "referencia_obra": "Id. Filosof. elem. Teod. 11 (349)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part . En vez de suponer al hombre creado de repente por un mandato divino, supusieron que provenía del desenvolvimiento de otras especies inferiores.» Valera , Disert . p. 79.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , en sentido de extracción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De nada crió Dios todo este mundo con todo lo que en él hay.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 3. 21, § 2 (R. 6. 713 2 )."
+            },
+            {
+              "texto_cita": "«Con vuestro infinito poder, de nada me criastes.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 8, § 3 (R. 8. 526 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . Se usa para denotar mera existencia, sobre todo en frases negativas, en las cuales corresponde á veces enfáticamente á alguno, ninguno .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿A qué cosa criada es escondido | Que Dios con poderosa y sabia mano | Crió la tierra, el cielo, el sol lucido?»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 12 (1. 208)."
+            },
+            {
+              "texto_cita": "«Y el tercero y principal oficio y lo más dificultoso es ser consejero del Papa, decir su parecer siempre que fuere necesario y en provecho de a lglesia, sin respeto criado, aunque sobre esto pierda la vida.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 3. 6 (191)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. ( crear ) Dar existencia en la fantasía, imaginar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Debe usted saber que no estoy combatiendo un gigante fantástico que yo haya tenido la humorada de crear para partirle de un tajo.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Cart. á un escépt. 10 (152)."
+        },
+        {
+          "texto_cita": "«Suelta, no temas, las brillantes alas, | A tu imaginación, y nuevos orbes | De ventura y bondad fecunda cree.»",
+          "autor": "Gallego",
+          "referencia_obra": ", epíst . 2 (R. 67. 412 1 )."
+        },
+        {
+          "texto_cita": "«Tal vez engaño de sus propios ojos, | Forma falaz que su ilusión creó.»",
+          "autor": "Espronc.",
+          "referencia_obra": "Estud. de Salam. 4 (193)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. . ( crear ) Tratándose de obras artísticas, Producir, componer con vigorosa originalidad ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por más que en la crítica literaria se usa con preferencia de las voces ambiciosas crear y creación, el genio nada crea; y tan nada, que le es imposible producir una sola belleza cuyo tipo no exista en el universo.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 1, p. 19."
+            },
+            {
+              "texto_cita": "«Ha menester [el poeta] ante todas cosas formarse en su mente una idea clara y distinta del carácter que da á cada uno de los personajes que ha creado.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Arte Poét. de Hor. nota 13 (1. 298)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los antiguos crearon, y nosotros imitamos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de la liter. y las ciencias (R. 46. 331 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. (criar y mejor crear ) Establecer, fundar, introducir por vez primera ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Crear una industria, un género literario, un sistema filosófico, un orden político, necesidades, derechos, abusos.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«Fernando, en un período más breve, pero más floreciente y pacífico, sigue las huellas de su padre; cría la marina, fomenta la industria ---»",
+          "autor": "",
+          "referencia_obra": "Jovell . Elog. de Carlos III (R. 46. 313 2 )."
+        },
+        {
+          "texto_cita": "«Vuelve, [el hombre] hacia sí, contempla la naturaleza, cría las ciencias que la tienen por objeto.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (R. 46. 314 1 )."
+        },
+        {
+          "texto_cita": "«Quiso imitar el atrevimiento laudable de Corneille y de Moliere, que haciéndose superiores á las ideas comunes de su siglo, crearon la tragedia y la comedia en Francia.»",
+          "autor": "Mor.",
+          "referencia_obra": "Com. disc. prel. (R. 2. 323)."
+        },
+        {
+          "texto_cita": "«Creó Cervantes un nuevo género de composición para el que no había reglas establecidas.»",
+          "autor": "Clem.",
+          "referencia_obra": "Coment. 1, p. XXIII."
+        },
+        {
+          "texto_cita": "«Las voces cárbasos , el birsco muro, abusiones, la menstrua luna, tientan por procuran, pruina, semilunio , y otras muchas aglomeradas en pocos versos, no usadas nunca en la prosa castellana, anuncian muy á las claras en el poeta cordobés la intención de crear un dialecto poético.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos , 2, p. 19."
+        },
+        {
+          "texto_cita": "«Un ideólogo, un hábil gramático de nuestros días podrá crear un lenguaje que presuma de universal.»",
+          "autor": "Valera",
+          "referencia_obra": ", Disert . p. 98."
+        },
+        {
+          "texto_cita": "«Creó el gobierno de José una junta criminal extraordinaria.»",
+          "autor": "Toreno",
+          "referencia_obra": ", Hist . 8 (R. 64.173 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En especial, Hablándose de un expediente, ó de un negocio, Formarlo, entender en él desde sus principios. Acad . Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. ( crear ) En general, Fundar, establecer ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Para comprender el empeño que mostraba el Directorio en crear tantas repúblicas, es indispensable indicar las varias causas que á ello le incitaban.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp. del siglo , 6. 16 (6. 87)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "met. ( criar , hoy crear ) Instituír un nuevo empleo ó dignidad ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Acordaron criar un magistrado de cien hombres, con cargo y autoridad de tomar cuenta á los capitanes que volviesen de la guerra.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 2. 1 (R. 30. 29 1 )."
+        },
+        {
+          "texto_cita": "«Leyes instituyó criando oficios | Con que el pueblo en razón se mantuviese.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 33 (R. 17. 122 1 )."
+        },
+        {
+          "texto_cita": "«Hizo y creó un alguacil de pobres, no para que los persiguiese, sino para que los examinase, si lo eran.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 51 (R. 1. 513 2 )."
+        },
+        {
+          "texto_cita": "«Esta flaqueza humana obligó á formar consejos y tribunales y á criar presidentes, gobernadores y virreyes.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp . 49 (R. 1. 126 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "g)",
+      "definicion": "met. ( criar , hoy crear ) Dícese de la persona misma á quien por elección ó nombramiento se da un puesto ó dignidad. Se usa tratándose de dignidades muy elevadas, por lo común eclesiásticas y vitalicias ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Sirve de acus. el nombre mismo de la dignidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A devoción de los reyes de Nápoles, los papas criaron los años pasados muchos cardenales de la nación francesa.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 8 (R. 30. 439 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hiciéronse las escrituras y privilegios, y, leídos, todos los presentes aclamaron con gran aplauso: Viva el conde. Tal fue la costumbre y ceremonia con que se criaban los condes en aquella era.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 20 (R. 30. 458 2 )."
+            },
+            {
+              "texto_cita": "«Están tan lejos --- de entender en las elecciones de los magistrados que se han de criar --- que ni por entre sueños querrían que les pasase esto por la memoria.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2. 15, 1 § 1 (R. 8. 496 1 )."
+            },
+            {
+              "texto_cita": "«Manda en este edicto que se deputen y críen comisarios particulares, y que se envíen á todas y á cada una de las provincias ó condados del reino.»",
+              "autor": "",
+              "referencia_obra": "Rivad . Cisma, 3. 24 (R. 60. 335 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Sirve de acus. el nombre de la persona y va como pred. el de la dignidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por su doctrina y ejemplo Bonifacio VIII le creó cardenal y obispo de Ostia .»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 1. 1 (3)."
+            },
+            {
+              "texto_cita": "«El rey don Enrique lo había creado conde de Saldaña.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr. 3 ( Mem. Acad. Hist. 6. 129)."
+            },
+            {
+              "texto_cita": "«Y no limitándose las demostraciones de Federico á sola una vana pompa, le creó duque de Sant Angelo.»",
+              "autor": "",
+              "referencia_obra": "Quint . Gran Capitán (R. 19. 258 1 )."
+            },
+            {
+              "texto_cita": "«Décimo Laberio, que fue como el don Ramón de la Cruz de aquellos tiempos, mereció que Julio César le crease caballero en recompensa de su talento.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", trad. de Hor. sát. 1. 10, nota (3. 226)."
+            },
+            {
+              "texto_cita": "«Hallóse en él [en el concilio de León] Rainerio, que de fraile cluniacense le crió cardenal el papa Urbano.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 18 (R. 30. 271 1 )."
+            },
+            {
+              "texto_cita": "«Le crió cardenal el papa Clemente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 15 (R. 30. 483 1 )."
+            },
+            {
+              "texto_cita": "«Allí lo criaron primero obispo de Coímbra y después arzobispo de Braga.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 19. 6 (R. 31. 40 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue electo en general de toda su orden, y después creado obispo y cardenal.»",
+              "autor": "Gran.",
+              "referencia_obra": "Filom . (R. 8. 593 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "El empleo de en con el pred. es contrario al uso latino; y se apoya en la analogía de elegir (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para esto edificaron un altar que llamaron Bucigo, que es lo mismo que yugo de bueyes; criaron junto con esto al mismo labrador en sacerdote.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 14 (R. 30. 17 2 )."
+            },
+            {
+              "texto_cita": "«Los primeros legisladores de los griegos no permitieron criar en supremos magistrados á los hombres por casar.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist . 1. 7 (35: Pamplona, 1615)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "( criar , mejor crear ) Producir, dicho de los efectos de la industria humana ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Es error el creer que para ser rica una nación debe crear por sí misma cuanto necesita.»",
+          "autor": "Clem.",
+          "referencia_obra": "Elolg. de Is. la Cat. ilustr. 11 ( Mem. Acad. Hist . 6. 278)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "( criar ) Producir, dicho de cosas en que no interviene la industria humana ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Jardines --- mal cultivados, y llenos de hierba que la misma naturaleza criaba.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 6 (R. 18. 452 2 )."
+            },
+            {
+              "texto_cita": "«El agua dice: --- Te crío infinitas diferencias de peces para que comas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 3 (R. 6. 21 2 )."
+            },
+            {
+              "texto_cita": "«La carne se conserva con la sal sin corrupción; mas faltando ésta, luégo se daña y cría gusanos.»",
+              "autor": "",
+              "referencia_obra": "Id . Mem. vida crist. 6. 7, 1ª. pte . § 2 (R. 8. 373 1 )."
+            },
+            {
+              "texto_cita": "«Así como la abundancia del estiércol cría muchedumbre de gusanos, así la muchedumbre de los manjares es causa de malos pensamientos, y caídas, y sueños desvariados.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. espir . 27(R. 11. 365 1 )."
+            },
+            {
+              "texto_cita": "«Los mismos montes [de Córdoba] con las copiosas fuentes crían viñas y olivares, y toda manera de árboles.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 12. 18 (R. 30. 367 2 )."
+            },
+            {
+              "texto_cita": "«Y los sulcos que va criaban trigo, | De avena y grama estéril se cubrieron.»",
+              "autor": "León",
+              "referencia_obra": ", 2, égl . 5 ( Fern. 10. 99; Merino"
+            },
+            {
+              "texto_cita": "«llevaban»",
+              "autor": "",
+              "referencia_obra": "."
+            },
+            {
+              "texto_cita": "«Dijo [Naturaleza] que vuestro ingenio peregrino | Le hurtó para hacer frutas sus pinceles; | Que no pintáis, sino criáis claveles, | Como ella en tierra, vos en blanco lino.»",
+              "autor": "Lope",
+              "referencia_obra": ", son . 41 ( Obr. suelt. 1. 399)."
+            },
+            {
+              "texto_cita": "«La India marfil, la Arabia olores cría.»",
+              "autor": "Valb.",
+              "referencia_obra": "Grand. mej. 5 (55)."
+            },
+            {
+              "texto_cita": "«Ribera clara, de los dioses coro --- | Donde Flora y Natura --- | Los descasados árboles tejiendo, | Clarificando el sol, mostrando el día | Puro y sin nube, cual la luz le cría.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, égl . 2 (96)."
+            },
+            {
+              "texto_cita": "«No se precia [Guadiana] de criar en sus aguas peces regalados y de estima, sino burdos y desabridos, bien diferentes de los del Tajo dorado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 23 (R. 1. 452 2 )."
+            },
+            {
+              "texto_cita": "«Ea, canalla, respondió D. Quijote; para mí no hay toros que valgan, aunque sean de los más bravos que cría Jarama en sus riberas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 58 (R. 1. 527 2 )."
+            },
+            {
+              "texto_cita": "«Ya yo sé de experiencia que los montes crían letrados, y las cabañas de los pastores encierran filósofos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 50 (R. 1. 396 1 )."
+            },
+            {
+              "texto_cita": "«Cría este suelo bellas zacalas.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 1 (3)."
+            },
+            {
+              "texto_cita": "«La naturaleza cría pocos varones fuertes, y muchos la industria.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 82 (R. 25. 222 2 )."
+            },
+            {
+              "texto_cita": "«Ningún siglo crió tan prodigioso número de poetas como el pasado.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Poes. dedic . (R. 46. 3)."
+            },
+            {
+              "texto_cita": "«Así como la tierra cría los hongos sin especial cultura, cría también de la noche á la mañana una docena de cómicos de ambos sexos.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 79)."
+            },
+            {
+              "texto_cita": "«El alma mía | Se pierde, una flor sola contemplando, | Una de cuantas Mayo alegre cría.»",
+              "autor": "Mel.",
+              "referencia_obra": "Disc . 3 (R. 63. 262 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . en sentido pas . Dícese de cosas que se producen y nacen como espontáneamente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volví el rostro hacia el lado izquierdo, y vi un arbolillo pequeño que se criaba de la humedad del agua.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Estud . 1. 22 (R. 18. 420 1 )."
+            },
+            {
+              "texto_cita": "«Críase, solía decir, la polilla en el mejor paño.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 2. 9 (98)."
+            },
+            {
+              "texto_cita": "«Las encinas se crían en los montes, y el pan nace en la tierra gruesa.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 4. 175)."
+            },
+            {
+              "texto_cita": "«En la iglesia militante hay seminarios, donde se críen soldados espirituales que la defiendan.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 82 (R. 25. 223 1 )."
+            },
+            {
+              "texto_cita": "«¿Y cuál es la nacion --- que no ha sufrido vicisitudes del bien al mal, y del mal al bien, que es cuando se crían estos hombres extraordinarios?»",
+              "autor": "Quint.",
+              "referencia_obra": "Vidas , pról . (R. 19. 200)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , en el significado de origen ó procedencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No se crió aquel árbol tan grande de una bellota?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 3 (3. 89)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "( criar y menos bien crear ) Aplícase á lo inmaterial, y se toma extensivamente por Dar ocasión ó motivo para que resulte ó se produzca algo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y en fin se dejó, ó porque no bastase la gente --- ó, como dice el pueblo, que escudriña las intenciones sin perdonar sospecha, con razón ó sin ella, por criar la guerra entre las manos.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granada, 3 (R. 21. 96 1 )."
+            },
+            {
+              "texto_cita": "«Trabaje para tomar ocasión de cuantas cosas viere, oyere, leyere ó meditare, para criar más y más amor de Dios y más aborrecimiento del pecado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 3 (R. 6. 124 1 )."
+            },
+            {
+              "texto_cita": "«Y así pida instantemente al Señor y procure criar en su pecho esta segura confianza.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 13 (R. 60. 383 1 )."
+            },
+            {
+              "texto_cita": "«O las veré vengadas, si el que cría | En mí este brío no hace que me falte.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 11 (R. 17. 254 2 )."
+            },
+            {
+              "texto_cita": "«Pero exponerse á esta necesidad, criarla de propósito en la confianza de un recurso tan casual, tan lento, tan precario, ¿no sería una temeridad, ó por lo menos una imprudencia política?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 1ª. clase (R. 50. 116 1 ). —"
+            },
+            {
+              "texto_cita": "«El frescor del aire cría salud y lava las tristezas del corazón.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 7 (3. 457)."
+            },
+            {
+              "texto_cita": "«En efeto cría | La soledad mal humor.»",
+              "autor": "Lope",
+              "referencia_obra": ", La portuguesa y dicha del forastero, 1. 13 (R. 34. 160 1 ). —"
+            },
+            {
+              "texto_cita": "«Aquellas cosas que bien no son pensadas --- comúnmente crían desvariados efetos.»",
+              "autor": "",
+              "referencia_obra": "Celest . 4 (R. 3. 20 1 ). —"
+            },
+            {
+              "texto_cita": "«El no sentir en su alma el halago de Dios, estando derrocado en tan gran desventura, criaba sospecha en él, y justo temor de si Dios le tenía ya desechado.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 3 (1. 35)."
+            },
+            {
+              "texto_cita": "«Y ansí el calor despierta continua hambre, y la flaqueza cría congoja en comiendo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3 (1. 49)."
+            },
+            {
+              "texto_cita": "«Y ser mi oficio éste, juntamente con la disposición de mi ánimo y con el testimonio de mi conciencia, criaban en mí esperanza cierta de vivir y morir en paz y sin revés de fortuna.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 29 (2. 96)."
+            },
+            {
+              "texto_cita": "«Como el tronído viene sin pensar y estremece los corazones sonando, y cría en ellos pavor y maravilla de Dios; ansí la voz del Evangelio --- crió admiración de Dios, y de continuo la cría en los que la experimentan en sí.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 26 (2. 62)."
+            },
+            {
+              "texto_cita": "«No ha de haber en ellos [en los palacios] estatua ni pintura, que no críe en el pecho del príncipe gloriosa emulación.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 2 (R. 25. 13 2 )."
+            },
+            {
+              "texto_cita": "«El largo mandar cría soberbia, y la soberbia el odio de los súbditos.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 16 (R. 25. 45 2 )."
+            },
+            {
+              "texto_cita": "«Cría [la envidia] discordias y bandos, de donde nacen las guerras civiles.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 9 (R. 25. 30 1 )."
+            },
+            {
+              "texto_cita": "«Lo que conviene es que la variedad de explicaciones no las haga [las leyes] más dudosas y obscuras, y críe pleitos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 25. 58 1 ). —"
+            },
+            {
+              "texto_cita": "«El espíritu mercantil --- crea un sentimiento de igualdad que influye luégo en las costumbres.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 1. 11 (5. 47)."
+            },
+            {
+              "texto_cita": "«Por estos medios creó Isabel la consideración y preponderancia que obtuvo la nación por largos años entre las demás potencias comarcanas.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ( Mem. Acad. Hist. 6. 29)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . en sentido pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Multiplicando obras de amor de Dios, se va criando y fortificando este santo amor.»",
+              "autor": "",
+              "referencia_obra": "Gran . Adic. al Mem. 1. 4, § 1 (R. 8. 431 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "( criar ) Dícese por extensión del objeto mismo en que algo se produce ó nace, sin que intervenga acción ó voluntad directa ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El muchacho cría piojos.»",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Criar carnes.»",
+          "autor": "",
+          "referencia_obra": "Dicc. Autor ."
+        },
+        {
+          "texto_cita": "«A lo menos lleguemos á tratar nuestros cuerpos de la manera que trata un discreto padre á un hijo que cría muy bien criado: al cual nunca muestra rostro alegre, sino severo y grave; acostumbrándolo á trabajos, y proveyendo cómo el comer, el vestir, el dormir, y todo lo demás, sea áspero y ajeno de todas las delicias y regalos del cuerpo; para que así críe los cueros duros, y haga callos en el trabajo, y se habilite para todo lo que con virtud y honestidad convenga hacer.»",
+          "autor": "Gran.",
+          "referencia_obra": "Adic. al. Mem . 1. 4, § 2 (R. 8. 433 1 )."
+        },
+        {
+          "texto_cita": "«¡Voto al sol que no habían | De pasar los zagales de treinta años! | Luégo que canas crían, | Son de tratar y de sufrir extraños.»",
+          "autor": "Lope",
+          "referencia_obra": ", El piadoso venecíano, 2. 11 (R. 41. 556 3 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De pecados pequeños nacen, eslabonándose unos con otros, pecados gravísimos, y se endurecen, y crían callos, y hacen como incurables los corazones humanos en este mal del pecar.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , introd. (3. 133)."
+            },
+            {
+              "texto_cita": "«Quien ociosamente ha de pasear sobre el mundo, poco importa que sea delicado; el.que le ha de sustentar sobre sus hombros, conviene que los críe robustos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 3 (R. 25. 15 2 )."
+            },
+            {
+              "texto_cita": "«Mas no por esto un punto vigorosos | En la rabia y el ímpetu aflojaban, | Mostrando en el tesón y larga prueba | Criar aliento nuevo y fuerza nueva.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 30 (R. 17. 111 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién no se goza | De ver que, tan bella moza , | Tan santas costumbres crías?»",
+              "autor": "Lope",
+              "referencia_obra": ", La viuda valenciana, 1. 1 (R. 24. 69 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Germ. Por extensión, Tener ( trans .). J. Hidalgo , Vocab .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si godas campanas crío, | El me las había palmado.»",
+              "autor": "Rom. de germ.",
+              "referencia_obra": "p. 18."
+            },
+            {
+              "texto_cita": "«Y de las quinas que crío | Mercaréis baldeo y rodancho.»",
+              "autor": "",
+              "referencia_obra": "Ib. p. 19."
+            },
+            {
+              "texto_cita": "«Dí nones á los requiebros, | No fíes á quien no cría.»",
+              "autor": "",
+              "referencia_obra": "Ib . p. 60."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "( criar ) Nutrir, alimentar desde el nacimiento hasta la edad conveniente con la leche de los propios pechos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La madre que cría un niño, cuando la llama y le pide los pechos, no todas veces acude á dárselos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 2. 1, § 3 (R. 8. 181 2 )."
+            },
+            {
+              "texto_cita": "«Mas en los pechos de las mujeres --- puso dos fuentes de leche para criar los hijos que naciesen.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 1. 32 (R. 6. 260 2 )."
+            },
+            {
+              "texto_cita": "«Cuando volvió, estaba ya la niña dada á criar por mi orden con nombre de mi sobrina en una aldea dos leguas de aqui.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 8 (R. 1. 195 2 )."
+            },
+            {
+              "texto_cita": "«Diéronle que llevase la cadena, con orden de darla [la criatura] á criar en la misma aldea.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 3. 3 (R. 1. 627 2 )."
+            },
+            {
+              "texto_cita": "«¿Cabrá una manda | De cien ducados á un niño | Que me está criando un ama? — ¿Hijos tienes?»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza de la ley, 1. 3 (R. 39. 82 3 )."
+            },
+            {
+              "texto_cita": "«Sola una cabra tengo toda mía, | A criar dos cabritos enseñada | Y ordeñarse dos veces cada día.»",
+              "autor": "",
+              "referencia_obra": "Valb . Siglo de oro, 1 (24). —"
+            },
+            {
+              "texto_cita": "«Quedóle este hijo niño, que ella criaba á sus pechos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 22 (R. 6. 336 1 )."
+            },
+            {
+              "texto_cita": "«La obligación que tiene por su oficio á hacerlos [á sus hijos] buenos, esa misma le pone necesidad á que los crie á sus pechos.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 18 (3. 506)."
+            },
+            {
+              "texto_cita": "«Nunca la fiera madre al hijo tierno, | Como otras suelen, á sus pechos cría.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 1 (R. 17. 576 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los [perros] que quedaren en casa chiquitos críelos la madre, que mucha ventaja llevan los criados con la leche de la madre.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen . 5. 12 (3. 345)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El criar arruga, y el parir alucia:»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            },
+            {
+              "texto_cita": "«Hacía juegos de continuo delante del Padre, como delante de los padres hacen las amas que crían.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3 , Hijo (3. 299)."
+            },
+            {
+              "texto_cita": "«Casalda, y veréisla estar | Ocupada y divertida | En el parir y el criar.»",
+              "autor": "Lope",
+              "referencia_obra": ", La dama boba, 3. 3 (R. 24. 311 1 )."
+            },
+            {
+              "texto_cita": "«Y ella, tornada más brava | Que leona cuando cría, | Dijo así.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1 , Serm. de amores (R. 32. 151 1 )."
+            },
+            {
+              "texto_cita": "«Bienaventuradas las estériles, y los vientres que no concibieron, y los pechos que no criaron.»",
+              "autor": "",
+              "referencia_obra": "Gran . Guía , 1. 27, § 1 (R. 6. 102 2 ). Item , Orac. y consid. 1 , viernes en la noche (R. 8. 50 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por extensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Criar con leche de cabras.»",
+              "autor": "",
+              "referencia_obra": "Acad, Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh celos --- criados á los pechos de falsas imaginaciones, crecidos entre vilísimas envidias!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 3 (R. 45 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "met. Estar uno criado ( fam. ): poder bandearse ó cuidarse sin que otro le dirija ó ayude. Acad. Dicc .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "( criar ) Por extensión, Hacer cría ( intrans. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Las palomas de mejor gana crían en los altos que en los bajos, porque piensan que allí están más seguras.»",
+          "autor": "Herr.",
+          "referencia_obra": "Agric. gen. 5. 33 (3. 469)."
+        },
+        {
+          "texto_cita": "«¡Plega á Dios que por castigo | Tan vieja en un mes te vea, | Que tus callos desafíen | Las conchas de las tortugas, | Y el verano, en las arrugas | De tu cara, chinches críen!»",
+          "autor": "Alarcón",
+          "referencia_obra": ", El semejante á sí mismo, 3. 15 (R. 20. 79 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión, Alimentar, cuidar y cebar las aves y otros animales ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Poseía muchos ganados, por la grande comodidad y aparejo de los pastos y dehesas, y industria que tenía en criarlos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 8 (R. 30. 8 2 )."
+            },
+            {
+              "texto_cita": "«Acordóse de un vecino suyo que tenía un muy gentil corral de gallinas --- criábalas con el pan que le daban de limosna, y de noche las encerraba dentro del aposento mismo en que dormía.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 2. 1. 3 (R. 3. 269 2 )."
+            },
+            {
+              "texto_cita": "«Ha dado en criar conejos, | Y va á vellos al corral.»",
+              "autor": "Tirso",
+              "referencia_obra": "El pretendiente al revés, 1. 5 (R. 5. 22 3 )."
+            },
+            {
+              "texto_cita": "«Válate el diablo: ¿y acá estás? ¿Para quién crías esos pollos? dije yo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita de los chistes (R. 23. 346 2 )."
+            },
+            {
+              "texto_cita": "«Argüelles leía, hablaba, disputaba, criaba ruiseñores.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd. p. 228."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ellas [las ánsares] se pueden criar para dos fines, que el uno es criar muchas para vender y para sacar ganancia dellas, el otro es para haberlas de engordar para comer.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 5. 10 (3. 323)."
+            },
+            {
+              "texto_cita": "«Aquí sale algún pavillo | Que se crió de migajas | De la mesa.»",
+              "autor": "Lope",
+              "referencia_obra": ", El villano en su rincón , 2. 11 (R. 34. 145 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Refl. Crecer, desarrollarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes que comiencen los grandes fríos del invierno no es seguro echar pollos, como ya mediado diciembre ó por enero, y entonce salen mejores, y se crían más sin enfermedades.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 5. 20 (3. 386)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Por extensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El emperador Justino concedió por privilegio á los árabes scenitas, que solos pudiesen crialla [la seda] y beneficialla.»",
+              "autor": "",
+              "referencia_obra": "Mend . Guerra de Gran . 2 (R. 21. 90 2 )."
+            },
+            {
+              "texto_cita": "«Socorrerá con ella al que la quisiere para pagar sus deudas, para hacer sus labores de toda suerte, criar ganados y seda.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Mon. de vellón, 7 (R. 31. 583 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "( criar ) Dar educación conveniente ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volveos á vuestra casa, y criad vuestros hijos, si los tenéis, y curad de vuestra hacienda.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 31 (R. 1. 471 1 )."
+            },
+            {
+              "texto_cita": "«El amor que le tengo por haber sido su ayo y criádole desde niño, me pudiera llevar á decir mucho.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 4. 12 (R. 1. 676 1 )."
+            },
+            {
+              "texto_cita": "«Aquéllos [bendecían] á quien tan bien criado le criaba.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 6 (R. 1. 169 1 )."
+            },
+            {
+              "texto_cita": "«Supo que había en Segovia un licenciado Cabra, que tenía por oficio criar hijos de caballeros, y envió allá el suyo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 3 (R. 23. 488 1 )."
+            },
+            {
+              "texto_cita": "«Húyase dél [del palacio], como lo hizo el rey don Jaime el Primero de Aragón, viéndose tiranizado de los que le criaban y que le tenían como en prisión.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 2 (R. 25. 13 1 )."
+            },
+            {
+              "texto_cita": "«Los reyes godos criaban en su palacio á los hijos de los españoles más nobles, no sólo para granjear las voluntades de sus familias, sino también para que con ellos se educasen y ejercitasen en las artes los príncipes sus hijos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3 (R. 25. 16 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . en sentido pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me llevaron á un monasterio que había en este lugar, adonde se criaban personas semejantes, aunque no tan ruines en costumbres como yo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 2 (R. 53. 26 1 )."
+            },
+            {
+              "texto_cita": "«Cosa usada en otra edad en aquella casa de los Ponces de León, criarse los muchachos peleando con los moros, y tener á sus padres por maestros.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 4 (R. 21. 121 1 )."
+            },
+            {
+              "texto_cita": "«Criámonos los dos juntos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del enemigo el primer consejo , 1. 1 (R. 5. 652 3 )."
+            },
+            {
+              "texto_cita": "«No me he criado en la corte, ni he estudiado en Salamanca.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 19 (R. 1. 444 1 )."
+            },
+            {
+              "texto_cita": "«Mamé la fe católica en la leche; criéme con buenas costumbres: ni en la lengua ni en ellas jamas, á mi parecer, di señales de ser morisca.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 63 (R. 1. 539 2 )."
+            },
+            {
+              "texto_cita": "«Desde la primera infancia os habéis criado con él, y existe entre vosotros aquella intimidad nacida de la igualdad en los años y el genio.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet , 2. 3 (R. 2. 495)."
+            },
+            {
+              "texto_cita": "«Honró la [amistad] de Isabel á la célebre marquesa de Moya, doña Beatriz de Bobadilla, con quien se crió algunos meses de su niñez en las calladas y solitarias estancias del castillo de Maqueda.»",
+              "autor": "Acad.",
+              "referencia_obra": "Hist. 6. 37)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con para , que expresa la profesión ó carrera á que es destinada la persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Criar para las armas.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«El padre que cría un hijo para clérigo ó letrado, dende niño le comienza á ocupar en cosas de iglesia ó en ejercicios de letras, y todos los pasos de su vida endereza á este fin.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 6 (R. 6. 30 2 ). —"
+            },
+            {
+              "texto_cita": "«Debemos, en cuanto sea posible, criar nuestro ánimo para lo grande, y tenerle siempre lleno é hinchado, por decirlo así, de cierta elación noble y generosa.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc . 2. 1 (232)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para expresar el centro, la atmósfera en que se educa la persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Trujo consigo á --- su hijo mayor, de edad de doce años, para emplealle desde luégo, en servicio del rey y crialle en tan buena escuela.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 104 1 )."
+            },
+            {
+              "texto_cita": "«Quedó Isabela como huérfana que acaba de enterrar sus padres, y con temor que la nueva señora quisiese que mudase las costumbres en que la primera la había criado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 4 (R. 1. 148 1 )."
+            },
+            {
+              "texto_cita": "«El turco tiene este cuidado, recogiendo en serrallos los niños de todas naciones, y criándolos en el ejercicio de las armas, con que se forma la milicia de los jenízaros.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 82 (R. 25. 223 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de y un pred. , para denotar la condición en que se educa alguno.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Don Juan Pacheco caballero de extracción portuguesa, que se había criado de doncel del rey de Castilla cuando era príncipe ---»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr . 2 ( Mem. Acad. Hist. 6. 64)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Aplicado á la educación física.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ejercita tus fuerzas, críate robusto, y cásate con una mujer honrada, rolliza y trabajadora.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr . 88 (2. 356)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Por extensión, Formar, sacar, dar la educación propia de cierta profesión ó estado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Procuraron criar un orador perfecto, tomándole dende la cuna, y llevándolo por todos los pasos y escalones desta facultad, hasta ponerlo en la cumbre della.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. pról. (R. 8. 203)."
+            },
+            {
+              "texto_cita": "«Tomó [fray García de Toledo] un oficio, que le mandó el provincial, de maestro de novicios, que para su autoridad era cosa bien baja; aunque no se lo dio, sino porque su espíritu y virtud aprovechase á la orden, criando aquellas almas conforme á él.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 4, fragm . 1 (R. 55. 8 1 )."
+            },
+            {
+              "texto_cita": "«Los mismos señores particulares, las iglesias y monasterios subdividían también su propiedad, y repartiéndola en menores porciones, criaban vasallos que los asistiesen en las guerras comunes y privadas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la legisl. y la hist . (R. 16. 293 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Part . Con los adverbios bien ó mal , que ha recibido buena ó mala crianza ó educación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deteneos, y sed más bien criado, y dadme cuenta de lo que os he preguntado, si no, conmigo sois todos en batalla.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 19 (R. 1. 294 1 )."
+            },
+            {
+              "texto_cita": "«Fue [Roldán] --- corto de razones, pero muy comedido y bien criado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 1 (R. 1. 408 1 )."
+            },
+            {
+              "texto_cita": "«Al caballero pobre no le queda otro camino para mostrar que es caballero, sino el de la virtud, siendo afable, bien criado, cortés, comedido y oficioso.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 6 (R. 1. 416 2 )."
+            },
+            {
+              "texto_cita": "«El labrador porfiaba con el hidalgo, que tomase la cabecera de la mesa, y el hidalgo porfiaba también que el labrador la tomase, porque en su casa se había de hacer lo que él mandase; pero el labrador, que presumía de cortés y bien criado, jamás quiso, hasta que el hidallo mohino ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 31 (R. 1. 470 2 )."
+            },
+            {
+              "texto_cita": "«Díjole un diablo que hablase más bien criado, y verdad, que padres sin hijos no podía ser.»",
+              "autor": "Quev.",
+              "referencia_obra": "Entremetido (R. 23. 362 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con , para expresar la persona á quien uno se muestra cortés ó descortés.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Has de hacer dos cosas: la una, ser bien criado con todos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 51 (R. 1. 512 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Se halla aplicado á cosas en sentido análogo ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin él [sin entendimiento] estaría, respondió el duque, señora condesa, el que no descubriese por vuestra persona vuestro valor, el cual, sin más ver, es merecedor de toda la nata de la cortesía, y de toda la flor de las bien criadas ceremonias.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 38 (R. 1. 484 3 )"
+            },
+            {
+              "texto_cita": "«En esto llegaron los de la barca á juntarse con ellos, y todos se hicieron bien criados recebimientos.»",
+              "autor": "",
+              "referencia_obra": "Id . Pers . 1. 12 (R. 1. 577 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estando para ser creado cardenal en edad de cincuenta é cinco años, fenesció sus dias.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 23 (135)."
+        },
+        {
+          "texto_cita": "«El papa lo fizo mucha honra, é á suplicacion del rey don Juan le crió cardenal.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 18 (111)."
+        },
+        {
+          "texto_cita": "«Et tu, amada fija, si criándote en nuestra casa oviste alguna buena doctrina, debes pagarnosla en oraciones agora que somos viejos é las avemos menester.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 23 (269)."
+        },
+        {
+          "texto_cita": "«¿Para qué os armais --- sino --- para que se gocen los tiranos é robadores é hombres de escándalos é sangres con la division continua que vuestra señoria cria é favoresce?»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 3 (165)."
+        },
+        {
+          "texto_cita": "«¿Como queredes vos, señor, que yo yerro al rey de Navarra, que me crió?»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 69 (184)."
+        },
+        {
+          "texto_cita": "«A cuya cabsa Dios le avia criado rey é administrador.»",
+          "autor": "",
+          "referencia_obra": "Ib . 45 (130)."
+        },
+        {
+          "texto_cita": "«Aunque el cavallero, quando lo crian, esto non dica ---»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 502."
+        },
+        {
+          "texto_cita": "«Con el desseo de ver las tierras estrañas desamparó a las deesas amas que le criaron.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron . 34 (17 1 )."
+        },
+        {
+          "texto_cita": "«Es comparada la sabiduria al agua, porque no hay elemento tan noble como ella es, sin la qual no puede biuir ninguna cosa criada.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (17 1 )."
+        },
+        {
+          "texto_cita": "«Señor, sé, é creo que tú me formaste | A la tu ymagen de una non nada, | Criando mi alma me vyvificaste.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 352."
+        },
+        {
+          "texto_cita": "«Los ficiera llevar consigo para los facer criar, por quanto su padre era ome de buen linage.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 134. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Queremos vos decir como todo montero debe facer para haber et criar buenos canes et lindos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 38 ( Bibl. venat. 1. 108)."
+        },
+        {
+          "texto_cita": "«Supimos por los que aqui ffueron ayuntados connusco en la nuestra corte, que auia muy grand mengua de cauallos por que los non mantenian aquellos que los deuian mantener, nin los criauan muchos de los que los solian criar.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 613)."
+        },
+        {
+          "texto_cita": "«Crió [el rey] é cria en su casa muchos fijosdalgo.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 31 (R. 66. 27 1 )."
+        },
+        {
+          "texto_cita": "«Perdiame de sed: tal pereza yo crio, | Que por non abrir la boca, de sed perdí el fablar mio.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 435 (R. 57. 240 2 )."
+        },
+        {
+          "texto_cita": "«Otros crian caballos, et aves, et ganados, et canes.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caball. et escud. 45 (R. 51. 253 1 )."
+        },
+        {
+          "texto_cita": "«A la segunda [cosa] que me preguntades como debe ser creado [el papa], vos respondo que lo deben crear los cardenales en esta manera.»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. de los est. 2. 36 (R. 51. 357 1 )."
+        },
+        {
+          "texto_cita": "«Los que crian los fijos de los señores han muy grant honra et muy grant aprovechamiento, ca si de buena ventura fueren et sus criados fueren buenos et de buenas maneras --- serán las gentes de la tierra bien andantes ---»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 93 (R. 51. 338 2 )."
+        },
+        {
+          "texto_cita": "«Un home bueno habia una cosa en la montaña, et entre las otras cosas que criaba en su casa, criaba muchas gallinas et muchos gallos.»",
+          "autor": "",
+          "referencia_obra": "Id . C. Luc. 32 (R. 51. 381 1 )."
+        },
+        {
+          "texto_cita": "«Un rey habia un fijo et diole á criar á un filósofo en que fiaba mucho.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 18 (R. 51. 388 1 )."
+        },
+        {
+          "texto_cita": "«Acordaron todos --- que yo la dicha reina donna Maria que crie e tenga el dicho rey fasta que ssea de hedat.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 273)."
+        },
+        {
+          "texto_cita": "«Por que la mi tierra era muy yerma e muy pobre --- me pidien por merced que quisiesse poblar e criar a los de mi tierra.»",
+          "autor": "",
+          "referencia_obra": "Cortes le Valladolid, año 1307 (C. de L. y C . 1. 187). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«El mal gusano confonde todo el árbol en que see é cría.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 49 (R. 51. 176 2 )."
+        },
+        {
+          "texto_cita": "«E estonces vn ayo que le criara de niño, vino a el llorando de los ojos --- e dixol su ayo con gran saña: Bien entiendo que oy morrás vençido e afrontado, e por ende quiero yo morir antes que vea tu pesar, ca te crie con grand femençia --- e asy entró por la haz de los castellanos, e asy morió por non ver muerte del rey su criado.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 4. 1 (278 2 )."
+        },
+        {
+          "texto_cita": "«Dios fue vn comienço de todas las cosas que fueron, son e seran jamas, e crio todas las cosas buenas, e si algunas son malas, assi como el diablo e el ome malo, por sí se tornaron tales e se tornan, ca el buenas las crio.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 139 (112 1 )."
+        },
+        {
+          "texto_cita": "«Ninguna judia nin mora non crie a su leche fijo de cristiano nin gela dé.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez, año 1268 ( C. de L. y C. 1. 77)."
+        },
+        {
+          "texto_cita": "«Entonce bien puede el huérfano callar, et non es tenudo de responder al pleyto fasta que sea de la edat sobredicha, criándose en los bienes de que fue entregado.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 22. 7 (92. 660)."
+        },
+        {
+          "texto_cita": "«Bien asi como el niño se gobierna et se cria en el cuerpo de la madre fasta que nace, bien asi se gobierna et se cria del ama desde quel da la teta fasta que gela tuelle.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 7. 3 (2. 45)."
+        },
+        {
+          "texto_cita": "«E las amas que sus ffijos criaren, que las escusen por quatro annos, mientre el ffijo criaren, e non mas.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1262 ( Mem. Acad. Hist. 8. 60)."
+        },
+        {
+          "texto_cita": "«Tienen por bien que ninguna christiana que non crie fijo de judio nin de moro.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año , 1258 ( C. de L. y C . 1. 62)."
+        },
+        {
+          "texto_cita": "«Una garza criaba cerca de una cueva de una culebra, é esta culebra comíale cuantos pollos sacaba.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 33 1 )."
+        },
+        {
+          "texto_cita": "«Dios crio los pobres e crio los rricos de un criamiento, e son eguales ant’el.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 2 (Knust, 97)."
+        },
+        {
+          "texto_cita": "«Si algun omne tomar el ninno o la ninna echada, é lo criar, é los padres le conocieren depues ---»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 4. 4. 1 (75)."
+        },
+        {
+          "texto_cita": "«Yo los criey ambos de pequennos moçuelos .»",
+          "autor": "Alex.",
+          "referencia_obra": "1533 (R. 57. 194 2 )."
+        },
+        {
+          "texto_cita": "«Acomiéndote la fija, e dótela a criar.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 346 (R. 57. 295 1 )."
+        },
+        {
+          "texto_cita": "«Levad esti ninnuelo a fulan mi amigo, | Deçid quem lo crie, io assin gelo digo.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 534 (R. 57. 120 1 )."
+        },
+        {
+          "texto_cita": "«En buen ora te crie a ti en la mi cort.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2902 (R. 57. 31 1 )."
+        },
+        {
+          "texto_cita": "«Aqui está con Myo Çid el obispo don Iheronimo; | El bueno de Albar Fanez, cauallero lidiador, | E otros muchos que crió el Campeador.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2514 (R. 57. 27 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. crear, criar; prov. crear; fr . créer; it . creare (sicil . criari ) : del lat. creare, gr. χραινω cumplir , acabar; sans. kri, hacer, que se reducen todos á una raíz kar . El cambio de la e en i es de antigua data, como lo da á entender el hallarse criationes en un instrumento de 780 ( Muñoz , F . 10).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "En toda la conjugación se separan la i ó la e de la vocal siguiente, de suerte que la combinación nunca forma diptongo: cri-ó, cri-ara, cri-emos. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

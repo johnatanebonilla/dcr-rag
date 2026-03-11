@@ -1,0 +1,255 @@
+{
+  "lema": "ZARPAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Desprender el ancla del fondeadero, levantar anclas ( trans .). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Por no perder la buena ocasión que se les ofrecía, a la segunda guardia hicieron la señal de partida, y zarpando las áncoras, dieron con mucha presteza los remos al sesgo mar y las velas al sosegado viento.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Gal . 1 (Cl. C. 154. 130). X"
+        },
+        {
+          "texto_cita": "«Aquel bajel de luz, el paño echado | De cuantos rayos teje su ardimiento, | El ancla en el oriente había zarpado.»",
+          "autor": "Domínguez Camargo",
+          "referencia_obra": ", Obr. (ICC. 15. 257). X"
+        },
+        {
+          "texto_cita": "«Ellos querían zarpar los ferros y dejarme a la luna... recordé despavorido con un mal sueño de que maltraban, y halleme sobre la yerba sin ropa ni fardel.»",
+          "autor": "Martí",
+          "referencia_obra": ", Alfarache (R. 3. 365). X"
+        },
+        {
+          "texto_cita": "«Hizo señal el cómitre que zarpasen el ferro.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 63 (R. 1. 5382)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Salir un barco del lugar en que estaba fondeado o atracado ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que hagan, les manda, sin rumor apresto | De embarcaciones; que su gente a canto Reúnan de zarpar; armas prevengan, | Y sus intentos bajo sello tengan.»",
+              "autor": "Caro",
+              "referencia_obra": ", Obr. de Virgilio (2. 16). X"
+            },
+            {
+              "texto_cita": "«La escuadra salía lentamente, --- Marcial, durante la salida, iba haciendo comentarios sobre cada buque, observando su marcha, motejándolos si eran pesados, animándoles con paternales consejos si eran ligeros y zarpaban pronto.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar , 9 (p. 94). X"
+            },
+            {
+              "texto_cita": "«Listo a zarpar el barco | Sopla como. si fuera enorme fuelle. | Al puerto, cielo y mar forman un marco | Azul. Despierta entre el bullicio el muelle.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Antol. poét . (p. 129). X"
+            },
+            {
+              "texto_cita": "«Cuando todo el ejército estaba embarcado en la flotilla y a punto de zarpar, el general Santos se me presta para darme parte de que los tres artilleros principales habían desertado.»",
+              "autor": "L. Caballero",
+              "referencia_obra": ", Guerra mil días , 18 (p. 133)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El buque después de recibir nueva carga, zarpó al día siguiente.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María ( Gran encicl. Larousse ). X"
+            },
+            {
+              "texto_cita": "«Manda mi padre que a zarpar se aliste | La escuadra al espirar del fresco viento; | Cuando el profeta a quien Apolo asiste | Háblale así con obsequioso acento: ---.»",
+              "autor": "Caro",
+              "referencia_obra": ", Obr. de Virgilio (2. 13)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la expresión antes de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero estás allí pegada a tu horizonte | Como una lancha al muelle lista para zarpar lo creo | Antes del alba.»",
+              "autor": "Neruda",
+              "referencia_obra": ", Poes . p. 25."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la expresión con destino a . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al pequeño buque de carga que zarpa con destino a la Guaira, sube un hombre gastado por la vida ardiente de París: es Simón Bolívar,»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe , 4. 24 (p. 386)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como la rica nave del puerto | Empavesada zarpa | Y al vario viento da la blanca lona, | Y a una distante zona | Dirige el rumbo incierto, | Despareciendo va, y al fin se oculta | En el confín del piélago desierto...»",
+              "autor": "J. J. Ortiz",
+              "referencia_obra": ", Poes . p. 164. X"
+            },
+            {
+              "texto_cita": "«En nombre Suyo [de Cristo] zarparon de Palos de Moguer las carabelas que descubrieron y, al propio tiempo, evangelizaron a América.»",
+              "autor": "Calderón",
+              "referencia_obra": ", Ancha es Castilla , p. 281."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aliviar la quilla | Tienta en el fondo con veloz destreza; | Zarpa en las costas, en las ondas vuela.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 10 ( Fern. 7. 281)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ ζ )",
+          "definicion": "Con para . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En Londres se apresa a un buque escocés que está en el Támesis, por la sospecha de que zarpará para las Indias. En represalia, Escocia apresa por piratas a los tripulantes de un buque inglés que cae en sus manos.»",
+              "autor": "",
+              "referencia_obra": "Arcíniegas, Biogr. del Caribe , 2. 13 (p. 256)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Por generalización se aplica a otros medios de transporte. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando estallaron los voladores, despertando a los perros del vecindario, zarparon los camiones roncando en medio de los gritos de los promeseros a quienes la espectativa del viaje, más que la cerveza, tenía medioborrachos.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Siervo , 2. 3 (p. 104)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo veo, solo, a veces, | Ataúdes a vela | Zarpar con difuntos pálidos, con mujeres de trenzas | Muertas.»",
+              "autor": "Neruda",
+              "referencia_obra": ", Poes . p. 53."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión se aplica a las personas, Salir, partir en barco ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para señalar el punto de partida. Además con a , para indicar: — el destino. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Embarcose así que la recibió, y fatigados de una procelosa borrasca, llegamos a Mónaco, y de allí zarpamos a la ciudad de Génova.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz . 15 (Cl. C. 108. 218). — El tiempo. X"
+            },
+            {
+              "texto_cita": "«Zarparé al alba del puerto, | Hacia palos de Moguer, | Sobre una barca sin remos.»",
+              "autor": "Alberti",
+              "referencia_obra": ", Marinero (Cl. Castal. 48. 120). — La finalidad. X"
+            },
+            {
+              "texto_cita": "«Pero apenas mi capitán me vio tan mozo y nada pesado, cuando me metió en galera con los demás de sus soldados, temiendo que me perdería y que necesitase que me pregonasen. Zarpamos de allí a estar de presidio en Rosas, hasta tanto que el tercio se acabase de hacer, adonde teníamos cada tarde un pequeño socorro.»",
+              "autor": "",
+              "referencia_obra": "Esteb . Gonz . 1. 6 (Cl. C. 108. 236)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Zarpamos con tiempo ventoso, casi frío.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra ( Gran encicl. Larousse )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con hacia . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo le sonreí, como debían hacerlo, en antiguo las esposas nobles y hacendosas a sus esposos marinos que zarpaban hacia la muerte.»",
+              "autor": "Caicedo",
+              "referencia_obra": ", Viva la música , p. 144."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para , que indica el destino. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hernán Cortés, Orellana, los Pizarros, Jiménez de Quesada, Belalcázar, Valdivia, los Almagros, Juan de la Cosa, Núñez de Balboa, por aquí pasaron. Cuando zarpaban para la América dejaban aquí el recuerdo de las mujeres amadas.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla , p. 296."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rompe amarras el cuerpo, zarpa el alma, pasa la blanca tribu de la nubes, perdemos nuestros nombres y flotamos a la deriva entre el azul y el verde, tiempo total donde no pasa nada sino su propio transcurrir dichoso.»",
+              "autor": "Paz",
+              "referencia_obra": ", Teatro de signos , p. 56."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de . Además con en . al toque final de la retreta, | La clara faz del alba, su voz hacha corneta | De cristal largo y fino, en la antigua mañana | Que zarpamos del mundo sobre la crin del viento | Y entramos en los cielos del estremecimiento, | Bajo los gallardetes rosas de la diana.» Alberti , Marinero (Cl. Castal. 48. 83).",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del it. ant. sarpare 'zarpar', de origen incierto; quizá derive de serpe 'espacio triangular de la punta de proa, donde se ponía el ancla al zarpar. Escribió Cuervo :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Me inclino a creer que çarpar no se introdujo en castellano sino pasada la primera mitad del s. XVI: no lo hallo en Fdz. de Oviedo, en Fr. B. de la Casas (1570) no da a sarpare otro equivalente que sacar, alçar; después úsalo Cervantes, Lope, Tirso, Jáuregui, etc.»",
+          "autor": "Corominas",
+          "referencia_obra": ", DCELC . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

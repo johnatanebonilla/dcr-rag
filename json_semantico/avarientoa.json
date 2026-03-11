@@ -1,0 +1,260 @@
+{
+  "lema": "AVARIENTO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que tiene apetito desordenado de adquirir y tener riquezas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con razón es tenido por avariento no sólo el que roba, sino también el que desordenadamente codicia las cosas ajenas, ó desordenadamente guarda las suyas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 5 (R. 6. 127 1 )."
+            },
+            {
+              "texto_cita": "«Con todo lo que adquiría y tenía, jamás tan avariento ni mezquino hombre no vi, tanto que me mataba á mí de hambre.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill. 1 (R. 3. 79 1 )."
+            },
+            {
+              "texto_cita": "«Luculo, á quien la pobreza hacía avariento y la avaricia cruel, perdida la esperanza de gozar de aquellos despojos, pasó con sus gentes para sitiar una ciudad llamada Intercacia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 3. 2 (R. 30. 61 2 )."
+            },
+            {
+              "texto_cita": "«De las rentas de las iglesias se apoderó el avariento rey sin alguna resistencia.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 13 (R. 30. 144 1 )."
+            },
+            {
+              "texto_cita": "«¡Qué estéril es de buenas obras el rico avariento!»",
+              "autor": "Quev.",
+              "referencia_obra": "Cuna y sepult. 2 (R. 48. 83 1 )."
+            },
+            {
+              "texto_cita": "«Al príncipe, en todas las demás virtudes excelente, si es avariento le aborrece por tirano.»",
+              "autor": "",
+              "referencia_obra": "Id. M. Bruto (R. 23. 156 2 ). — Sup."
+            },
+            {
+              "texto_cita": "«Dejándolo todo á la disposición de un privado llamado Perenio, hombre avarientísimo, vicioso y cruel.»",
+              "autor": "",
+              "referencia_obra": "Mejía, Hist. imper. Cómodo ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Grande es el deseo que el avariento tiene de su dinero, y el ambicioso de su honra.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem.vida crist. 7. 3, § 1 (R. 8. 384 1 )."
+            },
+            {
+              "texto_cita": "«El avariento siempre tiene su corazón en los dineros, y el ambicioso en las honras.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 21, § 1 (R. 8. 583 1 )."
+            },
+            {
+              "texto_cita": "«No hay avariento en el mundo á quien tan hermoso parezca el oro, como á ellos la pobreza.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 2. 11, § 3 (R. 6. 309 1 )."
+            },
+            {
+              "texto_cita": "«Y volviéndome á un lado, vi á un avariento que estaba preguntando á uno --- si habían de resucitar aquel día todos los enterrados.»",
+              "autor": "Quev.",
+              "referencia_obra": "Sueño (R. 23. 299 1 )."
+            },
+            {
+              "texto_cita": "«El corazón el avariento entrega | En la mitad del sueño á su tesoro, | Que el alma en todo tiempo no le niega.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 5 (R. 1. 693 1 )."
+            },
+            {
+              "texto_cita": "«Porque estos insaciables avarientos, | Viendo la tierra pobre y poca presa, | Sin duda mudarán los pensamientos | Dejando por inútil esta empresa.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 34 (R. 17. 128 2 )."
+            },
+            {
+              "texto_cita": "«Aquí con gran placer de su heredero | Un avariento miserable yace, | Requiescat in bello , que no in pace , | Pues no supo gozar de su dinero.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rim. de Burg. son. 25 ( Obr. suelt. 19. 25)."
+            },
+            {
+              "texto_cita": "«Mientras censuramos al avariento porque acumula en su vejez tesoros --- nosotros que no queremos llamar literatos, atesoramos noticias y doctrinas, que ha de rasgar la ignorancia, ó roer la polilla.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 249 2 ). —"
+            },
+            {
+              "texto_cita": "«El avariento do tiene el tesoro tiene el entendimiento;»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«El avariento rico no tiene pariente ni amigo;»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Piensa el avariento que gasta por uno y gasta por ciento.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Aplicado á cosas en que se muestra avaricia ó que son instrumento de ella.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su avarienta condición | Se lamenta de tu agravio.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los ramilletes de Madrid , 3. 8 (R. 52. 318 3 )."
+            },
+            {
+              "texto_cita": "«El mercader marinero | Con la codicia avarienta | Cada viaje que intenta, | Dice que será el postrero.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Las paredes oyen, 1. 1 (R. 20. 43 3 )."
+            },
+            {
+              "texto_cita": "«Pasó después el ansia á los sepulcros, y los huesos de los muertos tuvieron que salir al aire otra vez y ceder á las manos avarientas las alhajas y preseas con que los habían enterrado.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 335 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar el objeto apetecido, tanto en el sentido propio como en el figurado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cata que no seas avarienta de lo que poco te costó.»",
+              "autor": "",
+              "referencia_obra": "Celest . 7 (R. 3. 35 1 )."
+            },
+            {
+              "texto_cita": "«Pues es, trocando los frenos, | Pródigo de lo que es mucho, | De lo que es nada avariento.»",
+              "autor": "Mto.",
+              "referencia_obra": "El parecido en la corte, 1. 1 (R. 39. 312 1 )."
+            },
+            {
+              "texto_cita": "«Mirad con tales cosas si hecho tiene | Esta, de sus licores avarienta, | Causas por donde eternamente pene, | Y igual castigo su avaricia sienta.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 8 (R. 17. 603 2 )."
+            },
+            {
+              "texto_cita": "«Avariento sois de amor.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Las paredes oyen, 1. 7 (R. 20. 45 2 )."
+            },
+            {
+              "texto_cita": "«El alma que ya exhalabas, | Viendo que vencía al desdén | La piedad, se detenía, | Avarienta de beber | Las perlas que por dos bellas | Niñas derramaban tres.»",
+              "autor": "",
+              "referencia_obra": "Id . Los empeños de un engaño, 3. 2 (R. 20. 261 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Escaso, estéril.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y tú por esto me has aborrecido | Cual á cruel enemigo declarado, | Cual labrador á un avariento ejido.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 4 (R. 17. 182 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En esta liberalidad nos dio á conoscer quanto mas el virtuoso se deleyta en el gastar, que el auariento pena en el guardar.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 25 (141)."
+        },
+        {
+          "texto_cita": "«Aun entre los hermanos nascidos de un padre ó de una madre, el uno vemos sabio, el otro ignorante, uno cobarde, otro esforzado; liberal el un hermano, el otro avariento.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras, 14 (215)."
+        },
+        {
+          "texto_cita": "«Nin loo al condesar | Como el avariento faze, | Ca si son puestos en par | El pródigo mas me plaze.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Prov. 3 ( Rim. inéd. 346)."
+        },
+        {
+          "texto_cita": "«E como aquel fuesse ome de extrema cobdiçia dominado, é mucho avariento, les demandó que todas las cosas que él tocasse ó le tocassen fuessen tornadas en oro.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 83."
+        },
+        {
+          "texto_cita": "«Cobdiçioso avariento | Fuy syenpre toda mi vida.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 324. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Cobdiçio yo, Sennor, e so muy avariento.»",
+          "autor": "Pal.",
+          "referencia_obra": "57 (R. 57. 427 1 )."
+        },
+        {
+          "texto_cita": "«Magüer que te es mandado --- | --- des al poble posada, tanto eres avariento | Que nunca lo diste á uno.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 238 (R. 57. 334 2 ). --- Siglo XIII:"
+        },
+        {
+          "texto_cita": "«La cobdicia le face que non pueda usar dellos [de los tesoros] de manera quel esten bien, et á tal como este llaman avariento.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 3. 4 (2. 19) ."
+        },
+        {
+          "texto_cita": "«El prinçepe avariento non sabe quel contez.»",
+          "autor": "",
+          "referencia_obra": "A lex. 65 (R. 57. 149 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. avarento; prov. mod. avarent. Como adjetivos de esta formación proceden de sustantivos, pudiera pensarse que, más bien que sobre avaro , se formó avariento sobre un sustantivo en ía ( prov. avaria, avaricia); pero si así fuese, aparecería la i en port. , como en fastiento de fastio . Otro sinónimo de formación completamente analógica es avaricioso , que Terreros califica de voz baja, ó jocosa; lo cierto es jue no es común en ninguna de las épocas de la lengua.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El hecho fue que, proyectando Panza | Su ínsula libertar de los logreros, | Cacos, avariciosos y usureros, | Les jugó el muy bellaco aquesta chanza.»",
+          "autor": "C. Fernández",
+          "referencia_obra": ", Fáb. ascét. 5. 17 (324). —"
+        },
+        {
+          "texto_cita": "«Los rricos abariçiosos, | Tanto que biuan biçiosos, | De los fechos virtuosos | Fablar basta.»",
+          "autor": "Tract. de la doctr.",
+          "referencia_obra": "(R. 57.375 1 ). —"
+        },
+        {
+          "texto_cita": "«Es cosa que pocas vegadas aviene [que la esposa haga don á su esposo], porque son las mujeres naturalmente cobdiciosas et avariciosas.»",
+          "autor": "",
+          "referencia_obra": "P art. 4. 11. 3 (3. 65)."
+        },
+        {
+          "texto_cita": "«Estos son los quatro que nunqua pierden cuydado, el uno es el avaricioso, el otro es el que a poca sazon que enrriqueció ---»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 17) . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

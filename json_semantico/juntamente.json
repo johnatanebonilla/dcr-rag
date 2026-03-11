@@ -1,0 +1,217 @@
+{
+  "lema": "JUNTAMENTE.",
+  "categoria_gramatical": "adv.",
+  "introduccion": "--> adv.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Con unión o concurrencia de varias personas en un lugar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El dulce lamentar de dos pastores, | Salicio juntamente y Nemoroso, | He de contar, sus quejas imitando.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Égl. 1 (R. 32. 3 1 )."
+            },
+            {
+              "texto_cita": "«Y caerá el ayudador, y juntamente el que es ayudado; y unos y otros serán juntamente confundidos y burlados.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía 1. 18, §1 (R. 6. 67 2 )."
+            },
+            {
+              "texto_cita": "«¡Ay cuánto de fatiga, | Ay cuánto de sudor está presente | Al que viste loriga, | Al infante valiente, | A hombres y caballos juntamente!»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, Prof. del Tajo (4. 313)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , que señala la persona o cosa con los que se ejecuta la acción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunos hubo que enterrando algún defunto, cayeron juntamente con él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 4. 16, §2 (R. 6. 517 1 )."
+            },
+            {
+              "texto_cita": "«Pero lo más sencillo es lo segundo, de que agora diremos en postrero lugar, que es la significación que el Caldeo sigue aquí juntamente con otros dos hombres doctos.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 3 (1. 40)."
+            },
+            {
+              "texto_cita": "«Con grandísima presteza subió donde Agi Morato estaba, y juntamente con él fueron algunos de nosotros.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 41 (R. 1. 370 2 )."
+            },
+            {
+              "texto_cita": "«D. Fernando y sus camaradas, con los criados de D. Luis y los cuadrilleros, juntamente con el ventero, todos por orden y parecer del cura, se cubrieron los rostros y se disfrazaron.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 46 (R. 1. 386 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Aplicado a cosas que concurren en un sujeto o lugar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es imposible bien creer y bien esperar sin que juntamente se halle la caridad, adonde se halla la viva fe con la firme esperanza.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 3. 13 ( Míst. 3. 83)."
+            },
+            {
+              "texto_cita": "«Sete decir, señor, que no hay soldado | Que no te tema juntamente y te ame.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Numancia , 1 (Arrieta, 10. 3)."
+            },
+            {
+              "texto_cita": "«A ti digo, oh varón, como se debe | Por jamás alabado: a ti, valiente | Juntamente y discreto don Quijote.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 35 (R. 1. 480 1 )."
+            },
+            {
+              "texto_cita": "«Siendo gobernador y juntamente liberal como lo pienso ser, no habrá falta que se me parezca.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 43 (R. 1. 494 1 )."
+            },
+            {
+              "texto_cita": "«En logrando cualquiera a ser poseedor, es juntamente descontento.»",
+              "autor": "Quev.",
+              "referencia_obra": "Mundo por de dentro (R. 23. 326 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Donde hay aviso y prudencia juntamente con fortaleza, allí hay amor y concordia.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. 4. 57 (R. 27. 397 2 )."
+            },
+            {
+              "texto_cita": "«Ofrezca todas las cosas al Padre Eterno juntamente con los méritos de su Hijo Jesucristo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Avisos (R. 53. 286 2 )."
+            },
+            {
+              "texto_cita": "«Con esta hacienda busco marido a quien entregarme, y a quien tener obediencia, a quien juntamente con la enmienda de mi vida, le entregaré una increíble solicitud de regalarle y servirle.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Casamiento engañoso (R. 1. 223 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siendo ella [la divina Esencia] una, y más unísima que ninguna de las cosas, he menester más nombres y semejanzas, para que cada una por su parte declare algo de la infinidad de perfecciones que ella juntamente en sí tiene.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 10 (3. 252)."
+            },
+            {
+              "texto_cita": "«He de procurar señalarme entre los buenos y ser el primero en acudir a las cosas del divino servicio, aunque tengo de ser juntamente el postrero en mis ojos por humildad, para que sin daño mío sea el primero en el fervor.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 20 (2. 146)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Simultáneamente, se dice de lo que ocurre al mismo tiempo que otra cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ave que juntamente nada y vuela, es reprobada en la ley y tenida por sucia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 3, §5 (R. 8. 117 1 )."
+            },
+            {
+              "texto_cita": "«Echaron de aquellos lugares a los enemigos, juntamente se apoderaron de la ciudad de Teruel, que es lo postrero de Aragón.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 11. 12 (R. 30. 320 2 )."
+            },
+            {
+              "texto_cita": "«Me pides, según yo entiendo, que procure y solicite quitarle la honra y la vida, y quitármela a mí juntamente.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 33 (R. 1. 342 1 )."
+            },
+            {
+              "texto_cita": "«Si el que le dio los palos, aunque se los dio a hurta cordel, pusiera mano a su espada, y se estuviera quedo haciendo rostro a su enemigo, quedara el apaleado agraviado y afrentado juntamente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 32 (R. 1. 472 1 )."
+            },
+            {
+              "texto_cita": "«¿Por ventura, don García, | Es uso en Madrid corriente | Enamorar juntamente | A la sobrina y la tía?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse, 1. 4 (R. 20. 102 2 )."
+            },
+            {
+              "texto_cita": "«Era el Tamarit hombre que juntamente llegó a enseñar la milicia a los suyos y aprender entre ellos.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 521 1 )."
+            },
+            {
+              "texto_cita": "«Resuélvese a vengar sus agravios, y a liberar juntamente a la patria.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp. (2. 107)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la expresión de ambos, para resaltar la simultaneidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se puede entender de una de dos maneras o juntamente de ambos.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. 8 (1. 142)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le amonestaron que desamparase la cibdad, e no encomendase a la fortuna de una hora la vida suya e aquellas gentes, juntamente con la honra y ganada en su edad pasada.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 13 (p. 94)."
+        },
+        {
+          "texto_cita": "«Qualquier persona, por perfecta que sea, rescibe alteración si tres negocios arduos juntamente le ocurren.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras, 5 (p. 171)."
+        },
+        {
+          "texto_cita": "«E fueron padrinos juntamente con el rey e la reyna, el conde de Castañeda e doña Beatriz.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 43 (p. 128)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De junto (véase etim. de este vocablo) y el sufijo -mente. Cat. juntament, fr. jontivement, it. giuntamente. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,223 @@
+{
+  "lema": "HOCICAR, HOCIQUEAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Levantar o mover la tierra u otra cosa con el hocico, hozar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Unicamente el perro, que se enroscaba a sus pies, parecía conservar recuerdos y sentir odio: hociqueaba hostilmente toda la procesión de faldas que entraban y salían.»",
+              "autor": "",
+              "referencia_obra": "Blasco Ibáñez, La barraca , 8 (p. 218). X"
+            },
+            {
+              "texto_cita": "«El cerdo hocicaba la tierra removiéndola.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Decididamente, gustaba a todos aquel nuevo individuo de la familia, que hociqueaba el pesebre con extrañeza, como si encontrase en él algún rastro, algún lejano olor del compañero muerto.»",
+              "autor": "",
+              "referencia_obra": "Blasco Ibañez, La barraca , 7 (p. 203)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans . Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entraron gruñendo una docena de ellos, hocicando en la borra, que aínas me borran toda la cara.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 15 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«También conocer puedes los serenos | Y alegres días con señales ciertas: | En los bosques fructíferos y amenos | Música dulce, o pájaro, conciertas, | Ni el alción apartó del mar sus ojos, | Ni el lechón sucio hocica en los manojos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Poes . (R. 2. 56 1 ). X"
+            },
+            {
+              "texto_cita": "«Por allí vagan, después de hocicar en los montones arriba citados, perros leprosos que no desdeñan una pantorrilla si se les ofrece, gallinas flacas que por abril o mayo pasean sus manadas de pollos.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Familia de L. Roch , 1. 19 (1. 160). — met. X"
+            },
+            {
+              "texto_cita": "«Trajese una fuente que tenía, de vidrio, y un frasco grande de vino, y me lo fuesen echando hasta tanto que aplacase la sed. Hízolo así el paje, y yo hocicando en un artesón que tenía, adonde se despeñaban media docena de caños del artificio, a pocas tiradas dejé la fuente agotada y agotado el frasco.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz . (Cl. C. 109. 29)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el siguiente ejemplo, Mordisquear. Part . Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Verdaderamente dignos, que no comieran jamás sino berzas, y aun éstas mui sucias y hocicadas de puercos.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Dioscór. 2. 3 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "fam. Besuquearse ( recípr .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Agradecida [Diana] del amor del pastor, bajaba cada día a hocicarse con él.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", nota 16 (R. 52. 589 1 )."
+            },
+            {
+              "texto_cita": "«Esta señora que se dice ser reina del gran reino Micomicón, no lo es más que mi madre, porque a ser lo que ella dice, no se anduviera hocicando con alguno de los que están en la rueda, a vuelta de cabeza y a cada traspuesta.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 46 (R. 1. 385 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se estaban hocicando en un rincón del parque.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La otra [niña] no era mala, pero tenía más desenvoltura, y dábame sospechas de hocicada.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón , 20 (R. 23. 519 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Caerse dando con la cara contra el suelo ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque me pisase me hacían hocicar y dar de ojos. Echaban sobre mí un peso intolerable y cargábame como si fuera bestia.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con contra . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al apearse del autobús hocicó contra el suelo.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Con sobre . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hocicados sobre el sarnoso borde de una Caldera, y engullendo a lo Moruno un cochifrito de cortaduras de Marrano, y piltrafas de Oveja rancia, encontré una mañana de el Agosto en las Ventas de Meco a quatro Mayorales lanudos.»",
+              "autor": "Torres Villarroel",
+              "referencia_obra": ", Pronósticos , 2 (1. 5)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Tropezar con un obstáculo o dificultad insuperable ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cegábalos tanto su ambición que los hizo hocicar al primer paso.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 1. 2 (R. 46. 524 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El tal escribano no está en casa jamás, y hay que hocicar con un escribientillo hablador y embustero, que no sé cuándo tendrá corriente la copia que me falta.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . (2. 417)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "mar. Inclinar un buque en sentido longitudinal, de modo que su proa quede más sumergida de lo que le corresponde en su flotación corriente ( intrans .). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El balandro, hocicando, con la proa recta a la sima, daba espantoso salto.»",
+          "autor": "Pagés",
+          "referencia_obra": ", Dicc .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Reciprocare ... Los antiguos procare dixeron por demandar: donde demandaban mamando y hocicando las tetas de la yegua los potros.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab . 412d."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De hocico ‘boca prominente del cerdo y otros animales’, y éste de hozar , que proviene del Iat. vulgar *fodiare , de fodere ‘cavar’. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

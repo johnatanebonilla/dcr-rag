@@ -1,0 +1,439 @@
+{
+  "lema": "AMONESTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer presente alguna cosa para que se considere, procure ó evite. Con acus. de cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tus oídos oirán la voz del que tienes á las espaldas, y te amonesta el camino que has de andar.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 5. 4. (3. 30)."
+            },
+            {
+              "texto_cita": "«Fueron muchas las señales que amonestaron á Julio César su muerte.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 148 2 )."
+            },
+            {
+              "texto_cita": "«Aunque con palabras y ejemplos amonestó tanto las peregrinaciones, disuade á Paulino, monje, que no lo haga, porque para su instituto convenía más la quietud y encerramiento.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 4. 9 (343)."
+            },
+            {
+              "texto_cita": "«Por la virtud divina convalecieron, y cobraron súbita alegría de corazón y fuerzas corporales, no en balde, mas para amonestar á los otros la virtud de la perseverancia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 23, § 2 (R. 6. 347 2 ). —"
+            },
+            {
+              "texto_cita": "«Al fin de la mesma carta vuelve otra vez á encargarle este mesmo consejo, diciendo: Quiero juntar el fin con el principio, porque no me contento con haber amonestado esto una vez.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid. 2. 2, § 5 (R. 8. 105 1 )."
+            },
+            {
+              "texto_cita": "«Del modo mismo otra visión, soñando, | Tiene, y lo mismo le amonesta.»",
+              "autor": "Maury",
+              "referencia_obra": ", Dido (R. 67. 181 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con una prop. indic., para presentar como un hecho positivo aquello que se quiere inculcar (en latín acus. con infin. )",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Veloz pasas volando, | Al humano linaje amonestando, | Viendo las rosas que tu aliento cría | Cómo nacen y mueren en un día, | Que las humanas cosas, | Cuanto con más belleza resplandecen, | Más presto desvanecen.»",
+              "autor": "Rioja",
+              "referencia_obra": ", Al verano (R. 32. 383 2 )."
+            },
+            {
+              "texto_cita": "«Amonestó á los soldados en pocas palabras que allí era preciso ó vencer ó morir.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 351 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con una prop. subj. , para presentar como consejo ó prevencion lo que se inculca (en latín, ut, ne con subj. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Os amonesto que así como habéis de ser enemiga de vuestra voluntad, así mucho más lo seáis de vuestro parecer, y de querer salir con la vuestra.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 55 ( Míst. 3. 235)."
+            },
+            {
+              "texto_cita": "«Hacer otra cosa sino lo dicho, y seguirse, nadie por su parecer en esto, téngolo por cosa muy peligrosa; y ansí, hermanas, os amonesto de parte de nuestro Señor que jamás os acaezca.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 6. 3 (R. 53. 465 2 )."
+            },
+            {
+              "texto_cita": "«Dios que nos amonesta que peleemos, nos ayuda para la victoria.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 2. 20, § 1 (R. 11. 131 1 )."
+            },
+            {
+              "texto_cita": "«Amonestóles no desfalleciesen, antes defendiesen la ciudad con el esfuerzo y valor que dellos se esperaba.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 8 (R. 30. 414 1 )."
+            },
+            {
+              "texto_cita": "«Presentó á los legados un libro doctísimo que había escrito en defensión del matrimonio del rey y de la reina, y amonestóles con un razonamiento gravísimo que no buscasen dificultades donde no las había.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 1. 14 (R. 60. 200 1 )."
+            },
+            {
+              "texto_cita": "«El rey don Juan el Segundo de Aragón escribiendo á sus hijos los Reyes Católicos una carta en la hora de su muerte, les amonestó que ninguna cosa hiciesen sin consejo de varones virtuosos y prudentes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 55 (R. 25. 147 2 )."
+            },
+            {
+              "texto_cita": "«Ya pues que hemos traído al principe entre el polvo y la sangre, poniéndole en el sosiego y felicidad de la paz, le amonestamos que procure conservalla y gozar sus bienes sin turballos con los peligros y desastres de la guerra.»",
+              "autor": "",
+              "referencia_obra": "Id. Emp. 99 (R. 25. 258 1 )."
+            },
+            {
+              "texto_cita": "«Yo, sobrino, os amonesto, | Antes de ir esta jornada, | Que miréis en aquel texto | De la Escritura sagrada | Que guardar | Nos manda y desconfiar | De los príncipes humanos.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32 . 228 3 )."
+            },
+            {
+              "texto_cita": "«Le muestra el grave mal de su accidente, | Y le amonesta que del cuerpo humano | Comience á levantar á mejor parte | El alma suelta con volar liviano.»",
+              "autor": "Garcil.",
+              "referencia_obra": "eleg. 2 (R. 32 . 26 2 )."
+            },
+            {
+              "texto_cita": "«Amonestó á los suyos que se diesen | Y en ninguna manera resistiesen.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 33 (R. 17. 124 2 )."
+            },
+            {
+              "texto_cita": "«Su hermano le amonestó que no tuviese la temeridad de tentar á la fortuna lejos de su casa, y que se volviese á Sicila.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 230 2 )."
+            },
+            {
+              "texto_cita": "«Le amonestó, por fin, que no diese lugar con su tenacidad á los últimos extremos de la indignación pública.»",
+              "autor": "Viana",
+              "referencia_obra": "(R. 19. 245 1 ). —"
+            },
+            {
+              "texto_cita": "«Mas lo que os amonesto es que no juzguéis de lo que está por venir, porque ninguno puede juzgar lo que de cierto no puede jurar.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 273)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Advertir, prevenir. Con acus. de pers.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por tres años no he cesado noche y día de amonestar con lagrimas á cada uno de vosotros.»",
+              "autor": "Scío",
+              "referencia_obra": ", Hechos apost. 20. 31."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En tanta manera se despertaban y aguijaban los unos á los otros para las cosas de Dios, que casi no tenían necesidad de ser para esto amonestados por el padre espiritual.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir. 4, § 1 (R. 11. 296 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los de mayor edad deben dar ejemplo á los de menos años, amonestando las buenas costumbres con blandura de palabras; y los amonestados reconozcan con humildad la obligación que tienen de recibir de buena gana los consejos y agradecerlos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 3. 24 (R. 11. 176 1 )."
+            },
+            {
+              "texto_cita": "«Si alguno, amonestado una vez ó dos, no se enmendare, no contiendas con él.»",
+              "autor": "",
+              "referencia_obra": "Id. Imit . 1. 16 (R. 11. 386 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la cosa á que se llama la atención.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amonestóle en sueños Dios del peligro que corría.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 5. 8 (R. 30. 134 2 )."
+            },
+            {
+              "texto_cita": "«No quiso que gastase todo el tiempo en procurar esta vida de acá, sino que tuviese días señalados que le amonestasen de otra vida.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 2. 4 (R. 11. 100 1 )."
+            },
+            {
+              "texto_cita": "«Burló el crédito á los astrólogos que amenazaron á César, con día señalado, su fin; á los animales, que, muertos, con entrañas introducidas á la profecía (por la superstición) se le predijeron; y á tantas señales y agüeros que le amonestaban de su riesgo.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 146 1 )."
+            },
+            {
+              "texto_cita": "«Habla en boca de Marco Aurelio amonestando á su mujer Faustina de sus fragilidades, y de cómo se debe resistir á la sensualidad.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2, p. 119."
+            },
+            {
+              "texto_cita": "«Advertido con tiempo el rey de Fez del ocio en que vacía su amigo y aliado, le envió de tiempo en tiempo cartas y mensajes amonestándole del peligro.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1 . 10 (4. 227)."
+            },
+            {
+              "texto_cita": "«A esto aludía sin duda el apóstol san Pedro, cuando amonestando á los fieles de la obligación de obedecer á las potestades, les decía ---»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 48 (3. 203)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No podría reprimirlos su autoridad [á los tlascaltecas], ni los españoles quejarse de lo que padeciesen, tantas veces amonestados de lo que aventuraban.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 2 (R. 28. 265 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar el objeto á que se mueve la consideración.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y amonestando á los romanos á las buenas obras, les dice y escribe ---»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Pimpollo (R. 37. 78 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aun por este ejemplo es amonestado el pobre á que sea misericordioso.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 3, § 11 (R. 8. 199 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amonestado á ello también por la santidad del pontífice Gregorio XIII.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 1 (R. 28. 6 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En a, γ aparece el nombre de persona como dat. y la prop. subj. como acus. ; y frases como amonestar á alguno la muerte, la virtud , dan á entender que tal análisis no es desacertada. Pero á veces el pronombre va en acus. , sin que disuene la construcción, lo cual persuade que, á lo menos para estos casos, ha de buscarse otra explicación: podría decirse que el pronombre va en acus. y el que se toma en sentido final (latín:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Discipulos moneo, ut praeceptores suos ament»",
+              "autor": "Bello",
+              "referencia_obra": ", Gram. § 368, g ."
+            },
+            {
+              "texto_cita": "«Reprendiendo á los unos y á los otros, los amonesta que vivan en paz y en concordia.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Pablo, Rom. advert."
+            },
+            {
+              "texto_cita": "«Las amonestó que no llorasen tanto á Él cuanto á us pecados y los castigos que por ellos habían de venir á aquella ingrata ciudad.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Vida, de Cristo (84)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Publicar en la iglesia al tiempo de la misa mayor las personas que quieren contraer matrimonio ú ordenarse, para que, si alguno supiere algún impedimento, lo denuncie ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "— Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si ya amonestado estáis, | Y mañana os desposáis, | ¿Qué teméis?»",
+              "autor": "Tirso",
+              "referencia_obra": ", La villana de Vallecas, 3. 6 (R. 5. 64 1 )."
+            },
+            {
+              "texto_cita": "«Amonestada con vos | Dos veces, y la tercera | A punto de publicarse, | ¿Qué faltas vistes en ella | Para ocasionar venganzas | A la sangre portuguesa, | Que en respetos semejantes | O pierde el seso ó se venga?»",
+              "autor": "",
+              "referencia_obra": "Id. Desde Toledo á Madrid, 3. 10 (R. 15. 498 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Ser amonestado, hacerse amonestar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que digo yo | Es cosa en razón fundada, | Pues que casando á don Juan, | Lo hacéis con tanto secreto. | — Si es burla, ¿para qué efeto? | — ¡Burla, y él y Pedro están | Pidiendo que, por temor | Vuestro, licencia le den | Sin que se amoneste!»",
+              "autor": "Lope",
+              "referencia_obra": ", La esclava de su galán, 1. 4 (R. 34. 488 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le amonestaron que desamparase la cibdad.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 13 (94)."
+        },
+        {
+          "texto_cita": "«Los embaxadores de Catalueña le amonestaron é aconsejaron que viniese á mi servicio, como era tenido.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II , 7. 13 (R. 68. 354 2 )."
+        },
+        {
+          "texto_cita": "«Rodrigo le dixo que le amonestaba de parte de Dios que lo dixese luego al infante.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 23 (R. 68. 325 2 )."
+        },
+        {
+          "texto_cita": "«Que la Iglesia fuese unida | A su fijo encomendó; | E después le amonestó | Que siempre buena amistanza | Oviese e firme alianza | Con Francia quel tanto amó.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var. 379 ( Rim. inéd. 328)."
+        },
+        {
+          "texto_cita": "«Por tanto, señor, quanto yo puedo, exhorto é amonesto á la vuestra magnifiçencia que --- vuestro muy elevado sentido y pluma non cessen.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 18."
+        },
+        {
+          "texto_cita": "«El cauto maestro de toda su flota | Al conde amonesta del mal que denota.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. 163 (65 1 )."
+        },
+        {
+          "texto_cita": "«Amonestar los hombres á los actos virtuosos et retraerlos de las pravas concupiscencias.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1 . 2 (R. 36. 345 2 )."
+        },
+        {
+          "texto_cita": "«La gloria mundana | Vos fuerça é amonesta, | Que por Estrella Diana | Tomedes tan grant rrequesta.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 228. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Quien las cosas secretas de Dios quiere fablar, | Con buen tiento las diga é podrá aprouechar | Su fabla a los simples en los amonestar.»",
+          "autor": "Pal.",
+          "referencia_obra": "1156 (R. 57. 463 1 )."
+        },
+        {
+          "texto_cita": "«Sobresto e sobre otras cosas que an de yr algunos legos a juyçio ante los jueces de la eglesia, e amonestanlos e ponen sentençia sobre ellos.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 331). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Et qualesquier que por desprecio de Dios et de los santos non quisiesen guardar las fiestas así como sobre dicho es, débenlos amonestar dello los perlados et desque los hayan amonestados puédenlos por ende descomulgar.»",
+          "autor": "Part.",
+          "referencia_obra": "1 . 23. 2 (1. 488)."
+        },
+        {
+          "texto_cita": "«Si el obispo non hobiere cuidado de castigallo, el arzobispo debel amonestar que se parta de aquel yerro.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 9. 9 (1. 335)."
+        },
+        {
+          "texto_cita": "«Non podrien ellos [los perlados] bien amonestar á los otros que feciesen alimosnas, si, quando veniesen á sus casas los que hobiesen mengua, cerrasen las puertas et non los quisiesen recebir.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 5. 40 (1. 225)."
+        },
+        {
+          "texto_cita": "«E por ende si alguno de la ley de los judios, varon o mugier, se tornare a la nuestra fe e fuer casado, tenemos por bien que el perlado daquel lugar amoneste al que fincare en la ley de los judios, que se torne christiano, e si non lo quisiere fazer, que dalli adelante que los departa.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 8. 35 ( O. L. 1. 384)."
+        },
+        {
+          "texto_cita": "«Establescemos que tod omne que apusiere algun mal al príncipe falsamientre, ó que lo non amonestó ante en bondad de su vida, mas quiérese levantar contra él soberviosamientre, é con sanna --- pierda la meetad de todas sus cosas.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 2. 1. 7 (12)."
+        },
+        {
+          "texto_cita": "«Por emendar estas cosas, non nos costrinne razon solamientre; mes demais las cosas mismas, que nos amonestan que pongamos tal sentencia de nuestros corazones porque los principes non pasen á las cosas que non deven, é los poblos podan viver salvamientre.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 4 (V)."
+        },
+        {
+          "texto_cita": "«He depois amonestó todo el concello con grant devocion que se nembrasen de los degredos de sos padres.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1 ( I )."
+        },
+        {
+          "texto_cita": "«Establecemos et mandamos que los clerigos de misa amonesten á su pueblo que se vengan á confesar.»",
+          "autor": "León",
+          "referencia_obra": ", año 1228 ( Esp. sagr. 36. 221)."
+        },
+        {
+          "texto_cita": "«Desent amonestalos que piensen de orar.»",
+          "autor": "Berc.",
+          "referencia_obra": "Sacrif . 248 (R. 57. 88 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. amoestar; cat., prov. amonestar; fr. ant. amonester (en ing. ant. moneste, Chaucer, Rom. of the Rose, 3579), hoy admonester, admonéter. En que es comp. de a , ad y monere, no hay duda; pero la forma en que aparece el último componente es de difícil explicación: se ha supuesto un participio monestus por monitus. Véanse las observaciones que á este respecto hace A. Mussafia, Zeitschrift für romanische Philologie, 3, 268. Monere, representado en nuestro muñir , pertenece á la raíz man , pensar, y corresponde á la forma causativa mânayâmi; por tanto su valor primario es Hago pensar. ( Bopp , Gloss.; Schleicher , Comp. § 48; Pott , WWb. 2. 2. 111).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. — Refl.: 2 , β . — Part. : 1 , b, α , β β - 1, b, β , α α - 1, b, γ , β β - 2, α . — Con á: 1 , b, γ . — De: 1 , b, β . — Con prop. indic. : 1 , a, β . — Prop. subj. : 1 , a, γ - 1 , b, δ . \u0000"
+}

@@ -1,0 +1,399 @@
+{
+  "lema": "ASESTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Apuntar ó dirigir á parte determinada un arma para dispararla ( trans .). Propiamente, el acusha de ser el nombre del arma, pero por extensión se usa también como tal el del tiro.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De Antequera á las murallas | Triunfante y rápido llega, | Y las escalas arrima, | Y las lombardas asesta.»",
+              "autor": "",
+              "referencia_obra": "V. de la Vega, D. Fernando , 2. 12 (243)."
+            },
+            {
+              "texto_cita": "«En el instante | El moro asesta la delgada punta.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 11 (2. 415)."
+            },
+            {
+              "texto_cita": "«¿No le parecerá que ve á unos jugando desde los muros y torres sus armas ó máquinas, ó asestando sus tiros al abrigo de las troneras y saeteras, y otros en la barrera exterior, presentando sus pechos al enemigo, mientras los más distinguidos defienden el pendón real?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Descr. del castillo de Bellver (R. 46. 395 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiene delante de sí tantos ministros de la muerte que le amenazan, cuantos cañones de artillería se asestan de la parte contraria.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 38 (R. 1. 361 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el objeto que se quiere herir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volvieron rechazados con la diligencia sola de asestar á las calzadas la artillería de los bergantines.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 23 (R. 28. 382 2 )."
+            },
+            {
+              "texto_cita": "«Entretanto al más gordo | Fabio su tiro asesta.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 8. 3 (R. 61. 385 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue en un punto la gruesa artillería | A las abiertas puertas asestada, | Llenos de tiros mil de mil maneras | Los traveses, cortinas y troneras.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 31 (R. 17. 116 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asestada [la artillería] ante todas cosas, en odio de la religión, á la torre de la iglesia mayor --- en breves días la derribaron casi toda.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 28 1 )."
+            },
+            {
+              "texto_cita": "«Fulminaban los bronces asestados | Del scita poderoso á sus murallas.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst . ¿ Esos consejos das (R. 42. 300 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Este compl. es convertible en dat. pron.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asestándoles [á las casas] hacia la tarde las piezas con fuegos artificiales, prendió en ellas de manera que --- en brevísimo espacio consumió la mayor parte dellas.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 108 2 )."
+            },
+            {
+              "texto_cita": "«Hacer la guerra al traidor, cercar la tierra, | Y asestándole tiros y cañones, | Batirle la muralla noche y día.»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom . 6 ( Obr. suelt . 19. 249)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con contra , en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desbarataron con sus máquinas las que el Cid asestaba contra ellos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cid (R. 19. 209 1 )."
+            },
+            {
+              "texto_cita": "«Mandó inmediatamente asestar la artillería contra el palacio arzobispal y destruírlo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 2. 13 (5. 226)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En dos solas baterías de las que se asestaron contra Málaga, había once lombardas sin otras piezas de menor calibre.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog . de Is. la Cat. ilustr . 6 ( Mem. Acad. Hist . 6. 170)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es como una plaza asediada, que ve asestadas todas las baterías enemigas contra una parte flaca del muro.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Anot. á la Poét . 5. 2 (1. 218)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , en igual sentido; es una especie de prolepsis, ó construcción sugerida por la analogía con poner la mira (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ora oprime la turca confianza | Ora á la misma muerte rebatía, | Haciendo suspender la flecha airada | Que ya derecho en él tenía asestada.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 24 (R. 17. 94 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Absol . Dirigir tiros contra alguna cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y vuelven y revuelven presurosos, | Asestando á la ardiente centinela.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 5 (R. 17. 437 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Represéntase cualquier ataque bajo la imagen de un arma ó tiro que se dispara.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo nací para ejemplo de desdichados, y para ser blanco y terrero donde tomen la mira y asesten las flechas de la mala fortuna.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 10 (R. 1. 424 2 )."
+        },
+        {
+          "texto_cita": "«Este divino ardor obliga á buscar motivos para persuadir y mover al corazón, y asesta todas las máquinas de combatir al entendimiento humano, para rendirle y traerle al temor de Dios.»",
+          "autor": "Muñoz",
+          "referencia_obra": ", Vida de Gran . 1. 18 (60)."
+        },
+        {
+          "texto_cita": "«Escondida ó descarada [la envidia], astuta ó insolente, según le venía mejor para asestar sus tiros --- contrariaba á todas horas y en todas partes los designios que este gran genio formaba.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Elog. de V. Rodr . (R. 46. 372 2 ). —"
+        },
+        {
+          "texto_cita": "«¡Como si solamente el amor contra él asestase sus tiros!»",
+          "autor": "",
+          "referencia_obra": "Celest . 1 (R. 3. 7 1 )."
+        },
+        {
+          "texto_cita": "«Contra estos mozos, que llama seminaristas, y los sacerdotes que salen dellos, y contra los padres de la Compañía de Jesús, que los gobiernan y enseñan, asesta sus tiros y máquinas y ejercita su furor y braveza.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Cisma , 3. 19 (R. 60. 326 2 )."
+        },
+        {
+          "texto_cita": "«Al mismo tiempo que nuestros inquisidores asestaban sus tiros contra Arias Montano --- los puñales fanáticos de París se afilaban para asesinar á Ramus.»",
+          "autor": "Quint.",
+          "referencia_obra": "Disc. en la Univers. Central (R. 19. 196 1 )."
+        },
+        {
+          "texto_cita": "«Comenzaron al fin á asestar sus baterías contra el gobierno reinante, y á desacreditarle.»",
+          "autor": "",
+          "referencia_obra": "Id. Cartas á L. Holland , 7 (R. 19. 570 2 )."
+        },
+        {
+          "texto_cita": "«No siempre la sátira asesta sus tiros contra los vicios ó los defectos ridículos de las costumbres, sino que también se burla con donaire de los malos escritos trocándose de moral en literaria.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Anot . á la Poét . 4. 19 (1. 215). —"
+        },
+        {
+          "texto_cita": "«Horacio, plácido y festivo, | Asesta al vil, al necio, al codicioso, | Las leves flechas de su ingenio vivo.»",
+          "autor": "",
+          "referencia_obra": "Id. Poét . 4 (1. 109)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Perfecciónase la metáfora empleando como acusativo el nombre mismo que significa el daño, ofensa ó agravio con que se intenta herir.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Corona | --- de espinas hórridas compuesta | Que tormento amenaza y muerte asesta.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 9 (R. 17. 472 1 )."
+            },
+            {
+              "texto_cita": "«Si después de esos escritores creció mucho más el desorden dramático bajo las alas del ingenio de Lope, también se aumentó el número de los que le acometieron de frente, á pesar de la popularidad de ese poeta; en cuyas obras consta, no sólo las demás críticas que le asestaban, sino que algunas le llegaban al corazón.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. esp . 4 (2. 213)."
+            },
+            {
+              "texto_cita": "«Le asestó [Jovellanos á Huerta] dos romances burlescos á modo de jácaras de ciegos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. castell. del siglo XVIII , 3 (R. 19. 150 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero estos insultos, que no merecen la atención de la posteridad, estarían ya sepultados en olvido, si no fuera tan eminente el escritor contra quien se asestaron.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cervantes (R. 19. 95 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«i Qué triste cosa es de sufrir tanto número de calamidades, todas asestadas ó, por menos decir, hechas puntales, para que la frágil y desventurada honra no se caiga, y el que la tiene más firme es el que vive con mayor sobresalto de reparos.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 2. 4 (R. 3. 223 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Omítese el acus. : Hacer tiro, tratar de herir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A esta parte quisieron asestarle y hacer una molestia pesada.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Gran . 2. 6 (103)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Es raro é inaceptable el siguiente empleo, en que, por confusión con asechar , aparece con acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué [hay que admirar] tampoco que la juventud salga al mundo tan indefensa y poco prevenida contra los sofismas y artificios de una una impiedad que la asesta por todas partes?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ . 1 (R. 46. 358 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Otras veces más bien que el concepto de ataque predomina el de dirección. Absol . Poner la mira, encaminarse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al blanco del matrimonio | Asestan mis pensamientos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "La entretenida , (Com. 2. 184). —"
+        },
+        {
+          "texto_cita": "«¿No soy yo el blanco donde asestan sus deseos? Sí por cierto, dijo Andrea, sí, que vos sois señora de mi voluntad, descanso de mi trabajo y vida de mi muerte.»",
+          "autor": "",
+          "referencia_obra": "Id. Pers . 3. 21 (R. 1. 660 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. También representa la idea de Aparejar, tener pensado.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al que en alcázar real ó humilde choza | La nueva guerra asesta ó la paz goza.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 2 (R. 17.161 1 ). —"
+        },
+        {
+          "texto_cita": "«Llegáronse á mí las viejas á hacerme regalos, y holguéme de ver descubiertas las niñas, porque no he visto desde que Dios me crió tan linda cosa como aquella en quien yo tenía asestado mi matrimonio.»",
+          "autor": "Quev.",
+          "referencia_obra": "Gran Tac . 20 (R. 23. 519 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Por extensión se dice de objetos que no sean armas, por Dirigir.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El indio le aplicó [el vidrio] al ojo derecho, y asestándole á unas montañas, dio un grande grito, que testificó su admiración á los otros.»",
+          "autor": "Quev.",
+          "referencia_obra": "Hora de todos , 36 (R. 23. 410 1 )."
+        },
+        {
+          "texto_cita": "«Mostrábanos la ventana desde la cual asomado el mismo Wellington asestaba su anteojo en diferentes direcciones.»",
+          "autor": "Mesonero",
+          "referencia_obra": ", Mem. de un setentón , 1, p. 123. —"
+        },
+        {
+          "texto_cita": "«¿Quién me lo estorbará, si tú le asestas | Un escuadrón que pudo sin recelo | Plantar banderas y armas contra el cielo?»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 4 (R. 17. 177 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIII (forma sestar ):",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El fuerte non avrá su fuerza, é el esforzado non podrá estorcer, e el ballestero non sestará.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 3. 10 (192; * Balleston non sestará. Como el latín dice:"
+        },
+        {
+          "texto_cita": "«Tenens arcum non stabit,»",
+          "autor": "",
+          "referencia_obra": "Amós, 2, 15, podría conjeturarse, que el texto dice sestará por s ’ estará . Tampoco puede tomarse como de sestar el sestido de este pasaje:"
+        },
+        {
+          "texto_cita": "«El diablo en esto de balle non sestido,»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 164; ha de entenderse s ’ estido , es decir, se estuvo .)."
+        },
+        {
+          "texto_cita": "«Auentó un uenablo quel auie fincado, | Sestól a los dientes e fuel dando de mano.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1210 (R. 57. 184 2 )."
+        },
+        {
+          "texto_cita": "«Quando yazia a priezes óuol a sestar, | Tiról una saeta onde ovo a finar.»",
+          "autor": "",
+          "referencia_obra": "lb . 680 (R. 57. 168 2 )."
+        },
+        {
+          "texto_cita": "«Colpól el infante a guisa de baron, | Nol sestó a al se non al coraçon.",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "« Ib . 162 (R. 57. 152 2 ).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«El infante fue artero, sópolo bien sestar, | Aiudól su uentura ouolo a matar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 127 (R. 57. 151 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. assestar ; prov. assestar , asentar, colocar; it. assestare , ajustar, apuntar; sestare , medir, ajustar. En cast. ant. siesto valía Asiento, sitio, puesto; el port. tenía sesto , orden, medida; en it. sesto vale lo mismo, y sesta , seste , compás. La etimología ofrece dificultades: si partimos de siesto y el prov. assestar , resultará que nuestro verbo tiene un sentido análogo al de asentar cuando se dice Asentar la artillería, esto es, colocarla en el puesto conveniente. Pero ¿cómo enlazaremos estas acepciones con el port. y el it. ? Si es cierto que la mera colocación sugiere ya la idea de orden, la significación especialísima de compás queda todavía muy distante. Mucho se simplifica la cuestión explicando este último sentido con otra etimología, como ya alguien lo ha pensado acudiendo á sextus ; en tal caso éste habría contribuído á modificar el significado de las voces italianas por la casual semejanza de la forma. Al mismo resultado se llega admitiendo que sesta es el gr. ξυστ `< como cree Diez, ó que sale del verbo, como supone Ulrich ( Zeitschrift für romanische Philologie , IV, p. 383). Nuestro siesto puede ser un part. de sedeo á la manera de visto de video y de otros que trae Ulrich ( ubi supra ). Scheler supone para el verbo prov. é italiano un tipo lat. assessitare . (Véase Romania , XIII, p. 305.) \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

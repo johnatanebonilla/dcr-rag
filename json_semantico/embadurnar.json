@@ -1,0 +1,138 @@
+{
+  "lema": "EMBADURNAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Untar ensuciando ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aguardaba evacuación | Del sen que al novio embadurna.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom . 84 (459: R. 69. 218 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el Pirú usaron también embadurnarse mucho los hechiceros y ministros del demonio.»",
+              "autor": "Acosta",
+              "referencia_obra": ", Hist. de Ind. 5. 26 (241 2 : Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de o con, para denotar la cosa empleada para ensuciar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Embadurnar de almazarrón.»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Si vieras que al clavel le embadurnaban | Con almagre y misturas venenosas, | Diligencias sin duda tan ociosas, | A indignación dijeras te obligaban.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, son . 42 (R. 69. 136 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si a esta deformación añade usted un blanqueo con fajas de pinturas y colorines, con que se van embadurnando actualmente todas las paredes ---»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. de los conv. de S. Dom. y S. Franc. (R. 46. 436 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este, el que aforra los postes | Con cartelones de a tercia, | Embadurna los diarios, | Y hace cola en las gacetas.»",
+              "autor": "Mor.",
+              "referencia_obra": "rom. 4 (R. 2. 602 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de o con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Embadurne, pues, las márgenes con sus observaciones, y veámoslas.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 3, p. 59."
+            },
+            {
+              "texto_cita": "«Pasan la vida atando en insufribles versos una polilla asquerosa ---, embadurnan y apestan el teatro con unas cosas que llaman comedias.»",
+              "autor": "",
+              "referencia_obra": "Id. Derr. de los pedantes (R. 2. 561 2 )."
+            },
+            {
+              "texto_cita": "«Tan dignos son de censura los que embadurnan el idioma castellano de voces y frases extranjeras que no necesita, como los nimios puristas que no aciertan a consentir un galicismo.»",
+              "autor": "",
+              "referencia_obra": "Clem . Coment. 5, p. 358 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay esquina [en Bolonia] que no esté en todo tiempo embadurnada de versos, hechos a varios asuntos, sagrados y profanos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 327."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIII:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E así como el puerco se embadurna en el lixo del lodo, así el alma del mezquino que se echa a lujuria e a fornicio se embadurna en el su lixo.»",
+          "autor": "Cast. e docum.",
+          "referencia_obra": "39 (R. 51. 162 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Metátesis de embarduñar, forma que como ant. da la Acad. y que hoy se usa en Galicia; en Aragón bardo es barro, bardoma, suciedad, porquería, lodo corrompido; prov. ant. bart. lodo, fango (Levy), hoy bard, de donde embarda, enfangar ( Mistral ). En el pasaje siguiente parece errata por encuadernar:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vile tan fuera de seso, | Que porque no se empeñase | En disparates mayores, | Concedí en todo con él. | — Sois lindos cascos vos y él | Para embadurnar amores. | ¡Válgate el diablo por hombre! | Acabado de apear, | ¡Al instante hubo de hallar | Reconcomios!»",
+          "autor": "",
+          "referencia_obra": "Tir so, Desde Toledo a Madrid, 2. 9 (R. 5. 490 2 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

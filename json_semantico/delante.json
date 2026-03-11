@@ -1,0 +1,1230 @@
+{
+  "lema": "DELANTE.",
+  "categoria_gramatical": "",
+  "introduccion": "DELANTE. El uso preposicional y el significado de separacion, fundados en la etimología, están olvidados hoy; por manera que no se emplea sino como adverbio denotando situación relativa con respecto á un objeto.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Conservando el significado de separación propio de la prep. de , que figura como primer componente:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Prep . De la presencia de ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Huye delante mí, malvada Clori; | No me fatigues más con falsas nuevas.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", égl. Tirsi, pastor ( Fern. p. 64)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Adv. De la presencia, de mi presencia, de su presencia, etc. ( ant. ).",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conviene luego que todos aquellos á quien mucho ama el enfermo se le quiten delante, por el peligro que de la presencia dellos se le puede recrecer.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 2. 19 ( Míst. 3. 41)."
+            },
+            {
+              "texto_cita": "«Carino, que vio cuán bien había salído el traidor intento suyo, sin aguardar razones se les quitó delante.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 10 1 )."
+            },
+            {
+              "texto_cita": "«Le mandó que se le quitase delante, y que no fuese osalo de jamás hablarla.»",
+              "autor": "",
+              "referencia_obra": ". Id. ib . 6 (R. 1. 96 1 )."
+            },
+            {
+              "texto_cita": "«Haciendo una reverencia á su amo, se les quitó delante.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 8 (R. 1. 186 1 )."
+            },
+            {
+              "texto_cita": "«Quítenseme delante los que dijeren que las letras hacen ventaja á las armas.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 37 (R. 1. 360 1 )."
+            },
+            {
+              "texto_cita": "«Que si éste quito delante, | Podrá ser que vuelva amante | El pecho de Arlaja ingrato.»",
+              "autor": "",
+              "referencia_obra": "Id. El gallardo español , 1 ( Com . 1. 8)."
+            },
+            {
+              "texto_cita": "«Suelta, ¡maldígate Dios! | Villano, vil, ignorante, | O quitateme delante, | Porque haré, si me replicas, | Lo que Hércules.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los embustes de Celauro , 3. 8 (R. 24. 106 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un compl. formado por de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quitaos delante de mí. | — Vamos, García, de aquí.»",
+              "autor": "Lope",
+              "referencia_obra": ", El testimonio vengado , 3. 6 (R. 41. 417 1 )."
+            },
+            {
+              "texto_cita": "«Díme tanta priesa á huír y á quitarme delante de sus ojos, que creyeron que me había desparecido como demonio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col. (R. 1. 240 2 )."
+            },
+            {
+              "texto_cita": "«Pareciéndome ser imposible guardarme de las asechanzas de tan indignos enemigos, acordé de poner tierra en medio, quitándomeles delante de los ojos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 1. 233 2 )."
+            },
+            {
+              "texto_cita": "«Aquel sol de la milicia, que ayer nos quitó el cielo delante de los ojos.»",
+              "autor": "",
+              "referencia_obra": "Id. Gal. dedic. (R. 1. 1)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al hacer del pecado, quitóle delante [el demonio á Judas] la gravedad de él, y después trájole á la memoria cuán gran mal era haber vendido á su Maestro.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Audi , 18 ( Míst. 3. 161)."
+        },
+        {
+          "texto_cita": "«Este gusano es un despecho y una penitencia rabiosa que tienen siempre los malos, cuando consideran lo que perdieron, y la causa porque lo perdiron, y la oportunidad que tuvieron para no perderlo. Esta oportunidad nunca se les quita delante.»",
+          "autor": "Gran.",
+          "referencia_obra": "Orac. y consid. 1, viernes en la noche (R. 8. 50 2 )."
+        },
+        {
+          "texto_cita": "«Por tanto lavaos, y estad limpios, y quitad la maldad de vuestros pensamientos delante de mis ojos.»",
+          "autor": "",
+          "referencia_obra": "Id. Mem. vida crist. 5. 2, § 4 (R. 8. 300 1 )."
+        },
+        {
+          "texto_cita": "«Verdad dice esta doncella, dijo el cura, y será bien quitarle á nuestro amigo este tropiezo y ocasión delante.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 6 (R. 1. 267 1 )."
+        },
+        {
+          "texto_cita": "«Con vos ahora quisiera | Quitar estorbos delante.»",
+          "autor": "Tirso",
+          "referencia_obra": ", Los balcones de Madrid , 3. 21 (R. 5. 570 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Aquí, lo mismo que en otros adverbios y complementos en que figura de , se olvida el significado natural de separación.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "A cierta distancia en la misma dirección que uno lleva y dejándole á la espalda. Ordinariamente se dice tratando de objetos que se acompañan ó que se siguen en cierto orden; de modo que señalando meramente la relación de precedencia en la serie, no admite comparativo; no se dice va más delante , y si va más adelante, pues este adverbio señala la extensión que corre desde el frente de un objeto. Véase lo que dejamos advertido en ABAJO y DEBAJO .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Prep. ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los truhanes van delante los carros triunfales diciendo: Viva, viva la invencible Roma.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 57)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Adv.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Venía trayendo delante sus mansas ovejas.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 2 (50)."
+            },
+            {
+              "texto_cita": "«No miro atrás, ni temo ir delante.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1 (18)."
+            },
+            {
+              "texto_cita": "«Los dejaron ir delante, y ellos los fueron siguiendo á pie.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 29 (R. 1. 330 2 )."
+            },
+            {
+              "texto_cita": "«Les dijo que sería bien que él fuese delante á buscarle.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 27 (R. 1. 320 1 )."
+            },
+            {
+              "texto_cita": "«Algunos vienen delante, | Y algunos atrás se quedan.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las paces de los reyes , 3. 3 (R. 41. 583 3 )."
+            },
+            {
+              "texto_cita": "«¿Todavía camináis? | ¿Vais en mula ó en camello? | Porque desde ayer acá, | Cuando os presumo delante, | Os vengo á encontrar atrás.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Entre bobos anda el juego , 3 (R. 54. 35 1 )."
+            },
+            {
+              "texto_cita": "«En ir primero imito al elefante, | Que el mayor en la edad suele ir delante.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Averigüelo Vargas , 1. 15 (R. 5. 674 3 )."
+            },
+            {
+              "texto_cita": "«Uno de los batidores que iban delante volvió aceleradamente.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2. 8 (R. 28. 242 1 )."
+            },
+            {
+              "texto_cita": "«Poco delante iban tres magistrados con unas varas de oro en las manos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 10 (R. 28. 280 1 )."
+            },
+            {
+              "texto_cita": "«Hicieron al llenar sus reverencias, | y sin detenerse, caminaron delante.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 2 (R. 28. 267 1 )."
+            },
+            {
+              "texto_cita": "«Si tal vez llevan los reyes delante un estoque desnudo, insignia es de justicia, no de venganza.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 8 (R. 25. 26 2 )."
+            },
+            {
+              "texto_cita": "«Moisén marchaba llevando delante un ángel sobre una coluna de fuego, que le señalaba los alojamientos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 79 (R. 25. 213 2 )."
+            },
+            {
+              "texto_cita": "«Iba delante el general con un caduceo en la mano, y detrás la juventud armada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 98 (R. 25. 255 1 )."
+            },
+            {
+              "texto_cita": "«Echó el caballo de su mujer delante, con el alfanje, le iba dando.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 43 (R. 21. 40 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un compl. formado por de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le hizo ir corriendo delante de su coche por espacio de una milla.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 4. 12 (R. 30. 103 1 )."
+            },
+            {
+              "texto_cita": "«Picaron hacia la venta, y á poco trecho toparon un mancebito que delante dellos iba caminando no con mucha priesa, y así le alcanzaron.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 24 (R. 1. 455 1 )."
+            },
+            {
+              "texto_cita": "«Ninguno se atrevía á llevar la cruz delante dél, como delante de los legados se suele llevar.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 36 (R. 60. 221 1 )."
+            },
+            {
+              "texto_cita": "«En los acompañamientos de las bodas de Atenas, iba delante de los esposos un niño vestido de hojas espinosas con un canastillo de pan en las manos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 20 (R. 25. 53 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Prep. ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si así lo hicieres irá delante de ti tu justicia, y la gloria de Dios te recogerá.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 3, § 5 (R. 8. 194 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Adv.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siempre la humildad delante, para entender que no han de venir estas fuerzas de las nuestras.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 13 (R. 53. 48 1 )."
+            },
+            {
+              "texto_cita": "«Iba delante la razón guiando.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 10 (R. 17. 252 2 )."
+            },
+            {
+              "texto_cita": "«La voluntad es potencia ciega, que no puede dar paso sin que el entendimiento vaya delante alumbrándola.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 15 (R. 6. 55 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Demás de reformarse á sí é ir delante de todos con el ejemplo y honestidad de su vida, han de procurar ---»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 2. 14 (R. 60. 432 2 )."
+            },
+            {
+              "texto_cita": "«Aquel insigne español [Villena] caminaba audazmente delante de su nación y de su siglo.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. esp . 2 (141)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "La frase ir delante se construye con dat. como adelantarse , y admite un compl. con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue hecho tan sagaz, grande y osado, | Que pocos con razón le van delante.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 12 (R. 17. 51 1 )."
+            },
+            {
+              "texto_cita": "«Mas este [tormento] que padezco va delante | A todos cuantos tiene el Amor fiero.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg. 17 (R. 32. 293 1 ). —"
+            },
+            {
+              "texto_cita": "«Diole á ella el cargo de ello, | Como á quien le va delante | En engaño.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, Condic. de las mujeres (R. 32. 180 2 )."
+            },
+            {
+              "texto_cita": "«Va delante á la nieve helada y pura | En color, y en correr al euro frío.»",
+              "autor": "",
+              "referencia_obra": "Céspedes, Pintur. 2 (R. 32. 365 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "La precedencia en el espacio sugiere prioridad en el tiempo, según se ve en los pasaj siguientes:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿De cuándo aca me envió | A prevenir don García? | — No envió, señora mía; | Mas llegué delante yo, | Porque esta nueva te diese.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse , 1. 11 (R. 20. 104 2 )."
+            },
+            {
+              "texto_cita": "«Aun por seguillos [á los coronistas] habremos alguna vez tropezado: yerro digno de perdón, por hollar en las pisadas de los que nos iban delante.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. pról. (R. 30. LII )."
+            },
+            {
+              "texto_cita": "«Hágale vuestra señoría ilustrísima bueno [buen acogimiento] á mi deseo, el cual envío delante para dar algún sér á este mi pequeno servicio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. dedic. (R. 1. 1)."
+            },
+            {
+              "texto_cita": "«Quedándose él --- envió delante á los franciscos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 459 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Unos se inclinaban á que viniendo aquella gente armada y forastera en tiempo e tantos prodigios, debía ser tratada como enemiga, porque el admitirla ó el fiarse della sería oponerse á la voluntad de sus dioses, que enviaban delante del golpe aquellos avisos para que procurasen evitarle.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 2. 4 (R. 28. 237 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "En la parte del frente ó anterior. Se usa en absoluto.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Del pincel colegirás | (Por más que avise elegante), | Si tiene [tu mujer] dientes delante, | Si guarda corcova atrás?»",
+          "autor": "Rojas",
+          "referencia_obra": ", Donde hay agravios no hay celos , 1 (R. 54. 147 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "A cierta distancia en la dirección adonde mira ó tiene el frente una cosa, enfrente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Prep . ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si á la muerte de un rigor | Estoy, ¿no será mejor | Morir delante estas rejas?»",
+              "autor": "Tirso",
+              "referencia_obra": ", El castigo del penseque , 2. 5 (R. 5. 79 1 )."
+            },
+            {
+              "texto_cita": "«Aquellos dos cristales transparentes | Que puso amor delante nuestros pechos ---»",
+              "autor": "",
+              "referencia_obra": "L. Argens. canc. que principia así (R. 42. 276 1 )."
+            },
+            {
+              "texto_cita": "«Junto á un álamo alto que estaba en el medio, teniéndole á las espaldas, y delante los ojos la otra parte del soto, en la sombra y sobre la hierba verde y casi juntando al agua los pies, se sentaron.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, introd. (3. 135)."
+            },
+            {
+              "texto_cita": "«Los hados me destinaron para que amase á esta hermosa pastora que delante mis tristes y tus hermosos ojos está.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 6 (190)."
+            },
+            {
+              "texto_cita": "«La pastora quedó admirada de ver lo que delante los ojos tenía, y de hallarse tan cerca de poblado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 7 (205)."
+            },
+            {
+              "texto_cita": "«Es especie de rigor | Tener al competidor | Siempre delante los ojos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", En Madrid y en una casa , 2. 1 (R. 5. 543 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En lo moderno se halla usado alguna vez en verso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Delante el pecho | Ayax llevando pues su grande escudo | Se paró.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 7 (1. 207)."
+            },
+            {
+              "texto_cita": "«Tronó horrísono pues, y ardiente rayo | Lanzó, que del fogoso Diomedes | Delante los caballos en la arena | Cayó.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8 (1. 226)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Este compl. se halla precedido de prep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llegando á pasar por delante su monasterio ---.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 19 (R. 18. 59 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Adv .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedóle á la santa tan impresa esta visión, que desde entonces hasta que murió la traía presente, salvo que algunas veces era como si tuviese un velo delgado delante, pero con certidumbre en que estaba detrás.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 1. 18 ( Míst . 1. 82)."
+            },
+            {
+              "texto_cita": "«Venían á rendirse, pidiendo, con el foso delante, seguridad y salvaguardia para entrar.»",
+              "autor": "",
+              "referencia_obra": "Solis, Conq. de Méj . 5. 18 (R. 58. 372 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le mandó prender y ahorcar delante de las mismas casas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 11. 2 (R. 30. 310 1 )."
+            },
+            {
+              "texto_cita": "«Se salieron al gran patio que delante de la puerta estaba.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 5 (170)."
+            },
+            {
+              "texto_cita": "«Todos se hincaron de rodillas, y delante del altar con los clérigos comenzaban á cantar con voz baja una letanía.»",
+              "autor": "",
+              "referencia_obra": "Lazar . 5 (R. 3. 89 2 )."
+            },
+            {
+              "texto_cita": "«Se encendía [la nueva lumbre] delante de los altares con vehemente, agitación de leños combustibles.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 17 (R. 28. 292 2 )."
+            },
+            {
+              "texto_cita": "«Se puso delante de la carreta, y con voz alta y amenazadora dijo ---.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 11 (R. 1. 425 2 ). —"
+            },
+            {
+              "texto_cita": "«No tan faltos de armas que para los principios no les basten; y en lugar de las que tienen, las piedras delante de los pies, que contra gente desarmada son armas bastantes.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 1 (R. 21. 73 2 )."
+            },
+            {
+              "texto_cita": "«Estos encantadores que me persiguen no hacen sino ponerme las figuras como ellas son delante de los ojos, y luégo me las mudan y truecan en las que ellos quieren.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 26 (R. 1. 461 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "A menudo se toma en sentido puramente ideal.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Será [mi oficio] presentar á vuestra merced esta imagen que he dicho, labrada por Dios, y ponérsela delante la vista.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. introd. (3. 422)."
+            },
+            {
+              "texto_cita": "«Para que extendiéndose y como desplegándose delante los ojos la variedad y diversidad, venza, y reine y ponga su silla la unidad sobre todo.»",
+              "autor": "",
+              "referencia_obra": "Id. Nomb. 1, introd. § 2 (3. 11)."
+            },
+            {
+              "texto_cita": "«Dios sabe y tiene presente delante los ojos de su conocimiento todo lo que es y puede ser.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1, Faces (3. 47)."
+            },
+            {
+              "texto_cita": "«A los desamparados y flacos no los busca el mal, porque los tiene á la mano y como delante sus ojos, antes tropiezan en él ellos mismos y se le entran en casa.»",
+              "autor": "",
+              "referencia_obra": "Id. Expos. de Job 31 (2. 131)."
+            },
+            {
+              "texto_cita": "«Con la grandeza del saber y poder de Dios que se le puso delante los ojos, echó más de ver la bajeza y flaqueza humana.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 42 (2. 324)"
+            },
+            {
+              "texto_cita": "«¡Ay memoria mía, enemiga de mi descanso! ¿no os ocupárades mejor en hacerme olvidar disgustos presentes, que en ponerme delante los ojos contentos pasados?»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 1 (14)."
+            },
+            {
+              "texto_cita": "«Comenzaron [los católicos] con gran denuedo y valor á examinar la falsa doctrina, y convencer sus mentiras, y ponerlas delante los ojos con tanta evidencia y claridad, que los herejes tuvieron por bien de retirarse.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 2. 7 (R. 60. 241 1 )."
+            },
+            {
+              "texto_cita": "«Este momento [del Juicio] he de traer siempre delante mis ojos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1. 9 (1. 98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met. Ponerse delante : competir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nadie pudo emular su luz brillante | Entre tanto rival; | Moreto solo | Osó tal vez ponérsele delante, | Cuando inspirado por el mismo Apolo, | Pintó el desdén de la sin par Diana.»",
+              "autor": "Quint.",
+              "referencia_obra": "Reglas del drama , 3 (R. 19. 80 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión,",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Prep. En presencia de, á la vista de ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El infante aun no criado | Que en mi vientre está encerrado, | Delante su Criador, | Lleno de gozo y de amor, | Todo está regocijado.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3 (R. 32. 248 1 )."
+            },
+            {
+              "texto_cita": "«Vi delante mí presente | Una persona excelente, | En figura de mujer.»",
+              "autor": "",
+              "referencia_obra": "Id. 3, Consol. (R. 32. 211 2 )."
+            },
+            {
+              "texto_cita": "«Cumplidos cuarenta días despues de tu resurreccion, delante tus discípulos subiste glorioso triunfador á los cielos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 5. 5, orac. 7 (R. 8. 310 2 )."
+            },
+            {
+              "texto_cita": "«Dio una vuelta delante los que esto le preguntaban, y luégo desapareció.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid . 1, martes en la noche (R. 8. 28 1 )."
+            },
+            {
+              "texto_cita": "«Tiempo fue cuando osé de amor vencido, | Delante alguna bella y desdeñosa, | Presentar mis querellas y tormentos.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, Ardí y no solamente (4. 516)."
+            },
+            {
+              "texto_cita": "«El tiro y los más ricos mercaderes | Delante ti humillados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3, salmo 44 (4. 579)."
+            },
+            {
+              "texto_cita": "«A ti solo pequé, | A ti solo ofendí, | El mal delante ti, mi Dios, he hecho.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3, salmo 50 (4. 584)."
+            },
+            {
+              "texto_cita": "«Delante mi rey estoy.»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Las mocedades del Cid , 1ª. pte . 3 (R. 43. 256 1 )."
+            },
+            {
+              "texto_cita": "«Sale el marqués tan trocado, | Que delante mí ha pasado | Con tan libre ostentación, | Como si en toda su vida | Me hubiera querido bien.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por razón de estado , 2. 6 (R. 5. 173 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Adv. A la vista, en presencia.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El vestido que me enviaste tenía delante, y los corales que me envió mi señora la duquesa al cuello --- y con todo eso creía y pensaba que era todo sueño lo que veía y lo que tocaba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 52 (R. 1. 515 1 )."
+            },
+            {
+              "texto_cita": "«Si vos fuérades diablo como decís, y como vuestra figura muestra, ya hubiérades conocido al tal caballero D. Quijote de la Mancha, pues le tenéis delante.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 34 (R. 1. 478 2 )."
+            },
+            {
+              "texto_cita": "«Quisíera yo tener aquí delante en este punto todos aquellos que ni creen ni quieren creer de cuánto provecho sean en el mundo los caballeros andantes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 26 (R. 1. 460 2 )."
+            },
+            {
+              "texto_cita": "«Ya estaba D. Quijote delante, con mucho contento de ver cuán bien se defendía y ofendía su escudero.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 44 (R. 1. 381 2 )."
+            },
+            {
+              "texto_cita": "«Que solo, así herido, soy bastante, | A vencer cuantos veis que están delante.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 4 (R. 17. 19 2 )."
+            },
+            {
+              "texto_cita": "«De tal manera entienda en todos sus negocios que siempre le parezca que tiene á Dios delante.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2. 1, § 2 (R. 8. 441 2 )."
+            },
+            {
+              "texto_cita": "«A no estar delante vos, | En quien mi lealtad repara, | Pudiera ser que cortara | Las lenguas a más de dos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La prudencia en la mujer , 3. 2 (R. 5. 301 1 )."
+            },
+            {
+              "texto_cita": "«Huí de ser conocido; | Mas ya me tienes delante. | Dí presto lo que me quieres.»",
+              "autor": "",
+              "referencia_obra": "Id. El burlador de Sevilla, 3. 19 (R. 5. 589 2 ). —"
+            },
+            {
+              "texto_cita": "«No sé la historia bien; mas quien delante | Se halló al duelo, me contó algún poco | Del grave caso deste pobre amante.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl. 2 (R. 32. 7 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esperaba [Herodes] ver algún milagro que hiciese delante dél.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1, miérc. por la mañ. (R. 8. 71 2 )."
+            },
+            {
+              "texto_cita": "«Jamás hagas cosa que no puedas hacer delante de todos.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Avisos , 42 (R. 53. 286 2 )."
+            },
+            {
+              "texto_cita": "«¿Hubo vajilla por ventura, ó vaso, | Que delante de mí no te sirviese?»",
+              "autor": "L. Argens.",
+              "referencia_obra": "sát. á Flora (R. 42. 270 2 )."
+            },
+            {
+              "texto_cita": "«Delante dél y de los de su consejo rompió los tratados de concordia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 33 (R. 25. 88 2 )."
+            },
+            {
+              "texto_cita": "«Porque ningún hombre dio | Satisfacción que se pide | Delante de una mujer.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hombre pobre todo es trazas , 3. 9 (R. 7. 517 1 )."
+            },
+            {
+              "texto_cita": "«Compuso [Villena] una comedia alegórica que se representó delante del rey, de la reina y de aquella corte brillante.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. disc. hist . (R. 2. 155)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Pueden precederle las preps. por y de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con el temor escogió el silencio, y un postillón, que en traje de demonio les pasó por delante tocando en vez de corneta un hueco y desmesurado cuerno, que un ronco y espantoso són despedía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 34 (R. 1. 478 1 )."
+            },
+            {
+              "texto_cita": "«Me levanté muy quedo, y aunque estaba á escuras, llevando sin pensar las manos por delante, esta advertida diligencia pudo librarme de un peligroso golpe.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 2. 10 (R. 18. 340 1 )."
+            },
+            {
+              "texto_cita": "«Dios puso á Moises en una gruta con su abertura ó puerta en la cima del monte Sinaí, y --- después pasó por delante.»",
+              "autor": "Scío",
+              "referencia_obra": ", Exodo , 33. 21, nota."
+            },
+            {
+              "texto_cita": "«No sé yo para qué cosa de cuantas hay en él es menester mayor [ánimo], que tratar traición al rey, y saber que lo sabe, y nunca se le quitar de delante.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 8 (R. 53. 38 2 )."
+            },
+            {
+              "texto_cita": "«Clamaban todos: ¡Quita, quita, quítanos ese hombre de delante! crucifícale.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios , 2. 8. 2 (415)."
+            },
+            {
+              "texto_cita": "«Antes que con la cólera quebrante | Las dulcísonas cuerdas de tu lira, | Inspírame animosa, y de delante | Los instrumentos músicos retira, | Y vengan por ahora tus favores | Al són de las trompetas y atambores.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 1 (R. 17. 573 2 )."
+            },
+            {
+              "texto_cita": "«Muy mal me va, señora, en este instante; | Muy bien si usted se quita de delante.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb. 3. 5 (R. 61. 367 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Se usa de por sí con verbos de movimiento, sin que sea necesaria la prep. á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Míraos la compañía | Que delante vos viene.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "canc. Mártires y doncellas (R. 42. 334 1 )."
+            },
+            {
+              "texto_cita": "«Cuando después topaban otros, los ahorcaban ó mataban á puñaladas, dando por excusa de su inhumanidad que aquello quería decirles su gobernador, mandándoles que no se les trajesen delante.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 474 1 )."
+            },
+            {
+              "texto_cita": "«Colérica y rabiosa, | El tierno niño le arrojó delante.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 33 (R. 17. 125 1 ). —"
+            },
+            {
+              "texto_cita": "«Los prisioneros fueron llevados delante del rey.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 232 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Póneles por otra parte delante las veces que entraron en los sermones sobre la gente, porque pensaron que era autoridad y grandeza entrar a vista de todos.»",
+          "autor": "Venegas",
+          "referencia_obra": ", Agonía , 3. 17 ( Míst . 3. 99)."
+        },
+        {
+          "texto_cita": "«Traía muy delante cómo no había de querer ni decir de otra persona lo que no quería dijesen de mí.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 6 (R. 53. 32 2 )."
+        },
+        {
+          "texto_cita": "«Tiene más delante la honra y gloria de Dios que la suya.»",
+          "autor": "",
+          "referencia_obra": "Ead. Mor . 6. 1 (R. 53. 461 1 )."
+        },
+        {
+          "texto_cita": "«La gracia del Espíritu Santo sea con vuestra paternidad, mi padre, y le dé la salud esta cuaresma, para lo que tengo delante que ha de trabajar.»",
+          "autor": "",
+          "referencia_obra": "Ead. Cartas , 3. 13 (R. 55. 165 2 )."
+        },
+        {
+          "texto_cita": "«Dio oídos á estas pláticas, y se dejó persuadir de las razones que le pusieron delante.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 10. 12 (R. 30. 294 1 )."
+        },
+        {
+          "texto_cita": "«Los habló, poniéndoles delante la opresión en que estaban.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Granada, 1 (R. 21. 72 2 )."
+        },
+        {
+          "texto_cita": "«¿Cómo sabrá un hombre rudo lo que le importa este negocio, si no le ponen delante las promesas y amenazas de Dios, y las obligaciones grandes que tiene para servirle?»",
+          "autor": "Gran.",
+          "referencia_obra": "Mem. vida crist. pról . § 1 (2. 386: Madrid, 1788)."
+        },
+        {
+          "texto_cita": "«También se reduce el pueblo poniéndole delante los daños de otros casos semejantes, porque se muevé más por el ejemplo que por la razón.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 46 (R. 25. 117 2 )."
+        },
+        {
+          "texto_cita": "«¿Qué no acometiera el poder si no tuviera delante á la murmuración?»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 14 (R. 25. 41 1 ). —"
+        },
+        {
+          "texto_cita": "«No lo dejes de hacer, aunque más inconvenientes se te pongan delante.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 33 (R. 1. 344 2 ). —"
+        },
+        {
+          "texto_cita": "«Es muy liberal la emulación cuando quiere quitarse de delante á quien o oscurece sus glorias, ó impide sus conveniencias.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 46 (R. 25. 116 1 ). —"
+        },
+        {
+          "texto_cita": "«Para incitar Seyano á Druso á la muerte de su hermano, le arrojó delante la esperanza del imperio.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 42 (R. 25. 107 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Rara vez se dice con respecto al tiempo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al publicarse el tomo primero de esta obra tenía el autor delante de sí mucho tiempo y muchas esperanzas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Vidas , 2, adv . (R. 19. 367)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "En especial se usa para señalar el juez ó autoridad á cuya presencia se acusa ó alega.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Prep. ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los forzaban á ir á pedir justicia y seguir sus pleitos delante los jueces de León.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 8. 3 (R. 30. 223 1 )."
+            },
+            {
+              "texto_cita": "«Le descomulgó, le denunció y hizo parecer en Córdoba delante Clementino, vicario.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4. 17 (R. 30. 110 1 )."
+            },
+            {
+              "texto_cita": "«Habían defendido delante los legados la causa de la reina.»",
+              "autor": "",
+              "referencia_obra": "Rivad, Cisma , 1. 25 (R. 60. 210 1 ). —"
+            },
+            {
+              "texto_cita": "«No desesperan, y alegan delante la misericordia de Dios que pues su miseria y daño es muy grande, sea con ellos la misericordia de él copiosa y muy grande.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 21 ( Míst . 3. 167)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Adv.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó á acusarlos sin rebozo ni contemplación alguna delante de la opinión y delante de la autoridad.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 475 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Sugiere sujeción al juicio, voto ó dictamen de la persona a cuya presencia está ó se supone estar alguno. Hoy sólo se usa como adv.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De esta manera estará vuestra conciencia segura delante de Dios, y vuestra fama clara y sin mancha delante de los hombres.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Audi , 8 ( Míst. 3. 141)."
+        },
+        {
+          "texto_cita": "«Ayudará también para humillarte considerar cuan pocos servicios y méritos tienes delante de Dios, que sean puros y verdaderos servicios.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía, 2. 4 (R. 6. 126 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "met. Se usa para denotar inferioridad de un objeto con respecto á aquel en cuya presencia comparece.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Prep . ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si mirares pecados, | Delante ti, Señor, la luz no es clara.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 3, salmo 129 (4. 620)."
+            },
+            {
+              "texto_cita": "«¿Qué igualdad | Tendrá una humilde vasalla | Delante una majestad?»",
+              "autor": "Tirso",
+              "referencia_obra": ", Privar contra su gusto , 1. 1 (R. 5. 346 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Adv.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay en el mundo quien delante dél se pueda llamar bueno.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 3. 4, § 1 (R. 11. 140 1 )."
+            },
+            {
+              "texto_cita": "«Y así el alma que está aficionada á la hermosura de cualquier criatura, delante de Dios tiene su parte de fealdad.»",
+              "autor": "",
+              "referencia_obra": "S. Juan de la Cruz, Monte Carm. 1. 3 (R. 27. 7 2 )."
+            },
+            {
+              "texto_cita": "«Que tomé su tocado, | En que andaba encerrado | El oro, que es aquel de Berenice | Sin luz delante deste, | Aunque la suya el mismo sol le preste.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "canc. Bramando el mar hinchado (R. 42. 260 2 )."
+            },
+            {
+              "texto_cita": "«Avasalló [Lope] el teatro; llamó á sí la atencíón universal; los poetas de su tiempo fueron nada delante de él.»",
+              "autor": "Quint.",
+              "referencia_obra": "Intród. á la Musa ép. 4 (R. 19. 139 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas denante y delantre , la última de las cuales aun se oye entre el vulgo: véase T. Iriarte , La señorita malcriada , 1. 1 (7. 102).) Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si no me forneceis de armas é de caballo --- yo iré á pie delante las escuadras de vuestra gente á morir peleando en la batalla.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 14 (99)."
+        },
+        {
+          "texto_cita": "«E por delante de Balaguer pasa el río que se llama Segre.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 7. 1 (R. 68. 350 2 )."
+        },
+        {
+          "texto_cita": "«Mandaron que los ginetes fuesen delante, é los hombres darmas en las espaldas en batalla ordenada.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 28 (R. 68. 328 1 )."
+        },
+        {
+          "texto_cita": "«Lleváronla [la bastida] al llano que es delante de la torre de la villa.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 11 (R. 68. 321 1 )."
+        },
+        {
+          "texto_cita": "«Dieron muy grande acucia en echar su gente delante, é pusiéronse en el vado por defender el aso.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 4 (R. 68. 305 2 )."
+        },
+        {
+          "texto_cita": "«Se les puso delante con menos gente que ellos traian --- é les resistió el camino que llevaban.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, epíl — . (387)."
+        },
+        {
+          "texto_cita": "«Luego vi delante mí | Al valiente cardenal.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var . 393 ( Rim. inéd. 330)."
+        },
+        {
+          "texto_cita": "«E vi mas un cavallero | Que delante ellos estava.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 336."
+        },
+        {
+          "texto_cita": "«Otras veces hacia un gesto tan turbado, que todos tremian delante della.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1. 3 (R. 36. 346 1 )."
+        },
+        {
+          "texto_cita": "«Otra y avn otra vegada yo lloro | Porque Castilla perdio tal thesoro | No conocido delante la gente.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. 127 (50 1 )."
+        },
+        {
+          "texto_cita": "«E luego el rey salió --- é luego los omes de armas fueron puestos en sus espaldas é los ballesteros de ante, é el conde á la mano izquierda.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes . 75 (99 1 )."
+        },
+        {
+          "texto_cita": "«E todos los que con el infante é con ellos venían, iban delante.»",
+          "autor": "",
+          "referencia_obra": "Ib . 11 (21 2 )."
+        },
+        {
+          "texto_cita": "«Mira tus parientes, fijos é muger, | Que viste morir delante tus ojos.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 382."
+        },
+        {
+          "texto_cita": "«Teme mas delante una grand espada.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 304."
+        },
+        {
+          "texto_cita": "«Ffueron muy maravilladas | Quando me vieron delante.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 236. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Los çielos no son linpios delante tal Sennor.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1067 (R. 57. 460 2 )."
+        },
+        {
+          "texto_cita": "«E los cavalleros anbos fueron delante e dixieronlo al emperador que fallaran á Placidas e que venia.»",
+          "autor": "",
+          "referencia_obra": "Placidas (Knust, 145)."
+        },
+        {
+          "texto_cita": "«Et que estos escrivanos que siruan los offiçios, delantre los alcalles.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid , año 1322 ( C. de L. y C . 1. 340). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Si el home quiere ferir en la cabeza, luego le acorre el brazo ó la mano, é se paran delante.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 32 (R. 51. 151 2 )."
+        },
+        {
+          "texto_cita": "«Mejor es rrecebir los golpes delante e morir commo bueno que rrecebirlos detras e morir commo malo.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 10 (33)."
+        },
+        {
+          "texto_cita": "«Bien cuemo sus maridos non se deven [las mugieres de los judios] quitar delantre el sacerdot.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 3. 21 (201)."
+        },
+        {
+          "texto_cita": "«El iuez mande al sennor del siervo que lo presente delante sí.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6. 1. 1 (100)."
+        },
+        {
+          "texto_cita": "«Nengun de vos non iulgue sennero morte de omue nenguno, nen nengun iuicio dé de otras cosas, mas delantre los sacerdotes de Dios, et con el concello del poblo, et de los príncipes de la tierra.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 3 (IV)."
+        },
+        {
+          "texto_cita": "«Mandamos que en todos los conceyos que furen fechos daqui en delantre ---.»",
+          "autor": "León",
+          "referencia_obra": ", año 1020 ( Muñoz , F. 74; * adelantre: C. de L. y C. 1. 12)."
+        },
+        {
+          "texto_cita": "«Parientes e amigos que delante mi seedes, | Quierouos bien e preçio, ca uos lo mereçedes.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2458 (R. 57. 222 2 )."
+        },
+        {
+          "texto_cita": "«Toda cosa derecha raçona ella mal, | De delantre diz bien, e detras raçona al.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2188 (R. 57. 214 2 )."
+        },
+        {
+          "texto_cita": "«Quanto yuan las naues mas delantre entrando, | Yuanse los peligros tanto mas embargando.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2137 (R. 57. 213 1 )."
+        },
+        {
+          "texto_cita": "«Parársele delantre ningunos non osauan.»",
+          "autor": "",
+          "referencia_obra": "Ib . 959 (R. 57. 177 1 )."
+        },
+        {
+          "texto_cita": "«Fo delante la puerta del confesor echada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 298 (R. 57. 49 2 )."
+        },
+        {
+          "texto_cita": "«La Madre benedicta esta razon tractada | Tollioseli delante, non pudio veer nada.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 806 (R. 57. 128 1 )."
+        },
+        {
+          "texto_cita": "«Debatióse en tierra delante el altar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 517 (R. 57. 119 2 )."
+        },
+        {
+          "texto_cita": "«Et dia delantre vendalos por manos del alchalde.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Villavicencio , año 1221 ( Muñoz , F . 181)."
+        },
+        {
+          "texto_cita": "«Dargelas queremos [las espadas] dellant estando uos.»",
+          "autor": "",
+          "referencia_obra": "Id. 3174 (R. 57. 33 1 )."
+        },
+        {
+          "texto_cita": "«Enbraçan los escudos delant los coraçones.»",
+          "autor": "",
+          "referencia_obra": "Ib . 715 (R. 57. 10 1 )."
+        },
+        {
+          "texto_cita": "«Dexando uan los delant, por el castiello se tornauan.»",
+          "autor": "",
+          "referencia_obra": "Ib . 607 (R. 57. 9 1 )"
+        },
+        {
+          "texto_cita": "«De una parte la carrera, de alia parte Migacl Perez & delant la serna de Som Otero.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1173 ( Berg. Antigüed. 2. 460)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Delos ante duos fiadores aut delante uno fiador cum uno alcalde.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid , año 1202 (Mem. Acad. Hist. 8. 33)."
+        },
+        {
+          "texto_cita": "«--- terras, & vineas, & ortos, & molinos, & montes, & fontes, & egressus, & regressus, & pascua per una passada en el vestro solar delante de la vestra porta.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1181 ( Berg. Antigüed. 2. 468)."
+        },
+        {
+          "texto_cita": "«Et de Pomar delante cum toto coto Cabrero usque in toto Brusco.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1136 ( Llor. Prov. Vasc. 4. 54)."
+        },
+        {
+          "texto_cita": "«Et posui termino ad Sagonciello in oriente usque ad illo pueyo denante Castellu-rubio.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1056 ( Llor. Prov. Vasc. 3. 392)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Sale de denante por una disimilación parecida á la que se ve en calonje de canonje, canónigo. Val. denans, antes, y denantar, adelantar, como en cat. ant. denant, adenantar ; prov. denan, y adenant, en adelante; it. dinanti, dinanzi. Véase DENANTES . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

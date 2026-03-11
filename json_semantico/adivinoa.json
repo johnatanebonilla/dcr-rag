@@ -1,0 +1,186 @@
+{
+  "lema": "ADIVINO, A.",
+  "categoria_gramatical": "",
+  "introduccion": "ADIVINO, A.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "sust . El que por medios sobrenaturales descubre lo desconocido, en especial lo venidero.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Escribían en el suelo todas las letras del alfabeto y abecé, y en cada letra ponían un grano de trigo; soltaban un gallo, y mientras que el adivino barbotaba no sé qué palabras, las letras primeras de que el gallo tomaba los granos, entendían que significaban lo que pretendían saber.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 4. 19 (R. 30. 112 1 )."
+        },
+        {
+          "texto_cita": "«Vio Nabucodonosor un sueño, y fue consternado su espíritu, y su sueño huyó de él. Y mandó el rey que fuesen convocados los adivinos, y los magos, y los encantadores, y los caldeos, para que mostrasen al rey sus sueños.»",
+          "autor": "Scío",
+          "referencia_obra": ", Dan . 2. 1. 2."
+        },
+        {
+          "texto_cita": "«¿Quíén es esta adivina que ansí sabe la desvergonzada historia de mi vida?»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers . 3. 16 (R. 1. 652 2 )."
+        },
+        {
+          "texto_cita": "«Siendo yo niño, un ama mía | Grande adivina, me sacó la suerte | De un cántaro, y cantó esta profecía: | A este niño le dará la muerte, | No dolor de costado ó calentura, | No veneno, no tos, no espada fuerte: | Un parlero ha de ser su epultura.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "sát. Yendo por la vía sacra (R. 42. 358 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Los dos refranes siguientes, que se hallan ya entre los del Comendador Griego, motejan á los que pronostican perogrulladas:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Adivino de Marchena (ó de Carchena), que, el sol puesto, el asno á la sombra que da;»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Adivino de Valderas, cuando corren los canales, que se mojan las carreras.»",
+              "autor": "",
+              "referencia_obra": "Al mismo propósito suele emplearse la expresión"
+            },
+            {
+              "texto_cita": "«Por adivino le pueden dar cien azotes.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se usa también como adj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Señor huésped, ¿hay posada? que viene aquí el mono adivino y el retablo de la libertad de Melisendra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 25 (R. 1. 457 2 )."
+            },
+            {
+              "texto_cita": "«No sé pues cómo pueda encarecerte | El poder deste mágico adivino.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 23 (R. 17. 87 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "adj. Que presagia ó por conjetura infiere lo desconocido, en especial lo venidero.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oíd , lejana gente, | Mi sacra voz y espíritu adivino.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", silva 1 (R. 67. 229 1 ). —"
+            },
+            {
+              "texto_cita": "«No hay cierto tan mal servido hombre como yo, manteniendo mozos adevinos, rezongadores, enemigos de mi bien.»",
+              "autor": "Celest.",
+              "referencia_obra": "6 (R. 3. 30 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar lo que se presagia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Temblaba Ricaredo, casi como adivino de algún mal suceso.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 4 (R. 1. 146 2 )."
+            },
+            {
+              "texto_cita": "«Su madre, casi como adivina de lo que su hijo sentía, le dijo: No te corras, hijo, de los extremos que has hecho, sino córrete de los que no hicieres.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 6 (R. 1. 171 2 )."
+            },
+            {
+              "texto_cita": "«Fue á dar cuenta á sus consejeros de su buen comienzo, adivino del buen fin que por él esperaba.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 7 (R. 1. 176 1 )."
+            },
+            {
+              "texto_cita": "«Un corazón amoroso | Es adivino del daño, | Mayo, que padece el otro.»",
+              "autor": "Lope",
+              "referencia_obra": ", Al pasar del arroyo , 1. 13 (R. 24. 392 2 )."
+            },
+            {
+              "texto_cita": "«Esotra nueva temo | Más, porque en un confuso extremo, | Al corazón parece que camina | Toda el alma, adivina | De algún futuro daño.»",
+              "autor": "Cald.",
+              "referencia_obra": "La devoción de la Cruz, 2. 3 (R. 7. 60 1 ; el 2º verso está viciado)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo non sso, adevino | Nin me entremeto de sser tal profeta.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p . 221."
+        },
+        {
+          "texto_cita": "«Alvaro, señor, señor, | Dis que quien fuesse adevino | Non podrie morir mesquino.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 164. — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Los que juegan á tablas ó á dados, ó los adevinos, ó los sorteros --- cualquier destos sobredichos quier fuese cristiano, ó judío, ó moro, ó herege que ganase alguna heredat --- que dé el diezmo della.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 20. 12 (1. 460)."
+        },
+        {
+          "texto_cita": "«Testiguar non deve ome que aya perdido el seso --- nin otrosi aquellos que se tienen por adevinos.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 195)."
+        },
+        {
+          "texto_cita": "«Quien toma consejo de muerte o de vida del rey ó de otro omne con los adevinos, --- con todas sus cosas sean siervos de la corte.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 6 . 2 . 1 (104)."
+        },
+        {
+          "texto_cita": "«Sarauis, la duenna una sauia reyna | Pobló a Babilonna por la grant adeuina.»",
+          "autor": "Alex.",
+          "referencia_obra": "1356 (R. 57. 189 1 )."
+        },
+        {
+          "texto_cita": "«La madre de Achilles era mogier artera, | Ca era grant deuina, e era sortera; | Sopo que si su fijo fues en esta carrera, | Auria y a morir por alguna manera.»",
+          "autor": "",
+          "referencia_obra": "Ib . 386 (R. 57. 159 2 )."
+        },
+        {
+          "texto_cita": "«Commo él asmaba, todo assi avino, | Semeió en la cosa çertero adevino.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 162 (R. 57. 45 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. adivinho. Formado de adivinar , como el cat . endeví de endevinar, y el it. indovino de indovinare. Prov . devi, devin; fr. devin; lat. divinus, quasi Deo plenus, S . lsid. Antiguamente se dijo también adevino, y así se halla, fuera de los pasajes copiados arriba en que aparece esta forma, en los refranes del Comendador Griego y en León , Poes . 2, trad. de Hor. od. 3. 27 (R. 37. 34 2 ). Un ejemplo más de la forma devino:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Establecemos et ordenamos que los sortoreros, et las sortoreras, et las devinas, se non se partiren de este pecado nen á la muerte, non los sotierren sen especial mandado del obispo.»",
+          "autor": "León",
+          "referencia_obra": ", año 1267 ( Esp. sagr. 36.236). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

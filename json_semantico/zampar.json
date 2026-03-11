@@ -1,0 +1,202 @@
+{
+  "lema": "ZAMPAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Meter una cosa en un lugar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por ir al balcón, se fue a la alacena derecho. Abrió, zampó la cabeza; y aunque miró y remiró, tan negro el boquete halló como el resto de la píeza.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb . 126 (Cl. C. 179. 166). X"
+            },
+            {
+              "texto_cita": "«Yo tenía preparao un cajón viejo forrao en cuero, con cosas que parecían de oro y eran de tumbaga. Cavé un hueco bien profundo, zampé el cajón y volví a tapar el hueco, no del todo, sino dejando ver que había cavao algo.»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno , 11 (p. 484)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hecho este trueque sin partes presentes, zampé el pescado del caldero en la olla capitana, y volviéndolas a tapar a las dos, volví el caldero a su lugar.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz . 1. 2 (Cl. C. 108. 101)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Meterse de golpe en una parte. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo me zampo | Debajo de aquel bufete.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Sin honra no hay amistad , 1 (R. 54. 301 2 ). X"
+            },
+            {
+              "texto_cita": "«Esta llave --- | Bien la conozco: la perdió la viuda | Que por aquí, yendo a la iglesia, pasa, | La esquiva y hermosísima Colasa, | Por quien suspiro ha meses y me alampo. | Voy a su casa, pues, y allá me zampo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb . 45 (Cl. C. 179. 63). X"
+            },
+            {
+              "texto_cita": "«Tenían fiestas casi todos los sábados y cuando no íbamos de invitados nos zampábamos.»",
+              "autor": "",
+              "referencia_obra": "Vargas Llosa, Los cachorros , 2. (p. 55)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Triste, pues, de tus rigores, | En vn coche me zampé, | Cercedo de vnos Señores, | Los quales oirás, aunque | con oidos pecadores.»",
+              "autor": "Solís",
+              "referencia_obra": ", Poes . p. 340. X"
+            },
+            {
+              "texto_cita": "«En la cama me zampo de repente: quiero hacer, del quejoso y del doliente.»",
+              "autor": "",
+              "referencia_obra": "Castillo Solorzano, La prueba de los doctores (NBAE. 17. 315 2 ). X"
+            },
+            {
+              "texto_cita": "«Magdalena se zampó en el salón, atravesó por entre la concurrencia repartiendo codazos y vino a ponérseme delante.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil , 18 (p. 193). X"
+            },
+            {
+              "texto_cita": "«Ha dicho: \"No, zámpome en España de un salto, y no paró hasta el corazón de la península\"»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria , 1. 4 (p. 263). X"
+            },
+            {
+              "texto_cita": "«Posiblemente querrían obligarme a volver a casa --- Antes me zamparía en un remanso.»",
+              "autor": "Güiraldes",
+              "referencia_obra": "( Gran encicl. Larousse ). X"
+            },
+            {
+              "texto_cita": "«En el pueblo sabían mi paradero, y posiblemente querrían obligarme a volver para casa --- Antes me zamparía en un remanso o me haría estropear por los cimarrones, que aceptar aquel destino.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra , 5 (p. 35)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En los siguientes textos, Encerrar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No lo sé; aquí me zamparon, | Que por querer librarte, me enjaularon.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 2. 13 (R. 39. 113 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya hice y no poco, | Por vos: ¿Disteis en ser loco? | Pues os zampo en una jaula.»",
+              "autor": "Hartz.",
+              "referencia_obra": "El bachiller Mendarías , 3. 12 (p. 146). X"
+            },
+            {
+              "texto_cita": "«En leyendo de corrido, | Me zampan en el convento.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 8 (p. 127). - 8) Guardar."
+            },
+            {
+              "texto_cita": "«Viéndome vencedor, mi espada zampo, | Y ochenta dejé muertos en el campo»",
+              "autor": "Mto.",
+              "referencia_obra": "De fuera vendrá , 3. 9 (R. 39. 753)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Comer o beber algo apresurada y descompuestamente, devorar ( prnl .). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cegó una Gallina, muy aficionada a escarbar; y ciega, seguía escarbando afanosa. Dejando descubierto un grano la ciega, lo cogía y se lo zampaba la que veía. Hartz. Fáb . (Cl. C. 179. 268).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Eso, Señora, es muy cierto; | Porque él como sin querer, | Pues siempre viene diciendo | Que no trae gana, y se zampa | Un capón hasta los huesos»",
+          "autor": "Mto.",
+          "referencia_obra": "Industrias contra finezas , 2. 11 (R. 39. 1791). X"
+        },
+        {
+          "texto_cita": "«Diferente solía ser | En aquel tiempo bozal, | Cuando tenía más mesas | Que días un holgazán | De mogollón se zampaba | Toda tripa horra; mas | Lo que fue de mogollones, | Es de Magallanes ya»",
+          "autor": "",
+          "referencia_obra": "Quiñ. de Benav. Entremeses (NBAE. 18. 567). X"
+        },
+        {
+          "texto_cita": "«Esta es la buenaventura del pan blanco; Ud. me lo dá, y yo me lo zampo.»",
+          "autor": "Fern.",
+          "referencia_obra": "Caball. Clemencia , 2. (p. 175). X"
+        },
+        {
+          "texto_cita": "«Para el hombre la tierra cultivamos, | A esclavitud sujetas y a castigo; | Y él, que apenas nos da ración de paja, | Él solo, sin partir, se zampa el trigo»",
+          "autor": "Hartz.",
+          "referencia_obra": "Fáb . 161 (Cl. C. 179. 218). X"
+        },
+        {
+          "texto_cita": "«Se fueron como vinieron, salieron por donde entraron, sin escribir una sola palabra en sus cuadernos; eso si, bebieron chicha hasta empanzarse.",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Curíosi»",
+          "autor": "Asturias",
+          "referencia_obra": ", Hombres de maíz , 14 (p. 135)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en , que señala el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya de trasnoche, te zampaste en una fonda la comida de la cocinera.»",
+              "autor": "Gran encicl. Larousse",
+              "referencia_obra": ")."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la expresión en un santiamén . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A todas éstas habían concluído de comer. Nos zampamos en un santiamén Marcial y yo las sobras, y seguimos el viaje, ellos a caballo, marchando al estribo, y nosotros como antes, en nuestra derrengada calesa.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar , 7 (p. 69)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Voz de origen incierto, probablemente de creación expresiva. Corominas señala la posibilidad de derivarse de zampuzar, variante de chapuzar. Cfr. DCELC. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

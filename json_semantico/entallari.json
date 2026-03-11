@@ -1,0 +1,384 @@
+{
+  "lema": "ENTALLAR (I).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tallar, hacer figuras en madera, mármol, bronce u otro material semejante ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aun entallar propuso | Diseños de las justas dimensiones, | Formas y proporciones | De antiguos instrumentos ya sin uso.»",
+              "autor": "",
+              "referencia_obra": "T. Irlarte, Mús . 5 (275)."
+            },
+            {
+              "texto_cita": "«En el frente del brocal se ven esculpidas las armas del señor obispo --- y entalló su escudo Antonio Boinecor, escultor de Palma.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. de los conv. de S. Dom. y S. Franc. (R. 46 . 435 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para indicar el material.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni [puedo] en duros bronces entallar la historia | De su martirio en Córdoba y Toledo.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 12 (R. 17. 271 1 )."
+            },
+            {
+              "texto_cita": "«Admirado Pandemo, pintor famoso, de ver una imagen de Júpiter Olimpio que Fidias había entallado en marfil, preguntó al artista ¿de qué modelo la había sacado?»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. Acción (660)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en, en sentido locativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entalló [Fidias] su imagen y la de Pericles en el escudo de Palas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 9 (R. 30. 11 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Pas. refl. Con en, para indicar el material.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dichosa edad y siglo dichoso aquel adonde saldrán a luz las famosas hazañas mías, dignas de entallarse en bronces, esculpirse en mármoles y pintarse en tablas para memoria en lo futuro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 2 (R. 1. 259 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es el sepulcro de los Cipiones, donde se veen dos estatuas de mármol mal entalladas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 18 (R. 30. 49 1 )."
+            },
+            {
+              "texto_cita": "«En las puertas de cedro barreadas | Mil sabrosas historias entalladas.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 26 (R. 17. 101 1 )."
+            },
+            {
+              "texto_cita": "«El mismo Favila, o sea otro señor de su tiempo, se ve todavía entallado con su halcón en mano en el capitel de una columna de la iglesia de Villanueva.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect. 1 (R. 46. 481 2 ). — Con en, para indicar el material."
+            },
+            {
+              "texto_cita": "«Deslumbra al mundo el templo de la gloria, | Do mil héroes contempla colocados, | Que, en el bronce y el mármol entallados, | Le presenta la fábula o la historia.»",
+              "autor": "Somoza",
+              "referencia_obra": ", son. 3 (R. 67. 464 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo compl. directo el objeto en que se tallan las figuras.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un predicado del sujeto, y un compl. con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Toma, toma por ella esta cayada, | Que entallé diestro de arrayán y flores.»",
+              "autor": "Mel.",
+              "referencia_obra": "égl. 3 (R. 63. 180 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. Con la prep. con, para indicar el modo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En medio de una cuadra --- | Y cuyos muebles eran los más ricos | De aquella edad, estaba una redonda | Mesa entallada con primor y esmero.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 10 (R. 100. 246 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Siendo acus. el material empleado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta manía [de adornos de mal gusto] se descubre más abiertamente en los retablos y obras de madera: sin duda porque la facilidad de entallarla ayudaba a la conservación de las antiguas ideas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de V. Rodr. nota 13 (R. 46 . 386 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. Con la prep. con , para indicar el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Admírate, Boscán, de la riqueza | Del rubio bronce, de la blanca piedra, | Entallados con fuerza y sutileza.»",
+              "autor": "Mend.",
+              "referencia_obra": "carta 2 (R. 32. 55 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En particular, Grabar o labrar una inscripción o letrero ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Blando cual es o fuerte, ofrezco el pecho: | Entallad o imprimid lo que os dé gusto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 12 (R. 1. 428 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en , para indicar el lugar o material.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entallaré en los árboles aquesto, | Y tu quebrada fe, Licori, y vana.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl. 10 (4. 437)."
+            },
+            {
+              "texto_cita": "«Esto entallaba Dafnis en un árbol.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "son. Esta cueva que veis (R. 42. 264 2 )."
+            },
+            {
+              "texto_cita": "«Las náyadas saliendo, los subidos | Sones repetirán, y en troncos duros | Entallarán los versos aprendidos.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", silva 1 (R. 67. 229 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Debajo un blanco mármol sepultado | Será [tu cuerpo], donde se entallan tus loores.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", est. Sobre nevados riscos ( Fern. p. 36). — Con en."
+            },
+            {
+              "texto_cita": "«En parte acomodada se entalló el mismo epitafio que escribimos.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 2. 18 (154)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El trazador fue Cayo Sevio Lupo lusitano, cuyo nombre aún en nuestra edad se vee entallado en las peñas allí cerca.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 9 (R. 30. 11 1 ). +"
+            },
+            {
+              "texto_cita": "«Ya los helados troncos de los bosques | Que a Salas cercan, entallado tienen | El nombre de Kerima en sus cortezas.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 8 (R. 100. 202 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Cortar la corteza, y a veces parte de la madera, de algunos árboles para extraer la resina ( trans .) (cfr. Dicc. Acad .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Incrustar, engastar una cosa en otra, particularmente una piedra preciosa, u objeto semejante, en madera ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son trozos de pino de Valsaín, de 0,03 de grueso, rebajado para entallar los adornos.»",
+              "autor": "",
+              "referencia_obra": "Lampérez, Arquit. (1. 502)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part . Con en, para indicar el tipo de madera.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Blanco marfil en ébano entallado.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", son. Que empieza así ( Fern. p. 22)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans . Encajar, entrar una cosa en otra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La estira con los dientes para que alcance, la lima y pule para que entalle.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 1. 1 (R. 3. 189 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . met. Con entre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La España, puesta del lado acá de los Pirineos, y entallada entre la Francia y la Inglaterra no solo por su situación geográfica, sino por sus conexiones e intereses políticos, no podía ser entregada al azote bárbaro de los cosacos y de los panduros.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas a L. Holland , 8 (R. 19. 571 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En particular, Hacer cortes en una pieza de madera para ensamblarla con otra ( trans .) (cfr. Dicc. Acad .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la acep., hoy desconocida, de ‘cortar’ que se da en los siguientes textos del s. XIII:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ninguno non enbastone pannos nin los entalle.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 68)."
+        },
+        {
+          "texto_cita": "«Que non sean [estos pannos] arminnados nin metriados --- nin entallen un panno sobre otro.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid , año 1258 ( C. de L. y C . 1. 57). Siglo XV: x"
+        },
+        {
+          "texto_cita": "«Entallar: esculpo, is; excudo, is .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab . x"
+        },
+        {
+          "texto_cita": "«Entallar arte: ars excussoria .»",
+          "autor": "",
+          "referencia_obra": "Id. ib ."
+        },
+        {
+          "texto_cita": "«En quanto atañe al más ynoçente | Que trae entallado en manga sombrero ---.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 474. +"
+        },
+        {
+          "texto_cita": "«Leuaua en la mano yzquierda vn escudo de azero muy fuerte, y en la derecha vna ymagen femenil entallada en vna piedra muy clara.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Cárcel de amor (Cl. C. 133 . 116)."
+        },
+        {
+          "texto_cita": "«Tenían las manos siniestras firmadas | Sobre sendas tarjas de rica valía, | En las quales eran armas entalladas | Que bien demostravan su grand nombradía.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 98."
+        },
+        {
+          "texto_cita": "«E eso mesmo fasen en Ytalia e grant parte de Aljmaña e de Inglaterra, fasiendo sus cabos [de esos cuchillos] de marfil e guarnidos de oro e de plata, esmaltados e entallados.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 3 (23). +"
+        },
+        {
+          "texto_cita": "«Así se falla esculpido o entallado en algunas imájenes de Hércules en las antigüedades de Greçia.»",
+          "autor": "Villena",
+          "referencia_obra": ", Doze trabajos, 2 (p. 25). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Quando alguno dellos aprendíe alguna sapiencia o algún ensennamiento bueno, subíen por unas gradas a un palacio todo fecho de mármol entallado e figurado.»",
+          "autor": "",
+          "referencia_obra": "Buenos Proverbios (Knust, 9). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«E atólo [el paño] con vn ñudo quel' fizo, tal como figuran aquellos que entallan e pintan el crucifixo.»",
+          "autor": "",
+          "referencia_obra": "Crón. Gen . 1. 108 (74 4 )."
+        },
+        {
+          "texto_cita": "«Entallarás en el mármol letras que digan asý.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 57. (29 2 )."
+        },
+        {
+          "texto_cita": "«Eso mesmo decimos que seríe si alguno debuxase o entallase para sí en piedra o en madero ageno.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 28. 37 (2. 725)."
+        },
+        {
+          "texto_cita": "«Como deven seer onradas [e] guardadas las imágines que fueron pintadas o entalladas en figura del rey.»",
+          "autor": "",
+          "referencia_obra": "Espéc . 2. 14. 6 ( O. L . 1. 58)."
+        },
+        {
+          "texto_cita": "«Era bien entallada [la corona], de labor muy fina.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 320 (R. 57. 113 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Partiendo del lat. in + taleare 'cortar ramas', el resultado cast. hubiera sido entajar , forma que por cierto se encuentra en el siguiente texto del s. XVI:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y tomarás a dos piedras de nicolo y entajarás sobre ellas nombres de hijos de Ysrael.»",
+          "autor": "Corominas",
+          "referencia_obra": "(DCEC sb. voc. Tajar ) afirma que debe de proceder del cat. entallar, pues, dada la antigüedad de la forma castellana, resulta improbable relacionarla con el it. intagliare. Sea ello como fuere, lo cierto es que hay que pensar en un préstamo antiguo por parte de otro romance. Fr. entailler , gall. entallar , port. entalhar . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

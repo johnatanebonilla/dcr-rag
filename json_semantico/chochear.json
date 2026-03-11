@@ -1,0 +1,60 @@
+{
+  "lema": "CHOCHEAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar muestras de tener debilitadas las facultades mentales por efecto de la edad ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y como sus años eran muchos, chocheaba, y de un instante á otro mudaba de parecer.»",
+              "autor": "",
+              "referencia_obra": "Pellicer, Argenis, 2 fol. 99 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«Cercado de muchachos | Y jugando á las nueces, | Estaba el viejo Esopo, | Más que todos alegre. | ¡Ay pobre! ya chochea, | Le dijo un ateniense.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 7. 6 (R. 61. 383 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Chochear con la vejez, por la vejez, de viejo.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Extremar el cariño y afición á personas y á cosas, á punto de conducirse como quien chochea ( intrans .). Acad. Dicc. Con con, para expresar el objeto del cariño.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿No hemos de reírnos siempre que chochea | Con ancianas frases un novel autor?»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Fáb. 39 (1. 59)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de chocho . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,130 @@
+{
+  "lema": "DEPENDIENTE.",
+  "categoria_gramatical": "",
+  "introduccion": "DEPENDIENTE.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "adj.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que depende, ó está relacionado con otra cosa como efecto, resultado ó consecuencia de ella. Con de , para expresar el origen, causa ó premisa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El mismo errado principio --- no dejó de influír también y no menos perniciosamente hasta en cosas que parecen á primera vista muy lejanas, y de manera alguna dependientes del mismo origen.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Com. esp . 4 (2. 204)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Que depende ó está subordinado ó sujeto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vos sois el que sois; porque todas las otras cosas, por altísimas que sean, tienen el sér dependiente y emprestado; mas el vuestro es sumo, perfecto, universal, y que de nadie depende.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 5. 6, orac . 1 (R. 8. 312 1 )."
+            },
+            {
+              "texto_cita": "«Desde entonces la esfera de la propiedad del trabajo se hizo más extendida, más varia, y menos dependiente.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , preámb . (R. 50. 82 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la cosa principal ó dominante.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se asentó --- que rindiesen los demás pueblos y castillos dependientes de Sevilla.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 7 (R. 30. 380 2 )."
+            },
+            {
+              "texto_cita": "«Aunque Diego de Ordaz y Juan Velázquez de León estuvieron algo remisos, como más dependientes del gobernador, se redujeron fácilmente á lo que no pudieron resistir.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 11 (R. 28. 218 2 )."
+            },
+            {
+              "texto_cita": "«Gobernaban éstos la gente de su cargo en la ocasión, dependientes del capitán general á quien obedecían.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 16 (R. 28. 291 2 )."
+            },
+            {
+              "texto_cita": "«Parecióle --- que su sobrino, como persona más dependiente de su respeto, sería fácil de reducir á la quietud.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 2 (R. 28. 303 2 )."
+            },
+            {
+              "texto_cita": "«¿Cómo podría administrar justicia y premio aquel rey que estuviese dependiente del enojo de su vasallo?»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 2 (R. 21. 482 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En especial se dice con relación al enlace de las palabras ó cláusulas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«O podemos decir de otra manera, que me parece mejor, y es que se junte este verso, y venga dependiente de lo que comenzó más arriba.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 34 (2. 194)."
+            },
+            {
+              "texto_cita": "«Más á propósito es que --- vengan [aquellas palabras] dependientes, y hagan una sentencia con lo que acaba de decir en el fin del primer capítulo.»",
+              "autor": "",
+              "referencia_obra": "Id. Cantares , 2.1 (4. 30)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Sust . El que sirve bajo la autoridad de otro.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Porque esto se les concede | A oficiales y á ingenieros; | Y los demás dependientes | De los ejércitos saquen | Sus familias y sus bienes.»",
+          "autor": "Cald.",
+          "referencia_obra": "El sitio de Bredá , 3. 12 (R. 7. 127 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de depender . Usóse también la forma puramente latina dependente .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Diríamos que la cristiandad de los unos estaba dependente de la voluntaria navegación de los otros.»",
+          "autor": "Venegas",
+          "referencia_obra": ", Difer. de libros , 1. 7 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Vos sois el que solo sois; porque todas las otras cosas, por altísimas que sean, tienen el ser imperfecto, dependente y emprestado.»",
+          "autor": "Gran.",
+          "referencia_obra": "Mem. del crist . 4 (R. 11. 183 2 ). En el siguiente lugar vale Colgado, que no pierde de vista:"
+        },
+        {
+          "texto_cita": "«Sobre las ondas claman y suspiran, | Y dependentes de la nave, al cielo | Las manos alzan y los brazos giran.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars . 15 ( Fern. 8. 80). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,709 @@
+{
+  "lema": "ESTRENAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En general, Usar por primera vez una cosa ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque ni domar el potro | Ni estrenar la casa quiero.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", No hay mal que por bien no venga, 1. 14 (R. 20. 182 1 )."
+            },
+            {
+              "texto_cita": "«Se acabaron los dos bergantines dentro de breves días, y él mismo [Montezuma] determinó estrenarlos embarcándose con los españoles.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 1 (R. 28. 301 1 )."
+            },
+            {
+              "texto_cita": "«Y Consuelo, que aquel día | Estrenaba su piano, | Las teclas estaba hiriendo.»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, Consuelo, 1. 5 (3. 28). X"
+            },
+            {
+              "texto_cita": "«A Jorge Stephenson no le fue dado estrenar su locomotora, como lo deseó, en esta sabana, bajo el patrocinio de Bolívar.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 3 (p. 239). X"
+            },
+            {
+              "texto_cita": "«Lo esencial carnavalesco no es ponerse careta, sino quitarse la cara. Y no hay nadie tan bien avenido con la suya que no aspire a estrenar otra alguna vez.»",
+              "autor": "Machado",
+              "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 115). X"
+            },
+            {
+              "texto_cita": "«No dejes de salir esta tarde, que tengo gana de estrenar dos piropos que se me han ocurrido.»",
+              "autor": "Arniches",
+              "referencia_obra": ", La Srta. de Trevélez, 1 (p. 28). X"
+            },
+            {
+              "texto_cita": "«Hace cosa de veinticinco años pasaron a manos de don Pedro Jaramillo, a quien le entró la veleidad, tan frecuente en los hombres cuando estrenamos casa o solar, y en los partidos cuando estrenan gobierno, de cambiar los nombres de cuanto topan a mano.»",
+              "autor": "Rueda Vargas",
+              "referencia_obra": ", Lentus in umbra, p. 152. X"
+            },
+            {
+              "texto_cita": "«Llegó precisamente la noche cuando en \"La Flor de Mayo\" estrenaron la primera lámpara de gasolina que hubo en el pueblo y fue una admiración.»",
+              "autor": "",
+              "referencia_obra": "A. Yáñez, Al filo del agua, p. 372."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con sentido pasivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las armas de los caballeros noveles, como acabadas de estrenar, estaban tersas y bruñidas.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 1 (p. 25)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me quitaron también una bacía de azófar nueva, que no se había estrenado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 44 (R. 1. 381 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que nacen en este siglo, llegan a las borras de la poesía, unos, aún no estrenadas las potencias del alma, un oso informe por ingenio y una bolsa de mendigo por memoria.»",
+              "autor": "Torres Villarroel",
+              "referencia_obra": ", Visiones y visitas (Cl. C. 161. 84)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se aplica más comúnmente al vestido, calzado o cosa semejante, adquiriendo entonces el sentido concreto de Poner o vestir por primera vez. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ninguno queda que no los estrene [los trajes] y aquello no parece bien, que hoy no admite el uso.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán, 1. 3. 7 (Cl. C. 83. 241). X"
+            },
+            {
+              "texto_cita": "«Otra veréis cuyo fin | Es dar un nuevo chapín, | Que aquella mañana estrena.»",
+              "autor": "Lope",
+              "referencia_obra": ", El villano en su rincón, 1 (Cl. C. 157. 9). X"
+            },
+            {
+              "texto_cita": "«Ayuda a la hermosura la alegría, | Al talle el brío, al cuerpo que estrenaba | Los primeros chapines aquel día.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. lír. (Cl. C. 75. 105)."
+            },
+            {
+              "texto_cita": "«Ponte aquel vestido | Que estrené cuando partí | De Guadalquivir.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La culpa busca la pena, 1. 12 (R. 20. 200 1 ). X"
+            },
+            {
+              "texto_cita": "«Como es hoy | El día que estrenó el manto ---.»",
+              "autor": "Zamora",
+              "referencia_obra": ", No hay plazo, 2 (R. 49. 422 3 )."
+            },
+            {
+              "texto_cita": "«Celebrando los días de su dama | Unas hebillas estrenó de estaño.»",
+              "autor": "",
+              "referencia_obra": "T. Iriarte, Fáb. 32 (1. 48; Cl. C. 136. 42)."
+            },
+            {
+              "texto_cita": "«Mientras los señores de su corte trataban en las fiestas de Barcelona de deslumbrar con sus galas a los enviados de una nación vecina, las damas de palacio, a imitación de la reina, hacían ostentación de la modestia de sus adornos, y sin estrenar trajes ni aun vestidos, reprendían tácitamente la liviandad del sexo fuerte.»",
+              "autor": "Acad.",
+              "referencia_obra": "Hist. 6. 36)."
+            },
+            {
+              "texto_cita": "«Mil veces le oí decir | Que era justo poner coto | A lo que él llama pasión | Del lujo --- | — ¡Pues! te haría comer bodrio | No estrenarías vestido | Sino en la fiesta de Corpus.»",
+              "autor": "Bretón",
+              "referencia_obra": ", La falsa ilustración, 1. 3 (1. 215). +"
+            },
+            {
+              "texto_cita": "«¿No eres tú el Cid por quien goza | Mil triunfos tu patria? ---, | ¿El que nunca errando tiro, | No bien estrenó la malla, | Dio muerte en campal batalla | Al Rey de Aragón Ramiro?»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura de Santa Gadea, 2. 6. (Cl. C. 113. 187). X"
+            },
+            {
+              "texto_cita": "«Y en todo el magisterio de su vida | Sólo ha estrenado una sotana nueva.»",
+              "autor": "Campoamor",
+              "referencia_obra": ", Poes. (Cl. C. 40. 166). X"
+            },
+            {
+              "texto_cita": "«Hay sol bueno y mar de espuma | Y arena fina, y Pilar | Quiere salir a estrenar | Su sombrerito de pluma.»",
+              "autor": "Martí",
+              "referencia_obra": ", Páginas escogidas, p. 121. X"
+            },
+            {
+              "texto_cita": "«Papá, ¿llevarás la corbata que no has estrenado, por supuesto?»",
+              "autor": "Clarín",
+              "referencia_obra": ", Avecilla (Cl. Castal. 69. 132). X"
+            },
+            {
+              "texto_cita": "«A veces se interrogaron en balde las gentes unas a otras a ver si alguien le había visto estrenar una prenda.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pepita Jiménez, p. 12. X"
+            },
+            {
+              "texto_cita": "«Pues Julieta estrenó un vestido de color de huevo estrellado, con sobrefalda de puf, y un enderezo de rubines y trompacios.»",
+              "autor": "Pereda",
+              "referencia_obra": ", Hombres de pro, 18 (1. 192). X"
+            },
+            {
+              "texto_cita": "«Fue general la admiración, y yo no fui el menos sorprendido, porque aquella misma mañana me había dicho que no pensaba estrenar más vestidos ni inventar rarezas.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 152). X"
+            },
+            {
+              "texto_cita": "«El Sol viene, ardiente y bello, como un héroe joven que estrena sus armas.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. poética complet. p. 101. X"
+            },
+            {
+              "texto_cita": "«A poco todo estuvo hecho, y como se acercase la fiesta de la Virgen de los Dolores, de quien la señá Mónica era muy devota, pensó estrenar el ajuar en esa solemnidad.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Frutos, 2. 4 (p. 30). X"
+            },
+            {
+              "texto_cita": "«De él lo admito todo. Y de su tío Ezequiel no digamos, porque me basta verle la barba y el sombrero hongo, que no se sabe cuál de los dos lo estrenó primero.»",
+              "autor": "J. Poncela",
+              "referencia_obra": ", Eloísa, pról. (p. 42). X"
+            },
+            {
+              "texto_cita": "«Angélica misma lo tejió y bordó el aljófar sobre el terciopelo. Lo estrenó una noche de San Juan, como hoy.»",
+              "autor": "Casona",
+              "referencia_obra": ", La dama del alba, p. 46. X"
+            },
+            {
+              "texto_cita": "«Yo estrené entonces una levita que debo de tener aquí.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Trasuntos de Esp. p. 43. X"
+            },
+            {
+              "texto_cita": "«Los hombres y las mujeres estrenaban ropa nueva en esos días.»",
+              "autor": "Arguedas",
+              "referencia_obra": ", Cuentos, p. 216. X"
+            },
+            {
+              "texto_cita": "«Yo noté, no se lo digas a nadie, que no podía sustraerme al instinto de maternidad, el mismo día que tú estrenaste tu primer pantalón largo, un pantalón gris príncipe de Gales, con el que estabas resplandeciente.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell, p. 89. X"
+            },
+            {
+              "texto_cita": "«Se la vio correr de nuevo, estrenando una novedosa tela de Escocia, por los mercados populares.»",
+              "autor": "Fuentes",
+              "referencia_obra": ", Obras completas (1. 678). X"
+            },
+            {
+              "texto_cita": "«Esa tarde estaba disfrazada de mujer, con un largo vestido negro que transparentaba la ropa interior, enagua o lo que fuere, con zapatos de tacones altísimos que tal vez le prestaron o acababa de estrenar y que es seguro terminaron de torcerse en el camino de vuelta.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero, p. 115. X"
+            },
+            {
+              "texto_cita": "«El sábado siguiente, José Arcadio Buendía se puso el traje de paño oscuro, el cuello de celuloide y las botas de gamuza que había estrenado la noche de la fiesta.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Cien años de soledad (ed. 1977, p. 68). X"
+            },
+            {
+              "texto_cita": "«No estrenaba un traje desde los tiempos del ruido.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (ed. 1977, p. 311)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Normalmente el sujeto es a su vez la persona vestida, la cual puede repetirse mediante un pronombre reflexivo en dativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y sumiendo la arena irán las llantas, | Y será el caso de estrenarse botas, | Y restallar la chispa de los látigos | Entre una polvareda victoriosa.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. poética complet. p. 461. X"
+            },
+            {
+              "texto_cita": "«Ella sonreía, comenzaba a dirigirles preguntas a la altura de sus almas y ellos le iban contando sus pequeñas alegrías — porque se estaban estrenando un camisón de zaraza bonita o un par de alpargatas de todos los colores.»",
+              "autor": "Gallegos",
+              "referencia_obra": ", Cantaclaro, p. 161."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "La persona vestida puede, sin embargo, ser distinta del sujeto oracional, y entonces se expresa obligatoriamente en dativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estrenábale una gala muy costosa, y en un cerrar y abrir de ojos se convertía en una triste mortaja, dejándole en blanco.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El Criticón, 1. 7 (Cl. C. 165. 111)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con varios colores | Estrene el bosque frío | Los esmaltes de Céfiro y de Flora.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, canc. 2 (R. 32. 303 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Pas. refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas fácil fue para Colón el descubrimiento de la América, que para mí el saber a punto fijo en que año se estrenó la primera saya.»",
+              "autor": "Palma",
+              "referencia_obra": ", Tradiciones peruanas, p. 73."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Pers. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sobre aquel mágico fondo, deteniéndose un instante, como si hubiera buscado el efecto, apareció la forastera, envuelta en lujosa y larga capa de martas cebellinas, que Federico no le conocía; recién estrenada quizás.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Zogoibi, p. 363. X"
+            },
+            {
+              "texto_cita": "«Me sentía azorado con mi traje recién estrenado.»",
+              "autor": "Arguedas",
+              "referencia_obra": ", Ríos prof. 9 (p. 119). X"
+            },
+            {
+              "texto_cita": "«Tú, hijo, estabas amarillo de ira, amarillo como una batata en almíbar o una alianza recién estrenada.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell, p. 35."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Tratándose de un establecimiento público, Inaugurarlo, ponerlo en funcionamiento.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con motivo de estrenarse este teatro, hubo iluminación varias noches, y en ellas vi un concurso numeroso y brillante.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1 (p. 578). X"
+            },
+            {
+              "texto_cita": "«En 1808 se instaló el Colegio de abogados y se estrenó el cementerio general, en cuya fábrica se emplearon ciento diez mil pesos.»",
+              "autor": "Palma",
+              "referencia_obra": ", Tradiciones peruanas, p. 211."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Siendo acus. un objeto de defensa, castigo o cosa semejante, Ejercer por primera vez con él una acción sobre una persona o cosa. Ésta se expresa mediante un compl. con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No ha encontrado usted otra cosa mejor en que estrenar su navaja que el mostrador de mi tienda?»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", La librería, 14 (5. 332)."
+            },
+            {
+              "texto_cita": "«Las cimas escalad, las altas cimas | Del helado Pirene, | Y el bisoño soldado en nombre mío | Su ánimo en ellas y su acero estrene.»",
+              "autor": "D. Solís",
+              "referencia_obra": ", oda 5 (R. 67. 263 2 )."
+            },
+            {
+              "texto_cita": "«A las primeras vueltas ya se halla | El toro solo en medio de la arena; | Por no saber qué hacerse, va a la valla, | A ver si en algún tonto el cuerno estrena.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Cant. lír. 10 (R. 67. 111 2 ; Cl. Castal. 65. 350). X"
+            },
+            {
+              "texto_cita": "«El magister, cansado de luchar con este carácter indomable, se provee una vez de un látigo nuevo y duro, y enseñándolo a los niños aterrados, \"éste es, les dice, para estrenarlo en Facundo\".»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Facundo, 2. 1 (p. 83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas. refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué pierden con simular generosidad y altruismo sabiendo que eso del reparto va para largo, y que, en último caso, el temido rasero nivelador no habrá de estrenarse en ellos?»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 6 (p. 117)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "De la construcción anterior se puede pasar a otra en que el sujeto sea la persona o cosa sobre la que se ejerce la acción de defensa o castigo, con lo que el verbo adquiere el significado de Ser la primera víctima o recibir por primera vez dicha acción ( trans. ). El acus. sigue estando representado por el objeto de defensa o castigo ( comp. El verdugo estrenó en ellos el hacha ® Ellos estrenaron el hacha del verdugo ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Todos venían muy alegres y entre sí contendían quién estrenaría primero el cuchillo del verdugo.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 2. 18, § 1 (R. 6. 330 1 )."
+        },
+        {
+          "texto_cita": "«¿Qué maravilla es ésta, que las mujeres y las tiernas doncellas sin ser llamadas corran a los tormentos como a las bodas, y procuren estrenar primero el cuchillo del verdugo que los otros?»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 27 (R. 6. 354 2 ). X"
+        },
+        {
+          "texto_cita": "«De buena gana sufriera tus oprobios, en tal que se castigara y tuviera remedio esta honrosa manera de robar; aunque mi padre estrenara la horca.»",
+          "autor": "Alemán",
+          "referencia_obra": ", Guzmán, 1. 1. 1 (Cl. C. 73. 59). X"
+        },
+        {
+          "texto_cita": "«Aún no estrenó la almohadilla | De su cuello [del toro] erguido y alto | Hierro alguno.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Romances (Cl. C. 9. 55)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Entrar en contacto con algo y experimentarlo por primera vez ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y ledo en su memoria el bien contemplo, | Que igual no estrenó amante en mortal velo.»",
+          "autor": "Herr.",
+          "referencia_obra": "1, eleg. 7 (R. 32. 269 2 )."
+        },
+        {
+          "texto_cita": "«Y más viendo que eres ave | Tan poco experta en el vuelo, | Y en la región de la corte | Estrenas agora el viento.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", Mudarse por mejorarse, 3. 3 (R. 20. 115 2 ). X"
+        },
+        {
+          "texto_cita": "«Hombre que a la corte viene | Rezién heredado y moço | — Pájaro que estrena el viento, | Nave que se arroja al golfo — | ---, | Ha de regir sus acciones | Por los expertos pilotos.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", Las paredes oyen, 1 (Cl. C. 37. 155). X"
+        },
+        {
+          "texto_cita": "«Y acompañándole en estas demostraciones de amor y culto Joseph, estrenaron las felicidades que suspiraban los antiguos Patriarchas.»",
+          "autor": "Valverde",
+          "referencia_obra": ", Vida de Cristo, 1. 12 ( Dicc. Autor. ). X"
+        },
+        {
+          "texto_cita": "«Ser los que abren al mundo | Su puerta virgen y lo estrenan todo.»",
+          "autor": "Salinas",
+          "referencia_obra": ", Razón de amor, p. 201. X"
+        },
+        {
+          "texto_cita": "«Huelen los pinos y parece que uno estuviera estrenando el mundo.»",
+          "autor": "Delibes",
+          "referencia_obra": ", Diario de un cazador, p. 19."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Realizar o poner en práctica por primera vez ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No pienso que hay tal ejemplo. | ¿Yo he de estrenar el delito?»",
+              "autor": "Mto.",
+              "referencia_obra": "Antíoco y Seleuco, 2. 11 (R. 39. 50 1 ). X"
+            },
+            {
+              "texto_cita": "«Con la vehemencia propia de los que estrenan religión levanta cátedra contra jesuitas y dominicos.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 207)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su catolicismo recién estrenado fue camino seguro para lograr el favor de la monarquía.»",
+              "autor": "",
+              "referencia_obra": "Id. Estud. mesa redonda, 5 (p. 83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Particularmente, Ejecutar por primera vez la representación de una obra de teatro o cualquier otro espectáculo ( trans. ).",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mejor fuera una comedia. | — Sí, mas la suelen silbar. | — Escribir bien. — No hay justicia: | Si uno en un año una estrena, | No hace nada aunque sea buena.»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza de la ley, 1. 10 (R. 39. 86 1 ). X"
+            },
+            {
+              "texto_cita": "«Hacía la crítica de la obra que habíamos visto estrenar la noche antes.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 87). X"
+            },
+            {
+              "texto_cita": "«¿Es que creo yo que Arniches no tiene chispa? ¿Es que no ha estrenado más de veinte obras con gran éxito?»",
+              "autor": "Azorín",
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 273)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El himno fue estrenado en el teatro la noche del 24 de septiembre de 1821.»",
+              "autor": "Palma",
+              "referencia_obra": ", Tradiciones peruanas, p. 305."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Corría de una parte a otra del teatro, animando a los suyos, para que, dada la señal de ataque, interrumpiesen con alaridos, chiflidos y estrépito cualquiera pieza que se estrenase en el teatro de los Chorizos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Com. disc. prel. (R. 2. 315). X"
+            },
+            {
+              "texto_cita": "«Esta noche se estrenará la comedia nueva.»",
+              "autor": "Tam. y Baus",
+              "referencia_obra": ", Un drama nuevo, p. 183. +"
+            },
+            {
+              "texto_cita": "«La nación ideal es Mónaco ---, el arte prospera, y milagro es el año que no se estrenan obras de mérito.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 5 (2. 221). X"
+            },
+            {
+              "texto_cita": "«Se estrenaba aquella noche una comedia de Benavente: La Farándula.»",
+              "autor": "Azorín",
+              "referencia_obra": ", El paisaje de España, 4 (p. 426)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estrenada en el Teatro Liceo de Buenos Aires, el 24 de agosto de 1945, por la compañía Josefina Díaz-Manuel Collado.»",
+              "autor": "Casona",
+              "referencia_obra": ", La barca sin pescador, p. 94."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Comenzar a desarrollar o ejercer una acción, actividad, oficio, arte, etc.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Cierto que quedaría yo bien lucido en la primera función en que me estreno de puertas a fuera con predicar como pudiera un carcuezo, y con decir lo que diría cualquiera vieja!»",
+              "autor": "Isla",
+              "referencia_obra": ", Fr. Ger. 3. 5 (Cl. C. 149. 280)."
+            },
+            {
+              "texto_cita": "«Se estrenó [don Sancho] en el mundo conspirando contra su padre y declarándole la guerra para usurparle el trono.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp. (2. 126)."
+            },
+            {
+              "texto_cita": "«Yo que había hablado dos o tres veveces en la [sociedad] de San Fernando ---, me preparé para estrenarme en la capital como orador estrenando la sociedad nueva.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 336."
+            },
+            {
+              "texto_cita": "«El nuevo maestre de campo, Brancaccio, quiso estrenarse dando una arremetida general a todos los barrios sostenidos por los españoles.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 2. 14 (5. 231; R. 102. 231 1 ). X"
+            },
+            {
+              "texto_cita": "«Si no me estreno hoy, ya no me estreno.»",
+              "autor": "J. Poncela",
+              "referencia_obra": ", Eloísa, pról. (p. 31)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un compl. instrumental precedido de con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Evolucionistas convencidos en teoría [los megalófilos], resultan providencialistas en la práctica. Como si confiaran en el milagro, desean estrenarse con hazaña prodigiosa.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos de la voluntad, 5 (p. 103). X"
+            },
+            {
+              "texto_cita": "«Lo excepcional es que --- un novel investigador logre estrenarse con memorable hazaña científica.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 6 (p. 119)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "El objeto a que va dirigida la acción o actividad se expresa también mediante la prep. con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue aquella de San Lorenzo, | Donde, como saben todos, | Granaderos a caballo | Se estrenaron con los godos.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. poética complet. p. 1085."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en, para indicar la acción o actividad emprendida. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes por estrenarme en mi querella, | Estar sin ella [la esperanza] eternamente juro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 14 (Cl. C. 4. 311). — Siendo un infinitivo el término de la prep."
+            },
+            {
+              "texto_cita": "«¿Tan enamorado estás | Y en verla te estrenas hoy?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El desdichado en fingir, 1. 2 (R. 20. 139 1 ). X"
+            },
+            {
+              "texto_cita": "«Y desde luego en escribir se estrena | Una histórica suma, | Que solo contenía los anales | Suyos y de los monos compañeros.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Poesías (Cl. C. 136. 99)."
+            },
+            {
+              "texto_cita": "«¿Sólo para tu regalo | Expresamente querías | Se hubiese el cielo estrenado | En criar una mujer | Sin pero?»",
+              "autor": "",
+              "referencia_obra": "Id. El filósofo casado, 1. 1 (5. 3)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans. Con el sentido factitivo de Hacer que otro comience a desarrollar una actividad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para bien se comience el oficio, dijo Rincón, que vuesa merced me estrena, señor mío.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 3 (R. 1. 136 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Particularmente, Hacer un vendedor o negociante la primera transacción de cada día (cfr. Dicc. Acad. ).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el significado de Regalar, galardonar, en algunos de los textos.) Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estrenar: delibo, as; degusto, as. »",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. X"
+        },
+        {
+          "texto_cita": "«Plega a vuestra señoría | En tal día | Estrenar vuestro siruiente, | Librándole de las penas | Que [h]oy syente.»",
+          "autor": "",
+          "referencia_obra": "Rdgz. de Padrón, Siervo libre de amor (Cl. Castal. 66. 74)."
+        },
+        {
+          "texto_cita": "«Que syn tal estrena estreno | Bien entraré estrenando.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 184. — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«El que oy nos estrenare | Con meaja o con pan, | Déle, en quanto començare, | Buena estrena Sant Julián.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1714 (Cl. C. 17. 288). — Siglo Xlll:"
+        },
+        {
+          "texto_cita": "«Estrenaron = dedicaverunt templum.»",
+          "autor": "Scío",
+          "referencia_obra": ".)."
+        },
+        {
+          "texto_cita": "«Para estrenar = in dedicationem altaris.»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Touióronse los griegos por bien estrenados.»",
+          "autor": "Alex.",
+          "referencia_obra": "1889 (R. 57. 205 2 )."
+        },
+        {
+          "texto_cita": "«Éctor con los troianos fueron mal quebrantados, | Touioron que Achilles los auie estrenados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 584 (R. 57. 165 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De strena ‘presente, regalo’. Formaciones paralelas son el fr. étrenner, prov. y cat. estrenar, port. y gall. estrear. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

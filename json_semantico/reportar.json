@@ -1,0 +1,375 @@
+{
+  "lema": "REPORTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Alcanzar, conseguir, lograr, obtener ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Marco Aurelio, otro emperador que pensó en el Norte y allí reportó victorias como Trajano, celebró también sus triunfos en el Anfiteatro.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma , p. 363. X"
+            },
+            {
+              "texto_cita": "«Si una gran parte del tiempo que se pierde miserablemente en la escuela y en casa, ocupándose en estudios inconducentes, se emplease en adquirir los conocimientos preparatorios, acomodados a la carrera que se quiere emprender, los individuos, las familias y la sociedad reportarían por cierto mayor fruto de sus tareas y dispendios.»",
+              "autor": "Balmes",
+              "referencia_obra": ", El criterio , p. 309. X"
+            },
+            {
+              "texto_cita": "«Basta recordar cualquiera de las escritas [novelas] por la citada época, en que la prosa castellana llega a su mayor perfección, para conocer el frecuentísimo uso que de los refranes se hacía y el provecho que de los mismos pudo reportar nuestra literatura.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Esp. filosóf. ( Obr . 2. 617)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Continuó haciéndome la relación de todas las ventajas que iba a reportarme aquel viaje, sin ocultarme los dolores por los cuales tendría que pasar.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 165. X"
+            },
+            {
+              "texto_cita": "«Lo corriente en el hombre es la tendencia a creer verdadero cuanto le reporta alguna utilidad.»",
+              "autor": "Machado",
+              "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 43). X"
+            },
+            {
+              "texto_cita": "«Nada lucraba en dinero con esta labor, pero yo sabía que de ella podía reportar ventajas más apetecibles para mí que el lucro pecuniario.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil , 9 (p. 85)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con a . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Añadamos que sólo el veraneo de los pacientes castellanos, aragoneses y andaluces en Donostia reporta a esta región privilegiada cientos de millones.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", El mundo , p. 119."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Traer o llevar ( trans .). Con a . X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Un día llenaron esta vasta llanura las legiones de Escipión y de Pompeyo, que reportaban a Roma reyes cautivos y naciones enteras soguzgadas.»",
+          "autor": "Catalina",
+          "referencia_obra": ", Roma , p. 61."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Refrenar, reprimir o moderar una pasión de ánimo o a quien la experimenta. Ya Covarrubias definía:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vale bolver uno sobre sí y refrenar su cólera, de re et porto , -as , porque buelve al pecho lo que estaba para echar dél, como reprimere .»",
+          "autor": "",
+          "referencia_obra": "Tesoro . ( trans .)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nadie es parte con Dios para que deje lo que una vez prende porque no teme a nadie de manera que lo reporte.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 1. 9 (1. 161)."
+            },
+            {
+              "texto_cita": "«Despacharon al Mariscal Garci González de Herrera que le reportase y pusiese en razón.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 19. 3 (2. 175 2 )."
+            },
+            {
+              "texto_cita": "«Ella que o siente mi ausencia, | O que sentirla fingía, | Por los brazos me tenía | Reportando mi impaciencia.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante a sí mismo , 2. 9 (R. 20. 72 2 )."
+            },
+            {
+              "texto_cita": "«Duque, Marqués, reportad | El furioso desatino.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Todo es ventura , 3. 17 (R. 20. 136 2 )."
+            },
+            {
+              "texto_cita": "«Vive Dios... | ¡Hay tal porfiar! | ¡Que así un temor os reporta!»",
+              "autor": "Rojas",
+              "referencia_obra": ", Donde hay agravios no hay celos , 3 (R. 54. 164 2 )."
+            },
+            {
+              "texto_cita": "«Y pidiéndole que averiguase cuanto fuese posible la verdad, y hallando ser lo que él le decía, le corrigiese y reportase.»",
+              "autor": "L. Palma",
+              "referencia_obra": ", Vida de G. de la Palm. , p. 52."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a . y una prop. infinitiva. También con un predicado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al entrar aquí mi hermano, | Por reportarle furioso, | Llevé adelante el engaño, | A que dio principio él propio.»",
+              "autor": "Mto.",
+              "referencia_obra": "El caballero , 3. 8 (R. 39. 307 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pena traigo, señora; mas repórtola | Con ver que llego a puerto salutífero.»",
+              "autor": "Lope",
+              "referencia_obra": ", El remedio en la desdicha , 3 (Cl. C. 39. 142). X"
+            },
+            {
+              "texto_cita": "«¡Con qué cordura reporta su colérico despecho!»",
+              "autor": "Zamora",
+              "referencia_obra": ", Mazariegos y Monsalves , 1 (R. 49. 458 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la verdad el bueno afligido es gran luz de aviso a los malos, para que se reporten y enmienden.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 1. 12 (1. 201)."
+            },
+            {
+              "texto_cita": "«Yo me reportaré —respondió Sancho—; pero ---.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2 (Cl. C. 13. 168)."
+            },
+            {
+              "texto_cita": "«Tú, ¿no has dicho que Arnesto, | Cuando al campo de Tablada | Fuistes a reñir, en viendo | A don Beltrán, se mostró | Muy animoso y soberbio, | Y que tú te reportaste?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La industria y la suerte , 2. 6 (R. 20. 31 3 ). X"
+            },
+            {
+              "texto_cita": "«Despidiose la priora tras esto dél, diziéndole se reportasse y fiase lo demás del tiempo y de la freqüencia de las visitas, para las quales de nuevo le dava licencia.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij . 6. 17 (Cl. C. 175. 98). X"
+            },
+            {
+              "texto_cita": "«Repórtese vuestra Alteza, | Que sin causa la braveza | Desacredita el valor.»",
+              "autor": "Cid",
+              "referencia_obra": "(Cl. C. 15. 75)."
+            },
+            {
+              "texto_cita": "«Pero visto que ella misma me había avisado del engaño que me había de hacer, reporteme y fui a ver si podía reparar el daño.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 9 (R. 18. 457 2 ). X"
+            },
+            {
+              "texto_cita": "«Todo faraute, amiga, trinche y corte: | Que al más encarnizado en tu pechuga | No le diré jamás que se reporte.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Rimas (Cl. C. 182. 119)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Perdona lo pasado, pues eres discreto y sabes que los primeros movimientos no son en mano del hombre, y está advertido de aquí adelante en una cosa, para que te abstengas y reportes en el hablar demasiado conmigo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 20 (Cl. C. 6. 155)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en . Además con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dí a don Bernardo que importa | Que de noche dé a entender | Que viene a hablarla, y a ver | Si el Príncipe se reporta | En este amor con los celos.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Don Diego de noche , 2 (R. 54. 221 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para y una prop. infinitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ansí reportándose [Job], para mostrar que en la esperanza que negaba no negaba el poder de Dios, ---; vuélvese a Dios humildemente.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 1. 7 (1. 126)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es valiente. —Aprovechó la lición; | Reportado muestra el brío. Yo le animo.»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Las mocedades del Cid , 2. 3 (Cl. C. 15. 247)."
+            },
+            {
+              "texto_cita": "«Déjame, Enrique atrevido, | Que aunque es verdad que a mi esposo | No reportada aborrezco, | No tampoco, no tampoco | Te quiero, si antes te quise.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Casarse por vengarse , 2 (R. 54. 113 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part . adj. Sereno, sosegado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En los toros, ¿quién ha sido | A esperar más reportado? | ¿Quién a herir más acertado, | Y a embestir más atrevido?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El examen de maridos , 2. 6 (Cl. C. 146. 161). +"
+            },
+            {
+              "texto_cita": "«Ramón Montaner --- respondió reportado con mucha blandura y cortesía, que el salirse de Galípoli y de Tracia no era cosa que tan arrebatadamente se podía hacer como él quería.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 44 (R. 21. 41 1 ). X"
+            },
+            {
+              "texto_cita": "«Los que tienen afición a una cosa, ya que el amor no los permita reportados hágalos el temor prudentes.»",
+              "autor": "Zabaleta",
+              "referencia_obra": ", Errores celebr . (Cl. C. 169. 142)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En superlativo relativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y salió [Motezuma] del adoratorio para que le siguiesen; pero se detuvo en el atrio, y prosiguió diciendo algo más reportado.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 12 (R. 28. 284 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En comparativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pequeñas causas os irritan y encienden, y el hombre noble, quanto más ofendido y enojado, tanto más reportado y dócil deve mostrarse.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 2 (Cl. C. 203. 15)."
+            },
+            {
+              "texto_cita": "«Que el hombre cuanto más valiente tanto debe ser más paciente y reportado.»",
+              "autor": "L. Palma",
+              "referencia_obra": ", Vida de G. de la Palm. , p. 10."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con relación no ya a pasiones sino a cosas y acciones humanas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«[Replicó] otras cosas tan verosímiles y razones tan evidentes, que casi satisfacieron, o por lo menos reportaron la severidad del riguroso juez.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Esp. Ger . 1 (R. 18. 144 2 ). X"
+            },
+            {
+              "texto_cita": "«Lo que deciros me importa | Es, en cuanto a haber creído | Que de Don Luis dama he sido, | Que esta sospecha reporta | Mi juramento, y la acorta.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende , 3 (Cl. C. 137. 86)."
+            },
+            {
+              "texto_cita": "«No soy tan simple, que no me haya reportado la mala correspondencia de Dorotea.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 5. 2 ( Obr. suelt . 7. 372)."
+            },
+            {
+              "texto_cita": "«¿Sabes tú que no hay poder | Que las mentiras reporte?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Siempre ayuda la verdad , 1. 1 (R. 20. 229 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué quiere decir traición? | Señor, el labio reporta, | Que echas a perder la queja | Si en el decoro me tocas.»",
+              "autor": "Mto.",
+              "referencia_obra": "Primero es la honra , 1. 6 (R. 39. 231 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El celo y voz enérgica reporta | Con caridad cristiana, y otro giro, | Otro ademán más compasivo toma.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 10 (2. 371)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "En el siguiente ejemplo, Aparentar. Refl . Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y su mucha discreción | Dice claro que es postizo | Su grosero oficio y traje, | Por más que en él se reporte, | Pues más es para la corte, | Que los montes, su lenguaje.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio , 1 (Cl. C. 2. 26)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV : X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Reuectare es reportar; Reuehere... también es reportar otra vez traer.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab . 419b. X"
+        },
+        {
+          "texto_cita": "«Regerere reportar desterrar poner en parte abscondida.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 414 d. +"
+        },
+        {
+          "texto_cita": "«Todos estos ¿qué fruto reportarían de tantos trabajos, haciendo tan virtuosos autos y tan útiles a la república?.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener . 1 (R. 68. 698 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. reportare ‘volver a sacar de, volver a traer, volver a llevar; retirar; conducir; conseguir; anunciar’, de re y portare ‘llevar’. Cat. reportar , fr. reporter , it. riportare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

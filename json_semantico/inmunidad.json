@@ -1,0 +1,155 @@
+{
+  "lema": "INMUNIDAD.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Privilegio local concedido a ciertas personas o instituciones.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y para hacérselo notorio vino un arcediano de Roma, que, celoso de la inmunidad eclesiástica, aunque sabedor de la austera condición del Rey Don Pedro, se quiso encargar del caso.»",
+              "autor": "Lozano",
+              "referencia_obra": ", Hist. y ley. 4 (Cl. C. 120. 55)."
+            },
+            {
+              "texto_cita": "«Nada es más justo a sus ojos que aquellos privilegios e inmunidades personales que están concedidos a los individuos de un orden respetable.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 1ª clase (R. 50. 119 1 )."
+            },
+            {
+              "texto_cita": "«Isabel no titubea, desatiende las inmunidades, que nunca pudieron concederse en perjuicio del orden público, y obliga a dar al César lo que es del César.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ( Mem. Acad. Hist. 6. 43)."
+            },
+            {
+              "texto_cita": "«Entró sediento de sangre, e hizo pedazos cruelmente a los refugiados; y como los frailes reclamasen la inmunidad eclesiástica --- fueron atropellados sin consideración.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 17 (5.131)."
+            },
+            {
+              "texto_cita": "«Recorrió la ciudad toda, asegurando de viva voz y con apacible y gracioso semblante, las concesiones hechas y los privilegios restablecidos; y ofreciendo aun en nombre del rey mayores mercedes e inmunidades.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 20 (5. 152)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«También les prohibieron la inmunidad de las iglesias arriba de tres días.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 1 (R. 21. 71 1 )."
+            },
+            {
+              "texto_cita": "«Echados [los moriscos] de la inmunidad y franqueza de las iglesias, donde por otra parte los mandaban asistir a los oficios divinos con penas de dinero.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1 (R. 21. 73 1 )."
+            },
+            {
+              "texto_cita": "«Pidieron a Monipodio que desde luego les concediese y prometiese gozar de las inmunidades de su cofradía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Rinconete (R. 1. 139 2 )."
+            },
+            {
+              "texto_cita": "«Deste modo declara san Agustín la inmunidad y privilegio de la naturaleza divina en ser exenta de variaciones y mudanzas de las demás cosas.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios, 1. 13. 2 (p. 166)."
+            },
+            {
+              "texto_cita": "«Pretendió el principado que se le guardase la inmunidad de sus fueros.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 482 2 )."
+            },
+            {
+              "texto_cita": "«Su misma libertad, su propiedad, su seguridad personal, la inmunidad de su casa, los derechos de esposo, de padre, de ciudadano, son la recompensa de aquella pequeña porción de libertad que sacrifica al bien público.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 40 2 )."
+            },
+            {
+              "texto_cita": "«En el discurso del padre Casas se veía el ánimo de un hombre que penetrado íntimamente de la santidad de su objeto, y apoyado en la inmunidad de la causa que defiende, se levanta sobre todo respeto humano, y va más allá de lo que piensa.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19.449 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La conversión de los templos en usos profanos, el atropellamiento que supone de la inmunidad eclesiástica en cosas y en personas, la suspensión de conferir órdenes.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Escritos polít. ( Obr. 23. 175)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con un posesivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue [Éfeso] no solamente reverenciada de los romanos, pero de los persas y macedones, que tuvieron antes el imperio y todos conservaron sus inmunidades y derechos, sin que se mudasen jamás, mudándose los imperios.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 15 (R. 21. 15 2 ),"
+            },
+            {
+              "texto_cita": "«Sois torre ebúrnea, altísima, y fundada | Para asilo feliz del bando amigo, | Que su notoria inmunidad sagrada | Fue siempre incontrastable al enemigo.»",
+              "autor": "Jáur.",
+              "referencia_obra": "oct. Sois palma excelsa (R. 42. 126 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Forma la expresión Inmunidad parlamentaria: prerrogativa de senadores y diputados que los exime de ser detenidos salvo en casos que determinen las leyes. Cfr. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Exención de ciertas cargas, oficios, gravámenes o penas. Con de.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al extremo del crimen, a la obstinación en cometerle, le otorga el privilegio de la inmunidad de todo castigo.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Filosof. elem. Ética, 27 (p. 447)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Med. Estado del organismo que le impide contraer una enfermedad. Cfr. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ynmunidades, libertades, defensiones, partiçiones, a ellos por conçesiones e lo al a la costumbre otorgadas.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 12 (p. 89)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. immunitas, -atis ‘exención, franquicia, privilegio’. Cat. y prov. Immunitat, fr. immunité, it. immunitá, port. immunidade. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

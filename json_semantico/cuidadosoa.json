@@ -1,0 +1,447 @@
+{
+  "lema": "CUIDADOSO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que hace alguna cosa ó mira por ella con atención solícita.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No creo habrá otra [piora] mejor para allí, aunque está harto mala; mas es cuidadosa y, aunque es amiga de los gatos, tiene muchas virtudes.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Cartas , 2. 35 (R. 55. 55 1 ;*anque)."
+            },
+            {
+              "texto_cita": "«Del cuidado del ama aprenden las criadas á ser cuidadosas.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 7 (3. 458)."
+            },
+            {
+              "texto_cita": "«Si tienes un criado ladrón, aunque lo sea de lo que tú hurtaste, y otro fiel cuidadoso, ¿á cuál premias, á cuál castigas y despides? Forzosamente al ladrón.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 179 1 )."
+            },
+            {
+              "texto_cita": "«Dispuso Martín López la marcha, empezando á llevar cuidadosa y ordenada la gente desde que salió de la ciudad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 14 (R. 28. 364 2 )."
+            },
+            {
+              "texto_cita": "«Señora, no tiene duda | El que mirándote viuda, | Tan moza, bizarra y bella, | Tus hermanos cuidadosos | Te celen.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende , 1. 7 (R. 7. 169 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh Dios cuidadosísimo, cómo no arrojaré toda mi solicitud en ti, pues sé que tienes tanto cuidado de mí!»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 27 (1. 392)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para señalar el objeto del cuidado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muéstrase [el demonio] en los entendimientos de algunos recatado, y cuidadoso del bien de los prójimos.»",
+              "autor": "León",
+              "referencia_obra": ", dedic. Obr. Sta. Ter . (4. 214)."
+            },
+            {
+              "texto_cita": "«Y llamaré dichoso | Al rústico, advertido ganadero, | Que vive cuidadoso | Del pobre manso apero, | Y muestra el rostro al crudo amor severo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 32 2 )."
+            },
+            {
+              "texto_cita": "«Todos deberíamos procurar ser los primeros en esto, como cuidadosos de nuestra salud.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 3. 32 (2. 214)."
+            },
+            {
+              "texto_cita": "«Siendo, como era, más suelto y menos cuidadoso de su conciencia de lo que se permitía entre soldados.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 74 1 )."
+            },
+            {
+              "texto_cita": "«Era el conde temeroso de Dios, cuidadoso de su conciencia.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 2. 8 (88). —"
+            },
+            {
+              "texto_cita": "«Nicéforo y Pachimerio, griegos, y en muchas partes poco cuidadosos de escribir la verdad.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 22 (R. 21. 22 2 )."
+            },
+            {
+              "texto_cita": "«Cuidadosos pues los catalanes de poner su asiento por aquel invierno en algún sitio acomodado, corrían toda la tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5.1 (R. 21. 52 1 )."
+            },
+            {
+              "texto_cita": "«En un instante desaparecieron --- cuidadosos de acudir á Tabasco, de cuyo riesgo tuvieron noticia por haberse descubierto la marcha de Alonso Dávila.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 17 (R. 28. 226 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Hoy no se toleraría la omisión de la prep. como en el pasaje, siguiente:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andaba muy cuidadosa Teresa Laíz qué orden escogería, porque deseaba fuesen las monjas pocas, y muy encerradas, y gente de gran ejemplo y espíritu.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 23 ( Míst . 1. 207)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en, para expresar aquello en que se muestra solicitud.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vemos algunas personas que son naturalmente tan cuidadosas en lo que han de hacer que una paja que hayan de menear, no pueden reposar, ni aun dormir de noche con aquella espina.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 3, § 12 (R. 8. 124 1 )."
+            },
+            {
+              "texto_cita": "«Entre éstos unos hay más cuidadosos en la guarda de sí mesmos y en la pureza de conciencia, que otros.»",
+              "autor": "",
+              "referencia_obra": "Id . Mem. vida crist. 3. 10 (R. 8. 259 1 )."
+            },
+            {
+              "texto_cita": "«Así como es cuidadoso en lo uno, así también lo es en lo otro.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 5. 1, § 4 (R. 8. 293 1 )."
+            },
+            {
+              "texto_cita": "«Los hombres que se descuidan de sus oficios, aunque en otras virtudes sean cuidadosos, no contentan á Dios.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. introd. (4. 423)."
+            },
+            {
+              "texto_cita": "«No por esto dejó de tener la mano sobre sus magistrados, para que sin avaricia y crueldad se cobrasen: en que fue muy cuidadoso Tiberio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 67 (R. 25. 186 2 ). —"
+            },
+            {
+              "texto_cita": "«El ánima que no es cuidadosa en examinar sus pensamientos, palabras y obras, es semejable á la viña del hombre perezoso.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 62 ( Míst . 3. 248)."
+            },
+            {
+              "texto_cita": "«Es tan cuidadoso [nuestro ángel] en defendernos, como él en tentarnos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 5 (2. 50)."
+            },
+            {
+              "texto_cita": "«En inquirir y retratar afectos, pocos han sido más cuidadosos.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. pról . (R. 21. 460)."
+            },
+            {
+              "texto_cita": "«Estaba | Tan cuidadoso en traer | Los papeles, que por eso | Los puse aparte.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende, 2. 17 (R. 7. 179 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuidadoso con, para con un enfermo.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Que anda con cuidado ó inquietud.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sea Dios bendito que tanta merced me ha hecho: que estos días en especial me ha traído bien desasosegada y cuidadosa, y con gran deseo de ver quitado á vuestra Señoría de tan gran cuidado.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 2. 2 (R. 55. 149 1 )."
+            },
+            {
+              "texto_cita": "«Y como es natural que los cuidados destierren el sueño, ninguno de aquella cuidadosa compañía pudo cerrar los ojos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 1. 7 (R. 1. 571 2 )."
+            },
+            {
+              "texto_cita": "«Dio aviso al instante al cuidadoso abuelo del paradero de su nieto.»",
+              "autor": "",
+              "referencia_obra": "Q uint. Obr. inéd. p. 120."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , que expresa el origen la causa de la inquietud.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Doña Urraca, cuidadosa de lo que podría resultar en el reino después de la muerte de su hermano ---»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 10 (R. 30. 258 2 )."
+            },
+            {
+              "texto_cita": "«Volvió con tanto alegre á los suyos, que estaban cuidadosos de su salud.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8. 6 (R. 130. 228 1 )."
+            },
+            {
+              "texto_cita": "«Cuidadoso [el senado] de aquella guerra, mandó que el uno de los cónsules partiese para España.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . 3. 3 (R. 30. 63 2 )."
+            },
+            {
+              "texto_cita": "«Aguardaban á ver en qué paraba aquel movirniento --- cuidadosos de las insolencias que en tales ocasiones suelen cometer los vencedores.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 90 2 )."
+            },
+            {
+              "texto_cita": "«Como mujer cuerda y cuidadosa de la vida del marido, pudo advertir y descubrir algo de lo que se rnaquinaba contra él.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 26 (R. 21. 25 1 )."
+            },
+            {
+              "texto_cita": "«He estado ausente y cuidadoso de vuestros sucesos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 5. 3 ( Obr. suelt . 7. 384)."
+            },
+            {
+              "texto_cita": "«Y Job responde, | De ver que no le entienden cuidadoso.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 21 (1. 333)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , que expresa la causa de la inquietud.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuidadoso por el resultado.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Cuidadoso por el éxito de un negocio.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con contra, para expresar aquello que trata uno de resistir en medio de su recelo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empezaron á temerse de nuevo de ellos y de sí mismos, tan cuidadosos contra el arte como contra la fuerza.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 526 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Hecho con cuidado, en que interviene el cuidado.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los cabellos de aquel color que son los primeros rayos de la mañana, de una cuidadosa desorden adornados.»",
+          "autor": "",
+          "referencia_obra": "Valb . Sígio de oro, 9 (181)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "No tenemos anotado sino este pasaje, que por ser único es sospechoso:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Son [los poderosos] cuidadosos, llenos de cuidados é de dolores, é de malas venturas.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 75 (R. 51. 206 1 ). En cambio se decía á cada paso cuidoso; voz que tuvo algún uso en el siglo XVI y se ha tratado de resucitar en lo moderno."
+        },
+        {
+          "texto_cita": "«Y al gemir allegándose el zumbido | Del aire que murmura, | Y la voz del cuidoso centinela ---»",
+          "autor": "Hartz.",
+          "referencia_obra": "El amante desdeñado (398)."
+        },
+        {
+          "texto_cita": "«Hubieras perecido --- si de Acaya | Los adalides todos no se hubieran | Levantado cuidosos, é impedido | Que al combate salieses.»",
+          "autor": "",
+          "referencia_obra": "Hermosilla, Iliada . 7 (1. 202)."
+        },
+        {
+          "texto_cita": "«Y de las altas puertas y del muro | De Troya en aquel día los Aquivos | Dueños se hicieran, si cuidoso Febo | A hacer á Aquiles frente no animara | Al valienle Agenor.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 21 (2. 310)."
+        },
+        {
+          "texto_cita": "«Sacó la Envidia del cuidoso pecho | Tres relucientes nómínas.»",
+          "autor": "Jovell.",
+          "referencia_obra": "epíst. á sus amigos de Salam. (R. 46. 38 1 )."
+        },
+        {
+          "texto_cita": "«Tres centurias de ilustres caballeros | Con este ardid juntó el cuidoso anciano.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 21 (R. 17. 363 2 )."
+        },
+        {
+          "texto_cita": "«Y ella, en cuidosa revención atenta, | De mil cosas le pide y le la cuenta.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 18 (R. 17. 327 1 )."
+        },
+        {
+          "texto_cita": "«Allí estuvo | En cuidosa y perpetua centinela.»",
+          "autor": "",
+          "referencia_obra": "Id . ib . 12 (R. 17. 276 1 )."
+        },
+        {
+          "texto_cita": "«Sabio en la paz, cuidoso en el sosiego, | Y en las guerras intrépido á la muerte.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 5 (R. 17. 196 )."
+        },
+        {
+          "texto_cita": "«Ahora fuese --- | Que la cueva del cercano río | En cuidosas lazadas le prendiese.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2 (R. 17. 161 2 )."
+        },
+        {
+          "texto_cita": "«En siendo tiempo, la cuidosa Dido | A su gente mandó que se aprestase.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 32 (R. 17. 120 2 )."
+        },
+        {
+          "texto_cita": "«Diligente, solícito y cuidoso, | Acude á todas partes.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 24 (R. 17. 93 1 )."
+        },
+        {
+          "texto_cita": "«¡Ay! que ya siento en mi cuidoso pecho | Labrarme poco a poco un vivo fuego.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 22 (R. 17. 82 2 )."
+        },
+        {
+          "texto_cita": "«Revuelve y traza en el cuidoso pecho | Diversas cosas, y en ninguna había | El consuelo y disculpa que buscaba.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 12 (R. 17. 48 2 )."
+        },
+        {
+          "texto_cita": "«Desta manera el escuadrón camina | En la callada noche y sombra escura | Debajo del gobierno y disciplina | Del cuidoso Lautaro.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 9 (R. 17 36 1 )."
+        },
+        {
+          "texto_cita": "«Un divino esplendor de la belleza, | Pasando dulcemente por mis ojos, | Mi afán cuidoso causa y mi tristeza.»",
+          "autor": "Herr.",
+          "referencia_obra": "1, eleg . 1 (R. 32. 258 1 )."
+        },
+        {
+          "texto_cita": "«Tal vez pienso, cuidoso, que mi lumbre | Hiere con el sereno ardor la selva, | Y cansa de mis lágrirnas el río.»",
+          "autor": "",
+          "referencia_obra": "Id. 1, sext . 3 (B. 32. 266 2 )."
+        },
+        {
+          "texto_cita": "«Y aun alguno hay tan cuidoso y considerado en esto, que --- pasa nor junto á su lado, la gorra en la mano.»",
+          "autor": "Salazar",
+          "referencia_obra": ", Cartas , 4 (R. 62. 299 2 )."
+        },
+        {
+          "texto_cita": "«Oh pensamiento cuidoso, | Que un momento solamente | No me dejas; | Dame un poco de reposo, | No seas tan diligente | Con tus quejas.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 1 (R. 32. 133 2 )."
+        },
+        {
+          "texto_cita": "«Asy fatigada, turbada, é cuydosa ---.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 115."
+        },
+        {
+          "texto_cita": "«Por la qual, me Puse sin toda esperança | De bien trabajado, temíente é cuydoso.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 242."
+        },
+        {
+          "texto_cita": "«Ca non es tan poderoso | Vuestra non [sic] que me defienda | De seguir la tal contienda, | Pero que viva cuydoso.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 242."
+        },
+        {
+          "texto_cita": "«Ca sufro por ellos muerte e cruesa, | Gostos amargos, pesares cuydosos.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 320."
+        },
+        {
+          "texto_cita": "«La rrazon muy justa me fuerça é requiere | Que biva cuydosso non sé dezír quanto.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 39."
+        },
+        {
+          "texto_cita": "«E estaban todos los que allí fincaron muy desmayados é muy cuydosos.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 4. 14 (R. 66. 434 1 )."
+        },
+        {
+          "texto_cita": "«Et como quiera que agora estamos por avenidos et non hayamos guerra, siempre estamos sospechosos el uno del otro, et asaz cuidosos.",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«J. Man. C. Luc. 2 (R. 51. 383 1 ).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Et tornóse Calila á su posada muy triste et cuidoso de ser preso é deshonrado por el pecado de Dymna.»",
+          "autor": "",
+          "referencia_obra": "Cal . é Dymna (R. 51. 37 2 )."
+        },
+        {
+          "texto_cita": "«¿Por qué está el leon triste y cuidoso?»",
+          "autor": "",
+          "referencia_obra": "Ib. (R. 51. 35 2 )."
+        },
+        {
+          "texto_cita": "«E cuydoso»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de cuidado, mediante el sufijo abundancia oso . Port. cuidadoso. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

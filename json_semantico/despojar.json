@@ -1,0 +1,779 @@
+{
+  "lema": "DESPOJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Quitar á otro y apropiarse lo que tiene puesto ó trae consigo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nunca yo acostumbro, dijo D. Quijote, despojar á los que venzo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 21 (R. 1. 300 2 )."
+            },
+            {
+              "texto_cita": "«Vio que sus escuderos --- iban á despojar á Sancho Panza; mandóles que no lo hiciesen.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 60 (R. 1. 531 1 )."
+            },
+            {
+              "texto_cita": "«Cuando lo despojaron los ladrones galeotes, se había venido á aquella venta huyendo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 32 (R. 1. 338 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar aquello de que se priva á otro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me vendieron, no sé por cuánto, habiéndome primero despojado de las joyas que llevaba de desposada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 1. 13 (R. 1. 578 2 )."
+            },
+            {
+              "texto_cita": "«Nos despojaron de todo cuanto teníamos, y á Zoraida le quitaron hasta los carcajes que traía en los pies.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . (R. 1. 373 1 )."
+            },
+            {
+              "texto_cita": "«Prendieron por fortuna á un bandolero | A tiempo cabalmente | Que de vida y dinero | Estaba despojando á un inocente.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb. 55 (1. 87)."
+            },
+            {
+              "texto_cita": "«Habían robado á varias personas, en especial mujeres y niños, y despojádolas de sus bienes.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr. 15 ( Mem. Acad. Hist. 6. 390)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con acus. de la cosa quitada y dat. de pers. (inusitado hoy).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sola la falsa mujer | Pone su recreación | En despojar al varón | Los cueros, si puede ser.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, Condic. de las muj. (R. 32. 199 2 )."
+            },
+            {
+              "texto_cita": "«Despojáronle al fin lo que traía, | Y de la selva en un profundo pozo | Que su delito deje más cubierto, | Le despeñaron, y quedó por muerto.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 11 (R. 17. 264 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese en sentido análogo de los edificios, embarcaciones, etc . ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Corrieron al palacio --- le despojaron todo sin perdonar ni mueble, ni cortina, ni comestible.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitán (R. 19. 267 2 )."
+            },
+            {
+              "texto_cita": "«Los soldados italianos se divirtieron en despojar su bagaje.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 96 (R. 25. 252 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Derecho parece de las gentes que se despoje la provincia cuyo gobierno se vendió.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 54 (R. 25. 142 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despojaron las falucas de cuanto llevaban y dejáronlas embestir en tierra sin echarlas á fondo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 4 (R. 1. 157 2 )."
+            },
+            {
+              "texto_cita": "«Bastimentos hallaremos en el navío con todo lo necesario á la navegación porque sus contrarios no le despojaron más que de las mujeres.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 2. 13 (R. 1. 609 1 )."
+            },
+            {
+              "texto_cita": "«Cual suele el ruiseñor con triste canto | Quejarse, entre las hojas escondido, | DeI duro labrador, que cautamente | Le despojo su caro y dulce nido | De los tiernos hijuelos, entre tanto | Que del amado ramo estaba ausente.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl. 1 (R. 32. 5 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los templos fueron despojados, unos de las puertas, otros de los ricos maderamientos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Simb. 2. 12 (R. 6. 311 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En general, Desposeer con violencia á uno de lo que tiene y goza ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Como será justiciero el que despoja á otros?»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 54 (R. 25. 142 1 )."
+            },
+            {
+              "texto_cita": "«¡No menos despojan [los usureros] á la nave que llega al puerto, que el naufragio.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 67 (R. 25. 185 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La madre se olvida de sí por acordarse de su hijo, y despoja a sí, por enriquecer á él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 1. 1, § 7 (R. 8. 422 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despojada y mendicante su antigua nobleza, sin especie alguna de libertad la provincia ---»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 92 (R. 25. 241 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le descomulgaron y despojaron del arzobispado.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 6. 18 (R. 30. 176 2 )."
+            },
+            {
+              "texto_cita": "«Rey le hicistes: despojadlo | Del cetro, pues que tenéis | Los grandes de vuestra mano.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La amistad castigada , 3. 18 (R. 20. 300 1 )."
+            },
+            {
+              "texto_cita": "«Prendióme, y de mi libre patrio nido | Despojóme atrevido.»",
+              "autor": "Lope",
+              "referencia_obra": ", Filom. 2 ( Obr. suelt. 2. 452)."
+            },
+            {
+              "texto_cita": "«Casi lo mismo sucedió al rey don Sancho por haber querido despojar á sus hermanos de los reinos que dividió entre ellos el rey don Fernando, su padre.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 59 (R. 25. 159 1 )."
+            },
+            {
+              "texto_cita": "«Quiso despojar del Monferrato al duque de Mantua.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 59 (R. 25. 164 2 )."
+            },
+            {
+              "texto_cita": "«De nuestra mayor mezquita | Nos despojan rigurosos.»",
+              "autor": "Cald.",
+              "referencia_obra": "La Virgen del Sagrario , 3. 8 (R. 7. 341 2 )."
+            },
+            {
+              "texto_cita": "«Luis vino á despojar á este usurpador del estado de Milán.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitán (R. 19. 258 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con acus. de la cosa quitada (poco usado).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Te enojas | Si tener ves al otro lo que es tuyo, | Y con rabia lo usurpas y despojas.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "terc. Hay un lugar (R. 42. 283 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despojar para restituír es imprudente y costosa ligereza.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 97 (R. 25. 253 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Aplicado á lo inmaterial ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchas penas tiene Dios aparejadas para los ingratos; mas la más justa y más ordinaria es despojarlos de todos los beneficios recibidos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, dom. en la noche (R. 8. 58 2 )."
+            },
+            {
+              "texto_cita": "«A cuál sirven de tumba, | Después que del vital aliento privan, | Las losas que le arrojan, | A cuál de vida y alma le despojan | En medio del camino.»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom. 7 (Obr. suelt. 19. 259)."
+            },
+            {
+              "texto_cita": "«Ya tenéis en casa, honor, | Quien la batalla os ofrece, | Y poco hará, me parece, | Cuando del alma os despoje.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio, 2. 12 (R. 5. 214 3 )."
+            },
+            {
+              "texto_cita": "«Mas la memoria | De tu asolado imperio, | Y el duro cautiverio | En que trocamos hoy la antigua gloria, | Nos despojó del regocijo y canto | Para entregarnos al afán y al llanto.»",
+              "autor": "Jáur.",
+              "referencia_obra": "paráfr. del Super flumina (R. 42. 123 2 )."
+            },
+            {
+              "texto_cita": "«Lo que más despoja | A una dama de su fama | Es publicar sus amores | El galán.»",
+              "autor": "Rojas",
+              "referencia_obra": ", D. Diego de Noche, 1 (R. 54. 213 2 )."
+            },
+            {
+              "texto_cita": "«Habrá tal vez algunos que --- querrán despojarnos de esta gloria.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Dísc. en la Soc. Econ. en 3 de Dic. 1785 (R. 50. 46 1 )."
+            },
+            {
+              "texto_cita": "«Acabaron [los príncipes austriacos de despojar al pueblo de este derecho.»",
+              "autor": "",
+              "referencia_obra": "Id. Def. de la Junta Central, 1. 1 (R. 46. 515 1 )."
+            },
+            {
+              "texto_cita": "«Así hacía muchas veces amable á la justicia, aun á aquellos mismos á quienes la justicia despojaba de sus posesiones y derechos.»",
+              "autor": "",
+              "referencia_obra": "Id. Elog. del M. de los Llan. ( R. 46. 286 2 )."
+            },
+            {
+              "texto_cita": "«Era inevitable que los más ambiciosos y osados intentasen despojar de influjo á sus compañeros.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 5. 5 (5. 312)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que ama es amado | Siempre vive temeroso; | Tal vez discurre dichoso | Cuándo será desdichado; | Tal se juzga despojado | De las dichas que merece, | Y á aborrecerlas se ofrece.»",
+              "autor": "Cald.",
+              "referencia_obra": "El secreto á voces, 1. 6 (R. 7. 414 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con suj. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pecado primeramente despoja al anima no solamente de Dios, sino también de todas las fuerzas sobrenaturales y de todas las riquezas y dones del Espíritu Santo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 5, § 1 (R. 6. 27 2 )."
+            },
+            {
+              "texto_cita": "«Todas sus viles maquinaciones [de la perversidad] no despojarán su memoria [de Antillón] del respeto que la sigue.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd. p. 178."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con acus. de la cosa quitada y dat. de pers. (poco usado).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedé siempre cautivo y sojuzgado | De tales dos estrellas, que en el cielo | Al toda la beldad han despojado.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 2 (R. 32. 302 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "For. En especial, Quitar jurídicamente la posesión de los bienes ó habitacion que uno tiene para dársela á su legítimo dueño, precediendo sentencia para ello ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Defendemos que ningún alcalde ni juez, ni persona privada no sean osados de despojar de su posesión á persona alguna, sin primeramente ser | llamado, y oído y vencido por derecho.»",
+              "autor": "",
+              "referencia_obra": "Nov . Recop. 11. 34. 2 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si por las tales cartas ó albaláes algunos fueren despojados de sus bienes por un alcalde, que los otros alcaldes de la ciudad, ó de donde acaeciere, restituyan á la parte despojada hasta tercero día.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 11. 34. 2 ( Dicc. Autor. )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "met. Quitar á una cosa lo que la cubre ó lo que común ó accidentalmente la acompaña ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cielo aoja, | Con luz triste el ameno | Verdor y hoja á hoja | Las cimas de los árboles despoja.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, Recoge ya en el seno (4. 310)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquellas despojadas | Plantas que son estériles abrojos, | Solían adornadas | De cárdenos y rojos | Ramos, lucir ante tus bellos ojos.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 1, oda 1 (5)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando la encina desta espesa breña | De sus bellotas dulces [yo] despojaba, | Que íbamos á comer sobre esta peña.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl. 2 (R. 32. 10 2 )."
+            },
+            {
+              "texto_cita": "«Había ya el segador cortado las espigas tres veces, y otras tantas despojado el hibierno los bosques de sus hojas.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 2 (145)."
+            },
+            {
+              "texto_cita": "«Ya tres veces | Ha el segador cortado las espigas, | Y tantas el hibierno ha despojado | Los verdes hosques de sus frescas hojas.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 136 1 )."
+            },
+            {
+              "texto_cita": "«Este es el aire que l a tierra enfría, | Trayendo para el crudo ministerio | Rayos de hielo que á la tierra arroja, | Con que de su hermosura la despoja.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 5 (R. 17. 588 2 )."
+            },
+            {
+              "texto_cita": "«Este escritor [Altieri] se ha propuesto despojar á la tragedia de todo lo que no es absolutamente necesario.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 478. —"
+            },
+            {
+              "texto_cita": "«Simplificó la acción despojándola de cuanto le pareció inútil en ella.»",
+              "autor": "",
+              "referencia_obra": "Id. El médico á palos , advert. (R. 2. 460). —"
+            },
+            {
+              "texto_cita": "«Dijo que por entonces no quería ni debía ir á Sevilla, hasta que hubiese despojado todas aquellas sierras de ladrones malandrines, de quien era fama que todas estaban llenas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 14 (R. 1. 283 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con las armas --- se guardan las ciudades, se aseguran los caminos, se despojan los mares de cosarios.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 38 (R. 1. 361 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al tiempo que la dulce primavera | A su primer estado reducía | El campo, de belleza espojado ---»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, égl . 4 (108)."
+            },
+            {
+              "texto_cita": "«Rivales todos en ahinco y prisa, | Ansiaban escalar el alto asiento, | Sin reparar en los pendientes lados, | De gradas y asidero despojados.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La mediana de ingenio (411)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g)",
+      "definicion": "Quitar parte de las vestiduras ó todas ellas, desnudar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de la persona ó parte que se desnuda, y de para expresar el vestido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya el cinto desceñido, | Sus miembros despojaba del vestido.»",
+              "autor": "Jáur.",
+              "referencia_obra": "silva En la espesura (R. 42. 118 1 )."
+            },
+            {
+              "texto_cita": "«Algunas [mujeres] había tan vestidas de plumas ajenas (que se precian de pelar) que si las despojaran de ellas, quedaran tan ridículas como la corneja de Horacio.»",
+              "autor": "Quev.",
+              "referencia_obra": "Casa de locos (R. 23. 353 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Desnudarse, quitarse las vestiduras ó parte de ellas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues por amor de Dios, te despojes para más diligente mi entender en mi mal, y me da algún remedio.»",
+              "autor": "Celest.",
+              "referencia_obra": "10 (R. 3. 45 1 )."
+            },
+            {
+              "texto_cita": "«Se despoja quien pretende subir un gran monte ó luchar con un valiente enemigo, para poderlo hacer con mayor facilidad y ligereza.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 3 (221)."
+            },
+            {
+              "texto_cita": "«Fui á una casa de baños: entré en una pieza donde había hasta seis ú ocho; comencé á desnudarme; entraron dos mujeres y empezaron á despojarse también: me metí en mi baño, y ellas en el suyo: ¡qué costumbres!»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 294."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otro día se despojó Feliciana de los vestidos no necesarios que traía, y se cubrió con los que le dio Auristela de peregrina.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 3. 4 (R. 1. 630 1 ). —"
+            },
+            {
+              "texto_cita": "«De las sangrientas armas se despoja.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 5 ( Obr. suelt. 2. 63)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con acus. del vestido y dat. de la persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me admira --- | Ni que allí te despojen los vestidos, | Y ese rompan divino relicario.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 5 (R. 17. 443 2 )."
+            },
+            {
+              "texto_cita": "«Parezca el que se atreve á sentencialla, | Hable, acuse, y la ropa le despoje.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 (R. 17. 435 2 )."
+            },
+            {
+              "texto_cita": "«Y en rotas piezas el arnés precioso | Le despojan con alta reverencia.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 11 ( Fern. 7. 321)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De tu orden, ¡oh Domingo! el pobre manto | A vista de la gente se despoja, | Y en el agua lo extiende el varón santo.»",
+              "autor": "",
+              "referencia_obra": "B. Argens. eleg. Domadas ya (R. 42. 330 2 )."
+            },
+            {
+              "texto_cita": "«Despojábase espacioso | La ropilla don Fernando | Por no acatarrarse.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La culpa busca la pena, 1. 11 (R. 20. 199 1 )."
+            },
+            {
+              "texto_cita": "«Si una vez la naturaleza se deja vencer dél [del vicio de avaricia], difícilmente convalece. La última túnica es que se despoja.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 54 (R. 25. 142 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h)",
+      "definicion": "met. Aplicado á lo inmaterial ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de la cosa que queda desprovista ó privada de algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por qué despojas de piedad tu pecho, | Y del humano sér tanto te alejas?»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis, 3 (189)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. de la cosa que se desecha ó de que uno se desnuda.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque muda el pelo la raposa, su natural no despoja.»",
+              "autor": "",
+              "referencia_obra": "Celest . 12 (R. 3. 53 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Desposeerse voluntariamente, renunciar de grado. Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los santos varones se despojan de sus proprias voluntades y se sujetan á la de Dios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 1. 5 (R. 8. 434 2 ) ."
+            },
+            {
+              "texto_cita": "«Dí, ¿qué quieres que haga? ¿He de formarme | de nuevo? ¿He de alquilar inclinaciones? | ¿O puedo de las mías despojarme?»",
+              "autor": "B. Argens.",
+              "referencia_obra": "sát. ¿Esos consejos das (R. 42. 301 2 ) ."
+            },
+            {
+              "texto_cita": "«Considera bien que si desta á la ajena tierra consientes que Galatea sea llevada, que te despojas del dominio que en estas riberas tienes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 76 1 )."
+            },
+            {
+              "texto_cita": "«Procuré despojarme de muchas preocupaciones que tenemos los moros contra los cristianos, y particularmente contra los españoles.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr. 1 (2. 18)."
+            },
+            {
+              "texto_cita": "«No cabe señalar un hecho más general que éste; no cabe designar un orden de ideas de que, nos sea más imposible despojarnos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Ética , 1 (363)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No se despojaron de todo el patrimonio real, sino de solo el nombre de rey.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras , 5 (172)."
+        },
+        {
+          "texto_cita": "«Todos fueron luego despojados de las armas que traian.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 123 (357)."
+        },
+        {
+          "texto_cita": "«Non puedes entrar nin verlas en ninguna manera si primero no eres despojado de las tales habitudines consuetas.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1. 8 (R. 36. 351 2 )."
+        },
+        {
+          "texto_cita": "«Lançaste é despoiaste del reino al gallico rey, que duque agora se llama.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stuñ. p. 318."
+        },
+        {
+          "texto_cita": "«Dixeron, por tal cosa que fizo debe perder la corona --- é por esta otra la espada, e por esta otra la silla; é así le despojaron del todo.»",
+          "autor": "",
+          "referencia_obra": "Crón. P. Niñ o, p. 90."
+        },
+        {
+          "texto_cita": "«Despojaronlas todas [las galeras], é mandólas poner fuego.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 67."
+        },
+        {
+          "texto_cita": "«E podrase luego despojar [el palmito] con la mano de sus cubiertas que tiene á lechos.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 10 (82). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«El que non quiere pagar, priado lo despojo.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 927 (R. 57. 256 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E así fue por la gracia de Dios e del bendito señor Santiago, cuya iglesia ellos desonrraron e despojaron, que fueron vençidos estos normandos.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 20 (252 3 )."
+        },
+        {
+          "texto_cita": "«Hizolo su señor despojar la saya e començol a ferir.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 119 (93 1 )."
+        },
+        {
+          "texto_cita": "«Se ouo a despojar aquella vestidura que vestie e echarla tendida sobre los çarçales porque estaua descalço.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 111 (83 2 )."
+        },
+        {
+          "texto_cita": "«Se despulló»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Et si fallaren quel demandado fue asi despojado ó forzado así como razonó, debe seer ante entregado de todo quantol despojaron ó le forzaron.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 10. 5 (2. 466)."
+        },
+        {
+          "texto_cita": "«Et despojóse los paños de seda que tenia, et vestiose otros paños de xergas.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 84 (1. 149)."
+        },
+        {
+          "texto_cita": "«Dezimos, que si --- el demandado dixiere contra él por defension quel, despoió de alguna cosa ---»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 352)."
+        },
+        {
+          "texto_cita": "«Pierde cuidado et despójase del mundo é estuerce del daño, é desecha sus sabores.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 17 1 )."
+        },
+        {
+          "texto_cita": "«Si algun omne quebranta monumento de muerto, ó despoja al muerto de los vestidos ó de los ornamientos que ---»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 11. 2. 1 (173)."
+        },
+        {
+          "texto_cita": "«E por ende que la eglesia que es despoiada, non pierda por atales prelados ---»",
+          "autor": "",
+          "referencia_obra": "Ib. 5. 1. 5 (80 2 )."
+        },
+        {
+          "texto_cita": "«Allegós a él Eubrasides por despoiar el cuerpo.»",
+          "autor": "Alex.",
+          "referencia_obra": "484 (R. 57. 162 2 )."
+        },
+        {
+          "texto_cita": "«Compeço a darlle guerra cuemo ombre despoiado.»",
+          "autor": "",
+          "referencia_obra": "lb . 394 (R. 57. 159 2 )."
+        },
+        {
+          "texto_cita": "«Despoiole los vestidos preciosos que vestie.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 299 (R. 57. 293 2 )."
+        },
+        {
+          "texto_cita": "«Vestir al despoiado e despoiar al vestido.»",
+          "autor": "",
+          "referencia_obra": "Ib. 134 (R. 57. 288 1 )."
+        },
+        {
+          "texto_cita": "«Tornó en su estado ond era despoiada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 699 (R. 57. 62 1 )."
+        },
+        {
+          "texto_cita": "«Fo de la prioria que tenie, despojado.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 168 (R. 57. 45 1 )."
+        },
+        {
+          "texto_cita": "«Fizoli despuiar la cogulla sin grado.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 560 (R. 57. 120 2 )."
+        },
+        {
+          "texto_cita": "«Confessose --- | Commo a la Gloriosa despoiaron la toca.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 898 (R. 57. 130 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. despojar ; cat. despullar ; prov. despolhar , despuelhar , despullar ; it. spogliare , vál. despoia : del lat. despoliare , compuesto de de , que expresa separación, privación y spoliare , denominativo de spolium , pelleja, armas y demás que se quita al enemigo muerto. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

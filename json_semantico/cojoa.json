@@ -1,0 +1,208 @@
+{
+  "lema": "COJO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que al andar se inclina más á un lado que á otro por no poder sentar igualmente ambos pies.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien es cojo, con el más mínimo traspié, da de ojos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 17 2 )."
+            },
+            {
+              "texto_cita": "«Y en Listra había un hombre lisiado de los pies, cojo desde el vientre de su madre, el cual nunca había andado.»",
+              "autor": "Scío",
+              "referencia_obra": ", Hechos apost. 14. 8."
+            },
+            {
+              "texto_cita": "«Cojo es el que se ve por su desdicha | Con una pierna larga y otra corta, | O, términos usando generales, | El que tiene las piernas desiguales.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb . 62 (448)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ciego lleva á cuestas al tullido: | Dígola maña, y caridad la niego; | Pues en ojos los pies le paga al ciego | El cojo, sólo para sí impedido.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, son. 49 (R. 69. 137 2 )."
+            },
+            {
+              "texto_cita": "«No se pára el viajero escarmentado, | Aunque á un tunante en el camino vea, | Con una pierna rota; en vano el triste | Lágrimas verterá, y",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Hablo de veras,»",
+              "autor": "",
+              "referencia_obra": "| Dirá jurando por el santo Osiris, |"
+            },
+            {
+              "texto_cita": "«¿No hay quien á aqueste cojo favorezca?»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", Hor. epíst . 1. 17 (4. 177)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se junta con de en diversos conceptos:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Para señalar la parte lisiada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se hallaba muy pesado por la edad y por haber quedado cojo de una pierna después que en Badajoz se le quebró.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 11. 16 (R. 30. 327 1 )."
+            },
+            {
+              "texto_cita": "«Era el hombre más feo y más deforme | De cuantos griegos á Ilión vinieran. | Bizco, y cojo de un pie; corvados lomos | Tenía y hacia el pecho recogidos ---»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 2 (1. 42)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Para señalar la causa ú origen de la cojera.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cojo de un balazo.»",
+              "autor": "Salvá",
+              "referencia_obra": ". Gram ."
+            },
+            {
+              "texto_cita": "«Cojo de nacimiento.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por qué te llaman coja, Dorotea? | Quién hay que tu figura | Inhiesta y firme al caminar no vea? | Pues á qué tal censura? | ¿Es porque suele tu virtud acaso | Tropezar y caer á cada paso?»",
+              "autor": "Jovell.",
+              "referencia_obra": "epigr. A una de las que en Madrid llaman cojas (R. 46. 14 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. No ser uno cojo ni manco : ser muy experimentado é inteligente en lo que le toca ( fam. ).",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión se dice del pie ó pierna lisiada de modo que obligue á andar inclinando el cuerpo más á un lado que á otro.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Arrastrando llegó su zanca coja.»",
+          "autor": "Villav.",
+          "referencia_obra": "Mosq . 8 (R. 17. 600 1 )."
+        },
+        {
+          "texto_cita": "«Oyó el mensaje el negro herrero, y brama | Porque la pierna coja entonces tenga.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. ( ib. )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Dícese de algunas cosas inanimadas, como del banco ó mesa cuando balancean á un lado ú otro por tener algún pie más corto ó por desigualdad del piso.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Dícese de otras cosas que tienen alguna falta o imperfección, como del verso mal construído, de la cláusula cuando no forma buen sentido ó queda deficiente en punto de armonía ó énfasis.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hallaríalos oscuros, | Versos inútiles, cojos, | Duros, bajos, y tan flojos | Que se caen de maduros.»",
+          "autor": "Alcázar",
+          "referencia_obra": "Diál. entre un galán y el eco (R. 32. 409 1 )."
+        },
+        {
+          "texto_cita": "«Si deste refrán ---",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Del monte sale quien el monte quema,»",
+          "autor": "Valdés",
+          "referencia_obra": ", Diál . (Mayans, 120). —"
+        },
+        {
+          "texto_cita": "«¡Oh natura, cuán pocas obras cojas | En el mundo son hechas por tu mano!»",
+          "autor": "Garcil.",
+          "referencia_obra": "égl . 2 (R. 32.7 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E firieronlo en la pierna derecha de que quedó coxo.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 145. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Defiende la oueja | Y la coxa cabrilla.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 672 (R. 57. 371 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Es pie de todo cojo que non puede andar en buenas obras para alcanzar buena fin.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 63 (R. 51. 191 1 )."
+        },
+        {
+          "texto_cita": "«A quien crebantaren pierna, ol fazen dela seer coxo, reciba una libra doro por emienda.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 6. 4. 3 (109)."
+        },
+        {
+          "texto_cita": "«Los mancos e los coxos sanos fueron tornados.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill . 316 (R. 57. 74 2 )."
+        },
+        {
+          "texto_cita": "«Fue luego empleado en pobres el aver, | En coyxos e en mancos que lo avien mester.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 278 (R. 57. 73 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. coxo ; cat. , val. coix ; mall. c ox: del lat. bajo coxus , derivado de coxa , muslo. Hasta principios de este siglo se escribía también en cast. coxo . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

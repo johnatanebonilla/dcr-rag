@@ -1,0 +1,94 @@
+{
+  "lema": "ASESORAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar consejo ó manifestar su dictamen el letrado asesor ( trans .). Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "El part. se dice, según el Dicc. Autor. 2 , del juez que provee con asesor y de lo así proveído:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Juez asesorado, auto asesorado, sentencia asesorada.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . Tomar asesor para proveer y sentenciar con su acuerdo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con con , para denotar la persona que se toma como asesor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Perpleja la Suprema Regencia, y comprometida ya en este negocio, resolvió asesorarse con el Consejo reunido.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 2. 3 (R. 46. 566 2 )."
+            },
+            {
+              "texto_cita": "«Para los distritos nombrará el comandante de la provincia --- un abogado íntegro y hábil de los establecidos en el pueblo, con quien el ayudante respectivo pueda asesorarse para las providencias y actuaciones que se ofrecieren.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop . 6. 7. 3 (2. 432)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , en igual sentido.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asesorarse de letrados, de un abogado.»",
+              "autor": "Acad.",
+              "referencia_obra": "Salvá , Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este, asesorado de otros sin duda más perversos que él, dio á aquella causa una dirección que nadie sospecharía en los que tanto declamaban antes contra la lentitud de los juicios y la impunidad de los delitos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland , 7 (R. 19. 567 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión, Dar consejo ó ilustrar con su parecer una persona á otra. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Refl . Tomar consejo una persona de otra, ó ilustrarse con su parecer. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á , que se ha embebido en la voz siguiente, y asesor . Cp. asociar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

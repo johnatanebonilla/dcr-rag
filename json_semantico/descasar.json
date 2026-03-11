@@ -1,0 +1,206 @@
+{
+  "lema": "DESCASAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Separar, declarando nulo el matrimonio, á los que viven como casados ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque luégo | Te case con él tu padre, | Yo á descasarte me atrevo; | Porque este novio es un macho, | Y hace nulo el matrimonio.»",
+              "autor": "Mto.",
+              "referencia_obra": "El lindo D. Diego , 1. 13 (R. 39. 357 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando estuviera casado | Por poder en casa propia, | Me pudiera descasar. | La ley es llana y notoria.»",
+              "autor": "Lope",
+              "referencia_obra": ", La dama boba, 1. 18 (R. 24. 303 3 )."
+            },
+            {
+              "texto_cita": "«Yo no te digo, | Muñoz, que busquemos medios | De descasarme: no tal.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña , 2. 1 (R. 2. 343 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el cónyuge de que otro se aparta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Decía que si él podía descasarse de la reina Catalina, como se lo había aconsejado el cardenal, también podía casarse con una mujer de su reino.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 1. 9 (R. 60. 194 2 )."
+            },
+            {
+              "texto_cita": "«Como se ve en esta historia en el consejo que dio el cardenal Volseo al rey Enrique, que se descasase de la reina doña Catalina.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1, advert . (R. 60. 184)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En sentido menos estricto, Divorciar, desbaratar ó impedir el matrimonio ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descasaba las casadas, casaba las que ella quería.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col (R. 1. 237 2 )."
+            },
+            {
+              "texto_cita": "«Yo no descaso á nadie, antes hago que se casen todos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 348 1 )."
+            },
+            {
+              "texto_cita": "«Pero quien sale á las doce | De la noche de su casa, | Pues me descasa y se casa, | Por muchos años la goce.»",
+              "autor": "Lope",
+              "referencia_obra": ", El desprecio agradecido , 2. 1 (R. 34. 257 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entra un casado en un monasterio, y como ve á los religiosos --- dice --- que querría descasarse y meterse allí.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Ven. Esp. Santo , 5 (2. 364)."
+            },
+            {
+              "texto_cita": "«Donde mayores voces tuvimos, que casi me quise descasar, fue sobre los autos del Corpus.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 346 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bendito sea Dios, que se me ha cumplido el deseo que tenía de verme ante la presencia de vuestra merced, á quien suplico, cuan encarecidamente puedo, sea servido de descasarme de éste.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El juez de los divorcios ( Com . 1. 190)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por desposarse conmigo, | De mí misma se descasa.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La celosa de sí misma , 2. 9 (R. 5. 140 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión, Separar temporalmente á un cónyuge de otro ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué causa hubiera | Que en Portugal, señor, me detuviera | En aquesta ocasión? — ¿No estáis casado? | — Sí, señor --- | — ¿Cómo, recién casada, | Quedará vuestra esposa? — Muy honrada | En ver que os ha ofrecido | A esta empresa un soldado en su marido --- | Y no es inconveniente á mi deseo | El ausentarme della. — Así lo creo; | Que yo lo dije porque no era justo | Descasaros tan presto.»",
+              "autor": "Cald.",
+              "referencia_obra": "A secreto agravio secreta venganza, 3. 5 (R. 7. 606 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni yo quiero descasar á nadie de su mujer, y así podrá cada uno irse á comer con la suya.»",
+              "autor": "Palma",
+              "referencia_obra": ", Vida de G. de la Palma , p. 39."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Apartar de lo que se ama ó sostiene con vehemencia ( trans .). Con de .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y la tercera [maravilla es], sin forzar lo que es libre, desaficionarle y descasarle de lo que perdidamente ama.»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job , 37 (2. 238)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Turbar el orden ó la armonía que á la vista resulta de cierta colocación de los objetos ( trans .). Acad. Dicc.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Descasarse las flores en una estofa.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Impr. Alterar la colocación de las planas que componen una forma ó pliego, para ordenarlas debidamente ( trans .). Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Descasar a otro matrimonium soluo .»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab. — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Avie en essi varrio una bibda lazdrada | De xxx e dos annos que era descasada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Laur. 51 (R. 57. 91 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y casar . Port., cat. descasar ; el prov. descazar y el it. scasare , desalojar, expulsar, no corresponden al sentido de nuestro casar . Véase este verbo. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

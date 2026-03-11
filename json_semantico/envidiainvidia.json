@@ -1,0 +1,411 @@
+{
+  "lema": "ENVIDIA (INVIDIA).",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Sentimiento de pesar por un bien ajeno que se desea para sí.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vinc, en fin, donde el duque Ricardo estaba, fui dél tan bien recebido y tratado, que desde luego comenzó la envidia a hacer su oficio, teniéndomela los criados antiguos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 24 (R. 1. 310 2 )."
+            },
+            {
+              "texto_cita": "«De su desgracia y desventura yo solo tengo la culpa: de la invidia que me tienen los malos ha nacido su mala andanza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 11 (R. 1. 425 1 )."
+            },
+            {
+              "texto_cita": "«La envidia | Escucha siempre triste, | Y de la ajena gloria se fastidia.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo, 6 ( Obr. suelt . 1. 125)."
+            },
+            {
+              "texto_cita": "«Favoreciéronme demasiado, y con esto creció la invidia entre los demás niños.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 2 (R. 23. 487 1 )."
+            },
+            {
+              "texto_cita": "«Dos príncipes tan bizarros, | Que aun los alaba la invidia.»",
+              "autor": "Mto.",
+              "referencia_obra": "El desdén con el desdén, 1. 1 (R. 39. 1 2 )."
+            },
+            {
+              "texto_cita": "«¿Me tienes miedo? | — Miedo no, envidia sí, pues me has vencido.»",
+              "autor": "",
+              "referencia_obra": "Id. El valiente justiciero, 3. 10 (R. 39. 347 2 ). +"
+            },
+            {
+              "texto_cita": "«No me incita o mueve a invidia, | No rencor ni odio inhumano, | Ni es propio interese mío, | Ni desear ser vengado.»",
+              "autor": "",
+              "referencia_obra": "Romanc . 553 (R. 10. 380 1 )."
+            },
+            {
+              "texto_cita": "«La envidia le persiguió, como acostumbra, por los medios más viles.»",
+              "autor": "Mor.",
+              "referencia_obra": "Vida de N. Mor . (R. 2. XIX ). X"
+            },
+            {
+              "texto_cita": "«Y de esta madre el dulce y tierno llanto | A la diestra de Dios la hará subir, | Y tal será su suavidad y encanto, | Que en su alta gloria al serafín más santo | De envidia hará gemir.»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 202. X"
+            },
+            {
+              "texto_cita": "«Tienes las prendas todas de un tirano: | Venganza, envidia, vanidad, doblez. | Eres falso y crüel, porque eres vano.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 214. X"
+            },
+            {
+              "texto_cita": "«El celo republicano, la lógica política, la estrictez de concepto para juzgar al Padre, los errores de éste, la rectitud de unos, la ambición, la envidia, la flaqueza, la ingratitud característica del animal humano, acertaron con el sitio vulnerable del nuevo Aquiles: su reputación y su amor a la libertad .»",
+              "autor": "G. Valencia",
+              "referencia_obra": ", Discursos, 1 (p. 63). X"
+            },
+            {
+              "texto_cita": "«El egoísmo, la desconfianza, la incomprensión, la suspicacia, la rivalidad y la envidia hicieron fracasar entonces los planes de Bolívar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1 (p. 82). X"
+            },
+            {
+              "texto_cita": "«Mejor tú no hables —dijo Rubén—; ¿no ves que la envidia te corroe?»",
+              "autor": "Vargas Llosa",
+              "referencia_obra": ", Día domingo, p. 129."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un compl. determinado con de, para indicar el sujeto en quien se produce el sentimiento de pesar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Halló menos su rucio --- ¡Oh hijo de mis entrañas, nacido en mi mesma casa, brinco de mis ojos, regalo de mi mujer, envidia de mis vecinos!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 23 (R. 1. 306 2 )."
+            },
+            {
+              "texto_cita": "«Yo voy encantado en esta jaula por envidia y fraude de malos encantadores.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 47 (R. 1. 388 1 ). X"
+            },
+            {
+              "texto_cita": "«Dios sabe hasta dónde pudo la envidia indefinida y popular influir para que la envidia personal y determinada del piloto prevaleciese sobre los derechos de Colón.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 4 (p. 238)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A ti, clavel ardiente, | Envidia de la llama y de la aurora, | Miró al nacer más blandamente Flora.»",
+              "autor": "Rioja",
+              "referencia_obra": ", silva 2 (R. 32. 381 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con a, para indicar la persona o cosa que produce el sentimiento de pesar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La envidia que algún mal encantador debe de tener a mis cosas, todas las que me han de dar gusto, trueca y vuelve en diferentes figuras que ellas tienen.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 8 (R. 1. 419 2 )."
+            },
+            {
+              "texto_cita": "«Ninguna cosa alborota más a los vasallos que el robo y soborno de los ministros, porque se irritan con los daños propios, con las injusticias comunes, con la invidia a los que se enriquecen, y con el odio al príncipe que no lo remedia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 53 (R. 25. 142 1 )."
+            },
+            {
+              "texto_cita": "«Es claro que tenía mucha parte en ello la envidia al favor y privanza de que por entonces disfrutaba don Beltrán de la Cueva.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr . 3 ( Mem. Acad. Hist . 6. 120)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En el siguiente texto lleva además un compl. con de para indicar el sujeto en quien se produce el sentimiento de pesar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otras veces es invidia de unos ministros a otros por la excelencia de las calidades del ánimo, procurando que no estén en puesto donde puedan lucir.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 75 (R. 25. 207 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de, para indicar la persona u objeto que produce el pesar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No socorres a tu pobreza teniendo invidia de la felicidad ajena; sino antes la acrecientas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 2. 7 (R. 6. 132 2 )."
+            },
+            {
+              "texto_cita": "«Ningún contrario tienen contra sí los príncipes tan grande, como el propio vasallo que quiere más la victoria para el enemigo que para su general, movido de envidia de su acierto.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 135 2 ). X"
+            },
+            {
+              "texto_cita": "«¡Luzbel, no me tienes...! ¡tu orgullo estupendo | No venga a asociarnos jamás a los dos...! | ¡Aparta, maldito! ¡que a veces comprendo | Tu inmenso pecado, tu envidia de Dios!»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 188. X"
+            },
+            {
+              "texto_cita": "«La envidia de la virtud | Hizo a Caín criminal | ¡Gloria a Caín! Hoy el vicio | Es lo que se envidia más.»",
+              "autor": "Machado",
+              "referencia_obra": ", Poesías completas, p. 161."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En plural.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No estuve libre de trabajos y algunas envidias que tenían algunas personas del mucho amor que aquella señora me tenía.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Vida, 34 (R. 53. 104 1 )."
+            },
+            {
+              "texto_cita": "«Hable más de tu olor y de tu fuego | Aquel a quien envidias de favores | No alteran el sosiego.»",
+              "autor": "Rioja",
+              "referencia_obra": ", silva 2 (R. 32. 382 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con hacia, para indicar lo mismo que en el caso anterior. En el siguiente ejemplo lleva además un compl. con de, para indicar la persona en quien se produce el sentimiento. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero esta envidia del menos acomodado hacia el más acomodado es siempre menos grande, y su dolor menos angustioso que el de los matrimonios sin hijos que envidian a los matrimonios fecundos.»",
+              "autor": "Marañón",
+              "referencia_obra": ", Tiempo viejo, p. 62."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Emulación, deseo honesto del bien ajeno.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si veía alguna [monja] tener lágrimas cuando rezaba, o otras virtudes, habíala mucha envidia.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 3 (R. 53. 26 2 )."
+            },
+            {
+              "texto_cita": "«Yo veía a todas tener aquel mal: a mí hacíame gran envidia su paciencia.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5 (R. 53. 29 2 ). +"
+            },
+            {
+              "texto_cita": "«Y ansí me acaese que cuando en las vidas de los santos leemos que convirtieron demás, mucha más devoción me hace y más ternura y más envidia que todos los mártires que padecen.»",
+              "autor": "Rioja",
+              "referencia_obra": ", silva 9 (R. 32. 384 2 )."
+            },
+            {
+              "texto_cita": "«¡Rara constancia o predominio sobre sus pasiones, y digno siempre de envidia un corazón donde caben los agravios sin estorbar el sufrimiento!»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 7 (R. 28. 313 2 ). X"
+            },
+            {
+              "texto_cita": "«Se ponen a comer con un apetito que da envidia.»",
+              "autor": "A. Reyes",
+              "referencia_obra": ", Poema del Cid (ed. 1938, p. 95)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Suele calificarse de \"santa\".",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He sentido también que me llame invidioso, y que, como a ignorante, me describa qué cosa sea la invidia, que, en realidad de verdad, de dos que hay, yo no conozco sino a la santa, a la noble y bien intencionada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2, pról . (R. 1. 404)."
+            },
+            {
+              "texto_cita": "«Por haber estado el Arca del Testamento tres meses en casa de Obededón, llenó Dios a él y a sus cosas de tan grandes bienes, que David con santa envidia quiso traer el Arca a su casa, para que Dios la echase su bendición.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 12 (1. 323)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con a , para indicar la persona o cosa que produce la emulación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la verdad está hoy tal esta triste república, que toda persona sabia sin comparación terná más invidia a la guerra de África, que a la paz de Roma.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 117). +"
+            },
+            {
+              "texto_cita": "«Me dicen que no haces sino suspirar por las cosas que dejaste en el siglo y no tienes envidia sino a los que están en el mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. Oratorio , 2 (p. 465). +"
+            },
+            {
+              "texto_cita": "«Había gran envidia a los que podían por amor de Nuestro Señor emplearse en esto, aunque pasasen mil muertes.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 1 (Cl. C. 115. 108)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las variantes enbidia, embida, enveia, invidia. ) . Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pero ruégote, Parmeno, la envidia de Sempronio, que en esto me sirva y complace, no ponga impedimento en el remedio de mi vida; que si para él hubo jubón, para ti no faltará sayo.»",
+          "autor": "",
+          "referencia_obra": "Celest . 1 (R. 3. 11 2 )."
+        },
+        {
+          "texto_cita": "«Tovo asimismo muchos contrarios de los que la envidia de los bienes suele criar.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 6 (56)."
+        },
+        {
+          "texto_cita": "«De mostrarse los reyes aficionados sin templanza, e no a quien, ni como, ni por lo que deben ser, nascen muchas veces las envidias, do se siguen las desobediencias.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1 (9)."
+        },
+        {
+          "texto_cita": "«La cobdicia del mandar e la envidia que avía de aquellas que veía más cerca del rey, le cegaba assí el entendimiento.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 16 (49). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Enbidia es un pecado que muchos males ha.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 93 (R. 57. 428¹)."
+        },
+        {
+          "texto_cita": "«Non deben [los monteros] tomar cobdicia a facer suelta arrebatada, nin haber envidia unos de otros para tañer de rastro et llamarse, como dicho es.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 9 ( Bibl . venat . 1. 41)."
+        },
+        {
+          "texto_cita": "«Quería muy grant mal a la infanta doña Costanza, su hermana, segund oí decir, por grant envidia que había della.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Tract sobre las armas (R. 51. 260¹)."
+        },
+        {
+          "texto_cita": "«Yo le faré tanto bien que él et los que bien le quieren tomen ende placer, et los que non le amaren tomen ende envidia.»",
+          "autor": "",
+          "referencia_obra": "Id. Libro de los est . 1. 21 (R. 51. 290¹)."
+        },
+        {
+          "texto_cita": "«E non fagades cosas por que vos ayan envidia.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 63)."
+        },
+        {
+          "texto_cita": "«Guárdate de la invidia y del envidioso.»",
+          "autor": "",
+          "referencia_obra": "Ib . (Knust, 30)."
+        },
+        {
+          "texto_cita": "«Las cosas deste sieglo son tan pocas que non deve aver omne envidia ni mal talente.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, 26). +"
+        },
+        {
+          "texto_cita": "«Aquel es sesudo el que non ha enbidia a ninguno.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 158 (p. 342). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Envida non es otra cosa sinon dolor o tristeza del bien que otro ha, porque lo non meresce haber.»",
+          "autor": "",
+          "referencia_obra": "Cast. e docum . 67 (R. 51. 195 2 )."
+        },
+        {
+          "texto_cita": "«Buena envidia es cuando home vee un home que es buen partidor de lo que ha, en pugnar en semejalle.»",
+          "autor": "",
+          "referencia_obra": "Ib . 24 (R. 51. 141 1 )."
+        },
+        {
+          "texto_cita": "«E con grand enbidia que auie de la muy buena nonbradía de Trajano, el enperador ---. »",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 120 (95¹)."
+        },
+        {
+          "texto_cita": "«E si lo dixere con falsedad o por enbidia ---, reciba aquela pena en sí mismo.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 6. 1. 6 (103; *enveia, invidia)."
+        },
+        {
+          "texto_cita": "«Nengún omne por enveia nen por arte del diablo non osme de venir contra ellos en nenguna cosa.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb . 18 ( XIV , *invidia, embida, envidia)."
+        },
+        {
+          "texto_cita": "«Deben seer --- muy sofridos para non se rebatar nin mover por palabras soberbias et desmesuradas que los homes dicen, nin por los desamores nin por las invidias que han entre sí.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 9. 28 (2. 84)."
+        },
+        {
+          "texto_cita": "«Et cuando vio Dymna que el león se apartaba con Senceba sin él, e sin la otra compaña, pesóle et ovo ende grand envidia.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 23 1 )."
+        },
+        {
+          "texto_cita": "«Non ove envidia de mis iguales, nin de los que habían más haber que yo.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 15 1 )."
+        },
+        {
+          "texto_cita": "«Se ha de guardar omne --- de la envidia de sus amigos e del enganno de sus enemigos.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 10 (Knust, 146)."
+        },
+        {
+          "texto_cita": "«A las naues auían e los uientos enuidia. »",
+          "autor": "",
+          "referencia_obra": "Alex . 2139 (R. 57. 213 1 )."
+        },
+        {
+          "texto_cita": "«Ca de mí embidia o tu muerte querrie --- | Rey, non fíes dél, ca fe non te ternie.»",
+          "autor": "",
+          "referencia_obra": "Ib . 864 (R. 57. 174 1 )."
+        },
+        {
+          "texto_cita": "«Matólo por envidia commo grant traydor.»",
+          "autor": "Berc.",
+          "referencia_obra": "Sacrif . 199 (R. 57. 86 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. invidia, derivado de invidere 'ver con malos ojos'. Se trata de un semicultismo, ya que en castellano debiera haber dado * ( e ) mea (cfr. DCEC sb. voc. Ver ). Fr. envie , it. invidia , cat. enveja , port. enveja o inveja , gall. envexa . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

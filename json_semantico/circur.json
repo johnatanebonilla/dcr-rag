@@ -1,0 +1,86 @@
+{
+  "lema": "CIRCUÍR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Recorrer el contorno de una cosa ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De creer es que será mayor camino y de más leguas que el que tiene la linia equinocial en su circunferencia toda, ó el que tiene la linia del diámetro de polo á polo, circuyendo la esfera, que según opinión son seis mil leguas.»",
+          "autor": "Oviedo",
+          "referencia_obra": ", Hist. de Indias , 21. 11 (2. 151)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Rodear, estar ó extenderse en todo el contorno de un objeto ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El fuego circuye al aire, el aire al agua, y el agua circuía á la tierra.»",
+              "autor": "",
+              "referencia_obra": "Cervellón, Retrato político , 4, § 4 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Comunícanse ambas partes de la ciudad por un hermoso puente de piedra, y la circuía un muro antiguo.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 10 (R. 64. 215 2 )."
+            },
+            {
+              "texto_cita": "«Conferenciaron con Sanz los recién venidos, resolviendo sin dilación circuír la plaza más estrechamente de lo que estaba.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 24 (R. 64. 505 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . Con de , para expresar lo que está al rededor de algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«También lo fue tu padre, en quien de estrellas | Contempló circuída el alma santa.»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Las mocedades del Cid , 2ª. pte . 1 (R. 43. 262 3 )."
+            },
+            {
+              "texto_cita": "«Allí yace escondida | La deliciosa, la buscada vega | De rocas circuída, | Cuya empinada cumbre al cielo llega.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Poes. suelt . (407)."
+            },
+            {
+              "texto_cita": "«Cuando nos hallamos sobre un terreno elevado, circuído de insondables abismos, nos complacemos en dar vueltas por la circunferencia, mirando la inmensa profundidad que hay bajo nuestros pies.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. fund . 3. 12 (1. 428)."
+            },
+            {
+              "texto_cita": "«Encuentra al hombre que buscaba... circuído de viles rufianes, de rameras disolutas y de infames asesinos.»",
+              "autor": "",
+              "referencia_obra": "A. Durán (R. 5. 722 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., fr. circuir ; it. circuire: del lat. circuire , circumire , compuesto de circum , en rededor, é ire , ir.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: circuy-o , es , e , en; circuy-a , as , a , amos , áis , an; circuye tú . En otras inflexiones en que aparece la y , ésta no se ha agregado como arriba, sino representa la i inacentuada de part-ió , part-iera = circu-yó , circu-yera . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

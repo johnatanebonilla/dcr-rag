@@ -1,0 +1,342 @@
+{
+  "lema": "ALBERGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar albergue ú hospedaje ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo salí de mi patria á buscar en reinos extraños quien me albergase y recogiese.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 63 (R. 1. 540 2 )."
+            },
+            {
+              "texto_cita": "«En la marina hallé unos pescadores que benignamente me recogieron y albergaron.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 1. 13 (R. 1. 578 2 )."
+            },
+            {
+              "texto_cita": "«Acordó de enviar á su hermano Pauliniano á la patria y tierra, para que vendiese las miserables reliquias de las villas y propios heredamientos que habían escapado de la furia gótica, para con el precio acabar el monasterio que había comenzado, y ensancharle para albergar la gente devota que le venía buscando.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 8 (480)."
+            },
+            {
+              "texto_cita": "«¡Que un hombre de bien no tenga | Cama siquiera en su Patria, | Que tanto extranjero alberga!»",
+              "autor": "Lope",
+              "referencia_obra": ", Servir á señor discreto , 2. 14 (R. 52. 82 3 )."
+            },
+            {
+              "texto_cita": "«Ave funesta | E ingrata, que al mismo dueño | Que la regala y alberga | Saca los ojos, después | Que la crió.»",
+              "autor": "Cald.",
+              "referencia_obra": "Saber del mal y del bien , 3. 5 (R. 7. 33 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Tomar albergue.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos tendremos parte y gozaremos deste dinero: los pobres albergándose, y yo viéndolos socorridos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Tomás de Villan . 3 (R. 48. 63 1 )."
+            },
+            {
+              "texto_cita": "«Una hermosa quinta tengo | Donde podéis albergaros.»",
+              "autor": "",
+              "referencia_obra": "CaId. Argenis y Poliarco , 1. 3 (R. 7. 437 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar lo que sirve de albergue.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En estas y otras pláticas se les pasó aquel día, y á la noche se albergaron en una pequeña aldea»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 22 (R. 1. 450 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué mucho, pues, que tembléis, | Teresa, aunque el propio Dios | Sintáis que se albergue en vos, | Diciendo que no dudéis?»",
+              "autor": "Jáur.",
+              "referencia_obra": "redond. Tanto se levanta (R. 42. 131 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aparece á veces como sujeto el nombre mismo del lugar ú objeto que da albergue.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Otros los [troncos] de las palmas ocuparon, | De los mirtos y hiedras, y los robles | También varios poetas albergaron.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Viaje , 3 (R. 1. 687 2 )."
+        },
+        {
+          "texto_cita": "«Son casas que albergan | Hombres ricos montañeses.»",
+          "autor": "Lope",
+          "referencia_obra": ", Los Tellos de Meneses , 1. 10 (R. 24. 515 1 )."
+        },
+        {
+          "texto_cita": "«Betzaida y Corazaín, | --- En sus desiertos me albergan.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", El Anticristo , 1 (R. 20. 359 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sepa el corazón humano el veneno que alberga para que despida tan alevoso huésped.»",
+              "autor": "Quev.",
+              "referencia_obra": "Job (R. 48. 220 1 )."
+            },
+            {
+              "texto_cita": "«Se prevalió diestramente del odio que en su pecho albergaba contra los zegríes.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1. 23 (4. 266)."
+            },
+            {
+              "texto_cita": "«¿Te figuras que mi pecho alberga | Un corazón indiferente y frío?»",
+              "autor": "Hartz.",
+              "referencia_obra": "Primero yo , 1. 8 (94)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Huye de aquí, profano, tú que llevas | De mundanas pasiones lleno el pecho, | Huye de esta morada, do se albergan | Con la virtud humilde y silenciosa | Sus escogidos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Poes. Fabio á Anfriso (R. 46. 42 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Albérgase en el corazón del hombre un sentimiento de noble independencia, que no le consiente sujetarse á la voluntad de otro hombre.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 16 (1. 236)."
+            },
+            {
+              "texto_cita": "«El tedio, la tristeza, las manías, los aciagos presentimientos no se albergan en su alma, porque no saben por dónde entrar.»",
+              "autor": "",
+              "referencia_obra": "Id. Filosof. elem. ética , 15 (404)."
+            },
+            {
+              "texto_cita": "«En excelso alcázar | Mal un secreto se alberga.»",
+              "autor": "Gallego",
+              "referencia_obra": ", Poes. El conde de Saldaña (R. 67. 423 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Como en otros casos, se usa también aquí la constr. intrans. en lugar de la refl. esto es, albergar por albergarse . Dícese tanto en el sentido propio como en el figurado; pero hoy no tiene uso sino en éste, y rara vez.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estas manos te sacarán el corazón donde albergan y tienen manida todas las maldades juntas.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 23 (R. 1. 309 1 )."
+        },
+        {
+          "texto_cita": "«Quedó Auristela vengada, como si en su generoso pecho albergara género de venganza alguno, así como albergaba en el de la Cenotia.»",
+          "autor": "",
+          "referencia_obra": "Id. Pers . 2. 10 (R. 1. 603 2 )."
+        },
+        {
+          "texto_cita": "«Si piesa que albergar pueden las ciencias | Sino con faldas largas y barbazas ---»",
+          "autor": "L. Argens.",
+          "referencia_obra": "epíst. Obediente respondo (R. 42. 275 2 )."
+        },
+        {
+          "texto_cita": "«Hacer podrás de tu veneno empleo | Turbando el pecho que mis obras culpa, | Que en mí no alberga de tu fuego indicio.»",
+          "autor": "Jáur.",
+          "referencia_obra": "son . 8 (R. 42. 105 1 )"
+        },
+        {
+          "texto_cita": "«¡Que tal orgullo en una ninfa albergue!»",
+          "autor": "",
+          "referencia_obra": "Id. Aminta , 3 (R. 42. 142 2 )."
+        },
+        {
+          "texto_cita": "«Primero y último amor | Es el que en mi pecho alberga.»",
+          "autor": "Mor.",
+          "referencia_obra": "El viejo y la niña , 3. 12 (R. 2. 353 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Muy açerca del infante | Vna noche aluengaron.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 779 (R 57. 500 2 )"
+        },
+        {
+          "texto_cita": "«El llegó fasta Quintana Dueñas, é commo iva doliente de la cuartana é avia ese dia cicion, non pudo ir mas é ovo de fincar y é albergar y esa noche.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 17 (R. 66. 166 2 )."
+        },
+        {
+          "texto_cita": "«Dijéronle --- que ante que él al Andalucía viniese, que non osara albergar tres noches en tierra de cristianos toda la caballeria que avia el rey de Granada.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2 (R. 66. 106 2 )."
+        },
+        {
+          "texto_cita": "«E conmigo yrás allá a mi posada, | Adonde serás bien aduergada.»",
+          "autor": "",
+          "referencia_obra": "Revel. de un hermit . (R. 57. 388 1 )."
+        },
+        {
+          "texto_cita": "«Les deben facer [a los falcones] de noche albergar en portal do les dé el aire.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caza , 9 ( Bibl. venat. 3. 80)."
+        },
+        {
+          "texto_cita": "«Le deben guardar [al falcon] que non albergue de noche al sereno.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 8 ( Bibl. venat. 3. 58)."
+        },
+        {
+          "texto_cita": "«Debenlos dejar [a los falcones] así andar et albergar cada noche do quisieren.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 4 ( Bibl. venat. 3. 32)."
+        },
+        {
+          "texto_cita": "«Los buhos, porque es su costumbre de andar de noche, et de dia están escondidos en cuevas que son muy malas de fallar, venian de noche á los arboles de los cuervos donde albergaban.»",
+          "autor": "",
+          "referencia_obra": "Id. C. Luc . 35 (R. 51. 386 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Nunca en lugar del mundo posaban, que non facian mal á los que los albergaban.»",
+          "autor": "",
+          "referencia_obra": "Conq. de Ultr . 1. 45 (R. 44. 24 1 )."
+        },
+        {
+          "texto_cita": "«Et otrosi que vayan todavia por el camino mayor et mas derecho et non fuera dél, de guisa que en él mesmo alverguen si la noche no les tomase en poblado.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 31. 3 (2. 338)."
+        },
+        {
+          "texto_cita": "«Esto mesmo del camarero, que ha así nombre porque debe guardar la cámara ó el rey alberga.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 9. 12 (2. 69)."
+        },
+        {
+          "texto_cita": "«Deben [los pelegrinos] siempre alvergar temprano quando podieren.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 24. 2 (1. 498)."
+        },
+        {
+          "texto_cita": "«Defendemos que ninguno non les faga fuerza nin tuerto nin mal alguno, mas sin ningun enpiezo alberguen seguramiente quando quisieren, e ó quisieren, atanto que sean logares de albergar.»",
+          "autor": "Fuero",
+          "referencia_obra": "real , 4. 13. 1 ( O. L. 2. 160)."
+        },
+        {
+          "texto_cita": "«Alberga conmigo esta noche.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 27 1 )."
+        },
+        {
+          "texto_cita": "«Lo que meior te ueo te quiero aconseiar: | Por nada non uayas entrellos albergar; | Manda las tus tiendas çerca de mi sentar.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1528 (R. 57. 194 2 )."
+        },
+        {
+          "texto_cita": "«Proserpina me dizen, de Febos soe hermana, | Sin este he dos nombres Minerua e Diana; | Yo aluergo la noche e adugo la mannana.»",
+          "autor": "",
+          "referencia_obra": "Ib . 349 (R. 57. 158 1 )."
+        },
+        {
+          "texto_cita": "«Sol nol uenia emiente en qual logal estaua, | Nen que en emperio ageno essa noche aluergaua.»",
+          "autor": "",
+          "referencia_obra": "Ib . 276 (R. 57. 156 1 )."
+        },
+        {
+          "texto_cita": "«Nin en çiudat nin en burgo non serás albergado.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 70 (R. 57. 285 2 )."
+        },
+        {
+          "texto_cita": "«Por qual cueta que era vinie desaborgado, | Demandó al conviento quando fue albergado, | Bien gelo entendieron, que non vinie pagado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 131 (R. 57. 44 1 )."
+        },
+        {
+          "texto_cita": "«Quando plegadas fueron las yentes renegadas, | Podrien seer a duro quantas eran contadas: | Tenien una grant tierra quant eran alvergadas, | Del un cabo al otro tenien leguas dobladas.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 410 (R. 57. 77 2 )."
+        },
+        {
+          "texto_cita": "«Sso vn arbol fue albergada; | Alli priso posada.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egipc . (R. 57. 312 2 )."
+        },
+        {
+          "texto_cita": "«Es hora de aluergar. | En mi casa aluergaremos, | E cras como quisieres partiremos.»",
+          "autor": "",
+          "referencia_obra": "Reyes de Or . (R. 57. 320 1 )."
+        },
+        {
+          "texto_cita": "«Vinieron a Santesteuan de Gormaz vn castiello tan fuert; | Hy albergaron por verdat vna noch.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2843 (R. 57. 30 2 )."
+        },
+        {
+          "texto_cita": "«Cogida han la tienda do albergaron de noch.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2706 (R. 57. 29 1 )."
+        },
+        {
+          "texto_cita": "«Entre Fariza e Çetina Myo Çid yua albergar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 547 (R. 57. 8 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de albergue . Port., cat. albergar ; prov. alberguar ; it. albergare ; fr. héberger . En ant. al. heribërgôn , acampar, albergar, de heribërga , herbërga , campamento, posada, comp. de heri , hari , gót. harjis , ejército, multitud, y bërgan , gót. baírgan , circuír, asegurar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "constr. intrans. en lugar de la refl. esto es, albergar por albergarse . Dícese tanto en el sentido propio como en el figurado; pero hoy no tiene uso sino en éste, y rara vez. «Estas manos te sacarán el corazón donde albergan y tienen manida todas las maldades juntas.» Cerv. Quij . 1. 23 (R. 1. 309 1 ). «Quedó Auristela vengada, como si en su generoso pecho albergara género de venganza alguno, así como albergaba en el de la Cenotia.» Id. Pers . 2. 10 (R. 1. 603 2 ). «Si piesa que albergar pueden las ciencias | Sino con faldas largas y barbazas ---» L. Argens. epíst. Obediente respondo (R. 42. 275 2 ). «Hacer podrás de tu veneno empleo | Turbando el pecho que mis obras culpa, | Que en mí no alberga de tu fuego indicio.» Jáur. son . 8 (R. 42. 105 1 ) «¡Que tal orgullo en una ninfa albergue!» Id. Aminta , 3 (R. 42. 142 2 ). «Primero y último amor | Es el que en mi pecho alberga.» Mor. El viejo y la niña , 3. 12 (R. 2. 353 3 ). Per. antecl. — Siglo XIV : «Muy açerca del infante | Vna noche aluengaron.» Alf. XI , 779 (R 57. 500 2 ) «El llegó fasta Quintana Dueñas, é commo iva doliente de la cuartana é avia ese dia cicion, non pudo ir mas é ovo de fincar y é albergar y esa noche.» Crón. Fern. IV , 17 (R. 66. 166 2 ). «Dijéronle --- que ante que él al Andalucía viniese, que non osara albergar tres noches en tierra de cristianos toda la caballeria que avia el rey de Granada.» Ib . 2 (R. 66. 106 2 ). «E conmigo yrás allá a mi posada, | Adonde serás bien aduergada.» Revel. de un hermit . (R. 57. 388 1 ). «Les deben facer [a los falcones] de noche albergar en portal do les dé el aire.» J. Man. Caza , 9 ( Bibl. venat. 3. 80). «Le deben guardar [al falcon] que non albergue de noche al sereno.» Id. ib . 8 ( Bibl. venat. 3. 58). «Debenlos dejar [a los falcones] así andar et albergar cada noche do quisieren.» Id. ib . 4 ( Bibl. venat. 3. 32). «Los buhos, porque es su costumbre de andar de noche, et de dia están escondidos en cuevas que son muy malas de fallar, venian de noche á los arboles de los cuervos donde albergaban.» Id. C. Luc . 35 (R. 51. 386 2 ). — Siglo XIII : «Nunca en lugar del mundo posaban, que non facian mal á los que los albergaban.» Conq. de Ultr . 1. 45 (R. 44. 24 1 ). «Et otrosi que vayan todavia por el camino mayor et mas derecho et non fuera dél, de guisa que en él mesmo alverguen si la noche no les tomase en poblado.» Part . 2. 31. 3 (2. 338). «Esto mesmo del camarero, que ha así nombre porque debe guardar la cámara ó el rey alberga.» Part . 2. 9. 12 (2. 69). «Deben [los pelegrinos] siempre alvergar temprano quando podieren.» Part . 1. 24. 2 (1. 498). «Defendemos que ninguno non les faga fuerza nin tuerto nin mal alguno, mas sin ningun enpiezo alberguen seguramiente quando quisieren, e ó quisieren, atanto que sean logares de albergar.» Fuero real , 4. 13. 1 ( O. L. 2. 160). «Alberga conmigo esta noche.» Cal. é Dymna (R. 51. 27 1 ). «Lo que meior te ueo te quiero aconseiar: | Por nada non uayas entrellos albergar; | Manda las tus tiendas çerca de mi sentar.» Alex . 1528 (R. 57. 194 2 ). «Proserpina me dizen, de Febos soe hermana, | Sin este he dos nombres Minerua e Diana; | Yo aluergo la noche e adugo la mannana.» Ib . 349 (R. 57. 158 1 ). «Sol nol uenia emiente en qual logal estaua, | Nen que en emperio ageno essa noche aluergaua.» Ib . 276 (R. 57. 156 1 ). «Nin en çiudat nin en burgo non serás albergado.» Appoll . 70 (R. 57. 285 2 ). «Por qual cueta que era vinie desaborgado, | Demandó al conviento quando fue albergado, | Bien gelo entendieron, que non vinie pagado.» Berc. S. Dom . 131 (R. 57. 44 1 ). «Quando plegadas fueron las yentes renegadas, | Podrien seer a duro quantas eran contadas: | Tenien una grant tierra quant eran alvergadas, | Del un cabo al otro tenien leguas dobladas.» Id. S. Mill . 410 (R. 57. 77 2 ). «Sso vn arbol fue albergada; | Alli priso posada.» S. M. Egipc . (R. 57. 312 2 ). «Es hora de aluergar. | En mi casa aluergaremos, | E cras como quisieres partiremos.» Reyes de Or . (R. 57. 320 1 ). «Vinieron a Santesteuan de Gormaz vn castiello tan fuert; | Hy albergaron por verdat vna noch.» Cid , 2843 (R. 57. 30 2 ). «Cogida han la tienda do albergaron de noch.» Ib . 2706 (R. 57. 29 1 ). «Entre Fariza e Çetina Myo Çid yua albergar.» Ib . 547 (R. 57. 8 1 ). Etim. Deriv. de albergue . Port., cat. albergar ; prov. alberguar ; it. albergare ; fr. héberger . En ant. al. heribërgôn , acampar, albergar, de heribërga , herbërga , campamento, posada, comp. de heri , hari , gót. harjis , ejército, multitud, y bërgan , gót. baírgan , circuír, asegurar. Ortogr. Antes de e se escribe gu en vez de g : alberguéis , alberguen . \u0000"
+}

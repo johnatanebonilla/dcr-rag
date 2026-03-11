@@ -1,0 +1,385 @@
+{
+  "lema": "CONSEGUIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Llegar al fin que se pretende ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Proprio es del sabio, determinado el fin, escoger medios proporcionados para conseguirlo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3, diál . 4, § 2 (R. 6. 473 1 )."
+            },
+            {
+              "texto_cita": "«Aunque se mandó que nadie le nombrase ni hiciese por palabra ó por escrito mención de su nombre porque no consiguiese el fin de su deseo, todavía se supo que se llamaba Eróstrato.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 8 (R. 1. 420 1 )."
+            },
+            {
+              "texto_cita": "«Siempre consigue el dichoso | Lo que intenta el desgraciado.»",
+              "autor": "Mto.",
+              "referencia_obra": "El desdén con el desdén , 3. 10 (R. 39. 18 2 )."
+            },
+            {
+              "texto_cita": "«Con menos confianza y más decisión hubiera evitado tal menoscabo y conseguido la completa introducción del socorro.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 15 (R. 64. 339 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues este [intento de divertir la comunidad] se consigue con cualquier comedia buena ó mala, no hay para qué poner leyes, ni estrechar á los que las componen y representan, á que las hagan como debían hacerse, pues, como he dicho, con cualquiera se consigue lo que con ellas se pretende.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 48 (R. 1. 391 1 )."
+            },
+            {
+              "texto_cita": "«También pudo tener entonces aquel átomo de fe viva con que se merecen y consiguen los milagros.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 1 (R. 28. 302 1 )."
+            },
+            {
+              "texto_cita": "«Porque la sed, ansí como cuando se enciende en el cuerpo pasa de deseo y es una manera de rabia que no sufre tardanza, ansí en la sagrada Escritura cuando se pone en el ánimo y se dice de las cosas que se apetecen y consiguen con sólo el espíritu, es encarecimiento de un deseo ardentísimo y que saca el alma de todos sus quicios,»",
+              "autor": "León",
+              "referencia_obra": ", Expl. del salmo 41 (4. 181)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que aman reciben muchos trabajos y aflicciones todo el tiempo que no alcanzan lo que desean; pero después de conseguida la cosa deseada, se les vuelve en descanso y contentamiento.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 4 (145)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acompañados de los infantes franceses, á quienes se arrimaron, consiguieron el ponerse en forma de esperar al enemigo.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 5 (R. 21. 523 2 )."
+            },
+            {
+              "texto_cita": "«Hallábase también falto de pólvora, y consiguió poco después el fabricarla de ventajosa calidad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 5 (R. 28. 349 2 )."
+            },
+            {
+              "texto_cita": "«Para los que conseguían el llegar á su presencia, inventó nuevas reverencias y ceremonias.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 3 (R. 28. 235 2 )."
+            },
+            {
+              "texto_cita": "«Pero no importa | Cuanto siento, sufro y paso, | Pues por lo menos consigo | No ausentarse don Fernando.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mañana será otro día , 3. 18 (R. 7. 544 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las [cortes] de Santa María de Nieva de 1473 alzaron el grito, y consiguieron en fin que anulase solemnemente todas las enajenaciones y gracias hechas en los diez años precedentes.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat . ( Mem. Acad. Hist . 6. 11)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de , para expresar la persona ó cosa que da ó concede lo que se pretende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El matrimonio se efectuó, pero ni el almirante ni don Juan consiguieron de esta alianza el fruto á que aspiraban.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 236 1 )."
+            },
+            {
+              "texto_cita": "«Fue muy valida entonces en el vulgo la opinión de que esta retirada la consiguieron los moros de don Álvaro por una gran suma de oro que le enviaron.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Álv. de Luna (R. 1.9. 402 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Seguir, venir ó suceder una cosa después de otra ( trans .) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A la muerte segunda, de culpa sigue la muerte tercera. Así como á la vida de gracia consigue la vida de gloria.»",
+          "autor": "Venegas",
+          "referencia_obra": ", Agonía , 2. 4 ( Míst . 3. 17)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . Seguirse una cosa á otra como efecto natural ó consecuencia lógica ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar la causa ó fundamento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consíguense á las mordeduras de esta fiera los mismos accidentes que á las de la víbora comúnmente sobrevenir suelen.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Diosc . 6. 53 (65)."
+            },
+            {
+              "texto_cita": "«Ensancha las narices [el caballo] y las figura por una manera llena de una disposición señoril, á que se consigue en los que le miran espanto.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 39 (2. 291)."
+            },
+            {
+              "texto_cita": "«Comúnmente es cierta cosa que se consigue á tanta felicidad tal blasfemia.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 21 (R. 37. 390 1 )."
+            },
+            {
+              "texto_cita": "«Como las desobligó de los negocios y contrataciones de fuera, ansí las libertó de lo que se consigue á la contratación, que son las muchas pláticas y palabras.»",
+              "autor": "",
+              "referencia_obra": "Id. Perf. cas . 16 (3. 498)."
+            },
+            {
+              "texto_cita": "«Y no solamente es sencillo y no mudable, sino, lo que á esto se consigue, poderoso y eficaz para todo lo que determina y quiere.»",
+              "autor": "",
+              "referencia_obra": "Id. Expos. de Job , 23 (2. 25)."
+            },
+            {
+              "texto_cita": "«Y si esto es ansí, á ello se consigue por fuerza que el corazón en la otra manera, esto es, el afecto malo de su inclinación, sea desapiadado y crudísimo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 41 (2. 316)."
+            },
+            {
+              "texto_cita": "«Lo cual, demás de que lo pide la razón de ser Padre, consíguese necesariamente á lo que antes de esto dijimos.»",
+              "autor": "",
+              "referencia_obra": "Id. Nomb . 1, Padre (3. 110)."
+            },
+            {
+              "texto_cita": "«La tercera propriedad, y que se consigue á lo que agora decíamos, es ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (3. 102)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En lugar del compl. con á se halla un dat. pron.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Veamos primero qué es ser Hijo, y sus condiciones cuáles son, y qué cosas se le consiguen como anexas y proprias.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 283)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , por semejanza con deducir , inferir .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Agora entra en su causa, y dice lo primero lo que á su parecer se consigue de las palabras que refiere luégo de Job, además de las dichas, y es que aprueba por su sentencia, y favorece y da calor al vivir de los malos.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 34 (2. 182)."
+            },
+            {
+              "texto_cita": "«Esto no es --- otra virtud más particular que las dichas, sino antes es como una cosa que se consigue y nace dellas.»",
+              "autor": "",
+              "referencia_obra": "Id. Perf. cas . 8 (3. 459)."
+            },
+            {
+              "texto_cita": "«Sería el colmo de la insensatez negar á Dios la facultad de alterar esta actividad, y la serie de efectos ó fenómenos que de ella se consiguen, cuando el hombre y el animal irracional á cada momento la alteran y modifican.»",
+              "autor": "M. Mir",
+              "referencia_obra": ", Armonía entre la ciencia y la fe , 13 (284: 2ª. edic .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las acepciones:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Seguir;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Perseguir;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "γ )",
+          "definicion": "Alcanzar.) — Siglo XV :",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entendia aprovechar poco la limpieza del cuerpo é de las ropas --- si no se conseguian con ello la sinceridad de los pensamientos é la limpieza de las obras.»",
+              "autor": "Pulgar",
+              "referencia_obra": ", Clar. var . 22 (127)."
+            },
+            {
+              "texto_cita": "«Consiguió con grand honra el fin de aquellas empresas que tomó.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13 (96)."
+            },
+            {
+              "texto_cita": "«Murieron en el medio de sus dias sin conseguir el fruto de sus deseos.»",
+              "autor": "",
+              "referencia_obra": "Id. Letras , 6 (180)."
+            },
+            {
+              "texto_cita": "«Vido que este reyno no le pudo sofrir, ni el suyo ayudar, ni mucho menos el de Francia remediar para conseguir su propósito.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 26 (284)."
+            },
+            {
+              "texto_cita": "«Consejo digno de ser loado con grandes loores, consiguiesse ó non consiguiesse efecto.»",
+              "autor": "",
+              "referencia_obra": "Crón. Álv. de Luna , 120 (332)."
+            },
+            {
+              "texto_cita": "«Si á él non acaesciera aquel desastrado caso --- la iniqua trayción non consiguiera el efecto que consiguió.»",
+              "autor": "",
+              "referencia_obra": "Ib . 112 (300)."
+            },
+            {
+              "texto_cita": "«Ninguna gloria su señoria podria alcanzar nin conseguir en vencer á los vencidos.»",
+              "autor": "",
+              "referencia_obra": "Ib . 90 (237)."
+            },
+            {
+              "texto_cita": "«El assiento é concierto fecho en Illescas quedó en su ser é firmeza, é consiguió efecto assi acerca de lo uno como de lo otro.»",
+              "autor": "",
+              "referencia_obra": "Ib . 86 (229)."
+            },
+            {
+              "texto_cita": "«Fuese de Toledo á Illescas á tractar é concertar como aquella cibdad se tornasse al rey, é consiguiesse debido efecto lo en Montalvo concluido é assentado.»",
+              "autor": "",
+              "referencia_obra": "Ib . 86 (227)."
+            },
+            {
+              "texto_cita": "«Los passos del invidioso | Non consigas, | Nin sus vias, enemigas | A reposo.»",
+              "autor": "Santill.",
+              "referencia_obra": "p. 61."
+            },
+            {
+              "texto_cita": "«A esta consiguen las siete doncellas | Que suso he tocado en otro lugar.»",
+              "autor": "",
+              "referencia_obra": "Id. p. 112."
+            },
+            {
+              "texto_cita": "«Alli parescieron Esson é Jasson | Con los de Thesalia, que los consiguieron.»",
+              "autor": "",
+              "referencia_obra": "Id. p. 136."
+            },
+            {
+              "texto_cita": "«Asy conseguimos aquella carrera | Fasta que llegamos en somo del monte.»",
+              "autor": "",
+              "referencia_obra": "Id. p. 246."
+            },
+            {
+              "texto_cita": "«Así es el alma cuando de las intelectuales virtudes consigue las pláticas et morales.»",
+              "autor": "",
+              "referencia_obra": "Vis. delect . 1. 2 (R. 36. 344 1 )."
+            },
+            {
+              "texto_cita": "«La cual [leche] era en refecion et nutrimento de aquellos que aun no habian conseguido la natividad et producion de los dientes.»",
+              "autor": "",
+              "referencia_obra": "Ib . 1. 1 (R. 36. 341 2 ). — Siglo XIV :"
+            },
+            {
+              "texto_cita": "«Et husmarán mucho, et conseguirán el rastro de la caza, et husmarán los lugares ó estido.»",
+              "autor": "Alf. XI",
+              "referencia_obra": ", 2. 2 9 ( Bibl. venat. 1. 173). — Siglo XIII :"
+            },
+            {
+              "texto_cita": "«Fallarás cual fue el grand Hector é Archiles é Troylus e otros muchos que le conseguieron en fortaleza.»",
+              "autor": "",
+              "referencia_obra": "Cast. é docum . 38 (R. 51 161 1 )."
+            },
+            {
+              "texto_cita": "«Doncas quel enganno de los judios, que avemos siempre de conseguir que non aya poder de crecer en ninguna manera.»",
+              "autor": "Fuero",
+              "referencia_obra": "Juzgo , 12. 2. 15 (183)."
+            },
+            {
+              "texto_cita": "«Queremos yr a Poro conseguir e buscar.»",
+              "autor": "",
+              "referencia_obra": "Alex . 2016 (R. 57. 209 1 )."
+            },
+            {
+              "texto_cita": "«Mandó luego mouer el su real fonsado | Por conseguir a Dário que era alçado.»",
+              "autor": "",
+              "referencia_obra": "Ib . 1295 (R. 57. 187 1 )."
+            },
+            {
+              "texto_cita": "«Myo Çid el de Biuar fasta alli legó en alcanz, | Con otros quel consigen de sus buenos vassallos.»",
+              "autor": "Cid",
+              "referencia_obra": ", 1729 (R. 57. 20 1 )."
+            },
+            {
+              "texto_cita": "«Con otros çiento caualleros bien uos conssigrá.»",
+              "autor": "",
+              "referencia_obra": "lb . 1465 (R. 57. 17 2 )."
+            },
+            {
+              "texto_cita": "«A la tornada si nos falláredes aqui, | Sinon do sopieredes que somos, yndos conseguir.»",
+              "autor": "",
+              "referencia_obra": "Ib . 833 (R. 57. 11 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. conseguir; cat. conseguir , ant. consegrer ; prov. conseguir , cosseguir ; consegre , cossegre , seguir, perseguir; fr. ant. consegre ; it. conseguire : del lat. consequi , seguir, seguirse, perseguir, alcanzar, comp. de cum , con, intensivo, y s equi , seguir.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Lo mismo que seguir , tiene estas formas irregulares: consigo , consigu-es , e , en ; consigu-ió , ieron ; consig-a , as , a , amos , áis , an ; consigu - iese , ieses , iese , iésemos , ieseis , iesen ; consigu-iera , ieras , iera , iéramos , ierais , ieran ; consigu-iere , ieres , iere , iéremos , iereis , ieren ; consigue tú ; consiguiendo .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de o , a no se escribe gu sino g: consigo , consiga . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

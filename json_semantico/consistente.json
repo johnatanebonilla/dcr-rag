@@ -1,0 +1,61 @@
+{
+  "lema": "CONSISTENTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Estable, permanente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Porque aun del uso de las cosas temporales y caducas ganemos la eternidad, y lo pequeño volvamos grande, lo mudable consistente, y lo mortal inmortal y sin fin.»",
+          "autor": "Nieremb.",
+          "referencia_obra": "Difer. entre lo temp. y eterno , 1. 1 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Los árabes se diría que no ven los objetos del mundo exterior con claros y determinados contornos, sino envueltos en una niebla luminosa, que desvanece y esfuma las líneas, haciendo que ni se sienta el deseo de darles forma consistente.»",
+          "autor": "Valera",
+          "referencia_obra": ", Poes. de los árabes , 3, p. 12."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Sólido, fuerte, resistente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Acordándose de haber oído alabar las picas ó lanzas de que usaban en sus guerras, por ser de vara consistente y de mayor alcance que las nuestras, dispuso que le trajesen luégo trescientas.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 4. 6 (R. 28. 310 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Que consiste, que está constituído ó formado. Con en .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Allí se veía, si es lícito valernos de esta expresión, el Sancta Sanctorum , consistente en tres capillas contiguas con arcos de herradura dentellados.»",
+          "autor": "Valera",
+          "referencia_obra": ", Poesía de los árabes , 3, p. 31."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. consistentem , consistens , part. de consistere , consistir . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

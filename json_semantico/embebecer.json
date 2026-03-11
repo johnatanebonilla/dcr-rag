@@ -1,0 +1,229 @@
+{
+  "lema": "EMBEBECER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Absorber completamente las facultades del alma, traer absorto o embelesado ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andando con cada uno | De falso, por engañarle, | O al menos por enlabiarle, | Sin confesar a ninguno | Sus pecados; | Antes le son alabados | De ti por embebecellos.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Diál. entre la verdad y la lisonja (R. 32 . 238 3 )."
+            },
+            {
+              "texto_cita": "«Mas acaece muchas veces comenzar una oración de quietud a manera de sueño espiritual, que embebece el alma de manera, que si no entendemos cómo se ha de proceder aquí., se puede perder mucho tiempo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund. 6 (R. 53 . 189 2 )."
+            },
+            {
+              "texto_cita": "«El suelo alfombrado | De plácido verde | Que el alma y los ojos | A par embebece.»",
+              "autor": "Mel.",
+              "referencia_obra": "idil . 6 (R. 63. 129 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Quedar o estar con las facultades del alma suspensas y cautivadas por un objeto, quedar o estar absorto o embelesado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y al escuchar su pastoral acento, | Ved florecer las rosas, | Reír el prado , embebecerse el viento.»",
+              "autor": "Quint.",
+              "referencia_obra": "A Meléndez (R. 19. 9 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si andas embebecido tras la vanidad de este mundo, y andas sumido en mil miserias, y Dios trayéndote un buen pensamiento y otra inspiración, ¿qué haces, triste? ¿por qué confías en cosa que se acabará mañana?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 14 (4. 83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para denotar el objeto que absorbe las facultades del alma.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así os embebeceréis en amar, que ninguna cosa de aquel sabor os aparte.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 2. 5 (6. 254)."
+            },
+            {
+              "texto_cita": "«Si esto viene como a traición, cuando el hombre sin mirar lo que piensa se embebece en un pensamiento destos, y cuando abre los ojos y echa de ver lo que piensa, luego lo lanza de sí: ya aquí no hay pecado mortal.»",
+              "autor": "",
+              "referencia_obra": "Gran . Orac. y consid . 2. 3, § 3 (R. 8. 116 1 )."
+            },
+            {
+              "texto_cita": "«Ocupáronse los moros y embebeciéronse en bastecerla [a Málaga], y luego el rey de improviso cercó a Alcalá la Real.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 9 (R. 30. 473 2 )."
+            },
+            {
+              "texto_cita": "«No me espanto: | Haste embebecido tanto | En latines, que a cansarme | Llego yo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El amor médico, 1. 1 (R. 5. 381 l )."
+            },
+            {
+              "texto_cita": "«Y yo sin defenderme, cada día | Iba en tus ojos a beber amores, | Y en tu risa y tu hablar me embebecía.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Célida (R. 19. 18 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién no se embebece en ideas tan gratas, lo bastante para que el ánimo rehúse entrar en el penoso círculo de sus tareas?»",
+              "autor": "Hartz.",
+              "referencia_obra": "El lunes (333)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De muy buena voluntad os diré las que me vinieren a la memoria; pero con condición, que porque estos cuentos son sabrosos muchas veces para el que los dice, y desabridos para el que los oye, si me viéredes embebecido en ellos, tengáis cuidado de despertarme.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 96)."
+            },
+            {
+              "texto_cita": "«Y con ir así descuidados de sentir el ánima la dulcedumbre de la presencia del Señor, embebecidos en mirar los regocijos y juegos exteriores ---»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 2 (3. 67)."
+            },
+            {
+              "texto_cita": "«Embebecido en mirar la hermosura del edificio, olvídase de la puerta por do entró.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 2 (R. 6. 187 1 )."
+            },
+            {
+              "texto_cita": "«¡Ay Coridón! ¡ay triste! ¿quién te ha hecho | Tan loco, que en tu mal embebecido | La vid aún no has podado?»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2 , égl. 2 (4. 404)."
+            },
+            {
+              "texto_cita": "«Así digo, y en esto embebecido, | Con dulce engaño desamparo el puerto, | Y me abandono por el mar tendido.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 11 (R. 32. 328 2 )."
+            },
+            {
+              "texto_cita": "«Tan embebecidos en su música venían, que estuvieron gran espacio sin ver a las pastoras.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 21 2 )."
+            },
+            {
+              "texto_cita": "«Habiendo llamado a la puerta , no le oyeron, como estaban embebecidos en sus pláticas.»",
+              "autor": "",
+              "referencia_obra": "Id. Tía fing. (R. 1. 250 1 )."
+            },
+            {
+              "texto_cita": "«Iba pensando en estas cosas, tan embebecido y trasportado en ellas que de ninguna otra se acordaba.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 23 (R. 1. 306 2 )."
+            },
+            {
+              "texto_cita": "«Yendo por la vía sacra acaso un día | (Como tengo costumbre) embebecido | Del todo en cierta burla o niñería, | Encontré con un hombre conocido.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "trad. del Ibam forte de Hor. (R. 42. 358 1 )."
+            },
+            {
+              "texto_cita": "«Nunca la aurora | Le hallará al despertar embebecido | Ya en la memoria del placer pasado.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes , 1 , A Fileno (R. 19. 16)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Menos comúnmente se usa con con , que señala la causa o motivo del pasmo o embelesamiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Embebecidos con el alegría no se acordaron ni se ocuparon de lo que Dios había mandado, que no mirasen su arca desnuda.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 18 (4. 209)."
+            },
+            {
+              "texto_cita": "«Pudieran, si algún plático los gobernara, hacer daño a los nuestros, embebecidos y cargados con el saco.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 2 (R. 21. 85 2 )."
+            },
+            {
+              "texto_cita": "«Por esto las declamaciones de Luis Vives, Alejo Venegas y otros sabios contra los libros caballerescos eran superfluas, cuando el vulgo, embebecido con ellos, ni las leía, ni las podía entender.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cervantes (R. 19. 91 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En el mismo concepto se usa el gerundio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sí, señor, pero mientras usted se embebece plantando brécoles y sembrando pepinos, no sabe lo que ocurre en su casa.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Juan de las Viñas, 1. 6 (313)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con tras, que designa el objeto que seguimos embelesados.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A caza muy inclinado | Y tras ella embebecido.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2 (R. 32. 165 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Embeuecerse: stupeo. es. stupesco. is .»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Dicc."
+        },
+        {
+          "texto_cita": "« Me vido que el mundo andaua mirando | Con ojos y seso allí embeuecido.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. 55 (22 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Los verbos causativos o incoativos de esta forma que trae Nebrija salen o de un adjetivo: embermejecer, embobecer, encarecer, entristecer, etc.; o de un sustantivo: emplumecer, encabellecer, encallecer, enñudecer, entallecer. Parecido a embebecer no da otro, y bibere, beber, no se presta para acudir al tipo latino inardescere, intumescere, imputrescere, enardecerse, entumecerse, empodrecerse; sin embargo, la significación semejante de embeberse, demuestra la identidad del origen, y sugiere la sospecha de que en la formación inceptiva puede haber influído embobecer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: embebezco; embebezc-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

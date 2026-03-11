@@ -1,0 +1,727 @@
+{
+  "lema": "AFERRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. El sentido fundamental es el náutico de Asegurar con el ferro ó ancla, y de ahí salen los demás por extensión ó metáfora.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Asegurar la embarcación en el puerto echando el ancla ( trans. ) ( ant. según el Dicc. Marít. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Hay ciertas señales para aferrar las galeras ó naos.»",
+              "autor": "",
+              "referencia_obra": "Ant. Agustín, Diál. de medallas, fol . 122 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Venían por lavar su ropa á tierra | Por unas ensenadas y recodos, | Y, descuidados de celada y guerra, | Traían tres mosquetes entre todos: | El seguro escuadrón la lancha aferra.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dragontea, 10 ( Obr. suelt. 3. 367)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se halla usado intransitivamente siendo sujeto la nave.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Iba el barco tan alto que pudiera | Aferrar con el áncora en la luna.»",
+              "autor": "",
+              "referencia_obra": "Valb . Bern. 17 (R. 17. 315 2 )"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Aférrate con las áncoras de la buena consideración, déjate estar hasta que te vengan á pedir la deuda.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 34 (R. 1. 347 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta [la confianza en Dios] señaladamente les hace estar quietos y consolados aun en medio de las tormentas desta vida, por estar aferrados con las áncoras de la esperanza.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 20 (R. 6. 78 2 ). Item: Orac. y consid. 1 , lunes en la noche (R. 8. 23 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Tratándose del ancla,",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Agarrar en el fondo ( intrans. ) . Dicc. Marít. El ancla no aferra.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La primera condición es pureza de corazón, purificándolo --- de modo que, aunque toquen [los pecados] al corazón, no afierren ni se detengan por costumbre, ó afición estable.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 3. 11 (2. 89) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Otras construcciones.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo suj. el ancla.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hizo que en el bauprés dichosamente | El áncora aferrase el corvo diente.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 16 (R. 17. 62 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo acus. el ancla.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin aferrar las áncoras surgimos | Y por la verde y libre selva entramos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Circe , 2 ( Obr. suelt. 3. 41)."
+            },
+            {
+              "texto_cita": "«En el arena el áncora aferraron.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 5 (R. 17. 592 1 )."
+            },
+            {
+              "texto_cita": "«Aquí, ya en salvo puestos, aferramos | Entre el rojo coral el corvo diente, | Y en tierra Florïano y yo saltamos.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 7 (R. 17. 209 1 )."
+            },
+            {
+              "texto_cita": "«Aquí el barco surgió, y aquí mi gente | En su arena aferrar vio el corvo diente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 11 (R. 17. 255 2 )."
+            },
+            {
+              "texto_cita": "«Veloz se larga á convecina tierra, | Y en abrigo mejor anclas afierra.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 10 ( Fern. 7. 293)."
+            },
+            {
+              "texto_cita": "«En su escamosa piel aferra el ancla | Guareciendo tras él del viento insano.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd . (R. 46. 28 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así como el áncora aferrada en la tierra tiene seguro el navío que está en el agua, --- así la virtud de la esperanza viva, aferrada fuertemente en las promesas del cielo tiene firme el ánima del justo en medio de las ondas y tormentas deste siglo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 22 (R. 6. 82 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Unos salieron con presteza á nado | Mientras en tierra el áncora se afierra.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 5 (R. 17. 592 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Dícese también que el ancla aferra, esto es, asegura la embarcación (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí jamás ni amarra ni cadena, | Suele tener ni atar las naos cansadas; | Aquí no es menester que el corvo diente | Del áncora las clave y las afierre.»",
+              "autor": "Hern. de Velasco",
+              "referencia_obra": ", Eneida , 1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Agarrar, atrapar con garfios, como se hace con las embarcaciones.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Trans.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus garfios los romanos aventaron | Creyendo de aferrar una saetía, | Y en vez de aquélla, á Lísida enclavaron.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42. 113 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo jugado la artillería casi una hora, se aferraron los dos navíos con una no vista furia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2. 13 (R. 1. 608 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Del puro encuentro algunas [fustas] se rompieron; | Las otras por el ítalo gentío | Entre cadenas fueron enlazadas | Y con agudos garfios aferradas.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42. 112 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No estaban las reales aferradas, | Cuando de gran tropel sobrevinieron | Siete galeras turcas bien armadas, | Que en la cristiana súbito embistieron.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 24 (R. 17. 92 1 )."
+            },
+            {
+              "texto_cita": "«Saltó el diestro leonés en la aferrada | Fusta.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 13 (R. 17 . 282 1 )."
+            },
+            {
+              "texto_cita": "«Aferradas las galeras por las proas, revolvíanse de una parte á otra á buscar el lado en que más pudiesen ofender.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 221 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Dícese también que el garfio aferra (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya el número de muertos y anegados | Que ve sobre las ondas cada nave, | Impide que se junten sus costados, | Por más que el garfio las aferre y trabe.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. Naval (R. 42. 112 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Intrans. Con con ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando hallaban ocasión de venir á las manos, aferraban con sus naves y pasaban muchos dellos á cuchillo.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 13. 5 (R. 30. 377 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "Agarrar, asir fuertemente.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Trans.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desta manera Rengo á Talco afierra, | Y antes que á la defensa se prevenga, | Tan recio le apretó contra la tierra, | Que, el lomo quebrantado, lo derrienga.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 10 (R. 17. 42 1 )."
+            },
+            {
+              "texto_cita": "«Y con brazos durísimos lo afierra | Creyendo levantarlo de la tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 15 (R. 17. 58 1 )."
+            },
+            {
+              "texto_cita": "«Rota la fiera asta, luégo afierra | Del suelo una pesada y dura maza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3 (R. 17. 14 2 )."
+            },
+            {
+              "texto_cita": "«El asta dura del legón a fierra.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 1 (R. 1. 574 1 )."
+            },
+            {
+              "texto_cita": "«Nunca aferraron la pesada maza | Sus manos llenas de una vil flaqueza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2 (R. 17. 579 1 )."
+            },
+            {
+              "texto_cita": "«En la mano derecha afierra el asta.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 11 (R. 17. 617 2 )."
+            },
+            {
+              "texto_cita": "«Una luciente cimitarra afierra.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 149 1 )."
+            },
+            {
+              "texto_cita": "«Así la espada afierra del contrario | De su frágil rodela el alcornoque, | Que se queda con él.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8 (R. 17. 222 2 )."
+            },
+            {
+              "texto_cita": "«Con ambas manos el alfanje afierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 10 (R. 17. 248 1 )."
+            },
+            {
+              "texto_cita": "«Vuelto sobre mí, la daga afierro | Para con sangre desteñir mi yerro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib , 11 (R. 17. 256 2 )."
+            },
+            {
+              "texto_cita": "«Bajad, cobardes dioses; que no creo | Que hay otro que esta clava de mi mano, | Que, si allá sube y como aquí la afierra, | Con todo vuestro cielo dará en tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 24 (R. 17. 397 1 )."
+            },
+            {
+              "texto_cita": "«Cobrando nuevo aliento, | A esfuerzos repetidos, | Afierra de la arena | El suelo movedízo.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Leandro y Hero (R. 61.121 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con los dientes se muerden, y se aferran | Con las garras, las fieras imitando.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 7 (R. 1. 696 2 )."
+            },
+            {
+              "texto_cita": "«Heríanse con espadas, con dagas, con puñales, aferrábanse con los brazos, mataban y morían.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", H. P. del Pulgar (4. 28)."
+            },
+            {
+              "texto_cita": "«A veces se aferraban con las manos y se ahogaban contra los pechos.»",
+              "autor": "Solís",
+              "referencia_obra": ", 2. 28 (4. 384)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De allí á poco volvieron el hombre y la mujer más asidos y aferrados que la vez primera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 45 (R. 1. 498 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á , para expresar el objeto agarrado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quién, probando las fuerzas y ventura, | Al vecino enemigo se aferraba.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 22 (R. 17. 84 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con con , en sentido análogo ( cp. abrazar ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin darle más lugar, con él se afierra, | Donde en satisfación de la herida, | Alzándole bien alto de la tierra, | De espaldas le tendió con gran caída.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 15 (R. 17. 59 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Absol.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Afierra, Nemoroso, y tenle fuerte.»",
+          "autor": "Garcil.",
+          "referencia_obra": "égl . 2 (R. 32. 14 2 )."
+        },
+        {
+          "texto_cita": "«Los guardianes de las bolsas, | Los que se precian de ser | Tenedores, no cucharas, | Que afierren, y nunca den.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 6, rom. 65 (R. 69. 201 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Intrans.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , que expresa el punto de apoyo ( cp. asir, agarrar ) ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas el pronto español, que entrar procura, | Dándole lado, de la pica afierra.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 19 (R. 17. 74 1 )."
+            },
+            {
+              "texto_cita": "«La adarga embraza y de la espada afierra.»",
+              "autor": "",
+              "referencia_obra": "id. ib. 22 (R. 17. 83 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasó el puente levadizo á la vanguardia, y los que le llevaban á su cargo le acomodaron á la primera canal; pero aferró tanto en las piedras que le sustentaban, con el peso de los caballos y artillería, que no quedó capaz de poderse mudar á los demás canales.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 18 (R. 28. 334 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. — Part.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aquí no hay medio: las naciones civilizadas, ó serán católicas, ó recorrerán todas las fases del error; ó se mantendrán aferradas al áncora de la autoridad, ó desplegarán un ataque general contra ella.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Protest. 2 (1. 25)."
+        },
+        {
+          "texto_cita": "«¿Y qué cadenas son estas con que están presos, sino las fuerzas de las aficiones con que están sus corazones aferrados con las cosas que desordenamente aman?»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 1. 19, § 2 (R. 6. 71 1 )."
+        },
+        {
+          "texto_cita": "«Están tan abrazados y aferrados con las riquezas, delicias y honras vanas, que tienen por rosas las espinas y la hiel por miel.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Flos SS. Nativ. de N. S. J. ( Vida de Cristo . 145)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Asegurar, tanto en sentido propio como en figurado ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« En el campo, heredado | De su padre, ejercita | Sus bueyes; y la usura no le afierra, | Ni le despierta la espantosa guerra.»",
+              "autor": "",
+              "referencia_obra": "L. Argens . Trad. de Hor. epod . 2 (R. 42. 287 2 )."
+            },
+            {
+              "texto_cita": "«Es mal que á todos estados | En sus cadenas afierra.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1 (R. 32. 146 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedando [la nave], aunque en los cabos aferrada, | Expuesta á su inconstante movimiento.»",
+              "autor": "Esquil.",
+              "referencia_obra": "Náp. recup . 4 (R. 29. 307 2 )."
+            },
+            {
+              "texto_cita": "«Sospecho que hubiera su suerte tendido más bien aferradas raíces.»",
+              "autor": "Quev.",
+              "referencia_obra": "Grandes anales (R. 23. 204 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el objeto que sirve de apoyo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conviene --- prender con una fuerte cadena nuestros sentidos y pensamientos, para que no anden baldíos por do quisieren, y mucho menos por los vedados, aferrándola fuertemente con duros clavos y prisiones al pie de la cruz.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 5 (R. 8. 446 1 )."
+            },
+            {
+              "texto_cita": "«Los barcos, no los ánimos, seguros | Llegan á tierra, y luégo los esclavos | Aferran á la orilla en troncos duros | De plata fina los tejidos cabos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 11. ( Obr. suelt. 2. 160)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, mar. Recoger y unir una vela á su verga por medio de los tomadores, de modo que no reciba viento ni pueda éste desplegarla. Dícese también de toda bandera, toldo ó cualquiera otra tela que se recoge enrollándola ó plegándola. Dicc. Marít .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "6.",
+      "definicion": "met. Insistir con tenacidad en algún dictamen ú opinión. La metáfora se toma, ya del ancla que aferra ó se aferra en el fondo (de aquí la construcción con en ), ya de la acepción genérica de asirse, agarrarse (y de ahí la construcción con á y con ).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Intrans.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como los confesores habían aferrado en que era demonio, no se contentaron con las pruebas que habían hecho, sino que trataron también de quitarle la oración.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 1. 14 ( Míst. 1. 61). Quieren seguir á Cristo y renunciar la afición desordenada de sus cosas; pero afierran en que ha de ser con condición de quedarse con ellas.» Puente , Medit. 3. 8 (2. 64) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que antes aferraba con su juicio y voluntad propia, ahora la deja y renuncia en la divina.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 5. 29 (3. 168)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La política egoísta á que se había aferrado, ocultaba bajo la capa de una paz engañosa mayores daños y peligros que la guerra misma.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Esp. del siglo, 7. 31 (6. 268)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con. » Aferrarse con su opinión.» Acad. Gram.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cada cual se aferró en su dictamen: repitiéronse en vano pláticas, tentativas, instancias.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 2. 8 (5. 75)."
+            },
+            {
+              "texto_cita": "«La prudencia y la previsión exigían no aferrarse en una oposición sistemática apasionada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 16 (5. 118)."
+            },
+            {
+              "texto_cita": "«La Inglaterra se aferró más y más en aquellos puntos capitales en que cree vinculada su prosperidad y grandeza.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 7. 16 (6. 194)."
+            },
+            {
+              "texto_cita": "«Aferróse pues más y más en su fatal propósito de alcanzar por malas artes lo que no osaba encomendar a la fuerza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8. 17 (6. 430)."
+            },
+            {
+              "texto_cita": "«En la idea de morir se aferra.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Primero yo, 4. 7 (117)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aferrados en sus antiguas preocupaciones --- se opusieron á toda reforma moderada.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 2. 9 (5. 80)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV : ¿E quien contaria los muchos linajes; | Alcuñas e reynos, que alli se nombraron | De diversos modos, asy los lenguajes, | Quando los estoles en uno aferraron?» Santill. p. 124.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Levaba el capitán unos viratones endereszados con alquitran, con que les quemaban las velas. El capitan luego mandó aferrar con ellos; mas non peleaban todos de un corazon.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 144."
+        },
+        {
+          "texto_cita": "«Vieron una galera surta sobre el áncora; é mandó el capitan que la embestiesen, é aferrasen con ella.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 65."
+        },
+        {
+          "texto_cita": "«Vos atended, é yo iré delante: las dos galeras aferrarán conmigo; aferrad vos con la una: é si vos aina ganaredes la galera, ayudadme.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 58. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Por les aver aferrado las bocas de los canales por donde suben é bajan estos buenos omes barqueros, se afogan, é pierden sus faciendas.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1360 (R. 66. 505 1 )."
+        },
+        {
+          "texto_cita": "«Alcanzaron las galeas de los moros, et iban tan cerca de la tierra, que las galeas de los christianos non podían llegar aferrar con ellas.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 329 (R. 66. 384 1 )."
+        },
+        {
+          "texto_cita": "«La galea de los christianos aferró con la de los moros.»",
+          "autor": "",
+          "referencia_obra": "Ib. 324 (R. 66. 380 1 )."
+        },
+        {
+          "texto_cita": "«Amos los almirantes de los moros ferraron con la galea de don Egidiol.»",
+          "autor": "",
+          "referencia_obra": "Ib. 264 (R. 66. 340 2 )."
+        },
+        {
+          "texto_cita": "«El almirante Alfonso Jufre non estaba de vagar, ca luego aferraron quatro galeas con la suya, et dábanle muy grand pelea.»",
+          "autor": "",
+          "referencia_obra": "Ib. 209 (R. 66. 307 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Las amenas son de canto menudas e granadas, | Las otras son de mármol redondas e quadradas; | Estas con aquellas son assy aferradas, | Que sean las unas de las otras suiugadas.»",
+          "autor": "Alex.",
+          "referencia_obra": "1364 (R. 57. 189 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y ferro. Port. aferrar; it. afferrare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Como se echa de ver por los ejemplos de los siglos XVI y XVII , en ese tiempo se decía indistintamente afierro y aferro, afierra y aferra, aunque acaso predominaba la conjugacion diptongada; hoy se dice invariablemente aferro, aferras, aferre.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. : 1, a , α - 2, χ - 3, α - 4, α - 5 . — Intrans.: 1, a , β - 2 , α, β - 3 , β - 4 , χ - 6 , α . — Refl.: 1 , b - 2 , c, γ - 4 , a, β - 6 , β . — Recípr.: 3 , a, α , α α - 4, a, α , α α . — Part. : 1, b , α - 2, χ , β , α α - 3, a, α , γ γ - 4, a , α , β β - 4, d - 5, a, α - 6, β , γ , α α . — Con á: 4, a, β , α α - 5, a , β - 6 , β , α . — Con : 3, b - 4 , a, β , β β - 6 , a, β - 6 , β, β . — De: 4 , c . — En: 1 ,a, β - 4 , c, β - 6 , α, α - 6, β , γ . \u0000"
+}

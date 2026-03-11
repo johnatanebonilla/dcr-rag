@@ -1,0 +1,230 @@
+{
+  "lema": "DESGUARNECER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Quitar á un objeto lo que es necesario para su uso ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desguarnecer el martillo,»",
+              "autor": "",
+              "referencia_obra": "quitándole el mango."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin armas estoy; mi espada | Se desarma y desguarnece.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende , 3. 12 (R. 7. 185 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Quitar la guarnición que sirve de adorno ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desguarnecer el sombrero.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar aquello que se quita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Te quiero más que primero; | Que porque al fino diamante | Le desguarnezcan del oro, | No desdicen sus quilates.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Marí-Hernández , 1. 1 (R. 5. 110 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya Febo sobre el mar del pardo moro | Templaba al rojo carro las centellas, | Desguarneciendo al mundo del tesoro | De su luz, y bordándolo de estrellas.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 22 (R. 17. 369 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo, pobre gentil hidalgo, | De bienes desguarnecido, | Si por mí mismo'no valgo, | Siempre viviré caído.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 214 3 )."
+            },
+            {
+              "texto_cita": "«La noche su manto negro | Desguarnecido de estrellas | Tiende en los hombros del cielo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los ramilletes de Madrid, 1. 18 (R. 52. 309 1 )."
+            },
+            {
+              "texto_cita": "«No quisiera que mi ahijado | Entrase desguarnecido | De honores y no lucido | Por haberme á mí nombrado.»",
+              "autor": "Cald.",
+              "referencia_obra": "El postrer duelo de España, 3. 17 (R. 14. 147 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Quitar la fuerza ó fortaleza, dejar sin defensa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La almena desquiciando, aquella parte | Desguarneció del muro, y ancha brecha | Para muchos abrió.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 12 (1. 372)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin muro y sin torreones, según nos ha trasmitido Floro, defendióse largos años la inmortal Numancia contra el poder de Roma. También desguarnecida y desmurada resistió al de Francia con tenaz porfía, si no por tanto tiempo, la ilustre Zaragoza.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 5 ( R. 64. 109 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar lo que se quita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Falto y desguarnecido de gente, y si tiene algunos soldados, estarán como su príncipe corrompidos y estragados con los vicios.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 7 (R. 30. 509 1 )."
+            },
+            {
+              "texto_cita": "«Teucro con una flecha desde el muro | Hirió también el brazo por la parte | Que vio desguarnecida de la adarga.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 12 (1. 371)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Quitar á golpe de hacha, espada ú otra arma semejante una ó varias piezas de la armadura del contrario ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Quitar las guarniciones de los animales de tiro ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Se usaba el primitivo desguarnir. ) Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ya los arneses de aquellos caballeros del maestre todos estaban desguarnecidos, é unas piezas saltaban tras otras.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 65 (172)."
+        },
+        {
+          "texto_cita": "«E embistiole al través par la proa, é quebróle el baupres, é soltóle el estuy, é desguarnecióle todo.»",
+          "autor": "",
+          "referencia_obra": "Crón. P. Niño, p. 145."
+        },
+        {
+          "texto_cita": "«Los que traian voluntad de justar con él, á unos levaba los yelmos, á los otros arrancaba los escudos, á otros desguarnecia.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 131."
+        },
+        {
+          "texto_cita": "«E tocóle en el guardabrazo derecho é desguarnecióselo é rompió su lanza en él por medio.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 14 (12 1 )."
+        },
+        {
+          "texto_cita": "«Mi arnes é mi braçal | Está ya desguarneçido.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 288. — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«E desguarnióse todo»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Quando le ovo desguarnido e de todo despoiado, | Levol e vestyol de vn iamete presçiado.»",
+          "autor": "",
+          "referencia_obra": "Fern . Gonz. 373 (R. 57. 401 1 )."
+        },
+        {
+          "texto_cita": "«Oyredes lo que fiço al conde tolosano: | Desguarnecióle el cuerpo el mismo con su mano.»",
+          "autor": "",
+          "referencia_obra": "lb . 372 (R. 57. 400 2 )."
+        },
+        {
+          "texto_cita": "«Azien desguarnidos, e todos desarmados.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1876 (R. 57. 205 1 )."
+        },
+        {
+          "texto_cita": "«Lorando de los ojos, los corpos desguarnidos.»",
+          "autor": "",
+          "referencia_obra": "lb . 1520 (R. 57. 194 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y guarnecer. Port. desguarnecer. Al ant . desguarnir corresponden el cat. desguarnir, prov . desguarnir, desgarnir, fr . dégarnir. Nuestro desguarnir se usa todavía entre la gente de mar por Desarmar, desaparejar, desnudar y despasar, como",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desguarnir el cabrestante, un palo ó una verga, un aparejo (despasando su beta), etc.»",
+          "autor": "Dicc. Marít.",
+          "referencia_obra": ""
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: desguarnezco; desguarnezc-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

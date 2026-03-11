@@ -1,0 +1,229 @@
+{
+  "lema": "AMBICIOSO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que tiene ambición.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Julio César animosísimo, prudentísimo y valentísimo capitán, fue notado de ambicioso y algún tanto no limpio ni en sus vestidos ni en sus costumbres.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 2 (R. 1. 409 1 )."
+            },
+            {
+              "texto_cita": "«Piensa también, hombre ambicioso, á cuánto péligro te pones deseando mandar á otros.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 4 (R. 6. 126 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué mujer no es ambiciosa? | ¿Cuál no previene y dispone | Antes el mando que el gusto?»",
+              "autor": "Cald.",
+              "referencia_obra": "Saber del mal y del bien, 1. 1 (R. 7. 20 2 )."
+            },
+            {
+              "texto_cita": "«Si porque es el rey un niño | Y una mujer quien le ampara, | Os atrevéis ambiciosos | Contra la fe castellana ---»",
+              "autor": "Tirso",
+              "referencia_obra": ", La prudencia en la mujer, 1. 2 (R. 5. 288 1 ). —"
+            },
+            {
+              "texto_cita": "«Quedarás con la opinión | Que tu fortuna ambiciosa | Pretende.»",
+              "autor": "",
+              "referencia_obra": "Id. La ventura con el nombre, 3. 7 (R. 5. 535 2 ). — Sup."
+            },
+            {
+              "texto_cita": "«Era su candidato un catalán --- ambiciosísimo, inquieto, sospechado antes y después de infidelidad á la causa liberal.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 535. — Dim."
+            },
+            {
+              "texto_cita": "«Ambiciosillo es usted. ¿Le parece poco acompañar á una niña y almorzar con ella?»",
+              "autor": "Hartz.",
+              "referencia_obra": "La coja y el encogido, 2. 5 (293)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ningún ambicioso | Puede jamás sosegar, | Porque vive congojoso | Por subir y por mandar.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 218 1 )."
+            },
+            {
+              "texto_cita": "«Fabio, las esperanzas cortesanas | Prisiones son do el ambicioso muere.»",
+              "autor": "",
+              "referencia_obra": "Epíst. moral (R. 32. 387 2 )."
+            },
+            {
+              "texto_cita": "«Los tales ambiciosos van y vienen, vuelven, rodean y trastornan el mundo, á fin de salir con sus pretensiones.»",
+              "autor": "Covarr.",
+              "referencia_obra": "s. v . ambición."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar el objeto de la ambición.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchos, ó malcontentos del puesto, ó ambiciosos de otro mejor, le renunciaron, y se hallaron después arrepentidos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 23 (R. 25. 65 1 )."
+            },
+            {
+              "texto_cita": "«Como ambicioso de gloria, no quiso que se debiese á otro el bien de su república.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 12. 21 (R. 28. 262 2 )."
+            },
+            {
+              "texto_cita": "«Amor y guerra | Aquesta licencia dieron [la de engañar] | Desde que los hombres fueron | Ambiciosos de la tierra.»",
+              "autor": "Lope",
+              "referencia_obra": ", El despertar á quien duerme, 3. 18 (R. 41. 361 2 )."
+            },
+            {
+              "texto_cita": "«Ambiciosos de crédito y loores, | Vienen con grande orgullo y bizarría | Al són de presurosos atambores.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 1 (R. 17. 5 1 )."
+            },
+            {
+              "texto_cita": "«Ambiciosa pues de gloria | Los peligros solicita.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 89 (R. 32. 538 3 )."
+            },
+            {
+              "texto_cita": "«Partíme á Italia, ambicioso | De las glorias de la guerra.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La cueva de Salamanca , 1 (R. 20. 88 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para expresar aquello en que se muestra la ambición.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No encarezco del daño la grandeza | Que no soy en mi llanto ambicïoso, | Ni procuro alabanza en mi tristeza.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg . 6 (R. 32. 268 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Que tiene deseo ó ansia vehemente. Con de , para expresar el objeto del deseo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Muchas veces ambicioso de victorias contra los trabajos y calamidades, provocaba fervoroso á Dios, exclamando: Llueve, oh Júpiter, calamidades sobre mí.»",
+          "autor": "Quev.",
+          "referencia_obra": "Vida de Epicteto (R. 69. 389)."
+        },
+        {
+          "texto_cita": "«Ambicioso de mi bien | Hasta el cielo me atreví.»",
+          "autor": "Cald.",
+          "referencia_obra": "Amor, honor y poder , 2. 4 (R. 7. 374 3 ). —"
+        },
+        {
+          "texto_cita": "«Ambiciosos de ocuparse, aunque con gasto de gente y hacienda.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Granad. 3 (R. 21. 96 1 )."
+        },
+        {
+          "texto_cita": "«Si los románticos de nuestros días, ambiciosos de ser originales, no lo son sino como los revolucionarios de 1789, destruyendo todo lo existente, y alterando las formas sin producir nada, adquirirán una triste celebridad que no les envidiaremos.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos , 1, p. 170."
+        },
+        {
+          "texto_cita": "«Será [la poesia castellana] más cuidadosa de evitar defectos que atrevida y ambiciosa de producir bellezas.»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes. castell. del siglo XVIII , 1 (R. 19. 146 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Llaman los poetas ambiciosa á la hiedra, por la tenacidad con que abraza las plantas de que se pretende valer.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 4. 176)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Dícese de aquellas cosas en que se muestra la ambición: Soberbio, magnífico.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando sostuve en otra edad más firme | Ciencias prolijas, de su estudio ingrato | Pudieron esos versos divertirme; | Mas para ornarlos no pasé ni un rato | Dándoles energía, ó reprimiendo | El follaje ambicioso del ornato.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "epíst. El título me das (R. 42. 352 2 . Es el"
+        },
+        {
+          "texto_cita": "«ambitiosa recidet Ornamenta»",
+          "autor": "",
+          "referencia_obra": "de Horacio, A. P. 447-8)."
+        },
+        {
+          "texto_cita": "«A cabellos de mal seguros reyes | Ofrezcan ambiciosos resplandores | Las ondas y las minas del Oriente.»",
+          "autor": "",
+          "referencia_obra": "Id. son . Suelta el cabello (R. 42. 297 1 )."
+        },
+        {
+          "texto_cita": "«¿De dónde en fin pudo aprender el encanto continuo de aquella dicción maravillosa, tan apacible v tan pura, tan en armonía siempre con el objeto que pinta; candorosa, natural y fluida en las narraciones; ingeniosa y festiva en las burlas y donaires: animada y verdadera en los razonamientos; soberbia, rica y ambiciosa en las descripciones?»",
+          "autor": "Quint.",
+          "referencia_obra": "Cervantes (R. 19. 92 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Algunos lo razonaban por bollicioso é ambicioso de mandar é regir.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener . 24 (R. 68. 708 1 )."
+        },
+        {
+          "texto_cita": "«Dos Sanchos Bravos, tiranos, | Ingratos e ambiciosos; | Diez Alfonsos virtuosos --- | Vedes aquí figurados.»",
+          "autor": "",
+          "referencia_obra": "Id. Clar. var . 342 ( Rim. inéd. 322)."
+        },
+        {
+          "texto_cita": "«Movióse con gran maldad | Un godo muy ambicioso | De reynar.»",
+          "autor": "",
+          "referencia_obra": "Id. 108 ( ib . 287)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. ambitiosus , deriv. de ambitio , ambición . Prov . ambecios ; fr . ambitieux; it. ambizioso.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "— cio— no forma naturalmente sino una sola sílaba; pero, conforme á la pronunciación latina, se ha usado alguna vez la diéresis, como lo muestra el ejemplo de Herrera en a , γ . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

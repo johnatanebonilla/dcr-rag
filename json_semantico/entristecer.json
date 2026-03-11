@@ -1,0 +1,652 @@
+{
+  "lema": "ENTRISTECER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Causar tristeza a alguien ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Puede llevar sujeto de persona o cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era tanto el amor que le tenía, y el rogar de ella, que, por no entristecerla, sabiendo que era mentira lo que el demonio dijo, comió él también de la fruta.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 11 (3. 286)."
+            },
+            {
+              "texto_cita": "«Y esta reprehensión no entendáis ser alguna cosa que desmaye y demasiadamente entristezca el ánima trayéndola desabrida.»",
+              "autor": "",
+              "referencia_obra": "Id. Audi , 62 ( Mist . 3. 249)."
+            },
+            {
+              "texto_cita": "«Este Señor crucificado es el que alegra a los que el conocimiento de sus propios pecados entristece.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 68 ( Mist. 3. 259). +"
+            },
+            {
+              "texto_cita": "«Ellos conoscieron mal este beneficio, y entristecieron y provocaron a ira al Espíritu Sancto.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 9, § 41 (R. 8. 60 2 )."
+            },
+            {
+              "texto_cita": "«Quédese aquí esta plática que verdaderamente me entristece.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 240 1 )."
+            },
+            {
+              "texto_cita": "«Si al fin, pastor amigo, procurases | No dar fuerzas al mal que te entristece, | Aqueste prado, aqueste valle y río | Sería tu bien como es a veces mío.»",
+              "autor": "",
+              "referencia_obra": "F. de la Torre, égl . 1 (93)."
+            },
+            {
+              "texto_cita": "«La música me entristece | Y la soledad me alegra.»",
+              "autor": "Lope",
+              "referencia_obra": ", De cosario a cosario, 3. 1 (R. 41. 499 1 )."
+            },
+            {
+              "texto_cita": "«Entristeció poco después los ánimos de todos la pérdida de la villa de Bredá.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 26 1 )."
+            },
+            {
+              "texto_cita": "«Tuvo aviso [el duque de Parma] 1 de que [Chatillón] se había apoderado de Corbell por inteligencia; suceso que le entristeció.»",
+              "autor": "",
+              "referencia_obra": "Id . lb . 3 (R. 28. 37 2 )."
+            },
+            {
+              "texto_cita": "«El campo al triste entristece, | Como la música.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El amor médico, 2. 6 (R. 5. 389 1 ). +"
+            },
+            {
+              "texto_cita": "«Desearía conocer --- principalmente las penas que ha debido pasar y que le han puesto en los ojos ese velo de tristeza, que me entristece a mí también.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 1 (p. 98). X"
+            },
+            {
+              "texto_cita": "«Parecía que le entristecía algún recuerdo.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 112. X"
+            },
+            {
+              "texto_cita": "«Esas reflexiones me acriminaban y entristecían.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 112. X"
+            },
+            {
+              "texto_cita": "«Los más dulces recuerdos, los más tristes presentimientos volvieron a disputarse mi corazón en aquellos instantes para reanimarlo o entristecerlo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 250. X"
+            },
+            {
+              "texto_cita": "«Concha tenía la palidez delicada y enferma de una Dolorosa, y era tan bella, así demacrada y consumida, que mis ojos, mis labios y mis manos hallaban todo su deleite en aquello mismo que me entristecía.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Sonata de otoño , p. 27. X"
+            },
+            {
+              "texto_cita": "«Huí de la fiesta. Su alegría me entristece.»",
+              "autor": "Benavente",
+              "referencia_obra": ", Intereses creados , 1. 2. 10 (p. 93). X"
+            },
+            {
+              "texto_cita": "«Que España no haya sido un pueblo \"moderno\", que, por lo menos, no lo haya sido en grado suficiente, es cosa que a estas fechas no debe entristecernos mucho.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Esp. invertebr. p. 132. X"
+            },
+            {
+              "texto_cita": "«Tenía la conciencia tranquila de haber trabajado como un gigante, y de que su paso por el mundo sería fecundo. Pero le entristecía la vasta obra que aún tenía proyectada y que no terminaría jamás.»",
+              "autor": "Marañón",
+              "referencia_obra": ", Tiempo viejo, p. 96."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el medio o instrumento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo le afligí [a Cristo] y entristecí con mis malos placeres; yo le deshonré por ensalzarme malamente.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 4. 2 (7. 292). +"
+            },
+            {
+              "texto_cita": "«Este es, pues, el dolor y sentimiento que tienen los espirituales padres, cuando ven que los hijos que ellos engendraron a Cristo cayeron en alguna culpa, y con su caída entristecieron los ángeles y alegraron los demonios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv., 2, § 3 (R. 11. 454 2 )."
+            },
+            {
+              "texto_cita": "«Cuando entristecemos o maltratamos con palabras a alguno, al entristecido y maltratado se le caen las faces al suelo, y en una cierta manera parece que le derrocamos el rostro.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 32 (2. 151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un gerundio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recuerdo que había algunos [versos] que me entristecían haciéndome pensar en el Cauca.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 85. X"
+            },
+            {
+              "texto_cita": "«No me entristezcas haciendo que recuerde los años.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Sonata de otoño , p. 37."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Siendo sujeto una prop. infinitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me entristece el haberme de apartar de ti y de mis hijos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 5 (R. 1. 413 2 ). +"
+            },
+            {
+              "texto_cita": "«Me entristecía ver que una inteligencia privilegiada como la de usted estuviera sugestionada por el atractivo de ciertas novedades.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 6 (2. 293)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El Señor omnipotente enjugará las lágrimas que acá hizo llorar; y como supo acá entristecer, nos sabrá allá alegrar.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 3 . 10 (7. 44). X"
+            },
+            {
+              "texto_cita": "«Entristecen las descripciones que extranjeros como Campanella, Mad. d'Aulnoy y otros hacen de la incuria de nuestros hidalgos y del casi total abandono del agro castellano, a causa del desprecio suicida del trabajo manual.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos de la voluntad, 10 (p. 202)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Pas . Con por , para indicar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues si los que a Cristo aborrecían pudieron ser entristecidos por ver sus tormentos ---.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 68 ( Míst. 3. 262)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con sentido intrans. Pasa a sujeto el compl. directo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quando cayéremos en angustias por la salud de muchos, no nos entristezcamos.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag. 1. 6 (1. 92)."
+            },
+            {
+              "texto_cita": "«En este mismo valle donde agora | Me entristezco y me canso, en el reposo | Estuve yo contenta y descansada.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 1 (R. 32. 5 1 ). +"
+            },
+            {
+              "texto_cita": "«Si mirándonos, nos entristecemos considerando en nosotros grandes pecados pasados y peligros venideros, mirando a Él nos alegraremos, considerando ---.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 12 (1. 349)."
+            },
+            {
+              "texto_cita": "«Si vos amáis a alguno mucho ---, os entristecéis si alguna cosa adversa le viene.»",
+              "autor": "",
+              "referencia_obra": "Id. Festiv . 8 (5. 205). +"
+            },
+            {
+              "texto_cita": "«La prisión de Rocafort causó diferentes efetos, porque sus amigos se entristecieron, como participantes de sus delitos.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. de cat. y arag . 70 (R. 21 55 1 ). X"
+            },
+            {
+              "texto_cita": "«¡Si hubieras visto lo que se entristecieron cuando les hablé de tu viaje a Europa!»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 166. X"
+            },
+            {
+              "texto_cita": "«Niños María y yo, en los momentos en que Feliciana era más complaciente con nosotros, solíamos acariciarla llamándola Nay; pero pronto notamos que se entristecía si le dábamos ese nombre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 189. X"
+            },
+            {
+              "texto_cita": "«¿Por qué te entristeces así? ¿No ha convenido papá a demorar nuestro viaje? Volveremos todos los días.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 269. X"
+            },
+            {
+              "texto_cita": "«Marcial no cabía en sí de gozo, y mi amo, que al principio manifestó su alborozo casi con menos gravedad que yo, se entristeció bastante cuando dejó de ver el pueblo.»",
+              "autor": "",
+              "referencia_obra": "P. Galdós, Trafalgar , 7 (p. 65). — X"
+            },
+            {
+              "texto_cita": "«Doña Flora se entristeció, y llamándome aparte para cerciorarse de que mi persona volvía completa, me dijo ---.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 17 (p. 180). X"
+            },
+            {
+              "texto_cita": "«Y así que el amor ve realizado su anhelo, se entristece y descubre al punto que no es su fin propio aquello a que tendía, y que no se lo puso Dios sino como señuelo para moverle a la obra.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Del sent. trág. de la vida, 9 (p. 160). X"
+            },
+            {
+              "texto_cita": "«Añade que a las veces los ángeles se entristecen.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 10 (p. 180). X"
+            },
+            {
+              "texto_cita": "«Es que Correa le teme por la amenaza de que va a causarle maleficio. Ha dado en entristecerse cuando escucha cantar cierto pájaro.»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine, 2 (p. 116). X"
+            },
+            {
+              "texto_cita": "«Bejarano recuerda alguna vez sus visitas a las librerías y bibliotecas, pero no se entristece ahora, cuando no dispone de ellas.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Riofrío , 2 (p. 28). X"
+            },
+            {
+              "texto_cita": "«Pero, lector, prosigamos nuestro viaje; no nos entristezcamos.»",
+              "autor": "",
+              "referencia_obra": "Id. Ruta de D. Quijote, 7 (p. 361). X"
+            },
+            {
+              "texto_cita": "«Tornáis a entrar en vuestro cuarto, os sentáis, os entristecéis, sentís sobre vuestros cráneos pesando formidables todo el tedio, toda la soledad, todo el silencio, toda la angustia de la campiña y del poblado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 15 (p. 392). X"
+            },
+            {
+              "texto_cita": "«Me asalta la idea, en la que no quisiera pensar demasiado para no fatigarme ni entristecerme, de si tú hubieras podido resistir el fiero embate de la fatalidad.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell, p. 104. X"
+            },
+            {
+              "texto_cita": "«Y él nada, caray, se había entristecido un poco nada más.»",
+              "autor": "Vargas Llosa",
+              "referencia_obra": ", Los cachorros , 5 (p. 87)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suplicóle les avisase de su buena o mala suerte, para alegrarse con ésta o entristecerse con aquélla.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2 7 (R. 1. 419 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de, para indicar lo mismo que en el caso anterior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Saliólos a recibir el duque a una sala antes de donde estaba Cornelia, y esto sin muestras de contento alguno, de lo que los recién venidos se entristecieron.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 10 (R. 1. 221 2 )."
+            },
+            {
+              "texto_cita": "«Entristecióse mucho Sancho deste suceso, porque se le representó que los que iban huyendo habían de dar noticia del caso a la Santa Hermandad.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 22 (R. 1. 305 2 ). — Siendo el término de la prep. una oración de infinit."
+            },
+            {
+              "texto_cita": "«¿De qué estás triste? | ¿Es por Menga? —No, Doristo; | Que de enviudar y heredar | Ninguno se ha entristecido.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El dueño de las estrellas , 3. 13 (R. 20. 280 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en, para indicar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú que en la ajena dicha te entristeces, | Y el daño ajeno por alivio eliges.»",
+              "autor": "Jáur.",
+              "referencia_obra": "son. Juez, que culpas (R. 42. 105 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con por , para indicar lo mismo que en los casos anteriores. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vamos a Él, conociéndole por nuestro remedio, porque ansí no nos entristezcamos por nuestros males.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 12 (1. 354)."
+            },
+            {
+              "texto_cita": "«Conviene mucho no entristecerse por las faltas en que cae, porque se sigue mayor mal de ello que de las mismas faltas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 8 (6. 273)."
+            },
+            {
+              "texto_cita": "«Si me quitaren la hacienda, no por eso me entristezca yo, pues te veo en esa cruz tan despojado y desnudo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1 , viernes por la mañ . (R. 8. 81 2 )."
+            },
+            {
+              "texto_cita": "«Antes debía alegrarse del bien que ella había ganado, que no entristecerse por el que él había perdido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 11 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con sobre, para indicar lo mismo que en los casos anteriores. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vosotros os desconsolad mucho y os entristeced mucho sobre tan horrenda y execranda ceguedad de vuestro pueblo.»",
+              "autor": "Estella",
+              "referencia_obra": ", Medit . 10 (p. 84)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mal que a entristecer te obliga, | Y te obliga a enmudecer --- | Sin duda, Clara, es amor.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hombre pobre todo es trazas, 2. 1 (R. 7. 509 1 ). X"
+            },
+            {
+              "texto_cita": "«Cuando recibí la noticia, hijo mío, creí entristecer mucho más de lo que después, ciertamente, llegué a entristecerme.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell, p. 140."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cierto es haber sido la tristeza de Cristo tanta, que bastaba para hacer entristecer de compasión a cualquiera por mucha alegría que tuviese.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 68 ( Mist. 3. 261)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despedaza tu espíritu entristecido la vista del hijo crucificado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med. 17, § 1 (R. 8. 563 1 ). X"
+            },
+            {
+              "texto_cita": "«Don Telmo tenía las trazas de un hombre profundamente entristecido, de un ser desgraciado.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La busca, 1. 4 (p. 47). X"
+            },
+            {
+              "texto_cita": "«Y yo, entristecido, resignado con esta inquieta pluma que he de mover perdurablemente y con estas cuartillas que he de llenar hasta el fin de mis días, he contestado ---»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 1 (p. 337). X"
+            },
+            {
+              "texto_cita": "«Berta se sentía desanimada y ansiosa, incapaz de fijar la atención en las piezas; mortificada, entristecida, desazonada.»",
+              "autor": "Mallea",
+              "referencia_obra": ", La rosa de C. p. 167. X"
+            },
+            {
+              "texto_cita": "«Y así de tu regazo me alejo entristecido, | Cual uno que abandona su campo sin querer.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poética, 1 (p. 40). X"
+            },
+            {
+              "texto_cita": "«Después, siguiendo el cuerpo erguido y trotante de Petrus, respiró consciente y sin despecho, apenas entristecido, el aire oloroso a humedad, papeles, invierno, letrina, lejanía, ruina y engaño.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero, p. 34."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por qué quieres más tener tu ánima entristecida con remordimientos de mala conciencia que gozar de gozo y descanso?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 2. 86 (1. 635)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si Dios la ama, ¿de qué está congojada, entristecida y desconfiada?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 3. 38 (7. 169)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dar aspecto triste a una cosa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo sirve [la nube] de obscurecer al sol ---, de entristecer al día y manchar la luz.»",
+              "autor": "Quev.",
+              "referencia_obra": "Peste 3 (R. 48. 128 1 )."
+            },
+            {
+              "texto_cita": "«Oyendo las desdichas que pregono, | Muda la letra y entristece el tono.»",
+              "autor": "",
+              "referencia_obra": "Id . Musa 8, silva 19 (R. 69. 313 1 )."
+            },
+            {
+              "texto_cita": "«Los combatientes que admite la pintura son dirigidos a hermosear, templar y entonar el colorido, y no a entristecerle y agriarle.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Bayeu (R. 50. 160 1 ). X"
+            },
+            {
+              "texto_cita": "«No es maravilla: la imaginación, al pintarnos lo que es objeto de nuestra esperanza, desecha todo rasgo que pudiera afear o entristecer el cuadro y toda sombra que pudiera enlobreguecerlo.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil , 19 (p. 202). X"
+            },
+            {
+              "texto_cita": "«Caen, caen sin tregua, las hojas: y por un instante siento que su tristeza de muerte se comunica a todo lo visible, y sube al cielo, y le entristece también.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 283. X"
+            },
+            {
+              "texto_cita": "«Sojuzguémonos a la razón sin acongojarnos por lo irremediable, entenebreciendo y entristeciendo la vida.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Del sent. trág. de la vida , 3 (p. 46). X"
+            },
+            {
+              "texto_cita": "«Yo me moriré muy pronto. | Quiero decir mi último adiós | Entristeciendo a mi partida | Todas las cosas, como el sol.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poética , 1 (p. 41)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cuántas cosas mostró el sereno día | Alegres, que tu furia apresurada | Entristeció en la noche y sombra fría?»",
+              "autor": "Herr.",
+              "referencia_obra": "1 , eleg. 11 (R. 32. 279 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sintió que de unas apretadas zarzas, que poco desviadas dél estaban, la entristecida voz salía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 6 1 )."
+            },
+            {
+              "texto_cita": "«Turbia y escura noche, que el sereno | Cerco del cielo tienes, escondido, | El mar revuelto, el suelo entristecido, | Y el aire de nocturnos monstruos lleno.»",
+              "autor": "",
+              "referencia_obra": "F. de la Torre, son . 16 (11). X"
+            },
+            {
+              "texto_cita": "«Tenían un aspecto entristecido, de gente perseguida y famélica, la mirada tímida y huraña.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La busca , 3. 1 (p. 132)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Más tarde o más temprano, hacía sonar la pesada campana, cruzaba el portón de hierro, mostraba a la sirvienta —ahora burlona, huraña— una sonrisa entristecida por represiones visibles.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero, p. 45 ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas tristecer y tristezer ) . Siglo XV : +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y como donde ella estaua entrase, su lengua enmudecido auía, y su cara llorosa vi, y tan entristecida toda ella, que dezir non se puede.»",
+          "autor": "",
+          "referencia_obra": "D. de S. Pedro, Tract. de amores (Cl. C. 133. 66). +"
+        },
+        {
+          "texto_cita": "«Quando yba alegrarme, su poca esperança non me dexaua; y quando entristecerme, su mucha voluntad non lo sufría.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. ' (Cl. C. 133. 57)"
+        },
+        {
+          "texto_cita": "«Non espero haber folgura, | Mas por siempre entristeçer.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 402. +"
+        },
+        {
+          "texto_cita": "«Asý el ánimo mío s'altiveçe, | Se jacta e loa, porque vos amó, | --- Mas luego pronto e presto s'entristeçe.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 288."
+        },
+        {
+          "texto_cita": "«E lo que alegre después entristece siete veces.»",
+          "autor": "",
+          "referencia_obra": "Libro de los enxemplos, 4 (R. 51. 448 1 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Et tiene buen semblante [el falcón] fasta que fallece de la carne, et entonce entristece, et guárdate que, antes que así entristezca, que le acorras.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza, 32 ( Bibl. venat. 3. 290)."
+        },
+        {
+          "texto_cita": "«Cuando la buena mujer esto oyó, como quier que non lo creía, tomó desto muy grand pesar, et entristeció muy fieramente.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 48 (R. 51. 411 1 )."
+        },
+        {
+          "texto_cita": "«El cuervo con el dapnno hobo de entristeçer.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1415 (R. 57. 272 1 )."
+        },
+        {
+          "texto_cita": "«Ante ella non alabes otra de paresçer, | Ca en punto la farás luego entristeçer.»",
+          "autor": "",
+          "referencia_obra": "Id. 533 (R. 57. 244 1 )."
+        },
+        {
+          "texto_cita": "«Folgaron sin coydado, nunca entristeçieron.»",
+          "autor": "",
+          "referencia_obra": "Id. 188 (R. 57. 233 1 ). +"
+        },
+        {
+          "texto_cita": "«Quando la infante lo oyó, paróse mucho amariella e començó a tristezer de guisa que ouiera a caer en tierra, synon por el conde que la touo por el braço.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 194 (p. 424). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«E cuando vee que fizo algund mal, de allí se debe doler e entristecer.»",
+          "autor": "Cast. e docum.",
+          "referencia_obra": "65 (R. 51. 192 2 )."
+        },
+        {
+          "texto_cita": "«Paños --- prietos, o pardos, o de otra color fea que les feciese entristecer non tovieron por bien [los antiguos] que [los caballeros noveles] los vestiesen.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 21. 18 (2. 211)."
+        },
+        {
+          "texto_cita": "«Et por esto dijo el apóstol san Pablo que no se entristeçiesen por los que finaban, como facían las otras gentes que non habían creencia nin esperaban de resucitar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 4. 99 (1. 168). +"
+        },
+        {
+          "texto_cita": "«Dixo el apóstol Sant Pablo que non se entristeciesen por los muertos que finauan.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Seten. ley 103 (p. 228)."
+        },
+        {
+          "texto_cita": "«¿Por qué está el león triste e cuidoso? ¿acaecióle alguna cosa que le fizo tristecer?»",
+          "autor": "",
+          "referencia_obra": "Cal . e Dymna (R. 51. 35 2 )."
+        },
+        {
+          "texto_cita": "«Entristeció e ovo muy grant pesar.»",
+          "autor": "",
+          "referencia_obra": "lb . (R 51. 33 1 )."
+        },
+        {
+          "texto_cita": "«Non he tal cosa que quando la perdiere me entristesca por ella.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 11 (Knust, 171)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y triste, y éste del lat. tristis ‘triste'. Gall. y port. entristecer, cat. entristir, entristar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Ofrece las siguientes formas irregulares: entristezc-o; entristezc-a, as, a, amos, áis , an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

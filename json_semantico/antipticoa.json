@@ -1,0 +1,49 @@
+{
+  "lema": "ANTIPÁTICO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que tiene antipatía.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Nuestros genios | Son opuestos, antipáticos.»",
+          "autor": "Bretón",
+          "referencia_obra": ", Me voy de Madrid , 2. 8 (2. 64)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Que causa antipatía ó repugna naturalmente. Una persona antipática.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar la persona ó cosa á que se causa repugnancia. Sujeto antipático á todo el mundo.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar el objeto con que hay desconformidad ó repugnancia natural.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan ridículo y pedantesco será hablar griego en el teatro de Madrid, por serlo el asunto de una tragedia, como presentar al pueblo ideas que no puede concebir ni creer, ó que son antipáticas con su gusto.»",
+              "autor": "A. Durán",
+              "referencia_obra": "(R. 5. xv)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de antipatía . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

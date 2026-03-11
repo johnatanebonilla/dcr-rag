@@ -1,0 +1,575 @@
+{
+  "lema": "ACONSEJAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar consejo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ninguna cosa más peligrosa que el aconsejar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 47 (R. 25. 120 2 )."
+            },
+            {
+              "texto_cita": "«He considerado que de las buenas y concertadas repúblicas se habían de desterrar los poetas, como aconsejaba Platón, á lo menos los lascivos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 38 (R. 1. 485 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. , para expresar la persona que recibe el consejo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El consejo que me pedís no sólo ha de parar en aconsejaros, sino en ayudaros con todo aquello que mis fuerzas alcanzaren.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 201 2 )."
+            },
+            {
+              "texto_cita": "«El toque está en que tengan [los gobernadores] buena intención y deseen acertar en todo, que nunca les faltará quien les aconseje y encamine en lo que han de hacer.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 32 (R. 1. 474 2 )."
+            },
+            {
+              "texto_cita": "«Cumplirás con tu cristiana profesión aconsejando bien á quien mal te quiere.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 74 (R. 1. 558 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si por caso errase el aconsejador, no por eso erraba el aconsejado, pues le mandan que en este caso siga su consejo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 3, § 3 (R. 8. 115 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á , por analogía con persuadir (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me proveyeron de dineros y de un buen caballo, aconsejándome á que me pusiese en cobro, porque me había granjeado muchos, fuertes y poderosos enemigos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 1. 5 (R. 1. 567 2 )."
+            },
+            {
+              "texto_cita": "«No os aconsejo por esto á que perdonéis á vuestra mujer para volvella á vuestra casa, que á esto no hay ley que os obligue.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 7 (R. 1. 637 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con de , para expresar el objeto con respecto al cual se da consejo (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Persígueme el rey mi hermano; | Mal le aconsejan de mí.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mejor mozo de de España , 1. 12 (R. 41. 614 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con acus. , para expresar lo que se da como consejo; en esta construcción la persona que recibe el consejo figura como dativo.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al salir de Lima prometió á cuantos le aconsejaron la moderación y clemencia, que no tuviesen cuidado, que Almagro viviría y volvería con él á la amistad antigua.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 361 2 ). — Part."
+            },
+            {
+              "texto_cita": "«Me admiro de que se hallen tan poco introducidos estos arbitrios, aconsejados desde tiempo antiquísimo por personas muy sensatas.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7.35)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un pron. neutro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo visito las plazas, como vuesa merced me lo aconseja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 51 (R. 1. 513 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si no quieres que llore, y sepa el mundo | El lastimoso fin que ausente espero, | No me aconsejes el salir de Avero.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio , 2. 7 (R. 5. 213 1 )."
+            },
+            {
+              "texto_cita": "«Combatir y triunfar sólo aconseja | Diomedes impaciente.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poét. 6 (1. 118)."
+            },
+            {
+              "texto_cita": "«Retirarte á la Albaida te aconsejo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 2 (2. 62)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con una prop. subj. precedida ó no de que .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aconsejáronnos los prudentes religiosos que nos volviésemos á casa.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 113 1 )."
+            },
+            {
+              "texto_cita": "«Sancho amigo, no gastes tiempo en aconsejarme que deje tan rara, tan felice y tan no vista imitación.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 25 (R. 1. 313 2 )."
+            },
+            {
+              "texto_cita": "«El bachiller Sansón Carrasco aconsejó á D. Quijote que volviese á proseguir sus dejadas caballerías.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 15 (R. 1. 434 1 )."
+            },
+            {
+              "texto_cita": "«Quise seguirla, y lo hiciera si no me aconsejara Montesinos que no me cansase en ello.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 23 (R. 1. 454 1 )."
+            },
+            {
+              "texto_cita": "«Pagó Sancho al ventero magníficamente, y aconsejóle que alabase menos la provisión de su venta, ó la tuviese más proveída.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 59 (R. 1. 530 1 )."
+            },
+            {
+              "texto_cita": "«Con mucha razón aconseja Séneca que busque la soledad el que quiera guardar la inocencia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2, 2, § 7 (R. 8. 106 2 )."
+            },
+            {
+              "texto_cita": "«Aconsejó Judas Macabeo á sus soldados que hasta haber acabado la batalla no tocasen á los despojos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 96 (R. 25. 252 1 ). —"
+            },
+            {
+              "texto_cita": "«Les agradeció mucho la intención que tenían de aconsejar á su señor fuese emperador y no arzobispo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 27 (R. 1. 320 1 )."
+            },
+            {
+              "texto_cita": "«Muchas veces te he aconsejado no seas tan pródigo de refranes, y que te vayas á la mano en decirlos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 67 (R. 1. 546 2 )."
+            },
+            {
+              "texto_cita": "«Le rogaron y aconsejaron tuviese cuenta con su salud.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 73 (R. 1. 556 1 )."
+            },
+            {
+              "texto_cita": "«Aconsejaría yo á los que tienen oración, en especial al principio, procuren amistad y trato con otras personas que traten de lo mesmo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 7 (R. 53. 37 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En esto llegó D. Quijote, y sabiendo lo que pasaba y la celeridad con que Sancho se había de partir á su gobierno, con licencia del duque le tomó por la mano y se fue con él á su estancia, con intención de aconsejarle cómo se había de haber en su oficio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 42 (R. 1. 491 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Sirviendo de sujeto un nombre de cosa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Embravecido él, --- ejecutó en ella todo lo que su crueldad y furor le aconsejaron.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 5. 2. 20 (R. 6. 646 2 )"
+        },
+        {
+          "texto_cita": "«Aunque, como dijo el rey Tiridates, es de particulares mantener lo propio y de reyes batallar por lo ajeno, debe entenderse esto cuando la razón y la prudencia lo aconsejan.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 59 (R. 25. 159 1 )."
+        },
+        {
+          "texto_cita": "«Respondí [á tus finezas] menos ingrata | Que debiera aconsejarme | El decoro de mi honor.»",
+          "autor": "Cald.",
+          "referencia_obra": "El galán fantasma , 1. 1 (R. 7. 291 2 )."
+        },
+        {
+          "texto_cita": "«Cuando esta razón no bastase para establecer la necesidad de los espectáculos, otra muy urgente y poderosa aconsejaría su establecimiento, cual es la importancia de retener á los nobles en sus provincias.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Mem. sobre espect. 2 (R. 46. 493 2 )."
+        },
+        {
+          "texto_cita": "«Se veía obligado á seguir aquel partido por ser el único que aconsejaba la razón y la prudencia.»",
+          "autor": "Quint.",
+          "referencia_obra": "Obr. inéd. p.174."
+        },
+        {
+          "texto_cita": "«Por una causa análoga á la que aconsejó adoptar el número de sílabas como medida de los versos, aun en muchos de los himnos latinos compuestos en la edad media, no se dudó tampoco emplear en ellos el recurso auxiliar de la rima.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Anot. á la Poét. 3. 10 (1. 160)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl . Tomar ó pedir consejo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien á solas se aconseja, á solas se remesa ó desaconseja:»",
+              "autor": "",
+              "referencia_obra": "refrán que advierte los riesgos de gobernarse uno por solo su dictamen en asuntos de importancia."
+            },
+            {
+              "texto_cita": "«El que me dan por esposo y el que me ha de dar sepultura viene pasado mañana: poco tiempo te queda para aconsejarte, aunque á mí me queda harto para arrepentirme.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 6 (R. 1. 97 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar la persona á quien se pide consejo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aconsejándose con su amigo Cortadillo, con parecer de entrambos sacó la bolsa del sacristán.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 3 (R. 1. 139 2 )."
+            },
+            {
+              "texto_cita": "«Acerca desta obligación de luégo pagar hay mucho que decir, y también mucho engaño en los malos pagadores: quien quisiere tener segura su conciencia, acónsejese con quien le sepa desengañar.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 2. 1 (R. 8. 216 2 )."
+            },
+            {
+              "texto_cita": "«Soy también perfecta sabiduría del Eterno Padre, y con todo eso apenas hay quien se aconseje conmigo.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem . 2. 15 (R. 8. 494 2 )."
+            },
+            {
+              "texto_cita": "«Dice mi Séneca que si los pobres que desean ser ricos se aconsejasen con los que lo son, que oyéndo los cuidados que tienen, las envidias que padecen, los temores que sufren, las solicitudes que los arrastran, los ladrones que los acechan, que ningún mendigo desearía ser poderoso.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 185 2 )."
+            },
+            {
+              "texto_cita": "«Aconsejaos con los buenos, | Y reinaréis como un santo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los Tellos de Meneses , 2ª pte. 2. 12 ( R. 24. 540 2 )."
+            },
+            {
+              "texto_cita": "«¿Cuándo con vos, mi bien, no me aconsejo?»",
+              "autor": "",
+              "referencia_obra": "Id. Peribáñez y el Comendador de Ocaña , 3. 22 (R. 41. 300 3 )."
+            },
+            {
+              "texto_cita": "«Para las armas, es necio | Quien con mujer se aconseja.»",
+              "autor": "",
+              "referencia_obra": "Id. El testimonio vengado , 3. 9 (R. 41. 419 2 )."
+            },
+            {
+              "texto_cita": "«Si la comunicación | De Enrique pudiere tanto, | Que con amoroso encanto | Me obligare á su afición, | Con Leonora me aconsejo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por razón de estado , 2. 7 (R. 5. 174 2 )."
+            },
+            {
+              "texto_cita": "«Venid conmigo; que es bien | Que me aconseje con vos, | Pues sois mi deudo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Todo es ventura , 1. 10 (R. 20. 122 3 )."
+            },
+            {
+              "texto_cita": "«Vé tú, llámame al momento | A don Gonzalo Fernández | De Córdova, porque tengo | Que aconsejarme con él.»",
+              "autor": "Cald.",
+              "referencia_obra": "El sitio de Bredá , 2. 2 (R. 7. 116 2 )."
+            },
+            {
+              "texto_cita": "«Don Lope amigo, yo vengo | --- A aconsejarme con vos | En una duda que tengo.»",
+              "autor": "",
+              "referencia_obra": "Id. A secreto agravio secreta venganza , 3. 3 (R. 7. 605 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en el mismo sentido, aunque es menos común.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me contaba | De su mal lo presente y lo pasado, | Y contra mí de mí se aconsejaba.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 5 (R. 17. 206 1 )."
+            },
+            {
+              "texto_cita": "«Habiendo ido á aconsejarse de los dos, ellos le afirmaron en su propósito.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitán (R. 19. 276 2 ). —"
+            },
+            {
+              "texto_cita": "«Pues, señor, si te aconsejas | De mi aviso, pues le tienes | A la mano, que le prendas | Te aconsejo.»",
+              "autor": "Mto.",
+              "referencia_obra": "El poder de la amistad , 2. 13 (R. 39. 33 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "La materia sobre que versa el consejo se expresa con en ó de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después nos aconsejaremos en lo que más nos conviniere.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2 (R. 1. 127 2 ). —"
+            },
+            {
+              "texto_cita": "«Antes que Ricardo respondiese á su amo, se aconsejó con Mahamut de qué le respondería.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 1. 130 1 )."
+            },
+            {
+              "texto_cita": "«Se fue á buscar á sus camaradas para aconsejarse con ellos de lo que hacer debía.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 6 (R. 1. 167 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Part. Con el adv. mal se aplica al que obra sin consejo é imprudentemente, por su propio dictamen y capricho.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¡Ay, mal aconsejado Lisandro! ¿cómo, y no sabías tú las condiciones dobladas de Carino?»",
+          "autor": "Cerv.",
+          "referencia_obra": "Gal. 1 (R. 1. 9 2 )."
+        },
+        {
+          "texto_cita": "«Pedid y suplicad al señor vuestro amo que no toque, maltrate, hiera ni mate al caballero de los Espejos, que á sus pies tiene, porque sin duda alguna es el atrevido y mal aconsejado el bachiller Sansón Carrasco, nuestro compatrioto.»",
+          "autor": "",
+          "referencia_obra": "Id. Quij. 2. 14 (R. 1. 433 2 )."
+        },
+        {
+          "texto_cita": "«Canalla malvada y peor aconsejada, dejad en su libertad y libre albedrío á la persona que en esa vuestra fortaleza ó prisión tenéis oprimida. Id. ib . 2. 29 (R. 1. 466 2 — Aquí parece que el comparativo peor hace relación á la primera sílaba de malvada , cual si éste fuese un compuesto por el estilo de la frase mal nacido ).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Si la pasión de la furiosa y mal aconsejada ira te incitare á deseos de venganza, considera --- con cuán admirable paciencia aquel inocentísimo cordero sufrió tantas maneras de injurias.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 3. 23 (R. 6. 439 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Vacilaba el uso entre aconsejar y consejar. Es de notarse el uso de éste en el Fuero Juzgo en el sentido del lat. consulere , mirar por. La Acad. le da también la acepción de Conferir con alguno, la cual todavía no tenemos comprobada.) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Eran los que principalmente consejaban al infante don Enrique.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II , 14. 2 (R. 68. 380 2 )."
+        },
+        {
+          "texto_cita": "«Al fin fue mal consejado, | Ca dio Leon á don Fernando, | Toda Castilla dexando | A don Sancho el Deseado.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var. 243 ( Rim. inéd. 308)."
+        },
+        {
+          "texto_cita": "«A quien puedas corregir | E consejar, | O te pueda amonestar, | Debes seguir.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 63."
+        },
+        {
+          "texto_cita": "«Templat la cúpida set; | Consejat rettos juyçios; | Esquivat los perjudiçios; | La raçon obedesçet.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 225."
+        },
+        {
+          "texto_cita": "«Consejat que los judgados | Sean por grand eleccion.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 233."
+        },
+        {
+          "texto_cita": "«Hoy son consejadas, é se facen en el reyno muchas cosas que son deservicio del rey.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 197."
+        },
+        {
+          "texto_cita": "«Empero yo consejando | A vos que mucho sabedes, | Es, señor, que lo cursedes | El dezir contynuando.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 280."
+        },
+        {
+          "texto_cita": "«Señor Juan Furtado, sed bien consejado.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 102. — Siglo XIV"
+        },
+        {
+          "texto_cita": "«Por aquesto en lo primero | Vos consejo, noble rey, | Amad a Dios uerdadero | E onrrad la ssu ley.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 127 (R. 57. 481 1 )."
+        },
+        {
+          "texto_cita": "«Un mi vasallo me dijo --- que así como él era tenudo de me aconsejar lo mejor que él sopiese et pudiese, que me pedia por merced que le aconsejase en esto lo que entendia que era mas su pro.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 6 (R. 51. 392 2 )"
+        },
+        {
+          "texto_cita": "«Todos los grandes fechos que habia de facer todos los facia por su consejo; et también le consejaba el conde.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (R. 51. 392 2 )."
+        },
+        {
+          "texto_cita": "«Podedes consejar á vuestros hermanos en cuál manera vivan con sus mujeres.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 5 (R. 51. 399 2 )."
+        },
+        {
+          "texto_cita": "«Ruegovos que me consejedes lo que debo facer en esto.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 3 (R. 51. 413 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Esto serie quando alguno quisiese consejar ó facer á la muger del rey cosa en que feciese tuerto á su marido.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 24. 1 (2. 127)."
+        },
+        {
+          "texto_cita": "«Debese aconsejar con el obispo en cuyo obispado fuere el monasterio.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 9. 4 (1. 231)."
+        },
+        {
+          "texto_cita": "«Los clerigos beneficiados estan a los iuizios con los alcalles, e aconseian a los que an pleytos.»",
+          "autor": "Leyes nuevas",
+          "referencia_obra": "( O. L. 2. 208)."
+        },
+        {
+          "texto_cita": "«Cada uno destos que an de judgar los pleitos, si quisieren, pueden tomar algunos con que los oyan con ellos e con quien se conseien.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 140)."
+        },
+        {
+          "texto_cita": "«Si algun omne conseia á siervo aieno que fuya, ó lo encubre pues que sabe que es fuydo, si aquel que le conseió fuir pudiere fallar el siervo, peche otros tales dos siervos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 9. 1. 5 (152)."
+        },
+        {
+          "texto_cita": "«El que manda, ó conseia fazer omezilio es mas enculpado que aquel que lo faze de fecho.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6. 5. 12 (115)."
+        },
+        {
+          "texto_cita": "«Nos fazemos servicio á Dios quando conseiamos aquellos que an de nascer.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 2. 20 (73; * a aquellos. El latín: opem porrigimus )."
+        },
+        {
+          "texto_cita": "«El iuez, si quisiere tomar consigo algunos que oyan el pleyto con él, ó con quien se conseie, puédelo fazer si quisiere.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 2. 2 (24)."
+        },
+        {
+          "texto_cita": "«He si alguno for allado, que conselle mal de so principe, --- ó conselló su morte, --- el que lo fecier, iulgámoslo por escomungado.»",
+          "autor": "",
+          "referencia_obra": "Ib. proem. 10 (XI; * conseie, consege, consele)."
+        },
+        {
+          "texto_cita": "«El infante fue alegre, tóuos por consseiado, | Non oluidó vn punto de quanto le fue mandado.»",
+          "autor": "",
+          "referencia_obra": "Alex . 75 (R. 57. 149 2 )."
+        },
+        {
+          "texto_cita": "«Abran por ti repaire muchas gentes lazradas, | Que vernán sin conseio, irán aconseiadas.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 243 (R. 57. 47 2 )."
+        },
+        {
+          "texto_cita": "«Tan mal se consseiaron estos ynffantes amos.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2537 (R. 57. 27 2 )."
+        },
+        {
+          "texto_cita": "«Esto mandó Myo Cid, Minaya lo ouo consseiado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1251. (R. 57.16 1 )."
+        },
+        {
+          "texto_cita": "«Sano el rey Fariz con él se conseiauan.»",
+          "autor": "",
+          "referencia_obra": "Ib . 841 (R. 57. 11 2 )."
+        },
+        {
+          "texto_cita": "«Toda la noche iaze en çelada el que en buena ora nasco, | Commo los conseiaba Minaya Albar Fanez.»",
+          "autor": "",
+          "referencia_obra": "lb . 438 (R. 57. 6 2 )."
+        },
+        {
+          "texto_cita": "«Rachel e Vidas seyen-se conseiando.»",
+          "autor": "",
+          "referencia_obra": "Ib . 122 (R. 57. 3 1 ). —"
+        },
+        {
+          "texto_cita": "«Leuet uno uozero, aut parente, uel uno homine con qui se consseie.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid , año 1202 ( Mem. Acad. Hist. 8. 34)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y consejar . Port. aconselhar , conselhar ; cat. , val. aconsellar ; mall. aconseyar ; prov. acossellar , cosselhar , cosseillar ; fr. conseiller ; it. consigliare : del lat. consiliari , de consilium , consejo.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. En general. — Refl.: c . — Part. : a , β , α α - a , γ , α α - d . — Con á : a , β , β β . — Con : c , β . — De: a , β , γ γ - c , γ - χ , δ . — En: c , δ . — Con infin. : a , γ , γ γ . — Con prop . interr. : α , γ , ε ε . — Con prop . subj. : a , γ , δ δ . \u0000"
+}

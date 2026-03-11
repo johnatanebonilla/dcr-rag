@@ -1,0 +1,740 @@
+{
+  "lema": "PASMAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Enfriar mucho o bruscamente alguna cosa o una persona, aterir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Cómo, si bien supieras | Los trances, los peligros, | Los males que le esperan, | Doblaras los gemidos! | Te pasmará el invierno, | Te abrasará el estío, | Te embestirán las fieras, | Te asombrarán los riscos.»",
+              "autor": "Vaca",
+              "referencia_obra": ", Poes. (R. 34. 1 3 ). X"
+            },
+            {
+              "texto_cita": "«Y son los vientos que inspiran | Destemplados soplos, cuyo | Hielo nos pasma.»",
+              "autor": "Cald.",
+              "referencia_obra": "( Pagés , Dicc .) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y como el pez que introduce | Su venenosa violencia | Por el hilo y por la caña, | Y al pescador pasma y hiela | El brazo que le detiene; | A mí el alma me penetra | El dulce, ardiente veneno.»",
+              "autor": "Mto.",
+              "referencia_obra": "El desdén con el desdén, 2. 4 (R. 39. 102)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No abra usted esa ventana, | Dice otro, que pasma el aire.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Un novio para la niña, 3. 7 (1. 363)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Prnl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me dejé despeñar por una alta ventana que a la huerta salía; en quien el fiero golpe con que me hallé arrojado, la desnudez, el frío --- conjuradas contra mi frágil suerte, pudiera reducirla a un muy estrecho punto ---. Temí pasmarme u otra igual desventura.»",
+              "autor": "Césp.",
+              "referencia_obra": "y Men . Sold. Pínd. intr. (R. 18. 275 1 ). +"
+            },
+            {
+              "texto_cita": "«No corren | Los disciplinantes por las noches frescas sin calor ni frío | El riesgo de pasmarse que en otras partes.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 2. 14 (R. 91. 86 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, que indica la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se pasma uno de frío, porque no tiene contra él defensa de ninguna especie.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Un viaje, p. 355."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Tratándose de las plantas, Secarse, envanecerse. Con en. met. ö",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por zelo, y reflexion a mi ascendencia | Arrimé el hombro al Solio; pero en flores | El fruto se pasmó de mi experiencia.»",
+              "autor": "Lobo",
+              "referencia_obra": ", Obr. poética, 2. (p. 336)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El [color] del grano es dorado y rojizo, nunca blanco, ni aun por dentro, a no estar bragado o pasmado.»",
+              "autor": "Oliván",
+              "referencia_obra": "( Pagés , Dicc. ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Ocasionar, causar suspensión o pérdida de los sentidos y del movimiento, aturdir ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ellas vienen las más galanas señoras que se puedan desear, especialmente la Princesa Dulcinea mi señora, que pasma los sentidos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 10 (Cl. C. 13. 187). X"
+            },
+            {
+              "texto_cita": "«A Dios vela y revela un cerco de belleza, | Con quien el alma mía por dondequier tropieza, | Que ven doquier mis ojos y escuchan mis oídos, | Y va perpetuamente pasmando mis sentidos | Porque de todas partes me van diciendo ¡aquí!»",
+              "autor": "Pombo",
+              "referencia_obra": ", Antol. poética, p. 219."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La rígida aspereza | Y las dificultades | Que ha mostrado el portero | Me pasman de terror, hielan mi sangre.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Don Álvaro, 2 (Cl. C. 206. 46)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Prnl. Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hirieron a Cortés con honda, tan mal, que se le pasmó la cabeza. Lz. de Gómara (Pagés. Dicc. ) .",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En los clásicos se halla usado como intrans. con el mismo sentido que en la construcción prnl. Con a, que señala la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No cuando de golpe da en el suelo la fábrica suntuosa, oprimida del peso de la gente en el espectáculo festivo de los juegos públicos, depulsa tanto al que sobre ella, asiéndose del frágil antepecho, le advierte, titubeando para la caída, como pasmó la hermosa Laurisana al impensado aviso de su notificado cautiverio.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este es aquel azote sordo, que está hiriendo sin cesar el corazón pasmado del delincuente.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro (4. 188). X"
+            },
+            {
+              "texto_cita": "«Con trabajo los agrupo, al pie del más grave, que creen pasmado, y viene a andas en una hamaca, colgando de un palo.»",
+              "autor": "Martí",
+              "referencia_obra": ", Sus mejores páginas, p. 230."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "En los siguientes ejemplos tratándose de cosas, Detener, parar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así lo comprueba el grande empréstito de hace un siglo, dogal perpetuo en nuestra garganta, operación inicial y única puede decirse, que mató desde el primer día nuestro crédito, que lo pasmó, y que causó el permanente fenómeno de ser nuestra nación la menos dichosa de América.»",
+              "autor": "",
+              "referencia_obra": "M. F. Suárez, Sueños, 3 (p. 186). X"
+            },
+            {
+              "texto_cita": "«Miré las caras que lo rodeaban: caras sin rasurar, sucias, estiradas por una borrachera que había pasmado la muerte.»",
+              "autor": "Carpentier",
+              "referencia_obra": ", Los pasos perdidos, p. 70."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Asombrar, sorprender ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vi, --- cercado de veinte hombres, un viejecillo más blanco que la nieve, rodeándose entre ellos con espada y broquel | --- Pasmóme el caso.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 15 (R. 18. 306 1 )."
+            },
+            {
+              "texto_cita": "«¿A quién no pasma esta grandeza, que Dios necesariamente será, siempre será Dios, y que necesariamente fue, y siempre fue Dios?»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios, 1. 12 (p. 145)."
+            },
+            {
+              "texto_cita": "«Busca los placeres inocentes | En las flores y frutas diferentes. | ¿Quieren ustedes creer, esto me pasma, | Que aun allí le persigue la Fantasma?»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb. 6. 2 (R. 61. 379 2 )."
+            },
+            {
+              "texto_cita": "«Pero ¿cómo en su vuelo | La poderosa voz seguir podría | Que pasma al mundo y maravilla al cielo?»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Luisa Todi (R. 19. 6 1 )."
+            },
+            {
+              "texto_cita": "«Empezó a desgarrarse el lujoso vestido ---, con tales visajes y contorsiones que pasmaron a los circunstantes.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 16 (5. 128). X"
+            },
+            {
+              "texto_cita": "«¿Es verdad, benditos padres, | Que el Condestable está preso?... | Anoche dio esta noticia, | Que nos pasmó, un caballero.»",
+              "autor": "",
+              "referencia_obra": "Id. Rom. (Cl. C. 9. 42). X"
+            },
+            {
+              "texto_cita": "«¡No sé por qué le pasma tanto el cristal roto de mi reloj! — y se lo puso en la palma de la mano, mirándolo mucho.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas, p. 124."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo el sujeto una prop. indicativa o infinitiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto me tenía suspenso, porque ¿a quién no pasma ver un concierto tan extraño, compuesto de oposiciones?»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón, 1. 3 (Cl. C. 165. 35)."
+            },
+            {
+              "texto_cita": "«Pero lo que más te ha de pasmar es el grado en que se halla este vicio en los pobres mendigos.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cartas marr. 38 (2. 173). X"
+            },
+            {
+              "texto_cita": "«Pero lo que más me pasma | Es, las respuestas que tiene.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña, p. 38."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí pasma el pensamiento.»",
+              "autor": "",
+              "referencia_obra": "Nieremb, Hermosura de Dios, 2. 3 (p. 300). X"
+            },
+            {
+              "texto_cita": "«Seguía gustoso las amables dulzuras de la parola, que aunque no contengan más discreción que los sazonados chistes del sexo, sobra para entretener, divertir y pasmar, sin acordarme de que llevaba por compañero a un difunto.»",
+              "autor": "Torres Villarroel",
+              "referencia_obra": ", Visiones y visitas (Cl. C. 161. 92). +"
+            },
+            {
+              "texto_cita": "«Hasta los personajes subalternos conservan una heroicidad que pasma.»",
+              "autor": "Arteaga",
+              "referencia_obra": ", Belleza Ideal, 5 (Cl. C. 122. 61)."
+            },
+            {
+              "texto_cita": "«Y así los referían [infinidad de hechos] con una credulidad que pasma.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór. 3. 6 (p. 539). X"
+            },
+            {
+              "texto_cita": "«En el lugar sólo se saben las cosas hace cuatro días, y la verdad sea dicha, ha pasmado tu transformación.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pepita Jiménez, p. 159. X"
+            },
+            {
+              "texto_cita": "«Pasman sus trabajos, sus riesgos, sus vigilias, sus agonías, hasta tocar la tierra del Paraíso, recocida y yerma.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas, p. 172."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a y una prop. infinitiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal como son, hirvientes, las marinas | Aguas que pasman de temor al verlas, | En el fondo, entre conchas nacarinas, | Guardan pálidas perlas.»",
+              "autor": "Silva",
+              "referencia_obra": ", El libro de versos, p. 121."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que pasma en aquellos padres no es el sello genial —que a nuestro juicio lo tuvieron solamente la compleja figura de Bolívar y nuestro sabio-mártir-es la intensidad de su fe en el ideal.»",
+              "autor": "Valencia",
+              "referencia_obra": ", Discursos, 1 (p. 118)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por, que señala la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi padre no quiere que me muestre en público hasta que pasme por lo bien plantado, según él dice.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pepita Jiménez, p. 59."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Prnl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Turbáron[se] los grandes, los robustos | Rindiéron[se] temblando, y desmayaron, | Y tú pusiste, Dios, como la rueda, | Como la artista queda | Al ímpetu del viento, a estos injustos, | Que mil huyendo de uno se pasmaron.»",
+              "autor": "Herr.",
+              "referencia_obra": "Poes. canc. 1 (Cl. C. 26. 38). X"
+            },
+            {
+              "texto_cita": "«Desta manera castigo yo a los deslenguados y atrevidos. Pasmáronse todos, y ninguno le osó decir palabra: tanta era la obediencia que le tenían.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 60 (Cl. C. 22. 122). X"
+            },
+            {
+              "texto_cita": "«Quien no lo crea, | Que se arrime a hacer cocos | A alguna seria. | Allá verá el tonto | La ganga que lleva, | Y si espera gustos, | Se queda por ésta. | Suplica | Contempla, | Se pasma, | Se inquieta.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Poes. (Cl. C. 136. 129). X"
+            },
+            {
+              "texto_cita": "«Creo que mis lectores se pasmarán, como yo me pasmé, cuando lean aquí que la tabla de Severiano era Esperancita, la hija mayor de don Isidro Barragán.»",
+              "autor": "",
+              "referencia_obra": "P. Galdós, Lo prohibido (Cl. Castal. 34. 481). X"
+            },
+            {
+              "texto_cita": "«César estuvo encantador: hizo el elogio de los platos y de las tías, ---. El auditorio se pasmaba.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Frutos, 15 (p. 179). X"
+            },
+            {
+              "texto_cita": "«¡Pásmense los adolescentes que hayan llegado al hemiciclo político en las últimas semanas.»",
+              "autor": "Rueda Vargas",
+              "referencia_obra": ", Lentus in umbra, p. 222. X"
+            },
+            {
+              "texto_cita": "«Pásmate pues. Reivindicado a la hora de nona. Para que veás que, cuando se asumen los riesgos de una vocación, hay que ir con confianza.»",
+              "autor": "Espinosa",
+              "referencia_obra": ", Doce infiernos, p. 74."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a , que señala la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasmose el mozo a las razones de Preciosa, y púsose como embelesado, mirando al suelo, dando muestras que consideraba lo que responder debía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gitanilla (Cl. C. 27. 40). — El término es una prop. infinitiva. X"
+            },
+            {
+              "texto_cita": "«Pasmáronse todos al ver la nueva locura de don Quijote.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 73 (Cl. C. 22. 313)."
+            },
+            {
+              "texto_cita": "«Pasmáronse los vecinos de su capital al ver al Padre Casas ofrecerse a traer a la obediencia del rey aquella provincia.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (3. 173)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con ante , que señala la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ante Jesús me postro y ante Colón me pasmo: | Adoro y rezo a Cristo, y callo ante Colón: | A aquél elevo mi alma, y ante éste me entusiasmo: | Pero con ambos habla no más mi corazón.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Poes . (Cl. C. 63. 261). X"
+            },
+            {
+              "texto_cita": "«Si a esos capítulos de fisiología social, hubiera añadido Beyle algún comentario — a lo Adler — respecto a las resonancias que tienen en el adulto las emociones y los fracasos de la niñez, muchos se pasmarían ante la penetrante psicología del escritor.»",
+              "autor": "",
+              "referencia_obra": "Torres, Tres inventores , p. 102."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que cierto no sé yo, si la mano acostumbrada a vestirse del guante, sufriría pasmarse con la dureza de la cadena.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 12 (4. 493)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con de , que señala el motivo de la sorpresa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Toda la naturaleza se pasma de miedo, y sólo el hombrecillo es el que de nada se espanta.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Magd . 3. 44 (R. 27. 378 1 ). X"
+            },
+            {
+              "texto_cita": "«¡Qué valor! — ¡Cuánta enterza! —¡Y nos pasmábamos del General!»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Sonata de invierno , p. 143. X"
+            },
+            {
+              "texto_cita": "«Dice la reina que no puede otorgársela. Thous se resigna. Doña Isabel se pasma de su mansedumbre.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 87. X"
+            },
+            {
+              "texto_cita": "«Cuando Munthe (autor de ‘‘El libro de San Michele’’ ) se aisló en la isla de Capri, repuso a los estetas que se pasmaban de su carencia de música ---: ‘‘¡Pero tengo los pájaros!’’.»",
+              "autor": "Quiroga",
+              "referencia_obra": ", Cartas , 8 (p. 91). — met."
+            },
+            {
+              "texto_cita": "«¡Oh gran Dios! ¿cuál amor te trajo del cielo a casarte acá en la tierra? ---, tú, de cuya belleza se pasma el sol, los ángeles quedan embelesados mirdándote.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Magd . 4. 60 (R. 27. 401 1 ). — El término es una prop. subjuntiva. X"
+            },
+            {
+              "texto_cita": "«Pasmábase su autor de que hubiera gente bastante estólida para hallar más inmoralidad en Ana Spurzheim que en la Tabla pitagórica, y anatematizaba a los tartufos maliciosos que en dondequiera ven inmoralidades.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil , 17 (p. 188). X"
+            },
+            {
+              "texto_cita": "«Allí, don Emilio, recordaba su niñez; tenía júbilos y lágrimas; prometía la felicidad; comía y merendaba; y los hacendados y jornaleros le miraban, pasmándose de que comiese como ellos y más que ellos, siendo quien era.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 84. — El término es una prop. indicativa."
+            },
+            {
+              "texto_cita": "«Se espantarían y pasmarían [los infieles] de cómo la gente que tiene fe de estas verdades, no vende todo cuanto tiene por gozar de tales bienes.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y medit . 3. 3 (2. 370 1 ). — El término es una prop. infinitiva. X"
+            },
+            {
+              "texto_cita": "«¡Justicia, Señor, justicia! | Detén, detén el acento, | Que de escucharte me pasmo, | Que de oírte me estremezco. | El corazón a pedazos, | Quebrándoseme en el pecho | Sin orden late.»",
+              "autor": "Cald.",
+              "referencia_obra": "Autos , 2 (Cl. C. 74. 56)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con la expresión de arriba abajo . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando don Quijote vio lo que era, enmudeció y pasmose de arriba abajo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 10 (Cl. C. 6. 151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "El uso intrans. nace aquí del prnl . En los clásicos se halla usado como intrans ., con el mismo sentido que en la constr. prnl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Temblaron los poderosos de Moab y pasmaron los moradores de la tierra de Canaán.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. medit . 1. 2 (2. 61 1 )."
+            },
+            {
+              "texto_cita": "«Ansí que pues pasmastes, y no vino | Razón a vuestra boca cual cumplía, | Ni supiste decir lo que convino.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 2. 32 (2. 154). X"
+            },
+            {
+              "texto_cita": "«Yo pasmé, sin saber qué decir ni hacer.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 3 (Cl. C. 83. 226)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasmó con semejante acaecimiento la afligida señora.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 21 (R. 18. 316 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con ser ésta una cosa por una parte monstruosa, y tan lastimera, y por otra tan usada, pasamos por ella ligeramente sin que nadie pasme de tan gran desorden.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 2. 19 (1. 124 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién no sale de juicio considerando y adorando y pasmando de este gran poder y saber?»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 1. 38 (4. 183 1 ). — El término es una prop. infinitiva."
+            },
+            {
+              "texto_cita": "«¿Quién no gritará, quién no pasmará de ver a lo que se ponen los hombres por vida tan breve?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 2. 30 (5. 353 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en y un gerundio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasmé en mirándole, y él haciéndose cruces acrecentó la admiración de las circunstancias.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 7 (R. 18. 335 1 )."
+            },
+            {
+              "texto_cita": "«Pasmó [Figueroa] en oyendo mis razones.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 26 (R. 18. 370 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Por sinécdoque. Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y mis ojos cobrando mucha lumbre | Pasmaron del engaño, | En que andan los que rigen la alta cumbre.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. Canc. a Nuestra Señ . (4. 392)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estando, pues, también los de la ciudad con grande admiración ---, como pasmados, no sabiendo lo que podía ser ---.»",
+              "autor": "F. de Mena",
+              "referencia_obra": ", Teágenes y Cariclea , 7 (p. 256)."
+            },
+            {
+              "texto_cita": "«Estos mis compañeros han quedado pasmados callando.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 2. 32 (2. 149). X"
+            },
+            {
+              "texto_cita": "«Cuando la gitana vieja oyó el ensalmo y el embuste, quedó pasmada, y más lo quedó Andrés, que vio que todo era invención de su agudo ingenio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gitanilla (Cl. C. 27. 62). +"
+            },
+            {
+              "texto_cita": "«Pidiole [a Don Prutos] plazos mi padre | Sin esperar obtenerlos, | Pero se quedó pasmado | Cuando con rostro halagüeño | Le dijo don Baltasssar: ---.»",
+              "autor": "Bretón",
+              "referencia_obra": ", El pelo de la dehesa , 1. 1 (Cl. C. 92. 133)."
+            },
+            {
+              "texto_cita": "«Los hombres más ilustrados de Nápoles, y el mismo cardenal Pilomarino, estaban atónitos y pasmados.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 13 (5. 103). X"
+            },
+            {
+              "texto_cita": "«Duncanio estaba atónito y pasmado | Sin saber qué decir en tal cuidado. | —Toma —dijo Satán— no estés inquieto, | Toma este libro y usa su secreto.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Poes . p. 126. — En superlativo absol. X"
+            },
+            {
+              "texto_cita": "«Sobaba las esportillas de sus gavetas, me miraba muy pasmado, y por último me dijo: ¡No está, el duro que pides! ¿Es que no me lo devolverías cuando llegaste de la Albufera, y por eso no estará?»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 113."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a y una prop. infinitiva . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedóse atónito y como pasmado al oír semejante cuestión el metafisiquísimo fray Toribio.»",
+              "autor": "Isla",
+              "referencia_obra": ", Fr. Ger . 2. 1 (Cl. C. 149. 25). X"
+            },
+            {
+              "texto_cita": "«Ya otros antes han venido | Que, pasmados al mirarme, | El bien con que les brindaba | Se perdieron por cobardes.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes . (Cl. C. 78. 252)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con el cual [silencio] queda el ánima religiosa como absorta y pasmada con una grande admiración de tan incomprensible majestad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 38 (4. 190 2 ). X"
+            },
+            {
+              "texto_cita": "«Soy el Rey de Francia, quedo | A tu Emperador rendido, | Y heme ya tu prisionero, | Retira Urbieta la lanza | Con el debido respeto, | Y con tan rara fortuna | Pasmado queda y suspenso.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Rom . (Cl. C. 9. 255)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con de , que denota: — la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuantos la oyeron [la composición], cuantos la leyeron, quedaron pasmados de admiración.»",
+              "autor": "Quint.",
+              "referencia_obra": "Mel . (R. 19. 112 1 )."
+            },
+            {
+              "texto_cita": "«Pero me quedo pasmado | De tan rápido suceso.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, ¡Cuidado con las novias! , 4. 3. 12 (p. 21 2 ). X"
+            },
+            {
+              "texto_cita": "«Tú, entre la multitud, vestido de uniforme y siempre guapo aunque quizá ligeramente más viejo, estabas pasmado de estupor.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Cadwell , p. 139. X"
+            },
+            {
+              "texto_cita": "«Pasmada de terror, atribulada por la fatalidad de su destino, Visitación reconoció en esos ojos los síntomas de la enfermedad cuya amenaza los había obligado, a ella y a su hermano, a desterrarse para siempre de un reino milenario en el cual eran príncipes.»",
+              "autor": "García Márquez",
+              "referencia_obra": ", Cien años de soledad , p. 45. — Siendo el término una prop. infinitiva. X"
+            },
+            {
+              "texto_cita": "«Quedaba pasmado de oír le donairoso de su ceceo y de ver el brío de su desgarro.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz . 15 (Cl. C. 108. 200). X"
+            },
+            {
+              "texto_cita": "«Y saltaba de gozo, y dábase palmadas repetidas; esto en el año 29, que me dejó pasmado de ver quán de ilusión vivimos en este mundo.»",
+              "autor": "Larra",
+              "referencia_obra": ", Crít. lit. y artíst . (Cl. C. 52. 32)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Más que la griega, firme y atrevida, | A los cielos pasmados arrancó | Tu inglesa mano el fuego de la vida; | Y un buitre te devora el corazón.»",
+              "autor": "Caro",
+              "referencia_obra": ", Poes. complet. p. 74. X"
+            },
+            {
+              "texto_cita": "«Pasmado el elefante | Oyó a su familiar. | —Eso, exclamó, ni aun pude | Soñarlo yo jamás.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb . 60 (Cl. C. 179. 82)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Part. dep . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rebosan los halagos al deseo. | La inmensidad de brutos, mientras canta, | Trasl[a]dando a su voz los corazones, | Le consagran pasmadas atenciones.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Orfeo (Cl. C. 183. 49)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV : X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pasmado, el que tiene pasmo.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab . X"
+        },
+        {
+          "texto_cita": "«Obstupescit ... comiença se pasmar.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab . 318d. X"
+        },
+        {
+          "texto_cita": "« Mira ... Mirari significa como pasmarse en veer algo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 282d. X"
+        },
+        {
+          "texto_cita": "« Hebeo ... hebet pasmarse, es rudo, es faltoso, no tiene agudes a natura, es tibio.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 189b. X"
+        },
+        {
+          "texto_cita": "« Algerosus ... es como pasmado de frío.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 13d."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "constr. prnl . «Temblaron los poderosos de Moab y pasmaron los moradores de la tierra de Canaán.» Gran. Orac. y consid. medit . 1. 2 (2. 61 1 ). «Ansí que pues pasmastes, y no vino | Razón a vuestra boca cual cumplía, | Ni supiste decir lo que convino.» León , Expos. de Job , 2. 32 (2. 154). X «Yo pasmé, sin saber qué decir ni hacer.» Alemán , Guzmán , 1. 3 (Cl. C. 83. 226). — α α ) Con la prep. con . «Pasmó con semejante acaecimiento la afligida señora.» Césp. y Men. Sold. Pínd . 21 (R. 18. 316 2 ). — β β ) Con de . «Y con ser ésta una cosa por una parte monstruosa, y tan lastimera, y por otra tan usada, pasamos por ella ligeramente sin que nadie pasme de tan gran desorden.» Gran. Guía , 1. 2. 19 (1. 124 2 ). «¿Quién no sale de juicio considerando y adorando y pasmando de este gran poder y saber?» Id. Símb . 1. 38 (4. 183 1 ). — El término es una prop. infinitiva. «¿Quién no gritará, quién no pasmará de ver a lo que se ponen los hombres por vida tan breve?» Gran. Símb . 5. 2. 30 (5. 353 2 ). — γ γ ) Con en y un gerundio. «Pasmé en mirándole, y él haciéndose cruces acrecentó la admiración de las circunstancias.» Césp. y Men. Sold. Pínd . 7 (R. 18. 335 1 ). «Pasmó [Figueroa] en oyendo mis razones.» Id. ib . 26 (R. 18. 370 2 ). — δ δ ) Por sinécdoque. Con de . «Y mis ojos cobrando mucha lumbre | Pasmaron del engaño, | En que andan los que rigen la alta cumbre.» León , Poes. Canc. a Nuestra Señ . (4. 392). — ε ) Part . + «Estando, pues, también los de la ciudad con grande admiración ---, como pasmados, no sabiendo lo que podía ser ---.» F. de Mena , Teágenes y Cariclea , 7 (p. 256). «Estos mis compañeros han quedado pasmados callando.» León , Expos. de Job , 2. 32 (2. 149). X «Cuando la gitana vieja oyó el ensalmo y el embuste, quedó pasmada, y más lo quedó Andrés, que vio que todo era invención de su agudo ingenio.» Cerv. Gitanilla (Cl. C. 27. 62). + «Pidiole [a Don Prutos] plazos mi padre | Sin esperar obtenerlos, | Pero se quedó pasmado | Cuando con rostro halagüeño | Le dijo don Baltasssar: ---.» Bretón , El pelo de la dehesa , 1. 1 (Cl. C. 92. 133). «Los hombres más ilustrados de Nápoles, y el mismo cardenal Pilomarino, estaban atónitos y pasmados.» A. Saav. Masan . 1. 13 (5. 103). X «Duncanio estaba atónito y pasmado | Sin saber qué decir en tal cuidado. | —Toma —dijo Satán— no estés inquieto, | Toma este libro y usa su secreto.» P. A. Alarcón , Poes . p. 126. — En superlativo absol. X «Sobaba las esportillas de sus gavetas, me miraba muy pasmado, y por último me dijo: ¡No está, el duro que pides! ¿Es que no me lo devolverías cuando llegaste de la Albufera, y por eso no estará?» Miró , Años y leguas , p. 113. — α α ) Con a y una prop. infinitiva . X «Quedóse atónito y como pasmado al oír semejante cuestión el metafisiquísimo fray Toribio.» Isla , Fr. Ger . 2. 1 (Cl. C. 149. 25). X «Ya otros antes han venido | Que, pasmados al mirarme, | El bien con que les brindaba | Se perdieron por cobardes.» Quint. Poes . (Cl. C. 78. 252). — β β ) Con la prep. con . «Con el cual [silencio] queda el ánima religiosa como absorta y pasmada con una grande admiración de tan incomprensible majestad.» Gran. Símb . 1. 38 (4. 190 2 ). X «Soy el Rey de Francia, quedo | A tu Emperador rendido, | Y heme ya tu prisionero, | Retira Urbieta la lanza | Con el debido respeto, | Y con tan rara fortuna | Pasmado queda y suspenso.» A. Saav. Rom . (Cl. C. 9. 255). — γ γ ) Con de , que denota: — la causa. «Cuantos la oyeron [la composición], cuantos la leyeron, quedaron pasmados de admiración.» Quint. Mel . (R. 19. 112 1 ). «Pero me quedo pasmado | De tan rápido suceso.» Gil y Zárate, ¡Cuidado con las novias! , 4. 3. 12 (p. 21 2 ). X «Tú, entre la multitud, vestido de uniforme y siempre guapo aunque quizá ligeramente más viejo, estabas pasmado de estupor.» Cela , Mrs. Cadwell , p. 139. X «Pasmada de terror, atribulada por la fatalidad de su destino, Visitación reconoció en esos ojos los síntomas de la enfermedad cuya amenaza los había obligado, a ella y a su hermano, a desterrarse para siempre de un reino milenario en el cual eran príncipes.» García Márquez , Cien años de soledad , p. 45. — Siendo el término una prop. infinitiva. X «Quedaba pasmado de oír le donairoso de su ceceo y de ver el brío de su desgarro.» Esteb. Gonz . 15 (Cl. C. 108. 200). X «Y saltaba de gozo, y dábase palmadas repetidas; esto en el año 29, que me dejó pasmado de ver quán de ilusión vivimos en este mundo.» Larra , Crít. lit. y artíst . (Cl. C. 52. 32). — δ δ ) met. X «Más que la griega, firme y atrevida, | A los cielos pasmados arrancó | Tu inglesa mano el fuego de la vida; | Y un buitre te devora el corazón.» J. E. Caro , Poes. complet. p. 74. X «Pasmado el elefante | Oyó a su familiar. | —Eso, exclamó, ni aun pude | Soñarlo yo jamás.» Hartz. Fáb . 60 (Cl. C. 179. 82). — ζ ) Part. dep . X «Rebosan los halagos al deseo. | La inmensidad de brutos, mientras canta, | Trasl[a]dando a su voz los corazones, | Le consagran pasmadas atenciones.» Jáur. Orfeo (Cl. C. 183. 49). Per. antecl. Siglo XV : X «Pasmado, el que tiene pasmo.» Nebr. Vocab . X «Obstupescit ... comiença se pasmar.» Pal. Univ. vocab . 318d. X « Mira ... Mirari significa como pasmarse en veer algo.» Id. ib . 282d. X « Hebeo ... hebet pasmarse, es rudo, es faltoso, no tiene agudes a natura, es tibio.» Id. ib . 189b. X « Algerosus ... es como pasmado de frío.» Id. ib . 13d. Etim. De pasmo y éste del lat. spamus ‘espasmo, enfriamiento’. Cat. y port. pasmar , fr. pamer , it. spasimare. \u0000"
+}

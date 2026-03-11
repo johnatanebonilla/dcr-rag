@@ -1,0 +1,910 @@
+{
+  "lema": "EMPRENDER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Acometer alguna cosa resuelta y decididamente, con ánimo de ponerla por obra o ejecutarla ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Masanielo deseaba emprender algo que acreditase su mando y que diera nuevo aliento a la sublevación.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 9 (5. 80). +"
+            },
+            {
+              "texto_cita": "«Entraba ya muy apriesa el invierno, y no se sabía aún lo que determinaba emprender el ejército realista.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos , 4 (R. 28. 44 2 )."
+            },
+            {
+              "texto_cita": "«Puesto que todo sucediesse al rebés de lo que imagino, la gloria de aver emprendido esta hazana, no la podrá oscurecer malicia alguna.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 41 (fol. 154 vº; R. 1. 489 1 ). +"
+            },
+            {
+              "texto_cita": "«Prometió [Maritornes] de rezar un rosario, aunque pecadora, porque Dios les diesse buen sucesso en tan arduo y tan christiano negocio, como era el que avian emprendido.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . 1. 27 (fol. 137 rº; R. 1. 319 2 )"
+            },
+            {
+              "texto_cita": "«Hay muchos que como Erostrato, emprenden alguna insigne maldad para que dellos se acuerden los historiadores.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep. (R. 25 . 406 2 )."
+            },
+            {
+              "texto_cita": "«Sirviendo [Corbulón] a Claudio, príncipe de poco corazón, emprendía acciones arrojadas, con que forzosamente le había de ser pesado.»",
+              "autor": "",
+              "referencia_obra": "Id. Emp. 36 (R. 25. 93 2 ). +"
+            },
+            {
+              "texto_cita": "«No hay guardas hoy de llave tan segura, | Que nieguen tu persona, | Que no desmienta con discreta maña, | Ni emprenderá hazaña | Tu esposo cuando lidie, | Que no registre él, y yo no envidie.»",
+              "autor": "Góng.",
+              "referencia_obra": "Canc. amor . 3. (ed. Foulché, 1. 202; R. 32. 452 1 ). +"
+            },
+            {
+              "texto_cita": "«Se resolvió sin controversia que se tomase la vuelta de Cuba para rehacerse de los medios con que se debía emprender tercera vez aquella grande facción [sic] que dejaban imperfecta.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 8 (ed. 1838, p. 20; ed. 1851, p. 10 2 ; R. 28. 215 2 ). +"
+            },
+            {
+              "texto_cita": "«Con que se excusaría el servirse España para estos ministerios [de marineros y pilotos] de naciones extranjeras, que por serlo, y sin obligaciones ni prendas de fe ni de amor, están expuestas a emprender cualquier traición.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de monarq. 47 (R. 25. 542 2 ). +"
+            },
+            {
+              "texto_cita": "«Y si esta doctrina es, no sólo cierta, sino evidente, debe aprovechar para no emprender guerras ni buscar nuevos reinos.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 8 (R. 25. 469 2 )."
+            },
+            {
+              "texto_cita": "«Se vio en Catilina, que habiendo consumido su patrimonio en la corte, emprendió la conjuración cuando ni tuvo bienes qué perder ni honra qué manchar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 26 (R. 25. 503 1 )."
+            },
+            {
+              "texto_cita": "«Ni se atreven a emprender cosas grandes, ni ya que las emprendan pueden durar en ellas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y Consid. 3. 2, 2ª pte. 3. (R. 8. 185 2 ). +"
+            },
+            {
+              "texto_cita": "«Porque yo no creo | Que emprenda caso tan feo | Hombre de otro hombre nacido.»",
+              "autor": "Lope",
+              "referencia_obra": ", El castigo sin venganza, 3 (R. 24. 581 3 ). +"
+            },
+            {
+              "texto_cita": "«—Los nombres me has de decir. | — Aunque imposibles emprendes | La mayor de ellas se llama | Laurencia.»",
+              "autor": "Lope",
+              "referencia_obra": ", El marqués de las Navas , 1 (R. 52. 501 3 )."
+            },
+            {
+              "texto_cita": "«Tuyo es el rapto que emprendí, tú escribes, | En tí es presidio el que peligro fuera.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 1 ( Fern. 7. 4). — Admite complementos que refuerzan la idea del brío o arrojo con que se acomete. +"
+            },
+            {
+              "texto_cita": "«El ánimo que han emprendido con brío la carrera siguiendo al poeta, siente después disgusto, si en medio del camino se cansa o se rinde su guía.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. a la poét . 6. 8 (1. 254). +"
+            },
+            {
+              "texto_cita": "«El un afecto con el otro lidia, | Y todos a dañar a Cristo entienden: | Fuera el sosiego va, fuera la acidia; Con ardiente furor la causa emprenden.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 8 (R. 17. 461 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Puede probarlo también [el haber sido destinado el castillo para palacio de los reyes] la grande y hermosa capilla ---, y otras oficinas del interior, y en fin, que entre tantas obras grandes como se emprendieron en Palma después de la conquista, no se halla otra que parezca destinada a la morada de sus reyes.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. del castillo de Bellver (R. 46. 395 1 )."
+            },
+            {
+              "texto_cita": "«Es tan heroica acción la de entrar en religión, dejando los deleites y regalos del siglo, que pocas veces se emprende sin particular vocación y socorros del cielo.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Conserv. de monarq. 43 (R. 25. 538 2 ). +"
+            },
+            {
+              "texto_cita": "«Ea, Señor, empréndase valerosa hazaña, a imitación de Dios que de una vez ---derribó al mayor serafín y a todo su séquito.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 1. 9 (R. 23. 22 2 ). +"
+            },
+            {
+              "texto_cita": "«Un ardid sólo hay que aliente | Mi dicha, cuanto difícil, | Provechoso, si se emprende.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por arte mayor, 3. 3 (R. 5. 436 3 ). +"
+            },
+            {
+              "texto_cita": "«Pero como se comenzaron a ir alimentando nuevas esperanzas ---, y es tan ordinario cobrar a las que se conciben de nuevo la afición que basta para que todo lo demás se emprenda con tibieza, tuvo a un mismo tiempo el Duque orden de no darse por entendido en lo tocante a las discordias civiles del reino de Francia.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos, 2 (R. 28. 15 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo el acus. un verbo en infinitivo, con que se denota la intención o determinación de ejecutar o poner por obra. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Horacio criticó con razón la osadía de un poeta que emprendió cantar la guerra troyana, como si fuera leve carga para sus hombros la balumba de tantos acontecimientos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. a la poétic. 6. 2 (1. 252). +"
+            },
+            {
+              "texto_cita": "«No hay dos escritores más distantes entre sí que el Góngora de las Soledades y el de algunos romances, sonetos y letrillas. Son el mediodía en todo su esplendor, y la noche más oscura. Sin embargo, nosotros emprendemos buscar la esplicación de este y otros fenómenos literarios de la misma especie.»",
+              "autor": "Lista",
+              "referencia_obra": ", En sayos, 1, p. 1. +"
+            },
+            {
+              "texto_cita": "«Antes emprehenderá trasladar a su lengua una oda de Herrera que una escena de Moreto o Rojas.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 96. +"
+            },
+            {
+              "texto_cita": "«Y a los que enardecidos | La cítara sonante | Mover emprenda, al afán glorioso | Alentará un espirtu generoso.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", Poes. silva 1 (R. 67. 229 1 )."
+            },
+            {
+              "texto_cita": "«No tienes, Celia, razón; | Que pues tú dices que emprendes | Casarte, ya don García | Disponer de su amor puede.»",
+              "autor": "Lope",
+              "referencia_obra": ", Santiago el Verde, 2. 26 (R. 34. 207 2 ). +"
+            },
+            {
+              "texto_cita": "«Armó cien naves y emprendió la falda | De España asir por las arenas solas | Del mar, cuyo cristal ñe esmeralda.»",
+              "autor": "",
+              "referencia_obra": "Id. La moza de cántaro, 2. 3 (R. 24. 556 1 ). +"
+            },
+            {
+              "texto_cita": "«Tú, que sola una mujer | Emprendiste conquistar | ¿No te atreves a llegar?»",
+              "autor": "",
+              "referencia_obra": "Id. Pobreza no es vileza, 2. 6 (R. 52. 242 2 ). +"
+            },
+            {
+              "texto_cita": "«Si a la vista de la dama | Sacó la espada, fue bien | Que emprendiese ganar fama.»",
+              "autor": "",
+              "referencia_obra": "Id. El hombre de bien, 2. 1 (R. 52. 194 2 )."
+            },
+            {
+              "texto_cita": "«Será quizá, que, entre otros desvaríos | En que dan los que aquesta humana senda | Huellan, mirase en los precetos míos | Uno que alzarse a la virtud pretenda; Y añadiendo al cuidado nuevos bríos, | Levantar a su antiguo honor emprenda | Esta arte ya perdida y desechada.»",
+              "autor": "",
+              "referencia_obra": "Céspedes, Pintur . 2 (R. 32. 366 2 ). +"
+            },
+            {
+              "texto_cita": "«Por ventura emprendería servir en este argumento a la Iglesia.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1 Padre (Cl. C. 1. 216)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Rara vez atrae el pron. del infinitivo siguiente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues así vienen a ser | Los hombres ya de camino; | Porque se van, imagino | Que los emprenden coger.»",
+              "autor": "Lope",
+              "referencia_obra": ", La noche toledana, 1. 3 (R. 24. 204 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con a y un inf., a semejanza de Acometer. Resolverse, determinarse a poner por obra ( intrans. ) .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los estados de Flandes, cuya rebelión emprendo a escribir por espacio de doce años, eran gobernados al principio del año 1588 por Alejandro Farnese.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos, 1 (R. 28. 4 2 )."
+            },
+            {
+              "texto_cita": "«Como en este caso y en otros hace cierto autor italiano, menos bien informado de lo que debe estarlo un historiador que emprende a escribir cosas modernas.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . 3 (R. 28. 36 2 )."
+            },
+            {
+              "texto_cita": "«Póngase el mismo estado eclesiástico la reformación, sin dar lugar a que los políticos censuren su riqueza, que muchas veces daña para la modestia y para las demás buenas costumbres, dando motivo a que la ambición fortalecida con caudal emprenda a desechar el suave yugo de la disciplina eclesiástica.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Conserv. de monarq. 45 (R. 25. 541 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Emprendió de discurrir y conquistar muchas y diversas provincias.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 12 (R. 30. 14 1 ). +"
+            },
+            {
+              "texto_cita": "«Locura, enfermedad que hasta agora ningún médico ha osado emprender de curarla sino yo.»",
+              "autor": "Timoneda",
+              "referencia_obra": ", Cornelia, 4 (ed. Valencia , 1911, p. 129). +"
+            },
+            {
+              "texto_cita": "«Emprenderemos de escrevir los ingratos trabajos que passan los cortesanos en estos nuestros tiempos.»",
+              "autor": "",
+              "referencia_obra": "A. Guev . Menosprecio, 14 (Cl. C. 29. 141)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Inf. sust. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No puede uno ser señor de sí si primero no se comprehende --- Conozca las fuerças de su cordura y sutileza para el emprender.»",
+              "autor": "Gracián",
+              "referencia_obra": ", Oráculo , 89 (ed. Romera, p. 184)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Como puede verse por los ejemplos citados antes en 1, a ) siendo el acus. un nombre de cosa que envuelve alguna idea de riesgo o arrojo, el verbo se inclina naturalmente al sentido de Acometer; en los que van a leerse a continuación, si bien el acus. es también un nombre de cosa, éste no conlleva aquellas ideas y a ello puede deberse que el verbo se incline al sentido menos especial de Dar principio, comenzar o a veces simplemente Intentar con que, tanto Salvá como la Academia, han definido este verbo. ( trans .)",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Reservando [Homero] en su ánimo ir dando después poco a poco e indirectamente las noticias necesarias, emprende desde luego su asunto.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. a la poétic. 6. 3 (1. 253). +"
+            },
+            {
+              "texto_cita": "«Apenas estos [mareantes mallorquinos] han emprendido o acabado alguna de sus pequeñas expediciones, cuando la familia del patrón o de los marineros viene en romería a Bonanova.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. del castillo de Bellver (R. 46 . 402 2 ). +"
+            },
+            {
+              "texto_cita": "«No he tenido tiempo para emprender su enseñanza.»",
+              "autor": "Mor.",
+              "referencia_obra": "La Comedia nueva, 2. 1 ( Obr . ed. 1830, 2. 238). +"
+            },
+            {
+              "texto_cita": "«También condenó por poca cordura el rey Teodorico el emprender fábricas cuando lo que en ellas se gasta ha de hacer falta a las guerras.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de monarq. 35 (R. 25. 525 1 ). +"
+            },
+            {
+              "texto_cita": "«Ponderó Platón, que la agricultura no era cosa adquirida por arte, sino enseñada por la naturaleza, que la emprendieron los hombres alentados con favor divino.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 39 (R. 25. 532 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién pudo amar de veras | Que versos no emprendiese?»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo, 4 ( Obr. suelt . 1. 71)."
+            },
+            {
+              "texto_cita": "«¡A qué de engaños se obligan | Los que emprenden un engaño!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante a sí mismo (R. 20. 74 1 ). +"
+            },
+            {
+              "texto_cita": "«Vuelvo a Aragón a emprender | El engaño que ejecuto»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La crueldad por el honor , 2. 9 (R. 20. 459 3 ). +"
+            },
+            {
+              "texto_cita": "«Sin tu calidad | Digna es por sí tu beldad | De más bien que en esto emprendes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 20 (fol. 92 rº; R. 1. 298 2 ). En el siguiente, de Gracián , hay uso elíptico en lugar de Emprender el camino hacia: +"
+            },
+            {
+              "texto_cita": "«Començoles a guiar el Fantástico, y a seguirles el Ocioso en fe de que les conduciría después a su parage, no contentándoles el que emprendían, como lo tenía por cierto.»",
+              "autor": "",
+              "referencia_obra": "Criticón, 3. 7 (ed. Romera, 3. 217. n. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya de tu parte no ofende, | Lisardo, tu voluntad, | Si el principio es la amistad | Del hecho que se emprehende.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mayor imposible, 2. 1 (R. 34. 471 2 ). +"
+            },
+            {
+              "texto_cita": "«Los pendencieros contestan | Y crúzanse las palabras, | Y trábanse las pendencias, | Y las puñadas se emprenden.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Cantos del Trovador, leyenda 1 (1. 296)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así, a pesar de tantas tristes experiencias y de una revolución emprendida y lograda con tanta fortuna, esta pobre nación verá siempre sobre sí la maldición irrevocable a que la Providencia parece que la ha condenado.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas a L. Holland, 4 (R. 19. 554 2 ). +"
+            },
+            {
+              "texto_cita": "«Mayor agrado tiene Dios en una suerte de obras, por pequeñas que sean, hechas en secreto y retiro, sin deseo de que aparezcan a los hombres, que no millares de otras grandes emprendidas con la intención de que las vean los hombres.»",
+              "autor": "",
+              "referencia_obra": "S. Juan de la Cruz, Sentencias, 301 (R. 27. 257 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo el acus. un pronombre, en particular lo , que pueo no introducir una proposición completiva. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Yo | Tal imagino, tal pienso, | Tal me prometo, tal digo, | Tal fabrico, tal emprendo!»",
+              "autor": "Lope",
+              "referencia_obra": ", El castigo sin venganza, 1 (R. 24. 573 3 )."
+            },
+            {
+              "texto_cita": "«Para llegar a ser algo, hay que emprenderlo todo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La coja y el encogido, 1. 3 (284 )."
+            },
+            {
+              "texto_cita": "«¿No es desgracia nuestra que cuanto se hace, dirigido a la utilidad pública, si uno lo emprende, viene otro al instante que lo abandona o lo destruye?»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 2, p. 111. +"
+            },
+            {
+              "texto_cita": "«Si los franceses no bastasen a acabar lo que han emprendido, tendríamos a toda la Europa encima.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 473."
+            },
+            {
+              "texto_cita": "«Invencible parecerá el que solamente emprendiere lo que pudiere alcanzar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 81 (R. 25. 216 1 )."
+            },
+            {
+              "texto_cita": "«El ánimo apassionado pocas vezes acierta en lo que emprende.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 3. 5 (fol. 137 vº; R. 1. 632 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con un acus. homogéneo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si él hallara en las ordenanças de su cavallería, que lícitamente podía el cavallero andante tomar y emprender otra empresa, aviendo dado su palabra y fe de no ponerse en ninguna hasta acabar la que avía prometido, él envistiera con todos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 44 (fol. 269 rº; R. 1. 380 1 )."
+            },
+            {
+              "texto_cita": "«En esta esperanza y no en la nuestra hemos de osar emprender la empresa del servicio de Dios.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 27 (Míst. 3. 180)."
+            },
+            {
+              "texto_cita": "«Buscad grandes bienes y emprended grandes empresas.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 11 (Míst. 3. 148). +"
+            },
+            {
+              "texto_cita": "«Y con tal merced y tal arrimo bien podrá vuestra Señoría emprender, no sólo esta, mas mayores empresas.»",
+              "autor": "",
+              "referencia_obra": "Id. Epist. 1. 6 (R. 13. 300 1 ). +"
+            },
+            {
+              "texto_cita": "«El, ambas las mejillas hechas rosas, | Arrepentido ya de verse en ello, | Y de emprender empresas tan costosas, | No sabe qué decir.»",
+              "autor": "",
+              "referencia_obra": "L. Leon. Argens. sát. A Flora (R. 42. 271 1 )."
+            },
+            {
+              "texto_cita": "«Si se yerran [las empresas leves] fue poco lo que se perdió emprendiéndolas.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos, 1 (R. 28. 6 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Caer, arrojarse sobre alguna plaza u objetivo militar, atacarlo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parecioles de nuevo emprender primero las islas menores porque tendrían menor resistencia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 16 (R. 30. 19 2 )."
+            },
+            {
+              "texto_cita": "«Añadíase --- ser aquella plaza sola la que entre todas las que se podían emprender en la guerra de Francia, podía a largo andar, quedar por premio de lo trabajado y gastado en ella.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos, 8 (R. 28. 105 2 ). Debilítase a veces el sentido hasta significar Entrar en una tierra. +"
+            },
+            {
+              "texto_cita": "«Quán baxo y quán vil parece todo lo que avemos andado hasta aquí! Todo es niñería respecto de la gran provincia que emprendemos.»",
+              "autor": "Gracián",
+              "referencia_obra": ", Criticón, 2. 1 (ed. Romera, 2. 19)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a que introduce el lugar o sitio atacados.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acordó [Martín Esquenck] emprender a Nimega, ciudad católica de las más principales de los estados.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos, 2 (R. 28. 20 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Admite complementos que especifican el carácter de la acometida o ataque.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rodeó tras esto el marqués a Rimbergue por todas partes, aunque sin acercársele de manera que se le abriesen trincheras --- por no tener el marqués la gente y pertrechos necesarios para emprender a viva fuerza una plaza de tanta consideración.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos, 2 (R. 28. 16 1 )."
+            },
+            {
+              "texto_cita": "«Se resolvió --- a emprender a Coevorden por asedio.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6 (R. 28. 83 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En Roán, emprendida por el de Bearne a viva fuerza, y alojada ya su gente en el foso, no sólo del fuerte de Santa Catalina, pero de la misma ciudad, no bastaba meter bastimentos.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. bajos, 5 (R. 28. 53 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por extensión, aplicado a partes del cuerpo y, en general, a atributos de la persona. El acus. puede ser un pron. o bien un sust. designativo de las partes o atributos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tengo en el pecho el corazón turbado, | Y aflígeme de suerte, | Que ya me emprende el miedo de la muerte.»",
+              "autor": "Lope",
+              "referencia_obra": ", salmo 54 (Obr. suelt. 1. 369). +"
+            },
+            {
+              "texto_cita": "«La vislumbre de sus rayos | Como a torpe mariposa, | Te dio por manjar la invidia, | Emprendiote su ponzoña.»",
+              "autor": "Romanc.",
+              "referencia_obra": "1017 (R. 16. 63 2 )."
+            },
+            {
+              "texto_cita": "«El hombre es gran traidor, | Tan diestro en cosas de amor | Que no hay entenderle el pecho. | Si se acerca, unos amores | Tiene que las piedras mueven | --- Hace que emprende los labios, | Y suspéndele el respeto ---»",
+              "autor": "Lope",
+              "referencia_obra": ", De cosario a cosario , 3. 4 (R. 41. 500 1 ; ed. Acad. N. 11. 661). +"
+            },
+            {
+              "texto_cita": "«Con la fe de un pergamino | Destruyen media Castilla, | Uno en mula y otro en silla, | Y cuando el más docto emprenda | Vuestra vida o vuestra hacienda, | O mejor con vos lo hiciere, | Será lo que Dios quisiere.»",
+              "autor": "Góng.",
+              "referencia_obra": "letr. 39 (R. 32. 499 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Tratándose de personas, Arrojarse con presteza sobre ellas, arremeter ( intrans .). Señálase con con la persona objeto de la arremetida y con a la forma o el carácter de ésta.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Muchos de ellos salieron de la formación y emprendieron a cuchilladas y a bayonetazos con sus agresores.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas a L. Holland, 6 (R. 19. 562 2 )."
+            },
+            {
+              "texto_cita": "«Me dan impulsos | De emprender con él a golpes.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, El haz de leña, 3. 1 (444)."
+            },
+            {
+              "texto_cita": "«Las mujeres de la casa creyeron que era un ratero, y la emprendieron con él a pedradas.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 2. 6 (5. 186)."
+            },
+            {
+              "texto_cita": "«Ha empezado [este crítico] a querer destruír las [obras] que existen, y con esta idea ha emprendido a golpes con cuantos se le ponen delante.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell. (R. 63. 395 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Más raro es construírlo con complemento indirecto de persona, con un valor significativo parecido o debilitado aún más. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No ai un paladín que degüelle essa orca tan perjudicial? —preguntó Andrenio.— Quién la ha de matar? No los pequeños, que no les haze daño, antes los venga y consuela; no los grandes hombres, porque ella acaba con todos: pues quién le ha de emprender?»",
+              "autor": "Gracián",
+              "referencia_obra": ", Criticón, 2. 13 (ed. Romera, 2. 367). +"
+            },
+            {
+              "texto_cita": "«Conocieron con esto que era Momo, y huyeron también si les emprendiera él mismo preguntándoles qué buscavan, que parecían estraños en lo perdido.»",
+              "autor": "",
+              "referencia_obra": "Id. lb . 2. 11 (ed. Romera, 2. 332)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con el mismo sentido pero empleado absolutamente : +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llégate aí y emprende de buen ánimo, que yo acometo cara a cara a los viejos --- y acaba ya con esos dos passageros de la vida.»",
+              "autor": "Gracián",
+              "referencia_obra": ", Criticón, 3. 11 (ed. Romera, 3. 367. n. 180)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "El sentido se debilita hasta significar Dirigir la palabra: +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al punto los emprendió un cierto personage diziéndoles: —Señores míos ---»",
+              "autor": "Gracián",
+              "referencia_obra": ", Criticón, 3. 7 (ed. Romera, 3. 225. n. 22)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Hablándose del fuego y conceptos análogos, Atacar o hacer que ataquen o se comuniquen a cosas o personas.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Siendo sujeto la palabra que expresa el fuego o denota el concepto semejante ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El fuego que emprendió leves materias | Ligeras y atrevidas, | Cuanto fueron más fáciles y aerias, | Cuanto más estorbadas y oprimidas, | Tanto con más espíritu se esfuerza, | A levantar en sus ardientes alas | Los palacios augustos.»",
+              "autor": "Rioja",
+              "referencia_obra": ", silva 13 (R. 32. 386 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Luego, que emprendió la llama, tomando tizones y maderos encendidos de ella, con furia popular corrieron a poner fuego a las casas de los conjurados.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 157 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en que denota el lugar donde el fuego comienza a prender.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El fuego que se hace al pie de un pino, a cualquier ventecillo que se levante emprende en el tronco y sube a la copa.»",
+              "autor": "Márquez",
+              "referencia_obra": "(Camp. Teatro, 4. 202)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tened entendido que cuando os muráis lleváis madera con vos, y que emprenderá en vos el fuego de la divina justicia, tanto con mayor rigor, cuanto vos llevastes materia en que el fuego mayor llama hiciese y más tiempo durase.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 17 (4. 155)."
+            },
+            {
+              "texto_cita": "«Este fuego divino emprendió en fray Luis poderosamente.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Gran . 1. 7 (18). +"
+            },
+            {
+              "texto_cita": "«Desta ciudad, en que tuvo su primer principio esta nueva locura y secta, tomó el nombre de albigense, y desde allí se derramó por toda Francia y aun por parte de Europa, puesto que el fuego emprendió en Tolosa más que en otra parte alguna.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 12. 1 (R. 30. 340 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A doña Urraca hizo quemar viva --- Una doncella de aquella señora por nombre Isabel Davalos natural de Ubeda, luego que se emprendió el fuego, se metió en él para tenella las faldas porque no se descompusiese, y se quemó junto con su ama.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 10 (R. 514 2 )."
+            },
+            {
+              "texto_cita": "«A veces de pequeñas centellas, si con tiempo no se acorre, se suelen emprender grandes fuegos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 18. 1. (R. 31. 1 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en que introduce el lugar donde el fuego se enciende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No le demostró [a Moisés] sino unas llamas de fuego, que se emprendía en una çarça.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Pastor (Cl. C. 28. 139)."
+            },
+            {
+              "texto_cita": "«Que si en este madero verde y santo | Se emprende tan veloz y airado fuego, | En el dispuesto a las centellas, ¿cuánto | Se encenderá, si no le atajan luego?»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 11 (R. 17. 489 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La llama de la guerra se emprendía por todas partes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 6. 24 (R. 30. 184 1 )."
+            },
+            {
+              "texto_cita": "«¿Quién nos asegura que desta declaración no se siga alguna guerra y turbación en la cristiandad, y que se emprenda un fuego, que después no podamos apagar?»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 11 (R. 60. 197 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. Con de que denota la procedencia u origen de la conflagración.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cosa que puso en cuidado a todo el reino de Aragón, no se emprendiese algún gran fuego de aquellos pequeños principios.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 19. 9 (R. 31. 44 1 )."
+            },
+            {
+              "texto_cita": "«--- Y que todo este incendio se haya emprendido de una centella infernal de amor ciego de un rey ---»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 3. 32 (R. 60. 351 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "met. Con contra para señalar lo amenazado por el fuego. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que, como ves, vine aquí; | Y que la amaba fingí | Para apaciguar el fuego | Que contra mi triste vida | A emprenderse comenzaba.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Marta la piadosa , 3. 6 (R. 5. 455 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "met. Aplicado a palabras que expresan calamidades comparables al fuego.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue este año trabajoso para España, así por falta de mantenimientos como por la peste que se emprendió, con que murió mucha gente.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 15 (R. 30. 45 2 )."
+            },
+            {
+              "texto_cita": "«Por estos mismos días, de Portugal nuevas tempestades de guerra se emprendieron.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 16. 4 (R. 30. 466 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Siendo el fuego complemento acusativo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parecioles que para establecer y asegurar su reino y gobierno, les convenía turbar la paz de las otras provincias vecinas, y especialmente las de Francia, Flandes y Escocia, y emprender el fuego en ellas.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 2. 39 (R. 60. 284 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas . Conviértese en sujeto lo que era antes complemento directo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con sola esta disposición que dexava en lo de la sucessión de sus reynos --- dava harta ocasión de moverse mayores diferencias y guerras entre sus hijos, y que en sus señoríos quedasse emprendida una llama con que ardiessen.»",
+              "autor": "Zurita",
+              "referencia_obra": ", An. de la Cor. de Ar . 1 . 4. 47 (ed. 1610, 1. 274 vº)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "La idea de fuego, no expresada por ningún sustantivo, va envuelta en el verbo, que así toma el sentido de Encender ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Iba en esta coyuntura nuestra gente recibiendo la pólvora, y como la prisa no era poca, uno que presumió mostrarse más solícito, inadvertidamente, cayéndosele la mecha, emprendió los barriles, y ellos, con infernal furor y espantoso estampido ---»",
+              "autor": "Césp.",
+              "referencia_obra": "y Men. Sold. Pínd. 2. 24 (R. 18. 364 2 ). — En el ejemplo siguiente hay juego de palabras entre esta acepción y la de 1 a. +"
+            },
+            {
+              "texto_cita": "«¿Por qué queremos emprender negocios con consejos verdes con los cuales antes nos ahumaremos que nos escalentaremos?»",
+              "autor": "Guev.",
+              "referencia_obra": "Menosprecio, 3 (Cl. C. 29. 47)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque la leña se emprenda, | Sopla más. —Dime, ¿estás loco? | Si el zelo no sopla un poco, | No aias miedo que se encienda.»",
+              "autor": "Góng.",
+              "referencia_obra": "Las Firmezas de Isabela, v. 1252 (ed. Foulché, 1. 390)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Este [Gasquilán] fue enamorado en gran manera de una princesa muy fermosa ---, e por su amor emprendió grandes cosas e afrentas.»",
+          "autor": "Am. de Gaula",
+          "referencia_obra": ", 4. 29 (R. 40. 316 2 ). +"
+        },
+        {
+          "texto_cita": "«E por esta causa obró en ella [la morada de Gandales] tantas cosas y de tanta riqueza, que el mayor emperador del mundo no se atreveria ni emprenderia a otra semejante facer.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 3 (R. 40. 276 2 ). +"
+        },
+        {
+          "texto_cita": "«Resta de ver cómo en las armas voluntarias se deven aver los cavalleros o gentiles onbres que por sólo exercicio y gentileza las emprenden.»",
+          "autor": "Valera",
+          "referencia_obra": ", Trat. de las armas (R. 116. 128 2 ). +"
+        },
+        {
+          "texto_cita": "«Visto, pues, cómo las armas necessarias, según fuero e costunbre d'España, se deven emprender e llegar a fin ---»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (R. 116. 128 1 ) ."
+        },
+        {
+          "texto_cita": "«Fue rogado, vista la dispusiçion e habilidat suya, la cura de la guerra, asy como capitan, emprendiesse.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 150. +"
+        },
+        {
+          "texto_cita": "«No reposó mucho el Condestable después que fue casado --- nin el nuevo casamiento de la su muy noble e muy virtuosa muger le pudo detener, que la virtud non lo guiase a enprender nuevos trabajos.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 34 (ed. Carriazo, p. 120)."
+        },
+        {
+          "texto_cita": "«¡Ay Dios! cuántos se perdieron | Emprendiendo tales cosas, Las quales son muy dannosas.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ. p. 90. +"
+        },
+        {
+          "texto_cita": "«E porque la razon, porque me concerté, fue (como sabedes) de trecientas lanzas rompidas por el asta --- quebrando las dichas lanzas conmigo é con los caballeros con quien emprendí esta empresa.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 74 (62 2 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Tesoro quier dezir aver que tienen los sennores guardado en aver monedado o en pan o en oro o en plata. Esto es demas de las rendas que ha [n] para dar [e] para enprender.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Libro infin. 18 (ed. Blecua, p. 61; R. 51. 273 2 ). Siglo XIII: Ocurren en Berceo los dos pasajes siguientes:"
+        },
+        {
+          "texto_cita": "«La çepa era buena, emprendió buen sarmiento»",
+          "autor": "",
+          "referencia_obra": "y"
+        },
+        {
+          "texto_cita": "«Sennor, bien te conseio que nada emprendas, | Vive de tus tributos, de tus derechas rendas»",
+          "autor": "",
+          "referencia_obra": "( S. Dom . 9 y 141: R. 57. 39 2 y 44 1 ), a propósito de los cuales conviene notar que, en el primero, el ms. E trae engendró en lugar de emprendió , preferible por el sentido y aceptado por Fitz Gerald (p. 2), y en el segundo sólo el ms. V lee emprendas ; tanto H como E traen en lugar de esto"
+        },
+        {
+          "texto_cita": "«nada non ende prendas»",
+          "autor": "",
+          "referencia_obra": "(que conserva la ed. Fitz Gerald, p. 25); por donde se ve que Berceo escribiría"
+        },
+        {
+          "texto_cita": "«que nada non end prendas»",
+          "autor": "",
+          "referencia_obra": ", según pide el contexto, y en el que prendas es del verbo prender 'tomar'."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y prender. Port. emprender, cat. prov. empendre, it. imprendere (hoy algo anticuado), todos ellos Emprender; fr. ant. emprendre, Emprender y Pegar fuego, encender (hoy, en esta acepción, dialectal del Este de Francia); veglioto imprandro, Encender.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. en general. — Refl.: 3 , a, γ - 3 , χ, α, α α . — Pas.: 1, a, α, α α - 1, b, α, α α - 3, b, α, α α . — Part. : 1, b, α, β β - 2 , a, β, α α . — Intrans.: 2 , b, α - 3 , α, β . — Inf. sust. : 1, a, ε . — Absol.: 2, b, β, α α . — Atracción pron. : 1, a, β , α α . — Acus. homogéneo: 1, b. γ . — Siendo el acus. un v. en inf.: 1, a , β . — Siendo el acus. un pron. y en particular lo : 1, b , β . — Con a : 2, a , α, α α . — Con a y un inf.: 1, a , γ . — Con con: 2, b, α . — Con contra: 3, a, γ , δ δ . — Con de: 1, a. δ - 3 , α, γ . — Con en: 3, a, α α - 3, a, γ , α α . \u0000"
+}

@@ -1,0 +1,164 @@
+{
+  "lema": "HASTÍO. *",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "--> s. m.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Fastidio que se siente por la comida o la bebida; repugnancia, asco.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque se coma un hombre una canasta de pacaes, no se satisface ni le causa hastío.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 6. 35 (R. 91. 252 1 ). X"
+            },
+            {
+              "texto_cita": "«Ponen grande hastío, hinchan el vientre, y finalmente apilan el hígado y el bazo.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Diosc. 1. 145 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«No podían comer bocado. Dioles vn mal de hastío, y tan grande que no era más mentalles la comida que la mesma muerte.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc.). X"
+            },
+            {
+              "texto_cita": "«Y ni por esso carece de su vtilidad: porque si vn enfermo ha cobrado hastío, y no arrostra a la pechuga de la aue que le ha de hazer prouecho, antes se le van los ojos tras lo más dañoso.»",
+              "autor": "",
+              "referencia_obra": "P. Sáinz, Apol. çastell. sig. oro (p. 62)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cordura sería darle [al enfermo] a bueltas de los buenos manjares vna azeytuna, o otro manjar de su gusto con que engañasse su hastío: aunque no sea el mejor, basta ser bueno, y estoruar que no coma los malos.»",
+              "autor": "",
+              "referencia_obra": "P. Sáinz, Apol. çastell. sig. oro, p. 62."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Disgusto por las personas o las cosas, aversión, tedio.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con el hastío y tormento que me daba todo, tenía por alivio el salir al locutorio; y allí, con una tristeza mortal, me pasaba los más días.»",
+              "autor": "",
+              "referencia_obra": "Castillo, Vida, 7 ( Obr. complet. 1. 20). X"
+            },
+            {
+              "texto_cita": "«Ni tú eres la guarida del matador hastío, | Ni de la ruin venganza, ni del orgullo ciego, | Ni del terror conoces el penetrante frío, | Ni de las locas iras el indomable fuego.»",
+              "autor": "D. Uribe",
+              "referencia_obra": ", Obr. poética, escog. (p. 138). X"
+            },
+            {
+              "texto_cita": "«Buscando dicha aquí que no encontramos, | Porque en el vaso do el placer borbota | Es fermento de hastío cada gota.»",
+              "autor": "Núñez",
+              "referencia_obra": ", Poes. (p. 162). X"
+            },
+            {
+              "texto_cita": "«Y también la congoja repetida | De ver que solo a destilar hastío | Se abre, mujer, tu impenitente herida.»",
+              "autor": "Rivera",
+              "referencia_obra": ", Tierra de promisión, p. 142. X"
+            },
+            {
+              "texto_cita": "«Será verdad para unos, será mentira para otros, — contestó Casafús con hastío profundo —. Los actos y las intenciones humanas sólo Dios puede juzgarlos.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Cuentos, p. 161. X"
+            },
+            {
+              "texto_cita": "«Pesados aldabones la golpean sobre el pecho | Mientras muere la tarde con sus sauces de hastío. | Con un cerrojo enorme la clausura la noche | Y los muertos transitan por sus oscuras.»",
+              "autor": "Valencia",
+              "referencia_obra": ", Obr. poética, p. 81. X"
+            },
+            {
+              "texto_cita": "«Los comerciantes consumidos de hastío salían a curiosear desde la puerta de sus tiendas.»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno, 3 (p. 100)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No late más un único reloj: el campanario, | Que cuenta los dichosos hastíos de la aldea, | El cual, al sol de enero, agriamente chispea, | Con su aspecto remoto de viejo refractario...»",
+              "autor": "Herr.",
+              "referencia_obra": "Reissig, Poes. y prosa (p. 10). X"
+            },
+            {
+              "texto_cita": "«Súbita nube cierne | Su sórdido rencor sobre el hastío | Del violento gentío, | Eléctrico y compacto.»",
+              "autor": "G. Diego",
+              "referencia_obra": ", Vers. escog. (p. 143). X"
+            },
+            {
+              "texto_cita": "«Sólo se lee en el tren, en el barco o en un momento de hastío del hogar.»",
+              "autor": "Miró",
+              "referencia_obra": "( Gran encicl. Larousse ). X"
+            },
+            {
+              "texto_cita": "«Ellos tienen unas vitrinas y usan unos zapatos. | En esas vitrinas alternan el maniquí con el quebrantahuesos | Disecado, y todo lo que ha pasado por la frente | Del hastío del búfalo solitario.»",
+              "autor": "Lezama Lima",
+              "referencia_obra": ", La fijeza ( Poes. p. 142)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con sin, para señalar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como la pornografía, la hipérbole nace destinada a languidecer pronto en el bostezo de un hastío sin fondo.»",
+              "autor": "Mejía Duque",
+              "referencia_obra": ", Ensayos, p. 85."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Batilo, el melancólico perro, que había perdido los hábitos de su raza y no sabía ni ladrar, estaba paseando su hastío por el comedor.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", La fontana de oro, 26 (p. 229). X"
+            },
+            {
+              "texto_cita": "«Mi hastío forcejea con los lentos crepúsculos, | Pero la noche llega y comienza a cantarme, | La luna hace girar su rodaje de sueño.»",
+              "autor": "Neruda",
+              "referencia_obra": ", 20 poemas, p. 88. X"
+            },
+            {
+              "texto_cita": "«Si la atravesamos [la vitrina] y no rompemos los cristales, | No subrayan con gracia que nuestro hastío puede quebrar el fuego.»",
+              "autor": "Lezama Lima",
+              "referencia_obra": ", La fijeza ( Poes. p. 142)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Duplicado del cultismo fastidio, y éste del lat. fastidium, ‘asco, repugnancia’. Port. fastio, cat. ant. fastig, prov. fasti(g). \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

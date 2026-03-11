@@ -1,0 +1,491 @@
+{
+  "lema": "CONFORTAR, CONHORTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Estos dos verbos se usaron conjuntamente hasta el siglo XVII, en que el último, que ya venía descaeciendo poco á poco, quedó completamente olvidado; aunque en los tiempos modernos no han faltado tentativas para rehabilitarlo. Trataremos separadamente ca la verbo, como muestra interesante de la persistencia con que el régimen se conserva vinculado en la forma etimológica, por más que el sentido y la semejanza material hayan concurrido á la identilicación de dos vocablos diferentes.",
+  "acepciones": [
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "CONFORTAR (I).",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar fuerza y vigor ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conforta la vista esta goma alcoholándose con ella.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 3. 21 (2. 191)."
+            },
+            {
+              "texto_cita": "«Me paré entre aquellos naranjos y limones, cuya fragancia de olor con gran suavidad conforta el corazón.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 18 (R. 18. 413 2 )."
+            },
+            {
+              "texto_cita": "«Es caliente [la canela] y conforta el estómago flaco.»",
+              "autor": "J. de los Ángeles",
+              "referencia_obra": ", Conq. del reino de Dios, 8. 2 (302)."
+            },
+            {
+              "texto_cita": "«El ámbar y bálsamo y otras cosas olorosas confortan con su fragancia no sólo al que las toca, sino á otros, aunque estén algo apartados.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 6. 44 (3. 515)."
+            },
+            {
+              "texto_cita": "«El sueño --- templado conforta, y demasiado debilita.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 72 (R. 25. 197 1 )."
+            },
+            {
+              "texto_cita": "«Las primeras coronas fueron de vendas, no en señal de majestad, sino para confortar las sienes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 20 (R. 25. 54 1 )."
+            },
+            {
+              "texto_cita": "«Llevólos á su cuarto, púsoles la mesa para confortar su debilidad, mostrando toda su familia suma alegría, viéndose en el rebaño del Evangelio.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 32 1 )."
+            },
+            {
+              "texto_cita": "«Sabrosa cena y amigable brazo | El abatido pecho le confortan.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 11 (2. 356)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando es de Dios [la visión] no se puede encarecer la riqueza que queda en el alma, y aun el cuerpo queda con más salud, y confortado.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 13 ( Míst. 1. 57)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Dar fuerza ó valor al flaco, al que puede desfallecer ó caer ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sufriólo el mozo --- y murió confortando al hermano, que descabezaron.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 1 (R. 21. 78 1 )."
+            },
+            {
+              "texto_cita": "«Dulce oficio de amigos y parientes, | Confortar al amigo en hora triste.»",
+              "autor": "",
+              "referencia_obra": "Id . eleg. Si no puede razón (R. 32. 67 2 )."
+            },
+            {
+              "texto_cita": "«Danse muchas reglas para conocer si [las hablas interiores] son del Señor; y una es que sean dichas en tiempo de necesidad, ó de algun gran provecho, así como para confortar al hombre tentado ó desconfiado.»",
+              "autor": "Ávila",
+              "referencia_obra": ", en Yepes , Vida de Sta. Ter . 1. 21 ( Míst . 1. 101)."
+            },
+            {
+              "texto_cita": "«Así como él muestra al alma esta grandeza y gloria para regalarla y engrandecerla, así la favorece y conforta, amparando al natural, mostrando al espíritu su grandeza con blandura y amor.»",
+              "autor": "",
+              "referencia_obra": "S. Juan de la Cruz, Llama de amor , 4 (R. 27. 243 1 )."
+            },
+            {
+              "texto_cita": "«Las madres confortaban á los hijos, los niños á las madres, los sacerdotes al pueblo, y los más distraídos se ofrecían con más voluntad al martirio.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 1 (R. 21. 78 1 )."
+            },
+            {
+              "texto_cita": "«Alababa á los fuertes, confortaba á los flacos, y daba á todos ejemplo con su persona.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 82 (R. 25. 222 1 )."
+            },
+            {
+              "texto_cita": "«Esta consideración ó buena inspiración me confortó algo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 11 (R. 1. 225 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Confórtome con eso: que no debo | Más á mi bien, que no haya merecido.»",
+              "autor": "Herr.",
+              "referencia_obra": "12, eleg. 5 (R. 32. 312 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué estás diciendo? esfuérzate y conforta, | Que otra ninfa hallarás, si te desprecia | Esta cruel.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 135 1 )."
+            },
+            {
+              "texto_cita": "«Por lo cual dice san Lucas; que crecía y se iba confortando en el espíritu: esto es, que crecía en el cuerpo y también en el espíritu; porque el Espíritu Santo le confortaba y ayudaba.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 1 (2. 23)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nos esfuerza diciendo que --- estemos en pie, confortados con su socorro, para que veamos sus maravillas.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 21 ( Míst. 3. 168)."
+            },
+            {
+              "texto_cita": "«Os conviene andar confortado con la buena esperanza, y alegre en el servicio de Dios.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 24 ( Míst. 3 . 173)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Çitatoria é munitorya | Enbias que me confuerte»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 540."
+        },
+        {
+          "texto_cita": "«Por ende, señor, que Dios vos confuerte, | Que esto me sea por vos declarado.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 87. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Le rogaba que le quisiese ayudar é confortar en aquella manera que él viese que le complia.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I, 18. 30 (R. 66. 574 2 )."
+        },
+        {
+          "texto_cita": "«Se trató que el dicho duque de Angeus le ayudase é confortase.»",
+          "autor": "",
+          "referencia_obra": "Ib. 18. 14 (R. 66. 559 2 )."
+        },
+        {
+          "texto_cita": "«Está mucho triste, non falla quel confuerte.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 1092 (R. 57. 261 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E el niño desque la vio turbada, comenzó á haber alegría é á confortarla --- E con esto que dijo el glorioso niño fueron todos conhortados.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 31 (R. 51. 145 2 )."
+        },
+        {
+          "texto_cita": "«El vino alegra el corazon del home, et el pan lo conforta é lo mantiene.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4 (R. 51. 95 1 )."
+        },
+        {
+          "texto_cita": "«Con su carne [del cordero pascual] se confortaban los que habían de hacer aquella jornada, para comenzarla y proseguirla con esfuerzo.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 4. 9 (2. 413)."
+        },
+        {
+          "texto_cita": "«Sennor, dixioron todos, asnos bien confortados.»",
+          "autor": "",
+          "referencia_obra": "Alex . 748 (R. 57. 170 1 )."
+        },
+        {
+          "texto_cita": "«Entiendan la tu graçia, ond sean confortados.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 303 (R. 57. 49 2 )."
+        },
+        {
+          "texto_cita": "«Tornó a sus discipulos que sedien en ardura, | Confortólos e dixoles, dormit, avet folgura.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacrif. 75 (R. 57. 82 2 )."
+        },
+        {
+          "texto_cita": "«Con esso que diçides, mucho me confortades.»",
+          "autor": "",
+          "referencia_obra": "Id . Duelo, 99 (R. 57. 134 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "CONHORTAR (II).",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar ánimo y valor para hacer algo ( trans. ). Con á para expresar lo que se ha de acometer.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por consolar sus congojas, | A la boda del marqués | Don Fadrique la conhorta.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El examen de maridos, 2. 3 (R. 20. 475 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No tendrá mucha pena de dejar el mesón alquilado el que por cumplir con el mandamiento de Dios se conhortare á dejar la vida en manos de quien le dará cien tanto, y más la vida perpetua.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía, 3. 7 ( Míst. 3. 53)."
+            },
+            {
+              "texto_cita": "«Todo aquel tiempo que está pecando, se conhorta á posponer el mandamiento de Dios al cumplimiento de su voluntad.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 9 ( Míst. 3. 26)."
+            },
+            {
+              "texto_cita": "«Todos por vos se conhortan | A dar guerra al mismo infierno.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovi a, 2 a . pte. 3. 13 (R. 20. 411 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Dar fuerza y ánimo al afligido y atribulado, consolar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿A quién me quejo, que no escucha cosa | De cuantas digo quien debría escucharme? | Eco sola me muestra ser piadosa: | Respondiéndome pueda [* prueba] conhortarme | Como quien probó mal tan importuno; | Mas no quiere mostrarse y consolarme.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl. 2 (R. 32. 10 2 )."
+            },
+            {
+              "texto_cita": "«Desta manera pues concurren todas las virtudes á conhortar el corazón del justo cuando lo ven atribulado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 22 (R. 6. 82 1 )."
+            },
+            {
+              "texto_cita": "«Es siempre grata la pintura de la sensibilidad de un héroe al tiempo que se separa de su familia, es bello aquel volver la cabeza alejándose, y que entonces le esfuercen y conhorten los mismos á quien da el ejemplo del esfuerzo y la constancia en las batallas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Introd. al Parn. esp. 1 (R. 19. 126 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "A veces aparece como acus. la pena á que se da consuelo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No conhorta al fin esto mi tormento: | Que tanto mi dolor es más molesto, | Cuanto de ajeno pecho más llorado.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son . 21 (R. 32. 260 1 )."
+            },
+            {
+              "texto_cita": "«Si en esta de mi bien cruel mudanza | Mi triste afán conhorto y sufrimiento, | De fortuna mejor no es confianza.»",
+              "autor": "",
+              "referencia_obra": "Id. 1, eleg. 10 (R. 32. 276 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es todo consideración muy á propósito para conhortarse cada cual y llevar en paciencia sus trabajos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 5. 5 (R. 30. 127 2 )."
+            },
+            {
+              "texto_cita": "«Si callaran y le dejaran solo, él se conhortara en alguna manera consigo, ó callando ó hablando.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 16 (1. 258)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con , para expresar lo que se emplea como medio para consolar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conhórtome con lo que usa el refrán que dice: De servidores leales, se hinchen los hospitales.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. ( Mayans , 87). — Part ."
+            },
+            {
+              "texto_cita": "«Y entonces, dí, ¿no volverá á su cárcel, | Con tan rica esperanza conhortado, | Y el alma henchida en celestial consuelo?»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. á Posidonio , 2 (R. 46. 46 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , para expresar aquello que causaba la aflicción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conhortarse ha del ausencia de la mujer, y los hijos y los amigos, pues todos juntos no son bastantes á libralle del estrecho juicio.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 2. 10 ( Míst. 3. 28)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Dar fuerza y vigor ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parece que todo el hombre interior y exterior conhorta, como si le echasen en los tuétanos una unción suavísima.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Concep. 4 (R. 53. 398 2 ; en las ediciones vulgares: *se conforta)."
+            },
+            {
+              "texto_cita": "«Es cierto que lo muy ordinario es sentir una recreación, que no sabría yo darla á entender, con un deleite interior, que toda el alma me conhorta.»",
+              "autor": "",
+              "referencia_obra": "Ead. Vida , 31 (R. 53. 94 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acá no se puede encarecer la riqueza que queda, aun al cuerpo, de salud, y queda conhortado.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 38 (R. 53. 86 2 ). Véase el ejemplo de Yepes citado arriba, I, b, α , β β ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Toda la noche estuvieron con él aquellos frayles, conortándole é diciéndole que muriese como christiano.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 46. 2 (R. 68. 683 1 )."
+        },
+        {
+          "texto_cita": "«[Le dijo] que se aconortasse, ca ya el señor rey le avia dado para él la contaduria mayor:»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 115 (312). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Los de la villa que ante estavan cercados, fueron muy conortados con la su venida.»",
+          "autor": "Crón. Sancho IV",
+          "referencia_obra": ", 2 (R. 66. 71 2 )."
+        },
+        {
+          "texto_cita": "«Conortóse, pues entendia que otro habia mas pobre que non él.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 31 (R. 51. 379 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Non aurá y ninguno atan gran esforçado que desmayado non sea; mas conortarlos has tú luego lo mejor que pudieres.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 18 (241 2 )."
+        },
+        {
+          "texto_cita": "«Los del Çesar dieron en ellos pues que se vieron conortados del agua que el nuestro Señor les enbiara.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 122 (100 2 )."
+        },
+        {
+          "texto_cita": "«Deziendoles estas palabras e otras muchas e conortandolos, fizolos tornar, e firieron en los de Çamora.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 45 (20 2 )."
+        },
+        {
+          "texto_cita": "«Debelos el cabdiello conortar et esforzar en dos guisas: la una de palabra, deciendo que non son los enemigos tantos como parescen ---»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 23. 22 (2. 247)."
+        },
+        {
+          "texto_cita": "«E conortad a los dolientes (e) doloridos.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 1 (Knust, 96)."
+        },
+        {
+          "texto_cita": "«Me conortastes con el vuestro grand conorte e conplido.»",
+          "autor": "",
+          "referencia_obra": "Buenos Prover bios (Knust, 41)."
+        },
+        {
+          "texto_cita": "«Quando yo fiz esta carta fue mi asmamiento de vos conortar con ella.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, 40)."
+        },
+        {
+          "texto_cita": "«Cosa veyo en la que mucho me conuerta.»",
+          "autor": "Appoll.",
+          "referencia_obra": "302 (R. 57. 293 2 )."
+        },
+        {
+          "texto_cita": "«Valas conortando e metiendo coraçon.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2804 (R. 57. 30 1 )."
+        },
+        {
+          "texto_cita": "«Euades que pauor han uuestros yernos: tan osados son --- | Hyd los conortar, si uos vala el Criador.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2328 (R. 57. 26 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. confortar, fr . conforter, it. confortare, que con nuestro confortar son el lat. confortare, compuesto de cum, con, intensivo, y fortis, fuerte. En prov,. se hallan conjuntamente confortar y conortar, confort y conort, confortamen y conortamen, y además conortos, aconortar, desconort, desconortar, lo mismo que en cast. confortar y conhortar, conforto, conforte, confuerto y conhorte, confortamiento y conhortamiento, confortador y conhortador, y además conhortoso, aconhortar (que se usó aún en el siglo XVI:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mas aconhórtanse luégo | Las más viudas de sus penas.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 2, Condic. de las muj. R. 32. 194 2 ); el cat. tiene también conort, aconortar , usados por Ausías March ( Obras , p. p. 26, 35: edic. de 1864). Como el prov. no puede haber tomado estas voces del cast. , y aquella lengua no conoce el cambio de f en h , ó mejor dicho la desaparición de la f , opina Ascoli ( Lett. glott. p. 88: trad. alem.) que las dos formas representan la confusión de confortare y cohortari; en apoyo de lo cual diremos que nuestro conhortar se halla en las Partidas y en la Crón. gen. por Animar ó alentar á los soldados para el combate, precisamente como el lat. cohortari , y que en el Cid aparece conortar y no confortar á pesar de que en esta obra no hay ejemplos del cambio de f en h . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

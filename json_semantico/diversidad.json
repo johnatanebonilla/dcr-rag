@@ -1,0 +1,213 @@
+{
+  "lema": "DIVERSIDAD.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Estado ó circunstancia de ser diverso, de no ser de una misma especie ó naturaleza.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las flores á los ojos ofreciendo | Diversidad extraña de pintura | Diversamente así estaban oliendo.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 2 (R. 32. 9 2 )."
+            },
+            {
+              "texto_cita": "«Destas dos coronaciones resultó á lo que se entiende la diversidad de opiniones, y que unos escribiesen que se coronó en Toledo, otros que en León.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 16 (R. 30. 300 2 )."
+            },
+            {
+              "texto_cita": "«Queriendo [Dios] que hubiese diversidad de efectos en la tierra, quiso también que la hubiese en las causas y influencias del cielo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 15 (R. 6. 55 2 )."
+            },
+            {
+              "texto_cita": "«Y lo mismo notó en la diversidad de los rostros de los hombres, que siendo innumerables, apenas hay uno que se parezca con el otro.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 1. 10, § 2 (R. 6. 208 1 )."
+            },
+            {
+              "texto_cita": "«De donde podrían nacer no menores perturbaciones que de la diversidad de religiones, dar causa á ellas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 27 (R. 25. 73 1 )."
+            },
+            {
+              "texto_cita": "«No hay contradicción en que haya muchas sustancias que tengan atributos semejantes en un todo: en este caso no habría diversidad entre ellas, pero sí distinción --- Spinosa confunde la diversidad ó diferencia con la distinción: para la diferencia se necesita variedad en los atributos; para la distinción hasta que el uno no sea el otro. La figura de un cuadrado es diferente de la de un tríángulo; dos cuadrados exactamente iguales no son diferentes, pero sí distintos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Teod . 10 (339, 340)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de. .. á , para expresar los objetos que se comparan.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprovecharán [estas reflexiones] para que algunos entendimientos de poca extensión no extrañen la gran diversidad de las costumbres que pinta Homero á las nuestras.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Poét . 1. 5 (1. 51)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En plural.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los pescados de la mar, | Arboles, hierbas y plantas, | Con diversidades tantas | Que no se pueden contar | En presencia; | Porque aquella diferencia | Y diversidad de cosas | Las hace muy más hermosas | Y de mayor excelencia.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, Condic. de las mujeres (R. 32. 198 1 )."
+            },
+            {
+              "texto_cita": "«Dos cosas suelen principalmente causar en una provincia diversidades de lenguas: la una es no estar toda debajo de un príncipe, rey ó señor, de donde procede que tantas diferencias hay de lenguas cuanta diversidad de señores --- la cual diversidad de señores pienso yo que en alguna manera haya causado la diferencia de las lenguas.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 25, 26)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Copia ó muchedumbre de cosas diversas, que no son de una misma especie.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vivían en este monte --- gran número y diversidad de monjes.»",
+          "autor": "Sig.",
+          "referencia_obra": "Vida de S. Jer . 4. 10 (350)."
+        },
+        {
+          "texto_cita": "«Entre seis dellos traían unas andas, cubiertas de mucha diversidad de flores y de ramos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 13 (R. 1. 280 1 )."
+        },
+        {
+          "texto_cita": "«Los músicos eran los regocijadores de la boda, que en diversas cuadrillas por aquel agradable sitio andaban, unos bailando y otros cantando, y otros tocando la diversidad de los referidos instrumentos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 19 (R. 1. 444 2 )."
+        },
+        {
+          "texto_cita": "«Luégo tendieron sobre ella [la alfombra] diversidad de frutas así verdes como secas.»",
+          "autor": "",
+          "referencia_obra": "Id. Pers . 2. 19 (R. 1. 619 1 )."
+        },
+        {
+          "texto_cita": "«La variedad de piedras y diversidad de colores de que se componía, la hacían vistosa mucho.»",
+          "autor": "Quev.",
+          "referencia_obra": "Casa de locos (R. 23. 351 1 )."
+        },
+        {
+          "texto_cita": "«Por esto Josef, habiendo de gobernar á Egipto, donde había gran diversidad de lenguas, que no entendía, hizo estudio para aprendellas todas.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp . 5 (R. 25. 20 1 )."
+        },
+        {
+          "texto_cita": "«El libro de cantigas que dejó [el rey Sabio] está todo en versos de diversidad de sílabas.»",
+          "autor": "Gil y Zárate",
+          "referencia_obra": ", Resum. histór . p. 21."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Les acaesce [á los que están en deseo de adquirir honores] fingir, dilatar, simular é disimular aquella diversidad de los tiempos, ó la variedad de los negocios.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 6 (56)."
+        },
+        {
+          "texto_cita": "«Otrosí vemos diversidad grande de condiciones, no solamente entre la multitud de los hombres, mas aun entre los hermanos nascidos de un padre é de una madre.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 14 (215)."
+        },
+        {
+          "texto_cita": "«Fueron mu bien servidos de muchas frutas é de gran dversidad de aves é de muchos buenos manjares.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 8. 9 (R. 68. 361 1 )."
+        },
+        {
+          "texto_cita": "«E torna [la historia] á escrebir é contar otras diversidades de acuerdos é de consejos é de cosas que adelante se siguieron.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 118 (321)."
+        },
+        {
+          "texto_cita": "«Suplicó á su alteza, aunque él non lo tenia en voluntad, que le ploguiesse ir á ver la feria, é levasse en su compañia a la señora reyna, á ver el tracto é las grandes compañas é gentio, é assimismo las diversidades de mercaderias é otras universas cosas que ende avia.»",
+          "autor": "",
+          "referencia_obra": "Ib . 85 (222)."
+        },
+        {
+          "texto_cita": "«Despues de assaz altercaciones é diversidades de razonamientos passadas de una parte á otra, quedó concertado ---»",
+          "autor": "",
+          "referencia_obra": "Ib . 79 (202)."
+        },
+        {
+          "texto_cita": "«E ansí en esta diversidad de opiniones trabajaba el rey y se gastaba.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Gener . 34 (R. 68. 718 1 )."
+        },
+        {
+          "texto_cita": "«Allí las diverssidades | Son tantas de las colores, | Recontadas por auctores | De grandes auctoridades.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 211."
+        },
+        {
+          "texto_cita": "«Se deleitaban en mirar la diuersidad de las flores et olerlas.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 2 (R. 36. 344 1 )."
+        },
+        {
+          "texto_cita": "«Decidme por merced qué es la causa de la diversidad de las lenguas entre las gentes.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 1 (R. 36. 342 2 )."
+        },
+        {
+          "texto_cita": "«E porque entrellas [las frutas] son muchas diuersidades ---»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 11 (83)."
+        },
+        {
+          "texto_cita": "«Esta diuersidat [de cuchillos] nasçe de la diuersidat de las viandas e manera de comerlas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 4 (23). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Habia menguado [el trigo] con la diversidat del tiempo que era caliente é seco.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 64 1 )."
+        },
+        {
+          "texto_cita": "«Et vi que habia entre la franqueza et la escasedat grand diversidat.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 45 1 )."
+        },
+        {
+          "texto_cita": "«E dalli nascen muchas diversidades de pleytos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 2. 1. 1 (7)."
+        },
+        {
+          "texto_cita": "«Non a ennas personas [de la Trinidat] nulla diuersidat.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 792 (R. 57. 127 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. diversidade ; cat., prov. diversitat ; fr. diversité ; it. diversitá : del lat. diversitatem , diversitas , derivado de diversus , diverso. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

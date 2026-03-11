@@ -1,0 +1,463 @@
+{
+  "lema": "CIENTO.",
+  "categoria_gramatical": "",
+  "introduccion": "CIENTO.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "adj. invariable para la concordancia. Diez veces diez.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Contentóse el pintor [con la oferta de los cien escudos], y aunque fue tan grande la baja de ciento á mil, le tuvo por bien vendido y mejor pagado.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers . 4. 6 (R. 1. 669 1 )."
+        },
+        {
+          "texto_cita": "«Malditos --- sean otra vez y otras ciento estos libros de caballerías que tal han parado á vuestra merced.»",
+          "autor": "",
+          "referencia_obra": "Id. Quij . 1. 5 (R. 1. 265 1 )."
+        },
+        {
+          "texto_cita": "«Y por no detenerme en este cuento, | Digo que lo probaron más de ciento.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 10 (R. 17. 40 2 )."
+        },
+        {
+          "texto_cita": "«Es uno solo y se trasforma en ciento.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 15 (R. 17. 299 1 )."
+        },
+        {
+          "texto_cita": "«Si en cada espuma --- | Naciesen Venus ciento, y cada una | Fuese de un nuevo amor engendradora...»",
+          "autor": "Jáur.",
+          "referencia_obra": "son. Jamás por larga ausencia (R. 42. 105 2 )."
+        },
+        {
+          "texto_cita": "«Claramente conocen haberles el Señor dado ciento por uno que dejaron.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 35 (R. 53. 108 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En lugar de ciento se dice cien cuando sigue un sustantivo, ya inmediatamente, ya interviniendo un adjetivo. Cien pesos. Cien grandes volúmenes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cien moros ha muerto en trances.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El gallardo español , 2 ( Com . 1. 23)."
+            },
+            {
+              "texto_cita": "«Y eran pocas cien lenguas, bocas ciento, | La voz de hierro y infatigable acento.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 10 (R. 17. 610 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Cuando precede á otro numeral multiplicándolo, sufre apócope lo mismo que en el caso anterior; vr. gra. cien mil pesos , como si se dijera cien veces mil . Pero si sólo se suman los dos números, ya se sigan inmediatamente, ya medie la conjunción y , se emplea la forma íntegra, por ejemplo ciento veinte pesos , ciento y cincuenta hombres .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Podía cada uno poner en campaña cien mil hombres armados.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 16 (R. 28. 291 2 )."
+            },
+            {
+              "texto_cita": "«Yo llevaré el consuelo | Que me mandaron cien mil, | Ya que no me dan los ciento.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Casarse por vengarse , 1 (R. 54. 107 2 )."
+            },
+            {
+              "texto_cita": "«Aquel que en una noche con la espada | Ciento y ochenta y cinco mil asirios | Mató, mejor pudiera hacer vengada | Tan bella rosa entre tan blancos lirios.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rimas sacras ( Obr. suelt . 13. 270)."
+            },
+            {
+              "texto_cita": "«Llevaba consigo ciento y cincuenta hombres.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 282 1 )."
+            },
+            {
+              "texto_cita": "«Estos vinieron en cincuenta naos, | Cada una de las cuales contenía | Ciento veinte robustos campeones.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 2 (1. 57)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Empleando, como á menudo se hace, el número definido por el indefinido, nos valemos hiperbólicamente de este numeral para significar Muchos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por muchas experiencias sabemos que no es menester ni mucha habilidad ni muchas letras para ser uno gobernador, pues hay por ahí ciento que apenas saben leer, y gobiernan como unos girifaltes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 32 (R. 1. 474 2 )."
+            },
+            {
+              "texto_cita": "«Si á ti te mantearon una vez, á mí me han molido ciento.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 2 (R. 1. 408 2 )."
+            },
+            {
+              "texto_cita": "«Esta fue la ocasión y el instrumento | En todo y parte de que el mundo viese | No siete maravillas sino ciento.»",
+              "autor": "",
+              "referencia_obra": "Id. Viaje , 6 (R. 1. 694 1 )."
+            },
+            {
+              "texto_cita": "«Así lo enseñaron primero Ana y Elcana, padres de Samuel, y otros ciento.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 4. 9 (336)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Se usa cien en los mismos casos que cuando se toma en sentido natural.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abre cien bocas [la Avaricia], tiende manos ciento.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 1 (R. 17. 407 1 )."
+            },
+            {
+              "texto_cita": "«No si cien voces yo, si lenguas ciento | Me diese el cielo, á numerar bastara | Las ínclitas hazañas de aquel día.»",
+              "autor": "Quint.",
+              "referencia_obra": "Trafalgar (R. 19. 17 2 )."
+            },
+            {
+              "texto_cita": "«Hacen violencia á la buena gobernación en cien cosas, por salir con una cosa sola que les agrada.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Brazo (3. 153)."
+            },
+            {
+              "texto_cita": "«Había entonces reliquias de buenos libros, y muchos de ellos se estaban enteros, de que agora apenas conocemos los nombres, sino de unos fingidos Berosos y Metástenes, llenos de cien niñerías nacidas en las cabezas de hombres vanos.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 3 (415)."
+            },
+            {
+              "texto_cita": "«Había humillado en cien encuentros á poderosos enemigos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 66 (4. 169)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Modernamente se usa cien sin que siga un sustantivo. La Academia no aprueba esta corruptela, y Salvá considera como aragonesismo la expresión cien ó doscientos pesos .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué prendas de orador en ti se ven? --- | Para orador te faltan más de cien; | Para arador te sobran más de mil.»",
+              "autor": "D. Gonz.",
+              "referencia_obra": "son. á un orador contrahecho etc . (R. 61. 196 2 )."
+            },
+            {
+              "texto_cita": "«¿Querer á los hombres? iFuego! | Fingir amor, engañarlos, | Echar á cien el anzuelo.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La niña en casa , 2. 1 (3. 85)."
+            },
+            {
+              "texto_cita": "«Esa moza es de la piel | Del diablo, y dice el refrán: | Quien hace un cesto hará cien.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Una de tantas , 15 (2. 154)."
+            },
+            {
+              "texto_cita": "«Las habitaciones de M. de Lamartine, de los dos Dumas, padre é hijo --- para no citar las de otros cien, son verdaderos palacios.»",
+              "autor": "Ochoa",
+              "referencia_obra": ", París , Londres y Madrid , p. 193."
+            },
+            {
+              "texto_cita": "«Acométenle todos de improviso. | Como tigre y león potente y ágil, | Resguárdase la espalda con un risco, | Y el rudo choque impávido resiste, | En otros cien su acero convertido.»",
+              "autor": "",
+              "referencia_obra": "Tamayo y Baus, Virginia , 1. 1 (3)."
+            },
+            {
+              "texto_cita": "«i La que cede | Una vez, cederá cien!»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Deudas de la honra , 2. 12 (65)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En repeticiones, también de data reciente, como las que ofrecen los ejemplos que siguen, sería extraño el uso de la forma íntegra cuando no precede al sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y cual las ondas que á mis pies se estrellan, | Así cien y cien siglos se atropellan.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Fragm. de un poema , 5 (1. 70)."
+            },
+            {
+              "texto_cita": "«Cien y cien reyes doblan la rodilla.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. Disc. mor . (1. 50)."
+            },
+            {
+              "texto_cita": "«Con cien y cien obstáculos embiste | Para que su tesón el bien conquiste.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La campana (416). — En estos otros disonaría menos:"
+            },
+            {
+              "texto_cita": "«Aprenden | A dividir el as con largas cuentas | En cien partes y cien.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Arte poétic. de Hor . (1. 283)."
+            },
+            {
+              "texto_cita": "«Corrió en las plazas la sangre | De cien víctimas y cien.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La madre de Pelayo , 2. 8 (203)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Por el contrario el uso de ciento en el pasaje que vamos á copiar, si no es errata, ha de mirarse como italianismo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le ofreció por él ciento escudos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 4. 6 (R. 1. 669 1 ; el suceso de que se trata aquí pasa en Roma)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con ciento de á caballo ( fam. ): expresión de enfado. Como en otras locuciones semejantes se nombra al diablo, en ésta parece que hay un eufemismo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El señor don Vicente está ya frito de que no se le deje meter baza en esta baraúnda, y lo echará todo con ciento de á caballo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria , 3. 9 (281)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "De una hasta ciento parece significar en el siguiente lugar la firmeza de una resolución, como si hubiera: Lo digo y lo repito de una vez hasta ciento, si se ofrece:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Decía ella: No dijera más Pateta; yo he de hacer mi gusto, y esotro es cosa de morenos, y no quiero cuentos con serranos; y de una hasta ciento.»",
+              "autor": "Quev.",
+              "referencia_obra": "Cuento (R. 48. 408 2 . A. Fernández Guerra da otra explicación)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "adj. invariable. Se usa en lugar del ordinal Centésimo: Que sigue inmediatamente en orden al nonagésimo nono. Ley ciento. Capítulo ciento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Apeles --- floreció en la olimpíada ciento y doce.»",
+          "autor": "Azara",
+          "referencia_obra": ", Obras de Mengs , p. 216."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "sust. m . Signo ó conjunto de signos con que se representa el número ciento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En la pared había un ciento medio borrado.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "sust. m . Centena, colección de ciento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Un ciento de huevos, de agujas.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«Mas lo que yo sé que ha de comer el señor gobernador ahora para conservar su salud y corroborarla, es un ciento de cañutillos de suplicaciones.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 47 (R. 1. 501 1 )."
+        },
+        {
+          "texto_cita": "«Sin riesgo alguno aseguraba un cinco por ciento anual.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Carta á Campomanes (R. 50. 140 1 )."
+        },
+        {
+          "texto_cita": "«He visto | De oro las cargas á cientos | Entrar allá en su palacio.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "D. Álv. de Luna , 1 (3. 48)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "sust. m. pl . Tributo que se componía del cuatro por ciento de las cosas que se vendían y pagaban alcabala.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vine en declarar que desde luégo se proceda á la reducción general de un siete por ciento de la alcabala y cientos de hierbas, bellota y agostaderos en todo el reino.»",
+          "autor": "",
+          "referencia_obra": "Nov. Recop .10. 12. 22 (4. 255)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "sust. m. pl Juego de naipes que comúnmente se juega entre dos, y en que el primero que llega á hacer cien puntos, según las leyes establecidas, gana la suerte.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ni por imaginación consentían que en su casa se jugase otros juegos que polla y cientos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov . 5 (R. 1. 165 2 )."
+        },
+        {
+          "texto_cita": "«Si jugares al reinado, | Los cientos ó la primera, | Los reyes huyan de ti, | Ases ni sietes no veas.»",
+          "autor": "",
+          "referencia_obra": "Id. Quij . 2. 57. (R. 1. 524 1 )."
+        },
+        {
+          "texto_cita": "«No deja cosa con cosa, | Ni deja casa con casa; | Y como juega á los cientos, | Idas y venidas gana.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 6, rom . 80 (R. 69. 215 2 )."
+        },
+        {
+          "texto_cita": "«Y si á otro juego te metes, | A los cientos te dan sietes, | Y á la primera figuras.»",
+          "autor": "Mto.",
+          "referencia_obra": "El licenciado Vidriera , 1. 1 (R. 39. 249 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En ciento é treinta años confesó [Jacob] que avia pocos é malos.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras , 1 (148)."
+        },
+        {
+          "texto_cita": "«Avia venido en su ayuda desde Alemania acompañado de çient perros.»",
+          "autor": "Pal.",
+          "referencia_obra": "Bat. campal , 29 (83)."
+        },
+        {
+          "texto_cita": "«Fue enbiado de la baxa Alemania Danefurio por capitan de sesenta compañeros. Traxo de Françia Alitario çiento.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 23 (71)."
+        },
+        {
+          "texto_cita": "«¿Estos son, hermano, los mill é cinco cientos rocines que me aviades de tener prestos para quando entrase?»",
+          "autor": "",
+          "referencia_obra": "C rón. Álv. de Luna , 19 (66). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Et el infante don Felipe envióle decir --- que lidiaria con él uno por uno ó ciento por ciento.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 16 (R. 66. 185 2 )."
+        },
+        {
+          "texto_cita": "«Llegó la flota deste rey don Sancho á Santa María del Puerto, que era, entre naves é galeas, cient velas mayores.»",
+          "autor": "Crón. Sancho IV",
+          "referencia_obra": ", 2 (R. 66. 71 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Et el judio o el moro o la judia o la mora que de otra guisa vistiere --- por la primera ves peche çient mrs. et por la segunda dosientos mrs.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez , año 1268 ( C. de L. y C . 1. 69)."
+        },
+        {
+          "texto_cita": "«El mejor cauallo dosientos mrs.; e el mejor rroçin çient. mrs.»",
+          "autor": "",
+          "referencia_obra": "Ib . ( ib . 1. 72)."
+        },
+        {
+          "texto_cita": "«Debe pechar á la cámara del rey cient maravedis de oro por tal rebeldia como esta.»",
+          "autor": "",
+          "referencia_obra": "Part . 7. 14. 24 (3. 621)."
+        },
+        {
+          "texto_cita": "«Tenencia de ciento años a mester que aya aquel que quisiere ganar por tienpo alguna de las cosas del rey.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 316)."
+        },
+        {
+          "texto_cita": "«Si viniere e non quisier entrar en pleito sobre lo que fuere emplazado, peche ciento mrs. al rey.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 289)."
+        },
+        {
+          "texto_cita": "«E fiso ciento e ochenta libros, e dexo muchos deciplos.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 9 (Knust, 133)."
+        },
+        {
+          "texto_cita": "«Mando dar a Ypocras ciento quintales de oro.»",
+          "autor": "",
+          "referencia_obra": "lb . 8 (Knust, 127)."
+        },
+        {
+          "texto_cita": "«Reciba en su cuerpo otral tal qual fizo, é demas ciento azotes.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 6. 4. 3 (109)."
+        },
+        {
+          "texto_cita": "«Reciba ciento azotes antel iudez.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 1. 22 (19)."
+        },
+        {
+          "texto_cita": "«Ovieron por çient çientos sueldos a pleitear.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 357 (R. 57. 51 1 )."
+        },
+        {
+          "texto_cita": "«Con estos cunplanse çiento de los buenos que y son.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3072 (R. 57. 32 2 )."
+        },
+        {
+          "texto_cita": "«Çiento le pidieron, mas el con doçientos va.»",
+          "autor": "",
+          "referencia_obra": "lb . 1490 (R. 57. 18 1 )."
+        },
+        {
+          "texto_cita": "«Myo Cid uos saludaua e mandólo recabdar: | Con çiento caualleros que priuadol acorrades.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1483 (R. 57. 18 1 )."
+        },
+        {
+          "texto_cita": "«Çiento caualleros deuemos vencer aquelas mesnadas.»",
+          "autor": "",
+          "referencia_obra": "lb . 995 (R. 57. 13 1 )."
+        },
+        {
+          "texto_cita": "«Çiento moros e çiento moras quiero las quitar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 534 (R. 57. 8 1 )."
+        },
+        {
+          "texto_cita": "«En aques dia en la puent de Arlançon | Çiento e quinze caualleros todos iuntados son.»",
+          "autor": "",
+          "referencia_obra": "Ib . 291 (R. 57. 5 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Gall. cen , cento; port. cem , cento; val., mall., cat. cent; prov. cent , cen; fr. cent; t. cento: lat. centum; gr. εχατ ` ν ; sans. çatam; zend çatem; gót. hund; lit. szimtas; ant. esclavón süto; cámbrico cant; irl. ant. cét . Todas estas formas suponen una indoeuropea primitiva kmtóm . Se ha ideado que es resto de un compuesto que en sans. sonaría daçadaçatam , diez veces diez, como en gót. se dice taihun-taihund . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

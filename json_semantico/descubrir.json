@@ -1,0 +1,1222 @@
+{
+  "lema": "DESCUBRIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Quitar lo que cubre ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo acus. el objeto cubierto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cubre [Dios] á tiempos con nubes el cielo, y á tiempos le descubre puro y sereno.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 36 (2. 228)."
+            },
+            {
+              "texto_cita": "«Está claro que si la tierra os pareció como un grano de mostaza y cada hombre como una avellana, un hombre solo había de cubrir toda la tierra. Así es verdad, respondió Sancho; pero con todo eso la descubrí por un ladito, y la vi toda.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 41 (R. 1. 490 2 )."
+            },
+            {
+              "texto_cita": "«Veamos esta otra [imagen]. Descubrióla el hombre, y pareció ser la de san Martín.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 58 (R. 1. 525 1 )."
+            },
+            {
+              "texto_cita": "«Grave el conde lo saluda | Con una rodilla en tierra, | Mas como grande del reino | Sin descubrir la cabeza.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Un castellano leal, 3 (3. 181)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descubriéndome por junto á las cejas, me vi tan junto al cielo, que no había de mi á él palmo y medio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 41 (R. 1. 491 1 )."
+            },
+            {
+              "texto_cita": "«De mí sé decir que ni me descubrí por alto ni por bajo, ni vi el cielo, ni la lierra, ni la mar, ni las arenas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 41 (R. 1. 491 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El gran filósofo Licurgo en las leyes que dio á los lacedemones mandaba y aconsejaba que á los hombres ancianos de su república ni les dejasen hablar en pie ni les consintiesen tener las cabezas descubiertas.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. famil. 1. 25 (R. 13. 117 1 )."
+            },
+            {
+              "texto_cita": "«Traía descubierta la cabeza, la barba rapada, reluciendo el pellejo como si se lo lardaran con tocino.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmám, 1. 3. 3 (R. 3. 342 2 )."
+            },
+            {
+              "texto_cita": "«Se mandó que --- durante los dos años todas las mujeres que anduviesen vestidas á la morisca, llevasen las caras descubiertas.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Rebelión, 2. 6 (R. 21. 161 2 )."
+            },
+            {
+              "texto_cita": "«Su vestido era ligero, descubierta la cabeza, siendo el primero en la ordenanza al marchar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 82 (R. 25. 222 1 )."
+            },
+            {
+              "texto_cita": "«Tenemos el coro descubierto, y con gran baraúnda de oficiales, y quitadas las rejas.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 3. 15 (R. 55. 175 2 )."
+            },
+            {
+              "texto_cita": "«Los mantuvo con hierbas y sin comer muchos dias, desnudos al frío y descubiertos al calor.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Esposo (3. 259)."
+            },
+            {
+              "texto_cita": "«Volvíamos á pedir unos zapatillos viejos ó sombrero viejo para este pobre que anda descalzo y descubierto al sol y al agua.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán, 1. 3. 3 (R. 3. 244 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con un dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sentí que íbamos, según mi señor me dijo, volando por la región del fuego, y quise descubrirme un poco los ojos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 41 (R. 1. 490 2 )."
+            },
+            {
+              "texto_cita": "«Levantaron á D. Quijote, descubriéronle el rostro, y halláronle sin color y trasudando.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 64 (R. 1. 542 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo acus. la cosa que cobre. Véase CUBRIR , 1, c.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si --- algún otro sacerdote --- descubriendo apenas un poco del velo, le mostrare la imagen [del dios], es cosa de grandísima risa ver lo que adoran.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 12 (3. 479)."
+            },
+            {
+              "texto_cita": "«Luégo descubrieron otro lienzo, y pareció que encubría la caída de san Pablo del caballo abajo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 58 (R. 1. 525 1 )."
+            },
+            {
+              "texto_cita": "«Este sano consejo y acertado | La venda de los ojos me descubre.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 11 (R. 32. 327 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. En especial, Quitarse el sombrero ú otra cosa con que se tenga cubierta la cabeza. Salvá , Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al pasar por frente del ataúd todos se descubrían.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andar, estar descubierto.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Quitar lo que defiende ó ampara, dejar sin defensa ó amparo; dícese así en sentido propio como figuradamente ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le pidió [á Motezuma] con encarecimiento que cuidase de aquellos pocos españoles que dejaba en su compañía, que no los desamparase ó descubriese con apartarse de ellos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 7 (R. 28. 314 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siempre vosotros estáis armados de espada y capa para herirnos cuando algo nos veis descubierto.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Mayans, 60)."
+            },
+            {
+              "texto_cita": "«Venían á quedar [las últimas compañías] apartadas de las demás y descubiertas por su costado --- Instaron con monsieur de la Mota que enviase alguna infantería con que cubrir aquel alojamiento.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 28. 59 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar aquello á que el objeto queda expuesto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habría de ser forzoso ocuparlo [el puesto] al punto con sus tropas; lo que era sin duda de mayor peligro, pues cuanto se mejoraba, tanto se descubria más á las baterías de sus cañones.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 530 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las naves estaban con algún peligro descubiertas á la travesía de los nortes.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 7 (R. 28. 214 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de, para expresar aquello cuya defensa ó amparo falta ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo cubrí de luto y jergas en este día casi la mayor parte de la ciudadana caballeria; yo dejé muchos sirvientes descubiertos de señor; yo quité muchas raciones y limosnas á los pobres y envergonzantes.»",
+              "autor": "Celest.",
+              "referencia_obra": "20 (R. 3. 72 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Part.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Abierto, en que la vista se explaya libremente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por la alta cuesta de Purén subían, | Y en el más alto asiento y descubierto | Los caminos de rama ven sembrados, | Señal de paga y junta de soldados.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 4 (R. 17. 17 2 )."
+            },
+            {
+              "texto_cita": "«Soberbias torres, altos edificios, | Que ya cubristes siete excelsos montes, | Y agora en descubiertos horizontes | Apenas de haber sido dais indicios.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rim. de Burg. son. 55 ( Obr. suelt. 19. 55)."
+            },
+            {
+              "texto_cita": "«Ocupaba el centro de esta plaza una gran máquina de piedra que á cielo descubierto se levantaba sobre las torres de la ciudad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 13 (R. 28. 286 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Al descubierto, á la descubierta: á cielo abierto, al raso, sin estar abrigado ó encubierto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y así como ella salió en público, y su hermosura se vio al descubierto, no os sabré buenamente decir cuántos ricos mancebos --- han tomado el traje de Grisóstomo, y la andan requebrando por esos campos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij, 1. 12 (R. 1. 277 2 )."
+            },
+            {
+              "texto_cita": "«Cuando Pedro de Molina y yo fuimos á ver el solar para tratar de su compra, viendo dos canales que caían al descubierto, le dije que estando allí aquella posesión, no trataría yo de comprar la casa.»",
+              "autor": "Cascales",
+              "referencia_obra": ", Cart. fiológ. 2. 1 (R. 62. 488 1 )."
+            },
+            {
+              "texto_cita": "«Tiene [el acueducto] unas doce millas de longitud y se ve al descubierto al pie del monte Taburno.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1 , p. 359."
+            },
+            {
+              "texto_cita": "«¿Movió guerra al demonio á la descubierta, y en batalla campal y partida le venció y le quitó la presa?»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Brazo (3. 156). — met. Descubiertamente, sin embozo ni disfraz."
+            },
+            {
+              "texto_cita": "«¡Oh, cuando Dios quiere, cómo viene al descubierlo sin estas ayuditas que aunque más hagamos, arrebata el espíritu, como un gigante tomaría una paja, y no basta resistencia!»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 22(R. 53. 72 1 )."
+            },
+            {
+              "texto_cita": "«No le trataron tan bien, cuando se dejó ver á todos al descubierlo, y les decía claro quién era, que muy pocos fueron los que le creyeron.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cam. perf. 34 (R. 53. 363 2 )."
+            },
+            {
+              "texto_cita": "«Ya nuestros amores iban tan al descubierto, que si él no hubiera estado ciego de la pasión amorosa, en mil señales lo hubiera ya reconocido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 9 1 )."
+            },
+            {
+              "texto_cita": "«Exageraba cuán descuidada justicia había en aquella tan famosa ciudad de Sevilla, pues casi al descubierto vivía en ella gente tan perniciosa y tan contraria á la misma naturaleza.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 3 (R. 1. 145 2 )."
+            },
+            {
+              "texto_cita": "«Con sus tentaciones y sugestiones malas, ya al descubierlo, ya con traición y engaño, pretenden [los demonios] destruirnos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 50 (2. 296)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En descubierto: públicamente, al descubierto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La vanagloria fácilmente acomete las obras que se hacen en descubierto.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 2. 4. 1 (R. 6. 126 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En ( por ) todo lo descubierto de la tierra, en todo lo descubierto: en todo el mundo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Merced á vuestras grandes hazañas que corren y rodean todo lo descubierto de la tierra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij, 1. 36 (R. 1. 483 1 )."
+            },
+            {
+              "texto_cita": "«Pero díme por tu vida, ¿has tú visto más valeroso caballero que yo en todo lo descubierto de la tierra?»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 14 (R. 1. 273 2 )."
+            },
+            {
+              "texto_cita": "«La fama que sus altas caballerías le tienen granjeada y adquirida por todo lo descubierto de la tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 10 (R. 1. 431 1 )."
+            },
+            {
+              "texto_cita": "«A la fama que de buen caballero vuestro amo tiene por todo lo descubierto, de Guinea ha venido á buscarle esta princesa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 29 (R. 1. 330 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Que queda expuesto á graves cargos ó reconvenciones por lo que ha dejado de hacer ó ha hecho mal. Se usa con verbos como estar , quedar. Acad. Dicc .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En descubierto : en los ajustes de cuentas, Sin dar salida á algunas partidas del cargo, ó faltando alguna cantidad para satisfacerlo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Discurrió apretar á los contribuyentes morosos y á los arrendadores de impuestos y arbitrios anteriores, que estaban en descubierto de no despreciables sumas.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 2 (5. 33). — met. Quedando á deber en cualquier línea, sin poder dar salida á un cargo ó reconvención.» Estoy también en descubierto con Vargas; pero necesito espacio para escribirle y no le tengo.» Jovell. Corresp. con Posada (R. 50. 201 1 ). — De aquí el sust. descubierto, por Déficit."
+            },
+            {
+              "texto_cita": "«A vista de tan razonable solicitud, y de que su descubierto se reducía á dos mil seiscientos cuarenta y un reales, se mandó en 1º. de diciembre del mismo año ponerle en libertad.»",
+              "autor": "Cerv.",
+              "referencia_obra": "91 (182)."
+            },
+            {
+              "texto_cita": "«Acababa éste de patentizar el descubierto de la hacienda y los males que amenazaban.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 2. 4 (5. 63)."
+            },
+            {
+              "texto_cita": "«Por un ligero alcance de dos mil y pico de reales, que resultó contra él en unas cuentas, formósele causa y estuvo preso en Sevilla: rigor muy común entonces, hasta con personas de gran categoría, como sucedió á don Diego Hurtado de Mendoza por otro igual descubierto insignificante.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, Resum. Histór. p. 604."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hallar lo ignorado ó escondido ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como Colón y Hernán Cortés, y Pedrarias y Pizarro han descubierto en las Indias otro Nuevo Mundo para vivir, podrá ser que vos, señor hayáis hallado otro nuevo abecé para escrebir.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. famil. 1. 5 (R. 13. 85 2 )."
+            },
+            {
+              "texto_cita": "«Como cuando el perro hambriento entra en el aposento donde hay carne metida en alguna arca, que heridas sus narices del olor de ella, huele las sillas, los bancos y los cofres que hay en el aposento, con deseo de topar con la carne, y al cabo, como no la descubre, se sale fuera.»",
+              "autor": "Salazar",
+              "referencia_obra": ", Cartas, 4 (R. 62. 300 1 )."
+            },
+            {
+              "texto_cita": "«Mirad, compadre; una traza me ha venido al pensamiento, con la cuál sin duda alguna podremos descubrir este animal.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 25 (R. 1. 457 1 )."
+            },
+            {
+              "texto_cita": "«En esto descubrió á un lado de la sima un agujero, capaz de caber en él una persona.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 55 (R. 1. 520 2 )."
+            },
+            {
+              "texto_cita": "«Eran pasados ya doce años desde que Colón había descubierto la tierra firme de América, y todavía los españoles no tenían en ella ningún establecimiento permanente.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 381. 1 )."
+            },
+            {
+              "texto_cita": "«Si la pluma de este sabio y elocuente romano [Cicerón] hubiese descubierto en el estilo geográfico las singulares bellezas con que adornó los estilos de la elocuencia, de la política, de la moral y de la filosofía, yo le propondría acaso como el primero, como el único de todos los modelos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre el leng. y est. de un dicc. geogr. (R. 46. 310 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Según la variedad de los tíempos, así fue descubriéndose la manera del escribir entre los hombres; --- porque primero escribieron en ceniza y después en cortezas de árboles, después en hojas de laurel, después en planchas de plomo, y después en pergamino, y lo ultimo vinieron á escribir en papel.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. famil. 1. 5 (R. 13. 85 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La envidia pesa en injusta balanza la sangre y lágrimas de tantos pueblos descubiertos y conquistados, sin poner en ella la santa moral, las leyes justas y las instituciones benéficas que recibieron en cambio.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la geogr. hist. (R. 46. 328 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Aplicado á personas, Ver ó hallar al que está haciendo algo ocultamente, y en particular una cosa reprensible ó criminal.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acuitaráse mucho, porque viene la mañana, y no querría que fuesen descubiertos, por la honra de su señora.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 21 (R. 1. 301 2 )."
+            },
+            {
+              "texto_cita": "«Anoche descubrimos esta playa, y sin tener noticia destas cuatro galeras fuimos descubiertos, y nos ha sucedido lo que habéis visto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 63 (R. 1. 540 2 )."
+            },
+            {
+              "texto_cita": "«Con mucha anticipación había dispuesto en lo más oculto de él una cueva donde se refugiaron por disposición de Cervantes algunos cristianos --- No se comprende cómo Cervantes sin faltar de la casa de su amo, gobernaba esta república subterránea, cuidando de la subsistencia de todos y de su seguridad para no ser descubiertos.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Vida de Cervantes, 28 (144)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Venir en conocimiento de cosa que se ignoraba ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así lo has de hacer, Sancho, dijo D. Quijote, y darásme aviso de todo lo que en este caso descubrieres.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 41 (R. 1. 495 1 )."
+            },
+            {
+              "texto_cita": "«No quiso rosponder el barbero á Sancho, porque no descubriese con sus simplicidades lo que él y el cura tanto procuraban encubrir.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 47 (R. 1. 388 2 )."
+            },
+            {
+              "texto_cita": "«Le tuvo escondido hasta ver las órdenes y disposiciones que tomaba el rey de resultas de haber descubierto esta conspiración.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Vida de Cervantes, 39 (150)."
+            },
+            {
+              "texto_cita": "«Su método sintético es admirable para convencer el error, pero no para descubrir la verdad.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de las ciencias nat. (R. 46. 336 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el objeto en que está lo que se halla.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descubría en el modo de proceder de Periandro, en su gentileza y brío algún gran personaje.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 2. 18 (R. 1. 609 2 )."
+            },
+            {
+              "texto_cita": "«Se hizo confidente de Sabino y descubrió en él su aborrecimiento y odio contra Seyano.»",
+              "autor": "",
+              "referencia_obra": "Saav . Emp. 62 (R. 25. 173 1 )."
+            },
+            {
+              "texto_cita": "«¡Qué! ¿no descubrimos esta sombra de instinto, esta propensión determinada al mismo fin en el reino vegetal, aunque inmóvil y, á nuestro parecer, dotado de menos perfecta organización?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de las ciencias nat. (R. 46. 340 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Reconocer, como en tierra ó región desconocida, para ver lo que hay en ella ó tomar lengua ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quería ir á descubrir la tierra por ver si hallaba gente en ella.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 1. 19 (R. 1. 585 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salió de Casares descubriendo y asegurando los pasos de la montaña.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 4 (R. 21. 118 1 )."
+            },
+            {
+              "texto_cita": "«Un jenízaro forzado, | Que iba sobre la gavia descubriendo, | Después de haberse bien certificado | Las galeras de allí reconociendo, | Dijo ---»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 24 (R. 17. 91 2 )."
+            },
+            {
+              "texto_cita": "«Iba yo en la vanguardia descubriendo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 27 (R. 17. 104 2 )."
+            },
+            {
+              "texto_cita": "«Los años pasados, viniendo por esta costa con Rodrigo de Bastidas á descubrir, entramos en este golfo.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 282 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Alcanzar á ver, como si el objeto estuviese oculto antes de divisarlo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se hicieron á la vela --- Tuvieron razonable tiempo, con que á cabo de ocho días descubrieron á Cerdeña.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 19 (R. 30. 490 2 )."
+            },
+            {
+              "texto_cita": "«En esto descubrieron treinta ó cuarenta molinos de viento, que hay en aquel campo; y así como D. Quijote los vio, dijo á su escudero.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 7 (R. 1. 269 1 )."
+            },
+            {
+              "texto_cita": "«Tornaron á mirar atentamenle lo que aquello de aquellas lumbres que caminaban podía ser; y de allí á muy poco descubrieron muchos encamisados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 19 (R. 1. 293 2 )."
+            },
+            {
+              "texto_cita": "«Tres cuartos de legua habrían andado cuando descubrieron á D. Quijote entre unas intricadas peñas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 29 (R. 1. 330 1 )."
+            },
+            {
+              "texto_cita": "«Ya en esto salieron de la selva y descubrieron cerca á las tres aldeanas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 10 (R. 1. 423 2 )."
+            },
+            {
+              "texto_cita": "«Y abiertas las ventanas, no distante | Descubren el repuesto de la fruta.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Con tu licencia, Fabio (R. 42. 312 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes que llegasen á Válor, donde se descubre la punta de Castil de Ferro, los alcanzó Ampuero.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 2 (R. 21. 86 2 )."
+            },
+            {
+              "texto_cita": "«Ves allí, amigo Sancho Panza, donde se descubren treinta ó pocos más desaforados gigantes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 8 (R. 1. 269 1 )."
+            },
+            {
+              "texto_cita": "«Descubríanse por aquella parte grandes arboledas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 6 (R. 28. 213 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con desde, de, para expresar el lugar en que está el que alcanza á ver.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Subieron una cuesta arriba, desde la cual descubrieron su aldea.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 72 (R. 1. 555 1 )."
+            },
+            {
+              "texto_cita": "«Siguiendo voy á una estrella | Que desde lejos descubro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 43 (R. 1. 376 2 )."
+            },
+            {
+              "texto_cita": "«Presto verás tu castigo, | Que por campañas y mares | Ya descubro desde aquí | Mis cristianos estandartes.»",
+              "autor": "Cald.",
+              "referencia_obra": "El príncipe constante, 3. 12 (R. 7. 260 3 )."
+            },
+            {
+              "texto_cita": "«Este subió á la cumbre de una sierra, | De adonde descubrió un florido llano.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 6 (R. 17. 202 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descúbrese desde lo alto del sitio donde estaba entonces la ciudad de Tlascala el volcán de Popocatepec, en la cumbre de una sierra que á distancia de ocho leguas se descuella considerableme sobre los otros montes.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 4 (R. 28. 269 1 )."
+            },
+            {
+              "texto_cita": "«Acabamos de subir toda la montaña por ver si desde allí algún poblado se descubría ó algunas cabañas de pastores.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 41 (R. 1. 373 2 )."
+            },
+            {
+              "texto_cita": "«Mucha tierra se descubre | De encima de esta montaña.»",
+              "autor": "",
+              "referencia_obra": "Id. La casa de los celos, 1 ( Com. 1. 76)."
+            },
+            {
+              "texto_cita": "«De allí se sube á la apacible sala, | Que me conserva en uno y otro lado, | Conforme al tiempo, habitación distinta, | Y de ambas se descubre vario el prado.»",
+              "autor": "",
+              "referencia_obra": "B. Argens, epíst. Con tu licencia , Fabio (R. 42. 312 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Impropiamente se dice del lugar mismo que domina y de donde se alcanza á ver cierto espacio.» Pareció conveniente ocupar el adoratorio principal, cuya eminencia dominaba la ciudad, descubriendo la mayor parte de la laguna.» Solís , Conq. de Méj. 5. 10 (R. 28. 359 2 ).",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Decir á otro lo que ignora, revelar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El corregidor, creyendo que algunos hurtos de los gitanos quería descubrirle, por tenerle propicio en el pleito del preso, al momento se retiró con ella.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 116 2 )."
+            },
+            {
+              "texto_cita": "«No quiso decirle otra cosa sino que le agradecía el haberle descubierto tan gran secreto.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 62 (R. 1. 535 2 )."
+            },
+            {
+              "texto_cita": "«Le descubrió una conjuración que se había dispuesto en el tiempo de su ausencia contra su vida y la de todos sus amigos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 18 (R. 28. 374 2 )."
+            },
+            {
+              "texto_cita": "«Había éste [Cervantes] avisado á sesenta de los más principales cautivos para que estuviesen prontos á embarcarse al primer aviso para tierra de cristianos; y ya se acercaba el momento de la partida, cuando un mal intencionado lo descubrió todo al rey Azán.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Vida de Cervantes, 37 (149)."
+            },
+            {
+              "texto_cita": "«Usted espera sin duda con impaciencia que le descubra el nombre del arquitecto que dirigía estos trabajos --- Llamábase Pedro Salvá.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. del castillo de Bellver (R. 46. 413 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con una prop. indic.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Primero quisieron barrer esta costa y hacer alguna presa si pudiesen, temiendo que si primero nos echaban en tierra --- podríamos descubrir que quedaba el bergantín en la mar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 63 (R. 1. 540 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No tocaron á mi encierro, porque no les descubrí donde estaba, temeroso de algún desmán.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 54 (R. 1. 519 1 . Hartz. corrige: entierro ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Con acus. de pers. Delatar, denunciar ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si tú no me descubres, Sancho, respondió el peregrino, seguro estoy que en este traje no habrá nadie que me conozca.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1 . 54 (R. 1. 518 1 )."
+        },
+        {
+          "texto_cita": "«Creyendo el ministro que es fineza descubrille al príncipe enemigos y difidentes, y que por este medio ganará opinión de celoso y de inteligente, pone su desvelo en las sospechas.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 76 (R. 25. 208 2 )."
+        },
+        {
+          "texto_cita": "«Procuró tranquilizarle con la magnanimidad que le era característica, diciéndole que ningún tormento, ni aun la muerte misma, bastaría para que él descubriese ó condenase á ninguno de sus compañeros.»",
+          "autor": "",
+          "referencia_obra": "Navarrete, Vida de Cervantes, 38 (150)."
+        },
+        {
+          "texto_cita": "«Ya reconozco al pérfido; él fue solo | Quien aquí me vio entrar, y su vil lengua | Es la que á su señor me ha descubierto.»",
+          "autor": "Quint.",
+          "referencia_obra": "El duque de Viseo, 2. 2 (R. 19. 48 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "En general, Manifestar, hacer patente ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Tratándose de cosas que están en otro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Augusto, cuando pidió la dignidad tribunicia para Tiberio, le alabó con tal arte, que excusando sus vicios los descubría.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 100 (R. 25. 262 1 )."
+            },
+            {
+              "texto_cita": "«Extienda Euterpe el ingenioso velo, | Con que antiguo pincel en igual caso | Nos descubrió el paterno desconsuelo.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "eleg. Cayó, Señor (R. 42. 344 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Tratándose de cosas que uno tiene en sí.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De la edad que digo, ya sabía yo la gramática y no ignoraba la retórica, descubrí razonable ingenio, prontitud y docilidad para cualquiera ciencia.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 4. 1 ( Obr. suelt. 7. 268)."
+            },
+            {
+              "texto_cita": "«Un corazón generoso en las primeras acciones de la naturaleza y del caso descubre su bizarría.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 1 (R. 25. 9 1 )"
+            },
+            {
+              "texto_cita": "«Deseando afectar el valor ó no descubrir el miedo, tomaron resolución de irse retirando poco á poco sin volver las espaldas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 10 (R. 28. 358 2 )."
+            },
+            {
+              "texto_cita": "«Yo callaré, pero no dejaré de andar advertido de aquí adelante, á ver si descubre otra señal que confirme ó desfaga mi sospecha.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 44 (R. 1. 495 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vistióse este Señor de carne humana, y el invisible se hizo visible, para que así pudiésemos ver y imitar las virtudes admirables que en esta carne mortal nos descubrió.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 3. 40 (R. 6. 431 2 )."
+            },
+            {
+              "texto_cita": "«Bendiganos, Señor, los ángeles, y los cielos y la tierra prediquen vuestras alabanzas; y los hombres particularmente empleen toda su vida en el amor y el servicio de quien tanto amor les descubrió.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. 2. 14, consid. 3 (R. 8. 483 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con suj. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que vuestro traje [de labrador], señora, nos niega, vuestros cabellos nos descubren.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 28 (R. 1. 325 1 )."
+            },
+            {
+              "texto_cita": "«No querría que mi canto descubriese mi corazón.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 44 (R. 1. 496 2 )."
+            },
+            {
+              "texto_cita": "«El tiempo es el que descubre los inconvenientes, y aun el que los causa y trae consigo.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 17 ( Míst. 1. 180)."
+            },
+            {
+              "texto_cita": "«Así sucedió á Antonio Primo, en quien la felicidad descubrió su avaricia, su soberbia y todas las demás costumbres malas que antes estaban ocultas y desconocidas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 50 (R. 25. 131 1 )."
+            },
+            {
+              "texto_cita": "«Ningún accidenle pudo descubrir en el rey Fernando el Católico su afecto ó su pasión.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 33 (R. 25. 86 2 )."
+            },
+            {
+              "texto_cita": "«En la representación de un drama no se perciben muchas faltas, que la lectura y la meditación descubren.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1 , p. 65. —"
+            },
+            {
+              "texto_cita": "«¿A dónde irá el buey que no are? Cada camino descubre sus dañosos y hondos barrancos.»",
+              "autor": "Celest.",
+              "referencia_obra": "4 (R. 3. 20 2 )."
+            },
+            {
+              "texto_cita": "«En la sierra famosa, que divide | La Andalucía de Castilla, un llano | Descubre una gran cueva, donde mide | Del cielo y sol el curso el sabio Ardano.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 1 ( Obr. suelt. 2. 16). —"
+            },
+            {
+              "texto_cita": "«El campo godo destrozado ardía | Con llama que descubre estrago horrendo.»",
+              "autor": "Mor.",
+              "referencia_obra": "son. 6 (R. 2. 597 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con un pred. precedido de por, para expresar la calidad con que aparece el objeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En siendo un hombre hijo de padre extranjero, se gradúa de caballero y lo sustenta hasta que le descubre por quien es la infamia de las costumbres.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 5. 2 ( Obr. suelt. 7. 378)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acabó en esto de descubrirse el alba, y de parecer distintamente las cosas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 20 (R. 1. 298 1 )."
+            },
+            {
+              "texto_cita": "«Llama [es el espíritu generoso] que se descubre por todas partes y que ama la materia en que encenderse y lucir.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 10 (R. 25. 32 2 )."
+            },
+            {
+              "texto_cita": "«Secretamente y poco á poco crecen [los inconvenientes], descubriéndose después irremediables.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 60 (R. 25. 168 2 )."
+            },
+            {
+              "texto_cita": "«La flor que nace entre las espinas es tanto más amable y preciada, cuanto son más aborrecibles las espinas entre quien nace; y de la fealdad de las unas viene á descubrirse más la hermosura de la otra.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares, 2. 2 (4. 31)."
+            },
+            {
+              "texto_cita": "«De estos libros perdidos y desconcertados y de su lección nace gran parte de los reveses y perdición que se descubren continuamente en nuestras costumbres.»",
+              "autor": "",
+              "referencia_obra": "Id, Nomb. 1, introd. (3. 4)."
+            },
+            {
+              "texto_cita": "«La emboscada | Es donde se conoce el ardimiento | De los hombres, y claro se descubre | Si el guerrero es cobarde ó valeroso.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla Iliada. 13 (2. 19)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuanto más considero estas Faces, tanto por más partes se me descubren en ellas el sér y las perfecciones de Dios.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1 , Faces (3. 49)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "De frases como descubrir el pecho nace la construcción refl. por Hablar con entera confianza manifestando lo más secreto que uno sabe ó siente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al paso finalmente que Dorotea me iba descubriendo su pecho, iba yo sosegando el mío.»",
+          "autor": "Lope",
+          "referencia_obra": ", Dorotea , 5. 3 ( Obr. suelt. 7. 386)."
+        },
+        {
+          "texto_cita": "«Descubrióle su pecho, y él gozoso | En firme confianza se prefiere | De dar la mano al rey.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 11 (R. 17. 265 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á, para expresar la persona á quien se revela algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quisiera que no te descubrieras á nadie, porque si mi padre lo sabe, me echará luégo en un pozo, y me cubrirá de piedras.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 40 (R. 1. 366 2 )."
+            },
+            {
+              "texto_cita": "«¿A quién no habrá sucedido, | Tal vez lleno de pesares, | Descansar consigo á solas, | Por no descubrirse á nadie?»",
+              "autor": "Cald.",
+              "referencia_obra": "La devoción de la Cruz, 2. 8 (R. 7. 61 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descubrirse con alguno.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E Rodrigo rogó mucho á Zayde Alemin que lo no descubriese, porque todos lo tenian por christiano.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 4. 23 (R. 68. 325 2 )."
+        },
+        {
+          "texto_cita": "«E podríase seguir | Su ama te descobrir.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 91"
+        },
+        {
+          "texto_cita": "«Fuystesme á difamar | E del todo á descobrir.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 216."
+        },
+        {
+          "texto_cita": "«Gran secreto te quiero agora descobrir en la declaración del ejemplo susodicho.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1. 2 (R. 36. 344 2 )."
+        },
+        {
+          "texto_cita": "«Comenzó á ventar un viento de la mar recio, e daba á las galeras en descubierto.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 102."
+        },
+        {
+          "texto_cita": "«E luego descubra la vianda e taje de aquello que fuere mejor.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 5 (38)."
+        },
+        {
+          "texto_cita": "«A ffray Lope, pues derecho | Le pedides ençellado | Descrovid vos que de grado | El vos rresponderá de fecho.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p. 360. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Et los moros tenian tantos ballesteros et tiraban tantas saetas, que hombre del logar non podía descobrir la mano ó otra cosa qualquier, que non fuese ferido.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 108 (R. 66. 243 1 )."
+        },
+        {
+          "texto_cita": "«Buen sennor, descubreme bien é muéstrame lo que dises sy quieres que yo crea en ty. »",
+          "autor": "",
+          "referencia_obra": "Placidas (Kunst, 127)."
+        },
+        {
+          "texto_cita": "«Fablemos de los ochenta | Que yuan á descobrir tierra.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 751 (R. 57. 500 1 )."
+        },
+        {
+          "texto_cita": "«Podrán acorrer con él, si algund buen venado so descobrier en el monte.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 9 ( Bibl. venat. 1. 44)."
+        },
+        {
+          "texto_cita": "«Este arroyo ha poco tiempo que se descubrió, que non solía haber agua en toda esa tierra.»",
+          "autor": "",
+          "referencia_obra": "J. Man. Caza , 12 ( Bibl. venat. 3. 121)."
+        },
+        {
+          "texto_cita": "«Descubren las enfermedades encubiertas que las gentes han et las muestran á los físicos, fiando en ellos que los guarescerán et que los non descubrirán de las dolencias feas et encobiertas ó vergonzosas que han.»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. de los est. 1. 96 (R. 51. 340 2 )."
+        },
+        {
+          "texto_cita": "«Debe siempre enviar adelante de la delantera algunos homes de caballo que vayan atalayando et descubriendo la tierra.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1 . 70 (R. 51. 320 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Tal es el que face merced en un home faciendo tuerto a otro, como el que cubre un altar descobriendo otro.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 12 (R. 51. 117 1 )."
+        },
+        {
+          "texto_cita": "«E muchas atalayas que auie estonçes y derribólas todas, porque eran y descobiertos los cristianos quando entrauan correr tierra de moros.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 4. 1 (280 2 )."
+        },
+        {
+          "texto_cita": "«E assy estouo desnudo al ayre e descobierto en todo el tiempo que despues biuió.»",
+          "autor": "",
+          "referencia_obra": "Ib. 150 (145 1 )."
+        },
+        {
+          "texto_cita": "«E lleuaua [César] la cabeça descubierta tanbien con sol como con lluuia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 104 (62 2 )."
+        },
+        {
+          "texto_cita": "«E desamaba [César] por ende en su coraçon a Pompeyo quanto el podie; e auie ya pieça que murie por descubrirse a ello de todo en todo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 83 (45 1 )."
+        },
+        {
+          "texto_cita": "«O haber tal servidumbre la una casa en la otra que la nunca puedan más alzar de lo que era alzada á la sazón que fue puesta la servidumbre, porque nol pueda toller la vista, nin la lumbre, nin descubrirle sus casas.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 31. 2 (2. 756)."
+        },
+        {
+          "texto_cita": "«Les debe mandar estar en derredor de la hueste, que la guarden, poniendo atalayas á todas partes et homes que descubran la tierra en derredor.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 23. 20 (2. 246)."
+        },
+        {
+          "texto_cita": "«Descubren ó facen algunos homes engañosamente altares por los campos ó por las villas, diciendo que ha en aquellos lugares reliquias de algunos santos asacando que facen miraglos.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 10. 10 (1. 364)."
+        },
+        {
+          "texto_cita": "«Esto deben facer de manera que nol descubran; ca ninguno non debe descobrir á su cristiano del pecado que hobiere fecho, seyendo encobierto.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 9. 35 (1. 355)."
+        },
+        {
+          "texto_cita": "«Et defendieron otrosi que quando toviesen los muertos en la eglesia, que les non dexasen las caras descobiertas.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 100 (1. 170)."
+        },
+        {
+          "texto_cita": "«Aquellos que las confesiones oyeren, que las non descubran por ninguna manera, ca este atal que las descobriese es traidor á Dios et desobediente á santa Eglesia.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 85 (1. 151)."
+        },
+        {
+          "texto_cita": "«Con vergüenza que han los homes de descobrirse los unos á los otros del mal que fecieron, dexan de facer muchas cosas malas.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 60 (1. 118)."
+        },
+        {
+          "texto_cita": "«El iuez no lo deve mas tormentar, pues que descubierto es por aquel que lo acusó.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 6. 1. 2 (101)."
+        },
+        {
+          "texto_cita": "«Et si por venturia non quiser descobrir suas adevinaciones de sos engannos, sea escomungado por siempre.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 7 (VIII; * descrobrir)."
+        },
+        {
+          "texto_cita": "«Allende sta la beodez tornando o beuiendo, | Los membros con bergonça descubiertos aziendo.»",
+          "autor": "",
+          "referencia_obra": "Alex, 2215 (R. 57. 215 1 )."
+        },
+        {
+          "texto_cita": "«Desen uas [la luna] redrando e descuebres cada dia, | Fasta que es llena en toda su grandia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1170 (R. 57. 183 2 )."
+        },
+        {
+          "texto_cita": "«Tolliosse luego el elmo e descobrió la faz.»",
+          "autor": "",
+          "referencia_obra": "Ib. 544 (R. 57. 164 1 )."
+        },
+        {
+          "texto_cita": "«Descubrió el trotero toda la poridat.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 716 (R. 57. 62 2 )."
+        },
+        {
+          "texto_cita": "«Descubrite qui eres por ond çertero sea.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 715 (R. 57. 62 2 )."
+        },
+        {
+          "texto_cita": "«La razon de la cosa vos me la descubrades.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 239 (R. 57. 47 2 )."
+        },
+        {
+          "texto_cita": "«Fo luego escubierta la su alevosia.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 426 (R. 57. 116 2 )."
+        },
+        {
+          "texto_cita": "«Ffasta este dia no lo descubri a nadi.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3323 (R. 57. 34 2 )."
+        },
+        {
+          "texto_cita": "«A quem descubristes las telas del coraçon?»",
+          "autor": "",
+          "referencia_obra": "Ib . 3260 (R. 57. 34 1 )."
+        },
+        {
+          "texto_cita": "«Rachel e Vidas amos me dat las manos | Que non me descubrades a moros nin a christianos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 107 (R. 57. 2 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y cubrir. Port. cat. descobrir; prov. descubrir, descobrir; fr. découvrir: it. disco v rire, discoprire; lat. bajo discooperire ;",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Jurent quod non celabunt furta, sed demostrabunt merino regis, et merinus non audeat discooperire illum qui furem ostendet.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1187 ( Muñoz , F. 244)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "El part. es descubierto. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

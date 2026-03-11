@@ -1,0 +1,425 @@
+{
+  "lema": "EMPLAZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En general, Citar o convocar a persona o personas para que den razón o cuenta de algo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El mancebo que os reta y os emplaza | Es un pagano.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 10 (R. 100. 245 2 )."
+            },
+            {
+              "texto_cita": "«Piensan ser buenos cristianos -- | Aunque jamás no paguen lo que deben, | Y espanten con sus fieros, si lo piden, | A aquellos que a emplazarlos no se atreven.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Aquí donde en Afranio (R. 42. 269 1 ). +"
+            },
+            {
+              "texto_cita": "«Y es que un casero desta mi casa en que vivo, sobre cierto alquiler que le quedé a deber me ha enviado a emplazar docientas veces.»",
+              "autor": "L. de Rueda",
+              "referencia_obra": ", El Deleit. 6 (ed. Cotarelo, 2. 204). +"
+            },
+            {
+              "texto_cita": "«¡Sus! , toma estos quince reales y llévaselos, y dile que digo yo que lo ha hecho ruinmente en enviarme a emplazar tantas veces.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (ed. Cotarelo, 2. 207)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con para que indica el objeto de la cita o llamamiento. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Carta a Díaz, emplazándole para una conferencia esta mañana, por si podemos avenirle con Price.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Diario 6 , itin. 10 (R. 85. 364 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con para y una prop. subj. en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que vengan a esta asamblea los jurisconsultos españoles, pero especialmente aquellos a quien el estudio de la historia parece una tarea inútil y superflua: yo los emplazo para que me digan, si es posible conocer el espíritu de las leyes recopiladas, sin más auxilio que el de su lectura.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre la legisl. y la hist. (R. 46. 297 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todas las veces que el siervo de Dios se viere consolado, téngase por emplazado para alguna nueva --- batalla.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 5, § 11 (R. 8. 153 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por extensión, Convenirse, ponerse de acuerdo ( refl. ) +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por entre aquellas turbas divagaba yo --- cuando, al volver por un grupo de garzones y muchachas que se emplazaban para el rigodón, tropezaron mis ojos ---»",
+              "autor": "",
+              "referencia_obra": "Estébanes, Escenas andaluzas (R. 78. 252 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "For.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Citar o convocar para ante un juez o tribunal, con señalamiento de plazo o término, a fin de responder en juicio ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ordenamos y mandamos, que de aquí adelante ningún Escribano, ni Portero, pregonero, ni emplazador, ni otro oficial que tenga cargo de emplazar, no sea osado de emplazar ni emplace a persona alguna, sin que primeramente le sea expresamente mandado por nuestras Justicias.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 11. 4. 14."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandamos que los dichos escribanos y Notarios, ni los dichos sus sucesores, no puedan ser emplazados.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 11. 4. 4. +"
+            },
+            {
+              "texto_cita": "«Que se mande al reo que ha de ser emplazado con nuestra carta, que dentro del término en la nuestra carta contenido venga y parezca por sí, o por su Procurador.»",
+              "autor": "",
+              "referencia_obra": "Ib. 11. 3. 2. +"
+            },
+            {
+              "texto_cita": "«Cualquier que fuere emplazado por nuestra carta, y no mostrare testimonio de Escribano Público ---, incurra en las penas de la carta.»",
+              "autor": "",
+              "referencia_obra": "Ib. 11. 4. 5. +"
+            },
+            {
+              "texto_cita": "«No aparece diligencia alguna de que fuera emplazado el apelante.»",
+              "autor": "",
+              "referencia_obra": "Sentencias del Tribunal Supremo español 3. III de 1909. +"
+            },
+            {
+              "texto_cita": "«En nada afecta al que fue emplazado personalmente.»",
+              "autor": "",
+              "referencia_obra": "Ib . 27. II de 1933."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con a para denotar la persona que debe dar cuenta o responder en el juicio. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ordenamos, que si alguno por virtud de nuestra carta emplazare a otro---, y no paresciere el emplazador o su Procurador, que sea condenado en todas las costas.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 11. 4. 6."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. en sentido pasivo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En tal concepto se citará y emplazará al Procurador fiscal del Juzgado luego que fuere admitida la demanda.»",
+              "autor": "",
+              "referencia_obra": "Ley de Enjuiciamiento Civil española , art. 1109. +"
+            },
+            {
+              "texto_cita": "«Presentada la demanda con las copias prevenidas, se conferirá traslado de ella a la persona o personas contra quienes se proponga, y se las emplazará para que comparezcan en los autos.»",
+              "autor": "",
+              "referencia_obra": "Ib . art. 525."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con para, ante y para ante que indican el superior ante el cual se cita. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son de aplicación general las disposiciones de los artículos 270, 271 y 274 de esta Ley, cualquiera que sea el Tribunal para ante el que se emplace a las partes.»",
+              "autor": "",
+              "referencia_obra": "Sentencias del Tribunal Supremo español, 23. VII y 27. VIII de 1884."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ordenamos y mandamos, que de aquí adelante ningún Escribano ni Portero, pregonero ni emplazador, ni otro oficial que tenga cargo de emplazar, no sea osado de emplazar.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop . 11. 4. 14."
+            },
+            {
+              "texto_cita": "«El Escribano, o cualquier persona de los suso dichos emplazadores, que sin preceder el dicho mandamiento emplazare, que pague --- todas las costas y daños.»",
+              "autor": "",
+              "referencia_obra": "Ib."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part . sust. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandamos, que las tales cartas de emplazamientos personales non valan ---; y los emplazados que por ellas no parescieren, que no incurran en pena alguna.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 11. 4. 8."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por analogía, emplazar para el tribunal de Dios, como juez supremo, y met. para todo aquello a que puede atribuírse capacidad de juzgar. +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Querellámonos, el Rey, | Para ante el soberano, | Que dentro de treynta días | Vays con nosotros a plazo | --- | Y muertos los Carvajales, | Que lo avían emplazado, | Antes de los treynta días | El se fallara muy malo.»",
+          "autor": "Romanc.",
+          "referencia_obra": "960 ( Canc. de romanc . Amberes, Nucio, s. a., 166 vº; R. 16. 33 2 ). +"
+        },
+        {
+          "texto_cita": "«Gran sinjusticia nos hazes; | Ante Dios nos te enplazamos | Que de oy en treynta días | Con nos estés en juzgado.»",
+          "autor": "Romanc.",
+          "referencia_obra": "961 (L. de Sepúlveda, Romanc. nuev. sacados, Amberes, 1551, 79 vº; R. 16. 34 1 )."
+        },
+        {
+          "texto_cita": "«Vuelto al cielo santo, | Digo que pues inocente | Muero, al rey Fernando emplazo | Para el tribunal de Dios, | Donde los dos nos veamos, | A ver quién tiene justicia.»",
+          "autor": "Lope",
+          "referencia_obra": ", La inocente sangre, 3. 18 (R. 52. 371 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV : Son de notar la forma enprazear y los usos especiales de este verbo con referencia a fortalezas y plazas fortificadas; se empezó dando en estos casos a emplazar el sentido de Fijar de común acuerdo el defensor y el atacante un término o plazo a cuya expiración se entregaría a éste un lugar fortificado si antes no era socorrido por su señor feudal; de este sentido, con que aparece por ejemplo en el segundo pasaje de la Crón. P. Niño , que adelante se cita, se pasó al de Abandonar o desamparar una fortaleza que un vasallo estaba obligado a defender, tal como se ve en el segundo ejemplo de las Partidas ; compárese Ib . 2. 18. 22 (2. 169). +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Señor, dijo el caballero, yo vó a gran cuita emplazado de aquel cuyo preso soy, e no tengo espacio para me detener ni para saber cuánto estas donas valen.»",
+          "autor": "Am. de Gaula",
+          "referencia_obra": ", 1. 29 (R. 40. 71 1 ). +"
+        },
+        {
+          "texto_cita": "«Señor, vos me mandastes emplazar que paresciese hoy ante vos en vuestra corte por lo que de mí vos dijeron, que fue muy gran mentira.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 39 (R. 40. 90 1 ). +"
+        },
+        {
+          "texto_cita": "«Acordó de suplicar a la Reyna que les embiase sus cartas de emplazamiento, la cual gelas embió luego; y venidas en Sevilla hubieron de ir emplazados todos los que tenian la parte del Conde de Niebla, y el Corregidor Ortun Velazquez se partió de Sevilla con las pesquisas hechas contra los que así iban emplazados.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II , 11. 1 (R. 68. 373 1 )."
+        },
+        {
+          "texto_cita": "«Aquel [rey] que Alcaudete ganó batallando | Del que se dize morir emplazado.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. 287 ( NBAE . 19. 181 1 )."
+        },
+        {
+          "texto_cita": "«En este tiempo hera Pero Niño enplazado para la corte, que le enplazára Rodrigo de Perea sobre razón de los canbios de Valladolid, que heran de Pero Niño.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", 97 (ed. Carriazo, 321)."
+        },
+        {
+          "texto_cita": "«E pelearon muy bien los de dentro con los navarros que en la villa heran, de guisa que se tomó la villa. E después se enplazó a çiertos días de se dar la fortaleza; e diose.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (ed. Carriazo, 347). +"
+        },
+        {
+          "texto_cita": "«Ca yo vos prometo que non vos emplaze | Delante meryno, alcallde nin juez.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", Nº 443 (fol. 149; p. 486). — Siglo XIV : +"
+        },
+        {
+          "texto_cita": "«Emplaçados fincan para otro día en el campo.»",
+          "autor": "",
+          "referencia_obra": "Crón. rim. 1091 (RH., 24, 355; R. 16. 661 2 )."
+        },
+        {
+          "texto_cita": "«Acogiéronse al castillo del dicho logar, e trataron pleytesia que emplazasen el dicho castillo a don Juan Alfonso que era en Portogal --- E don Juan Alfonso dixo que le non podia acorrer, e mandoles que le entregasen al rey.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I, 5. 3 (ed. Llaguno, 118-9; R. 66. 441 1 ). +"
+        },
+        {
+          "texto_cita": "«Otros --- quelos merinos que ponen los adelantados de Castiella e de Leon que andan por los nuestros rregnos, e que andan enplazando los labradores para ante si mesmos sin mandado de los alcalles.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Toro , año 1369 ( C. de L. y C . 2. 182). +"
+        },
+        {
+          "texto_cita": "«Et sobre estas cosas el Rey envióle emplazar que veniese ante él.»",
+          "autor": "",
+          "referencia_obra": "Crón. Alf. XI , 46 (ed. Cerdá, 88; R. 66. 200 2 ). +"
+        },
+        {
+          "texto_cita": "«Sobre esto seyendo emplazado Pay Rodriguez, envió cartas al Rey.»",
+          "autor": "",
+          "referencia_obra": "Ib. 265 (ed. Cerdá, 477; R. 66. 337 2 ). +"
+        },
+        {
+          "texto_cita": "«Que ssi algunos destos atales an derecho por que non deuan pechar, mando que ssean enplazados para ante mi por quelos yo mande oyr e librar.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "2. 59). +"
+        },
+        {
+          "texto_cita": "«Et que agora los que estas calonnas arriendan, que ponen tableros e dan tablaje, e demas desto que enplazan delas villas e delas aldeas çinquenta o çient omes e mas e cada que quieren.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año 1351 ( C. de L. y C . 2. 42). +"
+        },
+        {
+          "texto_cita": "«Sy alguno sobre pleito çiuil o criminal ganare nuestra carta para enplazar a otro ---, peche a 'quel contra quien della vsare seyscientos maravedís.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 501). +"
+        },
+        {
+          "texto_cita": "«Mandamos que el julgador en los pleitos que a él pertenesçiere delibrar, que pueda yr por sy o enbiar su carta a enplazar a la parte absente.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 503). +"
+        },
+        {
+          "texto_cita": "«Acaesçe muchas bezes que algunos queriendo traer los pleitos a la nuestra corte por fazer danno a sus contrarios, ganan cartas dela nuestra chançellería para los enplazar.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 501). +"
+        },
+        {
+          "texto_cita": "«Si el demandado fuere enplazado por tres enplazamientos et non venier a los plazos---, que dende adelante el julgador vaya por el pleito a rreçebir testigos.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 504). +"
+        },
+        {
+          "texto_cita": "«Si el enplazado fuere prendado o rrecibier algun danno por esta rrazon, tornele el juyz la prendia.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 502)."
+        },
+        {
+          "texto_cita": "«Otrossi, Sennor, los cogedores e rrecabdadores de los uuestros pechos pasados e de las terlias e de los otros uuestros pechos an fecho mucho mal e mucho astrago en la nuestra tierra por muchas rrazones, enprazeando a todos los del lugar o a los mas dellos por muchas uezes al dia e de cada dia e de vnos lugares a otros.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Madrid, año de 1339 ( C. de L. y C. 1. 458; *enplazando)."
+        },
+        {
+          "texto_cita": "«Et si algunas querellas ffallan y escriptas acusan las e demandan las sin querelloso alguno; et enprazanlos para la uuestra corte por los rremedir e los coechar.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 461)."
+        },
+        {
+          "texto_cita": "«Et aquellos en quien tannier la pesquisa o pesquisas quelos ffagan enprazar ssegunt ffuero e vso de la tierra.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 366). +"
+        },
+        {
+          "texto_cita": "«Los alcaldes del regno de Castilla desían que el su fuero era que quando el Rey o sus vasallos o sus alcaldes emplasasen alguno por demanda de eredamiento ---, que el plaso que le pusiesen fuese a treinta días.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 11 (ed. Benavides, 143; R. 66. 138 1 )."
+        },
+        {
+          "texto_cita": "«Veyendo que los matavan con tuerto, dixeron que emplasavan al rey que paresciese ante Dios con ellos a juisio sobre esta muerte que él les mandava dar con tuerto, de aquel día que ellos morían a treynta días.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 18 (id., 242; R. 66. 169 2 )."
+        },
+        {
+          "texto_cita": "«E luego enbió emplasar por su carta a don Diego que viniese por su persona a responder al infante don Juan e púsole plazo cierto.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 10 (id., 138; R. 66. 136 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Et desobidientes son los homes --- quando los emplazan los judgadores o los que tienen sus lugares que vengan a facer derecho a los que se querellan.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 9. 10 (1. 336). +"
+        },
+        {
+          "texto_cita": "«Segunda manera hi ha que fue puesta antiguamente en España para dar los castiellos maguer non los pida el señor, así como ementamos en la tercera ley ante desta; et esto es quando los emplazan: et porque esto es como desamparamiento de los castiellos, cataron los antiguos manera por que los señores non fuesen desheredados dellos, nin cayesen en blasmo nin en pena los que los dexasen.»",
+          "autor": "Part.",
+          "referencia_obra": "2 . 18. 20 (2. 167)."
+        },
+        {
+          "texto_cita": "«E si el recebidor non fuere al plazo que el rey le posiere, deve venir el que el castiello tovier a enplazarle al rey segunt manda la ley de los enplazamientos.»",
+          "autor": "Espéc.",
+          "referencia_obra": "2. 8. preámb. (O . L. 1. 36)."
+        },
+        {
+          "texto_cita": "«Avemos ya mostrado en estas leyes de suso como deven dar las villas e los castiellos e las fortalezas los que las reciben del rey o las ganan por si. E agora queremos decir como las deven enplazar quando las quisieren dexar.»",
+          "autor": "Espéc.",
+          "referencia_obra": "2. 9 , preámb. ( O. L. 1. 38). +"
+        },
+        {
+          "texto_cita": "«Qui emplazado fuere delant alcaldes, et responder non quisiere, peche un moravidi.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Medinaceli ( Muñoz , F. 438) ."
+        },
+        {
+          "texto_cita": "«Que si un ome a querella de otro por demanda que aya contra él, e fíçol emplaçar para casa del rey, e non viene al plaço él nin suo mandado, dével mandar prender quanto ganado fallaren.»",
+          "autor": "Fuero",
+          "referencia_obra": "Viejo, 2. 4. 5. (72)."
+        },
+        {
+          "texto_cita": "«Dévelos aplaçar por aquella carta --- diciendo que fulán suo pariente es finado, de quien ellos deven eredar, e que los alcalles del logar onde él era morador, le emplaçan que vengan o embíen tomar sua partición a aquel logar do era morador el muerto.»",
+          "autor": "",
+          "referencia_obra": "Ib . 5. 3. 15 (133)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de en y plazo . Port. emprazar. Plazo. procede de placitus (que en los primeros tiempos del idioma dio plazdo ), part. de placere . El origen remoto de la significación de plazo , de carácter especialmente jurídico, puede residir en el sentido 'parecer bien, merecer la aprobación' de expresiones por el estilo de Senatui placuit, sic placitum est; pero su origen más inmediato habrá de buscarse, en opinión de Corominas (cf. DCEC . sb. voc. plazo),",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«en el uso adjetivo dies placitus 'plazo fijado, aprobado, determinado'»",
+          "autor": "Acad.",
+          "referencia_obra": "rechazaba todavía en su Dicc. en la ed. de 1947. En castellano antiguo, y como término de montería, se usó también emplazar en el sentido de Concertar o disponer la caza, en cuya comprobación cita el Dicc.. Autor. un pasaje del cap. 13 del Discurso de la montería de Argote de Molina ; pero, aunque mucho más antiguo y arraigado que el anterior, es también galicismo y derivado de plaza ‘ lugar'."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "La z se vuelve c antes de e : emplacé, emplacéis.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans.: en general. — Refl .: 1 a , γ - 2, α , β, α α . — Pas.: 2, a, α, α α . — Part. : 1 , a, β, β β - 2 , a, δ . — Absol.: 2 , a, γ . — Con a: 2 , a, β . — Con para: 1 , a, β . — Para y una prop . subj. : 1 , a, β, α α . — Con para, ante y para ante: 2 , a, β, β β . \u0000"
+}

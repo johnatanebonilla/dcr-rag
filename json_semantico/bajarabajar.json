@@ -1,0 +1,1381 @@
+{
+  "lema": "BAJAR (ABAJAR).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. El empleo de abajar pasaría hoy por arcaico. Las acepciones se dividen en dos grupos, según son transitivas ó intransitivas: — (I), 1, a ) poner en lugar más bajo, mover hacia lugar más bajo, b ) llevar ó traer á lugar más bajo, c ) conducir ó guiar á lugar más bajo, d ) obligar á ir ó venir á lugar más bajo, d ) recorrer ó pasar de arriba abajo; — 2, inclinar hacia abajo; 3, reducir á menor altura; — 4, a ) reducir á menor cantidad, precio ó estimación, b ) en los contratos de compra y venta, c ) en general, disminuír, moderar, d ) en la cetrería; — 5, abatir, humillar; — 6, a ) aplicado al sonido, b ) al estilo; — (II), 7, a ) moverse de alto á bajo, b ) ir, andar desde un lugar á otro que esté más bajo, c ) aplicado al curso de los ríos y á objetos que se prolongan de arriba abajo, d ) ir de un país mediterráneo á la costa ó hacia la embocadura de un río, e ) invadir, f ) ir del norte hacia el sur, g ) aplicado á la noche, h) met. , i ) decaer en riqueza ó crédito; — 8, a ) disminuír en altura, decrecer, b ) minorarse, disminuírse, c ) aplicado á las cosas con respecto á su precio; — 9, a ) Aplicado al número, b ) á los grados de una escala; — 10, a ) aplicado á expedientes y provisiones, b ) en el foro, apartarse, desistir.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(I)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner en lugar inferior ó mover hacia punto más bajo lo que estaba en alto ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Y el criado corrió hacia ella, y dijo: Dáme á beber un poquito de agua de tu cántaro. Ella respondió: Bebe, señor mío. Y prontamente abajó el cántaro sobre su brazo, diole á beber.» Scío , Gén . 24. 17, 18.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y bajando los párpados ceñuda | Cierra los ojos, y en veloz corrida | Acomete á la turba numerosa.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 17 (2. 168)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á para denotar el lugar inferior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con intrépido corazón se arroja en él [ en el batel] entregándose á las implacables olas del mar profundo, que ya le suben al cielo y ya le bajan al abismo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 1 (R. 1. 407 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , para expresar el lugar alto en que estaba el objeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estos dos varones bajaron el cuerpo de Cristo nuestro Señor de la cruz, con grande reverencia y devoción.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 54 (2. 628)."
+            },
+            {
+              "texto_cita": "«Le salió á recebir el prefecto de la paz llamado Herodes y su padre Nicestas, los cuales le bajaron del asno y le pusieron en su carro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Simb . 2. 26 (R. 6. 353 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No podían [los malhechores] ser bajados de la cruz sin licencia, de los jueces.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 54 (2. 627)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Llevar ó traer á lugar más bajo ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Baja, Parmeno, nuestras capas y espadas, si te parece que es hora que vamos á comer.»",
+          "autor": "",
+          "referencia_obra": "Celest . 9 (R. 3. 40 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Conducir ó guiar á lugar más bajo ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esparcido el ganado, | Que bajaba un pastor del monte al prado, | Dio groseros balidos.»",
+          "autor": "Lope",
+          "referencia_obra": ", Filom . 2ª pte . ( Obr. suelt . 2. 447)."
+        },
+        {
+          "texto_cita": "«Del monte al valle sus ovejas | Bajó un pastor enamorado y triste.»",
+          "autor": "Esquil.",
+          "referencia_obra": "égl . ( en Lope , Obr. suelt . 1. 353)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Obligar á ir ó venir á lugar más bajo ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Una ninfa te sigue --- | Una ninfa divina que ha bajado | Muchas veces á Júpiter del cielo.»",
+          "autor": "",
+          "referencia_obra": "F. de la Torre, 3, égl . 3 (107)."
+        },
+        {
+          "texto_cita": "«Llegó el rojo animal sobre la fuente, | O cebado en la tímida doncella, | O en insufrible sed la siesta ardiente | Del monte le bajase á beber della.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 17 (R. 17. 321 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Recorrer de arriba abajo ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Empezaron luégo á bajar la cuesta con alegre seguridad.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 2. 17 (R. 28. 255 2 )."
+        },
+        {
+          "texto_cita": "«Cuando bajo las escaleras de mi casa, diré: Día vendrá en que otros me bajen por aquí, para nunca más subir.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit . 1. 10 (1. 109)."
+        },
+        {
+          "texto_cita": "«Este volando la escalera baja, | Aquel la sube de sudor cubierto.»",
+          "autor": "Villav.",
+          "referencia_obra": "Mosq . 3 (R. 17. 580 2 )."
+        },
+        {
+          "texto_cita": "«Aquí terminó Teofrasto su declamación, y empezó á bajar las gradas de la cátedra.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Liter. en cuaresma (7. 29)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Inclinar hacia abajo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conjurábame por lasordinarias preguntas; y cuando él bajaba una varilla de mimbre que en la mano tenía, era señal del salto, y cuando la tenía alta, de que me estuviese quedo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 237 1 )."
+            },
+            {
+              "texto_cita": "«Viendo que nadie le daba otra cosa, abajó su cabeza.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 32 (R. 1. 338 2 )."
+            },
+            {
+              "texto_cita": "«Abajó la cabeza don Quijote, y hizo reverencia á los duques y á todos los circunstantes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 57 (R. 1. 524 2 )."
+            },
+            {
+              "texto_cita": "«Hija, la mujer bajar los ojos y mirar á la tierra, que no á los hombres.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 338 2 ). —"
+            },
+            {
+              "texto_cita": "«Fue necesario bajar la puntería contra los que iban huyendo á lo interior de la ciudad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 21 (R. 28. 378 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiró un altibajo tal, que si maese Pedro no se abaja, se encoge y agazapa, le cercenara la cabeza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij 2. 28 (R. 1. 460 2 )."
+            },
+            {
+              "texto_cita": "«La razón que dio de haberse rendido y entregado al buen parecer que se le había propuesto, fue abajarse y abrazar á Dorotea, diciéndole: Levantaos, señora mía.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 36 (R. 1. 357 1 )."
+            },
+            {
+              "texto_cita": "«El coro era el desván, que por mitad estaba alto, que podían decir las horas, mas habíanse de abajar mucho para entrar.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 14 (R. 53. 202 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar la dirección ó el objeto con que uno se inclina.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con vergüenza y con desdén, al suelo | Bajando el rostro, el delicado seno | Cuanto podía, torciéndose, cubría.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 3 (R. 42. 142 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues cuando vieron entre el pan y el vino, | Por morcilla una bota de camino, | Todos, con un deogracias, se abajaron | A olerla.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 7, entremés La venta (R. 69. 285 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "A este significado corresponden varias frases como Bajar la frente, la cabeza, las orejas, con que se denota humillación, sumisión. Véase abajo, 5.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Portugal y Francia humilladas hubieron de bajar la altiva frente y de reconocerla por reina de Castilla.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat . ( Mem. Acad. Hist . 6. 9)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Reducir á menor altura, rebajar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bajar el piso, la cuesta.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deben no sólo abrirse y manifestarse los castillos, sino apartarse los riscos y dividirse y abajarse las montañas para dalle acogida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 42 (R. 1. 375 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Reducir á menor cantidad, precio ó estimación ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que sería todavía más fácil y hacedero reformar el gran número de compañías de soldados que por sus particulares los señores sustentaban y entretenían á costa del común; por lo menos les abajasen las pagas y sueldo conforme al que se daba en tiempo de los reyes pasados.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 19. 2 (R. 31. 34 2 )."
+            },
+            {
+              "texto_cita": "«Con su afabilidad y trato amigable y con abajar los tributos granjeaba grandemente las voluntades de todos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 12 (R. 30. 73 1 )."
+            },
+            {
+              "texto_cita": "«Los romanos en las provincias debeladas abajaban los tributos por hacer suave su dominio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 59 (R. 25. 163 2 )."
+            },
+            {
+              "texto_cita": "«Cuando los príncipes hacen leyes en que tasan los precios de las mercaderías, como trigo, libros y otras tales, no mandan que la cosa valga el precio que bajan ó suben por ley, que --- sería cosa ridícula, sino declaran el justo valor que tiene conforme á las circunstancias que se deben considerar.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gobern. crist . 2. 39, § 2 (2. 448)."
+            },
+            {
+              "texto_cita": "«Siempre los precios bajó | De más valor la abundancia.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amor y celos , 1. 9 (R. 5. 154 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el concepto en que se entiende la baja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era cosa injusta abajar de quilates la moneda y que fuese del mismo valor que la de antes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 9 (R. 30. 383 1 )."
+            },
+            {
+              "texto_cita": "«El rey don Felipe II bajó de ley los maravedís.»",
+              "autor": "",
+              "referencia_obra": "Id. Mon. de vellón , (R. 31. 582 2 )."
+            },
+            {
+              "texto_cita": "«Coligen que podrían los señores soberanos, teniendo causa justa para subir la moneda --- bajarla de ley hasta donde quisieren.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gobern. crist . 2. 39, § 2 (2. 439)."
+            },
+            {
+              "texto_cita": "«No podría el príncipe subirla de valor [la moneda] ni bajarla de peso, sino dentro de la común estimación.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 39, § 2 (2. 440)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llevaban mal que la moneda se hobiese abajado de ley, de que se siguió mayor carestía de los mantenimientos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 11 (R. 30. 385 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , en igual sentido (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De bajarla en el peso [la moneda] resulta la segunda comodidad, que es de los acarreos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Mon. de vellón , 7 (R. 31. 582 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En los contratos de compra y venta, Disminuír el precio puesto ó pedido ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "En general, Disminuír, moderar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Levantando en sus lugares las luces y abajando las sombras adonde conviene, trae á debida perfección su figura.»",
+          "autor": "León",
+          "referencia_obra": ", Perf. cas . 3 (R. 37. 216 1 ; * bajando)."
+        },
+        {
+          "texto_cita": "«Ya se sabe que la hermosura de algunas mujeres tiene días y sazones, y requiere accidentes para disminuírse ó acrecentarse; y es natural cosa que las pasiones del ánimo la levanten ó bajen, puesto que las más veces la destruyen.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij 1. 41 (R. 1. 369 1 )."
+        },
+        {
+          "texto_cita": "«Yo haré que abaje el brío y pierda el tino | Y que en sí mismo su furor detenga.»",
+          "autor": "",
+          "referencia_obra": "Id. Numancia , 1 (Arrieta, 10. 15)."
+        },
+        {
+          "texto_cita": "«Abajen los orientales | La presunción y la vela.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 2 (R. 32. 175 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Cetr. En especial, hablándose de los halcones, Enflaquecerlos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A los halcones dicen abajarlos cuando tienen muchas carnes, y para esto les dan á comer la carne lavada.»",
+              "autor": "Covarr.",
+              "referencia_obra": "sb. voc. abaxar."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bajar el halcón de carnes, entre cazadores, es enflaquecerle.»",
+              "autor": "Covarr.",
+              "referencia_obra": "sb. voc. baxar ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5.",
+      "definicion": "met. Abatir, humillar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Luégo que fue llamado y se encargó de aquella empresa, reprimió la avilanteza de los godos y abajó su orgullo --- en fin, los acosó de manera, que á instancia de los mismos tomó con ellos asiento y les dio tierras en que morasen.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 4. 20 (R. 30. 112 2 )."
+            },
+            {
+              "texto_cita": "«Viendo el hijo la próspera carrera | Del victorioso padre retirado --- | Aquel copioso ejército ha juntado, | Para bajar de la enemiga Francia | La presunción, orgullo y arrogancia.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 17 (R. 17. 68 2 )."
+            },
+            {
+              "texto_cita": "«Esto les dijo para humillarlos --- y abajar los humos de su ambición.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 17 (2. 445)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mucho amor le tienen los soldados, mucha reverencia todo el reino; menester es bajarle y quitarle el mando y el puesto.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 15 (R. 23. 74 1 )."
+            },
+            {
+              "texto_cita": "«Pues Dios de las venganzas te apellidas, | Baja al tirano débil encumbrado, | Hártese en él tu saña de heridas.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 2, son. 76 (R. 69. 28 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquéllos se levantan ó con la ambición ó con la virtud; éstos se abajan ó con la flojedad ó con el vicio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 6 (R. 1. 416 1 )."
+            },
+            {
+              "texto_cita": "«Despreciaos, y abajaos en el más profundo lugar que pudiéredes muy de espacio.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 65 ( Míst . 3. 254)."
+            },
+            {
+              "texto_cita": "«Forzado ha de sacar sus pecados, y mirar lo que ha servido con lo que debe á Cristo, y las grandezas que hizo de abajarse así, para dejarnos ejemplo de humildad.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 18 (R. 53. 333 2 )."
+            },
+            {
+              "texto_cita": "«Ten por cierto que no podrás tanto abajarte, cuanto requiere tu vileza.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3. 16 (R. 6. 428 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ve que mientras más alto está, más ha recibido de Dios y más le debe, y más pequeño y abajado es en sí mismo.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 67 ( Míst . 3. 259)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar el punto ú objeto adonde llega el abatimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mejor es nombre de bueno, | Como Salomón lo reza, | Que multitud de riqueza; | Y de éste haces ajeno | Al que abajas á pobreza.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3 (R. 32. 210 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Está claro que mayor es la paciencia que más sufre, y mayor la humildad que á mayores extremos se abaja.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 6. 6 (R. 8. 352 2 )."
+            },
+            {
+              "texto_cita": "«Abájase á vil ruego, | Y de la libertad va haciendo entrego.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, ¿Qué vale cuanto vee (R. 37. 7 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni tampoco hay razon para tropezar en la humildad que tomó el altísimo Dios abajándose á ser hombre.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 40 ( Míst . 3. 203)."
+            },
+            {
+              "texto_cita": "«¿Cómo se querrá abajar á traer una capa raída, el que huelga de resplandecer con oro y púrpura?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 28, § 5 (R. 6. 110 1 )."
+            },
+            {
+              "texto_cita": "«Dice el apóstol que, estando en forma de Dios, y siéndole natural propia esta dignidad, se abajó á tomar verdadero sér y forma de hombre.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 3. 6 (R. 6. 408 2 )."
+            },
+            {
+              "texto_cita": "«Porque ya que por su inmensa bondad determinó ábajarse á tomar nuestra humanidad, tal hombre se hizo, que no fuese deshonra, sino grandísima gloria hacerse tal.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3, diál . 2 (R. 6. 458 2 )."
+            },
+            {
+              "texto_cita": "«Siendo verdadero Dios, se abajó á tomar la naturaleza de hombre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 3. 4, § 2 (R. 6. 681 2 )."
+            },
+            {
+              "texto_cita": "«Ya estoy por bajarme á ser | Quien eres y ser tu igual, | No más que por ver el mal | Que tú me puedes hacer.»",
+              "autor": "Lope",
+              "referencia_obra": ", El molino , 1. 2 (R. 24. 22 2 )."
+            },
+            {
+              "texto_cita": "«¿Merece ese descreído | Que á lidiar con él me baje?»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea , 2. 11 (178)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con á y un nombre de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchas de la antigua edad | Del carro y trono se abajen, | No á ti, mujer, sino imagen | De pureza y castidad.»",
+              "autor": "Lope",
+              "referencia_obra": ", El cardenal de Belén , 1 (R. 41. 593 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con con , para denotar á quién trata uno de igualarse humillándose.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estando altísimo en sí, se abaja con sus criaturas, y como dice el salmo, estando en el cielo está también en la tierra.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Faces (R. 37. 84 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose de sonidos, Alterar su entonación, haciéndoles perder uno ó más grados de agudez. Con respecto á la voz se entiende también por soltarla con poco esfuerzo, de suerte que no se oiga á lo lejos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vienen acompañando, según les he oído decir, á una espía francesa, Y aun sospecho, por lo que les he oído, que es (y abajando más la voz dije) de Antonio Pérez.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 6 (R. 23. 497 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Templaron vuestras mercedes? | La prima se me bajó. | — Subilla.»",
+              "autor": "",
+              "referencia_obra": "Lope, La discreta enamorada 2. 1 (R. 24. 163 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Tratándose del estilo, Acercarle al simple, y aun al familiar ó vulgar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuanto al hacer diferencia en el alzar ó abajar el estilo, según lo que escribo ó á quien escribo, guardo lo mesmo que guardáis vosotros en el latín.»",
+          "autor": "Valdés",
+          "referencia_obra": ", Diál . (Mayans, 115)."
+        },
+        {
+          "texto_cita": "«Unas veces alza el estilo al cielo, y otras lo abaja al suelo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (Mayans, 131)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "7.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(II)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Moverse en la dirección de alto á bajo, hacia el suelo ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y bajó sobre él el Espíritu Santo en figura corporal, como de paloma.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Lucas , 3. 22."
+            },
+            {
+              "texto_cita": "«Si es rey de Israel, baje de la cruz, y creeremos en él.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 44 (2. 584)."
+            },
+            {
+              "texto_cita": "«La diosa Diana --- baja cantando en una nubecilla para dar fin á tanto delirio.»",
+              "autor": "Mor.",
+              "referencia_obra": "Com. disc. prel . (R. 2. 312)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Admite un dat. refl. , lo mismo que ir , venir , etc ., con el cual se denota la espontaneidad ó facilidad con que se ejecuta el acto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rebeca también, cuando alcanzó á ver á Isaac, bajóse del camello.»",
+              "autor": "Scío",
+              "referencia_obra": ", Gén . 24. 64."
+            },
+            {
+              "texto_cita": "«Que se baje de la mula | Por ver que el camino es agro.»",
+              "autor": "Góng.",
+              "referencia_obra": "letr . 38 (R. 32. 499 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con grave estilo ensalza al cielo | La santa religión de allá abajada.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Epíst. á sus amigos de Salam . (R. 46. 7 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ir, venir, andar desde un lugar á otro que esté más bajo ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar el punto adonde uno se dirige.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abajó á los campos rasos y á la llanura, y ganó por las armas gran número de ciudades y lugares.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 2 (R. 30. 277 1 )."
+            },
+            {
+              "texto_cita": "«No contentos con haberse hecho depositarios de todos los vicios de la tierra, abajaron al infierno y de los mesmos demonios aprendieron sus blasfemias.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 13, consid . 4, § 1 (R. 8. 464 2 )."
+            },
+            {
+              "texto_cita": "«Los catorce españoles abajaban | Por un repecho al valle enderezando.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 4 (R. 17. 17 2 )."
+            },
+            {
+              "texto_cita": "«A la siniestra mano, hacia el poniente, | Estaban dos caminos mal usados; | Estos debían de ser antiguamente | Por do al agua bajaban los venados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6 (R. 17. 27 1 )."
+            },
+            {
+              "texto_cita": "«Al araucano valle pues bajamos, | Que el mar le bate al lado del poniente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 23 (R. 17. 86 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el lugar alto que uno deja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bajaron de la cuesta y se fueron á su pueblo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 72 (R. 1. 555 1 )."
+            },
+            {
+              "texto_cita": "«Había entrado el mes de junio, en el cual, por uso antiguo de la provincia, acostumbran bajar de toda la montaña hacia Barcelona muchos segadores.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 1 (R. 21. 469 2 )."
+            },
+            {
+              "texto_cita": "«Bajar, Nuño querido, | Contigo destos montes á estas huertas, | En el abril florido | A ver las rosas á la aurora abiertas, | ¿Qué reino iguala puede?»",
+              "autor": "Lope",
+              "referencia_obra": ", Los prados de León , 1. 3 (R. 52. 435 1 )."
+            },
+            {
+              "texto_cita": "«Abajó del cielo y se hizo pastor hombre.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Pastor (1 . 37. 93 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Algunas veces se usa como refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por ser el tiempo lluvioso, no se bajaba al juego de la pelota, que la jugaba con agilidad.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 69 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Aplicado al curso de los ríos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Está situada [la villa de Huy] sobre la ribera de la Mosa, en la parte donde desagua en ella el riachuelo Huy, de quien toma el nombre, que baja del país de Condroy.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 102 1 )."
+        },
+        {
+          "texto_cita": "«Era el lugar de grande población y de hermosa vista, situado entre dos ríos que fertilizaban la campaña, bajando de lo alto de unas sierras poco distantes.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 2. 8 ( R. 28. 242 1 )."
+        },
+        {
+          "texto_cita": "«Precipitando sus ondas | Por entre oscuras cañadas, | Enfurecido un torrente | De la umbrosa sierra baja.»",
+          "autor": "Lista",
+          "referencia_obra": ", Romances , 10. 4 (R. 67. 341 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Dícese en un sentido análogo de otras cosas que corren ó se extienden de arriba abajo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mataron al alguacil y barrearon las calles que bajan á la ciudad.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 1 (R. 21. 69 2 )."
+            },
+            {
+              "texto_cita": "«Habían cegado con grandes piedras y árboles cortados el camino real que baja desde lo alto á la provincia de Chalco.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 8 (R. 28. 276 2 )."
+            },
+            {
+              "texto_cita": "«Se siguen algunos valles hondísimos, que van siempre ceñidos de dos cordilleras de montes, que unos bajan de las serranías de Monserrate, y otros corren la tierra adentro.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 5 (R. 21. 521 1 ). —"
+            },
+            {
+              "texto_cita": "«Bajábale [la nariz] dos de dos más abajo de la boca.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 14 (R. 1. 432 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Ir de un lugar mediterráneo hacia la costa, y también ir á un lugar que queda más abajo con respecto al curso de un río ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Comenzad por Hungría y pasad á Alemania, y de allí bajad á Flandes, á Inglaterra, á Francia, y veréis los castigos que la indignación divina ha ejecutado en todas estas naciones con herejías tan monstruosas.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 4, diál . 11, § 4 (R. 6. 599 2 )."
+        },
+        {
+          "texto_cita": "«Le mandaba viniese luégo al punto á conducir un tercio, que bajaba de Lombardía á Génova, de infantería española á la isla de Malta.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers . 3. 12 (R. 1. 647 1 )."
+        },
+        {
+          "texto_cita": "«Al primer aviso de que el enemigo bajaba á Celanda, juntó el coronel Mondragón --- la gente que pudo.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos , 4 (R. 28. 50 2 )."
+        },
+        {
+          "texto_cita": "«El regimiento nuevo del conde Ludovico Vía, que acababa de bajar de Alemaña.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 8 (R. 28. 106 1 )."
+        },
+        {
+          "texto_cita": "«Desde allí hasta el gran Cairo fui por tierra, | Y bajé por el Nilo á Alejandría.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 11 (R. 17. 255 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Invadir, hacer una irrupción. Díjose primeramente, de la que se hace viniendo de un país más elevado, y después de la que se hace llegando por mar ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El otro inconveniente fue la venida de Carlos de Valoes, que con intento de recobrar el imperio de los griegos abajó á Italia.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 15. 5 (R. 30. 435 2 )."
+        },
+        {
+          "texto_cita": "«En este mismo tiempo estaba el emperador Carlos en la guerra peligrosísima de Viena, contra el turco Solimán, el cual había bajado en persona con un ejército innumerable y poderosísimo.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Cisma , 1. 19 (R. 60. 204 1 )."
+        },
+        {
+          "texto_cita": "«Con el feroz poder del nuevo imperio, | Sobre España el francés baja gallardo.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 2 (R. 17. 159 2 )."
+        },
+        {
+          "texto_cita": "«Carlos, en fin, baja á Italia, con un ejército de veinte mil infantes.»",
+          "autor": "Quint.",
+          "referencia_obra": "Gran Capitán (R. 19. 254 1 ). —"
+        },
+        {
+          "texto_cita": "«Caballero andante he de morir, y baje ó suba el turco cuando él quisiere, y cuan poderosamente pudiere, que otra vez digo Dios me entiende.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 1 (R. 1. 406 1 )."
+        },
+        {
+          "texto_cita": "«Dijo que se tenía por cierto que el turco bajaba con una poderosa armada.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 1 (R. 1. 405 1 )."
+        },
+        {
+          "texto_cita": "«Le mandaba viniese luégo á conducir un tercio --- de infantería española á la isla de Malta, sobre la cual se pensaba bajaba el turco.»",
+          "autor": "",
+          "referencia_obra": "Id. Pers . 3. 12 (R. 1. 647 1 )."
+        },
+        {
+          "texto_cita": "«Recelándose la cristiandad de la armada con que el turco bajaba á estas costas --- pidieron á su majestad los ayudase.»",
+          "autor": "Quev.",
+          "referencia_obra": "Vida de S. Tomás de Villan . 3 (R. 48. 64 1 )."
+        },
+        {
+          "texto_cita": "«Preguntéle dónde iba, y después que nos pagamos la respuesta, comenzamos á tratar de si bajaba el turco y de las fuerzas del rey.»",
+          "autor": "",
+          "referencia_obra": "Id. Gran Tac . 8 (R. 23. 498 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En el siguiente lugar vale sencillamente Llegar por mar, aportar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Luégo se ausentó de Efeso, y bajando á Cesarea, saludó á la iglesia y descendió á Antioquía.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S.Pablo (R. 48. 35 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Ir del norte hacia el sur ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Todas estas naciones y otras semejantes en diversos tiempos bajaron del septentrión, y se derramaron por las provincias del imperio romano.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 5. 1 (R. 30. 116 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "g)",
+      "definicion": "Hablándose de la noche, Llegar ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hasta que la noche baje | Os suplico permitáis | Que en vuestra casa me ampare.»",
+          "autor": "Lope",
+          "referencia_obra": ", El premio del bien hablar , 1. 2 (R. 24. 494 2 )."
+        },
+        {
+          "texto_cita": "«Dáte más priesa Bartol, | Mira que la noche baja, | Y se va á poner el sol.»",
+          "autor": "",
+          "referencia_obra": "Id. Peribáñez y el Comendador de Ocaña , 2. 21 (R. 41. 293 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "h)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esta voz que se desestimó dignamente á los principios, bajó como despreciada á los oídos del vulgo.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 1. 4 (R. 28. 211 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "i)",
+      "definicion": "met. Decaer en riqueza, crédito ó representación ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con la mudanza del príncipe y del gobierno se prometían grandes esperanzas, que tal es el mundo, unos suben y otros bajan.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 18. 15 (R. 31. 25 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el estado á que se llega; y con de , aquel que se pierde.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llevaba el pobre león aquel estado de asno con harta paciencia, que sin duda es menester mucha para bajar de león á asno.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 8 (475)."
+            },
+            {
+              "texto_cita": "«Porque ya que los privados | Abajen de lo que fueron, | Siempre valen sus salvados | Más de lo que antes tuvieron.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3 Vida de corte (R. 32. 224 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Disminuír en altura, decrecer, menguar ( intrans .). El río va bajando.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Bajar la mar: descender ó menguar las aguas en el período del reflujo.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. En general, Minorarse ó desminuírse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Bajar la calentura, el frío, el precio ó valor.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«Continuando la estagnación de la plata en la Península y la imposibilidad de su consumo, hubiera hallado tanto su valor con la abundancia, que llegara á ser despreciable el metal.»",
+          "autor": "Clem.",
+          "referencia_obra": "Elog. de Is. la Cat. ilustr . 11 ( Mem. Acad. Hist . 6. 276)."
+        },
+        {
+          "texto_cita": "«Aumentados bajo Enrique IV los desórdenes hasta lo sumo, hubieron de resentirse necesariamente las rentas reales, y bajar á proporción de la pobreza pública.»",
+          "autor": "Acad.",
+          "referencia_obra": "Hist . 6. 152)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Dícese también de las mismas cosas cuyo precio ó valor se disminuye.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Toda mercaduría | Baja donde no hay ganancia.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El pretendiente al revés , 1. 10 (R. 5. 26 3 )."
+            },
+            {
+              "texto_cita": "«Jamás sube de precio una tierra sin que se combinen estos dos intereses, así como nunca baja sin esta misma combinación.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª clase (R. 50. 94 1 )."
+            },
+            {
+              "texto_cita": "«Durante la campaña de 1814, cuando triunfaba Bonaparte, bajaban los fondos en la bolsa de París.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 1. 11, nota (5. 44)."
+            },
+            {
+              "texto_cita": "«La Bolsa sigue bajando, | ¿Y de qué manera? Pierdo | De dos años á esta parte | Cuatro millones y medio.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Quien debe paga , 1. 13 (137)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Suele agregarse un compl. con de , para precisar el concepto en que se entiende la baja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando se ve repentinamente que alguna cosa de uso común sube y baja de precio, y que sensible y constantemente se nota esta alteración desde un distrito á otro, es preciso decir que este movimiento es artificial.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Apuntes para una mem. económ . (R. 50. 51 1 )."
+            },
+            {
+              "texto_cita": "«Multiplica el dinero y le hace bajar de precio.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr . 20 ( Mem. Acad. Hist . 6. 510)."
+            },
+            {
+              "texto_cita": "«Los maravedís bajaron de valor muy luégo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . ( ib. 6. 540)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose de número, Acercarse á la unidad ( intrans .). Con de , para expresar el número con respecto al cual se cuenta la diminución.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las muchas luces daban lugar para distinguir la belleza y los años, que al parecer no llegaban á veinte ni bajaban de diez y siete.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 35 (R. 1. 479 2 )."
+            },
+            {
+              "texto_cita": "«La edad, al parecer, ni bajaba de los quince, ni pasaba de los diez y ocho.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 58 (R.1. 526 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Dícese igualmente de las personas con respecto á la edad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«También le pareció bien otra [danza] que entró de doncellas hermosísimas, tan mozas que al parecer ninguna bajaba de catorce ni llegaba á diez y ocho años.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 20 (R. 1. 446 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Con respecto á los grados de una escala, Acercarse al cero decreciendo, ó pasar de él en la misma dirección. En la música, Acercarse al grave ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando en una escala natural y diatónica, ó que se supone tal, se encuentra una nota que por acciente sube ó baja un semitono --- es porque la escala diatónica ha tomado prestada alguna nota de la escala cromática.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Mús . 1, advert . (1. 284)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "10.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hablándose de expedientes y provisiones, Remitirse despachados al tribunal ó secretaría que los ha de publicar ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "For. Apartarse, desistir ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recibió el tío del muerto la promesa de dos mil ducados que le hicieron porque bajase de la querella y perdonase á don Juan.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 119 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se usa también como refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La hermana es | Del muerto, que se bajó | De la queja, porque yo | Lo he concertado.»",
+              "autor": "Lope",
+              "referencia_obra": ", El alcalde mayor , 3. 11 (R. 52. 42 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la forma abassar , de que se pasó á abaxar , y de éste á abajar .) — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Veiendo mi mala ventura, | Baxo mis oyos et callo.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p . 163."
+        },
+        {
+          "texto_cita": "«Estando yo así con este deseo | Abaja una nube, muy grande y escura.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 18 (7 2 )."
+        },
+        {
+          "texto_cita": "«Agora vos alabaria hasta el cielo, et otra vez vos abajaria hasta los abismos.»",
+          "autor": "",
+          "referencia_obra": "Vis . delect . 1. 3 (R. 36. 346 1 )."
+        },
+        {
+          "texto_cita": "«Parad mientes como sois de muy honrado é grand linage, é como aquella rueda del mundo que nunca está queda, ni dexa ser siempre las cosas en buen estado, le abajó, é de los grandes fizo pequeños.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 26."
+        },
+        {
+          "texto_cita": "«Muchos linages fueron caídos é abajados é otros muy pequeños fueron ensalzados.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 14."
+        },
+        {
+          "texto_cita": "«El alto linaje, desque es abaxado, | Es de las lentes en poco tenido.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 308."
+        },
+        {
+          "texto_cita": "«Non vy de quien luego fue abaxada.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 246."
+        },
+        {
+          "texto_cita": "«Mas aqui baxo las syenes | A la vestra santa çiençia.»",
+          "autor": "",
+          "referencia_obra": "Ib . 241."
+        },
+        {
+          "texto_cita": "«Por mi ventura menguada | Veo mi honra abaxada.»",
+          "autor": "",
+          "referencia_obra": "lb . 188. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Otros muchos soberbios abaxó el Sennor.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 71 (R. 57. 427 2 )."
+        },
+        {
+          "texto_cita": "«Quisieran que este fecho de mudar la moneda se detoviera algund poco de tiempo, por tomar tiento en qué manera la abajarian.»",
+          "autor": "",
+          "referencia_obra": "Crón. Enr. III , 1. 2 (R. 68. 165 2 )."
+        },
+        {
+          "texto_cita": "«E tanto fue el ayer que fue levado fuera del regno [después de la batalla del río Salado], que en Paris, et Aviñon,et en Valencia --- baxó el oro et la plata la sesma parte menos de como valió.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 253 (R. 66. 330 1 )."
+        },
+        {
+          "texto_cita": "«Otrosí renuevo en la Cabeza de Monte Calviello, porquel abajen al rio.»",
+          "autor": "",
+          "referencia_obra": "Mont. Alf. XI , 3. 10 ( Bibl. venat. 165)."
+        },
+        {
+          "texto_cita": "«Si les trabare hueso alguno en las gargantas, échenles dentro del aceite, et apriétenles las bocas, et abagéngelas ayuso contra los pechos.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 30 ( Bibl. venat. 1. 199)."
+        },
+        {
+          "texto_cita": "«Estamos en acrecentarla é en defenderla [la ley], é ellos punan cuanto pueden en abajarla.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 52 (R. 66. 40 1 )."
+        },
+        {
+          "texto_cita": "«Abajé mas la palabra, dixel que en juego fablaba.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 633 (R. 57. 249 1 )."
+        },
+        {
+          "texto_cita": "«A las veses poca agua fase abajar grand fuego.»",
+          "autor": "",
+          "referencia_obra": "Id. 413 (R. 57. 240 1 )."
+        },
+        {
+          "texto_cita": "«El falconero --- debe --- abajarle ya cuanto de las carnes et darle muy grant fambre.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caza , 7 ( Bibl. venat. 3. 50)."
+        },
+        {
+          "texto_cita": "«Como quier que el leon fizo mas daño et mas mal, el toro abajó mucho el su poder et la su honra.»",
+          "autor": "",
+          "referencia_obra": "Id. C. Luc. 38 (R. 51. 390 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Todas las animalias que Dios crió fizo que troxiesen sus caras abaxadas contra la tierra.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 12. 6 (2. 99)."
+        },
+        {
+          "texto_cita": "«Abaxa Dios su saña que ha contra ellos.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 97 (1. 165)."
+        },
+        {
+          "texto_cita": "«Non dexe de abaxar las sus orejas de piadat á las nuestras pregarias.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 17 (1. 65)."
+        },
+        {
+          "texto_cita": "«Catáronse unos á otros é abajaron sus cabezas con vergüenza que hobieron.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 40 2 ) ."
+        },
+        {
+          "texto_cita": "«Vi un azor que se abajó, é levaba un niño en las uñas.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 34 1 )."
+        },
+        {
+          "texto_cita": "«Estorcervos ha de los lasos de los diablos, e abaxará la cabeza de los vuestros enemigos deyuso de vuestros pies.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 2 (Knust, 95)."
+        },
+        {
+          "texto_cita": "«Non te ensalces tanto que te tengan por soberbio y por esquivo, nin te abaxes tanto que te tengan por vil.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 32)."
+        },
+        {
+          "texto_cita": "«Quien se vmillare a Dios, ensalçarle, ha, e quien se le alçare abaxarle ha .»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 20 (48)."
+        },
+        {
+          "texto_cita": "«Muchas vezes viemos el poder de los siervos exaltado mas que non devie, e los sennores abaxados.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 5. 7. 17 (98)."
+        },
+        {
+          "texto_cita": "«El sol e la luna et las estrellas non exen de sendero --- | Nin alçan nin abaxan un punto sennero.»",
+          "autor": "Alex.",
+          "referencia_obra": "1163 (R. 57. 183 1 )."
+        },
+        {
+          "texto_cita": "«Tiraronli primero el de la diestra mano: | Abasóli un poco, fezose mas liviano.»",
+          "autor": "Berc.",
+          "referencia_obra": "Duelo , 151 (R. 57. 136 1 )."
+        },
+        {
+          "texto_cita": "«Abassó los enoios ante la magestat, | Erçió a Dios los oios con grant humildat.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 655 (R. 57. 123 2 )."
+        },
+        {
+          "texto_cita": "«Enbraçó el escudo, e abaxó el asta: | Aguijó a Bauieca el cauallo que bien anda.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2393 (R. 57. 26 2 )."
+        },
+        {
+          "texto_cita": "«Abaxan las lanças abuestas de los pendones.»",
+          "autor": "",
+          "referencia_obra": "Ib . 716 (R. 57. 10 1 ) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Bajar es deriv. de bajo , y abajar comp. de á y bajo . Port. baixar , abaixar ; prov. baissar , abaissar ; fr. baisser, abaisser; it. bassare, abbassare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans .: 1 — 6 . — Intrans .: 7 — 10 . — Refl. : 2, α , α α - 2, β , α α - 3, α , α α - 5, β , α α - 5, γ , α α - 6, a , α , α α - 7, a , β - 7, β , γ - 10, β , β . — Part .: 5, β , β β - 7, a , γ . — Con á: 1, a , β - 1, χ , δ - 2, β - 5, γ , δ - 7 , b, α - 7, δ - 7, ι , β . — Con de: 1, a , γ - 1, χ , δ - 4 , α , β - 4, δ , β - 7, β , β - 7, χ - 7, δ - 7, φ - 7, ι , β - 8, χ , β - 9, α - 10, β . — En: 4 , a , γ . — Por: 7, b , α . — Sobre: 7 , e . \u0000"
+}

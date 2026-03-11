@@ -1,0 +1,263 @@
+{
+  "lema": "DELIRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hablar sin concierto ó tener perturbada la razón á causa de enfermedad ó pasión violenta ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ha como hombre tonto ó que delira, | Palabras mil sin seso amontonado.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 35 (2. 213)."
+            },
+            {
+              "texto_cita": "«Apenas de sus licores | El veneno admitió el pecho, | Cuando corrió al corazón; | Y en un instante, un momento | A delirar empezaron.»",
+              "autor": "Cald.",
+              "referencia_obra": "El mayor encanto amor , 1. 3 (R. 7. 392 1 )."
+            },
+            {
+              "texto_cita": "«Señor, mi amo delira; | Hace versos, come poco, | Y es filósofo de esquina.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 1. 14 (R. 39. 106 2 )."
+            },
+            {
+              "texto_cita": "«¡Ay Torcuato! el dolor te enajena y te hace delirar.»",
+              "autor": "Jovell.",
+              "referencia_obra": "El delincuente honrado , 1. 3 (R. 46. 84 1 )."
+            },
+            {
+              "texto_cita": "«Don Quijote hablaba de estas materias sin concierto, acertando unas veces, errando otras, y delirando siempre: hablaba en fin como loco.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 4, p. 18."
+            },
+            {
+              "texto_cita": "«Ya le había acometido una ardentísima fiebre, en términos que no hizo más que delirar durante aquella noche y al siguiente día.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 40 (4. 415). —"
+            },
+            {
+              "texto_cita": "«La noche ya --- | En ocio los sentidos blandamente | En dulce delirar encadenaba.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 4 (R. 17. 186 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Alguna vez se halla con acus. para denotar el objeto cuya idea domina en el delirio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aunque el desventurado había enloquecido de amor, no era amor lo que deliraba: sus improperios y voces se dirigían todos á llamarlos bellacos, usurpadores de aquella tierra.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 311 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Hacer ó decir despropósitos ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A su ingenio se atiene cada uno, | Y si hay cuatro que acierten, mil deliran.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 8 (R. 1. 697 2 )."
+            },
+            {
+              "texto_cita": "«Pues yo que soy el padre y el inventor de la poesía, deliro y parezco mentecato, no es mucho que lo parezcan ellos.»",
+              "autor": "",
+              "referencia_obra": "Id. Adjunta (R. 1. 702 1 )."
+            },
+            {
+              "texto_cita": "«Pero deténte, pluma, que deliras | Con la licencia que el amor te ha dado.»",
+              "autor": "Lope",
+              "referencia_obra": ", epíst . 1 ( Obr. suelt . 1. 287)."
+            },
+            {
+              "texto_cita": "«Verdad es que sin letras habemos visto ingenios, pero dentro de las esferas de su actividad; porque en saliendo de aquel pequeño ámbito donde dan vueltas, es fuerza que se pierdan y que deliren.»",
+              "autor": "",
+              "referencia_obra": "Id. Dorotea , 4. 2 ( Obr. suelt . 7. 309)."
+            },
+            {
+              "texto_cita": "«Hasta las gatas jácaras les piden: | ¡Tanto el mundo decrépito delira!»",
+              "autor": "",
+              "referencia_obra": "Id. Gatom . 3 ( Obr. suelt . 19. 200)."
+            },
+            {
+              "texto_cita": "«No te parezca la fineza exceso, | Que el más prudente con amor delira.»",
+              "autor": "",
+              "referencia_obra": "Id. El guante de doña Blanca , 2. 13 (R. 41. 27 2 )."
+            },
+            {
+              "texto_cita": "«Entre obscenos brindis, | Carcajadas y broma disoluta, | Se harta sin tasa, y sin pudor delira.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. á Bermudo (R. 46. 45 1 )."
+            },
+            {
+              "texto_cita": "«Sarmiento pudo haber delirado alguna vez; pero ¡cuántas habrá acertado!»",
+              "autor": "",
+              "referencia_obra": "Id. Corres p. con Posada (R. 50. 214 2 )."
+            },
+            {
+              "texto_cita": "«Acuérdome de haber leído en otra de usted, que más valían los dos pliegos de Pérez que los diez suyos sobre Carreño. ¡Tanto puede delirar la humildad en sus excesos!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 50. 226 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué vale componer divinamente | Con largo estudio en retirada estancia, | Si delirar no sabes de repente?»",
+              "autor": "Mor.",
+              "referencia_obra": "Lección poét . (R. 2. 577 2 )."
+            },
+            {
+              "texto_cita": "«Ahora compare usted nuestros autores adocenados del día con los antiguos, y dígame si no valen más Calderón, Solís, Rojas, Moreto cuando deliran, que estotros cuando quieren hablar en razón.»",
+              "autor": "",
+              "referencia_obra": "Id. La comedia nueva , 2. 5 (R. 2. 369 1 )."
+            },
+            {
+              "texto_cita": "«No le engañe el mal ejemplo de los que deliran á destajo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 4 (R. 2. 364 1 )."
+            },
+            {
+              "texto_cita": "«Yo bien sé que Quevedo se divierte frecuentemente con lo que escribe, y delira porque quiere.»",
+              "autor": "Quint.",
+              "referencia_obra": "Introd. al Parn. esp . 5 (R. 19. 142 1 )."
+            },
+            {
+              "texto_cita": "«Deliran ellos, sufren las naciones.»",
+              "autor": "",
+              "referencia_obra": "Id. Reglas del drama , 2 (R. 19. 78 2 )."
+            },
+            {
+              "texto_cita": "«El ingenio español había desaparecido: muerto enteramente después de tanto delirar en los últimos años del siglo XVII, necesitaba resucitar.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . p. 626."
+            },
+            {
+              "texto_cita": "«Mientras reinó el mal gusto, ocupados nuestros poetas en delirar en tono elevado, no dejaron ningunas anacreónticas que merezcan citarse.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 4. 11 (1. 184)."
+            },
+            {
+              "texto_cita": "«Es lo que probablemente intentó expresar Aristóteles en un pasaje que por muchos siglos ha hecho delirar infinito á sus comentadores.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 1 (1. 217)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar, bajo el concepto de campo en que se ejerce la acción, la materia en que se desbarra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Cuánto el humano proceder delira | En la vana ambición de los estados!»",
+              "autor": "Lope",
+              "referencia_obra": ", Filom . 3 ( Obr. suelt . 2. 414)."
+            },
+            {
+              "texto_cita": "«Y ved aquí por qué los antiguos, abandonando este camino de investigacion, han delirado tanto en la filosofía natural.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de las ciencias nat . (R. 46. 336 1 )."
+            },
+            {
+              "texto_cita": "«Dio también [Moreto] en la fatal manía de su siglo empleándose en componer comedias heroicas y de vidas de santos, en las cuales deliró como todos, porque no cabía otra cosa.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. esp . 4 (2. 193)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con acerca de , sobre , para expresar la materia á que se refieren los despropósitos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No creí yo que el señor director apreciase tan poco las etimologías --- Sin duda que desde Platón á san Isidoro, y desde éste á Vosio y Aldrete y Covarrubias se ha delirado mucho acerca de ellas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 214 1 )."
+            },
+            {
+              "texto_cita": "«Me he contentado con indicar los hechos, dejando á otros delirar, si quieren, sobre sus consecuencias.»",
+              "autor": "",
+              "referencia_obra": "Id. Descr. del castillo de Bellver (R. 46. 399 1 )."
+            },
+            {
+              "texto_cita": "«Basta decir que el trastorno de las ideas era tan extraordinario, que aun los hombres más señalados por su gravedad y mesura deliraban sobre este punto de una manera increíble.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 23, nota (2. 330)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Alguna vez se halla como trans . De los dos pasajes siguientes sólo el primero podría imitarse:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que se obstinan en defender cuanto deliró Shakespeare, dicen que el carácter de este personaje está bien seguido.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet , 2, nota 1 (R. 2. 556 1 ). —"
+            },
+            {
+              "texto_cita": "«Goethe, delirando una oración al padre de los dioses, señala el momento supremo para la catástrofe moral de 1793.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma , p. 27."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Estar dominado por una afición ó deseo vehemente ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con por , para expresar el objeto de la afición.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Delira | Por la música: es su encanto.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Mi secretario y yo , 10 (3. 234)."
+            },
+            {
+              "texto_cita": "«No hay un necio, no hay un asno | Que no delire por mí.»",
+              "autor": "",
+              "referencia_obra": "Id. Me voy de Madrid , 3. 14 (2. 73)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al salir á la claridad de la época que se llama del Renacimiento, soñó [la escultura] en la resurreccion de antiguas glorias, y deliró nuevamente con los dioses del Olimpo.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma , p. 277."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. delirar ; fr. délirer ; it. delirare: del lat. delirare , verbo en su origen peculiar de la labranza y compuesto de de , que expresa separación, y lirare , trazar un surco ( lira ); esto es apartarse del surco ó de la línea recta. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

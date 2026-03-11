@@ -1,0 +1,282 @@
+{
+  "lema": "DESEMPEÑAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Sacar la cosa que esta empeñada ó dada en prenda, pagando la cantidad que estaba asegurada con ella ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A esta señora del rumbo sevillano le empeñé una cadena, habrá una hora, en diez ducados, para cierto efecto; vuelvo agora á desempeñarla.»",
+          "autor": "Cerv.",
+          "referencia_obra": "El vizcaíno fingido (Com. 1. 144)."
+        },
+        {
+          "texto_cita": "«Tal vez hubo que dejó el báculo empeñado en tres mil ducados --- es tradición que este báculo le desempeñó la ciudad de Sevilla.»",
+          "autor": "Muñoz",
+          "referencia_obra": ", Vida de Áv., 2. 15 ( Ávila , 8. 375)."
+        },
+        {
+          "texto_cita": "«Esto es un caudal: con esto y con lo que yo tengo, le desempeña remos á Caifás los colchones, parte de la ropa las herramientas para que trabaje y sea hombre de bien.»",
+          "autor": "",
+          "referencia_obra": "P. Galdós, Gloria , 1, p. 153."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Libertar de la deuda ó empeño contraído ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al rey han dado por arbitrio que desempeñe el reino con el oro que hay en las millas y ríos de España.»",
+              "autor": "Quev.",
+              "referencia_obra": "Tira la piedra (R. 23. 249 2 )."
+            },
+            {
+              "texto_cita": "«El dote puesto en renta | Mis lugares irá desempeñando.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las flores de D. Juan, 2. 3 (R. 24. 418 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Decía públicamente en las iglesias y plazas y en las casas de los principales eclesiásticos y seglares que venia empeñado en tantos millares de ducados, que cada cual había de ayudarle á desempeñarse.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Áv. , 2. 15 ( Ávila , 8. 377)."
+            },
+            {
+              "texto_cita": "«No engañaba [Fernando el Católico], pero se engañaban otros en lo equívoco de sus palabras y tratados, haciéndolos de suerte, cuando convenía vencer la malicia con la advertencia, que pudiese desempeñarse sin faltar á la fe pública.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 101 (R. 25. 266 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En mis estados poseo | De renta, desempeñados, | Más de veinte mil ducados.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse, 2. 1 (R . 20. 207 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar aquello de que el deudor queda libre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tácito en Galba dice, que habiendo mirado arbitrios para desempeñar el imperio de los excesos de Nerón, el mejor fue buscar el patrimonio en las haciendas de los que le habían usurpado.»",
+              "autor": "Quev.",
+              "referencia_obra": "Tira la piedra (R. 23. 253 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo tengo comprometida --- | Mi mano á quien, como sea | De real generosa sangre, | Vivo ó muerto me le ofrezca. | Y para desempeñarme | De cumplir esta promesa -- | --- quisiera | Hallar un hombre de tal | Valor y de tal esfera, | Que aunque se atreva al empeño | A la paga no se atreva.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hado y divisa, 3 (R. 14. 382 1 )."
+            },
+            {
+              "texto_cita": "«Es más costoso á los príncipes desempeñarse de los acreedores que los molestan, que cobrar de aquellos á quien son acreedores.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 160 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Librar del compromiso ú obligación con un acto que los satisfaga condignamente ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A un pecho noble, á un ínclito sujeto, | Mayor obligación, más celo alcanza, | De poner en efeto | Desempeñar su honor con la venganza.»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom. 2 (Obr. suelt. 19. 191)."
+            },
+            {
+              "texto_cita": "«Para desempeñar su agradecimiento con alguna liberalidad, hizo traer --- un collar que tenía la primera estimación entre sus joyas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 10 (R. 28. 280 2 )."
+            },
+            {
+              "texto_cita": "«No reconocen servicios; y lo peor es que ni aun quieren ser vencidos dellos, ni que su libertad esté sujeta al mérito, y con varias artes procuran desempeñarla.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 47 (R. 28. 119 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiere el príncipe desempeñarse del cuidado de haberlos fiado [los secretos], rompiendo el saco donde están. Un secreto es un peligro.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 50 (R. 25. 130 1 )."
+            },
+            {
+              "texto_cita": "«No sólo favorecidas | Y honradas vamos, mas llenas | De tantos dones, que dudo | Que desempeñarse pueda | De sus muchos agasajos | La poca fortuna nuestra.»",
+              "autor": "Cald.",
+              "referencia_obra": "¿Cuál es mayor perfección? 1. 13 (R. 7. 74 3 )."
+            },
+            {
+              "texto_cita": "«De las honras y mercedes | Que hace á Enrique vuestra alteza | Y á mí --- | Estoy tan agradecido | Que no es posible que pueda | El alma desempeñarse | Jamás de una y otra deuda.»",
+              "autor": "",
+              "referencia_obra": "Id. El secreto á voces, 2. 3 (R. 7. 419 3 )."
+            },
+            {
+              "texto_cita": "«Si el ser yo su intercesor | No basta para obligaros, | Y podéis desempeñaros | De mi gusto y de su amor ---»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del enemigo el primer consejo, 1. 3 (R. 5. 654 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. En especial, En la fiesta real de toros, se dice cuando el caballero en plaza tiene algún azar al hacer la suerte al toro (como sacarle de la mano el rejón, atropellarle el chulo, caérsele el sombrero, ó llevarle alguna prenda), y se satisface echando pie á tierra é hiriendo al toro con la espada. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Sacar airoso del empeño ó lance ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quiero, no, que volváis | Publicando á vuestra tierra | Que son desagradecidas | Las mujeres de Viena: | Pues por lo menos diréis, | Cuando más os quejéis dellas, | Que si una os empeñó, supo | Desempeñaros la mesma.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mejor está que estaba , 2. 2 (R. 7. 231 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llegó el tiempo de la encarnación del Hijo de Dios, en que se desempeñaron los profetas, cumpliéndose lo prometido en las semanas.»",
+              "autor": "Quev.",
+              "referencia_obra": "Peste 2 (R. 48. 111 1 ). — Con de ."
+            },
+            {
+              "texto_cita": "«Salió el cacique --- ofreciendo asistir á los demás con los víveres quue hubiesen menester, y de todo se desempeñó con igual providencia liberalidad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 17 (R. 28. 371 2 )."
+            },
+            {
+              "texto_cita": "«Por lo regular nuestros cómicos españoles, y particularmente Calderón, se han desempeñado con bastante acierto y felicidad del enredo y solución de sus comedias.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Poét . 3. 10 (2. 164)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desempeñastes mi palabra dada | Tantas veces al mundo en profecía.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 9, Poema heroico (R. 69. 340 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo festivo del ingenio y un mote en su ocasión suele granjear los ánimos y reducir los más ásperos negocios al fin deseado; y tal vez encubre la intención, burla la malicia, divierte la ofensa, y desempeña el responder á propósito á lo que no conviene.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 42 (R. 25. 107 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Ejecutar aquello á que uno está obligado ó de que se le ha encargado ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desempeñaba los informes que se le pedían, los encargos que se fiaban á su actividad y conocimientos.»",
+          "autor": "Mor.",
+          "referencia_obra": "Vida de N. Mor. (R. 2. XVII ) ."
+        },
+        {
+          "texto_cita": "«Escríbeme pronto y desetripeña mis encargos, puesto que nada tienes que hacer.»",
+          "autor": "",
+          "referencia_obra": "Id . Obr. póst. 2, p. 137."
+        },
+        {
+          "texto_cita": "«Pedro Mártir fue nombrado en 1501 para llevar una embajada al soldán de Egipto, y la desempeñó con felicidad.»",
+          "autor": "Clem.",
+          "referencia_obra": "Elog. de Is. la Cat. ilustr. 16 ( Mem. Acad. Hist. 6. 400). —"
+        },
+        {
+          "texto_cita": "«Nos salimos á holgar, cuando propicio | Desempeñaba sus promesas mayo | A la felicidad y al artificio.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "epíst. Para ver acosar (R. 42. 304 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "met. Ejecutar lo ideado para una obra literaria ó artística ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Nada se sabe de esta obra [la Batalla naval de Cervantes] sino el título. Si el argumento que desempeñó el poeta fuese, como parece muy probable, la célebre victoria naval de Lepanto, es de inferir que nuestra literatura no habrá perdido nada en perderla.»",
+          "autor": "Mor.",
+          "referencia_obra": "Oríg. catál. 158 (R. 2. 222 1 )."
+        },
+        {
+          "texto_cita": "«Desde entonces empezó [el pueblo] á ver cómicos de oficio dedicados á representar pequeños dramas de tres ó cuatro personajes, desempeñando algunos muchachos los papeles de mujer.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. disc. hist. (R. 2. 157)."
+        },
+        {
+          "texto_cita": "«Podía muy bien aquella estimable cómica desempeñar los papeles de Semíramis, Atalía, Clitemnestra y Hécuba.»",
+          "autor": "",
+          "referencia_obra": "Id. Obr. póst. 1, p. 60."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y empeñar. Port. desempenhar; cat. desempenyar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

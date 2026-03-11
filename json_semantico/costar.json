@@ -1,0 +1,469 @@
+{
+  "lema": "COSTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Adquirirse, conseguirse ó disfrutarse por cierto precio ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con una voz neutra que significa indeterminadamente el precio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Imágines que con tanto recato se llevan, sin duda deben de ser buenas. Y cómo si lo son, dijo otro; si no, dígalo lo que cuestan, que en verdad que no hay ninguna que no esté en más de cincuenta ducados.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 58 (R. 1. 524 2 )."
+            },
+            {
+              "texto_cita": "«También se suele decir, dijo Camila, que lo que cuesta poco, se estima, en menos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 34 (R. 1. 348 1 )."
+            },
+            {
+              "texto_cita": "«Y es razón averiguada que aquello que más cuesta, se estima y debe de estimar en más.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 38 (R. 1. 361 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un sust. que solo ó modificado denote el precio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiso comprar un jubón ; pidióle el oficial tres ducados por él, y él le dijo: Llevadlo á vender á quien pueda gastar tanto dinero en su persona; que con tres ducados puedo yo vestir un pobre de pies á cabeza, á mí no me está bien jubón que cueste más de ocho ó diez reales.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Tomás de Villan . 3 (R. 48. 63 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Este compl. representa el ablativo con que el verbo latino se construye, y no puede reemplazarse por medio de un acus. pron. ; así, habiendo hablado de que algo costó cuatro pesetas, no podría decirse: No las costó.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Más quiero pagar las tales libras, que sé que me costarán menos que las hilas que podré gastar en curarme la cabeza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 14 (R. 1. 431 2 )."
+            },
+            {
+              "texto_cita": "«Cierto | Que me parece este cuarto | Muy bien --- | ¿Cuánto os cuesta, doña Clara? | — Cuesta cien ducados.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Abre el ojo , 1 (R. 54. 129 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Nótese la diferencia entre",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los sombreros costaron diez duros»",
+              "autor": "",
+              "referencia_obra": "(todos juntos), y"
+            },
+            {
+              "texto_cita": "«Los sombreros costaron á diez duros»",
+              "autor": "",
+              "referencia_obra": "(cada uno)."
+            },
+            {
+              "texto_cita": "«Hay dos bufetes magníficos de nogal, que me costaron allí á doscientos reales cada uno.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 278."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Ejecutarse, conseguirse con cierta pérdida, pesar, trabajo ó cuidado; causar ú ocasionar la ejecución ó consecución de alguna cosa cierta pérdida, pesar, trabajo ó cuidado ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo suj. un sust. y representándose lo que se mira como precio con otro sust. común ó una voz neutra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mil penas cuesta una gloria, | Un contento mil enojos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 5 (R. 1. 67 1 )."
+            },
+            {
+              "texto_cita": "«Y [es] más noble cuando cuesta | Menos sangre la victoria.»",
+              "autor": "Cald.",
+              "referencia_obra": "El sitio de Bredá , 1. 5 (R. 7. 111 1 )."
+            },
+            {
+              "texto_cita": "«Todo fue confusión y desorden, y la obra de la civilización que había costado siglos de sabiduría y perseverancia, se veía destruír por, momentos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 332 1 )."
+            },
+            {
+              "texto_cita": "«Hartas lágrimas cuesta y harta sangre | La discordia civil.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Moraima , 2. 5 (3. 205)."
+            },
+            {
+              "texto_cita": "«Lo que cuesta trabajo no es convencer al hombre de que obra mal, sino hacerle perder el hábito de obrar mal.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 32 (2. 207)."
+            },
+            {
+              "texto_cita": "«Gemido ha de costar el pecado cometido para ser perdonado.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 47 ( Míst. 3. 160)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No costó á los portugueses poca sangre la victoria: no falta quien escriba faltaron dos mil de los suyos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 18. 9 (R. 31. 16 1 )."
+            },
+            {
+              "texto_cita": "«Porque no digáis, como soléis, que siempre os cuesta lo que me oís muchos ruegos --- quiero decir de otro nombre de Cristo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Amado (3. 331)."
+            },
+            {
+              "texto_cita": "«Y pues aquel tan sabio Hijo de Dios tantos caminos anduvo sobre este negocio, como fue bajar hasta la tierra, hasta el pesebre, hasta la cruz, hasta el sepulcro, hasta una parte del infierno, argumento es que debe ser grandísimo el negocio que trata, pues tantas expensas y caminos le cuesta.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 3. 13, § 1 (R. 6. 418 2 )."
+            },
+            {
+              "texto_cita": "«A Anselmo le costó la vida su impertinente curiosidad.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 35 (R. 1. 352 1 )."
+            },
+            {
+              "texto_cita": "«Agradezco mucho la merced que se me hace, y la buena opinión que de mí se tiene, la cual procuraré que salga verdadera, ó me costará la vida, y aun más si más costarme puede.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 37 (R. 1. 359 1 )."
+            },
+            {
+              "texto_cita": "«¡Qué congojas, qué sudores cuestan [los rudimentos de las letras] á la juventud!»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 5 (R. 25. 19 1 )."
+            },
+            {
+              "texto_cita": "«Del papel vengo a ver si hallo respuesta, | Que me ha costado hoy toda la siesta | De estudio, porque fuese bien escrito.»",
+              "autor": "Mto.",
+              "referencia_obra": "De fuera vendrá, 2. 11 (R. 39. 69 1 )."
+            },
+            {
+              "texto_cita": "«Este, sistema, menos tenebroso, pero más extendido que el precedente, y demasiado conocido por la sangre y las lágrimas que ha costado á la Europa, se ha pretendido establecer sobre una base que la sabia razón no puede reconocer ni aprobar.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Ética (R . 46. 255 1 )."
+            },
+            {
+              "texto_cita": "«Encargaba por todas partes oraciones y rogaciones para que los triunfos de su marido en el Rosellón costasen menos lágrimas á las madres y esposas del enemigo.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ( Mem. Acad. Hist. 6. 23)."
+            },
+            {
+              "texto_cita": "«Los dos bandos de Niarros y Cadells, que tanta sangre costaron al principado.»",
+              "autor": "",
+              "referencia_obra": "Id. Coment. 6, p. 248."
+            },
+            {
+              "texto_cita": "«¿Qué á tu ferviente anhelo | Cuestan jamás los sacrificios?»",
+              "autor": "",
+              "referencia_obra": "Quint . Poes. Despedida de la juventud (R. 19 . 26 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo suj. un infin., y compl. un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Veamos por ventura qué cosa puede desearse en esta vida, que el alcanzarla no cueste fatiga y trabajo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 4 (R. 1 . 60 1 )."
+            },
+            {
+              "texto_cita": "«Siempre costaba un disgusto | Hablar en el casamiento.»",
+              "autor": "Mto.",
+              "referencia_obra": "El valiente justiciero, 1. 8 (R. 39. 334 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le costó hartas lágrimas no poderse ir a trocar por un cautivo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Concep. 3 (R. 53. 397 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué nos cuesta pedir mucho, pues pedimos á poderoso?»",
+              "autor": "",
+              "referencia_obra": "Ead. Cam. perf . 42 (R. 53. 374 2 )."
+            },
+            {
+              "texto_cita": "«Estas obras no costaron más al Hacedor de lo que costaría á un hombre que estuviese par de un caudaloso río dar un jarro de agua a quien se lo pidiese.»",
+              "autor": "",
+              "referencia_obra": "Gran . Símb. 5. 3. 21, § 3 (R. 6. 714 1 )."
+            },
+            {
+              "texto_cita": "«Ejemplo los de Líbico [ sic ] homicidas, | Y otros que les costó el hablar las vidas.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 12 (R. 17. 47 1 . Fr. L. de León dice"
+            },
+            {
+              "texto_cita": "«El ave vengadora | Del Ibico»",
+              "autor": "",
+              "referencia_obra": ", Poes. 1 , Recoge ya en el seno. )"
+            },
+            {
+              "texto_cita": "«Alcanzar alguno á ser eminente en letras le cuesta tiempo, vigilias, hambre, desnudez, váguidos de cabeza, indigestiones de estórnago y otras cosas á estas adherentes --- mas llegar uno por sus términos á ser buen soldado le cuesta todo lo que al estudiante, en tanto mayor grado , que no tienen comparación, porque á cada paso está a pique de perder la vida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 38 (R. 1. 361 2 )."
+            },
+            {
+              "texto_cita": "«Ha de ser --- mantenedor de la verdad, aunque le cueste la vida el defenderla.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 18 (R. 1. 441 1 )."
+            },
+            {
+              "texto_cita": "«Aquí es donde ellos alargan más la pluma, como les cuesta poco prometer lo que jamás piensan ni pueden cumplir.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 38 (R. 1. 485 2 )."
+            },
+            {
+              "texto_cita": "«Léelo [mi cuento], pues que á ti el leerlo menos | Te costará, que á mí ponerlo en verso.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Don Francisco, aunque llames (R. 42. 318 2 )."
+            },
+            {
+              "texto_cita": "«Claudio publicó en un día veinte [edictos] con que el pueblo andaba tan confuso y embarazado, que le costaba más el sabellos que el obedecellos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 21 (R. 25. 57 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Supliéndose el infin. por el contexto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ninguno de vosotros se mueva de aquí, si no quiere que le cueste la vida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 41 (R. 1. 370 2 )."
+            },
+            {
+              "texto_cita": "«Déjate querer, | Pues que no te cuesta nada.»",
+              "autor": "Rojas",
+              "referencia_obra": ", El Caín de Cataluña , 2 (R. 54. 282 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Nota Salvá la diversa construcción de estas dos frases:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuesta mucho el adquirir (ó adquirir) buena fama»",
+              "autor": "",
+              "referencia_obra": ", y"
+            },
+            {
+              "texto_cita": "«La buena fama cuesta mucho de adquirir.»",
+              "autor": "",
+              "referencia_obra": "El análisis gramatical de una y otra es el siguiente: en la primera es suj. el adquirir buena fama, y mucho , voz neutra que vale mucha cantidad (aquí figuradamente mucho trabajo ) es el compl. que señala el precio; la construcción es la misma que en"
+            },
+            {
+              "texto_cita": "«La casa cuesta mucho dinero.»",
+              "autor": "",
+              "referencia_obra": "En la segunda es suj. la buena fama y mucho el compl. ; de adquirir es otro compl. que particulariza el concepto de la carestía señalando el lado ó aspecto por el cual se considera; dícese"
+            },
+            {
+              "texto_cita": "«La fama cuesta mucho,»",
+              "autor": "",
+              "referencia_obra": "como"
+            },
+            {
+              "texto_cita": "«La lección es difícil;»",
+              "autor": "",
+              "referencia_obra": "y el compl. con de hace el mismo papel que en"
+            },
+            {
+              "texto_cita": "«La lección es difícil de entender, de aprender.»",
+              "autor": "",
+              "referencia_obra": "Nótese la paridad que ofrecen con las frases cuestionadas estas otras:"
+            },
+            {
+              "texto_cita": "«Es difícil comprender la lección»",
+              "autor": "",
+              "referencia_obra": "y"
+            },
+            {
+              "texto_cita": "«La lección es difícil de comprender.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Costar caro : resultar mucho daño ó perjuicio de la ejecución ó consecución de una cosa. Dejamos dicho en CARO, c, α , que en esta frase se usa como adj. ó como adv. De ordinario lleva un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas yo haré que aquesta ofensa cara | Le cueste al ofensor.»",
+              "autor": "Garcil.",
+              "referencia_obra": "son . 35 (R. 32. 36 2 )."
+            },
+            {
+              "texto_cita": "«Mas pues sabéis cuán cara me ha costado, | Bien puedo de mi dicha lamentarme.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", son. Hay tanto que temer ( Fern. p. 30)."
+            },
+            {
+              "texto_cita": "«Desnudándose el pellico, le entregó á las aguas del claro Tajo, que junto al pie de la peña corría. Lo cual visto por los pastores --- comenzaron á subir la peña para estorbarle que no hiciese algún otro desatino que le costase más caro.»",
+              "autor": "",
+              "referencia_obra": "Gerv. Gal . 6 (R. 1. 95 2 )."
+            },
+            {
+              "texto_cita": "«No te igualó en ligereza el hipogrifo de Astolfo, ni el nombrado Frontino, que tan caro le costó á Bradamante.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 25 (R. 1. 314 2 )."
+            },
+            {
+              "texto_cita": "«Hubiérale de costar caro si D. Quijote bajara un poco más la mano cuando cortó la cabeza del rey Marsilio.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 17 (R. 1. 462 2 )."
+            },
+            {
+              "texto_cita": "«Les aconsejo quevengan conmigo á darle la obediencia, o si no, no se atrevan á hurtar sin su señal, que les costará caro»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 3 (R. 1. 137 1 ). —"
+            },
+            {
+              "texto_cita": "«Estos deleites, que seguí sin freno, | Que al fin tan caro cuestan, me trajeron | Siempre de confusión y temor lleno.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 13 (R. 32. 333 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Rescatólos á todos por mucho mayores precios de lo que le costaron.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 7 (66)."
+        },
+        {
+          "texto_cita": "«Dice asimismo vuestra merced que andando por mandado de la reyna con el duque de Viseo vos cuesta saber la lengua portuguesa tanto corno al conde de Castañeda la morisca, quando se rescató de la prisión de los moros. Ciertamente, señor, ambos comprastes caro, porque ni la una lengua ni la otra valen la meitad de lo que costaron.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 30 (294)."
+        },
+        {
+          "texto_cita": "«Entiendo defenderla [la torre], fasta que mas non pueda, aunque la vida me cueste.»",
+          "autor": "Seg. de Tordes.",
+          "referencia_obra": "73 (98 2 )."
+        },
+        {
+          "texto_cita": "«Respondió --- que si non lo ficiese, que él querria mas que le costase la cabeza.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 184. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Dis: por treynta [doblas] vos lo do, mas nunca él [el panno] cumpla el anno, | Si non le costó quarenta ayer e vn omne estranno.»",
+          "autor": "Pal.",
+          "referencia_obra": "299 (R. 57 . 434 2 )."
+        },
+        {
+          "texto_cita": "«Demandó el rey de Portogal que queria que le diesen recabdo para pagar en la corte de Roma lo que avia de costar la dispensacion de los casamientos.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 6 (R. 66. 117 1 )."
+        },
+        {
+          "texto_cita": "«Et todas las cosas que mandó traer non costaban mas de dos ó tres dineros.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 8 (R. 51. 387 2 )."
+        },
+        {
+          "texto_cita": "«Et creed que toda esta bondad que les costará muy cara.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 12 (R. 51. 421 1 )."
+        },
+        {
+          "texto_cita": "«Pues si todo lo fizo et non le costó mas de lo querer, bien entendedes vos que, si quisiera, menos le costara de redimir et perdonar el pecado del primer home.»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. de los Est . 2. 37 (R. 51. 359 1 )."
+        },
+        {
+          "texto_cita": "«Pues es cierto que Dios fizo todo el mundo de nada, ligeramente pudiera redimir los pecadores, si quisiera, non le costando nada.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 58 (R. 51. 310 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Dezie a vno que comerie otro dia con el, e a otro esso mesmo, e desi comie con ambos en un dia, vna vez con el vno, otra con el otro; e non avie nenguno a costar menos el guisamiento de quarenta mill dineros de la moneda que corrie.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 1. 114 (86 1 )."
+        },
+        {
+          "texto_cita": "«Et las duennas fagan quales pannos quisieren e con tales adobos que cuesten fasta dosientos mrs. el par de los pannos e non mas.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez-, año 1268 ( C. de L. y C . 1. 68)."
+        },
+        {
+          "texto_cita": "«Desamparó a Cannas do mucho lo amaban | Parientes e amigos qui mucho li costaban.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 65 (R. 57. 41 2 )."
+        },
+        {
+          "texto_cita": "«Prisieron al enfermo los omnes quel costaban, | Ca con la luenga cueyta enoiados estaban, | Levaronlo al preste de qui tanto fablaban .»",
+          "autor": "",
+          "referencia_obra": "Id . S. Mill. 128 (R . 57. 69 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Et omnes populatores pectent regi viginti quatuor morabetinos in anno pro pranlo, veniendo ad villam; et sivenerit regina cum eo, pectent triginta solidos; et si plus custaverit, prandium, solvat rex .»",
+          "autor": "Fuero",
+          "referencia_obra": "de Miranda , año 1099 ( Muñoz , F. 3 48)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port . custar; cat. , prov . costar; fr . ant. coster, couster, hoy coûter; it . costare; vál. custá : del lat. constare , estar firme ó cierto, constar, componerse de, costar. Constare tiene pues dos representantes en cast. , uno popular y tradicional, costar , otro, introducido por los eruditos, constar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas cuest-o, as, a, an; cueste-e, es, e, en. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,534 @@
+{
+  "lema": "CRUEL.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que se deleita en hacer mal á un ser viviente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los jueces crueles, ¿que harán, sino matar inocentes?»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 67)."
+            },
+            {
+              "texto_cita": "«Entonces el cruel tirano mandó que le pusiesen hachas encendidas en el cuerpo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 19 (R. 6. 331 1 )."
+            },
+            {
+              "texto_cita": "«Advierte que las mujeres | Hablamos cuando callamos, | Concedemos si negamos: | Por esto y por lo que ves | Nunca crédito nos des, | Ni crueles ni amorosas.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mejor alcalde el rey , 1. 2 (R. 24. 475 3 )."
+            },
+            {
+              "texto_cita": "«No es menos cruel el que perdona á todos que el que á nínguno.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 22 (R. 25. 62 2 )."
+            },
+            {
+              "texto_cita": "«Yo mi amor te ofrecí --- | Tú preferiste ingrato mis rencores: | Me ofendiste cruel: cruel me vengo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Los amantes de Teruel , 3, 2ª. pte . 2 (17)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y entre las mesmas fieras, por crudelísimas que sean, hay común paz: la fiereza de los leones cesa con los de su género.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 9 (R. 6. 134 2 )."
+            },
+            {
+              "texto_cita": "«Es vendido con engaños y traiciones, y es vendido á crudelísimos mercaderes, que no quieren más dél que la sangre y el pellejo para hartar su hambre.»",
+              "autor": "",
+              "referencia_obra": "Id . Orac. y consid. 1 , martes por la mañ. (R. 8. 69 2 )."
+            },
+            {
+              "texto_cita": "«No hay cosa más peligrosa que dar entrada á una afición destas: porque es meter en casa un crudelísimo tirano, un destruidor de la inocencia.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 2. 1. 1, § 5 (R. 8. 229 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El ser viviente á que se hace padecer se señala:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A unos no hacen limosna y á otros roban la capa: desapiadados con unos y injustos con otros, y crueles con todos.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 24 (2. 37)."
+            },
+            {
+              "texto_cita": "«Crueles fuimos los dos, pero tú más conmigo, como quien tenía más valor y entendimiento.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 3. 6 ( Obr. suelt. 7. 229)."
+            },
+            {
+              "texto_cita": "«¡Oh mi señora, oh mi Dorotea! ¿Cómo pudiste ser tan cruel conmigo?»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 3. 7 ( ib . 7. 239)."
+            },
+            {
+              "texto_cita": "«Traidor fuiste con la ley, | Lisonjero con el rey, | Y cruel conmigo fuiste.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 2. 3 (R. 7. 7 3 )."
+            },
+            {
+              "texto_cita": "«El cruel con sus hijos es Lépido, y no los que declaran á Lépido enemigo público.»",
+              "autor": "Azara",
+              "referencia_obra": ", Vida de Cicerón, 4, p. 147."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que intentare ú osare ponerse delante, y tocar a esta bestia, será cruel contra sí mismo y quedará muy escarmentado.»",
+              "autor": "Scío",
+              "referencia_obra": ", Job , 41. 1, nota ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para, para con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cruel para con su esposa.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Es cruel para sí, por ser piadosa para con él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 16, § 1 (R. 6. 152 1 )."
+            },
+            {
+              "texto_cita": "«Te has mudado en cruel para mí.»",
+              "autor": "Scío",
+              "referencia_obra": ", Job , 30. 21."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con á (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién podrá ser cruel á los que Cristo fue tan piadoso?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 95 (2. 126). Este complemento puede convertirse en dat. pron. , mediando un verbo."
+            },
+            {
+              "texto_cita": "«Hace que --- se muestre humano con quienes le fueron crueles.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 42 (2. 327)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de, para expresar, en lo moral, la parte en que reside la crueldad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cruel de condición.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en, para expresar un acto ó procedimiento como campo donde se muestra la crueldad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En siendo uno enamorado, se vuelve de la condición de un niño simple y antojadizo, que es ciego en las pretensiones, ligero en los pensamientos, cruel en las obras.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 57 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Que se complace en los padecimientos ajenos ó no se compadece de ellos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Bueno sería que yo enviase á mis insulanos un gobernador cruel, de entrañas pedernalinas, que no se doblega á las lágrimas de las afligidas doncellas.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 35 (R. 1. 481 1 )."
+        },
+        {
+          "texto_cita": "«Tú anhelas sólo que en mis ansias muera, | Y así en ellas te gozas de mirarme, | Burlándote, cruel, de mi tormento.»",
+          "autor": "Mel.",
+          "referencia_obra": "silva 2 (R. 63. 168 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Que hace padecer física ó moralmente; horrible, riguroso, insufrible.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí estaba la cruz, y los clavos, y los azotes, y las espinas, y la lanza cruel.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1 , viernes por la mañ. (R. 8. 82 1 )."
+            },
+            {
+              "texto_cita": "«Más cruel, más cruel la medicina | Que la misma dolencia se me muestra.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pienso pedir (R. 42. 313 2 )."
+            },
+            {
+              "texto_cita": "«Lazos crueles, | ¿Cómo me resistís? ¡Ligan cordeles | Al que hierros quebró!»",
+              "autor": "Hartz.",
+              "referencia_obra": "Los amantes de Teruel, 3, 2ª. pte . 3 (17)."
+            },
+            {
+              "texto_cita": "«Entre esta horrible confusión, huyendo | El cruel aspecto del feroz gigante, | El día fue su luz desvaneciendo.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 22 (R. 17. 378 1 ). —"
+            },
+            {
+              "texto_cita": "«El tiempo está cruel, y sólo pueden cotejarse los fríos del año de 39 con los de 55.»",
+              "autor": "Isla",
+              "referencia_obra": ", Cart. famil . 1. 4 (R. 15. 425 1 )."
+            },
+            {
+              "texto_cita": "«El sábado estuvo tan cruel la tarde que no pudimos montar á caballo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 184 2 ). —"
+            },
+            {
+              "texto_cita": "«El linaje de muerte, que fue de cruz, es uno de los más crueles que hay, porque no se acaba en breve como el de un hombre que muere degollado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3. 21 (R. 6. 435 1 )."
+            },
+            {
+              "texto_cita": "«Pienso dejarme morir de hambre, muerte la más cruel de las muertes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 59 (R. 1. 528 1 )."
+            },
+            {
+              "texto_cita": "«Las selvas no remedian mis pesares, | Ni la cruel herida de que muero.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl. 10 ( Fern. 10. 134)."
+            },
+            {
+              "texto_cita": "«Quien siente un dolor cruel, | Cuando es posible vencelle, | Pena más que en padecelle | En procurar salir dél.»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza de la ley, 2. 1 (R. 39. 88 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De su lanza cruelísima se encarga, | De horrendo peso, y sin medida larga.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 10 (R. 17. 610 1 ). —"
+            },
+            {
+              "texto_cita": "«Se padecen [en Norvegia] cruelísimos fríos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 5. 1 (R. 30. 117 2 )."
+            },
+            {
+              "texto_cita": "«Fue la carga de los amotinados tan terrible, que en menos de media hora murieron de los nuestros más de doscientos, la mayor parte españoles y gente particular, muchos dellos casi sin poder tener las armas en las manos, de puro frío, por ser á 13 de diciembre y hacer un tiempo cruelísimo de hielos.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 100 2 )."
+            },
+            {
+              "texto_cita": "«El tiempo ha estado cruelísimo.»",
+              "autor": "Isla",
+              "referencia_obra": ", Cart. famil . 1. 73 (R. 15. 455 1 ). —"
+            },
+            {
+              "texto_cita": "«Mandó matar cuantos cristianos se pudieron hallar en Roma con cruelísimos tormentos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 13 (R. 6. 312 2 )."
+            },
+            {
+              "texto_cita": "«Sí, Edipo, los pesares en mi alma | Una herida cruelísima han abierto.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , 1. 4 (3. 259). —"
+            },
+            {
+              "texto_cita": "«¿Por ventura no es éste el autor de la vida, el cual llevado como oveja al matadero, no rehusó padecer un tan crudelísimo linaje de muerte?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 5. 6, orac . 14 (R. 8. 322 1 )."
+            },
+            {
+              "texto_cita": "«A Dafni pastor muerto con traidora | Y muerte crudelísima lloraban.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl . 5 (4. 413)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Por extensión, En que se muestra crueldad, saña ó encarnizamiento excesivo; sangriento, violento.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tito Livio alaba á Tulo Hostilio, rey de romanos, de la muerte al parecer cruel que mandó dar á Mecio.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist. 2. 17 (271: Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«Descargando una y muchas veces sus arcabuces y mosquetes sobre los nuestros, comenzaron á hacer cruel matanza.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 1 (R. 28. 10 2 )."
+            },
+            {
+              "texto_cita": "«Por un decreto cruel | A muerte están condenados.»",
+              "autor": "Cald.",
+              "referencia_obra": "La sibila del Oriente , 2. 9 (R. 14. 208 3 )."
+            },
+            {
+              "texto_cita": "«Cruel cosa es quitar el agua de la boca del que tiene sed.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 29 (R. 11. 374 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué decís? ¡Válgame Dios, | Qué cruel empeño sería!»",
+              "autor": "Mto.",
+              "referencia_obra": "Lo que puede la aprehensión , 1. 9 (R. 39. 171 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Edipo, instigado de cruelísima furia mató á su padre.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 59 2 ). —"
+            },
+            {
+              "texto_cita": "«¿Veis pues cuánta luz nos da este misterio para entender la malicia del pecado, y para causarnos un cruelísimo odio contra él?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3. 13 (R. 6. 418 2 )."
+            },
+            {
+              "texto_cita": "«Siempre padecía grandísima hambre, y con ningún manjar que comiese, podía amansar la crudelísima rabia.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 1. 36, § 2 (R. 6. 270 1 )."
+            },
+            {
+              "texto_cita": "«¿No os acordáis, hijo, haberme oído decir muchas veces que mirásedes por vos, principalmente este año de noviciado, porque el demonio os había de hacer crudelísima guerra en él ---?»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij . 15 (R. 18. 45 1 )."
+            },
+            {
+              "texto_cita": "«Es imposible que éste se crió con delicada leche de mujeres, sino que mamó crudelísima sangre de tigres.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 66)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Por extensión, en que se padece excesivamente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¡Oh noche muy cruel, oh noche desasosegada, en la cual, oh mi buen Jesús, no dormías, ni dormían los que tenían por descanso atormentarte!»",
+          "autor": "Gran.",
+          "referencia_obra": "Doctr. espir. 14 (R. 11. 249 2 )."
+        },
+        {
+          "texto_cita": "«Tu rigor desdeñoso me destruya, | Si de mi vida cruel no desespero.»",
+          "autor": "F. de la Torre",
+          "referencia_obra": ", 3, eleg. 8 (151)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los moros son hombres belicosos, astutos é muy engañosos en las artes de la guerra, é varones robustos é crueles.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 17 (105)."
+        },
+        {
+          "texto_cita": "«Aquel principe se llama cruel, que aunque tiene causa, no tiene templanza en el punir.»",
+          "autor": "",
+          "referencia_obra": "Id . Letras, 16 (227)."
+        },
+        {
+          "texto_cita": "«Quando tú cruel te ensañas, | Con tus fuerzas las atierras | Y deshaces.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 54)."
+        },
+        {
+          "texto_cita": "«Mas verás quan enemigo, | Quan contrario, quan cruel | Se le mostró.»",
+          "autor": "Fern.",
+          "referencia_obra": "16. 52)."
+        },
+        {
+          "texto_cita": "«Es cruel la persona que menosprescia su fama.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 117 (319)."
+        },
+        {
+          "texto_cita": "«Que, si no Anibal, yo digo | Que tan cruel enemigo | Dudo si Roma falló.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var. 29 ( Rim. inéd . 276)."
+        },
+        {
+          "texto_cita": "«¿Pues qué te diré del fijo primero, | Cruel adverssario de torpe avariçia?»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 106."
+        },
+        {
+          "texto_cita": "«Grand perdicion | Amor me da el syn rason, | E cruel pena en que vivo.»",
+          "autor": "",
+          "referencia_obra": "C anc. de Stúñ. p. 70."
+        },
+        {
+          "texto_cita": "«Sennores, mucho pesar | Me fuerça desir agora | La cruel de mi sennora | Qué vida me fas pasar.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 253."
+        },
+        {
+          "texto_cita": "«La ferida era cruel é mortal | Con yerva cruel mal enponçonada.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p. 235."
+        },
+        {
+          "texto_cita": "«Disen que me desdesir | Faran commo fementido, | O que en el canpo metido | Me faran cruel morir.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 227."
+        },
+        {
+          "texto_cita": "«Meta su espada el cruel Centuryo, | Por donde perdidos son los doze pares.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 114. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Otrosi le amostrará --- cómo et cuándo et contra cuáles personas debe seer bravo et esforzado é cruel.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caball. é escud. 19 (R. 51. 237 1 )."
+        },
+        {
+          "texto_cita": "«¿Que merescieron los sus ojos que veian facer en el su sancto el bendito cuerpo --- tantas deshonras et crueles tormentos?»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. de los est. 1. 57 (R. 51. 309 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Nunca tan mal dia hobieron desde el dia que nascieron, temiendo oir la terrible é cruel sentencia que será dada contra ellos para siempre jamás .»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 40 (R. 51. 164 1 )."
+        },
+        {
+          "texto_cita": "«El hombre que non es piadoso es llamado cruel.»",
+          "autor": "",
+          "referencia_obra": "Ib . 30 (R. 51. 145 1 )."
+        },
+        {
+          "texto_cita": "«Aportaron al puerto de Galizia los normanos, que era gente muy cruel, e paganos.»",
+          "autor": "",
+          "referencia_obra": "Crón . gen. 3. 11 (232 2 )."
+        },
+        {
+          "texto_cita": "«E auie Deçio un consul que auie nombre Aureliano, e era muy cruel contra los christianos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 133 (107 2 )."
+        },
+        {
+          "texto_cita": "«Cataban que fuesen --- crueles para non haber piadat de robar lo de los enemigos, nin de ferir, nin de matar.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 21. 2 (2. 198)."
+        },
+        {
+          "texto_cita": "«Como quier que la justicia es buena cosa en si, et de que debe el rey usar siempre, con todo eso fácese muy cruel quando á las vegadas non es temprada con misericordia.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 10. 2 (2. 88)."
+        },
+        {
+          "texto_cita": "«Non deben ser crueles contra ellos tomándoles mayores procuraciones, nin echándoles mayores pechos de aquellos que estableció santa Eglesia.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 22, preámb. (1. 474)."
+        },
+        {
+          "texto_cita": "«E debe seer fuerte a los crueles e a los sobervios.»",
+          "autor": "Espéc.",
+          "referencia_obra": "1. 1. 4 ( O. L. 1. 3)."
+        },
+        {
+          "texto_cita": "«Crean los falsos e los que fasen dapno en la tierra que havran de ti muy cruel pena.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 13 (Knust, 252)."
+        },
+        {
+          "texto_cita": "«El osamiento, que es el mas crudel e mas maraviloso, tanto deve aver mas cruel pena e mayor tormento.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 2. 17 (184; * cruel)."
+        },
+        {
+          "texto_cita": "«E lo que es mas cruel cosa de dizir: si alguno provare de matar el principe --- reciba muerte.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 1. 6 (11)."
+        },
+        {
+          "texto_cita": "«Mandóles Moyses --- | Çelebrassen su Pascua pueblo de Israël --- | Non passarie la puerta essi angel cruel.»",
+          "autor": "Berc.",
+          "referencia_obra": "Sacrif . 149 (R. 57. 85 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. , fr. cruel; prov. cruel , cruzel; it. crudele : del lat. crudelis , derivado de crudus , crudo, cruel, cognado de cruor , sangre derramada. De las dos formas del sup. cruelísimo y crudelisimo , la última es puramente latina y menos usual hoy que en nuestros clásicos.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "Es disílabo. Los versificadores esmerados por raro caso admiten la sinéresis; arriba hay ejemplos de F. de la Torre , Fr. L. de León , Valbuena y Moreto. Como en el sup. cambia el lugar del acento, es normal la pronunciación de ue en una sola sílaba, como se ve en pasajes de Villaviciosa y M. de la Rosa , aducidos atrás. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

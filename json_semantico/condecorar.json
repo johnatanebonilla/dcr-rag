@@ -1,0 +1,161 @@
+{
+  "lema": "CONDECORAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Ilustrar á uno, darle títulos ó condecoraciones ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiso condecorarle como su heredero, y erigió en principado el estado de Viana, para que fuese de allí en adelante el título y patrimonio de los primogénitos de Navarra.»",
+              "autor": "Quint.",
+              "referencia_obra": "Princ. de Viana (R. 19. 235 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallaban maridos [las concubinas de Motezuma] entre la gente de mayor calidad, porque salían ricas, y, á su parecer, condecoradas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3 . 15 (R. 28. 288 2 )."
+            },
+            {
+              "texto_cita": "«El rector convidará primero á que pregunten las personas condecoradas del concurso.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 2. 5 (R. 46. 225 1 )"
+            },
+            {
+              "texto_cita": "«A esta jerarquía se sigue otra de nobles menos condecorados y poderosos.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr . 7 (2. 48)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, para expresar el honor ó condecoración.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Condecoróle con el collar del toisón de oro en el capítulo que celebró en Utrech.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. Inéd. p . 142."
+            },
+            {
+              "texto_cita": "«Su dimisión fue al fin aceptada, por el ministro Argüelles, que le condecoró, al admitírsela, con la cruz de Carlos III.»",
+              "autor": "Somoza",
+              "referencia_obra": ", Not. biogr. (R. 67. 452)."
+            },
+            {
+              "texto_cita": "«Condecoróle el rey [á D. Manuel Godoy] en 13 de Enero de 1807 con la dignidad de almirante de España y tratamiento de alteza.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 1 (R. 64. 5 1 )."
+            },
+            {
+              "texto_cita": "«Dispensó también la Central otras gracias á los jefes españoles, condecorando á don Gregorio de la Cuesta con la gran cruz de Carlos Ill.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 9 (R. 64. 209 2 )."
+            },
+            {
+              "texto_cita": "«Su religión le condecoró [á Fr. Luis de León] con varios empleos, siendo el último el de provincial.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, Resum. histór. p. 51."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A los que se hubiesen condecorado con insignias del intruso gozando de otras antiguas, privábaseles del uso de éstas.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 21 (R. 64. 437 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así él como su hermano fueron condecorados con la cruz de Carlos III y con el título de inquisidores.»",
+              "autor": "J. L. Villanueva",
+              "referencia_obra": ", Vida , 1, p. 83."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Venía ya condecorado por el rey con el título de mariscal.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 328 1 )."
+            },
+            {
+              "texto_cita": "«Eran ambos personajes de mucha importancia en el reino, condecorados con la excelsa insignia del toisón de oro.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 7 (5. 69)."
+            },
+            {
+              "texto_cita": "«Estudió [Saavedra Fajardo] en Salamanca, y condecorado muy joven todavía con el hábito de Santiago, comenzó su carrera eclesiástica y política al mismo tiempo.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, Resum. histór. p. 511."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el part. se usa también con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Condecorado de títulos.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con suj. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cerca de una de estas fuentes --- veíase sentado una tarde á un anciano sacerdote, de rostro sereno y digno, cuyos negros hábitos condecoraba la roja cruz de Santiago.»",
+              "autor": "Fern.",
+              "referencia_obra": "Caball. Leonor, 2 ( Obras, 2. 28)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No hay extravagancia que no se condecore con tan sublime nombre [de filosofía].»",
+          "autor": "Cadalso",
+          "referencia_obra": ", Cart. marr . 8 (2. 60 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat . condecorare, compuesto de cum , con, que es aquí intensivo, y decorare, honrar, adornar; decus, honor, adorno. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

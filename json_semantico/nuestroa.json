@@ -1,0 +1,546 @@
+{
+  "lema": "NUESTRO, A.",
+  "categoria_gramatical": "",
+  "introduccion": "NUESTRO, A.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "adj. Posesivo de la primera persona plural. Denota, por oposición a mío, que son varios los poseedores.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Aplicado a cosas. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acá en estas nuestras Indias no faltó otro tirano llamado Gonçalo Piçarro con vna escuela de traydores y tales que --- fue menester vna batalla campal.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag. 1. 3 (1. 141)."
+            },
+            {
+              "texto_cita": "«Y como se hace en el tribunal del juicio, sin tener respeto a la persona, --- prosigamos en nuestra disputa.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 2. 34 (2. 179). X"
+            },
+            {
+              "texto_cita": "«Él, en fin, perfeccionando nuestras ideas y nuestros sentimientos, nos descubre las gracias y bellezas de la naturaleza y de las artes.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Discursos (Cl. C. 129. 105). X"
+            },
+            {
+              "texto_cita": "«Matar nuestra lengua hermosa, | Y hundirnos en luto y sangre, | Y gozarse en nuestros llantos.»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 90. X"
+            },
+            {
+              "texto_cita": "«Y por esta diferencia, uno y otro bando nos considerábamos rivales, y a veces medíamos nuestras fuerzas en la Puerta de Tierra con grandes y ruidosas pedreas, que manchaban el suelo de heroica sangre.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar, 1 (p. 16). X"
+            },
+            {
+              "texto_cita": "«Ver los maciegales de Ávila, es comprender el ardoroso desfogue lírico de la gran santa, y ver Castilla entera con sus llanuras inacabables y sus rapadas lomas, es percibir la inspiración que informara nuestra literatura y nuestro arte.»",
+              "autor": "Azorín",
+              "referencia_obra": ", La voluntad (Cl. Castal. 3. 211). X"
+            },
+            {
+              "texto_cita": "«Tú conoces nuestras locuras, grandezas y debilidades.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda, 16 (p. 227). X"
+            },
+            {
+              "texto_cita": "«Pero de algún modo hemos de acusar en nuestras clases los tiempos de barullo y algarabía en que vivimos.»",
+              "autor": "Machado",
+              "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 181)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Aparece con frecuencia pospuesto. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andaban forcejeando una gran pieza | A su pesar y a mucho placer nuestro.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Obr. égl. 2 (Cl. C. 3. 39). X"
+            },
+            {
+              "texto_cita": "«No parecerá filosofía sin provecho para lo por venir esta mi consideración verdadera, aunque experimentada con daño y costa nuestra.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 308). X"
+            },
+            {
+              "texto_cita": "«¡O vida nuestra, al parecer hermosa, | Cómo en una mañana sola pierde | Lo que sudando en muchos años gana!»",
+              "autor": "Cascales",
+              "referencia_obra": ", Tablas poétic. 4 (Cl. C. 207. 91) X"
+            },
+            {
+              "texto_cita": "«Creo, señor marqués, el amor vuestro; | Y satisfecha de nobleza tanta, | Haré tratar el pensamiento nuestro.»",
+              "autor": "Lope",
+              "referencia_obra": ", El perro del hortelano (Cl. Castal. 25. 105). X"
+            },
+            {
+              "texto_cita": "«Siendo una la razón nuestra, | Si se venciere la mía, | No es muy segura la vuestra.»",
+              "autor": "Mto.",
+              "referencia_obra": "El desdén con el desdén (Cl. C. 33. 150). X"
+            },
+            {
+              "texto_cita": "«Descanso a la penca satírica, que por lo regular manejamos con más dolor nuestro que de aquellos mismos a quienes nos vemos en la triste precisión de lastimar.»",
+              "autor": "Larra",
+              "referencia_obra": ", Crít. lit. y artíst. (Cl. C. 52. 226)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En comparativo, con valor ponderativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En nuestra Escuela Popular de Sabiduría Superior hemos de tratar alguna vez el tema de la tauromaquia, cosa tan nuestra —tan vuestra sobre todo— y, al mismo tiempo, ¡tan extraña!»",
+              "autor": "Machado",
+              "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 204)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Aplicado a personas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero si no los hubiese muerto, hubieran ellos descubierto donde habitaba nuestro amigo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Róbinson, 15 (2. 74). X"
+            },
+            {
+              "texto_cita": "«¡Favor! ¡Justicia! — ¡Que matan a nuestro amo! —Socorredme!»",
+              "autor": "Benavente",
+              "referencia_obra": ", Intereses creados, 1. 1. 4 (p. 54) X"
+            },
+            {
+              "texto_cita": "«Marqués, ¿quiere usted que mañana volvamos para poner una cruz sobre la sepultura de nuestro amigo?»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Luces de bohemia (Cl. C. 180. 159). X"
+            },
+            {
+              "texto_cita": "«No saben nuestros coterráneos la ingratitud literaria que cometen al seguir pecando en estas materias, después de haberles señalado el buen camino ese maestro insigne [R. J. Cuervo] sin comparación.»",
+              "autor": "",
+              "referencia_obra": "M. F. Suárez, Sueños, 4 (p. 249). X"
+            },
+            {
+              "texto_cita": "«Por Dios, Antonia, por Dios, haz que nuestra hija no nos deje; que si se va al convento me mata, sí, me mata, porque me mata.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Abel Sánchez , 26 (p. 110)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "De la idea de posesión se pasa a la de referente anafórico de la persona tema del discurso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues en esta sazón Martín de Elvira, | Que así nuestro español era llamado, | De lejos la perdida lanza mira | Que el muerto Gracolán le había ganado.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 19 (R. 17. 741)."
+            },
+            {
+              "texto_cita": "«La primera cosa que nuestro Predicador hizo cuando se dedicó a este oficio, fue dar toda la hacienda, --- a los pobres.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv., 4 (6. 6482)."
+            },
+            {
+              "texto_cita": "«Esto era lo que detuvo allí a nuestro Jerónimo.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 1 (p. 70). X"
+            },
+            {
+              "texto_cita": "«El nueso Comendador, | Señor de Ocaña y su tierra, | Bizarro a picarle cierra, | Más gallardo que un azor.»",
+              "autor": "Lope",
+              "referencia_obra": ", Peribáñez, 1 (Cl. C. 159. 13)."
+            },
+            {
+              "texto_cita": "«No bailedes ende más, | Non fagades más festejo; | Que finca el mueso señor | Todo amarrido e mal trecho.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los pechos privilegiados, 2. 7 (R. 20. 4221)."
+            },
+            {
+              "texto_cita": "«Encargó el primero [escuadrón] a Gonzalo de Sandoval con sesenta hombres, en cuyo número fueron comprendidos los capitanes Jorge y Gonzalo de Albarado, --- y nuestro Bernal Díaz del Castillo.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 9 (R. 28. 318 1 )."
+            },
+            {
+              "texto_cita": "«No pueden entrar [las causas de la salida de Cervantes de España] en la serie de las noticias históricas que se tienen de nuestro escritor.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cerv. (R. 19. 87 2 )."
+            },
+            {
+              "texto_cita": "«Del apartado occidente | A las ignatas regiones, | Que solo nuestro viajero | Por revelación conoce, | Ya el sol descendido había.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Recuerdos de un gran hombre, 5 (3. 95). X"
+            },
+            {
+              "texto_cita": "«Brindo, señores —dijo Salomón—, porque nuestro ilustre Restaurador de las leyes viva toda la vida, para que no muera nunca la Federación, ni la América, y para que... y para que... en fin, señores, viva el ilustre Restaurador de las leyes; su ilustre hija que hoy ha nacido; y mueran los salvajes unitarios y todos los gringos y carcamanes del mundo.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 2 (p. 228)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En paralelismo con el empleo de nosotros como plural de modestia, se usa también el posesivo nuestro con el mismo sentido. Un hablante puede decir en nuestra opinión o bien en mi opinión, según su preferencia. El matiz de modestia que percibimos en la primera fórmula procede de que el autor no se presenta a sí mismo en primer plano, sino que diluye su opinión en una pluralidad figurada. Cfr. RAE. Esbozo, 3. 10. 9 (p. 429). X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta que llaman fortuna, de quien yo he oído hablar algunas veces, de la cual se dice que quita y da los bienes cuando, como y a quien quiere, sin duda alguna debe ser ciega y antojadiza, pues, a nuestro parecer, levanta los que habían de estar por el suelo y derriba los que están sobre los montes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 3. 4 (Cl. Castal. 12. 296)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Forma las expresiones:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Estar de nuestra parte. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y estoy muy co[n]tento que Platón está de nuestra parte.»",
+              "autor": "L. Pinciano",
+              "referencia_obra": ", Philosophia (BALH. 20. 182)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Nuestra Señora (madre): título honorífico que los católicos dan a la virgen. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Está jurado --- | Por nuestra madre.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea, 1. 5 (Cl. C. 113. 155). X"
+            },
+            {
+              "texto_cita": "«Huye por la mar y llora. | ¡Sálvala, Nuestra Señora!»",
+              "autor": "Alberti",
+              "referencia_obra": ", El alba (Cl. Castal. 48. 253)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Nuestro Amo: se llama devotamente al Santísimo Sacramento. Cfr. Cuervo , Apuntaciones, §741.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Nuestro Señor (Redentor): Jesucristo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que sí —dixo Cristo nuestro Redemptor—; que así ha de pasar como os digo.»",
+              "autor": "Vázquez",
+              "referencia_obra": ", Serm. (Cl. C. 123. 89). X"
+            },
+            {
+              "texto_cita": "«Había gran envidia a los que podían por amor a Nuestro Señor emplearse en esto, aunque pasasen mil muertes.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund. (Cl. C. 115. 108). X"
+            },
+            {
+              "texto_cita": "«Yo, aunque vi cuál debía ser, alabé a nuestro Señor y agradecíselo mucho.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib. (Cl. C. 115. 218). X"
+            },
+            {
+              "texto_cita": "«Por nuestro Señor, que suda.»",
+              "autor": "G. de Castro",
+              "referencia_obra": ", Los mal casados (Cl. Castal. 76. 148). X"
+            },
+            {
+              "texto_cita": "«\"¿Cuánto te debemos, güen hombre?\" —preguntó Nuestro Señor.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra, 21 (p. 142). X"
+            },
+            {
+              "texto_cita": "«El lunes, todo el día, meditaron en el Pecado; el martes, en la Muerte; el miércoles, en el Juicio; el jueves, en el Infierno; el viernes, en la Pasión de Nuestro Señor y en la parábola del Hijo Pródigo.»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua, p. 67."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "pron.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Díxoles él: \"Esforçaos y no temáis, que no hemos caído nosotros en sus manos, sino ellos en las nuestras.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. 1. 7 (Cl. Esp. 10. 55). X"
+            },
+            {
+              "texto_cita": "«Y nosotros | Con las nuestras, porque acabe | El convidado de piedra .»",
+              "autor": "Tirso",
+              "referencia_obra": ", El burlador de Sevilla, 3 (Cl. C. 2. 293). X"
+            },
+            {
+              "texto_cita": "«Eso no, que el Dios de Delo | Se eclipsa y cubre en un velo, | Y el nuestro luce más que él.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. (Cl. Castal. 17. 96). X"
+            },
+            {
+              "texto_cita": "«No sabe el alfabeto griego, ni (¡admírate!) el latino, y hasta se duda de que conozca el nuestro.»",
+              "autor": "Cascales",
+              "referencia_obra": ", Cartas filológ. 2. 10 (Cl. C. 117. 244). X"
+            },
+            {
+              "texto_cita": "«Aquí hay cuatro intereses: el de mi hija; | El de Manolo, que a casarse llega; | El nuestro, que cargamos con hijastros, | Y finalmente el de la Potajera.»",
+              "autor": "R. de la Cruz",
+              "referencia_obra": ", Sainetes (Cl. Ebro, 37. 31). X"
+            },
+            {
+              "texto_cita": "«Es verdad que como vive | Tan cerca, que sus ventanas | Dan enfrente de las nuestras.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña, p. 34. X"
+            },
+            {
+              "texto_cita": "«Y bien, y bien; ¿y hay nada más justo? Nosotros haremos el bien público, haciendo el nuestro, aun sin querer hacerlo.»",
+              "autor": "Larra",
+              "referencia_obra": ", Artíc. polít. y soc. (Cl. C. 77. 88). X"
+            },
+            {
+              "texto_cita": "«A diferencia de otros misticismos egoístas, inertes y enfermizos, el nuestro, nacido enfrente y en oposición a la Reforma Luterana, se calienta en el horno de la caridad y proclama la eficacia y valor de las obras.»",
+              "autor": "Menéndez y Pelayo",
+              "referencia_obra": ", Estudios, p. 55."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Nótese que en los siguientes ejemplos se usa precedido de advs. o locs. de lugar y equivale a de nosotros. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encima nuestro, el cielo estrellado parecía un ojo inmenso.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra, 8 (RAE. Esbozo, 3. 10. 11d). X"
+            },
+            {
+              "texto_cita": "«Lo mejor era informarnos un poco, y así lo hizo Don Segundo, interpelando a un paisano que pasaba cerca nuestro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 20 (p. 134)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Forma las expresiones:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "La nuestra: ocasión propicia y favorable. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ahora que no está el jefe es la nuestra.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Los nuestros: los que son del mismo partido, profesión o familia del que habla. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De San Juan era aquel día, | Cuando se dio la batalla | De los nuestros tan herida.»",
+              "autor": "Rom. viejos",
+              "referencia_obra": "(Cl. Ebro, 9. 71)."
+            },
+            {
+              "texto_cita": "«Los nuestros al nacer del día, partiendo la presa, en que había ochocientos captivos y mucha ropa, las bestias y ellos cargados, tomaron el camino de Orgiba.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 2 (R. 21. 86 2 ). X"
+            },
+            {
+              "texto_cita": "«Todas estas ayudas las deseaba Andrónico y las estimaba como grandes; y así la que los nuestros le ofrecían no se puede con palabras encarecer la estimación que hizo della.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 1. 5 (Cl. C. 54. 23). X"
+            },
+            {
+              "texto_cita": "«Retirados y sosegados los nuestros, les mandó el Emperador, en agradecimiento de su puntual obediencia, librar una paga.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 8 (Cl. C. 54. 34). X"
+            },
+            {
+              "texto_cita": "«La sangre que corría por mis venas era su sangre, y esa voz interna que nos incita a ser benévolos con las faltas de los nuestros, no podía permanecer callada después de la escena que pasó ante mis ojos.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar, 12 (p. 125)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Lo nuestro: nuestra inclinación, gusto o profesión. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo nuestro es hacer cálculos de hormigón.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pues que tú, Virgen, pariste | El consuelo divinal, | Consuela mi vida triste, | Tú Señora que naciste | Para matar nuestro mal.»",
+          "autor": "Encina",
+          "referencia_obra": ", Poes. lír. (Cl. Castal. 62. 97). X"
+        },
+        {
+          "texto_cita": "«Y con tu recebimiento Se libró nuestra caída, Y el virgen concebimiento Con tu santo nacimiento Nos dio ley muy escogida.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (Cl. Castal. 62. 80). X"
+        },
+        {
+          "texto_cita": "«Para creer que así fue | La cosa como se cuenta | La mayor razón que sé | Es que nuestra sancta fe | Es inposible que mienta.»",
+          "autor": "Mendoza",
+          "referencia_obra": ", Canc. (Cl. C. 163. 109). X"
+        },
+        {
+          "texto_cita": "«Nuestro niño bendicto | Antes que dexe el mamar | Ya trabaja en caminar | Por las montañas de Egipto.»",
+          "autor": "Mendoza",
+          "referencia_obra": ", Canc. (Cl. C. 163. 108). X"
+        },
+        {
+          "texto_cita": "«Y si somos sus catiuos | Es porque con fines coxos | Son todos nuestros motiuos, | En lo qu´es dañoso biuos | Y en lo ques honesto floxos.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Despr. de fortuna (Cl. C. 133. 238). X"
+        },
+        {
+          "texto_cita": "«Nuestras vidas son los ríos | Que van a dar en la mar. | Qu´es el morir.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Canc. (Cl. C. 94. 90). X"
+        },
+        {
+          "texto_cita": "«El muy excellente Doctor sanct Isidoro de sangre real, natural de nuestra España, desçendiente del Rey Theodorico, hijo de don Severiano, Duque de Cartagena, y de la Duquesa su muger, que se llamava Túrtura, que era así mesmo de linaje real.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Vida de S. Isid. (Cl. C. 134. 70). X"
+        },
+        {
+          "texto_cita": "«Por Dios nuestro señor, en tal guisa de amor usemos verdadero que para syenpre bivamos, sólo Dios amando.»",
+          "autor": "",
+          "referencia_obra": "Id. Corbacho (Cl. Castal. 24. 76). X"
+        },
+        {
+          "texto_cita": "«Con la grand pena del fuego. Tristemente lamentavan; Pero que tornavan luego E muy manso raçonavan; E por ver de qué tratavan, Mi paso me fui llegando A dos que vi rrazonando Que en nuestra lengua fablavan.»",
+          "autor": "Santill.",
+          "referencia_obra": "Canc. y decires (Cl. C. 18. 35). — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«E nuestros sserán los fechos | E vuestra la nombradía.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI, 997 (p. 279). X"
+        },
+        {
+          "texto_cita": "«Santa María Magdalena, | Rruega a Dios verdadero | Por quien diere buena estrena, | De meaja o de dinero, | Para mejorar la çena | A nos e nuestro conpañero.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1713 (Cl. C. 17. 286). X"
+        },
+        {
+          "texto_cita": "«Nasçió por salvarnos | De Santa María | En nuestra valía.»",
+          "autor": "",
+          "referencia_obra": "Id. 1649 (Cl. C. 17. 282). X"
+        },
+        {
+          "texto_cita": "«¡A morir han los omes, que fueron e son nados! | ¡Dios perdone la su alma e los nuestros pecados!»",
+          "autor": "",
+          "referencia_obra": "Id. 1506 (Cl. C. 17. 225). +"
+        },
+        {
+          "texto_cita": "«Señora, dixo el cauallero, nuestro señor vos enbía dezir asý, que sy Dios le da algunos enbargos en este mundo --- que gelo faze porque es pecador entre los pecadores, e señaladamente por el yerro que a vos tiene, vos non gelo meresçiendo, nin le faziendo por qué.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 33 (p. 74)."
+        },
+        {
+          "texto_cita": "«Non seyendo nos entrado a tierra de los nuestros enemigos allende del postremero logar frontero del nuestro sennorio.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 550). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«Nueve órdenes de ángeles ordenó nuestro señor Dios en la eglesia celestial.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Part. 1. 6 ( Casares , Intr. p. 83). X"
+        },
+        {
+          "texto_cita": "«Después que los nuestros clérigos, que son ordenados de orden de epístola o dend arriba, se entierran oy cada uno con las vestimentas de su orden.»",
+          "autor": "Casares",
+          "referencia_obra": ", Intr. p. 82)."
+        },
+        {
+          "texto_cita": "«Quando que quier que los enemigos se levantaren contra nuestro regno ---.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 9. 2. 9 (p. 161)."
+        },
+        {
+          "texto_cita": "«Por ende defendemos en esta nueva ley que ningún omne daquí adelantre si non fuere escrivano --- non ose allegar falsas constituciones. Mas los escrivanos del pueblo, o los nuestros, o a quien nos mandáremos, las escrivan, e las lean las nuestras constituciones, e non otri.»",
+          "autor": "",
+          "referencia_obra": "Ib. 7. 5. 9 (p. 131). X"
+        },
+        {
+          "texto_cita": "«De nuestras liviandades gane nos remissión, | Que non vaian las almas nuestras en perdición.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 20 (Cl. C. 44. 119). X"
+        },
+        {
+          "texto_cita": "«La nuestra romería entonz la acabamos | Quando a paraíso las almas enviamos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. intr. (Cl. C. 44. 6). X"
+        },
+        {
+          "texto_cita": "«Dezían los malfadados: \"En mal ora nasçimos, | Diera nos Dios Espan[n]a, guardar non la sopimos, | Sy en [grrand] coyta somos nos byen lo meresçimos, | Por nuestro mal sentydo en grran[d] yerro caýmos.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gónz. 3 (Cl. C. 128. 29). — Siglo XII: X"
+        },
+        {
+          "texto_cita": "«Andad, fijas, daquí el criador vos vala! | De mi y de vuestro padre bien avedes nuestra gracia.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2604."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Foras istos terminos, nostras hereditates, sive et ecclesias praefatae sedi dambls praenominatas Barcena.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 853 ( Esp. sagr. 37. 319)."
+        },
+        {
+          "texto_cita": "«Atque etiam omnibus rebus nostris cum omnia que ganavimus vel aumentare potuimus, id est ---.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 800 ( Llor. Prov. vasc. 3. 5)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. noster, -ra, -um. Cat. nostre, fr. notre, it. nostro, port. nosso. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

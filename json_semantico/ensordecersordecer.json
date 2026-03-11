@@ -1,0 +1,447 @@
+{
+  "lema": "ENSORDECER (SORDECER).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Propiamente, Volver a uno sordo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "El acus. puede ser la persona afectada, o el sust. oído . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tanto entorpece mis labios | Y ensordece mis oídos, | Que no puedo pronunciar | Por más que lo solicito.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hado y divisa de Leonido (en Quinta parte de comedias, p. 11 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Echa, Señor, de sus almas al demonio, que los ensordece y enmudece, para que libremente te oigan, alaben y glorifiquen.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 37 (2. 234)."
+            },
+            {
+              "texto_cita": "«Porque en el rey la privanza | Ensordece las orejas.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Palabras y plumas, 2. 2 (R. 5. 8 3 ). — Con dat. de persona."
+            },
+            {
+              "texto_cita": "«Cegaré el corazón de este pueblo y ensordecerles he los oídos para que viendo no vean y oyendo no entiendan.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Brazo (3. 149)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Absol. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sonido muy recio, en cuanto tal, bien ensordece por aquella regla de Aristóteles, que el sensible muy vehemente corrompe al sentido.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 13. 18 (R. 162. 461 2 )."
+            },
+            {
+              "texto_cita": "«Una luz muy clara ciega a las veces, y un sonido desmedido ensordece.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares , 8 (4. 137)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Intrans. Pasa a sujeto el compl. directo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que tanto había ensordecido quien a tales voces no acudía?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 2. 6 (R. 8. 225 1 ). RAE"
+            },
+            {
+              "texto_cita": "«Murió de repente el Conde de Villamor, que mató a su mujer el año de 30 y estuvo preso veinticuatro años en Uclés, donde cegó y ensordeció.»",
+              "autor": "",
+              "referencia_obra": "Barrionuevo, Avisos (EE. CC. 95. 243)."
+            },
+            {
+              "texto_cita": "«Dio en lavarse la cabeza | Anoche, y el tiempo es tal, | Que con menos ocasión | He visto yo ensordecer | Otras de más complexión.»",
+              "autor": "Tirso",
+              "referencia_obra": ", No hay peor sordo ... 3. 9 (R. 5. 282 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. met. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Cuán fácil es que la conciencia de nuestro ser real quede ensordecida por el ruido del Mundo, y que con ella naufrague lo más noble de nuestro destino, lo mejor que había de nosotros virtualmente!»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo , p. 44."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En particular, Atronar, aturdir a alguien ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me ensordecían las tracas.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc sb. voc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Actuando como acus. el sust. oído u otro equivalente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como --- una grande y súbita luz, que ciega los ojos, y un gran sonido, que atruena y ensordece los oídos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 1. 1, § 2 (R. 8. 165 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era tanto el ruido que llevaban y el gruñir y el bufar, que ensordecieron los oídos de D. Quijote y de Sancho.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 68 (R. 1. 547 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, para indicar la causa. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién no ensordece al estallido de bala, puede escuchar las vozes más tibias y remotas?»",
+              "autor": "Espinosa",
+              "referencia_obra": "y Malo, Ocios (ed. 1693, p. 125)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Con por, para indicar la causa. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cátanos ya entre nubes de humo y ensordecidos por el estruendo del cañón.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Diario de un testigo de la guerra de Africa (ed. 1917, t. 1, p. 141)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Con el sentido factitivo de Hacer callar o guardar silencio ( trans ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con la prep. con, para indicar el medio o instrumento. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con apagado canto | Los vientos ensordece.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. (R. 67. 306 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con el sentido intrans. de Callar, dejar de hablar o emitir sonido. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y al ronco son del hórrido graznido | Brama el mar y los vientos se ensordecen.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes . (R. 67. 382 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. Con el mismo sentido que en el caso anterior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un mozo que cantaba con mucha alegría vino a ensordecer.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 14 (R. 18. 464 1 )."
+            },
+            {
+              "texto_cita": "«Al ‘ténganse a la justicia' | Todo cristiano ensordece.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 5, jác. 10 (R. 69. 110 1 )."
+            },
+            {
+              "texto_cita": "«Ensordeced, no os mostréis ofendidos, no deis a vuestros censores el gusto de contestarles.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo sujeto el sonido o sust. equivalente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Montes --- en que reposan ejércitos de aves en gloria y en música dulcísima que jamás ensordece.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1 , Pastor (3. 64)."
+            },
+            {
+              "texto_cita": "«Al ronco estruendo | Los ecos ensordecen, | Los escollos más altos se estremecen.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Al mar (R. 19. 20 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. Con la prep. con, para indicar la causa o instrumento. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos ensordescidos con tan diuina respuesta, dimos fin al yantar.»",
+              "autor": "",
+              "referencia_obra": "Lucena, Vida beata (ed. 1892, p. 186)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Llenar de ruido el aire, un lugar, etc. ( trans. ) . El compl. directo es el aire o el lugar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El rumor de solícitos armeros | Todo el ancho contorno ensordecía.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 13 (R. 17. 53 1 )."
+            },
+            {
+              "texto_cita": "«Aquí las ondas con bramido eterno | La región ensordecen condenada.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 9 (R. 17. 468 1 )."
+            },
+            {
+              "texto_cita": "«Cajas el aire ensordezcan, | Clarines el cielo rompan.»",
+              "autor": "Cald.",
+              "referencia_obra": "La puente de Mantible, 3 (R. 7. 222 1 )."
+            },
+            {
+              "texto_cita": "«Los aires ensordecen | Las víctimas que gimen.»",
+              "autor": "Gallego",
+              "referencia_obra": ", canc. En este infausto día (R. 67. 421 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, para indicar el medio o instrumento. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El público [en los toros] ensordecía el espacio con sus gritos pidiendo más banderillas.»",
+              "autor": "",
+              "referencia_obra": "Reyes, Ciclo azul , p. 78."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un compl. circunst. con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y no permites cuando a Baco miras, | Que yo ensordezca en llanto las montañas?»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 7, son . 6 (R. 69. 245 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part. Con por, para indicar el agente. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ciudad vestía de funeral y estaba ensordecida por las plañideras que acompañaban el féretro.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda, 16 (p. 227)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con la prep. con, para indicar la causa o medio. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ensordécese la tierra | Con el son de los martillos.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Obras (ed. 1943, t. 1, p. 1167 2 ). +"
+            },
+            {
+              "texto_cita": "«Acomete al jayán a todo trance; | Por tierra le derriba, retemblando | La plaza toda al poderoso golpe, | Y ensordécese el viento con aplausos.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 3 (R. 100. 136 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Embotar, quitar sensibilidad ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Daban a beber a los crucificados en aquel tiempo, antes que los enclavasen, cierto vino confeccionado con mirra e incienso, que tiene virtud de ensordecer el sentido y como embotarle al dolor.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Rey (3. 175). RAE"
+            },
+            {
+              "texto_cita": "«El egoismo (tan incontrarrestable en la niñez) había ensordecido sus corazones.»",
+              "autor": "Fern.",
+              "referencia_obra": "Caball. Novelas cortas (en Obras , ed. 1911, t. 4, p. 283)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Con para . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por ahí se ve cómo el refinamiento estético de Rubén, por muy poderoso que fuese, no lo era tanto como para esclavizarle a sus mundos interiores, a las invenciones de su sensibilidad puramente individual y convertirle, dejándole ensordecido para la honda voz común, en ese residente de la torre de marfil por el que muchos le tienen todavía.»",
+              "autor": "Salinas",
+              "referencia_obra": ", La poes. de R. Darío , p. 232 ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. Desatender, desoír. El objeto de la desatención va precedido de la prep. a.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atento al rigor de la justicia, hubo de ensordecerse a tan piadosos ruegos.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 110 2 )."
+            },
+            {
+              "texto_cita": "«Aquella santa inflexibilidad con que un magistrado se ensordece a los ruegos de la amistad, de la hermosura y del favor, o resiste los violentos huracanes del poder.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 1ª clase (R. 50. 105 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ensordeció a mis palabras, | Desatendióse a mis ruegos.»",
+              "autor": "Rojas",
+              "referencia_obra": ", No hay amigo para amigo , 1 (R. 54. 88 1 ). RAE"
+            },
+            {
+              "texto_cita": "«Assí lo dixo --- el bárbaro Rey de Numidia, Yugurta, que con los dones que les embió les hizo patrocinar por algún tiempo sus maldades y ensordecer a las justas quexas de los aliados de la República.»",
+              "autor": "",
+              "referencia_obra": "Feijoo, Teatro crít . (2. 174)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Refl. Perder una consonante el carácter sonoro, esto es, pronunciarse sin vibración de las cuerdas vocales. RAE",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Debe tener el valor de z ---, el cual --- se ensordeció en los modernos dialectos.»",
+          "autor": "Mndz. Pidal",
+          "referencia_obra": ", Orígenes, p. 54."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ya sea que los errores | En propria lengua ensordescan, | E por ventura m'empescan | En ojos de los letores ---.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 197. — Siglo XIII: RAE"
+        },
+        {
+          "texto_cita": "«Fueron de tal manera mescladas las feridas, | Que eran con los colpes las tronpas ensordidas.»",
+          "autor": "",
+          "referencia_obra": "Alex . 984 (ms. P, ed. 1934)."
+        },
+        {
+          "texto_cita": "«Ensordecíen las oreias al son de los tromperos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 827 (R. 57. 173 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De in y surdescere 'ensordecer', y éste de surdus 'sordo', y del que deriva la forma sordecer también existente en castellano. G. de Diego y Meyer Lübke proponen el étimo obsurdescere, fonéticamente inaceptable (cfr. Dicc. etim. 4657, y REW 6024, respectivamente). Rum. asurzí, it. as sordire, fr. assourdir (con prefijo a -); cat. ensordir, port. ensurdecer, gall. enxordecer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Ofrece las síguientes formas irregulares: ensordezc-o; ensordezc-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

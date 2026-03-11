@@ -1,0 +1,227 @@
+{
+  "lema": "ANIDAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer nido las aves ó vivir en él ( intrans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Son de agudísima vista las águilas, y así, aunque aniden en alto, descubren bien de allí la presa y se abaten á ella.»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job, 39. 32 (R. 37. 479 2 )."
+        },
+        {
+          "texto_cita": "«De allí se viste el bosque y la arboledad | Y el cedro soberano, | Adonde anida el ave, adonde enreda | Su cámara el milano.»",
+          "autor": "",
+          "referencia_obra": "Id. Poes. 3 , salmo 103 (R. 37. 55 1 )."
+        },
+        {
+          "texto_cita": "«Una águila anidó sobre una encina.»",
+          "autor": "Saman.",
+          "referencia_obra": "Fáb . 1. 20 (R. 61. 362 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met. Andar anidando ( fam. ): dícese de las mujeres cuando están cercanas al parto.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Morar. Dícese más comúnmente de las cosas inanimadas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esle tan fácil á mi corta suerte | Ver con la amarga muerte | Junta la dulce vida, | Y estar su mal á do su bien anida, | Que entre contrarios veo | Que mengua la esperanza, y no el deseo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. (R. 1. 23 1 )."
+            },
+            {
+              "texto_cita": "«No es tan dulce al cansado caminante, | Si la ercinia montaña | Venció, ó el hielo de la cumbre alpina, | Complacido vagar por los pensiles | Del sosegado Po, como á tu Anfriso | Del crimen fatigado de los hombres, | Hallar en tu alma pura | El no violado é inocente asilo | Do anidan la virtud y la ternura.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. filosof . 3 (R. 67. 304 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar lo que se mira como morada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Anidará en ti toda la hermosura, | Y vestirás tesoro.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Esposo (R. 37. 161 2 )."
+            },
+            {
+              "texto_cita": "«El deseo | Del bien de los demás ¿por qué no anida | En el humano corazón?»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. filosóf . 19 (R. 67. 311 1 )."
+            },
+            {
+              "texto_cita": "«Dios no permite | Que en el corazón culpado | La felicidad anide.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Deudas de la honra, 1. 1 (6). —"
+            },
+            {
+              "texto_cita": "«Ella, negada al reposo, | Por su ausencia querellosa, | Sólo en lágrimas reposa, | Sólo en suspiros anida.»",
+              "autor": "Góng.",
+              "referencia_obra": "letr. 67 (R. 32. 505 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Acoger como en un nido ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Queréis ser como el labrador que crió la víbora serpiente en el seno todo el invierno, y por merced del cielo, cuando llegó el verano, donde ella pudiera aprovecharse de su ponzoña, no la halló, porque se había ido; el cual, sin agradecer esta merced al cielo, quiso irla á buscar, y volverla á anidar en su casa y en su seno.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers. 3. 7 (R. 1. 637 1 )."
+        },
+        {
+          "texto_cita": "«Tú puedes, si te olvidas de tus hechos | Y de tu condición tan desabrida, | Hacer alegres tálamos y lechos | Do el yugo conyugal á dos anida.»",
+          "autor": "",
+          "referencia_obra": "Id. Gal. 3 (R. 1. 40 2 )."
+        },
+        {
+          "texto_cita": "«A quien sus flores le anida | El Tajo glorioso.»",
+          "autor": "Góng.",
+          "referencia_obra": "déc. No os diremos como al Cid (R. 32. 482 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Acojerse en el nido.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Tratándose de las aves.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Extendiendo [el cedro] su sombra, se anidaron | Las aves que sustenta el grande cielo»",
+              "autor": "Herr.",
+              "referencia_obra": "2, canc . 6 (R. 32. 319 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sufrió dos cabezas un gobierno, ni se anidaron bien dos pájaros juntos en un agujero.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán, 2. 3. 5 (R. 3. 345 2 )."
+            },
+            {
+              "texto_cita": "«Yo ronco y tú sereno despertemos | Cuantos en nuestra orilla cisnes graves | Sus blancas plumas bañan y se anidan.»",
+              "autor": "Góng.",
+              "referencia_obra": "son . 45 (R. 32. 432 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. Tratándose de personas, Acogerse como en un nido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mirábalo --- | Solicitar los balcones | Donde se anida su bien.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 2 (R. 32. 506 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. Tratándose de cosas inmateriales.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El amor propio, do quiera que se anide, trata de clasificarse y distinguirse.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. (R. 46. 234 1 )."
+            },
+            {
+              "texto_cita": "«Cándido seno, donde Amor se anida, | Disculpa de mi ciego desvarío.»",
+              "autor": "Mor.",
+              "referencia_obra": "Poes. suelt. (R. 2. 609 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque va tan de caída | Mi dichosa nueva andanza, | En ella este bien se anida: | Que quien llevó la esperanza | Llevará presto la vida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 12 2 )."
+            },
+            {
+              "texto_cita": "«Blanca gentil, en cuyo blanco pecho | El contento de amor se anida y cierra.»",
+              "autor": "",
+              "referencia_obra": "Id. Gal. 3 (R. 1. 32 1 )."
+            },
+            {
+              "texto_cita": "«Tengo amor, y sé que no me engaño; | Pero no sé en qué parte en mí se anida.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 5 (R. 32. 311 1 )."
+            },
+            {
+              "texto_cita": "«En ti se encierra y anida | Todo el bien que tiene el cielo.»",
+              "autor": "Lope",
+              "referencia_obra": ", La viuda valenciana , 1. 1 (R. 24. 69 2 )"
+            },
+            {
+              "texto_cita": "«Ni en pechos duros el placer se anida.»",
+              "autor": "Gallego",
+              "referencia_obra": ", comp. var . (R. 67. 419 1 )."
+            },
+            {
+              "texto_cita": "«Llora, Fileno, llora; este consuelo | Señaló ya el destino á la amargura | Cuando en mi tierno corazón se anida.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Fileno (R. 19. 15 2 )."
+            },
+            {
+              "texto_cita": "«¡Son tan pocos los felices pechos | En que se anida la virtud!»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. En la muerte de un amigo (R. 19. 29 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y nido . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

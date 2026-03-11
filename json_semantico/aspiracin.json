@@ -1,0 +1,125 @@
+{
+  "lema": "ASPIRACIÓN.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "El acto de respirar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En los períodos muy cortos --- padece también el aliento, interrumpido continuamente antes de concluír la medida de la natural aspiración.»",
+          "autor": "Capm.",
+          "referencia_obra": "Filosof. eloc. 1. 1 (77)"
+        },
+        {
+          "texto_cita": "«Los cantores eran bastante buenos. La Villeneuve, voz delicada y grata, aspiraciones oportunas, acción expresiva, decoro y buena presencia.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 2, p. 32."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Mús. Espacio menor de la pausa, en cuanto se da lugar á respirar. Acad. Dicc .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pero silencios hay de dos maneras: | Unos tienen tan breves duraciones | Que el nombre se les da de aspiraciones; | Otros, que duran cláusulas enteras, | Se suelen distinguir con el de esperas.»",
+          "autor": "",
+          "referencia_obra": "T. Iriarte, Mús . 1 (1. 176)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Ruido producido por el aliento humano al pasar venciendo el obstáculo que se le opone en la glotis. Denótase á menudo con la letra h .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los poetas de nuestro siglo de oro tuvieron muchas veces en cuenta la h aspirada en sus composiciones métricas; y gran número de versos suyos, leídos sin aspiración, desmerecen, y hasta suenan como si no constasen.»",
+          "autor": "Acad.",
+          "referencia_obra": "Gram . p. 358 (1880)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2",
+      "definicion": ". met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En la teología mística, Afecto encendido del alma hacia Dios.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se da por regla general á todos los que oran, que procuren cuanto les sea posible levantar su espíritu á este divino coloquio: que es hablar y tratar con el mesmo Dios, mayormente en tratos de amor, y ejercicios de aspiración.»",
+          "autor": "Gran.",
+          "referencia_obra": "Orac . y c onsid. 1. 7, § 1 (R. 8. 15 2 )."
+        },
+        {
+          "texto_cita": "«¿Para qué pensáis que son aquellas inspiraciones que he dicho, ú por mejor decir aspiraciones, y aquellos recaudos que envía el alma del centro interior á la gente de arriba del Castillo y á las Moradas que están fuera de donde ella está?»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Mor . 7. 4 (R. 53. 487 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Movimiento del alma hacia un objeto deseable.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En contraposición de aquel abatimiento que nos hacía desdeñar nuestro pasado, le estima en lo que vale y aun quizás exagera algo su valor en lo literario y científico; pero, sobre esta afirmación evidente ó al menos plausible, levanta un cúmulo de aspiraciones y propósitos, á mi ver, poco razonables.»",
+          "autor": "Valera",
+          "referencia_obra": ", Disert. p. 112."
+        },
+        {
+          "texto_cita": "«Confundirme en tu sér; que te confundas | Tú en mi sér; que en aéreas y profundas | Meditaciones, juntos y enlazados, | Corran por nuestros miembros transformados | En jaspe inmóvil, flúidos sutiles, | De esos que en los etéreos pensiles | Elaboran los genios celestiales: | Hé aquí mi aspiración.»",
+          "autor": "Mora",
+          "referencia_obra": ", Leyendas, La judía (19)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para denotar el blanco del deseo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las marmóreas y austeras esculturas | De antiguas sepulturas, | Aspiración del arte á lo infinito.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Tristezas (150)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "El acto de atraer el aire exterior á los pulmones; inspiración.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En un sentido análogo se dice de las bombas. Acad. Dicc . sb. voc. bomba.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat . aspirationem, aspiratio, adspiratio , derivado de aspirare, adspirare, aspirar. Fr. aspiration . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

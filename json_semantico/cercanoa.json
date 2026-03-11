@@ -1,0 +1,467 @@
+{
+  "lema": "CERCANO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que está cerca, á corta distancia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Trataba para afirmarse de buscar socorros en todas partes, y porque los cercanos le faltaban, determinó acudir á los de lejos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 13 (R. 30. 388 2 )."
+            },
+            {
+              "texto_cita": "«Si yo pudiese bien en tu belleza | Fijar mis ojos, Musa soberana, | Y contemplar cercano tu grandeza.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 13 (R. 32. 333 1 )."
+            },
+            {
+              "texto_cita": "«Ansiosos de mirar cercano | Aquel hermoso bulto soberano, | Se divirtieron á mover las ramas.»",
+              "autor": "Jáur.",
+              "referencia_obra": "silva En la espesura (R. 42. 118 1 )."
+            },
+            {
+              "texto_cita": "«Nuestro cultivo era, por decirlo así, incierto y precario, porque le turbaba continuamente un feroz y cercano enemigo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 87 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Se halla algunas veces acompañado de aquí , como si se hubiese sacado un adj. de la combinación aquí cerca .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mejor será que nos salgamos fuera de la ciudad, y que vuestra merced se embosque en alguna floresta aquí cercana.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 9 (R. 1. 422 1 )."
+            },
+            {
+              "texto_cita": "«Traen á bautizar, dijo el Cojuelo, un regidor muy rico, de un lugar aquí cercano, de edad de setenta años, que se viene al don por su pie.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo Coj . 3 (R. 33. 26 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para señalar el objeto con respecto al cual se halla otro á corta distancia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se iban á solazar con toda su parentela y criados al jardín de Ascanio, que está cercano á la marina en el camino de las salinas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2 (R. 1. 121 1 )."
+            },
+            {
+              "texto_cita": "«La abrasara toda [la villa] si el conde no acudiera en persona á remediallo, como se hizo con el último remedio de derribar las casas cercanas al fuego, quitándole la materia.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 116 2 )."
+            },
+            {
+              "texto_cita": "«Es una isla de una laguna cercana á Menfis.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 8 (R. 30. 9 2 )."
+            },
+            {
+              "texto_cita": "«Los Campos Cataláunicos, que otros llaman Maroquios ó Mauricios, y están cercanos á Tolosa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 3 (R. 30. 122 2 )."
+            },
+            {
+              "texto_cita": "«Los españoles, trabajados no menos con disensiones de dentro que con guerras de fuera, y muy cercanos al peligro, tenían necesidad de no menor reparo que el suyo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 5 (R. 30. 33 2 )."
+            },
+            {
+              "texto_cita": "«Tenía á todos puestos en cuidado, más que á todos al rey de Castilla, como el que caía más cercano al peligro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 11. 22 (R. 30. 334 2 )."
+            },
+            {
+              "texto_cita": "«Estas nuevas y rumores pusieron en grande cuidado á los castellanos y aragoneses, que estaban más cercanos al peligro, y eran los primeros en quien descargaría aquella tempestad.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13. 15 (R. 30. 391 1 )."
+            },
+            {
+              "texto_cita": "«Y yo estoy tan cercano al refulgente | Rayo que de sus luces siempre envía | Mi dulce ardor, Aglaya, y glorïoso.»",
+              "autor": "Rioja",
+              "referencia_obra": ", son . amor . 13 (R. 32. 376 2 )."
+            },
+            {
+              "texto_cita": "«Tanto | Cercano á los contrarios parecía, | Que á muchos dellos les rindió el espanto. »",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 12 (R. 17. 622 2 )."
+            },
+            {
+              "texto_cita": "«Esta parte del muro de Tarifa | Menos cercana al militar bullicio | Por algunos instantes, aunque breves, | Sírvame ya de solitario asilo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Guzmán el Bueno (7. 321)."
+            },
+            {
+              "texto_cita": "«A lo lejos se ven los montes cercanos á Nápoles y la isla de Ischia.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 340."
+            },
+            {
+              "texto_cita": "«Cercana al palacio está la fábrica de la china.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1, p. 370."
+            },
+            {
+              "texto_cita": "«Díganlo en fin las canciones de las tribus bárbaras, descubiertas y visitadas por Cook en las islas de Oceanía y en las que yacen cercanas al estrecho de Anián.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 1, p. 16."
+            },
+            {
+              "texto_cita": "«Había llegado á Copanabastla, pueblo de indios cercano á Ciudad Real.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 466 1 )."
+            },
+            {
+              "texto_cita": "«Con él vive | En el fuerte cercano á este castillo.»",
+              "autor": "",
+              "referencia_obra": "Id. El duque de Viseo , 1. 5 (R. 19. 45 2 )."
+            },
+            {
+              "texto_cita": "«Enderezó sus pasos á la fortaleza del Salar, muy cercana al camino de Granada á Loja.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", H. P. del Pulgar (4. 15)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en sentido análogo. Este régimen se usa hoy menos que en épocas anteriores. El construírse con á y de , preposiciones significativas de relaciones contrarias, depende de la manera como se considere la cercanía: tomándose como efecto de un movimiento de aproximación hacia un objeto, éste se señala con á : tomándose, como distancia algo menor que separa un objeto de otro, tiene cabida de . Lo mismo en latín se dice prope ad y prope ab ( cp. Pott , Etym. Forsch. 2 1. 165).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Testifica [Plinio] que por todas las partes cercanas del mar España es la mejor y mas fértil de todas las tierras, sacada Italia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 1 (R. 30. 2 1 dice:"
+            },
+            {
+              "texto_cita": "«de todas las naciones»",
+              "autor": "",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Su vecino y tan cercano | De su casa me crié, | Que como á Píramo y Tisbe, | Nos dividió una pared.»",
+              "autor": "Tirso",
+              "referencia_obra": ", En Madrid y en una casa , 1. 6 (R. 5. 540 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Con respecto al tiempo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Que va á llegar ó suceder dentro de poco tiempo, ó que sucede ó se verifica poco después.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los enemigos considerando su peligro cercano y la tardanza de socorro, despacharon á Abenabó pidiéndole favor.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 4 (R. 21. 112 2 )."
+            },
+            {
+              "texto_cita": "«Todo lo cual miraban no sin mucho dolor los dos hermanos, dando gracias á Dios que de tan grande y tan cercano peligro los había librado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 203 1 )."
+            },
+            {
+              "texto_cita": "«El peligro era más cierto que cercano; mas para el temor nunca está distante.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 2. 2 (R. 46. 558 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y por lo menos he de temer mucho la caída cercana á la confesión.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 1. 32 (1. 222)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Que dentro de poco se hallará ó poco antes se halló en tal ó cual situación ó lance.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á , para denotar el estado que se mira como no distante.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las cosas de los cristianos empeoraban y parece andaban cercanas á la caída por la venida y armas de los Almoravides.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 1 (R. 30. 275 2 )."
+            },
+            {
+              "texto_cita": "«El rey de Sicilia por habelle todos desamparado estaba más cercano al naufragio.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 15. 2 (R. 30. 431 1 )."
+            },
+            {
+              "texto_cita": "«Con estar cercano á la muerte, como olvidado de sí y de sus trabajos, todo se ocupó en regalarlos, y perdió su vida por la vida de ellos.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 8 (2. 404)."
+            },
+            {
+              "texto_cita": "«Estáis cercano á la muerte.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los embustes de Celauro , 3. 17 (R. 24. 108 3 )."
+            },
+            {
+              "texto_cita": "«Que no es bien que disimule, | Si está cercano á la muerte.»",
+              "autor": "",
+              "referencia_obra": "Id. S. Diego de Alcalá , 3 (R. 52. 533 3 )."
+            },
+            {
+              "texto_cita": "«Cercano al último aliento, | En lugar de testamento | Este pliego me entregó.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El examen de maridos , 1. 2 (R. 20. 469 1 )."
+            },
+            {
+              "texto_cita": "«Y en su vejez, cercano ya á la muerte, | Ver anheló la tierra de su infancia.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , 2. 6 (3. 267). —"
+            },
+            {
+              "texto_cita": "«Las tristes de Faetón bellas hermanas, | Sentadas á la orilla del gran río, | Lloraban de su hermano el desvarío, | Al convertirse en árboles cercanas.»",
+              "autor": "",
+              "referencia_obra": "L. Argens. son . 13 (R. 42. 263 2 )."
+            },
+            {
+              "texto_cita": "«Cuando á morir me veo tan cercana, | ¿En qué brazos me dejas, huésped mío?»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 4 (3. 288)."
+            },
+            {
+              "texto_cita": "«Cuando sus amigos le vieron cercano á morir, quisieron todavía ser fieles á su memoria.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 248 2 ). —"
+            },
+            {
+              "texto_cita": "«En un pueblo cercano á su infancia hay naturalmente un gran fondo de candor y sencillez.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 6 (1. 86)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—β β )",
+          "definicion": "Con de , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero mejor será oír á Pelagio, obispo de Oviedo, cercano de aquellos tiempos, que concluye su historia desta manera.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 9. 20 (R. 30. 274 2 )."
+            },
+            {
+              "texto_cita": "«Cercano ya de su fin | Un monje santo decía, | Que solo mejoraría | Oyendo el són de un chapín.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Todo es ventura , 3. 9 (R. 20. 133 3 ). —"
+            },
+            {
+              "texto_cita": "«Pues los que aborreciendo tanto halagan, | De saciar su furor están cercanos.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 3 (92)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En general.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuanto los testigos son más cercanos y más conocidos, tanto suele ser más crecido su testimonio, si ellos traen verdad.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 35 ( Míst . 3. 196)."
+            },
+            {
+              "texto_cita": "«De ordinario son odiosos á los príncipes aquellos que están más cercanos para les suceder.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 16. 16 (R. 30. 484 2 )."
+            },
+            {
+              "texto_cita": "«Cuando te miras cercano de aflicciones, júzgate cercano á Dios, que es tu fortaleza y asiste á los atribulados.»",
+              "autor": "",
+              "referencia_obra": "S. Juan de la Cruz, Sent. espir . ( Míst . 3. 57. Esta sentencia está redactada de manera muy diferente en R. 27. 256 2 )."
+            },
+            {
+              "texto_cita": "«Nótese que tan raros fenómenos [actores ignorantes que aciertan á fuerza de genio] se hallan solamente para la representación de aquellos caracteres más bajos, que están al nivel, ó más cercanos de su condición.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect . 2 (R. 46. 497 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En especial se dice de los grados de parentesco menos distantes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y súbese por la calle arriba con tal gentil semblante y continente, que quien no le conociera pensara ser muy cercano pariente del conde de Arcos.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill . 3 (R. 3. 85 1 )."
+            },
+            {
+              "texto_cita": "«La causa es de creer era el dolor de que hobiese usurpado el reino y despojado á los Cerdas deudos tan cercanos de aquella corona.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 14. 10 (R. 30. 417 1 )."
+            },
+            {
+              "texto_cita": "«Si los escuderos fuéramos hijos de los caballeros á quien servimos, ó parientes suyos muy cercanos, no fuera mucho que nos alcanzara la pena de sus culpas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 68 (R. 1. 547 2 )."
+            },
+            {
+              "texto_cita": "«Anoche le trajeron á casa acompañado de dos cercanos parientes suyos.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 3. 3 (R. 1. 628 1 )."
+            },
+            {
+              "texto_cita": "«Deudos son; | Pero no son tan cercanos | Que para darse las manos | Aguarden dispensación.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La industria y la suerte , 1. 15 (R. 20. 28 1 ). —"
+            },
+            {
+              "texto_cita": "«Por más cercano en la sangre | Tomé posesión del reino.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 1. 5 (R. 39. 102 3 ). —"
+            },
+            {
+              "texto_cita": "«Si cortesías engendran cortesía, la vuestra, señor caballero, es hija ó parienta muy cercana de las del gran Roque.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 61 (R. 1. 534 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fue comendador de Segura, que es cercana á la tierra de los moros.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar . var . 13 (90)."
+        },
+        {
+          "texto_cita": "«Entrando una vez en el reyno de Granada --- á una tierra que dicen el Exerquia que es cercana á la mar ---»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 5 (47)."
+        },
+        {
+          "texto_cita": "«E algunos querian que los infantes estuviesen en la corte, é muy cercanos del rey.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 13. 10 (R. 68. 380 1 )"
+        },
+        {
+          "texto_cita": "«Pusieron fuego los de la villa de Atienza á algunas casas de los arrabales que mas cercanas estaban del muro de la villa.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 63 (164)."
+        },
+        {
+          "texto_cita": "«Don Álvaro de Luna ya venia muy loado de todos, é presciado, é muy cercano á la persona del rey.»",
+          "autor": "",
+          "referencia_obra": "Ib . 12 (40)."
+        },
+        {
+          "texto_cita": "«Si dixieres por ventura | Que la humana | Muerte non sea cercana ---»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 67."
+        },
+        {
+          "texto_cita": "«Madre del primer amor, | E de Júpiter çercana.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 338."
+        },
+        {
+          "texto_cita": "«Otro tiempo fue descendido de nuestro linaje et abolorio et de alli es á nosotras pariente muy cercano.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 7 (R. 36. 349 2 )."
+        },
+        {
+          "texto_cita": "«E vieron cómo eran muy cercanos del monte.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 2 (R. 36. 346 1 )."
+        },
+        {
+          "texto_cita": "«Antigua vsança demuestra a los que tal ofiçio siruen, perrogatiua de posar muy çercanos al palacio del rrey.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 12 (87)."
+        },
+        {
+          "texto_cita": "«E bivo çercano de desperaçion.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 319. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Et sy tales parientes y non ouier, puedalo fazer el mas çercano pariente que y ouier del muerto fasta segundos fijos de primos.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Alcalá , año 1348 ( C. de L. y C . 1. 560)."
+        },
+        {
+          "texto_cita": "«Avia muchos moros que eran muy vecinos é cercanos de aquella ciudad.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 2 (R. 66. 4 2 )."
+        },
+        {
+          "texto_cita": "«Que paguen la costa a los otros tres alcalles mas cercanos.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Burgos , año 1315 ( C. de L. y C . 1. 260). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Non deben casar con mujeres muy cercanas en parentesco.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 80 (R. 51. 212 1 )."
+        },
+        {
+          "texto_cita": "«Et si hermano non hobiere, nombrando el pariente mas cercano.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 18. 2 (2. 548)."
+        },
+        {
+          "texto_cita": "«Et non los llaman nin les dicen de llano [á esos yerros] sacrilegios, mas son yerros muy cercanos et semejantes dellos.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 18. 11 (1. 445)."
+        },
+        {
+          "texto_cita": "«E develo tomar de la viella mas cercana.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 3. 2. 7 (83)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. cerçao . Derivado de cerca; el sufijo es el mismo que en lejano , yusano , susano , soberano , castellano , romano . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

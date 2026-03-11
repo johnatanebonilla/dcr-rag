@@ -1,0 +1,291 @@
+{
+  "lema": "DESTINO",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "-->s. m.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Serie de acontecimientos de tal manera eslabonados que conducen al hombre á un término que no ha procurado ó previsto.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Será bien que digamos quién era Hernán Cortés, y por cuántos rodeos vino a ser de su valor y de su entendimiento aquella grande obra de la conquista de Nueva España, que puso en sus manos la felicidad de su destino: llamamos destino, hablando cristianamente, aquella soberana y altísima disposición de la primera causa, que deja obrar á las segundas como dependientes suyas y medianeras de la naturaleza, en orden á que suceda con la elección del hombre lo que permite ó lo que ordena Dios.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 1. 9 (R. 28. 216 2 )."
+        },
+        {
+          "texto_cita": "«El cielo aun hasta ahora no ha querido que yo ame por destino; y el pensar que tengo de amar por elección, es excusado.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 14 (R. 1. 282 2 )."
+        },
+        {
+          "texto_cita": "«No | Fue elección síno, violento | Destino que le arrastró.»",
+          "autor": "Mto.",
+          "referencia_obra": "Antíoco y Seleuco , 3. 4 (R. 39. 51 3 )."
+        },
+        {
+          "texto_cita": "«Que yo, sin más camino Que el que me dan las leyes del destino, | Ciega y desesperada | Bajaré la aspereza enmarañada | Deste monte eminente.»",
+          "autor": "Cald.",
+          "referencia_obra": "La vida es sueño , 1. 1 (R. 7. 1 1 )."
+        },
+        {
+          "texto_cita": "«No, donosa; nada temas | De un corazón que sencillo | Te idolatra y es tu esclavo | Por elección y destino.»",
+          "autor": "",
+          "referencia_obra": "Mel rom . 26 (R. 63. 145 2 )."
+        },
+        {
+          "texto_cita": "«Oye, Guzmán: las leyes del destino | Esta prenda infeliz de tus amores | A mi venganza dieron.»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes . A Guzmán el Bueno (R. 19. 13 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "A menudo se toma en sentido fatalista, correspondiendo al liado ( fatum , μοιρα ,",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "ειμαρμενη)",
+          "definicion": "de los antiguos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para ellos | [para los trágicos de Atenas] el hombre era un ser puramente fisiológico, dirigido invenciblemente por el destino.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 2, p. 38."
+            },
+            {
+              "texto_cita": "«Conoce [Edipo] que se ha realizado el fatal oráculo,y sale de la escena pronunciando estas tremendas palabras: Cumplióse mi destino: ya te he visto, oh sol, por la postrera vez!»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Anot. á la Poét . 5. 15 (1. 237)."
+            },
+            {
+              "texto_cita": "«Víctima infausta del fatal destino, | Inquieto Edipo ante su pueblo busca | De su postrer monarca al asesino.»",
+              "autor": "",
+              "referencia_obra": "Id. Poét . 5 (1. 113)."
+            },
+            {
+              "texto_cita": "«Mas hoy de oscura muerte mi destino | Dispuso que perezca, por las aguas | De un gran río cercado.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada .21 (2.296)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Personificado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No da con fácil mano | El Destino á los héroes y naciones | Gloria y poder.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes . Trafalgar (R. 19. 17 1 )."
+            },
+            {
+              "texto_cita": "«No simpatizo con esa escuela histórica fatalista, que ha vuelto á presentar sobre el mundo el Destino de los antiguos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 13 (1. 193)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el pasaje siguiente se toma por Providencia ó disposición divina:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues desde el sacro asiento | Del cielo do tu espíritu divino | Reside, el firmamento | Gobiernas, y camino | Das sólo á lo que quiere tu destino.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 3, salmo 113 (Merino, 6. 413)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Suerte, circunstancia de ser favorable ó adverso el término a que conducen los acontecimientos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Puso al trabajo el animoso pecho, | Y el diestro hado y próspero destino | En Chile le metieron, á despecho | De cuantos estorbarlo procuraron.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 1 (R. 17. 6 2 )."
+        },
+        {
+          "texto_cita": "«Cada cual se fabrica su destino.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Numancia , 1 (Arrieta, 10. 8)."
+        },
+        {
+          "texto_cita": "«Llamado Roger de su fatal destino, ni advirtió su peligro, ni advertido lo temió.»",
+          "autor": "Moncada",
+          "referencia_obra": ", Exped . 27 (R. 21. 25 1 )."
+        },
+        {
+          "texto_cita": "«Mas ¡oh destino lamentable! Parece que la estrella de Luis XVI le condenaba á desear el bien y a ser víctima de pasiones ajenas.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp. del siglo , 2. 8 (5. 77)."
+        },
+        {
+          "texto_cita": "«Loé sus dignos | Esfuerzos, y con voz quizá atrevida | Predije de su patria los destinos.»",
+          "autor": "Jovell.",
+          "referencia_obra": "epíst. á Poncio (R. 46. 49 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Empleo ú objeto á que se destina ó aplica algo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni uno ni otro fabricante sabe el destino que el comerciante debe dar á sus paños.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Diet. sobre embarque de paños (R. 50. 73 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con genitivo objetivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué se podrá juzgar de tantas leyes y ordenanzas municipales como han oprimido la libertad de los propietarios y colonos en el uso y destino de sus tierras?»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria , 1ª. clase (R. 50. 93 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar el objeto ó empleo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sumo pontífice Pío VII concedió á vuestro augusto padre, con destino á las necesidades del estado, el producto de las ventas de bienes de obras pías y séptimas partes de los bienes eclesiásficos.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", Expos. á Fern. VII ( Ochoa , Apuntes , 1. 209)."
+            },
+            {
+              "texto_cita": "«El carácter peculiar de la oda ó poesía lírica le viene de su destino á ser cantada y acompañada con la música.»",
+              "autor": "",
+              "referencia_obra": "Joyell Human. castell . Poét . (R. 46. 141 2 )."
+            },
+            {
+              "texto_cita": "«El destino de mayor parte de tiempo al sueño, á la comida y al, descanso---»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. sobre espect . 2 (R.16. 493 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Empleo ú ocupacion que se da á una persona.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los oficialés destinados á las cajas particulares estarán á las órdenes y se corresponderán con el oficial que yo eligiere para cada caja general. Unos y otros se hallarán en sus destinos al tiempo conveniente.»",
+          "autor": "",
+          "referencia_obra": "Nov . Recop . 6. 6. 14 (2. 423)."
+        },
+        {
+          "texto_cita": "«Lo mismo se practique con los que se hallaren sin destino al tiempo de la publicación de este decreto, por haber cumplido el de sus respectivos empleos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 7. 11. 29 (3. 71)."
+        },
+        {
+          "texto_cita": "«A fin de proporcionar á los corregidores y alcaldes mayores la seguridad en la continuación de sus destinos, cuando no se hagan desmerecedores por su conducta ---»",
+          "autor": "",
+          "referencia_obra": "Ib. 7. 11. 30 (3. 73)."
+        },
+        {
+          "texto_cita": "«Es hombre de mucho proyecho y que á pura copla ha sabido calzarse un destino útil y descansado.»",
+          "autor": "",
+          "referencia_obra": "Miñano, Cart. del pobr. holg . 4."
+        },
+        {
+          "texto_cita": "«Vuestra Majestad mismo, siendo Príncipe de Asturias, aplaudió sin duda como el mundo entero, uno de los primeros y más célebres decretos del régimen consular de Francia, que permitió el libre regreso de cuantos voluntaríamente hubiesen huído de la revolución, ó sitio por ella lanzados del suelo francés, con devolución de sus bienes no vendidos y habilitación para obtener toda clase de destinos, que muy luégo obtuivieron hasta en el palacio imperial.»",
+          "autor": "J. Burgos",
+          "referencia_obra": ", Expos. á Fern. VII ( Ochoa , Apuntes , 1. 208)."
+        },
+        {
+          "texto_cita": "«Dejó de escribir y solicitó salir de Madrid, obteniendo varios destinos en la recaudación de las rentas, en la cual se portó con tal probidad, que ---»",
+          "autor": "Gil y Zárate",
+          "referencia_obra": ", Resum. histor . p. 484."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Paraje ó lugar adonde va ó se envía algo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El capitán ó maestre que por urgente necesidad y beneficio común de toda la carga se viere precisado á hacer echazón al mar de algunas mercaderías para alijar el navío, será pagado de los fletes correspondientes á las así echadas, como si las hubiera conducido al puerto de su destino.»",
+              "autor": "Orden. de Bilbao",
+              "referencia_obra": ", 18. 20."
+            },
+            {
+              "texto_cita": "«Dírigimos también este pliego abierto al capitán general para que, después de enterarse de su contenido, se sirviese encaminarle á su destino.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 2. 2 (R. 46. 564 1 )."
+            },
+            {
+              "texto_cita": "«No hallamos otro [arbitrio] que el de avisar á tu amo --- Apenas partió la carta á su destino, cata el coche de colleras ---»",
+              "autor": "Mor.",
+              "referencia_obra": "El sí de las niñas , 1. 8 (R. 2. 424 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Debía dar la vela en la próxima madrugada el con destino á la Habana un buque correo.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 233."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con para .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fletado un navío con destino para uno ó más puertos que señalaren en la carta del fletamento ---»",
+              "autor": "",
+              "referencia_obra": "Orden . de Bilbao , 18. 12."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de destinar . Port., it. destino ; prov. desti . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

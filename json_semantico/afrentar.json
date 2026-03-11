@@ -1,0 +1,336 @@
+{
+  "lema": "AFRENTAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Causar afrenta ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No afrentan las heridas con los instrumentos que acaso se hallan en las manos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 15 (R. 1. 284 2 ."
+            },
+            {
+              "texto_cita": "«Hallo según las leyes del duelo que estáis engañados en teneros por afrentados, porque ningún particular puede afrentar á un pueblo entero.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 27 (R. 1. 463 1 )."
+            },
+            {
+              "texto_cita": "«¿Parécete bien deshonrar y afrentar á una dueña tan veneranda y tan digna de respeto como aquélla?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 31 (R. 1. 469 2 )."
+            },
+            {
+              "texto_cita": "«Si acaso viniere á verte cuando estés en tu ínsula alguno de tus parientes, no le deseches ni le afrentes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 42 (R. 1. 492 1 )."
+            },
+            {
+              "texto_cita": "«Estaba muy malquista en todo mi monasterio porque quería hacer monasterio más encerrado: decían que las afrentaba, que allí podía también servir á Dios.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 33 (R. 53. 100 2 )."
+            },
+            {
+              "texto_cita": "«Afrentó una legión entera que tenía la mayor culpa del daño, con quitalle el sobrenombre de Augusta que antes le daban.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 3. 24 (R. 30. 86 2 )."
+            },
+            {
+              "texto_cita": "«Quien afrenta ó consiente que afrenten á su enemigo difunto, miserablemente se confiesa dichoso y infamemente cobarde, pues ni pudo vencer su vida valiente, ni su muerte disimulado.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 155 2 )."
+            },
+            {
+              "texto_cita": "«Hablar mal de los ausentes | Afrenta los hombres graves.»",
+              "autor": "Lope",
+              "referencia_obra": ", El premio del bien hablar , 1. 2 (R. 24. 494 1 )."
+            },
+            {
+              "texto_cita": "«Yo he leído de un marido | A quien un grande afrentó, | Que en secreto se vengó.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El celoso prudente , 3. 6 (R. 5. 627 3 )."
+            },
+            {
+              "texto_cita": "«Al que está sin armas | No le afrenta, aunque le irrita | La injuria, porque le falta | El brazo que la resista.»",
+              "autor": "Mto.",
+              "referencia_obra": "El valiente justiciero , 2. 4 (R. 39. 339 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las mujeres, los niños y los eclesiásticos, como no pueden defenderse, aunque sean ofendidos, no pueden ser afrentados.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 51 (R. 1. 397 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo quedé suspenso, Anselmo atónito, el padre triste sus parientes afrentados.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 51 (R. 1. 397 1 )."
+            },
+            {
+              "texto_cita": "«Nobleza es, dijo, grande de reino aquesta--- adonde ningún vasallo es ni vil en linaje ni afrentado por condición.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Rey (R. 37. 129 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, Causar afrenta de palabra, denotar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los seguí con los ojos y con las voces afrentándoles, como si ellos fuesen capaces de sentir afrentas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2. 13 (R. 1. 608 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todas [las esclavas] delante mí fueron llamadas, | Y por cierto descuido no muy grande | Con ásperas palabras afrentadas.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "sát. á Flora (R. 42. 270 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Acarrear afrenta ó deshonra ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Castigad ingratitudes | De quien vuestro sexo afrenta.»",
+          "autor": "Tirso",
+          "referencia_obra": ", Celos con celos se curan , 2. 10 (R. 5. 372 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Vencer, sobrepujar, dejar deslucido ( trans .). ( poéti. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las rosas entre perlas y cristales | Pegáronse á los labios tan hermosas | Que afrentaban claveles y corales.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rimas de Burg. son . 75 ( Obr. suelt. 19. 75)."
+            },
+            {
+              "texto_cita": "«Labra Artemisa el grande mausoleo | Que los altos pirámides afrenta | Del egipcio soberbio.»",
+              "autor": "Arguijo",
+              "referencia_obra": ", son . 21 (R. 32. 394 2 )."
+            },
+            {
+              "texto_cita": "«Beldad que de un ángel es, | Luz que la del sol afrenta.»",
+              "autor": "Cald.",
+              "referencia_obra": "Judas Macabeo , 3. 4 (R. 7. 323 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién á mí me ha asegurado | Ser el sol resplandeciente | Que esas bellezas afrente?»",
+              "autor": "",
+              "referencia_obra": "Id. Hombre pobre todo es trazas , 1. 4 (R. 7. 505 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Como en este caso hay personificación, el acus. , aunque sea nombre de cosa, va de ordinario con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se ven artificiosos antepechos | De blancas piedras que al cristal afrentan.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 9 (R. 17. 604 2 )."
+            },
+            {
+              "texto_cita": "«Batiendo en ligero vuelo | La pluma que al oro afrenta, | Bajó un serafín del cielo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", A Sta. Ter . (R. 35. 339 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué luz es esta, | Que á la luz del sol | Sus rayos afrentan?»",
+              "autor": "Tirso",
+              "referencia_obra": ", El condenado por desconfiado . 3. 18 (R. 5. 201 3 )."
+            },
+            {
+              "texto_cita": "«Miré otros soles divinos | Que al sol del cielo afrentaron.»",
+              "autor": "",
+              "referencia_obra": "Id. Los amantes de Teruel, 1 (R. 5. 693 2 )."
+            },
+            {
+              "texto_cita": "«Señora, | Dáme esa cinta pendiente | De tu cuello, porque afrente | Al iris que el cielo dora.»",
+              "autor": "Cald.",
+              "referencia_obra": "El astrólogo fingido , 3. 1 (R. 7. 586 2 )."
+            },
+            {
+              "texto_cita": "«No con vivos colores | Afrentando á la rosa, | Sino pálida, triste y pesarosa.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", canc . 2 (R. 67. 80 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Refl . Avergonzarse, sonrojarse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pidióles consejo qué modo tendría para descubrirse, ó para conocer primero si, después de descubierto, su hermano por verle pobre se enfrentaría, ó le recebiría con buenas entrañas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 42 (R. 1. 375 1 )."
+            },
+            {
+              "texto_cita": "«Los unos y los otros se afrentaron, | Y los ánimos y armas se tentaron.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 18 (R. 17. 69 1 )."
+            },
+            {
+              "texto_cita": "«¿Cómo no se afrentan los que reconocen á este Señor por Criador, y Redentor, y Glorificador, viendo cuán poco hacen por Señor á quien tanto deben?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 3. 3, § 12 (R. 8. 200 1 )."
+            },
+            {
+              "texto_cita": "«Preciándote de cristiano, mucho te debes correr y afrentar hallando en ti algún amor de las vanidades que buscan los infieles.»",
+              "autor": "Estella",
+              "referencia_obra": ", Vanidad del mundo , 1. 3 ( Míst . 4. 5)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar la causa de la vergüenza.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No son tan bajos que puedan afrentarse de su estado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 28 (R. 1. 325 2 )."
+            },
+            {
+              "texto_cita": "«Teme que el padre rico | Se afrente de mi humilde medianía.»",
+              "autor": "",
+              "referencia_obra": "Id. Pedro de Urdemalas, 1 ( Com. 2. 250)."
+            },
+            {
+              "texto_cita": "«Afréntanse de su nación, duélense por no haber nacido alemanas ó inglesas.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 13 (R. 37. 235 1 ). Con un infin."
+            },
+            {
+              "texto_cita": "«No os afrentéis, Ricaredo, de llorar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 4 (R. 1. 148 1 )."
+            },
+            {
+              "texto_cita": "«Se afrentaba después mi alma de ver que pueda parar en niguna cosa criada.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 39 (R. 53. 123 1 )."
+            },
+            {
+              "texto_cita": "«¿Cuál cristiano no se afrentará de no llegar adonde un filósofo gentil llegó?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 3 (R. 6. 22 1 )."
+            },
+            {
+              "texto_cita": "«El que se afrentare de parecer mi discípulo delante de los hombres, el Hijo de la Virgen se afrentará de reconocerlo por suyo.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid . 1, miérc. por la mañ. (R. 8. 73 1 )."
+            },
+            {
+              "texto_cita": "«¿Cómo no se afrentan de hacer tantas expensas para agradar á sus ojos?»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 13, § 1. (R. 8. 545 1 )."
+            },
+            {
+              "texto_cita": "«Hubo pendencia entre ellos sobre afrentarse los unos de ir con los otros.»",
+              "autor": "Quev.",
+              "referencia_obra": "Sueño (R. 23. 299 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No tenéis para qué os afrentar de que sea yo ruin, pues tenéis tan buena madre.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 3. 1 (R. 53. 442 2 )."
+            },
+            {
+              "texto_cita": "«Decidle que bien pudiera | Tener papel; mas afrento | De que papeles me pida.»",
+              "autor": "Lope",
+              "referencia_obra": ", La estrella de Sevilla, 3. 6 (R. 24. 149 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en, como si se dijese Ver ó hallar afrenta en alguna cosa (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No te afrentes en servir por amor de Jesucristo y parecer bajo en este siglo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Imit. 1. 7 (R. 11. 384 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Véase AFRONTAR.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Véase AFRONTAR. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

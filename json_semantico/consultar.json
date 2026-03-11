@@ -1,0 +1,897 @@
+{
+  "lema": "CONSULTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratar y discurrir varias personas lo que se debe hacer en un negocio.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El galán y el padre honrado | Salen luégo consultando.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Comedia Serafina , argum . (1. 139)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con sobre , para expresar el objeto acerca del cual se confiere.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las plazas estaban los tribunales y asientos de los jueces, y de los que se juntaban para consultar sobre el buen gobierno y regimiento del pueblo.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 13 (3. 494)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas de otras aves no faltó ninguna, | Sino las que el derecho hizo excusadas, | A consultar de su común fortuna.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pien so pedir (R. 42. 316 1 )."
+            },
+            {
+              "texto_cita": "«Allí trataron de sus haciendas y consultaron de ir á la mano al rey en sus desatinos y temerarios intentos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Es p. 16. 18 (R. 30. 489 1 )."
+            },
+            {
+              "texto_cita": "«En Valladolid se consultó de hacerle volver por fuerza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 18 (R. 30. 487 2 )."
+            },
+            {
+              "texto_cita": "«Se suele hacer ansí en las cortes de los reyes, cuando de algo se consulta.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 1 (1. 10)."
+            },
+            {
+              "texto_cita": "«Con esto tuvieron lugar los amigos del César de llevarle á su tienda, donde se consultó del remedio»",
+              "autor": "Coloma",
+              "referencia_obra": ", Tác. An . 1. 36 (1. 31)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans . Siendo acus. el asunto sobre el cual se delibera.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para consultar esta dificultad y la resolución que debía escogerse, juntó Verdugo á consejo las cabezas del ejército.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 6 (R. 28. 84 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando consultaban si sería bien hacer alguna cosa ó no, seguían con mucha paz y concordia todos lo que parecía á la mayor parte.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de S. Ign . 2. 7 (R. 60. 43 1 )."
+            },
+            {
+              "texto_cita": "«Consultóse cómo el rey habría en su poder al niño don Nuño de Lara.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 16. 16 (R. 30. 484 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después tornó á poner en esto duda el papa, y mandar que de nuevo se consultase. Consultóse, y resolvióse toda la congregación en lo mismo que antes había determinado.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida del P. Laínez , 2. 14 (R. 60. 152 2 )."
+            },
+            {
+              "texto_cita": "«Allí [en los Consejos] se consultan todos los negocios de justicia y gracia tocantes á cada uno de los reinos o provincias.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 57 (R. 25. 154 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandóles que callasen, y que él consultaría lo que se debía hacer, y que consultado, lo ejecutaría.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 21 (R. 21. 21 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Pedir parecer, dictamen ó consejo. A este sentido se reducen los casos en que figura como suj. una de las personas que intervienen en la consulta; pero la partícula que se emplea para señalar la otra persona, se presta á una diferencia notable. Con , que denota participación, da á entender que la persona que pide parecer delibera junto con la otra ú otras para llegar á una determinación, y de aquí proviene que en el sentido esta construcción se allega bastante á la precedente; á sugiere que el consultante se remite al parecer ajeno: El rey consulta con sus ministros; el penitente consulta algo á su confesor.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No queda defraudada la gloria del príncipe que supo consultar y eligir.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 55 (R. 25. 148 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo tengo acá con quien consultar sin que peligre el secreto.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 236 2 )."
+            },
+            {
+              "texto_cita": "«Si yo hubiese consultado | Con él, no me sucediera | Este chasco.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña , 3. 4. (R. 2. 351 1 )."
+            },
+            {
+              "texto_cita": "«Si continúa con tanta flaqueza la pobre baronesilla, antes de ponerla en manos de los médicos de ahí, no deje usted de consultar con el de Bayona.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. póst . 3, p. 72."
+            },
+            {
+              "texto_cita": "«Pídete el rey Dionís con amor nuevo, | Consúltase conmigo, yo lo apruebo.»",
+              "autor": "Rojas",
+              "referencia_obra": ", S. Isabel , reina de Portugal , 2 (R. 54. 261 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejando [Saúl] los verdaderos profetas, mandó buscar una endemoniada para consultar sus negocios.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Conserv. de monarq . 3 (R. 25. 461 1 ). —"
+            },
+            {
+              "texto_cita": "«Ruégote consultes al presente qué es lo que dice el Señor.»",
+              "autor": "Scío",
+              "referencia_obra": ", Paralip . 2. 18. 4."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Del mismo parecer fueron todos los otros con quien el rey por espacio casi de un año secretamente lo consultó.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 5 (R. 60. 191 1 )."
+            },
+            {
+              "texto_cita": "«Volvióle á decir que tornase á consultar con Dios este negocio.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 27 ( Míst . 1. 227)."
+            },
+            {
+              "texto_cita": "«En la [comisión] que tuvo Hazael del rey de Siria Benadad, para consultar su enfermedad con el profeta Eliseo, ni mudó las palabras, ni aun se atrevió a ponellas en tercera persona.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 30 (R. 25. 81 1 )."
+            },
+            {
+              "texto_cita": "«Suelen los príncipes pagarse tanto de un consejero, que consultan con él todos los negocios, aunque no sean de su profesión.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 55 (R. 25. 147 1 )."
+            },
+            {
+              "texto_cita": "«No se apartaban de la presencia del rey Asuero sus consejeros, con los cuales lo consultaba todo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 55 (R. 25. 147 2 )."
+            },
+            {
+              "texto_cita": "«Escríbesme que César consulta sus cosas contigo.»",
+              "autor": "P. S. Abril",
+              "referencia_obra": ", Cic. epíst . 7. 11 (2. 309)."
+            },
+            {
+              "texto_cita": "«Se resolvió sin consultallo con nadie, de acometer á un fuerte cercano de San Juan Estién.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 6 (R. 28. 79 2 )."
+            },
+            {
+              "texto_cita": "«Le amo | Y venero de manera, | Que de no haber consultado | Mi matrimonio con él | Me resulta un grave cargo,»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El filósofo casado , 1. 2 (5. 8)."
+            },
+            {
+              "texto_cita": "«Anarda la bella | Tenía un amigo | Con quien consultaba | Todos sus caprichos.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 9. 6 (R. 61. 389 1 )."
+            },
+            {
+              "texto_cita": "«Si se juzgare indispensable reformar del todo alguno de los puntos principales del sistema literario que dejamos establecido, en este caso deberá el rector consultarlo con la Junta.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 2. 5 (R. 46. 218 1 )."
+            },
+            {
+              "texto_cita": "«Para este fin acudió al obispo Quevedo, con quien Pedrarias, según la instrucción que se le había dado, tenía que consultar sus providencias.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 295 1 )."
+            },
+            {
+              "texto_cita": "«Debió, antes de entablar negociación alguna sobre un asunto tan grave, consultarlo con el rey.»",
+              "autor": "",
+              "referencia_obra": "Id. D . Álv. de Luna (R. 19. 419 2 )."
+            },
+            {
+              "texto_cita": "«Sus ansias vino á consultar contigo.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. A Cienf . (R. 19. 31 2 ). —"
+            },
+            {
+              "texto_cita": "«Al principio, de la guerra civil consulté contigo por carta qué te parecía que hiciese.»",
+              "autor": "P. S. Abril",
+              "referencia_obra": ", Cic. epíst. 11. 28 (3. 411)."
+            },
+            {
+              "texto_cita": "«Mujer | Le quiero á Enrique buscar; | Y porque sin vos no es bien, | Quiero consultar con vos | Quién será.»",
+              "autor": "Lope",
+              "referencia_obra": ", Lo cierto por lo dudoso , 2. 14 (R. 24. 465 2 ). —"
+            },
+            {
+              "texto_cita": "«Estando el pastor consultando consigo mismo el consejo que tomaría, vio venir hacia sí una ninfa.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 5 (181)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ha dado en ser hechicero, | Y sus hazañas consulta | Al demonio.»",
+              "autor": "Lope",
+              "referencia_obra": ", El cardenal de Belén , 2 (R. 41. 596 2 )."
+            },
+            {
+              "texto_cita": "«Estuvo el maestro el tiempo que duró este razonamiento de la marquesa, si bien atento á sus palabras, mucho más á las de Dios nuestro Señor, á quien interiormente consultaba la respuesta de ellas.»",
+              "autor": "León",
+              "referencia_obra": ", 3. 4 (124)."
+            },
+            {
+              "texto_cita": "«Si os conviene, consultad | Mi deseo á vuestro padre.»",
+              "autor": "Mto.",
+              "referencia_obra": "El parecido en la corte , 3. 7 (R. 39. 327 1 ). — Este dat. es convertible en dat. pron."
+            },
+            {
+              "texto_cita": "«Dínos, reina, tus enojos, | Consúltanos tus pesares.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Santa Isabel , reina de Portugal , 3 (R. 54. 264 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Por analogía con aconsejarse se ha dicho consultarse con alguno .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Más acierta un príncipe ignorante que se consulta, que un entendido obstinado en sus opiniones.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 55 (R. 25. 147 2 ). —"
+            },
+            {
+              "texto_cita": "«Se consultan más con los astrólogos que con sus consejeros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4 (R. 25. 19 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Se usa también como acus. la persona cuyo parecer, dictamen ó consejo se pide ( cp. abajo, e,",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "γ )",
+          "definicion": ".",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por sabio y capaz que sea el príncipe, no sólo no lo ha de fiar todo de sí, pero ni ha de dar un paso sin consultar sus consejeros.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist . 2. 18 (272; Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«Reconoce la obligación que tenían nuestros reyes de llamar y consultar las cortes para establecer nuevas leyes, y corregir, mudar ó alterar las antiguas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 1. 1 (R. 46. 521 1 )."
+            },
+            {
+              "texto_cita": "«Les dio por respuesta que los repartimientos estaban fundados en la autoridad dada á los reyes de Castilla por la Santa Sede, y en el dictimen de muchos sabios teólogos y juristas á quienes se había consultado para ello.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 439 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los grandes de Francia que presentes se hallaron, con su acostumbrada nobleza todos muy de corazón y voluntad, consultados, respondieron que se debía dar el socorro que aquel rey su aliado y amigo pedía.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Es p. 18. 10 (R. 31. 17 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sobre , para expresar la materia de la consulta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí entra la mujer de Jeroboam á consultarte sobre su hijo, que está enfermo.»",
+              "autor": "Scío",
+              "referencia_obra": ", Reyes , 3. 14. 5."
+            },
+            {
+              "texto_cita": "«Héctor, de los caudillos rodeado | Que asisten al consejo, y del bullicio | Distante de la tropa, hacia el sepulcro | Del antiguo rey Ito les consulta | Sobre lo que ha de hacer.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 10 (1. 300)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sobre las calidades que había de tener un soldado para merecer una corona de encina fue consultado el emperador Tiberio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 23 (R. 25. 63 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La mansedumbre de este Cordero salvó á la mujer adúltera, que la ley condenaba: y cuando se la puso en su presencia la malicia de los fariseos, y le consultó de la pena, no parece que le cupo en la boca palabra de muerte.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Cordero (3. 396)."
+            },
+            {
+              "texto_cita": "«Quince días esperó el duque de Nemurs á ver si Auristela mejoraba, y en todos ellos no hubo ninguno que á los médicos no consultase de la salud de Auristela.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 4. 9 (R. 1. 673 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar aquello á que pertenece el punto sobre el cual se pide parecer.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Del emperador Alejandro Severo refiere Lampridio que á cada uno consultaba en las materias en que, conforme á su profesión, se suponía estar práctico.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Conserv. de monarq . 1 (R. 25. 458 2 )."
+            },
+            {
+              "texto_cita": "«Consultábale sobre mis trabajos; él me consultaba en los suyos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 206. —"
+            },
+            {
+              "texto_cita": "«Consultar las voluntades | Del pueblo en las novedades | Es el modo de acertallas.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El dueño de las estrellas , 3. 8 (R. 20. 279 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "En especial, Inquirir la voluntad ó disposición divina, ya en espíritu y en verdad, conforme á la verdadera religión, ya por medio de prácticas supersticiosas ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La causa del yerro señala la Escritura, diciendo que ésta fue haberse guiado por su proprio parecer, sin haber consultado á nuestro Señor.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv. , 3, § 11 (R. 11. 468 1 )."
+            },
+            {
+              "texto_cita": "«Este personaje es Egeo, rey de Atenas, viejo venerable, que viene de consultar el oráculo de Apolo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 3, p. 131."
+            },
+            {
+              "texto_cita": "«Edipo habla con el pueblo sobre la causa de sus males, y le anuncia que ha enviado á Delfos á consultar el oráculo.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , advert . (3. 241)."
+            },
+            {
+              "texto_cita": "«Preguntó á los ídolos, las entrañas consultó.»",
+              "autor": "Scío",
+              "referencia_obra": ", Ezeq . 21. 21."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consultado el oráculo de Delfos, para excusar diferencias, á quién tocaba, respondió que al más sabio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep. lit . (R. 25 . 399 1 )."
+            },
+            {
+              "texto_cita": "«Corrí impaciente hasta llegar á Delfos. | --- Por tres veces | Consultado el oráculo tremendo, | Enmudeció.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , 4. 2 (3. 276). — En el siguiente pasaje la construcción es imitada de la correspondiente de preguntar :"
+            },
+            {
+              "texto_cita": "«Consultado el oráculo de Delfos por los atenienses cómo se podrían defender de Jerjes --- respondió que fortificasen su ciudad con murallas de leño.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 25 (R. 25. 68 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sobre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí el monarca | Su curso encaminaba, con la idea | De consultar al numen sobre el medio | De vencer á la Esfinge.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , 3. 2 (3. 271)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Dícese de los objetos materiales ó inmateriales que pueden darnos luz y guiarnos, ó que debemos tener en cuenta al obrar. Mediante una nueva metáfora, se emplea como suj. un nombre de cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans . Con con y el nombre de aquello en que se busca luz ó dirección.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por qué consultas, díme, | Con las estrellas, Fabio, | Y vas en sus mansiones | Tu horóscopo buscando?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Poes. A un supersticioso (R. 46. 10 1 ). —"
+            },
+            {
+              "texto_cita": "«Ya no volvió [el capricho en las artes] á consultar con la naturaleza ni con la razón, sino que huyó de entrambas para seguir libremente sus ilusiones.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de V. Rodr. nota 11 (R. 46. 383 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . á semejanza de aconsejarse .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asentó treguas con él, remitiendo la venganza para cuando las cosas de su reino estuviesen quietas, en que se consultó más con el bien público que con su ira particular.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 8 (R. 25. 28 1 )."
+            },
+            {
+              "texto_cita": "«Y porque --- ni adulan [los libros], ni callan, ni disimulan la verdad, consúltese [el príncipe] con ellos, notando los descuidos y culpas de los antepasados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 28 (R. 25. 74 2 )."
+            },
+            {
+              "texto_cita": "«Que sepa contemporizar --- y consultarse con el tiempo y la necesidad si conviniere así á la conservación de su estado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 32 (R. 25. 84 2 )."
+            },
+            {
+              "texto_cita": "«Por su profusa largueza perdió la corona el rey don Alonso el Sabio --- consultándose más con la vanidad que con la prudencia.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 40 (R. 25. 103 1 ). —"
+            },
+            {
+              "texto_cita": "«Por necesarias las juzgo [las orejas] en los príncipes, como estén bien advertidas y se consulten con la prudencia, sin dejarse llevar de las primeras impresiones.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 8 (R. 25. 27 1 )."
+            },
+            {
+              "texto_cita": "«No se consultan con la razón las sospechas, ni el recelo se detiene á ponderar las cosas.»",
+              "autor": "Part.",
+              "referencia_obra": "dep ."
+            },
+            {
+              "texto_cita": "«No hay estado tan destituído de la fortuna, que no le pueda conservar y aumentar el valor, consultada la prudencia con los accidentes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 36 (R. 25. 93 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans . Siendo acus. la cosa para que se busca luz ó dirección.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como consulta la dama | Con el espejo su tez, | ¿No consultará una vez | Con la honestidad su fama?»",
+              "autor": "Góng.",
+              "referencia_obra": "déc. Ya de mi dulce instrumento (R. 32. 484 3 )."
+            },
+            {
+              "texto_cita": "«En su inocencia pura | Con la vecina fuente | Sus adornos consulta y su hermosura.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poét . 4 (1. 106). —"
+            },
+            {
+              "texto_cita": "«Algo me encogí, temiendo aquel rigor en mis Empresas políticas , aunque las había consultado con la piedad y con la razón y justicia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep. lit . (R. 25. 395 2 )."
+            },
+            {
+              "texto_cita": "«Consultad con la honra y la obligación mi discurso, que yo fío de vuestro valor que no le faltará voto.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 144 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A consultar comienza al pensamiento | Un grande y varonil atrevimiento.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél . 8 ( Obr. suelt . 2. 118)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans . Siendo acus. el objeto en que se busca luz ó que se tiene en cuenta al obrar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sabe consultar el espejo en cualquiera ocasión, mirarse en él con cuidado.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 12 (3. 488)."
+            },
+            {
+              "texto_cita": "«Ponerme quiero menos largas tocas; | Consultaré el espejo.»",
+              "autor": "Lope",
+              "referencia_obra": ", La discreta enamorada , 2. 16 (R. 7. 169 1 )."
+            },
+            {
+              "texto_cita": "«Puede ser que haya dicho algo que no convenga con la historia de aquellos tiempos, ó que ella desmienta, porque no tengo á la mano libros que consultar.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada , (R. 50. 219 1 ). —"
+            },
+            {
+              "texto_cita": "«Si cumplirlo creíste, tu flaqueza | Consultaste tan sólo, no mi aliento.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La viuda de Padilla , 4. 4 (3. 67)."
+            },
+            {
+              "texto_cita": "«Si igual hado teméis, consultad antes | Cien veces y otras cien las propias fuerzas.»",
+              "autor": "",
+              "referencia_obra": "Id. Poét . 1 (1. 95)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "La personificación hace admisible el uso de á con el acus. Véase la prep. A, 9, e. Nótese, con todo que aquí como arriba (c) puede alguna vez haber confusión de dos construcciones:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consultar el plan á su amigo»",
+              "autor": "",
+              "referencia_obra": "( dat. ) y"
+            },
+            {
+              "texto_cita": "«Consultar á su amigo»",
+              "autor": "",
+              "referencia_obra": "( acus. ); de suerte que en"
+            },
+            {
+              "texto_cita": "«Quiere consultarles sobre el plan,»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Debemos siempre consultar al oído,»",
+              "autor": "",
+              "referencia_obra": "bien pueden el pron. y el compl. con á ser dativos."
+            },
+            {
+              "texto_cita": "«Otras [veces], se han de colocar [las palabras] ora al principio, ora al medio, ora al fin de la frase, consultando en todos estos casos al oído.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc . 1. 2 (101). —"
+            },
+            {
+              "texto_cita": "«Si consulto á mi honor, me advierte que su veneno [el de la calumnia] fue derramado sobre todos los miembros del gobierno central.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , introd . (R. 46. 506 2 )."
+            },
+            {
+              "texto_cita": "«Hemos concluído la tarea que nos impusimos al principio de este ensayo, en el cual hemos consultado menos á nuestras fuerzas que á nuestra voluntad.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog . de Is. la Cat. ilustr . 16 ( Mem. Acad. Hist . 6. 430)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pero en otros casos la prep. recuerda la construcción latina",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«consulere reipublicae, dignitati,»",
+              "autor": "",
+              "referencia_obra": "y el verbo vale Tener cuenta con, mirar por."
+            },
+            {
+              "texto_cita": "«Podrán repartir esta pensión equitativa y prudentemente, consultando al bien común con el menor perjuicio posible del particular.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 2. 5 (R. 46. 217 1 )."
+            },
+            {
+              "texto_cita": "«Al meditar y determinar la Junta estas bases principales de organización para la primera enseñanza, ha consultado más á la utilidad y á la verdad que al brillo y vano aparato.»",
+              "autor": "Quint.",
+              "referencia_obra": "Inf . sobre instrucc. públ . (R. 19. 180 1 )."
+            },
+            {
+              "texto_cita": "«En los establecimientos propuestos hasta aquí se ha consultado principalmente á la necesidad y conveniencia general de los que aprenden.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 19. 185 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar al rey los consejos, tribunales ú otros cuerpos dictamen por escrito sobre un asunto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Subió este punto al examen del Supremo Consejo, cuyo tribunal, con profunda ilustración, después de haber oído el informe del real protomedicato, consultó favorablemente al señor don Carlos II.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre la Soc. Médica de Sevilla (R. 46. 279 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con sobre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Expidió un decreto en que se prometía juntar las cortes por estamentos á la usanza antigua, encargándose al Consejo de Castilla que consultase sobre el modo y forma de celebrarlas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland , 2 (R. 19. 541 2 )."
+            },
+            {
+              "texto_cita": "«En efecto, se mandó formar una junta compuesta de diferentes ministros teólogos y juristas, á la cual se ordenó que consultase sobre la materia.»",
+              "autor": "Casas",
+              "referencia_obra": "(R. 19. 439 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans . Siendo acus. lo que se propone ó representa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es cierto que Cristo Jesús, Rey de los reyes, no admitió el castigo que consultaron y hicieron en estos dos que acusaron.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 7 (R. 23. 56 1 )."
+            },
+            {
+              "texto_cita": "«Algún arbitrio ha de tener el que manda en mudar, añadir ó quitar lo que le consultan sus ministros.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 55 (R. 25. 148 2 )."
+            },
+            {
+              "texto_cita": "«Mándasme que consulte memoriales.»",
+              "autor": "Rojas",
+              "referencia_obra": ", S. Isabel , reina de Portugal , 2 (R. 54. 261 3 )."
+            },
+            {
+              "texto_cita": "«Ordeno á todos los del Consejo que en cuanto pertenezca á su instituto me consulten con celo, cristiana libertad, suma pureza y sin humano respeto lo que juzgaren ser de mi obligación y más conveniente á mis reinos.»",
+              "autor": "",
+              "referencia_obra": "Nov. Reco p. 4. 9. 5 (2. 60)."
+            },
+            {
+              "texto_cita": "«Prevengo últimamente al Consejo trate y me consulte los medios de ordenar su archivo general.»",
+              "autor": "",
+              "referencia_obra": "Ib . 6. 5. 7 (2. 376)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Acaso este significado ha dado ocasión á que en el siguienle pasaje se haya usado el verbo por Juzgar, considerar:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Seamos amigos en tanto | Que espada y pasión indigno | Para cobrar este honor | que ya consulto perdido.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Obligados y ofendidos , 2 (R. 54. 69 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Proponer al rey sujetos para un empleo los consejos, tribunales ú otros cuerpos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Podrá el príncipe acertar en la elección, si secretamente se informare de las partes de los sujetos propuestos, y de los fines que pueden haber movido á los que los consultaron.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 52 (R. 25. 141 2 )."
+            },
+            {
+              "texto_cita": "«En esta exposición no se propone el Consejo tratar de la jurisdicción graciosa y voluntaria que ejerce en las materias de gracia, gobierno y patronato, á nombre de los soberanos, como maestres de las órdenes en virtud de la cual consulta todos los empleos civiles y dignidades eclesiásticas de ellas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Jurisd. del Cons. de las órd. (R. 46. 457 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todas las plazas salieron | Sin ser Melchor proveído | O consultado á lo menos.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La prueba de las promesas , 3 (R. 20. 449 1 )."
+            },
+            {
+              "texto_cita": "«Pienso que estoy consultado | Y á otros preferido.»",
+              "autor": "Lope",
+              "referencia_obra": ", El alcalde mayor , 2. 5 (R. 52. 34 1 )."
+            },
+            {
+              "texto_cita": "«Discurríase en el senado de Roma sobre la elección de un gobernador para España, y consultado Sulpicio Galba y Aurelio Cotta, dijo Scipión que no le agradaban.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 53 (R. 25. 143 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con para y el nombre del puesto ó dignidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consultáronle muchas veces á una persona grave para una dignidad; mas nunca la proveía, aunque se la pusieron en primer lugar.»",
+              "autor": "",
+              "referencia_obra": "Nieremberg, Virtud coronada , 4, § 2 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ninguno podrá ser consultado para esta dignidad [de rector] que no se hallare graduado de licenciado por esta universidad.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 1. 3 (R. 46. 176 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , y un pred.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y así os quiero consultar --- | Por general de Archidona.»",
+              "autor": "Lope",
+              "referencia_obra": ", La estrella de Sevilla , 1. 5 (R. 24. 139 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Se ha usado con en , sin duda por analogia con proveer , como lo da á entender el siguiente pasaje:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estoy consultado en uno de tres castillos y plazas que están vacas en el reino de Nápoles; conviene á saber, Gaeta, Barleta y Rijobes --- Si no se cae el cielo, tengo de salir proveído en una de estas plazas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La guarda cuidadosa ( Com . 1. 228)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consentí morir helado, ahogado y ahorcado, porque estuve consultado para todos estos géneros de muerte.»",
+              "autor": "Isla",
+              "referencia_obra": ", Cart . fam . 1. 77 (R. 15. 456 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Consultaban entre si de la guerra que facer debiesen.»",
+          "autor": "Pal.",
+          "referencia_obra": "Plut. Coriolano (2. 134)."
+        },
+        {
+          "texto_cita": "«La costumbre era consultar los dioses ante que la pelea se comenzase.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. Camilo (2. 259)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. consultar ; fr. consulter ; it. consultare , consultarsi : del lat. consultare , intensivo de consulere , etimológicamente Sentarse juntamente, y de ahí Entrar en consulta ó deliberación; compuesto de cum , con, y sedeo , sentarse ( cp. solium por * sodium ; oleo , odor ). Sobre otras explicaciones véase Corssen, Nachtr . 282 sgs., Vanicek , etc. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

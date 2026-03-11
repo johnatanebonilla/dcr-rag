@@ -1,0 +1,41 @@
+{
+  "lema": "DESBASTECIDO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj. Desprovisto de bastimentos ó medios de defensa. Acaso hoy se preferiría desabastecido. — α ) Absol. Estaba la plaza desbastecida. — β ) Con de , para especificar lo que falta. «Estaba la Imperial desbastecida | De armas, de munición y vitualla.» Erc. Arauc. 9 (R. 17. 34 2 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tenia las galeas muy desbastecidas de gentes.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 207 (R. 66. 306 1 )."
+        },
+        {
+          "texto_cita": "«Et esto enviaba él decir por los desviar que non fuesen al monesterio, porque lo tenía desbastecido de viandas.»",
+          "autor": "",
+          "referencia_obra": "Ib . 145 (R. 66. 269 1 )."
+        },
+        {
+          "texto_cita": "«Tenía el castiello desbastecido.»",
+          "autor": "",
+          "referencia_obra": "Ib . 105 (R. 66. 239 2 )."
+        },
+        {
+          "texto_cita": "«Sopo que el logar de Rute estaba desbastecido de gentes et de viandas.»",
+          "autor": "",
+          "referencia_obra": "Ib . 56 (R. 66. 207 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y bastecido , part. de bastecer . Véase ABASTECER . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

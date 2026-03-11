@@ -1,0 +1,140 @@
+{
+  "lema": "ALINDAR (LINDAR).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Poner ó señalar los límites de una heredad ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Alindar heredades: limito, as, avi.»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Tratándose del ganado, Llevarle á las lindes de las heredades para que paste ( trans. ). Es acepción usada en Asturias. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Estar contiguo un país ó terreno á otro ( intrans. ) . Hoy se dice comúnmente lindar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "Con con, para expresar la posesión confinante.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Decía él, que no le fatigaba tanto esto, cuanto le ponía en confusión saber por cosa muy cierta, que un descomunal gigante, señor de una grande ínsula que casi alinda con nuestro reino --- había de pasar con gran poderío sobre mi reino.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 30 (R. 1. 333 2 )."
+            },
+            {
+              "texto_cita": "«Por el septentrión y á la parte de levante alinda [Portugal ] y está pegado con el reino de León.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 4 (R. 30. 4 2 ). —"
+            },
+            {
+              "texto_cita": "«Sus estados lindaban con los de Sancho.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cid (R. 19. 203 2 ). —"
+            },
+            {
+              "texto_cita": "«Tendía el sol, que con el mar alinda, | Sobre las canas ondas el copete.»",
+              "autor": "Esquil.",
+              "referencia_obra": "Náp. recup. 6 (R. 29. 320 1 )."
+            },
+            {
+              "texto_cita": "«Diana, más bella y linda | Que la luna y que el lucero | Que con sus rayos alinda.»",
+              "autor": "Lope",
+              "referencia_obra": ", El hombre de bien, 3. 12 (R. 52. 205 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "En sentido recíproco.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para movelle guerra no podían faltar achaques, y siempre los hay entre los príncipes cuyos estados alindan.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 4 (R. 30 . 405 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Son construcciones raras, hoy inaceptables, las que ofrecen los ejemplos siguientes:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De vuestro tío y de mi padre alinda | La casa de una dama sevillana.»",
+              "autor": "Lope",
+              "referencia_obra": ", El desprecio agradecido, 1. 4 (R. 34. 253 1 )."
+            },
+            {
+              "texto_cita": "«Sin tapias está el cercado | Que á los casados alinda.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Juan de Castro, 2ª pte . 1. 2 (R. 52. 396 3 )."
+            },
+            {
+              "texto_cita": "«Por el mediodía tocaba en otro tiempo en el mar; hoy ocupada su orilla por el nuevo lazareto v otros edificios más modernos, linda en el camino que pasa ante ellos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Descr. del castillo de Bellver (R. 46 . 399 2 )."
+            },
+            {
+              "texto_cita": "«Del árbol de Borbón, que sus eternas | Ramas al tronco de Pelayo alinda.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Cant. lír. 15 (R. 67. 116 1 )."
+            },
+            {
+              "texto_cita": "«Vio nuestra esperanza ansiosa | Lo cerca del dolor que el gusto alinda.»",
+              "autor": "",
+              "referencia_obra": "Id. Comp. varias, 33 (R. 67.144 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Por una parte alinda [el hombre] con los brutos.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 4. 2 (R. 6. 484 1 )."
+        },
+        {
+          "texto_cita": "«El morábito --- | --- viendo de Arminda | En el regazo el joven valeroso | Que, ya sin habla, con la muerte alinda, | Temió, aun así mortal, su aire brioso.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 21 (R. 17. 364 2 ). —"
+        },
+        {
+          "texto_cita": "«En las cosas humanas está el mal tan cerca del bien, y el error de la verdad, la prudencia linda de tal modo con la timidez culpable --- que, así en teoría como en práctica, no siempre es fácil mantenerse en los límites prescritos por la razón.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Protest. 55 (4. 34) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á , que significa aplicación, aproximación, y linde. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

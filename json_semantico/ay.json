@@ -1,0 +1,565 @@
+{
+  "lema": "AY.",
+  "categoria_gramatical": "Interj",
+  "introduccion": "-->Interj . Expresa el dolor físico lo mismo que el moral, y de ahí ha pasado á denotar otros movimientos vivos y repentinos del ánimo.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Como expresión de dolor físico.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«i Confesión! i Ay, que me muero! | —¿Qué es eso? —El dolor de ijada ---»",
+          "autor": "Mto.",
+          "referencia_obra": "El defensor de su agravio , 1. 3 (R. 39. 494 1 )."
+        },
+        {
+          "texto_cita": "«¡Ay! ¡ay! Suéltame. — No suelto. | — ¡Que me ahoga! --- ¡Ay mi pescuezo!»",
+          "autor": "Bretón",
+          "referencia_obra": ", El ingenuo , 5. 5 (1 . 183)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Como expresión de dolor moral. Se usa sola, ó al principio de una frase ó intercalada en ella.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿De qué muerte dices? | —De la muerte de Aminta. — ¡Ay!¿cómo es muerto?»",
+          "autor": "Jáur.",
+          "referencia_obra": "Aminta , 4 (R. 42. 144 2 )."
+        },
+        {
+          "texto_cita": "«Traigo la nueva triste | De la muerte de Aminta. | — ¡Ay, lo que dice!»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (R. 42. 146 1 )."
+        },
+        {
+          "texto_cita": "«¡Ay! vuestro verde vástago se trunca | Para que no dé flor, ni brote nunca.»",
+          "autor": "Hartz.",
+          "referencia_obra": "La infanticida (413)."
+        },
+        {
+          "texto_cita": "«Mas ¡ay! la ausencia ¿qué dolor no agrava?»",
+          "autor": "Lista",
+          "referencia_obra": ", Poes. amor. 15 (R. 67. 326 1 )."
+        },
+        {
+          "texto_cita": "«¡Ay! dijo á este punto la sobrina, que me maten si no quiere mi señor volver, á ser caballero andante.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 1 (R. 1. 406 1 )."
+        },
+        {
+          "texto_cita": "«¡Ay! esa tu alegría | Qué llantos acarrea, y esa hermosa | (Que vio el sol en mal día) | A España ¡ay! cuán llorosa, | Y al cetro de los godos cuán costosa! --- | El furibundo Marte | Cinco luces las haces desordena | Igual á cada parte; | La sexta ¡ay! te condena, | Oh cara patria, á bárbara cadena.»",
+          "autor": "León",
+          "referencia_obra": ", Poes. 1, Prof. del Tajo (R. 37. 5 2 )."
+        },
+        {
+          "texto_cita": "«En mí la culpa ajena se castiga, | Y soy del malhechor ¡ay! prisionero.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1, terc. Huíd , contentos (R. 37. 10 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Júntase con un vocativo, y luégo con otras palabras formando frases interjectivas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiero, con todo, que lo sepa, y trate | De buscar las reliquias miserables, | Si algunas han quedado. ¡Ay Silvia! ¡ay Silvia! | iAy, cómo fue tu suerte desdichada!»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 3 (R. 42. 143 2 )."
+            },
+            {
+              "texto_cita": "«El siente de tu deshonra | ¡Ay Dios! la mortal herida.»",
+              "autor": "",
+              "referencia_obra": "Bojas, Obligados y ofendidos , 1 (R. 54. 63 2 )."
+            },
+            {
+              "texto_cita": "«Si es tan grande su justicia, ¡ay dolor! ¡ay dolor! ¿qué será de los que hayan merecido que se ejecute y resplandezca en ellos?»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Exclam . (R. 53.497 1 )."
+            },
+            {
+              "texto_cita": "«Pero ¡ay dolor! que la hacienda consumen en vicios, y la honra pierden por ser viciosos.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 99)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Antepónese a frases exclamatorias para determinarlas como expresiones de dolor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ay cuánto de fatiga! | ¡Ay cuánto de sudor está presente | Al que viste loriga, | Al infante valiente, | A hombres y á caballos juntamente!»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, Prof. del Tajo (R. 37. 5 2 )."
+            },
+            {
+              "texto_cita": "«i Ay cuánto me engañaba! | Ay cuán diferente era | Y cuán de otra manera | Lo que en tu falso pecho se escondía.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 1 (R. 32. 4 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Otras veces la oración siguiente expresa, por su construcción, la causa del dolor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«i Ay, que ya presurosos | Suben las largas naves! ¡ay, que tienden | Los brazos vigorosos | A los remos, y encienden | Las mares espumosas por do hienden!»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, Prof. del Tajo (R. 37. 5 2 )."
+            },
+            {
+              "texto_cita": "«¡Ay, si los ojos miran | La tirana beldad que antes ansiaron!»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes . A Fileno (R. 19. 16 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de , para expresar el objeto que inspira lástima o compasión por su infelicidad actual ó por la que le espera.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ay de mí, si no llorare mis pecados! ¡ay de mí, si no me levantare á la media noche á confesar, Señor, tu santo nombre!»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 8 (R. 6. 37 2 )."
+            },
+            {
+              "texto_cita": "«¡Ay de nos, que tales fuimos, que así afeamos con nuestras culpas al hermosísimo en su inocencia, y metimos por lanzas y fuegos al merecedor de todo descanso!»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med . 16, § 4 (R. 8. 557 1 )."
+            },
+            {
+              "texto_cita": "«Porque ¡ay del solo! que si cayere en la tristeza espiritual, ó en la desconfianza, no tiene entre los hombres quien lo levante.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. espir . 1 (R. 30. 291 1 )."
+            },
+            {
+              "texto_cita": "«¡Ay de Leonora triste, | Si te partes y la dejas!»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por razón de estado , 3. 8 (R. 5. 180 2 )"
+            },
+            {
+              "texto_cita": "«¡Ay mil veces de ti! Precipitada, | Mas república al fin prudente.»",
+              "autor": "Góng.",
+              "referencia_obra": "Paneg. al D. de Lerma (R. 32. 481 1 )."
+            },
+            {
+              "texto_cita": "«¡Ay de vos, ay | De la paz de vuestro reino, | Si á Rodrigo no domáis!»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea , 3. 2 (179)."
+            },
+            {
+              "texto_cita": "«¡Ay del amante que suspira en vano! | ¡Ay del que busca amor y halla desvío!»",
+              "autor": "",
+              "referencia_obra": "Id. El amante desdeñado (397)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Cuando la exclamación se refiere á la primera persona, interviniendo un modificativo, se hallan usadas estas tres fórmulas: ¡Ay triste! ¡Ay yo triste! ¡Ay de mí triste! En la otra ¡Ay, triste de mí! figuran sin duda dos exclamaciones.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ay, amarilla selva, que desnuda | Yaces, y en cano y yerto humor cubierta! --- Siéntome ¡ay triste! arder cuando se muda | Tu frente, y se descubre blanca y yerta.»",
+              "autor": "Rioja",
+              "referencia_obra": ", son. amor . 13 (R. 32. 376 2 )."
+            },
+            {
+              "texto_cita": "«Con voz debilitada y flaca, el lastimado huésped primero decía: ¡Ay sin ventura! ¿adónde me lleva la fuerza incontrastable de mis hados? --- ¡Ay pocos y mal experimentados años, incapaces de toda buena consideración y consejo! --- ¡Ay honra menospreciada, ay amor mal agradecido!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 200 1 )"
+            },
+            {
+              "texto_cita": "«¡Ay mísero de mí! ¡Ay infelice!»",
+              "autor": "Cald.",
+              "referencia_obra": "El monstruo de los jardines , 1. 2 (R. 14. 213 2 ). —"
+            },
+            {
+              "texto_cita": "«Ya me arrebata, el ponto furïoso, | Y miro el leño en piezas desatado | Entre la espuma errar, ¡ay yo cuitado! | Y no el cielo á mis lágrimas piadoso.»",
+              "autor": "Rioja",
+              "referencia_obra": ", son. amor . 16 (R. 32. 377 1 )."
+            },
+            {
+              "texto_cita": "«¿Te falta ahora | Resolución?... ¡ay yo desventurado!»",
+              "autor": "A. Saav.",
+              "referencia_obra": "D. Álvaro , 1. 7 (4. 126). —"
+            },
+            {
+              "texto_cita": "«¡Que me ahogo! ¡Ay de mí triste!»",
+              "autor": "Rojas",
+              "referencia_obra": ", Progna y Filomena , 3 (R. 54. 58 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Nuestros clásicos dijeron también ¡ay me! (que también se escribe en una sola palabra: aymé!). Hoy apenas se usa en estilo burlesco; en composiciones serias se puede mirar como una extravagancia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la parte del llano ¡ay me! se mete | Zapardïel, famoso por su pesca, | Sin que un pequeño instante se quïete.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 7 (R. 1. 697 1 )."
+            },
+            {
+              "texto_cita": "«Huye presurosa | La hora que declina; | ¿Y duermo sola yo? ¡ay me mezquina!»",
+              "autor": "Herr.",
+              "referencia_obra": "trad. de Safo ( Fern. 5. 231)."
+            },
+            {
+              "texto_cita": "«¡Ay me! que mi destierro | Se alarga cada punto.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd . 2. 4 (R. 27. 299 1 )."
+            },
+            {
+              "texto_cita": "«Estos, Fabio, ¡oh dolor! que ves ahora | Rasgos de fealdad, mustio semblante, | Fueron un tiempo ¡ay me! Tomasa hermosa.»",
+              "autor": "",
+              "referencia_obra": "M. de los Santos Alvarez, María (20)."
+            },
+            {
+              "texto_cita": "«Yo, no culpable, | Yo sólo, en juventud ¡ay me! perdida, | Entre tanto contento | Mi soledad y desamor lamento.»",
+              "autor": "Cienf.",
+              "referencia_obra": "Poes. La primavera (R. 67. 16 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Se usa igualmente con de para denotar que alguna persona ó cosa está expuesta á inminente peligro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alégrese V. R. que la Compañía procede con los mismos términos or donde procedió la primitiva lglesia: y ¡ay de Roma cuando le faltare Cartago!»",
+              "autor": "Gran.",
+              "referencia_obra": "carta en Muñoz , Vida , 3. 4 (186)."
+            },
+            {
+              "texto_cita": "«¡Ay de la religión cuando la manera de vivir es ancha y larga! porque así andará el hombre la petrina floja, y vivirá vida larga y regalada, y una largueza pedirá otra largueza, y un regalo otro regalo.»",
+              "autor": "",
+              "referencia_obra": "Id. Doctor. espir . 35, § 2 (R. 11. 267 2 )."
+            },
+            {
+              "texto_cita": "«Cuando una mujer llora y suspira, | ¡Ay de la libertad de quien la mira!»",
+              "autor": "Lope",
+              "referencia_obra": ", D. Juan de Castro , 1ª pte .1. 9 (R. 52. 377 2 )."
+            },
+            {
+              "texto_cita": "«¡Ay del verde laurel de tu corona | Entre vestigios de ceniza helados! | ¡Ay Mantua la vecina de Cremona!»",
+              "autor": "",
+              "referencia_obra": "Id. Rim. de Burg. son . 57 ( Obr. suelt .19. 57)."
+            },
+            {
+              "texto_cita": "«¡Ay de honor puesto en mujer!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los favores del mundo , 2.12 (R. 20. 12 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "De aquí proviene que este modo de hablar se emplea en són de amenaza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por última vez | Mi voz te avisa y advierte. | ¡Y ay de ti si se convierte | El padre, en severo juez!»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, El haz de leña , 1. 9 (409)."
+            },
+            {
+              "texto_cita": "«He de molerte los huesos, | ¡Histrión! —¡Ay del que me toque!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 1 (447)."
+            },
+            {
+              "texto_cita": "«¡Atrás! ¡ay del que se atreva | A pisar estos umbrales!»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 11 (471)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "No obstante, se emplea también la interj. sola en este sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejad ya, don Félix, delirios mundanos. | — ¡Hola, me conoce! —¡Ay! temblad por vos!»",
+              "autor": "Espronc.",
+              "referencia_obra": "Estud. de Salam . 4 (200)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Entre los varios afectos que suele denotar, fuera de los dichos, son de mencionarse los siguientes:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Enfado, desprecio, mofa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué va que es esta dicha | Del polido forastero? | — ¡Ay prima! no me le nombres. | —¿Le aborreces? —Le aborrezco.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La gallega Mari-Hernández , 2. 10 (R. 5. 118 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Sorpresa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién da voces? Mas ¡ay cielo! | ¿Quién vio asombro semejante?»",
+              "autor": "Cald.",
+              "referencia_obra": "El monstruo de los jardines , 1. 11 (R. 14. 217 1 )."
+            },
+            {
+              "texto_cita": "«Deténte; huyes en vano. | — ¡Ay! ¿Aquí tú, Macías?»",
+              "autor": "Larra",
+              "referencia_obra": ", Macías , 3. 3 (4. 383)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Gozo, admiración.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas ¡ay suerte dichosa! | Este es el conde.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Del rey abajo ninguno , 3 (R. 54. 11 2 )."
+            },
+            {
+              "texto_cita": "«¡Ay! amiga de mi alma --- y qué ventura tan grande nos ha sucedido!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 58 (R. 1. 526 2 )."
+            },
+            {
+              "texto_cita": "«¡Ay, qué olor ha venido | A rosas finas! | ¿Si será mi moreno | Que está en la esquina?»",
+              "autor": "Cantos pop. esp.",
+              "referencia_obra": "núm . 1346."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—δ )",
+          "definicion": "Deseo ferviente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hijo, le dice la Virgen, ¡Ay si pudiera excusarse | Esta llorosa partida, | Que las entrañas me parte!»",
+              "autor": "Lope",
+              "referencia_obra": ", Rimas sacras ( Obr. suelt . 13. 276)."
+            },
+            {
+              "texto_cita": "«¡Ay boca celestial, ay boca hermosa, | Quién fuera abeja de tan dulce rosa!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . ( Obr. suelt. 13.2 7 0)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Cuando se toma como exclamación de dolor, se puede usar como sust. masc. Extensivamente se toma por Quejido.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El ¡ay! ¡ay! ¡ay! los lastima, | Tan dolorido y tan mustio.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 5, baile 5 (R.69. 120 2 )."
+        },
+        {
+          "texto_cita": "«Arrojando de lo íntimo de sus entrañas un luengo y tristísimo ay, se dejó caer, de espaldas desmayada.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1 . 36 (R. 1.355 2 )."
+        },
+        {
+          "texto_cita": "«Con un ay, arrancado al parecer de lo íntimo de su corazón, dio fin á su canto el caballero del Bosque.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 12 (R. 1.428 1 )."
+        },
+        {
+          "texto_cita": "«Altisidora es la doncella más sana de toda esta casa, y yo nunca la he sentido un ay en cuanto ha que la conozco.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 46 (R. 1. 499 1 )."
+        },
+        {
+          "texto_cita": "«No pudo proseguir las justas quejas | Que del injusto y fiero amor formaba | El desdichado Tirsi desamado, | Por llegar resonando á sus orejas | Un ay de rato en rato que arrancaba | El corazón más libre de cuidado.»",
+          "autor": "F. de la Torre",
+          "referencia_obra": ", 3. égl . 4 (111)."
+        },
+        {
+          "texto_cita": "«Y luego en abatida | Voz prorrumpió, lanzando un ay profundo.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Moro expós . 6 (187). —"
+        },
+        {
+          "texto_cita": "«Viendo que la música se había vuelto en sollozos y en lastimeros ayes, acordaron de saber quién era el triste tan extremado en la voz.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 27 (R. 1. 320 2 )."
+        },
+        {
+          "texto_cita": "«De cuando en cuando daba Sancho unos ayes profundísimos y unos gemidos dolorosos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 28 (R. 1. 464 1 )."
+        },
+        {
+          "texto_cita": "«Oyese dentro un ruido | Como crujir de cadenas, | Y unos ayes luengos, tristes, envueltos en tristes quejas.»",
+          "autor": "",
+          "referencia_obra": "Id. Poes. suelt. Los celos (R. 1. 711 1 )."
+        },
+        {
+          "texto_cita": "«No hay día sin ayes, no hay día alegre.»",
+          "autor": "Sig.",
+          "referencia_obra": "Vida de S. Jer . 6, preámb. (539)."
+        },
+        {
+          "texto_cita": "«Los vivas de los que triunfaban, los ayes de los que morían, todo formaba una constante lástima de sus malogrados años y esperanzas.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal . 5 (R. 21. 530 2 )."
+        },
+        {
+          "texto_cita": "«Aquí se resolvió la dulce lira, | Y en dos lascivos ayes, | Andolas, guirigayes, | Y otras tales bajezas, | Cantaron pues las bárbaras proezas | Y hazañas de rufianes.»",
+          "autor": "Lope",
+          "referencia_obra": ", Gatom . 3 ( Obr. suelt . 19. 200)."
+        },
+        {
+          "texto_cita": "«¿Quién logra una vejez sin ayes?»",
+          "autor": "Jovell.",
+          "referencia_obra": "Corresp. con Posada (R. 50. 245 1 )."
+        },
+        {
+          "texto_cita": "«Severa para sí cuanto era blanda y benigna para los demás, paría sin aves ni gemidos.»",
+          "autor": "Clem.",
+          "referencia_obra": "Elog. de Is. la Cat . ( Mem. Acad. Hist . 6. 35)."
+        },
+        {
+          "texto_cita": "«No con mi blanda lira | Serán en ayes tristes | Lloradas las fortunas | De reyes infelices.»",
+          "autor": "Mel.",
+          "referencia_obra": "A mis lectores (R. 63. 93 1 )."
+        },
+        {
+          "texto_cita": "«Tus ayes, tus sollozos, | Tus míseros gemidos | Son música agradable a sus oídos.»",
+          "autor": "Arriaza",
+          "referencia_obra": ", Odas , 2 (R. 67. 64 1 )."
+        },
+        {
+          "texto_cita": "«Aun en mi oído | Suenan los tristes dolorosos ayes | Que al partirse tu bien al viento dabas.»",
+          "autor": "Quint.",
+          "referencia_obra": "A Fileno (R. 19. 15 2 )"
+        },
+        {
+          "texto_cita": "«El gabinete de Versalles se mostró sordo á esos clamores, como se había mostrado antes á los ayes de un pueblo desvalido.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp. del siglo , 3. 6 (5. 188)"
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Más raro y sólo propio del lenguaje festivo es el plural de la exclamación ¡ay de mí!",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus apartes en dúo, en terceto ó en coro, y aquello de interrumpir una frase corta con media docena de ay-de-míes, de ¡cielos! ¡qué pena ¡qué rabia! »",
+              "autor": "Hartz.",
+              "referencia_obra": "(R. 7. XII)."
+            },
+            {
+              "texto_cita": "«¿Quién escribe á una querida | Con tan seca rigidez, Sin doscientos ay-de-míes?»",
+              "autor": "",
+              "referencia_obra": "Id. Doña Mencia , 2. 3 (35)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Que vos me digades de qual parte vien | Desir sienpre ¡ay! é nada non duele.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 539. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Ay, del rey barones, acorredme agora.»",
+          "autor": "",
+          "referencia_obra": "Danza de la muerte (R. 57. 384 1 )."
+        },
+        {
+          "texto_cita": "«Mesquino, por qué so biuo? | Ay rey triste sin ventura, | Ay rrey bil, ay rrey captiuo, | Ay rrey lleno de amargura! | Ay qué bentura tan fuerte, | Qué quebranto e qué cayda! | Ay Dios, pidote la muerte, | Mejor me es que la vida.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI , 1864-5 (R. 57. 533 1 )."
+        },
+        {
+          "texto_cita": "«Ay Dios y quan fermosa viene donna Endrina por la plaza!»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 627 (R. 57. 246 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Ay me»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«i Ay alma! non te fies en las riquezas.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 15 1 )."
+        },
+        {
+          "texto_cita": "«Ay madre de Alexandre, gradesce al sennor de todo el mundo.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 56)."
+        },
+        {
+          "texto_cita": "«Dixo: a rey sennor! se tan grant es tu poder --- | Non te podrien los mares nin las tierras caber.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1756 (R. 57. 201 2 )."
+        },
+        {
+          "texto_cita": "«El rey Alexandre daua-les grant conuerto, | Diziendo: ay amigos, tenedes-me grant tuerto.»",
+          "autor": "",
+          "referencia_obra": "Ib . 231 (R. 57. 154 2 )."
+        },
+        {
+          "texto_cita": "«A entrar de la fazienda muestra grant alegria: | Di: yo, ay amigos! siempre esperé este dia.»",
+          "autor": "",
+          "referencia_obra": "Ib . 57 (R. 57. 149 1 )."
+        },
+        {
+          "texto_cita": "«Entró al cuerpo sancto, e dixo a Samillan: | ¡Ay padre de muchos que comen el tu pan!»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 158 (R. 57. 44 2 )."
+        },
+        {
+          "texto_cita": "«Vio er omne sancto demonio muy rabioso, | Tornó en Dios, e disso: ay rey glorioso!»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 159 (R. 57. 70 1 )."
+        },
+        {
+          "texto_cita": "«Mesquino, ay mi! nasqui en ora dura, | Matérme con mis manos, matóme mi locura.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 753 (R. 5. 126 2 )."
+        },
+        {
+          "texto_cita": "«Diçien ¡ai romeos! vos fuestes venturados | Que ia sodes per ignem e per aquam passados.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 602 (R. 57. 122 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Son semejantes: port. ai ; prov. ai , hai ; fr. , it. ahi ; lat. ai ; gr. α Ç . Lo mismo que ¡ay me! se dice en it. ahimé ; fr. ant. hai mi , como en el lugar de Berceo citado arriba. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

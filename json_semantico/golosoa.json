@@ -1,0 +1,662 @@
+{
+  "lema": "GOLOSO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Glotón, comilón.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Leemos en el Evangelio la sed que padecía aquel rico goloso entre las llamas de sus tormentos»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, viern. en la noche (R. 8. 50 1 )."
+            },
+            {
+              "texto_cita": "«Es en ellas [en las mujeres] muy feo ser golosas e comedoras.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 3 (3. 439)."
+            },
+            {
+              "texto_cita": "«Quien ha visto muchacho diligente | Que en goloso a sí mesmo sobre puja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje, 5 (R. 1. 691 2 )."
+            },
+            {
+              "texto_cita": "«Así acomete mi señor a cien hombres armados como un muchacho goloso a media docena de badenas.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 4 (R. 1. 412 2 )."
+            },
+            {
+              "texto_cita": "«Tú, respondió D. Quijote, tienes fama del mayor tragón goloso que se haya visto.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 23 (R. 18. 72 2 ). X"
+            },
+            {
+              "texto_cita": "«— Glotón, ¿Quién te da permiso para repetir? — el plato está tan rico, que supongo que es obra tuya. — ¡Vaya unas ilusiones! Ha sido la cocinera. Yo no guiso para ti. Te fastidiaste. — Prima, esta yemecita. Por mí. — No me robes del plato, goloso. Que no te lo doy.»",
+              "autor": "Pardo Bazán",
+              "referencia_obra": ", Pazos Ulloa (Cl. Castal. 151. 210)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con de. En comparativo, con valor ponderativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas ¿Cómo te has de haber cuando te mande | Que (por ser tan golosa de legumbres), | De las que favoreces más, te abstengas?»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. Di. Erine (R. 42. 322 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Por sinécdoque.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y de varios manjares regalados | Hartamos los estómagos golosos.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 36 (R. 17. 133 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γγ)",
+          "definicion": "Aumentativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«— Malas ínsulas te ahoguen — respondió la Sobrina —, Sancho maldito. Y ¿qué son ínsulas? ¿Es alguna cosa de comer, golosazo, comilón que tú eres?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 2 (Cl. C. 13. 52)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δδ)",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habla del logrero --- y habla de él por semejanza de lo que al goloso o al glotón acontece.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 20 (1. 311)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "En particular, referido a los animales.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son como el perro hambriento y goloso, que aunque le echéis a palos de casa, por una puerta sale, y por la otra se vuelve a entrar.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 7. 6, §4 (R. 8. 393 1 )."
+            },
+            {
+              "texto_cita": "«A manera de los perros golosos, que todo lo andan probando y trastornando, y en todo quieren meter el hocico, y aunque a veces los azoten y echen a palos, siempre vuelven al regosto.»",
+              "autor": "",
+              "referencia_obra": "Id. Guía , 2. 15, §7 (R. 6. 148 1 ). Es semejante al que apedrea un perro goloso con pedazos de pan, que aunque parezca que le persigue y despide de si, en hecho de verdad lo detiene consigo.» Id. Esc. esp . 7 (R. 11. 316 1 )."
+            },
+            {
+              "texto_cita": "«O los golosos tordos, o con liga | O con red engañosa, | O la extranjera grulla en lazo obliga.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, Dichoso el que (4. 506). X"
+            },
+            {
+              "texto_cita": "«Sudando néctar,... | Senos que ignora aún la golosa cabra, | Corchos me guardan.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. poét . (2. 48)."
+            },
+            {
+              "texto_cita": "«Propia naturaleza | De gatas ser golosas, | Aunque al tomar se finjan melindrosas.»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom . 2 ( Obr. suelt . 19. 186)."
+            },
+            {
+              "texto_cita": "«¿Cuántas veces pasó por pasa la mosca golosa, y muchas fue el mayor bocado de carne que comió el dueño del pastel?»",
+              "autor": "Quev.",
+              "referencia_obra": "Zahurdas (R. 23. 312 1 ). X"
+            },
+            {
+              "texto_cita": "«Mas de allí a poco tiempo, convidada [la zorra] | De la Cigüeña, halla preparada | Una redoma de jigote llena; | Allí fue su aflicción, allí su pena; | El hocico goloso al punto asoma.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . (Cl. Castal. 7. 67). X"
+            },
+            {
+              "texto_cita": "«A un panal de rica miel | Dos mil moscas acudieron, | Que por golosas murieron, | Presas de patas en él. | Otras dentro de un pastel | Enterró su golosina.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (Cl. Castal. 7. 68). X"
+            },
+            {
+              "texto_cita": "«Vosotras, las familiares, | Inevitables golosas, | Vosotras, moscas vulgares, | Me evocáis todas las cosas.»",
+              "autor": "Machado",
+              "referencia_obra": ", Poes. complet. p. 54. X"
+            },
+            {
+              "texto_cita": "«Entre la luz y el olor | Pasa goloso el insecto | Con afán desordenado | Que se ahonda en embeleso.»",
+              "autor": "Guillén",
+              "referencia_obra": ", Selec. poemas , p. 34."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Goloso del verde prado, | Anda saltando el cabrío.»",
+              "autor": "Lope",
+              "referencia_obra": ", La madre de lo mejor (R. 158. 196). X"
+            },
+            {
+              "texto_cita": "«— Echa la ribera abaxo | Todas cabras, Tirreno. | — Golosas del prado ameno | Vienen por su verde ataxo.»",
+              "autor": "",
+              "referencia_obra": "Id. Las grandezas de Alejandro (Ed. facs. 69. 207). — En superlativo absol. X"
+            },
+            {
+              "texto_cita": "«Los campesinos, para salvar algunos bellos ejemplares que de milagro escaparon al traicionero ataque de los escarabajos, idearon un arbitrio ingenuo que consistía en poner en redondo de las cepas unas totumas con miel de puga, de la que aquellos bichos son muy golosos.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Diario de Tipacoque ( Obr. compl. p. 241). — En superlativo relativo."
+            },
+            {
+              "texto_cita": "«Zarandilla, | La gata más golosa de Castilla.»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom. 5 ( Obr. suelt. 19. 229)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Refranes.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "—αα)",
+          "definicion": "A mozo goloso, higo a dinero: recomienda ponerle freno al goloso y descomedido. Cfr. Correas , Vocab.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Al gato goloso y a la moza ventanera, tapallos la gatera. Cfr. Correas , Vocab.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γγ)",
+          "definicion": "Aquel es goloso, que come lo que no tiene. Cfr. Correas , Vocab.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δδ)",
+          "definicion": "Cocinera de Mendoza , o sucia o golosa. Cfr. Correas , Vocab.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Deseoso, codicioso, ansioso.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salí fuera --- con ánimo deliberado de salir a descubrir tierra y dar nuevo pasto a los golosos ojos.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Propal. dedic. (1. 2). X"
+            },
+            {
+              "texto_cita": "«A un mismo tiempo, y sin saber los unos de los otros, se mueven así tres ejércitos golosos. El uno va quemándose por la llanuras de Venezuela: lo manda un alemán, Nicolás de Federmán que se sale de los limites de su gobernación codiciose de morder la fruta que brilla como un sol en el cercado ajeno.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 6 (p. 109). X"
+            },
+            {
+              "texto_cita": "«Este es el puerto viejo, tradicional [Dieppe], en donde se han formado los marineros atrevidos y los golosos comerciantes que hacen piraterías y otros negocios por los contornos del canal de la Mancha.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 7 (p. 120). X"
+            },
+            {
+              "texto_cita": "«La flota golosa hace algunas presas de poca importancia. Se llega a la conclusión de que mientras Prusia no tenga en las Antillas lugar a donde lleguen sus buques como a casa propia, es utópico pensar en nuevas empresas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 13 (p. 242). X"
+            },
+            {
+              "texto_cita": "«La reina es ambiciosa, golosa, negociante, vulgar, aficionada a las riquezas más allá de lo que aconsejaría el real decoro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 15 (p. 274). — En grado comparativo."
+            },
+            {
+              "texto_cita": "«No todas veces pueden alcanzar lo que desean, porque se lo defienden otros más golosos o más poderosos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 20, §1 (R. 6. 75 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con de, para señalar el objeto deseado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El corazón humano es en gran manera goloso y amigo de de leites.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 5, §10 (R. 8. 150 2 )."
+            },
+            {
+              "texto_cita": "«Porque inclina e induce y hace apetitosa y como golosa a nuestra voluntad de todo aquello que es bueno.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Rey (3. 186)."
+            },
+            {
+              "texto_cita": "«Se partió luego, [Rodolfo] goloso de lo que había oído decir a algunos soldados de la abundancia de las hosterías de Italia y Francia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 6 (R. 1. 168 2 )."
+            },
+            {
+              "texto_cita": "«Dime: ¿Hay muchos golosos de valimientos de los hombres del mundo?»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 341 2 ). X"
+            },
+            {
+              "texto_cita": "«Una vieja esclava, herrada en la frente, sabía cuentos de aparecidos. Ramiro la escuchaba con singular atención, cada vez más goloso de pavor y de misterio.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 9). — Siendo el término una prop. infinitiva."
+            },
+            {
+              "texto_cita": "«Muchos jueces así son golosos de despedazar carnes humanas, como si ellos fuesen osos, y las carnes humanas colmenas.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro, 2. 65). X"
+            },
+            {
+              "texto_cita": "«— Enhorabuena —exclamó, alargando los brazos —. Grata señal es ésta, pero, ¿por qué tan esquivo? Todos aquellos señores están golosos de ver y escuchar a vuesa merced.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 123). — En superlativo albsol. X"
+            },
+            {
+              "texto_cita": "«Igual que muchas señoronas de su época misiá Adelaida era suspicaz e indulgente, austera en extremo y muy golosa de chismes escandalosos, y, por encima de todo un dechado de buenos modales.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Zogoibi, p. 25."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con para.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La voluntad, que es la que mueve en el reino del hombre, [quedó] sin gusto para el bien, y golosa para el mal, y perdidamente inclinada, y como despojada del aliento del cielo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Príncipe (3. 215)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me haré cuenta que alguno de los golosos ha pujado en tres mil pesos la finca.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria, 2. 3 (p. 272). X"
+            },
+            {
+              "texto_cita": "«El general y la guerra se acabaron por razones económicas: los ricos juntaron cuatro reales y los banqueros del norte comprometieron millones en las colonias del sur. Surgió la paz. Los gobiernos con grandes figuras de generales cojos y mancos declinaron pero como era preciso dar oportunidades a los nuevos golosos, surgió el “ gran estadista ” .»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda, p. 219."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Lector goloso: que nunca se harta de leer. Cfr. Valb. Dicc.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ)",
+          "definicion": "En los siguientes ejemplos, el sentido es sexual. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«— Y ’ os desposo; y ’ os desposo, Aunque ño so de corona. | ¿Atollas ya? Dime, Antona. | — Yo si atollo. — ¿y tú, goloso? | — Yo también de ser su esposo soy dichoso.»",
+              "autor": "Fernández",
+              "referencia_obra": ", Farsas y Égl. (Cl. Castal. 72. 159). X"
+            },
+            {
+              "texto_cita": "«¡Oh, de cuánto gentío me veo cercado! | ¡Oh cuánto mozo, moza y buena vieja! | Vine con el sentido transportado | Tras ésta mi golosa Bertoleja, | Que me cegó, cuando aquí entré, la vista: | No hay fuerza, en fin, que un gran deseo resista.»",
+              "autor": "Aldana",
+              "referencia_obra": ", Poes. (Cl. C. 143. 81). X"
+            },
+            {
+              "texto_cita": "«Memorias al Galo y a la maldita monja, picarona desvergonzada, golosa.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. p. 152. X"
+            },
+            {
+              "texto_cita": "«Casque nueces, y almemdras | Y dulces coma: | Esa es de las muchachas | La gran carcoma; | y hasta sus colorcitos | Tan primorosos | Son venenos que tientan | A los golosos.»",
+              "autor": "Pombo",
+              "referencia_obra": ", Dientes y confites, p. 355. X"
+            },
+            {
+              "texto_cita": "«Y la tisis va desgarrando por dentro a aquel gallardo jinete que volaba por las llanuras y saltaba montañas, a aquel bailarín gentil que el año 6, golosa y amerosa acariciaba en París Fanny Villars,»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 4. 24 (p. 394)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε)",
+          "definicion": "Tener algo o alguien muchos golosos: ser apetecido por mucha gente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto del ganar de comer holgando tiene muchos aficionados y golosos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Coloq. (R. 1. 236 2 ). X"
+            },
+            {
+              "texto_cita": "«Después de cenar las llevamos al café de la avenida del observatorio. Rosa, con su aire sano y fresco tenía muchos golosos.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La sensualidad ( Las ciudades, p. 681)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ)",
+          "definicion": "Refranes.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Pide el goloso para (por) el deseoso: explica que algunos con el pretexto de pedir para otros, solicitan para sí lo que desean. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«— Cansada vienes, Teodora, si que te den vn traguecito, si dura aquello del otro día. | — “ Pide el goloso para el deseoso ” .»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, p. 86."
+            },
+            {
+              "texto_cita": "«¿Y esto os cuesta tantos gritos, | Picarón? Pide el goloso | Por el deseoso.»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza del natural, 3. 12 (R. 39. 226 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Apetecido, codiciado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A partir como dije antes, llegaba | Al concierto en el tiempo prometido; | Mas el metal goloso que sacaba | Le tuvo a tal sazón embebecido.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 2 (R. 17. 12 1 )."
+            },
+            {
+              "texto_cita": "«Así la fiera gente victoriosa | Con prestas manos y con pies ligeros | De la golosa presa codiciosa, | Abre puertas, ventanas y agujeros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 18 (R. 17. 70 1 )."
+            },
+            {
+              "texto_cita": "«Que la ocasión que aquí los ha traído | Por mares y por tierras tan extrañas, | Es el oro goloso que se encierra | En las fértiles venas desta tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 23 (R. 17. 86 1 )."
+            },
+            {
+              "texto_cita": "«Yo me enajeno [oh jilguerito] al verte --- | Buscarles con ahinco | El goloso alimento | De algún leve granillo.»",
+              "autor": "Mel.",
+              "referencia_obra": "Anácr. 53 (R. 63. 106 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "El que busca manjares de mucho gusto para el paladar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dieron en ser golosas [doncellas y esclavas], y pocos días se pasaban sin hacer mil cosas a quien la miel y el azucar hacen sabrosas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 7 (R. 1. 174 1 )."
+            },
+            {
+              "texto_cita": "«Acá tenemos noticia, buen Sancho, que sois tan amigo de manjar blanco y de albondiguillas, que si os sobran, las guardáis en el seno para el otro día. No señor, no es así, respondió Sancho, porque tengo más de limpio que de goloso.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 62 (R. 1. 535 1 ). X"
+            },
+            {
+              "texto_cita": "«El médico dice que tendría que adelgazar, pero a ella le gustan tanto los dulces. Siempre fue golosa.»",
+              "autor": "Benedetti",
+              "referencia_obra": ", Gracias por el fuego, 4 (p. 68)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "En superlativo absol. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«César mandó traer para el abate, que era muy goloso, vino de Marsala y de Asti.»",
+              "autor": "Baroja",
+              "referencia_obra": ", César o nada ( Las ciudades, p. 66)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "En grado comparativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero un page más goloso que obediente, levantó un brazo para coger un racimo.»",
+              "autor": "Saav.",
+              "referencia_obra": "Coron. Got. 1 ( Dicc. Autor. ) . — Con valor ponderativo."
+            },
+            {
+              "texto_cita": "«Por lo cual, como el corazón humana sea tan goloso y amigo de deleites, dice los tales ---.»",
+              "autor": "",
+              "referencia_obra": "Gran. Guía, 1. 16 (R. 6. 58 1 )."
+            },
+            {
+              "texto_cita": "«Llegó bueno allá [el moscatel]; que no es poca fortuna en una mercancía de que son tan golosos los marineros.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 251 1 ). X"
+            },
+            {
+              "texto_cita": "«El señor Periquillo, como era tan goloso, así que volvió de Bilbao su madre, y ésta se descuidó un poco, metió mano a las pastillas del calomelanos y se comió un par de ellas.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la hambre no hay mal pan | Cuando estamos deseosos, | Y a lo dulce los golosos | De buena gana se van.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Condic. de las mujeres, 2 (R. 32. 195 2 ). X"
+            },
+            {
+              "texto_cita": "«Desbocado fue tu padre, | Que inobediente comió el bocado que le dio | La golosa de tu madre.»",
+              "autor": "Lope",
+              "referencia_obra": ", El hijo de la iglesia (47. 109)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pida el deseo, forme variedades | De antojo el gusto, el apetito humano | Sueñe goloso y pinte novedades, | Que aunque pida el invierno en el verano, | Y el verano y sus flores en invierno, | Hallará aquí quien se las dé a la mano.»",
+              "autor": "Valb.",
+              "referencia_obra": "Grand. mej. 4 (p. 49)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ)",
+          "definicion": "En el siguiente texto, Especialista en golosinas, buen cocinero.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No tiene príncipe cocinero más goloso ni que mejor sepa dar el punto a los guisados, que le sé yo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 11 (R. 1. 223 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε)",
+          "definicion": "Refranes.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Confite a confite, goloso me hice. Mtz. Kleiser, Refranero.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Un confite no hizo goloso a Gil, pero muchos sí. Mtz. Kleiser, Refranero.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Mec. Tornillo de rosca golosa. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Existen también tornillos especiales para madera como el de rosca golosa, de espiga cónica con un resalto horizontal de arista cortante.»",
+          "autor": "",
+          "referencia_obra": "Gran encicl. Larousse."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Goloso: ganeo, – onis, gulosus, belluo, – onis. »",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. X"
+        },
+        {
+          "texto_cita": "«Gula... gulosus... que es tragón consumidor glotón ceuón goloso.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. Vocab. X"
+        },
+        {
+          "texto_cita": "«Gluto... tragón glotón dissipador goloso.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. X"
+        },
+        {
+          "texto_cita": "«Edo... y estrix... la fembra que es mucho golosa y tragona.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. X"
+        },
+        {
+          "texto_cita": "«Canis... et catilo... es goloso y tragón así como los cachorros que golosamente y con gran cobdicia tragan lo que les dan a comer.»",
+          "autor": "",
+          "referencia_obra": "Id. ib."
+        },
+        {
+          "texto_cita": "«Non so desdeñosa, antes soy muy blanda, | Nin so muy golosa de la tu vianda.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 532."
+        },
+        {
+          "texto_cita": "«Un manjar del ques goloso | De las onrras e de amores.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 174."
+        },
+        {
+          "texto_cita": "«Con goloso paladar | E los carrillos rellenos ---.»",
+          "autor": "Mena",
+          "referencia_obra": ", Vicios y virt. p. 25 2 ."
+        },
+        {
+          "texto_cita": "«O goloso quán notoria | Es la culpa en que has caydo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. p. 23 1 . X"
+        },
+        {
+          "texto_cita": "«Es avariçia, do quiera que mora, | Viçio que todos los bienes confonde, | De la ganançia, do quier que se esconde, | Una solíçita inquisidora; | Sirve metales, metales adora, | De bienes agenos golosa garganta, | Que de lo ganado sufre mengua tanta | Como de aquello que espera aun agora.»",
+          "autor": "",
+          "referencia_obra": "Id. Lab. (Cl. C. 119. 56). X"
+        },
+        {
+          "texto_cita": "«¿,Quién me vos comió? ¡Ay, puta Marica, rostros de golosa, que tú me has lançado por puertas!»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Corbacho (Cl. C. 24. 125). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Era --- | Tafur, peleador, goloso, refertero.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1594 (R. 57. 277 2 )."
+        },
+        {
+          "texto_cita": "«Quiere el frayle goloso entrar en el tajador.»",
+          "autor": "",
+          "referencia_obra": "Id. 1373 (R. 57. 270 2 )."
+        },
+        {
+          "texto_cita": "«A ti Carnal goloso que te | Non coydas fartar, | Envíote el Ayuno por mi desafiar.»",
+          "autor": "",
+          "referencia_obra": "Id. 1049 (R. 57. 260 2 )."
+        },
+        {
+          "texto_cita": "«El león tan goloso al caballo sopesa.»",
+          "autor": "",
+          "referencia_obra": "Id. 298 (R. 57. 236 1 ). X"
+        },
+        {
+          "texto_cita": "«Al cuerpo muy goloso e al alma mesquina; | Desto hay muchas fablas e estoria paladina; | Desirte lo he más breve por te enviar aína.»",
+          "autor": "",
+          "referencia_obra": "Id. 297 (R. 57. 236 1 ). X"
+        },
+        {
+          "texto_cita": "«La golosina tienes, goloso laminero, | Querríes a quantas veçes gostarlas tú primero, | Enfrasquesçes, pecado, eres grand venternero, | Por cobrar la tu fuerza, eres lobo carniçero.»",
+          "autor": "",
+          "referencia_obra": "Id. (R. 57. 236 1 )."
+        },
+        {
+          "texto_cita": "«Del escolar goloso compannero de cucanna | Fise esta otra trova.»",
+          "autor": "",
+          "referencia_obra": "Id. 112 (R. 57. 230 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Dessemos al iudío goloso e logrero.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 681 (R. 57. 124 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. gulosus, -a, -um, ‘glotón, voraz, ávido’. It. goloso, fr. goulu, prov. golut, cat. golós. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

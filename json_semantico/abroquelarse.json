@@ -1,0 +1,126 @@
+{
+  "lema": "ABROQUELARSE",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Cubrirse con el broquel para no ser ofendido ( refl. ). Como los demás verbos que significan defensa, se construye, para indicar el tiro ó ataque que se quiere evitar:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde allí contra los tiros | Con el siniestro brazo se abroquelan.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 2 (3. 134)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aun ahora no me parece que he acabado de abroquelarme de las estocadas ---»",
+              "autor": "",
+              "referencia_obra": ". Píc. Justina , 1. 2. 1. 2 (R. 33.82 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Emplear alguna cosa como defensa de la propia persona ú opinión.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar lo que se toma como defensa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abroquelarse de su inocencia, de su autoridad.»",
+              "autor": "Acad.",
+              "referencia_obra": ", Salvá , Gram ."
+            },
+            {
+              "texto_cita": "«Danle combates interés y olvido, | Y de fe y esperanza se abroquela.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 7, son . 4 (R. 69. 248 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, en el mismo sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abroquelarse con su inocencia, con su autoridad.»",
+              "autor": "Acad.",
+              "referencia_obra": ", Salvá , Gram."
+            },
+            {
+              "texto_cita": "«Suelto el pavés á abroquelar se atreve | Con su pecho, que dobla armas de alientos.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 11 ( Fern. 7. 318)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abroquelado con un tremendo titulón de pergamino, escrito en un latín macarrónico y de botica, se servía de él para pasar por sabio entre los idiotas.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell. (R. 63. 378 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con contra , para expresar lo que ataca ú ofende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La relajación y la corrupción le rodean [á S. Bernardo], y él se abroquela contra sus ataques con la observancia más rígida, con la más delicada pureza de costumbres.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 71 (4. 253)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en . Menos propio que los giros anteriores.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hizo alarde nuestro político moralista de buen instinto envolviendo el acíbar de sus sátiras entre chuscadas y bizarrías, y abroquelándose en la holgura, desorden y licencia de un sueño para reprender sin usurpar los fueros del púlpito.»",
+              "autor": "Fernández",
+              "referencia_obra": "Guerra, Obr. de Quev. Disc. prelim. (R. 23. xv)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿O quién no cae en tentación, | Por mucho que se defienda | Y abroquele?»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1 , Sermón de amores (R. 32. 156 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de a y broquel. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

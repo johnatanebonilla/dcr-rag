@@ -1,0 +1,129 @@
+{
+  "lema": "ABSTRAER.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Filos. Considerar en un objeto un atributo ó una propiedad, sin atender á los otros atributos ó propiedades que tiene ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En los conceptos la facultad perceptiva elabora su representación, ya sea reuniendo varias notas y formando de ellas un todo, ya sea abstrayendo una idea y como separándola de otras que la acompañaban.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Ideol . 4 (182)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como pueden hallarse en objetos diversos unas mismas cualidades, damos mentalmente á éstas una entidad ó existencia separada, abstraída, aislada é independiente de los objetos en los cuales residen de una manera inseparable.»",
+              "autor": "Monlau",
+              "referencia_obra": ", Vocab. gramat . sb. voc. abstracto ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar separación. — Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando quieres dar lugar á que tu entendimiento desembarazado contemple las cosas sin cuerpo y abstraídas dél (eso llama el filósofo fantasmas), tú propio te retiras adonde los oídos, que no pueden negarse á la voz, vaquen su atención por el silencio en que los escondes.»",
+              "autor": "Quev.",
+              "referencia_obra": "Provid. de Dios (R. 48. 181 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Prescindir, dejar a un lado ( intrans .) Con de , para expresar el objeto que se deja.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero no hay duda que, abstrayendo de los hipérboles y encarecimientos propios del arte poética, todo lo histórico es muy conforme á la verdad.»",
+              "autor": "",
+              "referencia_obra": "Ovalle, Hist. de Chile , fol. 83 ( Dicc.Autor .)."
+            },
+            {
+              "texto_cita": "«Las nuevas frases como al vulgo ocultas, | De los antiguos términos abstraen.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rimas de Burg. son . 139 ( Obr. suelt. 19. 139)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En igual sentido se usa como refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me abstraigo de tal dictamen.»",
+              "autor": "",
+              "referencia_obra": "Dicc. Autor ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Refl . Enajenarse de los objetos sensibles, no atender á ellos por entregarse á la consideración de lo que se tiene en el pensamiento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¡Oh triste mundo! ¡Cuál empinas los intereses materiales, que ni aun le concedes unas treguas para abstraerse y ensimismarse, al que es presa del dolor, siquiera en tanto que lleva su librea!»",
+          "autor": "Fern.",
+          "referencia_obra": "Caball. Clemencia , 2. 10"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Part .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Retirado ó apartado del comercio y trato de las gentes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Carácter tétrico, pensador, abstraído.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", El hogar patriótico (R. 67. 148 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Distraído. Acad. Dicc .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. abstrahere , comp. de abs , ab , que expresa separación, y trahere , tirar, arrastrar. Hasta el siglo pasado, como se ve por el Dicc. Autor ., se usaba la ortografía etimológica abstraher . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

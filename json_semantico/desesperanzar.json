@@ -1,0 +1,71 @@
+{
+  "lema": "DESESPERANZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Quitar la esperanza ( trans .). Es verbo moderno que no aparece en el Dicc. Autor. ni en Terreros , y su formación ha sido ocasionada por la conveniencia de distinguir los sentidos de Quitar la esperanza y Causar impaciencia ó despecho, que se hallaban confundidos en desesperar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay que desesperanzarle.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar el objeto de la esperanza que se quita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desesperanzados de todo socorro por mar --- se vieron constreñidos á retirarse á su país.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 223 1 )."
+            },
+            {
+              "texto_cita": "«Prendado de una ninfa y desesperanzado de obtenerla, va á pedirla en matrimonio.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét. 4. 4 (1. 171)."
+            },
+            {
+              "texto_cita": "«Determinó al fin, desesperanzado de otro recurso, enviar con toda diligencia por una esclava mora que tenía en su poder el conde de Cabra.»",
+              "autor": "Solís",
+              "referencia_obra": ", 1. 2 (4. 201)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Perder la esperanza ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Empezaba ya á desesperanzar, cuando el brioso arrojo del oficial de voluntarios de Cataluña don Juan Antonio Fábregues puso término á la angustia.»",
+          "autor": "Toreno",
+          "referencia_obra": ", Hist . 5 (R. 64. 126 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo privativo des y esperanza .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe c : desesperancé, desesperancen. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

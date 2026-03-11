@@ -1,0 +1,144 @@
+{
+  "lema": "ATUFAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ". Enojar, enfadar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuenta, no me atufe; | Que aun puedo ceñir espada | El día que me disguste | Del manteo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "El bachiller Mendarias , 1. 7 (125)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Comúnmente se usa como refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Soy contento; pero tampoco vos no os atuféis porque el hombre os diga lo que le hace dudar, pues al fin se conforma con lo que vos decís.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Mayans, 47)."
+            },
+            {
+              "texto_cita": "«Oye, hidalgo, no se atufe, | Ni nos eche tantos retos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El condenado por desconfiado, 2. 14 (R. 5 . 195 1 )."
+            },
+            {
+              "texto_cita": "«Sobre todo dígale que --- se guarde de enojar á aquel gran Dios, pues --- voto á tal que se atufará si no sigue las huellas de Tucídides,»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 251 1 )."
+            },
+            {
+              "texto_cita": "«Andad con prudencia; | No atufarse y no meterse | A hacer agravio á los buenos.»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, Los comuneros, 1. 1 (3. 191)."
+            },
+            {
+              "texto_cita": "«Si amansar las iras quieres | Del que se atufa y patea, | Tú has de ser todo jalea, | Almíbar, jarabe y miel.»",
+              "autor": "Fernández",
+              "referencia_obra": ", Fáb. ascét. 2 . 12 (105). —"
+            },
+            {
+              "texto_cita": "«Las plumas se han atufado | Y aborrascado las varas.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovia, 2ª pte. 2. 15 (R. 20. 406 3 ). —"
+            },
+            {
+              "texto_cita": "«Si se atufa en el alma la ira, si se hincha la vanagloria, si se ufana el propio contento de sí ---»",
+              "autor": "León",
+              "referencia_obra": ", Nombres, 3 , Jesús (R. 37. 204 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ella se cerró de campiña, y así se estuvieron erre que erre muchos días, hasta que el padre, que ya estaba atufado, la dijo ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Cuento de cuentos (R. 48. 405 1 )."
+            },
+            {
+              "texto_cita": "«Doña Mostaza menuda, | Muy briosa y atufada; | Que toda chica persona | Es gente de gran mostaza.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 6, rom. 3 (R. 69. 154 2 )."
+            },
+            {
+              "texto_cita": "«Ansí garlaba atufado | De su tabaco y su vino.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 6, rom . 76 (R. 69. 212 1 )."
+            },
+            {
+              "texto_cita": "«Por Sevilla Escarramán | Muy atufado y muy turbio | Con la Méndez á las ancas | Bailaron nuevos insultos.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 5, baile 5 (R. 69. 121 1 ; * atusado)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atufarse de, con, por poco.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Atufarse en la conversación.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Refl. Recibir ó tomar tufo. Dícese también de los licores y especialmente del vino, por Avinagrarse, apuntarse.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo fablo á los graçiosos, | Alegres é mesurados, | Non á los muy atufados | Sin sabores é puntuosos.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 634."
+        },
+        {
+          "texto_cita": "«Pero non vos atufedes | Faziendo grand algasara.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 269."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y tufo ; cp. la expresión Subirse el humo á las narices . Port. atufar , entufar , henchir soplando, ensoberbecerse; tufar , henchir, airarse. El siguiente pasaje da idea del uso primitivo:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Me meto yo | Con usted para que venga | A insultarme? Pues si á mí | Se me atufa la mollera...»",
+          "autor": "Bretón",
+          "referencia_obra": ", A Madrid me vuelvo , 2. 5 (1. 81). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

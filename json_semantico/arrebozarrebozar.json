@@ -1,0 +1,214 @@
+{
+  "lema": "ARREBOZAR (REBOZAR).",
+  "categoria_gramatical": "",
+  "introduccion": "ARREBOZAR (REBOZAR).",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Cubrir casi todo el rostro con la capa ó manto ( trans. ). En este sentido se usa hoy más rebozar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tapaos | Con esa capa muy bien, | Y yo los ojos también | Os vendaré. Arrebozaos | Con mucho brío, eso sí.»",
+              "autor": "",
+              "referencia_obra": "Cald . El astrólogo fingido, 3. 19 (R. 7. 592 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La pastora arrebozada, viendo el feliz suceso de su compañera, fatigada del cansancio que había tomado en ayudar á quitar la daga á Rosaura, no pudiendo más sufrir el velo, se le quitó.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 49 2 )."
+            },
+            {
+              "texto_cita": "«Pues ¿qué tenéis que mirar? | Los que aquí quieren entrar | Públicos y arrebozados.»",
+              "autor": "Lope",
+              "referencia_obra": ", El molino , 2. 12 (R. 24. 30 3 )."
+            },
+            {
+              "texto_cita": "«Dos hombres veo | Con espadas y rodelas, | Y entrambos arrebozados.»",
+              "autor": "",
+              "referencia_obra": "Id. Al pasar del arroyo , 3. 28 (R. 24. 407 1 )."
+            },
+            {
+              "texto_cita": "«Yo iba tosiendo, y escarbando, por disimular mi flaqueza, limpiándome los bigotes, arrebozado, y la capa sobre el hombro izquierdo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 15 (R. 23. 511 2 )."
+            },
+            {
+              "texto_cita": "«Lázaro que en las tropas se hallaba | Ni arrebozado bien, ni descubierto --- | Al principio sagaz disimulaba.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 5 (R. 17. 438 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arrebozarse con, en la capa.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Se arrebozó luégo en ella [en su capa], | Si no es que se emborricó.",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Góng. rom . 45 (R. 32. 519 3 ).",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En el pasaje siguiente ha podido emplearse de por no llevar el sust. determinativo alguno:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cielo con los ojos enojados | De ver que un viento su carrera injuria, Arrebózase el rostro de nublados.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dragontea, 3 ( Obr. suelt. 3. 234)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Se halla usado, por analogía con cubrir, vestir , llevando por acusativo el nombre de la cosa con que uno se cubre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arrebocéme un capotillo que llevaba, y di á correr.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud, 1. 22 (R. 18. 421 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cumple, señor, que si salieres mañana, lleves rebozado un paño, porque si della fueres visto, no acuse de falsa mi petición.»",
+              "autor": "Celest.",
+              "referencia_obra": "6 (R. 3. 31 2 ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Ocultar, encubrir mañosamente ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si algo agrada comúnmente, alaban el natural del dueño, niegan el arte. ¿Pues qué importa, cuando eso no fuera rebozar la envidia?»",
+              "autor": "Lope",
+              "referencia_obra": ", Peregr. pról. ( Obr. suelt . 5. XVII )."
+            },
+            {
+              "texto_cita": "«Bien es verdad que alguna vez se puede con discreción y prudencia arrebozar y cubrir la verdad por algún artificio de palabra.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida dev . 3. 30 (R. 48. 312 1 )."
+            },
+            {
+              "texto_cita": "«Fáustulo, pastor, concordando los tiempos, bien sabía su nacimiento, certificado también de las grandes y magnánimas acciones que los pastorales ímpetus á lo largo arrebozaban.»",
+              "autor": "",
+              "referencia_obra": "Id. Rómulo (R. 23. 116 1 )."
+            },
+            {
+              "texto_cita": "«Os valéis del veneno y enemigo, | Y mudándole nombres ciento á ciento, | Queréis arrebozallo, como usura, | Con nombre de mohatra ó quitamiento.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "sát. á Flora (R. 42. 272 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien esto murmurare es Judas, y ladrón, aunque como Judas se arreboce con lo pobres.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 9 (R. 23. 62 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al fin conocí que iban arrebozados para nosotros; mas para los ojos eternos, que, abiertos sobre todos, juzgan el secreto más obscuro de los retiramientos del alma, no tienen máscara.»",
+              "autor": "Quev.",
+              "referencia_obra": "Zahurdas (R. 23. 309 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. En el arte de cocina, Bañar una vianda en huevo batido para freírla después ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En general.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arrebozar una fruta con, de azúcar.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Arrebócese con ello ( fam. ): frase que se dice por desprecio al que niega alguna cosa que se le pide, ó dilata darla ó la da cuando ya no sirve, Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2",
+      "definicion": ". Refl . Arracimarse las abejas al rededor de la colmena, ó las moscas ó las hormigas en alguna parte. En este sentido no se usa rebozar . Acad. Dicc .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Una de las señales que la enjambre está perfecta y se quiere ir, es que salen dos ó tres días antes, que se arrebozan ó arrevuelven al corcho de la colmena donde salen, y están allí esperando á la maestra.»",
+          "autor": "Herr.",
+          "referencia_obra": "Agríc. gen. 5. 5 (3. 283)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "La una forma es compuesta de rebozar , y la otra derivada de rebozo . Cat. arrebossar ; val. arreboçar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

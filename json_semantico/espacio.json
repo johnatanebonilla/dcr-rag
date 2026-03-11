@@ -1,0 +1,471 @@
+{
+  "lema": "ESPACIO.",
+  "categoria_gramatical": "",
+  "introduccion": "ESPACIO. Traemos aquí a colación este sustantivo por las locuciones adverbiales a que da lugar y, sobre todo, porque, alguna vez, se encuentra usado como adverbio en el español clásico.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(I)",
+      "definicion": "s. m.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Continente de los cuerpos físicos coexistentes.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrir una rendija en lo infinito para que yo vea lo que hay fuera del espacio y del tiempo.»",
+              "autor": "Azorín",
+              "referencia_obra": ", El libro de Levante ( Obr. complet. 5. 435)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Particularmente, Medio en que se mueven los astros. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Canta la estrella en el espacio | Como el ardiente ruiseñor | En la espesura.»",
+              "autor": "",
+              "referencia_obra": "F. L. Bernárdez, Poemas elementales , p. 90."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Parte de ese continente donde se encuentra o puede encontrarse un objeto. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Qué bravo espacio que toma | Entre esos montes su asiento! | Mas ¿cómo alabarla intento? | ¿No basta decir que es Roma?»",
+              "autor": "Lope",
+              "referencia_obra": ", El caballero del milagro ( Obr. dram . 4. 151)."
+            },
+            {
+              "texto_cita": "«Quiero volar a otro espacio, | Y de gloria y nombre en pos | Quiero recorrer el mundo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "El desengaño en el sueño , 3. 3 (4. 467). X"
+            },
+            {
+              "texto_cita": "«La noticia circula; los ánimos se agitan; se pronuncia otra ciudad, y luego otra, y después otra, y al cabo de pocos días se halla el gobierno supremo circunscrito al breve espacio donde puede alcanzar su vista.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Una hora de España , 5 (p. 503). X"
+            },
+            {
+              "texto_cita": "«El mar sin tiempo y sin espacio nos acaricia con sus | Olas comprensivas.»",
+              "autor": "",
+              "referencia_obra": "F. L. Bernárdez, Poemas elementales , p. 20. X"
+            },
+            {
+              "texto_cita": "«Trató de tener los ojos abiertos, pero los quebrantó el sueño. Cayó hasta el fondo de una substancia sin tiempo y sin espacio, donde las palabras de su mujer tenían un significado diferente.»",
+              "autor": "García Márquez",
+              "referencia_obra": ", El coronel no tiene quien le escriba , p. 91."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Capacidad de un lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El lugar | Puede todo aposentar | Su grande y vistoso espacio, | Con ovejas y borricos.»",
+              "autor": "Lope",
+              "referencia_obra": ", La boba para los otros ( Obr. dram . 11. 477)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Intervalo o distancia entre dos o más objetos. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El espacio era poco, y en un instante corriendo nos pusimos en las casas.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3, proem . ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«En dos lucientes estrellas | --- | Diuidido he visto el Sol | En breue espacio de cielo.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. poét . (Foulché-Delbosc, 1. 239). X"
+            },
+            {
+              "texto_cita": "«Caué la poca tierra, que en el espacio de dos peñas estaua ociosa, y enterré el retrato.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea (ed. R.A.E. 1951, p. 177). X"
+            },
+            {
+              "texto_cita": "«Chapines de tabí con sus virillas, | Entre una y otra descubriendo espacios | De la roja color de los topacios, | De nuestra edad y siglo maravillas.»",
+              "autor": "",
+              "referencia_obra": "Id. Gatom . p. 59."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "A espacios : A intervalos, alternativamente. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un sol cegante, de mediodía llanero, centellea en las aguas amarillas del Arauca... Por entre las ventanas, que a espacios rompen la continuidad de la vegetación, divísanse, a la derecha, las calcetas del cajón del Apure.»",
+              "autor": "Gallegos",
+              "referencia_obra": ", Doña Bárbara , p. 24."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Por espacio de : A través de, en la distancia de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dividen los Pyreneos a Francia de España, cortándola por espacio de casi ochenta leguas, del mar Mediterráneo al Océano Gálico.»",
+              "autor": "Herr.",
+              "referencia_obra": "Sobre la égl . 2 de Garcil . ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Separación que hay entre las rayas de un pentagrama (cfr. Dicc. Acad .).",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Salto dado por una máquina de escribir al pasar de un renglón a otro. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los originales deben presentarse en su redacción definitiva y en forma clara y nítida, escritos en máquina, a doble espacio, con amplio margen a la izquierda.»",
+              "autor": "",
+              "referencia_obra": "Thesaurus , XXXVI (1981), p. 390."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ )",
+          "definicion": "Espacio(s) imaginario(s): Mundo irreal fingido por la fantasía (cfr. Dicc. Acad .). X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué importa que me arroje de su altura, | Si mi soberbia sube hasta su asiento, | Y aun el espacio imaginario apura?»",
+              "autor": "Lope",
+              "referencia_obra": ", Creación del mundo (R. 158. 484)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Del sentido, también etimológico, de spatium como ‘acción de pasearse o lugar donde se pasea’ se pasó al de Recreo o distracción, acep. hoy desaparecida, pero que se encuentra todavía en el Siglo de Oro. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ya tvue vn coche | Fletado para Toledo | Y, viendo cuán a mi costa | Auía de se tardar, | Mandé a Pinauel trocar | Su espacio, y voy por la posta.»",
+          "autor": "Lope",
+          "referencia_obra": ", El castigo del discreto , p. 164. X"
+        },
+        {
+          "texto_cita": "«Las espaldas del palacio | Sobre aqueste parque dan, | Y aquí sentadas están, | Cantando y tomando espacio.»",
+          "autor": "",
+          "referencia_obra": "Id. La bella malmaridada ( Obr. dram . 20. 614)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Lapso, transcurso o porción de tiempo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasado el estrecho de Gibraltar, dio consigo aquel cosario en el reino de Marruecos, que entonces se llamaba Moros, el qual, como saltase en tierra y se juntase con una de las parcialidades de los moros, en breve espacio tomó el reino y se hizo rey.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst . 1. 2 (p. 429). X"
+            },
+            {
+              "texto_cita": "«Bien la pude representar delante de su imaginación, y estarla mirando algún espacio.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 29 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Los espacios que no llora [el Moro] | De memorias se alimenta.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. poét . (Foulché-Delbosc, 1. 86). X"
+            },
+            {
+              "texto_cita": "«Creció con esto el miedo religioso, | Y ansí vino a quedar inhabitable | Por largo espacio, el monte cavernoso, | Y a los pastores siempre inhospitable.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél . (2. 20). X"
+            },
+            {
+              "texto_cita": "«Apenas el breue espacio | De vna noche, que a su cuenta | Fue cifra de muchos años, | Mis brazos le permitieron.»",
+              "autor": "",
+              "referencia_obra": "Id. El castigo sin venganza , p. 193. X"
+            },
+            {
+              "texto_cita": "«Todo esto quiere espacio de tiempo.»",
+              "autor": "",
+              "referencia_obra": "Id. Dorotea (R.A.E. fol. 237 v. ). X"
+            },
+            {
+              "texto_cita": "«Le enjaboné los carrillos tan apriesa y tan apretadamente, que en poco espacio pudiera ser, por la abundancia de espuma, o madre de Venus, o mula de dotor.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz . 1. 3 (Cl. C. 108. 129). X"
+            },
+            {
+              "texto_cita": "«Y al cabo de poco espacio me trajo todo lo que había pedido, excepto los dos carros de carbón.»",
+              "autor": "",
+              "referencia_obra": "Ib . 1. 6 (Cl. C. 108. 247). X"
+            },
+            {
+              "texto_cita": "«Queda sola la scena por un breve espacio.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña (1. 105)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Por espacio de : Durante. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes que saliesen los hijos de Israel de Egipto, tenían rey, mas no tenían ley; y después que salieron por espacio de muchos tiempos, tuvieron ley y no tuvieron rey.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst . 1. 2 (p. 377). X"
+            },
+            {
+              "texto_cita": "«Una sequedad de la tierra y del aire, que continuó por espacio de veinte y seis años.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 13 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Y si por espacio de un siglo todavía conservamos la preponderancia literaria, ni esto fue más que el efecto necesario del impulso anterior, ni nuestra literatura tuvo un carácter sistemático investigador, filosófico.»",
+              "autor": "Larra",
+              "referencia_obra": ", Crít. liter. y artíst . (Cl. C. 27. 161)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Modernamente se dice, por especialización semántica, del Tiempo dedicado a un programa en la radio o televisión, acep. muy frecuente no incluida en el Dicc. Acad . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero donde más hincapié se va a hacer en estas fiestas es, a priori , en los espacios infantiles.»",
+              "autor": "",
+              "referencia_obra": "País semanal , Ocio , 14 de marzo de 1982 (Madrid), p. 2. X"
+            },
+            {
+              "texto_cita": "«Y si los espacios de tipo general dedicarán su atención a las fallas, los deportivos lo harán con el baloncesto.»",
+              "autor": "",
+              "referencia_obra": "Ib . 14 de marzo de 1982 (Madrid), p. 2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En particular, Lentitud, tardanza, calma.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En fin creciendo igualmente nuestro espacio por una parte, y por otra los excessos de los enemigos... eran ya sospechosas sus fuerzas para encubiertas.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 1. 5 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se utiliza normalmente como término de una prep.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquel proverbio miraba: | \"Con espacio date prisa\"; | Pero, pues tanta me das, | Yo me resuelvo en Fineo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los ramilletes de Madrid ( Obr. dram . 13. 492). X"
+            },
+            {
+              "texto_cita": "«Por la barba corre el agua, | Con más espacio beued.»",
+              "autor": "",
+              "referencia_obra": "Id. El conde F. González (R.A.E. 40. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , dando lugar a la locución De espacio (de donde surgió el adv. despacio ): Lentamente, poco a poco (véase \"Despacio\"). X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por descendiente me juzgan | Los que me miran de espacio | --- | De aquel cauallo Troiano.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. poét . (Foulché-Delbosc, 1. 168). X"
+            },
+            {
+              "texto_cita": "«Otras damas del palacio | No me pudieran causar | Afecto tan singular, | Ni yo las miro de espacio.»",
+              "autor": "Lope",
+              "referencia_obra": ", El palacio confuso , p. 49. X"
+            },
+            {
+              "texto_cita": "«Pon, Teodoro, para ti, | Y no lo entiende Marcela; | Que quiçá le entenderás | Cuando de espacio le leas.»",
+              "autor": "",
+              "referencia_obra": "Id. El perro del hortelano , p. 90. X"
+            },
+            {
+              "texto_cita": "«Claro está; | Que ciudad tan rica y bella, | Viviendo de espacio en ella, | Más de espacio admiraré.»",
+              "autor": "",
+              "referencia_obra": "Id. La estrella de Sevilla , p. 5."
+            },
+            {
+              "texto_cita": "«El nombre de Margarita | De espacio repito al viento, | Porque antes que yo le acabe, | Le vaya empezando el eco.»",
+              "autor": "Mto.",
+              "referencia_obra": "El poder de la amistad , 1. 1 (R. 39. 22 2 )."
+            },
+            {
+              "texto_cita": "«Hay muchas cosas que faltan, | Y han de verse muy de espacio.»",
+              "autor": "",
+              "referencia_obra": "Id. De fuera vendrá , 1. 5 (R. 39. 60 3 )."
+            },
+            {
+              "texto_cita": "«No tienes que darle prisa; | Que le he de hablar muy de espacio.»",
+              "autor": "",
+              "referencia_obra": "Id. Trampa adelante , 2. 11 (R. 39. 154 1 ). — Estar de espacio : No tener cosa urgente que hacer, no estar con prisa. X"
+            },
+            {
+              "texto_cita": "«Ahora que estoy de espacio | Cantar quiero en mi bandurria | Lo que en más graue instrumento | Cantara.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. poét . (Foulché-Delbosc, 1. 32)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En lugar de con o de se usó también a , surgiendo así la locución A espacio (con la variante aspacio , que, según Corominas , se encuentra en Rojas Zorrilla y Torres Villarroel ). X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allá quiero, Bruneto, que te partas, | Y lleves unas cartas a mi esposa, | Y le pidas dineros, que sospecho | Que caminan a espacio estos negocios.»",
+              "autor": "Lope",
+              "referencia_obra": ", El genovés liberal ( Obr. dram . 1. 127). X"
+            },
+            {
+              "texto_cita": "«Riñó a espacio y murió aprisa.»",
+              "autor": "",
+              "referencia_obra": "Id. Sin secreto no hay amor , p. 32. X"
+            },
+            {
+              "texto_cita": "«No pases adelante; | Dame la cicuta o hierba, | Guillermo en taza penada, | Muera a espacio.»",
+              "autor": "",
+              "referencia_obra": "Id. Alejandro el Segundo ( Obr. dram . 1. 587)."
+            },
+            {
+              "texto_cita": "«Polilla, amigo, el pesar | Me quita; dale a mi amor | Alivio. —A espacio, señor, | Que hay mucho que confesar.»",
+              "autor": "Mto.",
+              "referencia_obra": "El desdén con el desdén , 2. 1 (R. 39. 7 2 )."
+            },
+            {
+              "texto_cita": "«A espacio, penas, a espacio.»",
+              "autor": "",
+              "referencia_obra": "Id. Primero es la honra , 2. 16 (R. 39. 240 3 )."
+            },
+            {
+              "texto_cita": "«Ya pienso que estoy riñendo, | Y no puedo hacerlo a espacio.»",
+              "autor": "",
+              "referencia_obra": "Id. El parecido en la corte , 1. 1 (R. 39. 312 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(II)",
+      "definicion": "adv . Se usó, aunque raramente, en el Siglo de Oro equivaliendo a Despacio, según puede observarse en el siguiente texto de Hojeda . Este uso debió de surgir de la locución A espacio por pérdida o contracción de la a con la vocal final de la palabra anterior.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Andaba en mente y ojos elevada | Ya espacio, ya parándose, ya aprisa.»",
+          "autor": "Hojeda",
+          "referencia_obra": ", Crist . 7 (R. 17. 455 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV : X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Espacio en esta manera: cessatio , onis; tarditas , atis .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab . X"
+        },
+        {
+          "texto_cita": "«Espacio de tiempo o lugar: spatium , ii; intervallum , i; intercapedo , inis .»",
+          "autor": "",
+          "referencia_obra": "Id. ib . +"
+        },
+        {
+          "texto_cita": "«Casó [Enrique IV], seyendo príncipe, con la princesa doña Blanca ---, con la cual estouo casado por espacio de diez años.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 1 (Cl. C. 49. 11). X"
+        },
+        {
+          "texto_cita": "«A quien todos los negocios deste reino e los suyos propios en tan poco de espacio, a manera de tormenta arrebatada concurrieron.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 5 (Cl. C. 99. 28). — Siglo XIV : +"
+        },
+        {
+          "texto_cita": "«La bondat largamente resçibe los omes e mantiénelos en espaçio e en viçio, asý commo en el paraýso las buenas almas; e la maldat resçibe los omes estrechamente e mantiénelos en estrechura e en tormento, asý commo el infierno las almas de los malos.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 85 (p. 173). +"
+        },
+        {
+          "texto_cita": "«El Cauallero Zifar vio dos portiellos grandes en la çerca que non estaua ý gente ninguna, e preguntó: ¿Qué es aquel espaçio que está allý vazío?»",
+          "autor": "",
+          "referencia_obra": "Ib . 22 (p. 55). — Siglo XIII : +"
+        },
+        {
+          "texto_cita": "«Salid a la selua, et taiad, e façet espacios e anchuras.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", General estoria , 2. 1 ( Josué , 56. 81)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Semicultismo derivado del lat. spatium ‘espacio’. Fr. espace , it. spazio , prov. espaci , cat. espay , gall. espacio , port. espaço . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

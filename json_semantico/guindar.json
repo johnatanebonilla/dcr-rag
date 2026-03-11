@@ -1,0 +1,330 @@
+{
+  "lema": "GUINDAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Subir en alto alguna cosa, colgar, izar ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Más corpulento que maromas de guindar campanas.»",
+              "autor": "",
+              "referencia_obra": "Pic. Just. fol. 36 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Labrando la piedra en el mismo lugar donde se saca y corta, y poniéndola allí en la carreta, y trahída a la iglesia, sin descargarla de allí, guindarla y ponerla en su lugar.»",
+              "autor": "Sig.",
+              "referencia_obra": "Hist. 3. 3. 9 ( Dicc. Autor. ). X"
+            },
+            {
+              "texto_cita": "«Ola, acosta essas barcas, echad planchas, | Guarnid essos montones, poned cuerdas, | Guindemos lo primero los cavallos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las grandezas de Alejandro ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«Ya las amuras y las trizas cazan, | Y guindan las pessadas municiones, | Entoldando de bombas, lanzas y armas | Los fuertes bordes y las plazas de armas.»",
+              "autor": "Lope",
+              "referencia_obra": "). X"
+            },
+            {
+              "texto_cita": "«Vendrá una grúa para guindar las campanas.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Jesús, qué arete tan lindo | Es la agachadita G! | Cuando con mi novia esté | En la oreja se lo guindo.»",
+              "autor": "Pombo",
+              "referencia_obra": ", Cartilla objetiva ( Fáb. y verdades, ICC. p. 262)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—β β )",
+          "definicion": "Con la combinación desde... a, para indicar punto de partida y llegada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Envuelto entre las sábanas mi amo, | Al mar le haré llevar, y desde el barco | Le guindaré a la nave fácilmente.»",
+              "autor": "Lope",
+              "referencia_obra": ", El amigo hasta la muerte, 2. 14 (R. 52. 334 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en, para indicar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sebastiana puede quedarse aquí, en la sala. Yo guindaré mi chinchorro en el corredor del caney. Necesito aire fresco.»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine, 1 (p. 53)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con para , que expresa la finalidad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La techumbre de la casa, de latas pintadas de rojo, se había desplomado con estruendo sobre la sala, donde el viejo guindaba su chinchorro para la siesta.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Manuel Pacho , 2 (p. 19). — Siendo el término una prop. de infinitivo. X"
+            },
+            {
+              "texto_cita": "«Mientras unos guindaban sus chinchorros para tenderse a sudar la fiebre o a lamentarse del beriberi que los hinchaba, otros prendían fuego, y las mujeres amamantaban a sus criaturas, que no les daban tiempo para quitarse de la cabeza las tinajas rebosantes de jugo.»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine , 3 (p. 219)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Absol . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así lo gritó Martín a los trabajadores de la grúa, como si su voz pu diese escucharse en medio de esa algarabía de los tablados y los andamios: — ¡Guinda! — ¡Torna! — ¡Estira! — ¡Tente! — ¡Para! — ¡Menea! — ¡Vuelve! — ¡Revuelve!»",
+              "autor": "Fuentes",
+              "referencia_obra": ", Terra Nostra, p. 85."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "mar. Subir por medio de un cabo o aparejo un objeto pendiente de él. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Guindar los masteleros o mastelerillos, es, si están en cubierta cuando se arbola el aparejo, ponerlos en su sitio en la arboladura.»",
+              "autor": "",
+              "referencia_obra": "Encicl. univ. ilustr."
+            },
+            {
+              "texto_cita": "«Guindá el joanete; amainá el borriquete ---.»",
+              "autor": "Salazar",
+              "referencia_obra": ", Cartas, 3 (R. 62. 293 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas. refl. Con la prep. con, para señalar el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tendrá un cabo --- que ha de estar vn poco apartado del propio mástil, a la parte de la proa, guarnido en vna argolla de yerro, rezia y fuerte, y con esta se guindará, y se vsará como conuenga.»",
+              "autor": "",
+              "referencia_obra": "García de Palacio, Instr. náutica, p. 101."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, irónicamente, Colgar a alguien en la horca ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vuestro padre murió ocho días ha con el mayor valor que ha muerto hombre en el mundo: dígolo como quien le guindó.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 7 (R. 23. 493 1 ). X"
+            },
+            {
+              "texto_cita": "«La víctima no descansó hasta que vio guindar a su agresor.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, que indica el lugar y con, que indica el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues, mira, capitán de charco sucio: en la cuaresma entrante no hago colgar un Judas solo, sino dos: ¡A la Rosalita y al Marcos! A ella la guindo, bien alta y bien fea, en la torre de Santa Bárbara, con su buen letrero.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", La Marquesa de Yolombó ( Obr. complet. p. 460 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con sobre, que señala el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«—",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Qué cadáveres han guindado sobre los peñascos cimeros del río? — ¿Cadáveres? — ¡Sí, señor, sí, señor! Los encontramos esta mañana porque los zamuros los denunciaron. Cuelgan de unas palmeras, desnudos, amarrados con alambres por las mandíbulas.»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine, 2 (p. 136)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo sabía que el padre sería guindado, un día u otro. La soga estaba allí, esperándole.»",
+              "autor": "",
+              "referencia_obra": "L. Novás ( Gran encicl. Larousse ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Miá, tú, Juan Evangelista, que Aquiles es tercio traidó, ¿sabes?, marañista que va a queá guindao en sus marañas.»",
+              "autor": "Cela",
+              "referencia_obra": ", La Catira, 1. 2 (p. 88)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Descolgar de alguna parte por medio de cuerda, soga u otro artificio ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con hasta, que señala el destino.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Luego a un tejado me suben, | Y al cabo de esto me envainan | Por un esmeril de yeso, | Guindándome hasta una sala, | Sin haberse otra vez visto | Lacayo por cerbatana.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por señas, 2. 10 (R. 5. 472 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por, para señalar el medio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al otro paralítico que le guindaron por el techo de la sinagoga --- le dijo ---.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. 2. 7 (R. 27. 304 2 )."
+            },
+            {
+              "texto_cita": "«Ya por los cabestrantes arrimados | Guindaban el sustento y municiones.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 9 ( Obr. suelt. 2. 134)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como ya él había tomado el cordel atole a una almena, y guindose por la torre.»",
+              "autor": "",
+              "referencia_obra": "Chrón. del R. D. Juan II, 121 ( Dicc. Autor. ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Además con la prep. con, que señala el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ladrón salió del edificio guindándose por una ventana con una cuerda, al amparo de la oscuridad.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Germ. Aquejar o maltratar ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El paje despavorido | Del sueño se desasía | Gridando: — ¿Qué sientes, coima? | ¿Que te guinda, Catalina?»",
+              "autor": "Hidalgo",
+              "referencia_obra": "( Pagés , Vocab. ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Lograr una cosa en concurrencia de otros.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fulano les guindó la plaza o empleo.»",
+              "autor": "",
+              "referencia_obra": "Dicc. Autor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E guindaron los artimones, e calaron timones de caxa.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 61."
+        },
+        {
+          "texto_cita": "«Guindaron velas e ovieron buen tiempo.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 94. X"
+        },
+        {
+          "texto_cita": "«Calaron las mezañas e los bastardos e guindaron los artimones.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 70. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«\" E guindolo \" = deposuit eum per fenestram.»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del fr. guinder y éste del escand. ant. vinda ‘envolver, devanar, izar por medio de un guindaste’. It. ghindare, port. y cat. guindar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

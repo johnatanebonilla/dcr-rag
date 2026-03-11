@@ -1,0 +1,474 @@
+{
+  "lema": "ALLENDE.",
+  "categoria_gramatical": "",
+  "introduccion": "ALLENDE. Como adverbio que es en su origen, se usa absolutamente ó acompañado de un compl. formado con de; pero esta partícula se omite á menudo, y el adverbio se convierte en preposición.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose de lugar, Más allá, de la parte de allá. Se usa con verbos que significan movimiento tanto como con verbos que denotan reposo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se fue á Lisbona, y de ahí entró en una nao y pasó allende al rey Abén Jacob de Belamarín.»",
+              "autor": "",
+              "referencia_obra": "Comend. Griego, Lab. 159 (64 1 )."
+            },
+            {
+              "texto_cita": "«Les haría que le diesen todo su corazón hecho oro, que es decir hecho amor, y que fuese su deseo continuo rogar que su reino creciese, y que se extendiese más y allende su gloria.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Amado (R. 37. 190 1 )."
+            },
+            {
+              "texto_cita": "«En presencia | Regía con su prudencia | La corte allende y aquende, | Y en poco tiempo de ausencia, | Cuando vuelve no la entiende.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 225 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Precedido de prep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En allende robó aquel ídolo de Mahoma, que era todo de oro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 1 (R. 1. 257 2 ). Cp. Clem. Coment. 1, p. 13."
+            },
+            {
+              "texto_cita": "«Te celebran | Hasta los moros de allende.»",
+              "autor": "",
+              "referencia_obra": "Id. Pedro de Urdemalas , 1 ( Com . 2. 257)."
+            },
+            {
+              "texto_cita": "«Distínguense por este monte en España los ultramontanos de los citramontanos, ó como el vulgo habla, los montañeses de aquende y de allende.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 3 (R. 30. 3 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Seguido de de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién podrá conocer las costumbres góticas sin saber la historia antigua de estos pueblos, su gobierno mientras estaban allende del Rin, su religión, su cultura, sus usos y costumbres?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la legisl. y la hist . (R. 46. 290 2 )."
+            },
+            {
+              "texto_cita": "«Nuestros visigodos extendieron sus conquistas hasta el Ródano, y fundaron allende del Pirineo una provincia que agregaron al imperio español.»",
+              "autor": "",
+              "referencia_obra": "Id. Descr. del castillo de Bellver , nota 6 (R. 46. 404 2 ). —"
+            },
+            {
+              "texto_cita": "«Allende de estas eternas barreras no encontraréis sino monstruos y peligros.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. inaug. del Instit. Astur . (R. 46. 319 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pospuesto al nombre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuéntame lo que haya acerca del viaje de Sevilla; esto es, si se cree que la corte se quede por allá: quédese en buen hora; que yo del Tajo allende no pasaré jamás.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 169."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Como prep. , Más allá de, de la parte de allá de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vimos al rey último Boabdelí --- tornado á su primera patria allende la mar.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 1 (R. 21. 69 2 )."
+            },
+            {
+              "texto_cita": "«A Sem cupo toda el Asia allende el río Eufrates hacia el oriente con la Suria, donde está la Tierra Santa.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 1 (R. 30.1 1 )."
+            },
+            {
+              "texto_cita": "«Desamparando la Bética ó Andalucía, pasó allende el mar con ochenta mil combatientes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 3 (R. 30. 121 2 )."
+            },
+            {
+              "texto_cita": "«Tomó por remedio huír allende el río Tigre.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 28 (R. 6. 358 1 )."
+            },
+            {
+              "texto_cita": "«Toda la tierra que está allende el río Jordán quedó en poder de los romanos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 15 (R. 6. 514 2 )."
+            },
+            {
+              "texto_cita": "«Para forzar al rey de Mallorca á la cesión proyectada, el de Francia tenía como en rehenes á sus dos hijos mayores, Jaime y Sancho, y ocupaba con las armas sus estados de allende el Pirineo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. del castillo de Bellver , nota 2 (R. 46. 425 1 )."
+            },
+            {
+              "texto_cita": "«Arrastran á los pies de sus amos una pesada cadena allende el Mediterráneo.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 44 (3. 120)."
+            },
+            {
+              "texto_cita": "«En ningún género de literatura ha sido tan perjudicial como en éste [el novelesco] el furor de traducir; y en ninguno ha ahogado á tal punto el genio nacional la inmensa avenida de obras con que diariamente inundan nuestro suelo los escritores de allende el Pirineo.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . p. 570."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le aparecieron dos doncellas muy hermosas é apuestas allende la humana natura.»",
+          "autor": "Palacios Rubios",
+          "referencia_obra": "( Capm. Teatro , 2. 6)."
+        },
+        {
+          "texto_cita": "«Sobre tu edad, contra la costumbre, allende tus méritos te ha dado todo lo que podías imaginar.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 5. 12 (R. 30. 141 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "met. Además ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Como adv. Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aun por esto, allende de lo que dicho tenemos, le llama Dios Pastor uno en el lugar alegado.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Pastor (R. 37. 93 1 )."
+            },
+            {
+              "texto_cita": "«Allende deste autor Flegón --- deste mismo temblor de tierra parece que siente y escribe Plinio.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 29, § 1 (R. 6. 360 2 )."
+            },
+            {
+              "texto_cita": "«Allende desto debrías aún mirar que no sólo siembras lágrimas para adelante, sino también dificultades para la buena vida por el largo uso de la mala.»",
+              "autor": "",
+              "referencia_obra": "Id. Guía , 1. 25, § 2 (R. 6. 94 1 )."
+            },
+            {
+              "texto_cita": "«Aprovecha esta consideración no sólo para bien vivir, --- sino allende desto para bien morir.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid . 1, miérc. en la noche (R. 8. 36 1 )."
+            },
+            {
+              "texto_cita": "«Que por esto había caído [el clero] en mal caso y perdido todos los bienes eclesiásticos que tenía en todo el reino, y se debían confiscar para el rey, y allende desto, que las personas debían ser encarceladas.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 20 (R. 60. 205 1 )."
+            },
+            {
+              "texto_cita": "«Allende de esto, el tercer atormentador y más cruel es el gusano de la conciencia.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 1. 16 (1. 147)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allende de remediar tu vida, ganaste muy gran honra.»",
+              "autor": "",
+              "referencia_obra": "Celest . 2 (R. 3. 16 1 )."
+            },
+            {
+              "texto_cita": "«La guerra de esta enemiga, allende de ser muy enojosa, es más peligrosa.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 5 ( Míst . 3. 135)."
+            },
+            {
+              "texto_cita": "«Todas las sagradas cerimonias y ejercicios exteriores (allende de ser en sí obras santas y virtuosas) ayudan grandemente á alcanzar y conservar las virtudes exteriores.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 5, § 2 (R. 8. 143 1 )."
+            },
+            {
+              "texto_cita": "«Allende de levantarse algunas tentaciones del ahondar mucho en esta materia, no es razón que anden siempre los siervos de Dios con esta manera de tristeza y desmayo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 5, § 19 (R. 8. 157 2 )."
+            },
+            {
+              "texto_cita": "«Al fin, soy una cosa, | Si no lo quieres negar, | Que, allende de ser sabrosa, | Muchos, por ser tan preciosa, | No la pueden alcanzar.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Diál. entre mem. y olv . (R. 32. 214 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Como prep. Además de, fuera de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allende lo dicho, la cosa que más claramente prueba la insuficiencia de la filosofía para dar reglas de bien vivir, es la ignorancia que los filósofos tuvieron del último fin del hombre.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 3 (R. 6. 289 2 )."
+            },
+            {
+              "texto_cita": "«Allende los manjares suavísimos destas virtudes susodichas, --- había aún otro manjar de mayor precio y suavidad.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 6, § 2 (R. 6. 411 1 )."
+            },
+            {
+              "texto_cita": "«Allende la obligación que tenemos de amarle por quien él es, necesariamente amamos sus cosas.»",
+              "autor": "",
+              "referencia_obra": "Id. Carta de Euquerio , § 4 (R. 6. 177 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un prop. indic.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allende que en las letras profanas se hace mucha mención [de la imposición de los nombres], en la Escritura sagrada se tiene en tanto ---»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 1. 1 ( Míst . 3. 1)."
+            },
+            {
+              "texto_cita": "«Allende que de locas | Pecan muchas que sé yo, | No son todas sanas, no, | Las que veis andar sin tocas.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, Condic. de las mujeres (R. 32. 185 2 )."
+            },
+            {
+              "texto_cita": "«Allende que es cosa fea | Ante Dios, y muy gran vicio, | Que donde el hombre se emplea, | Siendo igual el buen servicio, | El galardón no lo sea.»",
+              "autor": "",
+              "referencia_obra": "Id. 3, Consiliatoria (R. 32. 232 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Se halla allent , allen , alende , alen , alliende , aliende .) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mandaron cerrar las puertas porque otros no entrasen allende de los que ellos querian.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 2 (R. 68. 381 1 )."
+        },
+        {
+          "texto_cita": "«Y el infante les mandó que esa noche pasasen el puerto é lo dexasen tomado, é corriesen las aldeas de allende.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 46 (R. 68. 297 1 )."
+        },
+        {
+          "texto_cita": "«La libertad es preciada | Allende de todo precio.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Prov . 26 ( Rim. inéd . 348)."
+        },
+        {
+          "texto_cita": "«Sesenta leguas allende | Contiene la su longura. »",
+          "autor": "",
+          "referencia_obra": "Id. Clar. var . 303 ( Rim. inéd . 316)."
+        },
+        {
+          "texto_cita": "«Era carga allende de las fuerzas á mí posibles.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "proem . (R. 36. 340)."
+        },
+        {
+          "texto_cita": "«Aunque auia conuolado | Allende de la ribera, | Ni auia seso cobrado | Ni sus miedos mitigado.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron . 24 (13 2 )."
+        },
+        {
+          "texto_cita": "«Este conquiso por fuerza de guerra, | Allende de quanto diré relatando, | Ubeda, Andujar e mas Montiel ---»",
+          "autor": "",
+          "referencia_obra": "Id. Lab . 281 . 2 (93 2 )."
+        },
+        {
+          "texto_cita": "«Crescian los titulos frescos a bueltas | De aqueste rey nuestro muy esclarecido, | Los quales aurian allende crescido | Si no recrecieran algunas rebueltas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 147 (60 1 )."
+        },
+        {
+          "texto_cita": "«Los sarmathas, colchos y los massagetas | Y aun los hircanos que son mas allende.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 39 (13 2 )."
+        },
+        {
+          "texto_cita": "«Asentó real allende la puente.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 48."
+        },
+        {
+          "texto_cita": "«Por la mañana fallaronse allende del dicho cabo --- é paresció á la mano izquierda una isla que es agora deshabitada, --- é paresció otra isla mas allende poblada.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 45."
+        },
+        {
+          "texto_cita": "«El rreyno de Portogal [tremerá] | E Granada otro que tal, | Fasta allende la Cerdeña.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 222. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Pasan alen la mar en Africa, porque es mas caliente.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 15 ( Bibl. venat. 3. 326)."
+        },
+        {
+          "texto_cita": "«Quantos passaron los puertos, | Infantes e caualleria, | Alen mar fincan muertos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 889 (R. 57. 504 1 )."
+        },
+        {
+          "texto_cita": "«Son las vocerías, la una á las colladas --- et la otra allende del rio.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 3. 6 ( Bibl. venat. 2. 87)."
+        },
+        {
+          "texto_cita": "«Pasó Ebro allende é tomó luego el castillo de Caytay.»",
+          "autor": "Crón. Sancho IV",
+          "referencia_obra": ", 5 (R. 66. 80 1 )."
+        },
+        {
+          "texto_cita": "«De los maravedís que tienen estos homes buenos, que así commo los tienen en lugares sabidos, que ge los mande dar en este servicio que agora cogen en el reino de Castilla, é los que lo non tienen en lugar sabido, que gelos mande dar de Duero allende.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 40 (R. 66. 31 1 )."
+        },
+        {
+          "texto_cita": "«Aquel moro salió é --- pasó allende la mar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2 (R. 66. 4 2 )."
+        },
+        {
+          "texto_cita": "«Tengo que si un moro de allende la mar esto ficiese, que le debia yo mucho amar et preciar.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 5 (R. 51. 399 1 )."
+        },
+        {
+          "texto_cita": "«Destos [falcones] hay dos naturas: los unos son de aquen mar; los otros de allen mar.»",
+          "autor": "",
+          "referencia_obra": "Id. Caza , 1 ( Bibl. venat. 3. 12)."
+        },
+        {
+          "texto_cita": "«Los de allende del puerto han de haver plazo de quince dias de corte.»",
+          "autor": "O. L.",
+          "referencia_obra": "2. 244). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Mandamos que sea tenudo --- de seguir el alzada que es fecha para el rey alende los puertos.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 463)."
+        },
+        {
+          "texto_cita": "«Nin en mercados, nin en ultraportos, nin alende la mar non osen andar con los cristianos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 2. 18 (184)."
+        },
+        {
+          "texto_cita": "«Si algun omne toma heredad de su vecino allende de los fitos --- deve perder luego lo que tomó demás.»",
+          "autor": "",
+          "referencia_obra": "Ib . 10. 3. 4 (170)."
+        },
+        {
+          "texto_cita": "«Sonó por la Castiella su virtut sin mensura | Por toda aliende sierra e por Estremadura.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 730 (R. 57. 63 1 )."
+        },
+        {
+          "texto_cita": "«Embió un su omne mientre ellos comien, | Adocir los vestidos alland ond sedien.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 482 (R. 57. 55 1 )."
+        },
+        {
+          "texto_cita": "«Passó allen la sierra a agosto coger.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 421 (R. 57. 53 1 )."
+        },
+        {
+          "texto_cita": "«Al fflumen Jordan ayna vino. | Alliende passo a la ribera.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egipc . (R. 57. 318 1 )."
+        },
+        {
+          "texto_cita": "«Mató a Bucar, al rey de alen mar.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2425 (R. 57. 27 1 )."
+        },
+        {
+          "texto_cita": "«Acá torna Bucar: venist dalent mar. | Verte as con el Cid el de la barba grant.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2409 (R. 57. 26 2 )."
+        },
+        {
+          "texto_cita": "«Dezir uos quiero nueuas de alent partes del mar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1620 (R. 57. 19 2 )."
+        },
+        {
+          "texto_cita": "«Sonando van sus nueuas alent parte del mar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1156 (R. 57. 14 2 )."
+        },
+        {
+          "texto_cita": "«Alen de Teruel don Rodrigo passaua.»",
+          "autor": "",
+          "referencia_obra": "Ib . 911 (Volm. 23)."
+        },
+        {
+          "texto_cita": "«La serna de Fuente Seca aquent la carrera, et allent la carrera.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1173 ( Berg. Antigüed. 2. 461)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cum aliis villis que sunt frontariis de vestro termino allend serram.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1208 ( Mem. Acad. Hist . 8. 53)."
+        },
+        {
+          "texto_cita": "«Et do hominibus de Palençuela la serna de la Beguela per ortos, et la serna alent la vinea.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Palenzuela , año 1074 ( Muñoz , F . 277)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Gall. ant. allen , alen; port. alem: comp. de allá y ende . La construcción allá de Ebro , que queda consignada en ALLÁ , 1, a, δ , da luz para explicar este origen; en efecto, significando allá lo mismo que más allá y ende lo mismo que de ese , de aquel punto , allende vale más allá de ese punto. Ende representa en este caso el punto de partida para fijar el acá y el allá. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

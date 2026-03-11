@@ -1,0 +1,535 @@
+{
+  "lema": "CALENTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar calor, hacer subir la temperatura de algún objeto ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El mismo sol una vez nos calienta y otra nos abrasa.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 482 2 )."
+            },
+            {
+              "texto_cita": "«Toros de bronce Fálaris calienta, | Y ellos bramando están, y hombres gimiendo | En sus entrañas, y el feroz lo mira.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 9 (R. 17. 468 2 )."
+            },
+            {
+              "texto_cita": "«Las pajas de su nido | El pájaro calienta | Hasta la risa del dorado oriente.»",
+              "autor": "Lope",
+              "referencia_obra": ", Porfiando vence amor, 2 . 1 (R. 41 . 243 2 )."
+            },
+            {
+              "texto_cita": "«Para ti corre siempre sin cesar el agua de la fuente clara. Para ti calienta sus huevos la perdiz y la gallina.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2 . 13 , consid. 2 (R. 8 . 462 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué cosa más digna de dolor y sentimiento que el olvido de un Señor en cuyos brazos andabas, con cuyos beneficios vivías, cuyo sol te calentaba, cuya providencia te gobernaba conservaba?»",
+              "autor": "Doctr.",
+              "referencia_obra": "crist. 3. 10, § 1 (R. 11. 154 2 )."
+            },
+            {
+              "texto_cita": "«El cual [culto de los ídolos], sacado aquel rinconcillo de Judea, reinaba en todo lo que alumbra y calienta el sol.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 5. 4. 1, § 1 (R. 6. 716 2 )."
+            },
+            {
+              "texto_cita": "«Ningún reino ni provincia de cristianos calienta hoy el sol, que esté más miserable y afligida.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 2. 41 (R. 60. 294 1 )."
+            },
+            {
+              "texto_cita": "«De la nación mas rüín | Vos, que el sol mira y calienta, | Del mundo oprobio y afrenta, | Infame judío, al fin.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La prudencia en la mujer, 2 . 3 (R. 5 . 294 2 ). —"
+            },
+            {
+              "texto_cita": "«En esto con unas estopas ligeras de encenderse y apagarse desde lejos, pendientes de una caña, les calentaban los rostros.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 41 (R. 1. 490 1 )."
+            },
+            {
+              "texto_cita": "« Arauco domado es una de aquellas comedias que escribía Lope después de decir misa, mientras le calentaban el almuerzo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 3, p. 135."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Calentarse con el ejercicio.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Es como llegarnos al fuego, que aunque le haya muy grande, si estáis desviadas y escondéis las manos, mal os podéis calentar.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. Perf . 35 (R. 53. 364 1 )."
+            },
+            {
+              "texto_cita": "«Estando el emperador Carlos Quinto en Barcelona le trujeron un proceso fulminado contra algunos que murmuraban sus acciones, para consultar la sentencia con él, y mostrándose indignado contra quien le traía, echó en el fuego donde se estaba calentando, el proceso.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 14 (R. 25 . 41 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eran hombres de aspecto feroz, en trato y comida groseros, tanto que ni de fuego ni de guisados solían usar, sino de raíces y de carnes calentadas entre sus muslos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 5 . 3 (R. 30. 122 2 )."
+            },
+            {
+              "texto_cita": "«Con el cual calentado [el madero húmedo con el fuego], comienza primero á despedir humo de sí y á dar de cuando en cuando algún estallido.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Esposo (3 . 260) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que es como quien al fuego | Agua calentar intenta.»",
+              "autor": "",
+              "referencia_obra": "Mto . Industrias contra finezas, 1. 2 (R . 39 . 271 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Calentarse á la lumbre.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Siempre traía pan, pedazos de carne, y en el invierno leños á que nos calentábamos.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill. 1 (R. 3. 78 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por qué alumbra el sol? por qué calienta el fuego? por qué enfría el agua?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 3 . 10 (R. 8 264 1 )."
+            },
+            {
+              "texto_cita": "«Más calientan cuatro varas de paño de Cuenca, que otras cuatro de limiste de Segovia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 33 (R. 1. 476 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese calentar el suelo, el asiento, para denotar que se permanece largo tiempo en algún lugar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los huéspedes han de ser á deseo ricos y de pasaje, han de pisar poco la casa, calentar poco la silla, y asistir poco á la mesa para no dar hastío.»",
+          "autor": "Alemán",
+          "referencia_obra": ", Guzmán , 1. 3. 10 (R. 3. 257 2 )."
+        },
+        {
+          "texto_cita": "«En las casadas hay otras, que como si sus casas fuesen de sus vecinas, ansí se descuidan dellas, y toda su vida es el oratorio, y el devocionario, y el calentar el suelo de la iglesia tarde y mañana.»",
+          "autor": "León",
+          "referencia_obra": ", Perf. cas. introd. (R. 37 . 213 1 ) ."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Metafóricamente se dice calentar la pelota, en el juego de este nombre, por Deternerla algún tanto en la paleta ó en la mano antes de arrojarla ó rebatirla. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si ardiere en el amor divino, aquí me abrasarán; y si estuviere tibio, aquí me calentarán.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del crist. 16 (R. 11 . 194 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Daña [la murmuración] al que murmura, y á los que se calientan al fuego que la lengua murmuradora está soplando.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 2. 9 (R. 11. 110 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. De la agilidad que, al entrar en calor, cobran lo miembros entumecidos, se dice que se calienta ó se le calienta á uno la lengua ó la boca, cuando habla con extensión ó se explaya sobre algún asunto, ó bien prorrumpe en claridades ó palabras descompuestas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que la lengua se comienza á calentar, y crece el ardor y deseo de encarecer las cosas, tan mal se enfrena el apetito del corazón, como el ímpetu de la llama cuando la sopla el viento.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 11, § 1 (R. 6. 138 1 )."
+            },
+            {
+              "texto_cita": "«Comenzándose la lengua á calentar en la plática, enciéndese el deseo de encarecer las cosas.»",
+              "autor": "",
+              "referencia_obra": "Id. Doct. crist. 2. 9 (R. 11. 110 2 )."
+            },
+            {
+              "texto_cita": "«Si no me avisaras, de manera se me iba calentando la boca, que no parara hasta pintarte un libro entero destos que me tenían engañado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col. (R. 1. 229 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh qué difícil se refrena la lengua si una vez calentada se desboca!»",
+              "autor": "",
+              "referencia_obra": "Parra, Luz de verd. catól. 2 , plat. 50 ( Dicc. Autor. )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Dar calor, activar, avivar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Solicitaba y calentaba esta liga Jerónimo Morón.»",
+              "autor": "Sandoval",
+              "referencia_obra": ", Hist. de Carlos V, 10 , § 15 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Había de retoñecer [la guerra] con mayor fuerza, como el tiempo diese lugar, y las esperanzas de Berbería se calentasen.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 2 (R. 21. 85 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "met. Con respecto á las personas, Excitar, enfervorizar ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No la leerá ninguno [esta carta], por tibio que sea, que no le caliente y ponga unos fuegos vivos y deseos de mejorar la vida.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 3 . 2 (139) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Excitarse, y en especial, Enfervorizarse ó acalorarse en la disputa ó porfía.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que comenzó á calentarse del vino, mandó que se notificase luégo á aquella miserable --- que el día siguiente compareciese á defender su causa.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Tác. An . 11. 37 (2. 30)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g)",
+      "definicion": "Refl. Hablándose de las bestias, Estar calientes ó en zelo. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Et callentaron un fierro tan grueso como fasta [ hasta ] de viraton blanco.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p . 84. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Mandámosles facer muchos fuegos, lo uno para que nos calentásemos, et sofriésemos el frio de la noche; et lo al porque ---»",
+          "autor": "",
+          "referencia_obra": "Mont. Alf. XI, 3 . 18 ( Bibl. venat. 2 . 276)."
+        },
+        {
+          "texto_cita": "«Magen una cabeza de ajos, et mézclenla con pez blanda et con aceite, et después calléntenlo con un fierro rosio.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 2 . 32 ( Bibl. venat. 1. 202)."
+        },
+        {
+          "texto_cita": "«Es pequenno el grano de la buena pimienta, | Pero mas que la nues conorta et calienta.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1585 (R. 57. 277 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Nin deben [los clérigos] calentar los baños nin los fornos, nin facer otros servicios viles semejantes destos.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 6. 51 (1. 288)."
+        },
+        {
+          "texto_cita": "«E si se quisiesen calentar, calientense al fuego del labrador de la behetria.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 1. 8 . 5 (44)."
+        },
+        {
+          "texto_cita": "«Quien anda por camino, si quiere fazer fuego en algun campo por cozer de comer, ó por se calentar, ó por otra cosa, guárdese que el fuego non vaya mas adelante que faga nemiga.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 8 . 2 . 3 (137 )."
+        },
+        {
+          "texto_cita": "«Mandó fer a Appelles omagenes destanno --- |",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Mandólas calentar e enchirlas de brasas.»",
+          "autor": "Alex.",
+          "referencia_obra": "1905 (R. 57. 206 1 )."
+        },
+        {
+          "texto_cita": "«Fizo aun sin esto ell olio calentar.»",
+          "autor": "Appoll.",
+          "referencia_obra": "309 (R. 57. 293 2 )."
+        },
+        {
+          "texto_cita": "«Mandó el sancto padre que trasquiessen del vino, | Mandó que calentassen dello en un catino.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 307 (R. 57. 49 2 ). — Más usado era el comp. escalentar, que alcanza todavía á aparecer en el siglo XVII. Era á veces intensivo."
+        },
+        {
+          "texto_cita": "«Esta superchería escalentó mi cólera.»",
+          "autor": "Césp.",
+          "referencia_obra": "y Men . Sold. Pínd. 1 . 14 (R. 18 . 303 2 ) ."
+        },
+        {
+          "texto_cita": "«¿Qué te escalienta el pecho? ¿Qué contienes | En tu furioso seno?»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job, 15 (1. 251)."
+        },
+        {
+          "texto_cita": "«Hay otros que caminando á pie, escalentados los miembros y nervios, más ligeramente caminan.»",
+          "autor": "Gran.",
+          "referencia_obra": "Esc. espir. 1 (R. 11. 289 2 )."
+        },
+        {
+          "texto_cita": "«¿Por qué queremos emprender negocios con consejos verdes, con los cuales antes nos ahumaremos que nos escalentaremos?»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro, 2. 125)."
+        },
+        {
+          "texto_cita": "«En muchos lugares manan aguas que de cortino hierven con tanta fuerza que escalientan los baños.»",
+          "autor": "",
+          "referencia_obra": "Comend. Griego, Lab. 244 (86 2 ) ."
+        },
+        {
+          "texto_cita": "«Estando [Jupiter y Juno] sobre comer algo más escalentados con la calor del su nectáreo póculo, que convenía á tanta majestad, movieron después de mesa una sotil cuestión.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 130 (52 2 )."
+        },
+        {
+          "texto_cita": "«¿Sabrásme decir dél, mi clara fuente? | Dímelo, si lo sabes, así Febo | Nunca tus frescas ondas escaliente.»",
+          "autor": "Garcil.",
+          "referencia_obra": "égl. 2 (R. 32. 13 2 ). — Siglo XV:"
+        },
+        {
+          "texto_cita": "«E descarne aquel hueso, e apartenla de la pierna, de guisa que quede muy limpio de carne e de grosura e sea escalentado en brasa alli trayda, para aquella ora, e quando fuere caliente, tanto que la mano malaves pueda sostener la calor, saquelo.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 8 (68)."
+        },
+        {
+          "texto_cita": "«Rey de grant magnifiçençia, | Muy poderoso español, | Pues non escallenta el sol | Otro de mayor prudencia.»",
+          "autor": "",
+          "referencia_obra": "C anc. de Baena , p . 195 . — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Toma un fierro --- que sea tan luengo que cuando lo escallentaren de la una parte, que lo puedas tener de la otra con la mano sin te quemar.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza, 11 ( Bibl. venat. 3 . 221) ."
+        },
+        {
+          "texto_cita": "«Feciemos fuego, lo uno por escalentarnos, et lo otro porque recelase [la osa] de salir del valle.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 3 . 24 ( Bibl. venat. 2. 322)."
+        },
+        {
+          "texto_cita": "«Si hobieren dolor en las tripas, conviene que los cubran con mantas, que sean escalentadas al fuego.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2 . 2 . 32 ( Bibl. venat. 1 . 202)."
+        },
+        {
+          "texto_cita": "«Et déjenlo estar fasta que se espese, et escaliéntenlo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 2. 16 ( Bibl. venat. 1. 183)."
+        },
+        {
+          "texto_cita": "«Otrosi les deben traer en las manos desde ante de matines fasta que el sol sea escalentado.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caza, 10 ( Bibl. venat. 3 . 80) . — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Tal es el rey justiciero para el reino onde es señor, como el sol que esclarece é escalienta la tierra sobre que sale.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 9 (R. 51. 105 1 )."
+        },
+        {
+          "texto_cita": "«E como escalentaba el sol, retiase»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Mueve la calentura e escalienta la complexión.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust. 64)."
+        },
+        {
+          "texto_cita": "«Eran para lidiar todos escalentados.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 80 (R. 57 . 391 2 )."
+        },
+        {
+          "texto_cita": "«Furon pora lydiar todos mas aluidrados, | Dauan e reçebian como stauan esscalentados.»",
+          "autor": "Alex.",
+          "referencia_obra": "1889 (R. 57. 205 2 )."
+        },
+        {
+          "texto_cita": "«Contra los traedores yuan escalentados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1697 (R. 57. 199 2 )."
+        },
+        {
+          "texto_cita": "«El mes era de julio un tiempo escalentado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 835 (R. 57. 173 1 )."
+        },
+        {
+          "texto_cita": "«El rey conna grant priessa era escalentado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 834 (R. 57. 173 1 )."
+        },
+        {
+          "texto_cita": "«Porque uençio a Memona es assy escalentado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 801 (R. 57. 172 1 )."
+        },
+        {
+          "texto_cita": "«Achilles toda ora y va mas escalentando.»",
+          "autor": "",
+          "referencia_obra": "Ib. 651 (R. 57. 167 2 )."
+        },
+        {
+          "texto_cita": "«Ella quando lo vio venir atan escalentado, | Mesturar non lo quiso lo que que hauia asmado.»",
+          "autor": "Appoll.",
+          "referencia_obra": "212 (R. 57. 290 2 )."
+        },
+        {
+          "texto_cita": "«Respondió Apolonio comino ascalentado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 71 (R. 57. 285 2 )."
+        },
+        {
+          "texto_cita": "«Por servir a don Christo mas se escalentaba.»",
+          "autor": "Berc.",
+          "referencia_obra": "S . Dom. 249 (R. 57. 47 2 )."
+        },
+        {
+          "texto_cita": "«Los dias van creçiendo, el sol escalentando.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacrif. 84 (R. 57. 83 1 )."
+        },
+        {
+          "texto_cita": "«En figura de toro que es escalentado, | Cavando con los piedes, el çeio demudado --- | Paroseli delante el traydor probado.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 466 (R. 57. 118 1 )."
+        },
+        {
+          "texto_cita": "«Ffezist estrelas e luna e el sol pora escalentar.»",
+          "autor": "Cid",
+          "referencia_obra": ", 332 (R. 57. 5 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de caliente. Gall . quentar, de quente, caliente; port. aquentar, esquentar. En la forma ant. callentar se introdujo en toda la conjugación la ll que en callente nace de la combinación li . Cp. llevar, lieva, lieve.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas: calient-o, as, a, an; calient-e, es, e, en; calienta tú. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

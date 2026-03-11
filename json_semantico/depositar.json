@@ -1,0 +1,361 @@
+{
+  "lema": "DEPOSITAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner ó colocar en lugar seguro y con cierta solemnidad ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Depositar el dinero en el arca.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            },
+            {
+              "texto_cita": "«No osó [David] hospedarla [el arca] en su casa, sino mandóla depositar en casa de Obededom.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 3. 8, § 2 (R. 8. 256 2 )."
+            },
+            {
+              "texto_cita": "«No es mi amigo este que llevan con triste pompa á depositar en la tierra: éste es el cuerpo que dejó el alma de mi amigo para pasar á la eternidad.»",
+              "autor": "Quev.",
+              "referencia_obra": "carta 75 (R. 48. 554 2 )."
+            },
+            {
+              "texto_cita": "«Caminan con él al lugar del monumento, y allí depositan aquel precioso tesoro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1, sáb.por la mañ . (R. 8. 85 1 )."
+            },
+            {
+              "texto_cita": "«En ella [en extrema necesidad] la razón natural hace lícito el valerse los príncipes para su conservación de las riquezas que con piadosa liberalidad depositaron en las iglesias, teniendo firme resolución de restituíllas en la mejor fortuna.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 25 (R. 25. 69 1 )."
+            },
+            {
+              "texto_cita": "«A su tienda volvió, y la copa de oro | Depositó otra vez dentro del arca.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 16 (2. 128)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Profanaban los templos y monasterios tan antiguos, donde había depositados tantos cuerpos de santos.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 13 (R. 21. 14 1 )."
+            },
+            {
+              "texto_cita": "«Mejor que en los erarios están en los templos depositadas las riquezas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 25 (R. 25. 68 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le socorrió en esta congoja una observación de las que solía depositar en su cuidado para servirse de ellas en la ocasión.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 20 (R. 28. 339 2 ). —"
+            },
+            {
+              "texto_cita": "«Los repartimientos favorecen más inmediatamente la población, pero depositan las tierras en personas pobres.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 84 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bajamos á un grandísimo llano, donde parecía estaba depositada la obscuridad para las noches.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 336 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Poner á una persona en lugar donde libremente pueda manifestar su voluntad, en particular sacándola el juez competente de la parte donde se teme que le hagan violencia ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tomó el tal vicario la confesión á la señora, confesó de plano, mandóla depositar en casa de un alguacil de corte muy honrado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 38 (R. 1.485 2 )."
+            },
+            {
+              "texto_cita": "«Cuando su tutor la deje sola, vendrá á sacarla de esta cárcel, la depositará á usted en una casa de satisfacción, y...»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos , 2. 8 (R. 2. 452 1 ). —"
+            },
+            {
+              "texto_cita": "«Este [el remedio] les procuraba él [á ciertas mujeres] con todo recato y honestidad, depositándolas en casas de mujeres honradas y virtuosas, reconciliándolas con sus padres y maridos.»",
+              "autor": "Palma",
+              "referencia_obra": ", Vida de G. de la Palm. , p. 62."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le propuso que la robaría y la llevaría depositada donde ella quisiese.»",
+              "autor": "Valera",
+              "referencia_obra": ", Las ilusiones del Dr. Faustino , p. 233."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Tratándose de cadáveres, Colocarlos en lugar sagrado mientras se les da definitivamente sepultura ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su cuerpo depositaron en Córdoba, porque á causa de los calores que todavía duraban, no pudo ser llevado á Sevilla ni á Toledo, do tenían los enterramientos reales.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 15. 11 (R. 30. 445 2 )."
+            },
+            {
+              "texto_cita": "«El cuerpo del rey don Jaime se llevó de Valencia, donde le depositaron en un sepulcro junto al altar mayor de la iglesia catedral, y se trasladó al monasterio de Poblete.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 14. 3 (R. 30. 404 2 )."
+            },
+            {
+              "texto_cita": "«Mandóse enterrar [Juan II] en el monasterio de la Cartuja de Burgos --- Allí se hizo adelante su entierro; por entonces le depositaron en San Pablo de Valladolid.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 22. 14 (R. 31. 140 1 )."
+            },
+            {
+              "texto_cita": "«Lloró la muerte de su hermano, pero enjugóle presto las lágrimas el gusto de la herencia del estado --- depositó á su hermano para llevarle después á su lugar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 3. 9 (R. 1. 641 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Murió en Baena, donde fue depositado, y ahora, como digo, llevamos sus huesos á su sepultura, que está en Segovia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 19 (R. 1. 294 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Entregar una cosa á otro con el solo objeto de que la guarde ó custodie y bajo la obligación de responder de ella ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los escribanos de cámara tengan libro en que asienten los depósitos, de cualquier calidad que sean --- y en aquel libro firme cada uno la partida de lo que ante él se mandó depositar ó traer, para que por esto se pueda hacer cargo al que lo recibe.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop . 11. 26. 5 (4. 458)."
+            },
+            {
+              "texto_cita": "«Si depositando el reo dentro de las setenta y dos horas siguientes á la notificación de estado parte de la cantidad,y consintiendo se entregue al acreedor, opusiere al mismo tiempo la excepción de tener satisfecho el resto, y la probare en el término encargado, no hay para qué sentenciar la causa de remate.»",
+              "autor": "",
+              "referencia_obra": "Febr. novís . 3. 3. 6. 3 (3. 587)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conviene que los caudales que se hallan depositados en las ciudades, villas y lugares de estos mis reinos y señoríos, estén con la seguridad correspondiente.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop . 11. 26. 8 (4. 459)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en y el nombre de la persona que recibe el depósito.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La hija del portoqués (ú que es) no tome, si no le deposita primero en alguna persona lo que le ha de dar, que he sabido que no le sacarán blanca.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 1. 65 (R. 55. 83 1 )."
+            },
+            {
+              "texto_cita": "«Siempre que saquen prendas, las depositen en el mismo tesorero; y si fuere donde no residiere, lo ejecuten en persona lega, llana y abonada.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop . 11. 30. 19 (4. 495)."
+            },
+            {
+              "texto_cita": "«Impuso en favor de P. un censo de propiedad de quinientos ducados y anuo rédito de veinticinco --- con la condición y expreso pacto que en caso de redención del capital de dicho censo se hubiese de depositar en la persona que eligiere la justicia ordinaria de esta ciudad.»",
+              "autor": "",
+              "referencia_obra": "Febr. novís . 3. 1. 3 (3. 102)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su mujer, que era suya la casa, habíala querido vender para remediar dos hijas, y con este título se pedía la licencia, y estaba depositado el dinero en quien él quiso.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 19 (R. 53. 213 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Confiar amigablemente una cosa y sobre la palabra del que la recibe ( trans .). Con en .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hallando el campo lleno de esclavos y cristianos que comían la vitualla, depositó quinientas moriscas en poder de sus padres, hermanos y maridos, y sobre sus palabras las recibieron en Ujíjar.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Gran . 2 (R. 21. 84 1 )."
+        },
+        {
+          "texto_cita": "«Depositó su Majestad, creyendo excusar celos y guerras, la Valtelina en poder de la Sede apostólica.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp . 97 (R. 25. 253 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Confiar, poner en manos ó al arbitrio de alguien ( trans .). Con en .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pueblo de Israel triunfante | En su Dios deposita la esperanza.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Cuando de Egipto (R. 42. 123 2 )."
+            },
+            {
+              "texto_cita": "«El hombre penetrado de esta idea no puede dejar de amarle con todas las fuerzas de su alma, ni dejar de depositar en El toda la confianza y todas las esperanzas de su corazón.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Moral relig . (R. 46. 262 2 ). —"
+            },
+            {
+              "texto_cita": "«Desdichada de aquella que en vuestras lenguas deposita su secreto, y en vuestra ayuda pone su honra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 107 2 )."
+            },
+            {
+              "texto_cita": "«Decíanme mis padres que en sola mi virtud y bondad dejaban y depositaban su honra y fama.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 28 (R. 1. 326 2 )."
+            },
+            {
+              "texto_cita": "«El amor, condoliéndose de mí, depositó mi remedio en los martirios deste buen escudero--- Bien pudiera el amor, dijo Sancho, depositarlo en los de mi asno, que yo se lo agradeciera.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 70 (R. 1. 551 1 )."
+            },
+            {
+              "texto_cita": "«Nos vemos forzados á molestar de nuevo la atención de Vuestra Majestad depositando en su piadoso seno la amargura que nos oprime.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , apénd . 24 (R. 46. 612 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No imagines que es deshonra | Que te quieran todos bien, | Ni que está en usar desdén | Depositada tu honra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 6 (R. 1. 96 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Encerrar, contener ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deposita en sí [aquel monasterio] una santa imagen llamada de la Cabeza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 3. 6 (R. 1. 634 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tienen [las Musas] experiencia | Que natural y ciencia | En él se depositan.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo , 8 ( Obr. suelt . 1. 154)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. depositar ; it. depositare , dipositare: del lat. bajo depositare , formado de depositum , deponere . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

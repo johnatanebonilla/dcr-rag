@@ -1,0 +1,179 @@
+{
+  "lema": "AISLAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Circundar ó cercar de agua por todas partes algún sitio ó lugar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Refl . Quedar rodeado de agua por todas partes. Covarr. sb. voc.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y por lo más angosto de la lengua de tierra abrieron un foso, con que se aisló y quedó cercada por todas partes de agua.»",
+              "autor": "",
+              "referencia_obra": "Ovalle, Hist . de Chile , fol . 299 ( Dicc. Autor .)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es Corbell casi de forma triangular, y esta aislada en la manera dicha [Está Corbell en el ángulo formado por los ríos Esona y Sena, con un foso de río á río].»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 35 2 )."
+            },
+            {
+              "texto_cita": "«Más especialmente las que tenía en Holanda y Celanda, provincias de su gobierno, de mucho trato, aisladas por diversos lados con el mar y las riberas, y por tanto de fortísimo sitio.»",
+              "autor": "",
+              "referencia_obra": "Barén, Guerra de Flandes , pl . 40 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Dejar alguna casa ó edificio solo, de suerte que no confine con otro por ninguno de sus lados.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Incomunicar alguna parte de una máquina para que no participe del movimiento general.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Fís. Sostener ó suspender algún cuerpo con substancias que conduzcan mal la electricidad, de manera que no pierda la que se le ha comunicado.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. En general, Incomunicar, privar de relaciones ó apoyo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El deseo de los que dirigían en aquel tiempo la política de la Francia era ver si les era dable aislar al Austria, si es lícito decirlo así, separando su causa de la Prusia.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 4. 14 (5. 273)."
+            },
+            {
+              "texto_cita": "«Que allí no vea | Del odioso interés, que al hombre aísla, | La ávida faz.»",
+              "autor": "Gallego",
+              "referencia_obra": ", epíst . 2 (R. 67. 412 1 )."
+            },
+            {
+              "texto_cita": "«Cuando airado el Juez tremendo | En la tierra nos aísla | Con los males combatiendo, | ¡Madre nuestra de Fuencisla! | Nuestros ayes van á ti.»",
+              "autor": "Hartz.",
+              "referencia_obra": "(410)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el objeto con respecto al cual queda separado é incomunicado aquel de que se trata.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta dificultad tan ponderada se reduce á las mismas dimensiones que las anteriores; nace, como ellas, de la contemplación de un orden especial, aislándolo del general.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Teod . 13 (357)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl . Separarse del trato de las gentes, vivir retirado. Salvá .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al hallarse | Aislado, solo, y la salud perdida, | No se atrevió á tornar á los desiertos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Moro expós . 6 (2. 219)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part . En general se dice de lo que no está acompañado, relacionado con otro objeto análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Varias y aisladas voces, que resonaron en el general silencio, manifestaron dudar de la autenticidad del documento.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 10 (5. 85)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aislarse uno es cortarse y pasmarse sin discurrir en ninguna cosa.»",
+          "autor": "Covarr.",
+          "referencia_obra": "sb. voc. isla ."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedarse aislado: quedarse pasmado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib ."
+            },
+            {
+              "texto_cita": "«Por traslación decimos quedar un hombre aislado cuando se halla en un aprieto del cual por ningún camino se puede escapar.»",
+              "autor": "",
+              "referencia_obra": "Id. sb. voc. aislarse . (Hoy no tiene uso)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Rreniego, sy non vos unto | E vos lançe un barranco, | O vos lançe en tal laguna | Do penedes ayslado, | Ssy vos non tien anparado | El muy grant señor de Luna.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 267."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á é isla . Valdés , Diál . (Mayans, 107), menciona este verbo como voz que no tiene correspondiente en latín.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La combinación ai es forzosamente disílaba cuando el acento carga en la raíz del verbo: a-ísla , a-íslen . Es monosílaba cuando carga en la terminación: ais-lár , ais-ládo . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

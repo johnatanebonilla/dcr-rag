@@ -1,0 +1,320 @@
+{
+  "lema": "AGOBIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Inclinar ó encorvar hacia la tierra (la parte superior del cuerpo) ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensó Sancho que el cielo se desencajaba de sus quicios y venía á dar sobre su cabeza, y agobiándola, lleno de miedo la puso entre las piernas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 63 (R. 1. 538 2 )."
+            },
+            {
+              "texto_cita": "«Se la ató [una columna] con una soga á las espaldas, y la levantó tres dedos, agobiando el cuerpo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Nov . 4 ( Obr. suelt . 8. 183)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Inclinar hacia la tierra la parte superior del cuerpo",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En esto descubrió á un lado de la sima un agujero capaz de caber por él una persona si se agobiaba y encogía.»",
+              "autor": "",
+              "referencia_obra": "Cerv . Quij. 2. 55 (R. 1. 520 2 )."
+            },
+            {
+              "texto_cita": "«Trescientas varas de tela | De oro y plata entran en él [un vestido] | — Pues quién podrá andar con él | Que no se agobie y se muela?»",
+              "autor": "",
+              "referencia_obra": "Id. La gran sultana, 2 ( Com. 2. 90)."
+            },
+            {
+              "texto_cita": "«El golpe le obligó se agobie y tuerza.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 3 (R. 17. 169 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se levantó, quedando agobiado en la mitad del camino como arco turquesco, sin poder acabar de enderezarse.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 15 (R. 1. 285 1 )."
+            },
+            {
+              "texto_cita": "«Ella está agobiada y encogida y tiene las rodillas con la boca.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 47 (R. 1. 502 1 )."
+            },
+            {
+              "texto_cita": "«Sustentaba el agobiado cuerpo sobre un retorcido cayado que de báculo le servía.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. 3. 18 (R. 1. 655 2 )."
+            },
+            {
+              "texto_cita": "«¿No ves que éste es agobiado, | Y es un poco más delgado | Y tiene mayores pies?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo, 2. 2 (R. 20. 70 2 )."
+            },
+            {
+              "texto_cita": "«Con la esteva agobiado | El labrador sus bueyes | Guía con paso tardo.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 1. 1 (R. 61. 358 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á, que denota la dirección ó el punto de contacto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pocos pasos anduvieron por ella [una cueva], torciéndose á una y otra parte, estrechándose en una y alargándose en otra, ya agazapados, ya inclinados, ya agobiados al suelo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 1. 4 (R. 1. 566 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , á semejanza de apoyar, cargar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ceñido un saco de grosera sarga --- | Y un basto pino en que se agobia y carga.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 15 (R. 17. 296 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Para significar que se inclina hacia atrás la parte superior del cuerpo, agrega Quev. el compl. de espaldas, y usa el verbo como intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ea, quite la capa vucé, y parezca hombre; que verá esta noche todos los buenos hijos de Sevilla; y porque no lo tengan por maricón, abaje ese cuello y agobie de espaldas, la capa caída --- y ese hocico de tornillo, gestos á un lado y á otro.»",
+              "autor": "",
+              "referencia_obra": "Gran Tac . 23 (R. 23. 527 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En el mismo sentido dice agobiado de espaldas por el acto de echar hacia atrás la cabeza y el cuello.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Miráronse á lo penoso, | Cercáronse á lo borrasca, | Hubo hocico retorcido, | Hubo agobiado de espaldas.»",
+              "autor": "",
+              "referencia_obra": "Musa 5, baile 2 (R. 69. 116 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer inclinar ó encorvar hacia la tierra (la parte superior del cuerpo) ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El [peso] de los montes y mares | No me agobiará la espalda.»",
+              "autor": "Cald.",
+              "referencia_obra": "El mayor monstruo los celos, 2. 10 (R. 7. 491 1 ). —"
+            },
+            {
+              "texto_cita": "«Cargados de oro y faltos de sustento, proseguían melancólicamente su viaje, maldiciendo las riquezas que los agobiaban y no los mantenían.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 292 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«[Se da] á entender que es valiente siendo viejo, que tiene fuerzas estando enfermo, y que endereza tuertos, estando por la edad agobiado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 6 (R. 1. 416 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Co n con, para expresar lo que se emplea para hacer encorvar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién me agobia con tanta pesadumbre | La espalda?»",
+              "autor": "Luzán",
+              "referencia_obra": ", canc. 1. (R. 61. 115 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No agobian la vara de la justicia las dádivas, ni la carne y sangre de los parentescos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 1. 22 (R. 1. 588 1 )."
+            },
+            {
+              "texto_cita": "«La oliva de Minerva agobia al cedro | Del Líbano.»",
+              "autor": "Forner",
+              "referencia_obra": ", sát. (R. 63. 308 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al enorme peso | De sus cadenas agobiada España, | Mira asolados sin piedad sus templos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo, 1. 2 (R. 19. 59 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De todas estas consideracioiles sacaré un grande aborrecimiento de los pecados veniales, por el bien de que me privan, por la cárcel que me amenazan, por el peso con que me agobian.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1. 36 (1. 237)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Con de ó con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los oligarcas de Europa rebosando en riquezas, nadando en delicias y agobiados de honores, pueden pavonearse y ostentar su insolente triunfo. Quint. Cartas á L. Holland , 9 (R. 19. 583 1 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Agobiada con el peso | De tanto triunfo allí se querellaba | Doliente y bella una mujer.»",
+              "autor": "",
+              "referencia_obra": "Id. El Panteón del Escorial (R. 19. 37 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Oprimir, agravar, abrumar, como bajo el peso de una gran carga ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las quintas, los bagajes, los alojamientos, la recaudación de bulas y papel sellado, todas las cargas concejiles agobian al infeliz agricultor.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 2ª clase, 1 (R. 50. 121 2 )."
+            },
+            {
+              "texto_cita": "«El mal que nos agobia | Vence á un tiempo al valor y á la prudencia.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 3. 2 (R. 19. 65 2 )."
+            },
+            {
+              "texto_cita": "«Los años, | Las desventuras me agobian.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. inéd . p. 28."
+            },
+            {
+              "texto_cita": "«Padilla y los demás capitanes presentáronse á S. A., que los recibió con afabilidad y agasajo, y manifestándole los males que agobiaban al reino --- rogáronle prestase su autoridad para que á su nombre y al del rey gobernasen estos reinos los procuradores de las ciudades.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Guerra de las comunidades (3. 37)."
+            },
+            {
+              "texto_cita": "«Ya le agobian mis grandes beneficios.»",
+              "autor": "",
+              "referencia_obra": "Id. Moraima, 3. 5 (3. 211)."
+            },
+            {
+              "texto_cita": "«En su frente nota | La terrible inquietud que lo domina, | La turbación y espanto que lo agobian.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 10 (2. 369)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, para expresar el instrumento de la opresión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habían cegado las fuentes de la riqueza, destruído el crédito y agobiado al pueblo con insufribles cargas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 2. 1 (5. 56)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Agobiarse con, de, por los años.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Agobiarse con el, del trabajo.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ciego estaba, agobiado por los años.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 6 (2. 209)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Significa originariamente corcovar, del lat. gibba , giba , corcova, que en la baja latinidad aparece en las formas gybbus, gubba, gupios . El cambio de la i en y , u se remonta por lo menos al siglo V de nuestra éra pues sólo así pueden existir las formas romances it. gobbo, retorrománico, gob , joroba, fr. gobin , jorobado, vál. gheb , ghib , joroba, a se ghebosa , agacharse. (Diez, Gram . 1. 249, trad. fr. ; Wb. sb. voc. gobbo ; Schuchardt , Vokal . 2. 224; Cihac, Dict. d'étym. daco-rom. 1. 101. Ninguno de éstos menciona nuestro vocablo, pero la etimología es obvia.) \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

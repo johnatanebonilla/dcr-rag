@@ -1,0 +1,223 @@
+{
+  "lema": "MANCO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que le falta una mano o un brazo o que está impedido de estos miembros.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era el concurso tan grande | Que había de los enfermos, | Mancos, tullidos y cojos, | Paralíticos y ciegos.»",
+              "autor": "Romanc.",
+              "referencia_obra": "( Pagés , Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Sin que haya quedado en Francia, Alemania, Italia y Flandes, y aun en las Islas rebeldes, coxo, manco, tullido ni ciego, que no se haya venido a Castilla.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon. 9 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Me dicen que si una vez le pruebo, que me tengo de comer las manos tras él, y si así fuese no me estaría muy barato, aunque los estropeados y mancos ya se tienen su Calongía en la limosna que piden.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 34 (R. 1. 482 1 ). X"
+            },
+            {
+              "texto_cita": "«Lo que no he podido dejar de sentir es que me note de viejo y de manco.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Y sea la novia gibosa y chata | Y tuerta, y el novio manco, | Viejo, gotoso y con sarna,... | Con amor o sin amor, | ¡Bendígalos Dios!, se casan.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. ( Acad. Hist. 2. 397)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para especificar: — la parte afectada. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De los assaltos passados | Me libre, Teodor, tanbién. | ¿Sanaste de aquel balazo? | — Algo estoy manco de un brazo.»",
+              "autor": "Lope",
+              "referencia_obra": ", La batalla del honor, p. 131 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«Ninguno había sido soldado, sino era un viejo de más de sesenta años, natural del Alamzarrón, manco de las dos manos.»",
+              "autor": "L. Mármol",
+              "referencia_obra": ", Rebel. 5. 28 ( Dicc. Autor. ). — La causa. X"
+            },
+            {
+              "texto_cita": "«Hallé dentro a Cardeñoso, | Hombre de buena verdad, | Manco de tocar las cuerdas, | Donde no quiso cantar.»",
+              "autor": "Quev.",
+              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 343)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un mudo, a nativitate , | Y más sordo que una tapia, | Vino a tratar con un ciego | Cosas de poca importancia. | En este apuro, trajeron, | Para que los ayudara, | A un camarada de entrambos, | Que era manco por desgracia.»",
+              "autor": "",
+              "referencia_obra": "T. Iriarte, Poes. (Cl. C. 136. 60)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Se emplea como sust . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La borrica aborresco | Ya Antón Mondoñedo el manco, | Le daréys nueso buey branco | Y a Gil Cardencho el hoscoso.»",
+              "autor": "Lope",
+              "referencia_obra": ", Vida momentos del rey Wamba , p. 403 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«Ahora pensaba que el manco lo había considerado demasiado poca cosa para hacerlo partícipe de sus proyectos.»",
+              "autor": "Carpentier",
+              "referencia_obra": ", El reino , 1. 4 (p. 15). X"
+            },
+            {
+              "texto_cita": "«El manco contaba que había perdido el brazo en la guerra civil.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Suele emplearse como nombre propio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero el Manco, sin ver ni saber, se había lanzado ya cuesta abajo, haciendo restallar injurias como latigazos, a todo el galope de su caballo.»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno , 8 (p. 359)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Forma la expresión no ser manco : además del sentido recto, ser inteligente, ingenioso. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No tengo ya quince años? Y no soy manca, ni renca, ni estropeada del entendimeinto. Los ingenios de las gitanas van por otro norte que los de las demás gentes: siempre se adelantan a sus años.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gitanilla (Cl. C. 27. 24). X"
+            },
+            {
+              "texto_cita": "«Mosquera ocultaba | El bote; yo no soy manco, | Y soy alcalde; cogí | El bote, el rótulo vi. | Y ¿decía? | Espejo blanco.»",
+              "autor": "Hartz.",
+              "referencia_obra": "( Pagés , Dicc .). X"
+            },
+            {
+              "texto_cita": "«¿Qué quiere? | ¿Ver si la lengua le arranco? | — El paso franco. | — Guardado está. — ¿Y soy yo manco?»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Juan Tenorio, 1. 2 (Cl. C. 201. 57)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado a cosas, Defectuoso, falto de alguna cosa necesaria.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No podía inclinarme a creer que tan gallarda historia hubiesse quedado manca y estropeada, y echaba la culpa a la malignidad del tiempo, devorador y consumidor de todas las cosas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 9 (R. 1. 271 2 ). X"
+            },
+            {
+              "texto_cita": "«Destas dos cosas está compuesta la piedad, y sin qualquiera de ella se halla manca y no cumplida.»",
+              "autor": "Mend.",
+              "referencia_obra": "Política, 1. 2 ( Dicc. Autor. ). X"
+            },
+            {
+              "texto_cita": "«Consecuente con su palabra empeñada, da hoy a luz la segunda mitad de un todo que estaba manco.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Manca le quedó la mano a la naturaleza, hízole con modelo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, p. 25 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«La caridad paciente es, benigna es; y así, quien no tuviere sufrimiento con otros, aunque haga a muchos bien, manca tiene su virtud, pues la falta todo un brazo. Gran bien hace a otro quien le sufre.»",
+              "autor": "",
+              "referencia_obra": "Nieremb, Epist. 11 (Cl. C. 30. 64). X"
+            },
+            {
+              "texto_cita": "«No ay noticia, ni memoria de la Catedral antigua de Oca, en los libros antiguos de nuestro Archivo de Cardeña; pero para que no quede manca la relación de la Catedral de Burgos, pondremos por principio algunas noticias.»",
+              "autor": "Berg.",
+              "referencia_obra": "Antigüed. 1. 5. 3 (p. 341 1 ). X"
+            },
+            {
+              "texto_cita": "«Recibid el parabién | En versos cojos y mancos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. (3. 218)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos aquellos que son ynútiles y mancos de sus personas.»",
+              "autor": "",
+              "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 336. X"
+            },
+            {
+              "texto_cita": "«No seas, | Lida, así el cielo te guarde, | Manca de la cortesía; | Que aun es defecto entre amante.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los trabajos de Jacob ( Fdz. Gómez , Vocab. de Lope ) 1725."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "« Mancus: que no tiene una mano.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab. 262d. — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«Con una flaca cuerda non alçarás grand tranca, | Nin por un solo ¡harre! non corre bestia manca, | A la peña pesada non mueve una palanca; | Con cuños e almadanas poco a poco s’arranca.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 517 (Cl. C. 14. 191). +"
+        },
+        {
+          "texto_cita": "«Conde, dixo Garfín, ¿non vos fuera mejor yr de grado en la mi presión, e sano, que non yr syn vuestro grado, manco e coxo?»",
+          "autor": "Zifar",
+          "referencia_obra": ", 99 (p. 200)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. mancus -a -um ‘manco, lisiado, incompleto’. Cat. manco. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,87 @@
+{
+  "lema": "COETERNO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "En lenguaje teológico se usa para denotar que las tres Personas divinas son igualmente eternas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todas las tres personnas son en todo iguales, coeternas y de infinita excelencia y dignidad.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Todos los Santos ( Vida de la Virgen, 354)."
+            },
+            {
+              "texto_cita": "«El solo le engendra y le conoce como á su Verbo coeterno y sustancial y resplandor de su gloria y figura de su sustancia.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. Smo. Nombre de Jesús ( Vida de Cristo, 187) ."
+            },
+            {
+              "texto_cita": "«La Iglesia, por el mundo difundida, | Os confiesa por Padre omnipotente, | Y á vuestro venerado | Unigénito Hijo coeterno, | Y al Espíritu Santo juntamente.»",
+              "autor": "D. Gonz.",
+              "referencia_obra": "trad. del Te Deum (R. 61. 196 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es el Hijo coeterno con el Padre, y es una misma substancia en trinidad.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab. 40 (14 2 )."
+            },
+            {
+              "texto_cita": "«Tres verdades establece en este lugar el Apóstol. Primera: Que el Hijo de Dios es coeterno con el Padre. Segunda ---»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Pablo, Rom. 1. 3 , nota."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni se argumente en contra sosteniendo que la vida --- es un instinto ciego, coeterno con la sustancia.»",
+              "autor": "Valera",
+              "referencia_obra": ", Las ilusiones del Dr. Faustino , p. 67 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si no tuviera principio [el mundo] fuera eterno. Pues que fuera efecto coeterno á su causa, no se puede entender sin que se entienda divino, siquiera por la duración anterior eternal.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 1. 7 ( Míst . 3. 9)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. coaeternus, comp . de co , cum , con , y aeternus, eterno. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

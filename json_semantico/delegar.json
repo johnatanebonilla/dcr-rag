@@ -1,0 +1,189 @@
+{
+  "lema": "DELEGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Enviar, diputar una persona á otra para que obre en su nombre y haciendo sus veces ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eran éstos [los jueces] --- como unos tenientes ó vicerregentes del mismo Dios, que los delegaba cuando y como le parecía, para obras extraordinarias Y maravillosas.»",
+              "autor": "Scío",
+              "referencia_obra": ", Jueces, advert ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El part. se usa de ordinario como sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si éste pues es un cargo, pertenece más bien á las juntas comitentes que á sus delegados.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 1. 1 (R. 46. 517 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Se dice en especial del juez que por comisión de otro que tiene jurisdiccion ordinaria, conoce de las causas que se le cometen, según la forma y orden contenido en la delegación.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , para denotar el cargo lleva el enviado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El inquisidor general Torquemada delegó por inquisidores para Aragón á un fraile dominico llamado fray Gaspar Inglar de Benabarre, y á un canónigo de la seo de Zaragoza llamado el maestro Pedro Arbués.»",
+              "autor": "V. de la Fuente",
+              "referencia_obra": ", Hist. ecles. de Esp. 2, p. 482."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dar una persona á otra la jurisdicción ó facultades que tiene por su dignidad ú oficio, para que haga sus veces ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fuiste, ¡oh sol! y á la luna otro hemisferio, | Dividiendo tu imperio, | Diste alumbrar, como en país lejano, | Su potestad delega el soberano.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", oda 5 (R. 67. 215 2 )."
+            },
+            {
+              "texto_cita": "«Los deberes del episcopado se han hecho más extensos, y ha sido forzoso delegar el ministerio de la palabra.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 1, p. 64."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mal se delega el oficio real: bien podrán hallarse personas más prudentes que el rey, no más escogidas de Dios para el gobierno.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Dict. reales , 1 (Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En los cuales casos se tienen por ordinarias [las comisiones] más que por delegadas, y no expiran con la muerte del concedente.»",
+              "autor": "Solórzano",
+              "referencia_obra": ", Polít. 4. 26 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Afectando una oscuridad misteriosa, aspiran á conseguir su objeto, que es suponer unas facultades delegadas por el mismo Dios, para que se mire cual desacato impío querer ponerles límites.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 1. 2 (5. 10)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para señalar la persona á quien se da la jurisdicción, acaso por semejanza con depositar , traspasar .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gobernador general | Os hago, y en vos delego | Toda la soberanía | Que yo en mis vasallos tengo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El dueño de las estrellas , 2. 2 (R. 20. 274 1 )."
+            },
+            {
+              "texto_cita": "«El Consejo de Castilla reconoció entonces, así la legítima autoridad de las juntas, como el derecho de delegarla en personas de su confianza, para formar una autoridad reunida y reconcentrada.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 1. 1 (R. 46. 511 1 )."
+            },
+            {
+              "texto_cita": "«Ese instituto, esa entidad moral, no podía hacer ese trabajo colectivamente, tenia que delegarlo en alguno, ó algunos de sus hijos.»",
+              "autor": "",
+              "referencia_obra": "Y. de la Fuente (R. 55. XXXIX )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dio comisión á Lorenzo de Aldana, uno de sus capitanes, para que fuese al Quito, y despojase cautelosamente á Belalcázar de la autoridad que tenía delegada en él para gobernar aquel país.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 362 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El muy alto Amor dize | Que le plaze muy de grado | Que ssea ssu delegado | Por la petiçion que fize.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 229. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Et desta edat deue ser el juez delegado que es puesto por mano de ordinario para librar algun pleito.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 586)."
+        },
+        {
+          "texto_cita": "«Mandamos que lo guarden todos los alcalles e juezes ordinarios e delegados de las çipdades e uillas e logares de nuestros rregnos.»",
+          "autor": "",
+          "referencia_obra": "Ib. ( ib . 1. 519)."
+        },
+        {
+          "texto_cita": "«Et los jueces delegados, et los arbitros, non pueden juzgar sinon todos estando presentes.»",
+          "autor": "O. L.",
+          "referencia_obra": "2. 325). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E el fijo fue legitimo por un delegado que y vino por el apostoligo.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 23 (273 2 )."
+        },
+        {
+          "texto_cita": "«Delegado tanto quiere decir como juez que es puesto para oir algunos pleytos señalados.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 23. 21 (2. 693)."
+        },
+        {
+          "texto_cita": "«Otra manera hi ha aun de jueces á que llaman delegados, que quiere tanto decir como homes que han poderío de judgar algunos pleytos señalados, segunt les mandan los reyes o los adelantados, o los otros jueces ordinarios.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 4. 1 (2. 391)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. delegar ; fr. déléguer ; it. delegare : del lat. delegare , compuesto de de y legare , encargar, diputar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe gu ,: delegué , deleguen . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

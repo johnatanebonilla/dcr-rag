@@ -1,0 +1,429 @@
+{
+  "lema": "ATENTO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que tiene fija la atención en alguna cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar el objeto de la atención.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaba atenta desde el corredor á todas estas pláticas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 8 (R. 1. 187 2 )."
+            },
+            {
+              "texto_cita": "«Estas fueron las razones que Anselmo dijo á Lotario, á todas las cuales estuvo tan atento, que si no fueron las que quedan escritas que le dijo, no desplegó sus labios hasta que hubo acabado.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 33 (R. 1. 342 1 )."
+            },
+            {
+              "texto_cita": "«A las voces y á las razones del loco estuvieron los circunstantes atentos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 1 (R. 1. 406 2 )."
+            },
+            {
+              "texto_cita": "«Si le preguntan algo [al mono], está atento á lo que le preguntan, y luégo salta sobre los hombros de su amo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 25 (R. 1. 547 2 )."
+            },
+            {
+              "texto_cita": "«Atenta estaba la enamorada Sinforosa á las discretas razones de Auristela.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 2. 4 (R. 1. 594 2 )."
+            },
+            {
+              "texto_cita": "«Había estado atento á la batalla de su señor D. Quijote, y rogaba á Dios en su corazón fuese servido de darle vitoria.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 10 (R. 1. 273 1 )."
+            },
+            {
+              "texto_cita": "«Atento podemos considerar el mundo todo á nuestras acciones.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 2 (R. 21. 483 1 )."
+            },
+            {
+              "texto_cita": "«Atento el matemático á su esfera | Imaginaba círculos diversos.»",
+              "autor": "",
+              "referencia_obra": "B. Argens. epíst. ¿Esos consejos das (R. 42. 300 2 )."
+            },
+            {
+              "texto_cita": "«Algunos hay que fatigan la cabeza con la demasiada fuerza que ponen para estar atentos á lo que piensan.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1. 8, § 4 (R. 8. 18 1 )."
+            },
+            {
+              "texto_cita": "«Deidades sacrosantas y divinas | Que estáis atentas á mi grave llanto.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, égl . 6 (133). —"
+            },
+            {
+              "texto_cita": "«Había seguido sin sueldo las banderas del rey don Felipe, inclinado y atento á la arte de la guerra.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 4 (R. 21. 117 2 )."
+            },
+            {
+              "texto_cita": "«Y esta gente infructuosa, | Siempre atenta á mil malicias, | Doblada, astuta y mañosa, | Ni á la iglesia da primicias, | Ni al rey no le sube en cosa.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pedro de Urdemalas , 1 ( Com . 2. 262)."
+            },
+            {
+              "texto_cita": "«Ya dende Cádiz llama | El injuriado conde, á la venganza | Atento, y no á la fama, | La bárbara pujanza, | En quien para tu daño no hay tardanza.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, Profecía del Tajo (R. 37. 5 2 )."
+            },
+            {
+              "texto_cita": "«El dueño juré encubrir; | Pero á la amistad atento, | Sin quebrar el juramento, | Te lo tengo de decir.»",
+              "autor": "Cald.",
+              "referencia_obra": "El príncipe constante , 2. 4 (R. 7. 251 3 )."
+            },
+            {
+              "texto_cita": "«Otros pueblos, más atentos á su seguridad, promovían el estudio de la naturaleza, que una nueva política hacía de cada día más y más necesario.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. inaug. del Instit. Astur. (R. 46. 319 2 )."
+            },
+            {
+              "texto_cita": "«Pensad quién es Rogundo, y más atento | A la nobleza y prendas que le ilustran, | Respetad su pasión y sus derechos.»",
+              "autor": "",
+              "referencia_obra": "Id. Pelayo , 2. 8 (R. 46. 60 2 ). — Sup ."
+            },
+            {
+              "texto_cita": "«Atentísimo estuvo Sancho á la relación de la vida y entretenimientos del hidalgo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 16 (R. 1. 436 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Tratándose de personas y mediando un verbo, puede el compl. convertirse en dat. pron.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esténme todos atentos, que la novela comienza desta manera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 32 (R. 1. 340 1 )."
+            },
+            {
+              "texto_cita": "«Esténme vuestras mercedes atentos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 30 (R. 1. 333 1 )."
+            },
+            {
+              "texto_cita": "«Callaban hablando yo, y estábanme atentos.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 29. (2. 94)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«D. Quijote, que los vio tan atentos á mirarle, sin que ninguno le hablase ni le preguntase nada, quiso aprovecharse de aquel silencio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 27 (R. 1. 463 1 )."
+            },
+            {
+              "texto_cita": "«Llegaron con tanto silencio, que dél no fueron sentidos, ni él estaba á otra cosa atento que á lavarse los pies.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 28 (R. 1. 324 1 )."
+            },
+            {
+              "texto_cita": "«Sin hablar palabra estaba atenta á ver si entendía los turcos decían.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 2 (R. 1. 122 1 ). —"
+            },
+            {
+              "texto_cita": "«Calderón y los que le imitaron, atentos á complicar sus fábulas por medio de incidentes mil y mil veces repetidos --- dieron á la comedia de enredo el mayor grado de perfección que pudo admitir.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 64."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con una prop. subj. , que expresa el fin con que se aplica la atención.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si algún favor, oh Ricardo, imaginas que yo hice á Cornelio en el tiempo que tú andabas de mí enamorado y celoso, imagina que fue tan honesto, como guiado por la voluntad de mis padres, que atentos á que le moviesen á ser mi esposo, permitían que se los diese.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2. (R. 1. 133 2 )."
+            },
+            {
+              "texto_cita": "«Dentro de casa se entró, | Y del último aposento | Cerró las puertas, atento | A que no le viera yo.»",
+              "autor": "Cald.",
+              "referencia_obra": "El galán fantasma , 2. 11 (R. 7. 299 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Según la analogía de la construcción anterior, sería natural el uso de á en el pasaje siguiente:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la dura prisión están atentos | Si les abren la puerta.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 5 (R. 17. 588 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , que representa el objeto de la atención como campo donde ésta se ejercita (poco común).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando ellos andaban más encendidos y más atentos en su robo, dio un turco voces.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2 (R. 1. 131 2 )."
+            },
+            {
+              "texto_cita": "«Mas en la ley divina | Pone su voluntad, su pensamiento, | Cuando el día se inclina, | Y al claro movimiento, | Y está en la escura noche en ella atento.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 3, salmo 1 (Merino, 6. 305)."
+            },
+            {
+              "texto_cita": "«Mi padre no es | En mi amor tan poco atento, | Que viendo tan justa causa | Como de quejarme tengo, | A toda una vida mía | Anteponga otro respeto.»",
+              "autor": "Mto.",
+              "referencia_obra": "El lindo D. Diego, 1. 13 (R. 39. 357 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y en contemplar su hermosura atento, | Más que hombre estatua muerta parecía.»",
+              "autor": "",
+              "referencia_obra": "Valb . Bern. 4 (R. 17. 181 2 )."
+            },
+            {
+              "texto_cita": "«Los dos por no perder la bella Arlaja, | En defenderla y defenderse atentos, | A unas rocas --- | A espacio se retiran.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 22 (R. 17. 377 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con sobre , que representa la atención dominando ó registrando de lo alto un objeto (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No menos debemos estar nosotros atentos sobre la guarda destas pasiones naturales, las cuales á manera de bestias se mueven con la presencia de sus objetos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 1. 6 (R. 8. 436 1 )."
+            },
+            {
+              "texto_cita": "«Declaró que habían de ser gente de vela, y atenta sobre lo que tiene á su cargo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 16 (R. 23. 76 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Escucha las voces mías | Muy atenta.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Propal . 1, p. 101."
+            },
+            {
+              "texto_cita": "«Esté vuesa merced atento, porque el caso es de importancia y algo dificultoso.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 51 (R. 1. 511 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese por extensión del oído y del juicio.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si no os enfadáis dello, y queréis, señores, un breve espacio prestarme oído atento, os contaré una verdad que acredite lo que ese señor --- ha dicho, y la mía.»",
+          "autor": "",
+          "referencia_obra": "Cery. Quij. 1. 50 (R. 1. 396 1 )."
+        },
+        {
+          "texto_cita": "«Puesto el atento oído | Al són dulce, acordado, | Del plectro sabiamente meneado.»",
+          "autor": "León",
+          "referencia_obra": ", Poes . 1, ¡Qué descansada vida (R. 37. 3 2 )."
+        },
+        {
+          "texto_cita": "«Ingrata señora, | Desde tu aposento --- | Aplícame un rato | El oído atento.»",
+          "autor": "",
+          "referencia_obra": "Gong. rom . 66 (R. 32. 531 2 ). —"
+        },
+        {
+          "texto_cita": "«Tú, noche, que alivias | Los cansados miembros --- | Aplica á mis quejas | El oído atento.»",
+          "autor": "",
+          "referencia_obra": "Id. rom . 102 (R. 32. 542 1 ). — Sup ."
+        },
+        {
+          "texto_cita": "«Yo saqué toda la cabeza y cuello de entre los tapices, y con atentísimos oídos y alma turbada me puse á escuchar lo que Luscinda respondía.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 27 (R. 1. 323 1 )."
+        },
+        {
+          "texto_cita": "«[Añadió] que él sabía de su rey que más deseaba el acierto que la venganza; que los alborotos presentes de España pedían atentísimo juicio cerca de los empleos de sus armas, porque siendo muchas las ocasiones y uno el poder, era menester no ofrecerle á casos dudosos.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal . 5 (R. 21. 524 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Cortés, comedido.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Aplicado á personas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas yo siempre he de seguir | Con ella galán y atento.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Primero yo , 1. 5 (92)."
+            },
+            {
+              "texto_cita": "«Todo fue galanterías | De un hombre fino y atento.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Un año después de la boda , 2. 3 (38)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con , para señalar la persona que es objeto de la cortesía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atento con sus mayores.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Aplicado á cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Envió un recado atento al deudor; respondió éste con igual atención que al punto iba á entregar la cantitad referida.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Un viaje en galera (353)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Tómase como participio pasivo de atender , en el sentido de Considerar, tener en cuenta.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Lo que á mí me parece, atenta la propiedad de la lengua original y su estilo común de hablar, es que en este verso hay una secreta comparación.»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job , 32 (2. 146)."
+        },
+        {
+          "texto_cita": "«Esta competencia fue causa que --- las provisiones saliesen varias ó ningunas perdiendo con la oportunidad el crédito; y se proveyesen algunas cosas de pura justicia, que atenta la calidad de los tiempos, manera de las gentes, diversidad de ocasiones, requerían templanza ó dilación.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Gran . 1 (R. 21. 70 2 ). — De aquí la frase conjuntiva atento que , cláusula absoluta en que la proposición indicativa hace el papel de sustantivo (Cp. Bello , Gram . § 397, a ). Le corresponden el prov. attendut que , y el fr. attendu que ."
+        },
+        {
+          "texto_cita": "«Por cuanto por parte de vos doña Ana Girón de Rebolledo, viuda del difunto Juan Boscán --- nos ha sido hecha relación que el dicho vuestro marido compuso --- suplicándonos que, atento que él se ocupó mucho en componer aquéllas --- fuese de nuestra merced daros licencia ---»",
+          "autor": "Boscán",
+          "referencia_obra": "."
+        },
+        {
+          "texto_cita": "«Quién hace á doña Malfada hija ó hermana de Amedeo, conde de Mauriena y de Saboya; y aun debe ser lo más cierto, atento que el arzobispo don Rodrigo dice que casó con Malfada.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 10. 17 (R. 30. 303 2 )."
+        },
+        {
+          "texto_cita": "«Esto mismo has tú de hacer, atento que te ha hecho Dios tan singular merced, como es librarte del peligro antes de caer en él.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit . 1. 2 (1. 69)."
+        },
+        {
+          "texto_cita": "«Todo esto tiene misterio, atento que no acaso, sino por su elección y voluntad escogió ser crucificado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 4. 39 (2. 563)."
+        },
+        {
+          "texto_cita": "«Un coche pidió licencia, | Atento que había servido | Todo lo más de su tiempo | En bodas y en cristianismos.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 7, sát. á los coches (R. 69. 263 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Sin duda el uso común de atento con á y el haberse olvidado su valor originario en esta frase han sido ocasión de que se diga atento á que .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atento á que se han quejado | Una resma de galanes, | Que pedís y no la unción, | Y no hay bolsa que os aguarde, | Ha mandado [la muerte] á los serenos, | Que os han de dar estas tardes, | Al afeite y al cartón, | Que os enfermen y que os maten.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom . 31 (R. 69. 177 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Dado este paso, se llegó á usar atento á como equivalente de En atención á, en consideracion á, teniendo en cuenta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijeron que, aunque Moisén había tenido orden de Dios de no señalar á los levitas posesiones continuas en la tierra, también le había tenido de darles ciudades de competente habitación, con sus campos y dehesas vecinas para pasto de los ganados. Atento á lo cual y á que era necesario concluír el asiento del pueblo --- pidieron, que se declarase en qué ciudades y de qué manera habían de tener su morada.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gobern. crist. 2. 32 (2. 333)."
+            },
+            {
+              "texto_cita": "«Muchos eran de opinión se disimulase aquella vez la nueva elección, atento á los accidentes de la república.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 4 (R. 21. 501 2 )."
+            },
+            {
+              "texto_cita": "«Que las pruebas cesaron y ocasiones, | Atento á no mover nuevas cuestiones.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 11 (R. 17. 44 1 )."
+            },
+            {
+              "texto_cita": "«Atento al corto número de tropas que mandaba, obró cuerdamente en no aventurarse á nuevos riesgos y en reconcentrar sus fuerzas.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist. 4 (R. 64. 92 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., it. attento: del lat. attentus, part. de attendere, atender; primeramente se dijo animus attentus (véase ATENDER ), y de ahí se pasó á judex attentus. Además, de attendere animum dictis se llegó á attendere versum , y de esta construcción transitiva á la pasiva versus attenditur , á la cual corresponde el uso pasivo de nuestro atento. Véase un ejemplo del ablativo absoluto en un texto del siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Attento pauco numero cleri jam afflicti et atriti, ut vix vivere possit, pænitentia ductus a tali exactione cessavit.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 3; p. 20). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

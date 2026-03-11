@@ -1,0 +1,353 @@
+{
+  "lema": "ANTOJARSE.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. refl. El sentido etimológico es Ponerse ante los ojos; de aquí:",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Representarse á la imaginación como real lo que no existe.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El no ser antojo está muy claro; porque aunque otras veces lo procure, no podrá contrahacer aquello; y es cosa tan notoria, que en ninguna manera se puede antojar (digo parecer que es, no siendo) ni dudar de que es, y si alguna quedare, sepan que no son éstos verdaderos ímpetus.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Mor. 6. 2 (R. 53. 463 2 )."
+        },
+        {
+          "texto_cita": "«Entiendan las personas que no han pasado por esto, que es verdad que pasa ansí, y que se entiende, y lo entiende el alma más claro que yo lo digo ahora, que no es esto cosa que se pueda antojar.»",
+          "autor": "",
+          "referencia_obra": "Ead. ib. 4. 2 (R. 53. 449 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con un dat. pron. para denotar la persona á quien se figura algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo les dije una vez que si los que me decían esto me dijeran que una persona que hubiese acabado de hablarme y la conociese yo mucho, que no era ella sino que se me antojaba, que ellos lo sabían, que sin duda yo lo creyera más que lo que había visto; mas si esta persona me dejara algunas joyas, y se me quedaban en las manos por prendas de mucho amor, y que antes no tenía ninguna, y me veía rica siendo pobre, que no podría creerlo, aunque yo quisiese.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 28 (R. 53. 87 1 )."
+            },
+            {
+              "texto_cita": "«Míralo bien; no te fíes en los ojos, que se les antoja muchas veces uno por otro.»",
+              "autor": "Celest.",
+              "referencia_obra": "12 (R. 3. 53 1 )."
+            },
+            {
+              "texto_cita": "«Como muchas veces se engaña la vista, al que dice haber visto tal cosa, si los presentes le quieren deslumbrar ó desengañarle, dicen que se le antojó.»",
+              "autor": "Covarr.",
+              "referencia_obra": "sb. voc. antojos."
+            },
+            {
+              "texto_cita": "«Quien asnos ha perdido, cencerros se le antojan.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Mayans, 42)."
+            },
+            {
+              "texto_cita": "«Quien bueyes ha menos, cencerros se le antojan.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": "."
+            },
+            {
+              "texto_cita": "«Quien ha menos cochinos, todo se le antoja gruñidos.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ". —"
+            },
+            {
+              "texto_cita": "«Era tan grande el miedo de la muerte, | Que al más valiente y bravo se le antoja | Ver un fiero español tras cada hoja.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 14 (R. 17. 56 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "A menudo se construye con un pred.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Unos mismos son los cristales y unas mismas las cosas; pero está la diferencia en que por una parte pasan las especies ó los rayos visuales del centro á la circunferencia, con que se van esparciendo y multiplicando, y se antojan mayores los cuerpos, y de la otra parte pasan de la circunferencia al centro y llegan disminuídos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 7 (R. 25. 23 2 )."
+            },
+            {
+              "texto_cita": "«Muy largo se les antojó el día, sin embargo de ser uno de los más cortos del año.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", H. P. del Pulgar (4. 42). —"
+            },
+            {
+              "texto_cita": "«¿Bardas de corral se te antojaron aquellas, Sancho, --- adonde ó por donde viste aquella jamás bastante alabada gentileza y hermosura?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij , 2. 8 (R. 1. 419 1 ). —"
+            },
+            {
+              "texto_cita": "«Ir á verla para desengañarla más aún, se le antojaba mayor refinamiento de crueldad que partir sin decirle nada.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pepita Jiménez, p. 184. —"
+            },
+            {
+              "texto_cita": "«En la mano el látigo, que se me antojó como varita de virtudes con que pudiera hechizarme aquella maga.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 83."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "El sujeto es con frecuencia una prop. indic.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No vayas, que se me antoja | Que de tu sangre veo roja | La espada del enemigo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Numancia , 3 (Arrieta, 10. 61)."
+            },
+            {
+              "texto_cita": "«¡Vos señora, en esta casa! | Que me engaño se me antoja.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo , 3. 17 (R. 20. 79 3 )."
+            },
+            {
+              "texto_cita": "«¿Qué maldad hay que no acometa un príncipe injusto, si se le antoja que importa para su conservación?»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 27 (R. 21. 26 1 )."
+            },
+            {
+              "texto_cita": "«Al punto se me antojó que Pepita me miraba compasiva.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pepita Jiménez, p. 80."
+            },
+            {
+              "texto_cita": "«Cuando sonríe, se me antoja que un rayo de luz inmaterial se me entra en el corazón y le alegra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 120."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Según el uso de los siglos XVI y XVII, se halla alguna vez el infin. que debía ser sujeto, precedido de de, cosa hoy inaceptable.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Véngase menos el que más se enoja, | Y alguno se tocó sienes y frente | Que de estar coronado se le antoja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 8 (R. 1. 698 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Son de todo punto excepcionales:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El empleo del verbo como simplemente transitivo sin que medien los pronombres reflejos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Si fue mágico embuste ó ciego engaño | Que le antojaba ver lo que no vía?»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 17 (R. 17. 320 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "El part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue bastante | A quitarle el sosiego en que vivía, | Y antojado, sacarle de su tierra | A buscar la que ausente le hace guerra.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 12 (R. 17. 274 2 )."
+            },
+            {
+              "texto_cita": "«Desde que ciño la espada, | Las pendencias me retozan; | y antojada de mostachos | Me estoy tentando la boca.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom. 93 (R. 69. 226 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En sentido menos estricto, Ofrecerse á la consideración como probable.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se me antoja que va á llover.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Presentarse á la voluntad como objeto deseable: venir en deseo, dar gana, ocurrirse. Muchas veces denota un deseo vehemente originado de voluntariedad ó puro capricho.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si botines le pedía, | Le presentaba una cofia; | Si guindas se le antojaban, | Iba á buscalla algarrobas.»",
+          "autor": "Tirso",
+          "referencia_obra": ", El pretendiente al revés , 3. 17 (R. 5. 42 3 ). —"
+        },
+        {
+          "texto_cita": "«Antojósele en esto á uno de los arrieros que estaban en la venta, ir á dar agua á su recua.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 3 (R. 1. 261 1 )."
+        },
+        {
+          "texto_cita": "«Me ha traído á que me veáis cual me veis, roto, desnudo, falto de todo humano consuelo, y lo que es peor de todo, falto de juicio, pues no le tengo sino cuando al cielo se le antoja dármele por algún breve espacio.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 1. 29 (R. 1. 329 2 )."
+        },
+        {
+          "texto_cita": "«Yo padezco ahora la enfermedad que suelen traer algunas mujeres, que se les antoja comer tierra y yeso, carbón y otras cosas peores.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 33 (R. 1. 344 1 )."
+        },
+        {
+          "texto_cita": "«Ni sé qué son calles, plazas ni templos, ni aun hombres, fuera de mi padre y de un hermano mío, y de Pedro Pérez el arrendador, que, por entrar de ordinario en mi casa, se me antojó decir que era mi padre, por no declarar el mío.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 49 (R. 1. 507 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con una prop. subj. Se le antojó que yo la acompañara.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Antepusieron á veces nuestros clásicos de al infin. que debía aparecer como sujeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sería mucho que habiendo sanado mi señor tío de la enfermedad caballeresca, leyendo éstos, se le antojase de hacerse pastor y andarse por los bosques y prados, cantando y tañendo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 6 (R. 1. 267 1 )."
+            },
+            {
+              "texto_cita": "«El tal Camacho es liberal, y hásele antojado de enramar y cubrir todo el prado por arriba.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 19 (R. 1. 443 1 )."
+            },
+            {
+              "texto_cita": "«Al obispo envié á pedir el libro, porque quizá se me antojará de acabarle.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Cartas , 1. 32 (R. 55. 127 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Subentendido el sujeto por hallarse expreso á poca distancia, parece usarse absolutamente para denotar los actos más libres ó caprichosos de la voluntad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Díjole Sancho que mirase que era hora de comer. Respondióle su amo que por entonces no le hacía menester, que comiese él cuando se le antojase.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 8 (R. 1. 269 2 )."
+            },
+            {
+              "texto_cita": "«Yo que soy Neptuno, el padre y el dios de las aguas, lloveré todas las veces que se me antojare y fuere menester.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 1 (R. 1. 406 2 )."
+            },
+            {
+              "texto_cita": "«También ella dice mal de mí cuando se le antoja.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 22 (R. 1. 450 1 )."
+            },
+            {
+              "texto_cita": "«Es necedad correrse por solo oír un rebuzno, que me acuerdo cuando muchacho que rebuznaba cada y cuando que se me antojaba, sin que nadie me fuese á la mano.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 27 (R. 1. 463 2 )."
+            },
+            {
+              "texto_cita": "«Hola, señores caballeros, vuesas mercedes dejen al mancebo, y vuélvanse por donde vinieron, ó por otra parte, si se les antojare.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 32 (R. 1. 474 2 )."
+            },
+            {
+              "texto_cita": "«Los tales no pueden mentir sino es cuando se les antoja ó les viene muy á cuento.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 33 (R. 1. 476 2 )."
+            },
+            {
+              "texto_cita": "«Es fácil á los encantadores tomar la figura que se les antoja.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 48 (R. 1. 391 2 )."
+            },
+            {
+              "texto_cita": "«Con dádivas y presentes alcanza el cargo que más se le antoja.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 2 (R. 1. 120 1 )."
+            },
+            {
+              "texto_cita": "«Quiso vivir como á él se le antojase, y hacer en todo su voluntad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y c onsid. 1, lunes en la noche (R. 8. 24 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué tal será la mujer que dijese á su marido: Yo no tengo de ser mala mujer ni haceros traición; mas fuera desto sabed que tengo de hacer todo cuanto se me antojare, aunque sepa que os pese dello?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 3, § 1 (R. 8. 112 2 )."
+            },
+            {
+              "texto_cita": "«Cuando de andar me canso, | Si se me antoja, vuelo, | Si se me antoja, nado.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb. 13 (1. 23)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aun se m'antoxa, senyor, | Si esta tema tomaras, | Que justas é quebrar varas | Ficieras por su amor.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. LXXXII . — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Su color amarillo, é la su fas mudada | En todos los sus fechos vos trae antojada.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 805 (R. 57. 252 1 )."
+        },
+        {
+          "texto_cita": "«Con quien se les antoja, con aquel se apartan.»",
+          "autor": "",
+          "referencia_obra": "Id. 393 (R. 57. 239 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Siempre se le antojan riquezas catando ganancias et rentas que cobdicia de haber.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 5. 58 (1. 243)."
+        },
+        {
+          "texto_cita": "«Et dixo [Jonás]: ó Dios verdadero, ¿et qué se te antojó agora en me tirar aquesta yerba que me facia sombra et me facia bien?»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 32 (1. 150)."
+        },
+        {
+          "texto_cita": "«Aquellos que fazen fechizos antojandoseles que podran fazer a alguno bien o mal con ellos --- pueden ser desechados de testimonio.»",
+          "autor": "Espéc.",
+          "referencia_obra": "4. 7. 6 ( O. L. 1. 195)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de ante y ojo ; port. antolhar, antolharse. El cat. , val. antoixarse es tomado del castellano. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

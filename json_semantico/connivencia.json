@@ -1,0 +1,114 @@
+{
+  "lema": "CONNIVENCIA.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Disimulo ó tolerancia en el superior acerca de las transgresiones que cometen sus súbditos contra las leyes ó reglas bajo las cuales viven.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desde el momento de su formacíón [del Lazareto] todo estaba en desorden, tanto por el desenfreno de los que estaban encerrados en él, como por el descuido y connivencia de los dependientes.»",
+          "autor": "Gallego",
+          "referencia_obra": ", Los novios, 31 (417)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Disimulo ó tolerancia por parte de quien puede oponerse á alguna cosa, consentimiento tácito.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es notorio que la puerta á las dignidades eclesiásticas estuvo siempre abierta á todo el que acreditase, no ejecutoriada nobleza, sino simple linipieza de sangre; que aun en esta parte hubo bastante connivencia ---»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Jacob . 3, p. 83."
+            },
+            {
+              "texto_cita": "«Ya habría corrido entre ellos la noticia de lo acaecido con el lavatorio de las barbas de D. Quijote y de la connivencia del duque, manifestada con mandar que también se las lavasen á él las doncellas.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 5, p. 169."
+            },
+            {
+              "texto_cita": "«Había soplado el fuego de la insurrección en Grecia, abrigando el designio de convertirla en república y contando para ello con la connivencia del Austria.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 3. 12 (5. 211)."
+            },
+            {
+              "texto_cita": "«Le convino captar para sus fines la connivencia del gabinete inglés.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 5. 23 (5. 419)."
+            },
+            {
+              "texto_cita": "«Aparecía complicado en ella [en la conspiración], á lo menos con su connivencia y silencio, un célebre guerrero.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 7. 33 (6. 291)."
+            },
+            {
+              "texto_cita": "«Reforzábase esta contradicción con la connivencia de los antiguos consejeros y de muchos cortesanos inclinados á apoyarla.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 444 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á para derrotar aquello que se consiente hacer.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Seguros ya [los franceses] de la connivencia de los pueblos á sus intentos, ó por lo menos de su estado pacífico y pasivo, se precipitaron sobre la Andalucía.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 9 (R. 19. 578 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "El acto y efecto de confabularse ó ponerse de acuerdo para un fin dañado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Contribuyeron también á este escandaloso acontecimiento sugestiones de extranjeros; y para dorar su indigna connivencia entraron también á la parte del agravio y de la impostura, y nos calumniaban á porfía.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland , 1 (R. 19. 538 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para denotar la otra persona que entra en el trato.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aun tachaban de connivencia con el enemigo cualquiera opinión que con la de éste coincidía.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Hist. lit . p. 374."
+            },
+            {
+              "texto_cita": "«Aquella mujer que dormía á pierna suelta después de haber estrangulado, en connivencia con Torquemada, á un infeliz deudor, estaba intranquila ante los problemas de conciencia que le había planteado su sobrino tan candorosamente.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Fortunata y Jacinta , 2. 3. 4 (2. 151)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. conniventia, derivado de connivere, cerrar los ojos. Port. connivencia; fr. connivence; it. connivenza. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,242 @@
+{
+  "lema": "COMARCANO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que está en la misma comarca, cercano, inmediato.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Iban á predicar á muchos lugares que estaban por allí comarcanos.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund. 14 (R . 53 . 203 1 ) ."
+            },
+            {
+              "texto_cita": "«Fue asolado por los mesmos bárbaros el reino de Dalmacia con las provincias comarcanas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 23, § 1 (R. 6. 86 1 )."
+            },
+            {
+              "texto_cita": "«Quisieron reedificar á Hierusalem, no pretendían ellos más que esto: mas porque los pueblos comarcanos procuraban impedirles el edificio, doblóseles el trabajo.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y cons id. 1 . 1 , § 8 (R. 8 . 9 2 )."
+            },
+            {
+              "texto_cita": "«Abrasó á Sodoma y las ciudades comarcanas.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 6 . 6 , § 16 (R. 8 . 369 2 )."
+            },
+            {
+              "texto_cita": "«Imaginemos unas tan espesas tinieblas cuantas se dice haber salido en el tiempo pasado de los fuegos del monte Etna, las cuales escurecieron todas las regiones comarcanas.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 1 . 2, § 4 (R. 6. 189 2 )."
+            },
+            {
+              "texto_cita": "«Primeramente determinó [Vespasiano] conquistar las ciudades comarcanas, mayormente la provincia de Galilea.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 14 (R. 6. 316 1 )."
+            },
+            {
+              "texto_cita": "«Acudían á él de los lugares comarcanos muchos padres, ofreciéndole sus hijos para que él los doctrinase.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 22 (R. 6. 337 2 ). Item, ib. 2 . 29, § 14 (R. 6. 375 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , por analogía con cercano, inmediato.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Les pareció que no era pastora de su aldea, ni de las otras comarcanas á ella.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 12 1 )."
+            },
+            {
+              "texto_cita": "«También desta parte del mismo río los reyes de Navarra por vía de dote poseyeron á Tudela de Navarra, con otros lugares comarcanos á esta provincia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 4 (R. 30. 5 1 )."
+            },
+            {
+              "texto_cita": "«Esta ciudad y á su ejemplo los pueblos que llamaban Titios, á ella comarcanos --- comenzaron en puridad á confederarse con otros pueblos sus vecinos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3 . 1 (R. 30. 59 1 )."
+            },
+            {
+              "texto_cita": "«Ningún obispo de la Galia y de las ciudades á la tal ciudad comarcanas de España se halló en aquel concilio.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4. 16 (R. 30. 108 2 )."
+            },
+            {
+              "texto_cita": "«El conde se hizo feudatario de Aragón por los estados de Rodés, de Agde ó Agatense, de Cahors, de Albi, de Narbona y de Tolosa y otras ciudades comarcanas á las sobredichas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 10. 9 (R. 30. 291 1 )."
+            },
+            {
+              "texto_cita": "«La ciudad se llamaba Coímbra, una de las más insignes y principales de aquel reino, y aun de toda Europa, así por la antigüedad de nobleza de linajes que en ella había, como por la tierra comarcana á ella.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, 7 (208)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en sentido análogo (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Isaías dice que los hebreos habían de despojar á los hijos del Oriente; que quiere decir á los pueblos comarcanos de la tierra de promisión, con los cuales pelearon los judíos y los sujetaron.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Epif. ( Vida de Cristo, 204) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Que habita en la misma comarca, á corta distancia.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los indios comarcanos que huían | Llevan á la ciudad la triste nueva.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 11 (R. 17. 44 2 )."
+        },
+        {
+          "texto_cita": "«Seguían luégo detrás sus plimaiquenes --- | Y multitud confusa de guerreros, | Amigos, comarcanos y extranjeros.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 21 (R. 17. 82 1 )."
+        },
+        {
+          "texto_cita": "«Mandó llamar á los príncipes de los hijos de Amón y Moab, que eran vecinos y comarcanos de aquella gente.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 4. 18, § 3 (R. 6. 525 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En nuestra edad, solamente restan algunos paredones de Alarcos, y un templo bien antiguo con nombre de Santa María con que los comarcanos tienen mucha devoción.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 11. 18 (11. 30. 330 1 )."
+            },
+            {
+              "texto_cita": "«A este puesto acudían los más entendidos comarcanos; éste era el paradero de casi todos.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 1 (13)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sería gran disparate desistir el hombre del estudio de las virtudes por recelo de dar en los vicios que le son vecinos y comarcanos.»",
+          "autor": "Gran.",
+          "referencia_obra": "Orac. y consid . 2 . 5 (R. 8. 141 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sus tierras eran bien guardadas, é florescian entre todas las otras comarcanas.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 3 (26)."
+        },
+        {
+          "texto_cita": "«Los reyes comarcanos temian tanto su poder, que ninguno osaba facer el contrario de su voluntad.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1 (12)."
+        },
+        {
+          "texto_cita": "«Una de las cosas que los reyes comarcanos vos an envidia, es tener en vuestros confines gente con quien no solo podeis tener guerra justa, mas guerra santa.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras, 11 (204)."
+        },
+        {
+          "texto_cita": "«Embió luego el rey sus cartas á todos los lugares comarcanos que le truxiesen vituallas.»",
+          "autor": "",
+          "referencia_obra": "Crón . Juan II , 14. 29 (R. 68. 391 2 )."
+        },
+        {
+          "texto_cita": "«Debia saber quan gran daño se avía seguido á todos los de aquella provincia por el condestable aver ocupado la ciudad de Jaen é las villas á ella comarcanas.»",
+          "autor": "Valera",
+          "referencia_obra": ", Memorial, 69 (R . 70 . 67 2 )."
+        },
+        {
+          "texto_cita": "«De aquella cibdad é de las cibdades é villas comarcanas á ella.»",
+          "autor": "",
+          "referencia_obra": "C rón. Álv. de Luna, epíl. (390) ."
+        },
+        {
+          "texto_cita": "«El estovo quedo en Teruel, que es de Aragon, é en otros logares comarcanos ende.»",
+          "autor": "",
+          "referencia_obra": "Ib. 78 (201)."
+        },
+        {
+          "texto_cita": "«Tan espantables et duros | Eran los vientos foranos, | Otrosy los comarcanos, | Con los cielos tan escuros, | Que non veya las manos.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 121."
+        },
+        {
+          "texto_cita": "«E si ordenadamente prosigue la cuenta e los largos años, será a ella vida de gloriosa conmemoracion estendiendose por las bocas de las comarcanas regiones.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron . 50 (22 1 )."
+        },
+        {
+          "texto_cita": "«Facia grand guerra al rey, é á Londres, donde él era comarcano.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 109."
+        },
+        {
+          "texto_cita": "«Venció muchas batallas [el Cid], é le fizo Dios tan grande é honrado, é fue tan temido de sus comarcanos.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 7."
+        },
+        {
+          "texto_cita": "«Con todos mis comarcanos | Yo paré bien mi fasienda.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p . 335."
+        },
+        {
+          "texto_cita": "«Los rreyes comarcanos fagan rreverençia | Al su alto nonbre é grant solepnidat.»",
+          "autor": "",
+          "referencia_obra": "Ib. p . 212 ."
+        },
+        {
+          "texto_cita": "«El lo quiera engrandesçer | Sobre los reyes christianos | Tanto que sus comarcanos | Lo vengan á, obedesçer.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 182."
+        },
+        {
+          "texto_cita": "«Comarcana está su tierra con el señorío del turco.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clay. p. 95."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de comarca . Port. comarcão . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

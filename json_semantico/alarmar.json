@@ -1,0 +1,83 @@
+{
+  "lema": "ALARMAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Conmover ó incitar á tomar las armas ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Las ciudades, villas, aldeas y campiñas que circundan la capital obedecieron á Masanielo, cuyos tenientes con pelotones napolitanos las recorrían y alarmaban.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Masan . 2. 1 (5. 159)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Sobrecoger, asustar, inquietar, azorar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ministro tuvo que proponer una contribución extraordinaria que alarmó á la Asamblea.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 2. 15 (5. 113)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hago estrépito, se alarman | Todos.»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojigata , 3. 10 (R. 2. 412 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "La causa del sobresalto se expresa con de , con , por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se alarmó de, con, por mi llegada.»",
+              "autor": "Baralt",
+              "referencia_obra": ", Dicc. Galic ."
+            },
+            {
+              "texto_cita": "«Herrera, apasionado toda su vida por la condesa de Gelves --- le consagró una pasión fogosa, tierna y constante, pero acompañada de tal respeto y tal decoro que el pudor no podía alarmarse de ella.»",
+              "autor": "Quint.",
+              "referencia_obra": "Introd. al Parn. esp . 3 (R. 49. 134 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Nota.",
+      "definicion": "Este verbo, introducido á mediados del siglo pasado, no tenía la aprobación de la Academia sino en el sentido propio; ya la tiene en el metafórico, si bien sabe aún á francés.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Verdad es que sermones y comedias ó tragedias he oído yo demasiado á la francesa, quiero decir escritos en una lengua parecida á la castellana; pero que usa ciertas voces, como verbigracia --- alarmar , por asustar, sobrecoger, sobresaltar, inquietar.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Liter. en cuaresma (7. 70)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Fr. alarmer , deriv. de alarme , alarma . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

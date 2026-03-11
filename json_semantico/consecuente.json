@@ -1,0 +1,240 @@
+{
+  "lema": "CONSECUENTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que se sigue naturalmente de otra cosa, que está íntimamente relacionado con ella.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estando repartido mi despacho universal en tres secretarías, es consecuente el que cada una tenga con separación destinados los negocios que debe dirigir.»",
+              "autor": "",
+              "referencia_obra": "Nov. recop . 3. 6. 5 (1. 406)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así que no es esto [el ser tentado] señal de reprobación, sino cosa natural y consecuente al estado en que han vivido.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 4, § 6 (R. 8. 131 2 )."
+            },
+            {
+              "texto_cita": "«Pues otra cosa añadiré á ésta muy consecuente, y proporcionada con ella, que refiere Eliano, la cual podrá dejar de creer quien quisiere, mas yo la creo, así por ser consecuente á la pasada, como por ser Dios el que las gobierna.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 1. 18, § 1 (R. 6. 230 2 )."
+            },
+            {
+              "texto_cita": "«Otra profecía leemos en el Evangelio consecuente á ésta.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 31, § 1 (R. 6. 386 1 ); item, ib . § 2 (R. 6. 387 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Es sumamente raro y aun no muy propio en el sentido material de Que se sigue en orden respecto de una cosa, ó situado ó colocado á su continuación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las Filipinas y islas consecuentes, según personas pláticas que de ellas refieren, corren más de novecientas leguas.»",
+              "autor": "Acosta",
+              "referencia_obra": ", Hist. nat. y mor. de Indias , 3. 25 ( Dicc . Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese de la persona cuya conducta está de acuerdo con sus principios ó con sus antecedentes; que procede conformándose con lo que antes profesaba ó reconocía.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La cuarta y última calidad de los caracteres es que sean consecuentes, es decir que se muestren en todo el curso del drama como aparecieron al principio.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 5. 18 (1. 240)."
+            },
+            {
+              "texto_cita": "«El carácter más bello y el mejor retratado de la tragedia [la Raquel de Huerta] es el de Hernán García: se le admira siempre igual, consecuente, elevado.»",
+              "autor": "",
+              "referencia_obra": "Id. Trag. esp . (2. 118)."
+            },
+            {
+              "texto_cita": "«Soy tan escéptico que no atino á creer en las creencias de los otros. Se me figura que los más consecuentes suelen ser los menos sinceros; que son consecuentes á fuerza de ser testarudos.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pasarse de listo , p. 156."
+            },
+            {
+              "texto_cita": "«Entre sus pretendientes se contaba don Claudio Martínez, consecuente hombre político, y diputado á Cortes casi perpetuo por el distrito de que formaba parte Villabermeja.»",
+              "autor": "",
+              "referencia_obra": "Id. Las ilusiones del Dr. Faustino , p. 449."
+            },
+            {
+              "texto_cita": "«Son nobles | Sus sentimientos; su trato | El más ameno; es muy dócil, | Muy fino, muy consecuente | Y me faltan expresiones | Para ensalzar su talento.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Marcela , 3. 12 (1. 265)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con y un pron. refl. ó un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la epopeya, y por la misma razón en el drama, los caracteres de los personajes deben ser conformes á lo que nos refiera la historia ó la tradición, y consecuentes consigo mismos, cuando el poeta haya inventado algunos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 6. 13 (1. 256)."
+            },
+            {
+              "texto_cita": "«Consecuente el público con sus hábitos y gustos ---»",
+              "autor": "Baralt",
+              "referencia_obra": ", Dicc. galic . sb. voc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar aquello á que uno se conforma en su conducta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es difícil, por no decir imposible, ser consecuente á los principios, cuando se prefiere serlo á interés del cuerpo, á pasiones de facción y á preocupaciones envejecidas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 180."
+            },
+            {
+              "texto_cita": "«Queriendo ser consecuentes á la fe jurada á sus reyes, les conservaron el trono y reformaron la monarquía.»",
+              "autor": "",
+              "referencia_obra": "Id. Cartas á L. Holland , 3 (R. 19. 546 1 )."
+            },
+            {
+              "texto_cita": "«Los príncipes de la tierra y sus consejeros se vieron precisados á mostrarse consecuentes al celo que ostentaban por la propagación de la fe.»",
+              "autor": "Casas",
+              "referencia_obra": "(R. 19. 475 2 )."
+            },
+            {
+              "texto_cita": "«Parecía que debía ser más consecuente á los vínculos que le unían con el privado, y sostener mejor su causa en aquel juiclo.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Álv. de Luna (R. 19. 387 2 )."
+            },
+            {
+              "texto_cita": "«La idea que nos formamos del estado de encantamento lleva consigo la suspensión de ciertas funciones vitales --- Consecuente á esto, un gobernador de Sicilia que presentalba los príncipes Alpatracio y Miraminia, que estaban encantados había ya dos mil años, al rey Amadís, le decía: Comer ni hablar ni más de lo que les veis hacer no han hecho.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 4, p. 442."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , que representa el campo donde se muestra la consecuencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consecuente pues el cristianismo en sus principios de fraternidad y de amor, tuvo por uno de los objetos más dignos de su caritativo celo el rescate de los cautivos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 17 (1. 256)."
+            },
+            {
+              "texto_cita": "«Consecuente en su sistema, negaba Xenófanes la creación y hasta la produccion.»",
+              "autor": "",
+              "referencia_obra": "Id. Filosof. elem. Hist . 9 (483)."
+            },
+            {
+              "texto_cita": "«Dio un maravedí á cada mendigo de los que antes le habían insultado, los cuales consecuentes en su carácter, le insultaron también entonces.»",
+              "autor": "Hartz.",
+              "referencia_obra": "El mercader (342)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Sust. m .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Proposición que se deduce de otra, que se llama antecedente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando raciocinamos, colocamos el consecuente después del antecedente, esto es, primero enunciamos la proposición que contiene á la otra, y después la que percebimos que está contenida en la primera.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos , 1, p. 46."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las proposiciones condicionales la parte en que está la condición se llama antecedente, y lo condicional se llama consecuente. Si llueve habrá cosecha. Si llueve es el antecedente, habrá cosecha es el consecuente.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Lógica , 2. 4. 7 (57)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Arit. y Geom. Segundo término de una razón, ya sea por diferencia, ya por cocientes, á distinción del primero, que se llama antecedente.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Gramát. Segundo de los términos de la relación gramatical. En este sentido es poco usado. Véase ANTECEDENTE, 2, a, α .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ca muy atarde al absente | Fallan justo, | Nin por conseqüente injusto | Al presente.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 33."
+        },
+        {
+          "texto_cita": "«La su claridat vençia | A todos otros clarores; | Sol é luna é sus fulgores | Por consequente façia.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 300."
+        },
+        {
+          "texto_cita": "«De lo qual afirmo un tal consequente, | Que aunque Dios sabe que me he de perder, | Con la su ayuda puedo salvo ser.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 562."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. consequentem , consequens , part. activo de consequi , seguir, seguirse, compuesto de cum , con, intensivo, y s equi , seguir. Aparece con la forma correspondiente en las demás lenguas romances. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

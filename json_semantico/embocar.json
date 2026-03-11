@@ -1,0 +1,341 @@
+{
+  "lema": "EMBOCAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Meter por la boca ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arremetí al plato, como arremetieron todos, y emboqueme de tres mendrugos los dos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 3 (R. 23. 490 1 )."
+            },
+            {
+              "texto_cita": "«No me ha de quedar capón, | Si no canta, que al profundo | No emboque por la garganta.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El Anticristo , 1 (R. 20. 361"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "definicion": ").",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí al caballo [de bronce] volaban | Con fácil y presto arranque | Mil pájaros --- | Allí con reserva poca | Le corría todo entero | La turba intrépida y loca, | Y hallábale un agujero | Que tiene el bruto en la boca --- | Embocáronse en la panza | Del caballo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb. 19 (433)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. Del concepto de comer con ansia que aparece en el primer ejemplo citado, nace el de Arrebatar, agarrar ansiosamente, que se ve en el siguiente:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alarga la mano y para gastos de pareceres se emboca un doblón.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 341 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Extensivamente, Meter o hacer entrar por cualquier parte estrecha ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con por.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Puesto en la carrera, la dio con la lanza tan bien puesta, que embocándola por la sortija se la llevó dentro.»",
+              "autor": "P. de Hita",
+              "referencia_obra": ", Guerras de Granada, 1. 9 (R. 3. 533 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se metió en sus galeras, que eran treinta, y embocándose por el estrecho, siguió la costa de levante.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Crón. 8. 46 (2. 206)."
+            },
+            {
+              "texto_cita": "«Con esta mesma alegría discurren --- como vemos que lo hacen las golondrinas y aviones sobre las tablas de los ríos, embocándose por las puentes, y encontrándose unas con otras con maravillosa ligereza.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2. 14, consid. 1 (R. 8. 471 2 )."
+            },
+            {
+              "texto_cita": "«Los molineros de las aceñas, que vieron venir aquel barco por el río, y que se iba a embocar por el raudal, salieron con presteza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 29 (R. 1. 466 2 )."
+            },
+            {
+              "texto_cita": "«Quedeme atrás --- y emboqueme por una callejuela que va a dar a la Victoria, que no me alcanzara un galgo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 6 (R. 23. 497 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, que por una especie de prolepsis señala el lugar a que se va a parar entrando por parte estrecha.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijeron que --- no dejarían de embocar la moza en la cárcel por todos los haberes del mundo, y que bastaba la mueca.»",
+              "autor": "Quev.",
+              "referencia_obra": "Cuento de cuentos (R. 48 . 411 2 )."
+            },
+            {
+              "texto_cita": "«Es tontería incurable | Y perniciosa a la patria. | — ¿Perniciosa? Pues que al punto | Le emboquen en una jaula.»",
+              "autor": "R. de la Cruz",
+              "referencia_obra": ", El hospital de los tontos (2. 492)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Va [el Nilo] tendido | Sin ser de las riberas restringido, | Hasta un angosto paso peñascoso | Que le va los costados estrechando, | De donde con estrépito furioso | Se va en las cataratas embocando.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 27. (253 1 , Amberes, 1597; Sancha y R. 17. 102 2 dicen"
+            },
+            {
+              "texto_cita": "« lo va los costados estrechando.»",
+              "autor": "",
+              "referencia_obra": ")"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el mismo sentido que la construcción refleja, se usa como intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con presto paso y con fatal corrida | Emboca por la puerta y falsa entrada | El gran tropel de gente amontonada.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 32 (R. 17. 117 1 )."
+            },
+            {
+              "texto_cita": "«Volaba el bajel con tanta ligereza, que en tres días y tres noches, pasando a la vista de Trápana, de Melazo y de Palermo, embocó por el Faro de Mesina.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2 (R. 1. 123 2 )."
+            },
+            {
+              "texto_cita": "«A vista ya de sus elevados muros se gratulaban embocando por el apetecido puerto.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del. aprov . p. 105 2 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Usase también como trans . llevando como acus. el objeto o el lugar en que se entra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En llegando a la sortija, hizo un muy galán golpe, que con la punta de la lanza dio en la sortija por la parte de arriba, que no faltó medio dedo para embocalla.»",
+              "autor": "P. de Hita",
+              "referencia_obra": ", Guerras de Gran . 1. 9 (107 2 , Ruán, 1606: la redacción de R. 3. 533 1 dice:"
+            },
+            {
+              "texto_cita": "«por muy poco no se llevó la sortija en la punta de la lanza.»",
+              "autor": "",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Fue este daño irreparable, pero ocasionole mucho mayor el no poder volver jamás la armada católica a embocar el canal.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 1 (R. 28. 8 2 )."
+            },
+            {
+              "texto_cita": "«Pierdo el tino --- | Por embocar la puerta desatino.»",
+              "autor": "Lope",
+              "referencia_obra": ", El premio del bien hablar, 2. 1 (R. 24. 498 3 )"
+            },
+            {
+              "texto_cita": "«Había riesgo de no tomar la costa y tener tal vez que embocar el estrecho.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solis, 2. 41 (4. 417)."
+            },
+            {
+              "texto_cita": "«Descubriéronse dos [bajeles] que iban embocando el estrecho [de Gibraltar ] .»",
+              "autor": "",
+              "referencia_obra": "Gonz. Dávila, Grand. de Madrid, p. 177."
+            },
+            {
+              "texto_cita": "«El galardón más cierto | Será encallar al embocar del puerto.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", canc. Cuitada navecilla ( Fern. p. 44)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part. dep. Que ha entrado por parte estrecha.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hernando Magallanes, prosiguiendo su camino, cuando menos se cataba, viose embocado por un estrecho angosto.»",
+              "autor": "",
+              "referencia_obra": "Sand. Hist. Carlos V , 13 § 30 (1. 601)."
+            },
+            {
+              "texto_cita": "«Volvieron él y toda su caballería por un camino hondo, por donde venía ya embocado el tercio de Carlo Espineli.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 21 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Milit. Batir de frente la artillería enemiga ( trans .) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pero el marqués Spínola les hacía otras contrabaterías con que les embocaba las piezas y las hacía inútiles, y con fuegos artificiales se arrojaban balas que les hacían mucho daño.»",
+          "autor": "Almirante",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Tomando siempre la vuelta de suerte que ninguna pieza del enemigo los pueda embocar ni batir por línea derecha.»",
+          "autor": "Almirante",
+          "referencia_obra": ")."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. En general, Entrarse en cualquier parte .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se determinó, por limpiarse de ellos, a que entrasen --- Embocáronse en manada y rebaño; y viendo empezaban a quererle informar en bulla, les dijo ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos, 21 (R. 23. 395 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gano a la madre, me emboco | En su casa.»",
+              "autor": "Bretón",
+              "referencia_obra": ", La falsa ilustración, 1. 1 (212)."
+            },
+            {
+              "texto_cita": "«Cogí el caballo y arneses | Del primo, y voy y me emboco | En la liza.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea, 3. 10 (185)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Hacer oír o aceptar cosa enfadosa o mala ( trans .). Con dat. de pers.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le embocaron la noticia.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«Usted ofreció concluír con un reparo, y así al descuido nos ha embocado un par de ellos.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Donde las dan las toman (6. 38)."
+        },
+        {
+          "texto_cita": "«Pues si usted cree haberlo dejado todo tan perceptible, ¿para qué nos emboca más de cincuenta páginas llenas de notas?»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (6. 61)."
+        },
+        {
+          "texto_cita": "«Emboca a su padre una cáfila de patrañas a cual más ridículas, precisamente en el momento en que éste acaba de afearle su vicio.»",
+          "autor": "",
+          "referencia_obra": "(R. 20. 526 2 )."
+        },
+        {
+          "texto_cita": "«Luego le emboqué a usted el cuento del galanteo de don Lucio. — Hizo usted bien, porque peligraba mi honra.»",
+          "autor": "Hartz.",
+          "referencia_obra": "Juan de las Viñas, 2. 10 (322)."
+        },
+        {
+          "texto_cita": "«Cuando él vuelva | A embocarme otra misión, | Que me emplumen. | Pocas de éstas.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", La señorita malcriada, 2. 6 (7. 209)."
+        },
+        {
+          "texto_cita": "«Dí de una vez | Que es un solemne pollino | Y que quieres embocarme | La maula. Pues, hijo mío, | Desásnalo tú, si quieres.»",
+          "autor": "Bretón",
+          "referencia_obra": ", Los dos sobrinos, 1. 1 (1. 22)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIII:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La patena que tiene el caliz embocado, | Significa la lápida.»",
+          "autor": "Berc.",
+          "referencia_obra": "Sacrif. 270 (R. 57. 89 1 )."
+        },
+        {
+          "texto_cita": "«E si refestare, enbocar lan»",
+          "autor": "Scío",
+          "referencia_obra": "). — ¿Servirá este pasaje para explicar el siguiente, o estará en ambos viciado el texto?"
+        },
+        {
+          "texto_cita": "«Sacó su hisopo el lánguido Morfeo, | Con que ha rendido y embocado a tantos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Viaje, 5 (R. 1. 693 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de en, que denota entrada, y boca . Port., cat. embocar; fr. emboucher, embouquer; it. imboccare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe qu: emboque, emboquéis. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

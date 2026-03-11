@@ -1,0 +1,195 @@
+{
+  "lema": "DESALOJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer salir, echar de un lugar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar el lugar que se deja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se coligó con los madianitas sus vecinos, haciendo con ellos causa común para rechazar y desalojar de allí á los israelitas.»",
+              "autor": "Scío",
+              "referencia_obra": ", Núm . 22. 2, nota ."
+            },
+            {
+              "texto_cita": "«Dieron tanto cuidado sus progresos [de Barbarroja], que el emperador Carlos V no juzgó empresa indigna de su persona pasar el mar á desalojarlo de Túnez.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment 3, p. 161."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las fieras, desalojadas | De sus estancias incultas, | Ya en las regiones del aire | No es mucho que se presuman | Aves.»",
+              "autor": "Cald.",
+              "referencia_obra": "auto La cena de Baltasar (2. 208)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, Obligar á una tropa enemiga á que abandone su posición ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se le enviaban fuerzas bastantes, con que desalojar al enemigo ó darle la batalla.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 7 (R. 28. 92 1 )."
+            },
+            {
+              "texto_cita": "«Lo primero que se hizo fue desalojar la armada enemiga que en número de treinta bajeles guardaba el río.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5 (R. 28. 57 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nuestros escuadrones, algún poco desalojados, parece ciaban y se querían poner en huída.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 11. 24 (R. 30. 338 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la posición que se abandona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su salud consistía en desalojar de aquel sitio al enemigo.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 530 1 )."
+            },
+            {
+              "texto_cita": "«Fue necesaria toda la resolución de Gonzalo de Sandoval y todo el valor de su gente para desalojarlos de aquellos pasos dificultosos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 16 (R. 28. 368 2 )."
+            },
+            {
+              "texto_cita": "«Los primeros tiros de Castelnovo bastaron para desalojar al pueblo de las inmediaciones del jardín.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 2. 5 (5. 182)."
+            },
+            {
+              "texto_cita": "«Pues los alemanes cargan á la bayoneta y con brío; adiós, que nos desalojan de aquel puesto.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Álvaro , 3. 6 (4.152)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En lenguaje científico se usa con suj. de cosa:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un sólido desaloja tanto del líquido en que está sumergido, un ácido á otro.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ni era posible desalojar en breve tiempo de la escena á los malos autores que la habían invadido.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Com. esp . 5 (2. 221)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Dejar voluntariamente el sitio que uno ocupa ó donde mora ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acordaron por estos inconvenientes de desalojar y retirarse la tierra adentro.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 3. 18 (R. 30. 78 2 )."
+            },
+            {
+              "texto_cita": "«Desalojó Mauricio, y volvió á pasar el Vaal.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 27 2 )."
+            },
+            {
+              "texto_cita": "«Detúvose el duque lo que bastó para dejar en defensa dos fuertes que se hicieron --- Y al fin desalojó el campo á los 12 de noviembre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1 (R. 28. 11 1 )."
+            },
+            {
+              "texto_cita": "«Se echó de ver que el enemigo desalojaba para mejorar de puesto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5 (R. 28. 58 1 )."
+            },
+            {
+              "texto_cita": "«No ponía duda en que el enemigo había desalojado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5 (R. 28. 55 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nuestro campo había desalojado de Ujíjar con pérdida y desorden.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 4 (R. 21. 115 1 )."
+            },
+            {
+              "texto_cita": "«Desalojó [el duque de Parma] de Juetoy la noche de los 18 de mayo.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 59 1 )."
+            },
+            {
+              "texto_cita": "«Al desalojar don Agustín del país de Cambray, le pareció sitiar el castillo de Huesi.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 7 (R. 28. 99 1 )."
+            },
+            {
+              "texto_cita": "«Si Honoria se empeña | En que de aquí desaloje, | Prometedme interceder | Para que el fallo revoque.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Honoria , 2. 10 (232)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo ó privativo des y alojar . Port. desalojar ; cat. desallotjar ; el fr. dice déloger , el it. diloggiare , sloggiare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

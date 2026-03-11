@@ -1,0 +1,80 @@
+{
+  "lema": "ÁGIL.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que tiene facilidad para mover y manejar sus miembros; expedito, ligero.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El es el más ágil mancebo que conocemos, gran tirador de barra, luchador extremado, y gran jugador de pelota; corre como un gamo, salta más que una cabra, y birla á los bolos como por encantamento.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 19 (R. 1. 443 1 )."
+        },
+        {
+          "texto_cita": "«Como puse enmienda en mi comer y beber de noche, fuese consumiendo la gordura un poco, y yo sintiéndome más ágil para cualquiera cosa.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud. 3. 11 (R. 18. 461 1 )."
+        },
+        {
+          "texto_cita": "«Ya de escuadra tropel súbito parte, | En caballos más ágiles que el viento.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars. 4 ( Fern. 7. 93)."
+        },
+        {
+          "texto_cita": "«Los juegos públicos de pelota --- hacen en gran manera ágiles y robustos á los que los ejercitan.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Mem. sobre espect . 2 (R. 46. 495 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de, para particularizar el miembro expedito ó ligero.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Agil de pies.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Sigo mi trote, | Sigue también, | Suelto de lengua, | Agil de pies.»",
+              "autor": "Mor.",
+              "referencia_obra": "Poes. sueltas , rom , 9 (R. 2. 605 2 )."
+            },
+            {
+              "texto_cita": "«¿No te dije, Sancho, que me habían de sobrar escuderos? Mira quién se ofrece á serlo sino el inaudito bachiller Sansón Carrasco, --- sano de su persona, ágil de sus miembros.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 7 (R. 1. 418 1 )."
+            },
+            {
+              "texto_cita": "«La edad llegaría á diez y ocho ó diez y nueve años, alegre de rostro, y al parecer ágil de su persona.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 24 (R. 1. 455 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Es difícil halagar el oído con versos más varoniles, ágiles á la par que robustos.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Trag. esp . (2. 210)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. agil; fr. , it. agile: del lat agilis, de agere, obrar, llevar adelante, gr. – γω , sans. ag’ , ir, llevar, impulsar; zend az; escand. aka , acarrear ( Curtius , Griech. Etym.; Pott , WWb. 3. 364). \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

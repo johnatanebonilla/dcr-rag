@@ -1,0 +1,353 @@
+{
+  "lema": "AVERIGUAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner en claro, inquirir y descubrir la verdad ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las cosas que se dejó de decir Polidoro de gran sustancia, las averiguo yo, y las declaro por gentil estilo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 22 (R.1. 450 1 )."
+            },
+            {
+              "texto_cita": "«A mí, que ha pocos días que salí de ser gobernador y juez, como todo el mundo sabe, toca averiguar estas dudas y dar parecer en todo pleito.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 66 (R. 1. 544 2 )."
+            },
+            {
+              "texto_cita": "«Rabiaba Sancho por sacar á su amo del pueblo, porque no averiguase la mentira de la respuesta que de parte de Dulcinea le había llevado á Sierra Morena.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 9 (R. 1. 422 1 )."
+            },
+            {
+              "texto_cita": "«Volvamos á la preeminencia de las armas contra las letras, materia que hasta ahora está por averiguar, según son las razones que cada uno de su parte alega.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 38 (R. 1. 361 1 )."
+            },
+            {
+              "texto_cita": "«Ordenó otrosí el onceno año de su imperio que ninguno fuese castigado por ser cristiano si no le averiguaban algún otro delito.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 4. 5 (R. 30. 95 2 )."
+            },
+            {
+              "texto_cita": "«Esta fue la primera traslación de la Santa Escritura, y de tanta autoridad para los judíos, que cuando tienen alguna duda acuden allí á averiguarla.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 4. 3 (233)."
+            },
+            {
+              "texto_cita": "«Cesen pues ya las crueldades | Que causó el recelo vano, | Pues que con daros la mano | Averiguo estas verdades.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse , 3. 10 (R. 20. 117 2 )."
+            },
+            {
+              "texto_cita": "«Yo no examino | Las causas de la querella, | Porque para averiguarlas | Tendremos cuestiones nuevas.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El filósofo casado , 2. 5 (5. 58)."
+            },
+            {
+              "texto_cita": "«¿Por qué en vez de inquirirle y averiguarle [el delito], se ha empezado despojándome de mi libertad, de mi estado, de todos mis derechos?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central, apénd . 3 (R. 46. 579 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo acus. una prop. indic.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ayer hallé una tendera que vendía avellanas nuevas, y averigüéle que había mezclado con una hanega de avellanas nuevas otra de viejas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 51 (R. 1. 513 1 )."
+            },
+            {
+              "texto_cita": "«Pasando de enamorados | A celosos sus pesares, | Averiguó que te quiero.»",
+              "autor": "Cald.",
+              "referencia_obra": "El galán fantasma , 1. 1 (R. 7. 291 3 )."
+            },
+            {
+              "texto_cita": "«En la tragedia latina averigua Edipo, por medio de un diálogo con Yocasta, que él fue quien mató á Layo.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo, advert . (3. 229)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Siendo acus. una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejando esto aquí, averigüemos agora y veamos, que ya el tiempo lo pide, qué hizo Cristo para poner el reino de nuestras almas en paz.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Principe (R. 37. 141 1 )."
+            },
+            {
+              "texto_cita": "«Ya parece necesario que averigüemos quién era Motezuma, qué estado tenía en esta sazón su monarquía, y por qué razón se asustaron tanto él y sus vasallos con la venida de los españoles.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 2. 3 (R. 28. 234 2 )."
+            },
+            {
+              "texto_cita": "«Rey cruel, fieros jüeces, | Si queréis averiguar | Cuál de los dos culpa tiene, | Estos testigos lo digan.»",
+              "autor": "Lope",
+              "referencia_obra": ", La ley ejecutada , 2. 9 (R. 41. 191 1 )."
+            },
+            {
+              "texto_cita": "«Todo el día se lo pasa en averiguar si dijo bien ó mal Homero en tal verso de la llíada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 16 (R. 1. 436 1 )."
+            },
+            {
+              "texto_cita": "«El nunca se puso á averiguar si era ínsula, ciudad, villa ó lugar lo que gobernaba.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 54 (R. 1. 517 2 ). —"
+            },
+            {
+              "texto_cita": "«¿Quién te mete á ti en mis cosas, y en averiguar si soy discreto ó majadero?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 58 (R. 1. 527 1 )."
+            },
+            {
+              "texto_cita": "«Entre lisonjas que á la dicha aclaman, | El feliz no averigua si le aman.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 14 ( Fern. 8. 55)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchas cosas se dijeron sobre el caso, la verdad nunca se averiguó.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 3. 16 (R. 30. 76 2 )."
+            },
+            {
+              "texto_cita": "«Por lo cual los señores inquisidores de Sevilla mandaron que estuviese recogido hasta averiguarse su causa.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv. , 7, § 6 (R. 11. 473 2 ). —"
+            },
+            {
+              "texto_cita": "«No le sucedió así á Claudia, porque se le averiguó por su misma confesión, que la Esperanza no era su sobrina ni parienta.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Tía fing . (R. 1. 250 2 ). —"
+            },
+            {
+              "texto_cita": "«Todos estos desórdenes, si por culpa del nuevo rey, si de los grandes, no se averigua.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 16.16 (R. 30. 483 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me doy á entender que este nuestro hablar tan de improviso, cae debajo del número de aquellas cosas que llaman portentos, las cuales cuando se muestran y parecen, tiene averiguado la experiencia que alguna calamidad grande amenaza á las gentes.»",
+              "autor": "",
+              "referencia_obra": "Cerv . Col . (R. 1. 227 1 )."
+            },
+            {
+              "texto_cita": "«Por ser todo lo que he contado tan averiguada verdad, me doy á entender que también lo es lo que nuestro zagal dijo que se decía de la causa de la muerte de Grisóstomo.»",
+              "autor": "",
+              "referencia_obra": "Id . Quij . 1. 12 (R. 1. 277 2 )."
+            },
+            {
+              "texto_cita": "«Como sale de lugar vacío tengo por averiguado que debe de salir frío.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 38 (R. 1. 361 1 )."
+            },
+            {
+              "texto_cita": "«En todo el discurso se tuvo gran cuenta con la verdad, que es la primera ley de la historia. Los tiempos van averiguados con mucho cuidado y puntualidad.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. pról. (R. 30. LI)."
+            },
+            {
+              "texto_cita": "«¿No es mucho más acertado, | Aunque la lengua sea muda, | Gozar un amor en duda, | Que un desdén averiguado?»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio , 3. 4 (R. 5. 220 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la persona que da noticia de la verdad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quién, en fin, [ponderaba] su penetración y prudencia para averiguar de ellos los secretos del país y preparar nuevas fuentes de prosperidad y riqueza para la colonia.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 293 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Averígüelo Vargas : frase familiar que se usa cuando alguna cosa es difícil de averiguar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tuvo origen de D. Francisco de Vargas, alcalde de corte á quien Isabel la Católica encargaba cosas difíciles de averiguar.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc . Véase además Covarrubias, en la voz Vargas , y Fernández Guerra sobre el siguiente lugar de Quevedo:"
+            },
+            {
+              "texto_cita": "«Este es Vargas, que como dicen: Averígüelo Vargas, viene averiguándolo todo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 347 2 )."
+            },
+            {
+              "texto_cita": "«Quién de los dos tenga razón, averígüelo Vargas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 215 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Inquirir, escudriñar ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pues si presumís, Gutierre, | Que importa para otra causa, | Cuando yo no os la declaro, | Sois necio en averiguarla.»",
+          "autor": "Mto.",
+          "referencia_obra": "El valiente justiciero , 3. 3 (R. 39. 344 3 ). —"
+        },
+        {
+          "texto_cita": "«Si alguno intenta averigualle sus rayos [al sol] y penetrar sus secretos, halla en él profundos golfos y escuridades de luz que le deslumbran los ojos.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp . 12 (R. 25. 36 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Refl. ó recípr . Entenderse, poner en claro asuntos que á uno le atañen. ( fam. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La merced que el señor alguacil me ha de hacer, es llevar á la señora al corregidor, que allá nos averiguaremos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El vizcaíno fingido ( Com . 1. 244)."
+            },
+            {
+              "texto_cita": "«Id con todos los diablos, allá os averiguad vosotros mesmos.»",
+              "autor": "L. de Rueda",
+              "referencia_obra": ", El convidado (R. 2. 264 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Averiguarse con alguno : entenderse ó avenirse con él, sujetarle ó reducirle á la razón ( fam. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya, ya el de los misterios; ya viene de hacer una negra carguilla de leña, que no hay quien se averigüe con él.»",
+              "autor": "L. de Rueda",
+              "referencia_obra": ", Las aceitunas (R. 2. 265 1 )."
+            },
+            {
+              "texto_cita": "«El cura algunas veces le contradecía, y otras concedía, porque si no guardaba este artificio, no había poder averiguarse con él.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 7 (R. 1. 268 1 )."
+            },
+            {
+              "texto_cita": "«A todas estas pláticas puso silencio un gran rumor que se levantó entre la gente, causado del que hacía un poderosísimo caballo bárbaro, á quien dos valientes lacayos traían del freno sin poderse averiguar con él.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 2. 19 (R. 1. 618 2 )."
+            },
+            {
+              "texto_cita": "«[Hombre] con quien los prelados pasados no se podían averiguar por el temor que dél tenían.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de B. d e los Márt . 7 (R. 11. 439 2 )."
+            },
+            {
+              "texto_cita": "«A cuál se le perdía una pierna en los callejones de las calzas, y la venía á hallar adonde menos convenía asomada; otro pedía guía para ponerse el jubón, y en media hora no se podía averiguar con él.»",
+              "autor": "",
+              "referencia_obra": "Quev . Gran Tac. 15 (R. 23. 510 1 )."
+            },
+            {
+              "texto_cita": "«Topé en una alcoba muy grande una gente desatinada, que los diablos confesaban que ni los entendían ni se podían averiguar con ellos.»",
+              "autor": "",
+              "referencia_obra": "Id. Zahurdas (R. 23. 318 2 )."
+            },
+            {
+              "texto_cita": "«No hay quien pueda averiguarse | Con ella.»",
+              "autor": "Tirso",
+              "referencia_obra": ", No hay peor sordo , 3. 5 (R. 5. 280 2 )."
+            },
+            {
+              "texto_cita": "«Ruégame, Beatriz, por él | Muy fina, constante y fiel, | Que á casa vuelva, si vemos | Que aun de fuera no podemos | Averiguarnos con él.»",
+              "autor": "",
+              "referencia_obra": "Cald . Mañana será otro día , 3. 11 (R. 7. 542 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando se les ficiere [ á los perros ] la malencolia quel dicen rabia, averiguarseles ha la fuerza desta enfermedat por las señales que dijiemos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2. 37 ( Bibl. venat. 1. 207). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Ca el home sabidor et manso é sabio si quisiese desfacer la verdat et aviriguar la mentira, á las veces facer-lo hia.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 21 1 )."
+        },
+        {
+          "texto_cita": "«Averigua las cosas de la sapiencia, que son mucho sotiles e mucho encubiertas.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 8)."
+        },
+        {
+          "texto_cita": "«Quando se averigua el vn conejo con el otro, ally viene el buen entendimiento.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 25 (55)."
+        },
+        {
+          "texto_cita": "«Si algun obispo --- sopiere sus yerros [de los judíos] é sus engreimientos, é se le averiguare su neciedad, é los non costriniere, é los non castigare, sea descomulgado tres meses.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzqo , 12. 3. 24 (202)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. averiguar : del lat. verificare, como amortiguar, apaciguar, atestiguar, fruchiguar, santiguar de mortificare, pacificare, testificare, fructificare, sanctificare. La gradación fonética hubo de ser verificare, verifigar, verifgar, verivgar, verigvar, veriguar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "La u lleva diéresis antes de e: averigüemos . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

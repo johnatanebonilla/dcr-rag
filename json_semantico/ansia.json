@@ -1,0 +1,302 @@
+{
+  "lema": "ANSIA.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Congoja ó fatiga que causa en el cuerpo inquietud ó agitación violenta.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con las ansias y agitación del vómito, le dio un sudor copiosísimo.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 17 (R. 1. 288 2 )."
+        },
+        {
+          "texto_cita": "«El estómago del pobre Sancho no debía de ser tan delicado como el de su amo, y así, primero que vomitase, le dieron tantas ansias y bascas, con tantos trasudores y desmayos que él pensó bien verdaderamente que era llegada su última hora.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (R. 1. 289 1 )."
+        },
+        {
+          "texto_cita": "«Puesto ya el pie en el estribo, | Con las ansias de la muerte, | Gran señor, ésta te escribo.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers. dedic. (R. 1. 559 1 )."
+        },
+        {
+          "texto_cita": "«El enfermo á quien la sed | De la calentura abrasa, | Se arroja á perder la vida | Por vencer, bebiendo, el ansia.»",
+          "autor": "Mto.",
+          "referencia_obra": "Trampa adelante, 3. 10 (R. 39. 162 1 )."
+        },
+        {
+          "texto_cita": "«En el lecho de dolor postrado | Le viste padecer ansias crueles.»",
+          "autor": "Mor.",
+          "referencia_obra": "Oda 10 (R. 2. 592 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Angustia ó inquietud grande del ánimo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hallaron á Camila con ansia y cuidado, esperando á su esposo, porque aquel día tardaba en venir más de lo acostumbrado.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 33 (R. 1. 344 2 )"
+        },
+        {
+          "texto_cita": "«Con esto quedó contento el gobernador, y esperaba con grande ansia llegase la noche y la hora de cenar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 49 (R. 1. 505 2 )"
+        },
+        {
+          "texto_cita": "«Llegó la noche esperada de D. Quijote con la mayor ansia del mundo, pareciéndole que las ruedas del carro de Apolo se habían quebrado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 71 (R. 1. 552 2 )."
+        },
+        {
+          "texto_cita": "«Mientras todas estas cosas pasaban, estaba yo con una ansia extraña esperando á Carino y á Leónida.»",
+          "autor": "",
+          "referencia_obra": "Id. Gal. 1 (R. 1. 10 2 )."
+        },
+        {
+          "texto_cita": "«Por una contradiccíón pequeña faltas en lo comenzado, y buscas la consolación con mucha ansia.»",
+          "autor": "Gran.",
+          "referencia_obra": "Imit . 3. 7 (R. 11. 400 1 )"
+        },
+        {
+          "texto_cita": "«Cómo he de creer las ansias | Que siempre me estás diciendo | Que pasabas con tu esposo, | Si aquí las buscas de nuevo?»",
+          "autor": "Mto.",
+          "referencia_obra": "De fuera vendrá ... 2. 6 (R. 39. 67 3 )."
+        },
+        {
+          "texto_cita": "«Mas estando enamorado | Burlar yo su sentimiento | Fuera delito y infamia.»",
+          "autor": "",
+          "referencia_obra": "Id. Lo que puede la aprehensión , 3. 5 (R. 39. 182 2 )."
+        },
+        {
+          "texto_cita": "«Sobre cuál había de ser el gobierno de España durante la cautividad del rey, no había menos ansia, pero de ésta sólo participaba la gente entendida.»",
+          "autor": "A. Galiano",
+          "referencia_obra": ", Recuerdos , p. 101."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. En especial se toma por la ansiedad que acompaña á un deseo vehemente, y de ahí por Anhelo ó deseo vehemente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando se desea con ansia una cosa, parece imposible que se ha de llegar á conseguirla.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", ¡Lo que puede un empleo! 2.4 (3.16)."
+        },
+        {
+          "texto_cita": "«Verle, señores, querría: | Que desde el Andalucía | Con ansia le vengo á ver.»",
+          "autor": "Lope",
+          "referencia_obra": ", S. Diego de Alcalá , 3 (R. 52. 527 3 ). —"
+        },
+        {
+          "texto_cita": "«Díme, valeroso joven, | Que Dios prospere tus ansias, | Si te criaste en la Libia, | O en las montañas de Jaca.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 43 (R. 1. 496 2 )."
+        },
+        {
+          "texto_cita": "«Toda la ansia es morirme entonces; ni me acuerdo de purgatorio, ni de los grandes pecados que he hecho por donde merecía el infierno; todo se me olvida con aquella ansia de ver a Dios.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 20 (R. 53. 65 2 )."
+        },
+        {
+          "texto_cita": "«Omnipotente Dios y Señor mío, á buscar corre mi corazón y vuela á recibir con suma ansia y reverencia al sacramento de tu Hijo y Señor mío.»",
+          "autor": "Gran.",
+          "referencia_obra": "Mem. del crist . 17 (R. 11. 194 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar el objeto del deseo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viénenme algunas veces unas ansias de comulgar tan grandes que no sé si se podría encarecer.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 39 (R. 53. 123 1 )."
+            },
+            {
+              "texto_cita": "«Destas mercedes tan grandes queda el alma tan deseosa de gozar del todo al que se las hace, que vive con harto tormento, aunque sabroso; unas ansias grandísimas de morirse, y ansí con lágrimas muy ordinarlas pide á Dios la saque deste destierro.»",
+              "autor": "Mor.",
+              "referencia_obra": "6. 6 (R. 53. 470 1 )."
+            },
+            {
+              "texto_cita": "«Muchas veces también es orba para alcanzar devoción la demasiada ansia de tenerla.»",
+              "autor": "Gran.",
+              "referencia_obra": "Imit . 4. 10 (R. 11. 426 2 )."
+            },
+            {
+              "texto_cita": "«Aunque es común con los animales aquella ansia natural de prorrogar la vida, es en ellos su fin la conservación, en el hombre es obrar bien.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 15 (R. 25. 43 1 )."
+            },
+            {
+              "texto_cita": "«El ansia general que se advierte de romper tierras y extender el cultivo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 1ª clase (R. 50. 115 2 )."
+            },
+            {
+              "texto_cita": "«Este pueblo tendrá más ansia de enriquecerse, porque sabrá que aumentará su placer al paso que su fortuna.»",
+              "autor": "",
+              "referencia_obra": "Id . Mem. sobre espect . 2 (R. 46 . 492 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué prueba mi queja, sino grande ansia de sus cartas?»",
+              "autor": "",
+              "referencia_obra": "Id . Corresp. con Posada (R. 50 . 256 1 )."
+            },
+            {
+              "texto_cita": "«¿Esta ansia | De indagar y saber será culpable?»",
+              "autor": "",
+              "referencia_obra": "Id. Poes. A Berm . (R. 46. 43 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ansia tengo de amar, de que resuene | Un acento de amor en mis oídos.»",
+              "autor": "",
+              "referencia_obra": "L. de Ayala, Un hombre de Estado , 3. 8 (1. 164)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con menos frecuencia se usa por , que representa la causa de la ansiedad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tantas ansias por reducirme á vos.»",
+              "autor": "Garcés",
+              "referencia_obra": ", 2. 62)."
+            },
+            {
+              "texto_cita": "«Tal era por aquel tiempo el ansia que tenía Bonaparte por reconcentrar el poder en sus manos, que se fundó entonces un consejo privado.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 7. 28 (6. 252)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Avidez, tesón.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Las aborrecía [las dignidades] más que la misma muerte, y con tanta ansia quería huír dellas, con cuanta las procuran los que de tales ojos carecen.»",
+          "autor": "Gran.",
+          "referencia_obra": "Vida de B. de los Márt. 2 (R. 11. 434 1 )."
+        },
+        {
+          "texto_cita": "«Si no se mezcló en las diversiones de la nobleza, por lo menos se dio con ansia á verlas y adimrarlas.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Mem . sobre espect . 1 (R. 46. 483 2 )."
+        },
+        {
+          "texto_cita": "«Al músico y cantor no ceda el vate | En estudiar con ansia noche y día | El mágico poder de la armonía.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Poét . 3 (1. 104)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Germ.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "La tortura ó tormento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los días pasados dieron tres ansias á un cuatrero que había murciado dos roznos, y con estar llaco y cuartanario, así las sufrió sin cantar, como si fueran nada.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov. 3 (R. 1. 137 2 )."
+        },
+        {
+          "texto_cita": "«Llevádolo han á la trena, | Donde los jueces son; | Siete ansias le habían dado | Todas de grande pasión.»",
+          "autor": "",
+          "referencia_obra": "Rom. de germ. p. 15; item, p. 37."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Cantar en el ansia: confesar en el tormento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Pues cómo? repitió D. Quijote, ¿por músicos y cantores van también á galeras? Sí, señor, respondió el galeote, que no hay peor cosa que cantar en el ansia --- No lo entiendo, dijo D. Quijote, mas una de las guardas le dijo: Señor caballero, cantar en el ansia se dice entre esta gente non santa confesar en el tormento.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 22 (R. 1. 303 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Agua. J. Hidalgo , Vocab .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "pl . Las galeras.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y cortadas ambas mirlas, | Y á las ansias entregado, | Donde sirvió de proel | A la corulla amarrado.»",
+          "autor": "Rom. de germ.",
+          "referencia_obra": "p. 90."
+        },
+        {
+          "texto_cita": "«Murió, llorándole todos | Los que navegan en ansias.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 5, baile 1 (R. 69. 115 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ca non piensses que el estado | E ascension | Augmenten la perfection | En mayor grado; | Mas acresçientan cuydado, | Ansia é pena.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 59. — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Fue conna grant anxia el suenro posponiendo, | Azie en grant cueta grant lazerio sufriendo.»",
+          "autor": "",
+          "referencia_obra": "A lex. 1101 (R. 57. 181 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Aparece con igual forma en los demás dialectos peninsulares y en it. : del lat. anxius, ansioso, angustiado, que es de la misma raíz que angosto ; de suerte que primariamente vale apretado, oprimido. ( Curtius , Griech. Etym . 4 190; Vanicek , Griech. lat. Wb . 22) \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

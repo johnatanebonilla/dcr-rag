@@ -1,0 +1,701 @@
+{
+  "lema": "ESCURRIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Brotar, salir un líquido del interior de una cosa ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para indicar el objeto de donde sale. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El virrey tiene tierras, esclavos, trapiche: ve escurrir la miel de las cañas corno la primera almíbar de su vida.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe , 1. 3 (p. 60). X"
+            },
+            {
+              "texto_cita": "«El agua que ha escurrido del paraguas ha hecho un charco.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. s. v ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡No! Quiero dejar correr mis palabras... Y que vayan escurriendo, como el mosto de la uva pisada, en una sencillez amiga...»",
+              "autor": "Pemán",
+              "referencia_obra": ", Felipe II , 1. 2 (p. 38)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hombre del cuchillo acababa de perder éste y parte de su mano al filo de la espada de Eduardo, y otro de los de sable empieza a perder la fuerza en la sangre abundante que se escurría de una honda herida en su cabeza.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 1 (p. 15)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans . Pasando a objeto directo el líquido, el verbo adquiere el sentido factitivo de Hacerlo salir. Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Está [el hombre] escurriendo la lluvia de su sombrero de palma de Argel.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 31."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Perder una cosa el líquido que contiene o con el que se halla mezclado o empapado ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El tiesto (la ropa) está escurriendo todavía.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. s. v ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. ( La ropa se está escurriendo ). Esta construcción se usa raramente quizás porque el verbo tendería a interpretarse en otro sentido, en el de 'resbalar o deslizarse'.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans. Con el sentido factitivo de Hacer que una cosa pierda el líquido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Solo me ha quedado de memoria el encender las candelas y el escurrir las ampollas.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij . 33 (R. 18. 103 1 )."
+            },
+            {
+              "texto_cita": "«Yo quiero escurrir el jarro, | No quiero escurrir la bola.»",
+              "autor": "Quev.",
+              "referencia_obra": "5, jác . 15 (R. 69. 114 1 )."
+            },
+            {
+              "texto_cita": "«Las profundas tazas | Desocupa y escurre con frecuencia.»",
+              "autor": "Mor.",
+              "referencia_obra": "Lección poét . (R. 2. 577 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El líquido se expresa mediante un compl. con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Poniendo ya en lo enjuto las pisadas, | Escurrieron del agua sus cabellos.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 3 (R. 32. 21 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Resbalar, deslizarse o desplazarse un objeto sobre una superficie ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en o por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y el agua apenas en la arena escurre, | Cuando a la vista el que le espera ocurre.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél . 19 ( Obr. suelt . 2. 317)."
+            },
+            {
+              "texto_cita": "«Mata a Delfrido ---. | Ya por los pies sangriento humor escurre, | Con que tiñendo el suelo, escribe el miedo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 20 ( Obr. suelt . 2. 350)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es el [trigo] mejor de la Sierra, a causa de ser las tales tierras enjutas, adonde, en lloviendo, corre y se escurre el agua.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 10. 33 (R. 91. 408 1 )."
+            },
+            {
+              "texto_cita": "«Está situado [este jardín] en un terreno muy desigual; tanto que en muchas de sus calles es necesario ir con gran cuidado para no escurrirse y rodar.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. poética, 1, p. 337. X"
+            },
+            {
+              "texto_cita": "«A la idílica paz que dilata | Un tañido de dulces cencerros, | Escúrrese en hebra de plata [el agua] | Suavemente lamida de berros.»",
+              "autor": "Lugones",
+              "referencia_obra": ", El libro de los paisajes, p. 84. X"
+            },
+            {
+              "texto_cita": "«Ella, en cambio, le recibía cada vez más apasionada, más deseosa, más enferma de ansia, como si toda su alma presintiera el alejamiento y quisiese adherirse al objeto de su amor, con la crispación de una mano sobre precioso cristal que se escurre.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 101). X"
+            },
+            {
+              "texto_cita": "«Era preciso encordelar la espada y la pica para que no se escurriesen.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1 (p. 127)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, para indicar la dirección del desplazamiento. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los vientos de la Pampa plegaban su ala poderosa; y las templadas brisas de los trópicos se escurrían a la región del Plata, a conquistar el desierto palacio del invierno.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 5 (p. 542)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de, con idea de separación. met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pugné por sacudir la pereza y escribir una página, pero el lápiz se me escurría de los dedos.»",
+              "autor": "Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 240. — En los siguientes textos lleva además un dat. X"
+            },
+            {
+              "texto_cita": "«Y el cuerpo de Eduardo se le escurre de los brazos entre la sangre que a los dos cubría.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 1 (p. 17). X"
+            },
+            {
+              "texto_cita": "«Al tomarlo hube de remover el mueble; y un crucifijo de bella escultura que había en ella, se estremeció, escurriéndosele la corona de cordel entretejido sobre el cabello de madera hasta detenerse sobre los hombros.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Provincia, p. 41. X"
+            },
+            {
+              "texto_cita": "«El pez sin escamas, con su boca muy abierta y los ojos sin expresión, se me escurrió de la mano y se mató contra el suelo.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell, p. 149. — Con de + bajo . X"
+            },
+            {
+              "texto_cita": "«Figúrate un lento deshacerte de ti mismo, en que la luz se te apague ---, se te derritan de entre las manos los objetos asideros, se te escurra de bajo los pies el piso.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Del sen. trág. de la vida, 3 (p. 40)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo limpiado con las manos un manadero de agua que se escurría por la mesma peña de la cueva ---, les roció con ella el rostro.»",
+              "autor": "F. de Mena",
+              "referencia_obra": ", Teágenes y Cariclea, 2 (p. 67). X"
+            },
+            {
+              "texto_cita": "«Mi chambergo sonaba a hueco y pronto de sus bordes empezaron a formarse goteras. Para que éstas no me cayeran en el pescuezo, requinté sobre la frente el ala, bajándola de atrás a fin de que el chorrito se escurriese por la espalda.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra, 9 (p. 59)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con sobre . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Merlo obedeció, en efecto, y siguiendo la calle de Venezuela, dobló por la callejuela de San Lorenzo, y bajó al río, cuyas olas se escurrían tranquilamente sobre el manto de esmeralda que cubre de ese lado las orillas de Buenos Aires.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 1 (p. 11). X"
+            },
+            {
+              "texto_cita": "«Las olas se escurrían muellemente sobre su blando y arenoso lecho.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4 (p. 441)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunos libros del siglo XVIII, algunos debates de la Convención francesa, algunos periódicos de la República se escurrían de contrabando entre las mercaderías con que la madre España subvenía a las primeras necesidades de sus hijos.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 4 p. 407."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans . Con el sentido factitivo de Hacer deslizarse. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La sangre es el riego necesario de toda buena germinación, y el Señor la hace correr a su tiempo con la misma benignidad con que escurre los nublados sobre los surcos.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 63)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Salir o partir disimuladamente, escapar ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasos siento: el aire abraso. (Saca la espada). | —Yo escurro; que en este paso | No quiero ser el judío.»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza de la ley, 2. 17 (R. 39. 93 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con hacia .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo escurro hacia mi aposento.»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo, 2 (R. 54. 246 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Yo seguirla? No haré tal: | Escurro por otro lado.»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza de la ley, 3. 13 (R. 39. 99 2 )."
+            },
+            {
+              "texto_cita": "«Yo escurro por acá fuera.»",
+              "autor": "",
+              "referencia_obra": "Id. S. Franco de Sena, 3. 10 (R. 39. 140 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Se usa más frecuentemente en esta construcción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Podrémonos escurrir? | — ¿Dónde la lleváis? — A ver | A su padre.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los milagros del desprecio, 3. 13 (R. 34. 247 3 )."
+            },
+            {
+              "texto_cita": "«Y no os penséis escurrir, | Porque os tengo de seguir | Hasta el infierno.»",
+              "autor": "",
+              "referencia_obra": "Id. Los novios de Hornachuelos , 3 (R. 41. 399 1 )."
+            },
+            {
+              "texto_cita": "«Apenas lo acabé de pronunciar cuando me escurrí, por no perder tiempo en mis diligencias.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo Coj . 5 (R. 33. 30 1 )."
+            },
+            {
+              "texto_cita": "«Calla. —Callo y me escurro. | —Vuelve, mira. —Vuelvo y miro.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña, 2. 6 (R. 2. 346 3 )."
+            },
+            {
+              "texto_cita": "«Hasta que embarcar le vea... | Vamos allá, no se escurra | y tengamos otra fiesta.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 11 (R. 2. 353 1 ). X"
+            },
+            {
+              "texto_cita": "«Era que todos los concurrentes se habían escurrido uno a uno al leer en la mirada siniestra de Quiroga que aquella era la última postura.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Facundo, 2. 2 (p. 101). X"
+            },
+            {
+              "texto_cita": "«A favor del confuso tumulto, el ñato se había escurrido abriéndose paso con los codos hasta donde se encontraba Deidamia.»",
+              "autor": "Blest Gana",
+              "referencia_obra": ", El loco estero, p. 121. X"
+            },
+            {
+              "texto_cita": "«Las criadas la seguían como a una paloma que se escurre.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Gloria de D. Ramiro, 1 (p. 154). X"
+            },
+            {
+              "texto_cita": "«Así que llegaba Federico, don Nazario se escurría como perdiz entre los matorrales, yéndose a pescar a la laguna y revisar entre los juncos las trampas nutrieras.»",
+              "autor": "",
+              "referencia_obra": "Id. Zogoibi, p. 201. X"
+            },
+            {
+              "texto_cita": "«Un barco de España, cargado de pólvora, estalla. Drake se escurre y alcanza la salida del puerto antes que nadie.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 140)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué te hiciste | Desde que la procesión | Se acabó; que hecho buscón | Tras ti, te nos escurriste?»",
+              "autor": "Tirso",
+              "referencia_obra": ", No hay peor sordo, 1. 4 (R. 5. 266 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con a .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y quería por lo mismo | Al campo raso escurrirme.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Honoria, 3. 2 (235)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con de, en sentido de separación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Apretando a la mula --- me escurrí de la calle, y alejándome della cuanto más pude y supe, no suspendí la rienda hasta la otra salida del lugar.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 2. 14 (R. 18. 347 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya todo el mundo sabe que Drake tiene genio, visión, atrevimiento. Solo le anotan una falla: haberse escurrido en la batalla de San Juan de Ulúa.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 143)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con hacia .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sargento que estaba a mi lado, me propuso que antes que el baile finalizase, nos escurriéramos bonitamente hacia los cuartos con el loable fin de asegurar una cama.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Un viaje (352)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ ζ )",
+          "definicion": "Con hasta . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Don Cándido, pálido como un cadáver, se escurrió hasta el coche por entre las piernas de Daniel.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 3 (p. 347). X"
+            },
+            {
+              "texto_cita": "«El haber puesto mano a la obra aumentó mi coraje, y me escurrí cuidadosamente hasta el fondo del corralón, dejando entreabierta la puerta.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra, 3 (p. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η η )",
+          "definicion": "Con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y así querría que antes que os escurriésedes por esos caminos, desafiásedes a este rústico indómito.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 52 (R. 1. 514 1 )."
+            },
+            {
+              "texto_cita": "«Por esta parte me escurro, | Que está oscura y solitaria.»",
+              "autor": "Cald.",
+              "referencia_obra": "La Virgen del sagrario, 1. 10 (R. 7. 333 1 ). X"
+            },
+            {
+              "texto_cita": "«Llevo dos noches soñando con perdices ---. Las persigo por la alcoba, y cuando aprieto el gatillo los tiros salen follones y ellas se escurren por debajo de la puerta.»",
+              "autor": "Delibes",
+              "referencia_obra": ", Diario de un cazador, p. 174."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans. Se usa únicamente en las siguientes frases hechas:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. Escurrir la bola: Escapar, huir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Escuché voces: | La bola en esto escurrí.»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo, 3 (R. 54. 252 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "met. Escurrir el bulto: Eludir, evitar un compromiso, riesgo o trabajo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mientras ruja | La tormenta embravecida, | No estará de más que escurra | El bulto.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Justicia providencial, 3. 8 (358). +"
+            },
+            {
+              "texto_cita": "«No hay que escurrir el bulto.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 2 (1. 181)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Discurrir, fluir ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y no sé qué decía de salud y de enfermedad que le enviaba, y por aquí iba escurriendo hasta que acababa en: Vuestro hasta la muerte, el caballero de la Triste Figura.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 26 (R. 1. 318 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Refl . Excederse, sobrepasarse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se escurrió en la reprimenda (en la propina).»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. s. v ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Particularmente, Sobrepasarse en las palabras, irse de la lengua.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas éste es que viene aquí. | Señora mía, chitón, | Que peligra la ración | Si sabe que me escurrí.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amor y celos, 1. 7 (R. 5. 153 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "met. Enmagrecer, hacer más delgado o seco de carnes ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El soplo del pánico al escurrir, al afilar sus facciones y al hacer relucir el blanco de su ojo con nacarado fulgor, daba a su belleza una calidad más concentrada, como la talla a las piedras preciosas.»",
+              "autor": "Larreta",
+              "referencia_obra": ", Zogoibi, p. 262."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . adj. Se usa más frecuentemente en esta forma, con los sentidos siguientes:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Flaco, sin carnes. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Viva la mujer de los muslos escurridos y el pecho de tabla!»",
+              "autor": "Delibes",
+              "referencia_obra": ", El camino, p. 78. met."
+            },
+            {
+              "texto_cita": "«La bolsa se halla tan escurrida que no hay ni para ir a bañarse, o a ver la mar en Motrico.»",
+              "autor": "Valera",
+              "referencia_obra": ", Pasarse de listo, p. 7."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Aplícase a la mujer que trae muy ajustadas las sayas (cfr. Dicc. Acad. sb. voc. escurrido ).",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Debe --- meter el dedo dentro en la llaga cuanto podiere, et escorrille de la sangre, que non finque hí.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2. 1. 6 ( Bibl. venat . 1. 232). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«La noche escorrida, luego a lo s alvores | Celebraron la missa. Berc. S. Dom . 588 (R. 57. 58 2 ).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«La noche escorrida, luego a los alvores | Cantó la sancta missa.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 367 (R. 57. 51 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. excurrere ‘fluir, extenderse', y éste de ex - y currere 'correr'. It. scorrere, rum. scurge, prov. escorer, cat. escorrer. En el español medieval coincidió este verbo con el resultado de excorrigere , derivado de corrigére 'enderezar, corregir', y que dio escorrir y escurrir , hoy desaparecidos, con el significado de 'acompañar a alguien para despedirlo', según puede observarse en los siguientes textos:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ffata cabo del albergada escurriólos el castellano.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1067 (R. 57. 14 1 )."
+        },
+        {
+          "texto_cita": "«Todos prendan armas e caualgan a vigor, | Porque escurren sus filjas del Campeador a tierra de Carrión.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2590 (R. 57. 28 1 ). X"
+        },
+        {
+          "texto_cita": "«Saludad a mío amigo, el moro Avengalvón: | Reciba a míos yernos commo elle pudier mejor; | Dil que enbío, mis fijas a tierras de Carrión, | De lo que ovieren huebos súvalas a so sabor, | Desí escúrralas fasta Medina por la mi amor.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2640 (ed. M. Pidal, p. 245)."
+        },
+        {
+          "texto_cita": "«Con dozientos caualleros escurrirlos mandó.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2652 (R. 57. 28 2 )."
+        },
+        {
+          "texto_cita": "«Los de Santesteuan escurriéndo-los van | Ffata río damor dándoles solaz.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2871 (R. 57. 30 2 )."
+        },
+        {
+          "texto_cita": "«Metióse con ellos a la carrera. | Escurriólos fasta en Egipto.»",
+          "autor": "",
+          "referencia_obra": "Reyes de Or . (R. 57. 320 2 )."
+        },
+        {
+          "texto_cita": "«Asmaban que en cabo serien bien escorridos.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 108 (R. 57. 53 1 )."
+        },
+        {
+          "texto_cita": "«Fuera mal escorrido si lo ouieran fallado.»",
+          "autor": "",
+          "referencia_obra": "Alex . 934 (R. 57. 176 1 )."
+        },
+        {
+          "texto_cita": "«Dispidióse el discípulo con muy grand humildat, | Salió el santo padre con él de la çibdat | A le escorrir con grand solemnidat.»",
+          "autor": "",
+          "referencia_obra": "S. Ildef . (R. 57. 324 2 )."
+        },
+        {
+          "texto_cita": "«Escurrieron nos todos con fijos e con mujieres = deducentibus nos omnibus .»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Dize el arçobispo don Rodrigo que sopo el rey Alimaimón quándo se fue el rey don Alfonso --- e quel escurrió fasta el monte que llaman agora Valtome.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 4. 2 ( 294)."
+        },
+        {
+          "texto_cita": "«E desí salieron los almoráuides de Valençia e escorrióronlos e dióronles caualleros que fuessen con ellos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 3 (322 2 )."
+        },
+        {
+          "texto_cita": "«Quando todos fueron de la villa dos leguas, el Çid, que saliera a escorrillos, despidióse dellos e dellas e tornóse para Valençia.»",
+          "autor": "Corominas",
+          "referencia_obra": "( DCEC, sb. voc. escurrir ) o 'prevenido, aprestado, apercibido' según el Dicc. Autor .: X"
+        },
+        {
+          "texto_cita": "«E fueron éstos por todos doscientos e ochenta e dos veces mil, todos homes escorrechos de armas.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 54 ( Dicc. Autor .). X"
+        },
+        {
+          "texto_cita": "«Fijos --- diógelos Dios --- a muchos --- sanos e escorrechos e fermosos e sesudos e entendidos.»",
+          "autor": "Corominas",
+          "referencia_obra": ", DCEC, sb. voc. escurrir ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

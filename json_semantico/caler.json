@@ -1,0 +1,131 @@
+{
+  "lema": "CALER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Importar, ser de provecho, convenir. De bastante uso en el período anteclásico, dejó vestigios en el lenguaje literario hasta la edad de Cervantes. Hoy se emplean las formas cal, calen, «universalmente entre las clases menos acomodadas de Aragón.» Borao . Sólo se usaba en las terceras personas. — α ) Siendo sujeto un infin. ó una prop. subj. «Perro, el huír no te cale.» Cerv. El gallardo español, 2 ( Com. 1. 34). «Non cale sino reír; | Cada cual mire su brío.» Lope , El despertar á quien duerme, 1 . 3 (R . 41 . 346 1 . Este pasaje está en boca de un villano; debe de representar una habla dialéctica.). «No callaréis vos, don bellaco? — Tú haces las bellaquerías; no me cale hacer señas que calle.» Timoneda , Los Menemnos, 9 (R. 2 . 300 1 ). «No cale sino que trayas aquí á mi primo Náucrates.» Villalobos , Anfitrión (R. 36. 477 1 ). — β ) Impers. Con de. Cp . prov . de mi no us cal, it . se vi cal di me. «Aunque nada note cale | De nuestro amor y concierto, | No niegues al cuerpo muerto | El triste y último vale.» Cerv. Gal. 2 (R. 1 . 20 2 ) .",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Nin cale que olvidemos al rey de gloriosa memoria don Enrique.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 24 ."
+        },
+        {
+          "texto_cita": "«Fue desterrado: las cabsas ó cómo non las cale expresar, ca la invidia non busca raçon , nin la mala voluntat justiçia.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 88."
+        },
+        {
+          "texto_cita": "«Nin jamás | Lo feçiste, nin farás; Pues non cale que amenaçes.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 205."
+        },
+        {
+          "texto_cita": "«Mas al presente hablar no me cale.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. 92 (32 1 ) ."
+        },
+        {
+          "texto_cita": "«Non cale dello cortar sy non la cabeça, e lo al poner con la broca.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 8 (73) ."
+        },
+        {
+          "texto_cita": "«Ya non me cal | Pensar en al, | Salvo en sennal | De omme carnal.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 16 . — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Ruegovos que me consejedes lo que vierdes que me cale mas de facer.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 16 (edic. vulg.; en R. 51. 384 2 dice: cae). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«No me uos caliera enuiar carta»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Mas quequier que el diga, a mi poco me cala.»",
+          "autor": "Alex.",
+          "referencia_obra": "140 (R. 57. 151 2 )."
+        },
+        {
+          "texto_cita": "«Los unos verás muertos e los otros golpados; | Non te cal ca se uençires non te menguaran vasallos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 72 (R. 57. 149 2 )."
+        },
+        {
+          "texto_cita": "«Cercat bien el sepulcro de buenos veladores, | Non sean embriagos nin sean dormidores, | Non lis cala demanana fajer otras labores.»",
+          "autor": "Berc.",
+          "referencia_obra": "Duelo, 175 (R. 57 . 136 2 )."
+        },
+        {
+          "texto_cita": "«Mas non te cal contar mi vida | Fasta que sia transida.»",
+          "autor": "S. M. Egipc.",
+          "referencia_obra": "(R. 57. 316 2 ). — Usábase además el comp. incaler, que corresponde al it. ant. incalere, y se halla á menudo desfigurado en los manuscritos y ediciones. — Siglo XV :"
+        },
+        {
+          "texto_cita": "«Pero, amigos, non min cal, | Maguer que cansançio siento, | Quiero complir mandamiento | De mi señor natural.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 287 (MS.:"
+        },
+        {
+          "texto_cita": "«nomical»",
+          "autor": "",
+          "referencia_obra": "; Leipzig:"
+        },
+        {
+          "texto_cita": "«non mí cal»",
+          "autor": "",
+          "referencia_obra": "). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«E siquiera la naue esté en la ribera | Quebrada en piezas, desto non le ycal .»",
+          "autor": "Pal.",
+          "referencia_obra": "804 (R. 57 . 451 1 ; la y tendría probablemente tilde en el original). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Pendien de las colunpnas derredor de la sala | Vna muy rica uinna, de meior non uos incala.»",
+          "autor": "Alex.",
+          "referencia_obra": "1963 (R . 57 . 207 2 ) ."
+        },
+        {
+          "texto_cita": "«La vueste es dannada, e a ti no tencal.»",
+          "autor": "",
+          "referencia_obra": "Ib. 397 (R. 57 . 159 2 ) ."
+        },
+        {
+          "texto_cita": "«Otros de ti meyores me afinquen que sala, | Cerca de ti los tienes, a ti non te incala.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 693 (R. 57 . 62 1 )."
+        },
+        {
+          "texto_cita": "«En muchos logares priso ostal, | Si mal yaze pocol incal.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egipc. (R. 57 . 313 2 ) ."
+        },
+        {
+          "texto_cita": "«Curie os quiquier, ca dellos poco min cal.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2357 (R. 57. 26 1 )."
+        },
+        {
+          "texto_cita": "«Si el rey me lo quisiere tomar a mi non minchal.»",
+          "autor": "",
+          "referencia_obra": "Ib. 230 (R. 57. 4 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Prov . caler; fr. ant. chaloir; it calere . Es aplicación impersonal del lat. calere, estar caliente, calere aliqua re, estar excitado ó movido por algo: id calet mihi significaría, Eso tiene excitación ó estímulo para mí. Los infinitivos calar ( Dicc. Autor. ), incalar ( Dicc. vulg. ) provienen de mala inteligencia de las formas subjuntivas cala, incala, empleadas alguna vez por la necesidad de la rima. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

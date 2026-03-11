@@ -1,0 +1,661 @@
+{
+  "lema": "LIBERAL.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dicho de personas o cosas personificadas, Que obra con desprendimiento sin esperar recompensa, generoso, dadivoso.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los soberbios y crueles como dragones se hicieron humildes, y los camales espirituales, y los avarientos liberales.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 30, §1 (R. 6. 381 2 ). X"
+            },
+            {
+              "texto_cita": "«La liberal fama vuestra, | Que hasta el cielo se levanta, | De que tenéis alma santa | Nos da indicio y clara muestra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (Cl. C. 154. 142)."
+            },
+            {
+              "texto_cita": "«El grande que fuere vicioso, será vicioso grande, y el rico no liberal, será un avaro mendigo.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 6 (R. 1. 416 2 )."
+            },
+            {
+              "texto_cita": "«Se valieron de aquellos presentes y socorros para obligar a los que no podían resistir; diligencias del temor, que suele hacer liberales a los que no se atreven a ser enemigos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 21 (R. 28. 232 2 ). X"
+            },
+            {
+              "texto_cita": "«Como la buena de la Catanla abría tanto la boca para pronunciar su a, y naturaleza liberal la había proveído de este órgano abundantísimamente, siendo mujer que de un bocado se engullía una pera de donguindo hasta el pezón.»",
+              "autor": "Isla",
+              "referencia_obra": ", Fr. Ger. 1 (Cl. C. 148. 117)."
+            },
+            {
+              "texto_cita": "«Su madre, para enseñarle a ser liberal, le hacía distribuir diariamente, cuando era niño, algunos escudos de oro.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 248 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En superlativo absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y porque nada faltase a las necesidades y uso de la vida humana, crió aquella mano liberalísima otro género de árboles para otros usos diferentes de los pasados.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 10, § 4 (R. 6. 209 2 )."
+            },
+            {
+              "texto_cita": "«Lo que el Consejo propone a su majestad, de que se vaya a la mano en las mercedes que proceden de su liberalísimo y generosísimo pecho.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon. 24 (R. 25. 497 1 )."
+            },
+            {
+              "texto_cita": "«En que fueron muy liberales los reyes de España, cuya piedad remuneró Dios con la presente monarquía.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 97 (R. 25. 254 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En grado comparativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto contaba Elicio, pastor, en las riberas del tajo, con quien naturaleza se mostró tan liberal cuanto la fortuna y el amor escasos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 3 1 ). X"
+            },
+            {
+              "texto_cita": "«Si ser Finea simple es caso duro, | Ya lo suplen los bienes de fortuna | Y algunos que le dio naturaleza, | Siempre más liberal, de la belleza.»",
+              "autor": "Lope",
+              "referencia_obra": ", La dama boba (Cl. C. 159. 151). X"
+            },
+            {
+              "texto_cita": "«Y seré más liberal | Si en esta ocasión que sigo | De un contrario hago un amigo | Y de un traidor un leal.»",
+              "autor": "M. de Amescua",
+              "referencia_obra": ", El ejemplo mayor de la desdicha 1 (Cl. C. 82. 154). — Con valor ponderativo."
+            },
+            {
+              "texto_cita": "«¿Cómo no levantarás alguna vez los ojos para conocer y amar a tan liberal y tan continuo bienhechor?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 3, § 1 (R. 6. 22 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—β )",
+          "definicion": "Con dat. En comparativo con valor ponderativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siéndome tan liberal, | Hay causa de decir bien; | Pero no faltará quien | La tenga de decir mal.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 156)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con a para especificar la finalidad. En comparativo con valor ponderativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De aquella franca herida | Baja otro mar de inmenso golfo, | Tan liberal a darse, | Que nunca, nunca, acaba de agotarse.»",
+              "autor": "Solís",
+              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 45. 43)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con la prep. con para especificar la persona que recibe el beneficio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aunque con todos era liberal, especialmente se mostraba más con aquellos a quien la felicidad de sus mayores y la honra de su primero estado o la vergüenza del presente les cerraba la puerta de la común misericordia para no andar por las calles mendigando.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª Ana Ponce de León , 1. 4 (23)."
+            },
+            {
+              "texto_cita": "«La magnanimidad de ánimo de los príncipes consiste en ser liberales con otros y moderados consigo mismos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 69 (R. 25. 192 2 )."
+            },
+            {
+              "texto_cita": "«¿Cuál podrá ser ahora el señor liberal con su vasallo, si llegare a entender le desobliga con el beneficio?»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 2 (R. 21. 482 2 )."
+            },
+            {
+              "texto_cita": "«Andaba tan desconocida la magnificencia arquitectónica, que aún no acertó a encontrarla, en obsequio del Ser Supremo, el pueblo más religioso y liberal con la Iglesia y sus ministros.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de V. Rodr. (R. 46. 371 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En superlativo absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estas y otras muchas razones han obligado a la Sede Apostólica a ser muy liberal con los reyes de España, para que pudiesen sustentar la guerra contra infieles.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 25 (R. 25. 69 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En grado comparativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si los viese ricos el rey, sería más liberal con ellos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 40 (R. 25. 103 2 )."
+            },
+            {
+              "texto_cita": "«A algunos pareció que la naturaleza no había sido madre, sino madrasta del hombre, y que se había mostrado más liberal con los demás animales.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 84 (R. 25. 225 1 ). X"
+            },
+            {
+              "texto_cita": "«El papa no es tan liberal con Enrique VIII como lo fue con Carlos XII.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 8 (p. 131)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de para especificar aquello con lo que se es generoso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si el pueblo piensa que es necesario que yo dé la vida para que esta isla tenga descanso y quietud, también seré liberal della, a cabo de veinte años de prisión que ha padecido.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 2. 40 (R. 60. 288 1 )."
+            },
+            {
+              "texto_cita": "«Ocio manso del alma, sosegado | Sueño, fin del pesar triste, enojoso, | Liberal de esperanzas, poderoso | De limpiar la amargura del cuidado.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", son. que principia así ( Fern. 6)."
+            },
+            {
+              "texto_cita": "«Es cosa muy fácil ser liberal de hacienda ajena.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 7 (R. 30. 507 1 )."
+            },
+            {
+              "texto_cita": "«Ser de lo ajeno liberal, es vicio.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Quien mal anda mal acaba , 3. 8 (R. 20. 225 1 )."
+            },
+            {
+              "texto_cita": "«El pastor de sus bienes | Liberal, | Rico, si no tu portal | Ha hecho tu templo santo, | Viva cuanto | Las piedras que ya dotó.»",
+              "autor": "Góng.",
+              "referencia_obra": "Letr. 19 (R. 32. 495 3 )."
+            },
+            {
+              "texto_cita": "«Conozco que anda conmigo | Liberal de su favor.»",
+              "autor": "Lope",
+              "referencia_obra": ", La llave de la honra, 1. 2 (R. 34. 117 3 )."
+            },
+            {
+              "texto_cita": "«Liberal de hacienda y vida, | En secreto se desposa.»",
+              "autor": "Cald.",
+              "referencia_obra": "Argenis y Poliarco , 2. 8 (R. 7. 446 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En comparativo, con valor ponderativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si tuviera con qué obligarla, ya la hubiera premiado el gusto con que os ha favorecido, que no suele ser tan liberal de esta gracia.»",
+              "autor": "",
+              "referencia_obra": "Lopse, Dorotea, 2.5 ( Obr. suelt. 7. 133)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con en, para especificar aquello en lo cual se es pródigo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos se ofrecieron a Eugenio, pero el que más se mostró liberal en esto fue D. Quijote.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 52 (R. 1. 398 1 ). X"
+            },
+            {
+              "texto_cita": "«A quien el cielo | Con mano poderosa, | Prodigio en cuerpo y alma, | Dotó de gracias todas, | Medido en las palabras, | Liberal en las obras, | Sufrido en los desdenes, | Modesto en las congojas.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El burlador de Sevilla, 1 (Cl. C. 2. 184) ."
+            },
+            {
+              "texto_cita": "«El cuarto género de los que deben ser liberales en sus donativos son las personas ricas, que en adquirir la hacienda no han tenido dependencia con los reyes.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon. 19 (R. 25. 489 1 ). — Siendo el término una prop. infinitiva."
+            },
+            {
+              "texto_cita": "«Si él fue liberal en prometer, sus cautivos fueron pródigos, ofreciéndole de alcanzar la luna del cielo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Amante liberal (R. 1. 128 1 )."
+            },
+            {
+              "texto_cita": "«Y ella en su gran dolor se quedó absorta | Liberal en sentir, y en hablar corta.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 12 (R. 17. 496 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado superlativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La divina Providencia fue liberalísima en las cosas que pertenecen a la vida humana, porque son muchas las necesidades que tenemos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 3. 6 (R. 11. 148 1 ). X"
+            },
+            {
+              "texto_cita": "«No le duele a Carlos V hacer esta concesión: los WeIser han sido muy liberales en sus préstamos y, después de todo, Carlos es no sólo rey de España sino emperador de Alemania.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe , 1. 7 (p. 126)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En grado comparativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y seamos más liberales y largos en limosnas, y vivamos con mayor guarda y recato.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 2. 4 (R. 11. 100 1 )."
+            },
+            {
+              "texto_cita": "«Tomó cuarenta días para conversar con los suyos, porque como había estado cuarenta horas muerto, le viesen cuarenta días vivo, y por aquí sacásemos cuánto más liberal es Dios en los consuelos que en las penas, y en los gozos que en los trabajos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Ascens. ( Vida de Cristo, 265). — Con valor ponderativo."
+            },
+            {
+              "texto_cita": "«No me place que seáis tan liberal en acrecentar vocablos en vuestra lengua, mayormente si os podéis pasar sin ellos.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. ( Mayáns , 104)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la expresión en (todo) extremo, para especificar el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es liberal en extremo, dijo D. Quijote; y si no te dio joya de oro, sin duda debió de ser porque no la tendría allí a la mano para dártela.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 31 (R. 1. 336 2 )."
+            },
+            {
+              "texto_cita": "«Todos cenaron en paz y en buena compañía, a costa de D. Quijote, que era liberal en todo extremo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 26 (R. 1. 461 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con para y una prop. infinitiva que especifica la finalidad. En superlativo absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La caridad no sólo es fuerte para padecer por quien ama, sino también liberalísima para darle cuanto tiene, siendo muy escasa para sí.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 1. 1, § 5 (R. 8. 419 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Por sinécdoque. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hoy mostró con su real | Mano, heroica y liberal, | La grandeza de su pecho.»",
+              "autor": "Lope",
+              "referencia_obra": ", Caballero (Cl. Castal. 19. 153). X"
+            },
+            {
+              "texto_cita": "«Mas a esta misma hora, que serían las once de la noche, como nunca la mano liberal de Dios faltó en el mayor aprieto, en la mayor necesidad.»",
+              "autor": "Césp.",
+              "referencia_obra": "y Mend. Hist. (Cl. Castal. 23. 209). X"
+            },
+            {
+              "texto_cita": "«La dulce paz eternos años dure; | Ofrezcan ya con manos liberales | Copiosos frutos Ceres y Lieo.»",
+              "autor": "Arguijo",
+              "referencia_obra": ", Obra poétic. (Cl. Castal. 40. 200). X"
+            },
+            {
+              "texto_cita": "«La Reina grata, que ensalzarle intenta | Con diestra liberal y premiadora, | De mil coros celestes se acompaña, | Testigos fieles de su noble hazaña.»",
+              "autor": "",
+              "referencia_obra": "Jaúr. Rimas (Cl. C. 182. 175)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado superlativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan grande favor --- era dádiva de la mano liberalísima de Dios.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Pentec. (Vida de Cristo, 295)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "θ)",
+          "definicion": "Sustantivado. Con sobre",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh liberal sobre todos los Alejandros, pues por solos ocho meses de servicios me tenías dada la mejor ínsula que el mar ciñe y rodea!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 52 (R.1 399 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese de una cosa hecha con liberalidad o que resulta generosamente gratificadora.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿A cuál cobarde ingenio desanima | Segura, honesta y liberal pobreza, | Ni cuál, por ver pintada la corteza | Quiere que otro señor su cuello oprima?»",
+              "autor": "Lope",
+              "referencia_obra": ", Poes. lír . (Cl. C. 68. 128)."
+            },
+            {
+              "texto_cita": "«Todo se lo agradeció cortesísimamente el cautivo, pero no quiso acetar ninguno de sus liberales ofrecimientos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 42 (R. 1. 374 2 ). X"
+            },
+            {
+              "texto_cita": "«Y para que todo admire | Y todo asombre, no hay cosa | Que de liberal no pase | Hasta el extremo de pródiga.»",
+              "autor": "",
+              "referencia_obra": "Id. Gitanilla, 1 (Cl. C. 27. 14)."
+            },
+            {
+              "texto_cita": "«Sabe que el bastimento y liberales | Sueldos ganan, inducen reverencia | En ánimos del vulgo, que leales | Rinden a la abundancia la obediencia.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 5 ( Fern. 7. 115). X"
+            },
+            {
+              "texto_cita": "«Así caminaron, abreviendo distancias y excusando peligros, hasta que el Aurora, tan bien acondicionada como liberal, salió vertiendo risas y perlas.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", La peregrinación sabia (Cl. C. 57. 35)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Valladolid generosa, | Ciudad de garbo y de rumbo, | Y aun de corte con balumbo, | Como que fue Corte Real, | Con sus hijos es rumbosa | Y espléndida y liberal.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Poes. (Cl. C. 63. 194)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Referente a rasgos o caracteres psíquicos de la persona, a veces de los animales, Abundoso, eficiente, de alto grado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Él es mancebo y de pocos días y en el seso y saber viejo, liberal, animoso más que otro ninguno, muy hablado y gracioso en todas las cosas.»",
+              "autor": "",
+              "referencia_obra": "Tirante el Blanco (Cl. C. 189. 14). X"
+            },
+            {
+              "texto_cita": "«Erró también y apartose; | Y luego tiró el tercero, | Que el Tacto por nombre tuvo, | Siempre liberal y presto.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 195)."
+            },
+            {
+              "texto_cita": "«Huía | La astuta liebre a saltos liberales.»",
+              "autor": "",
+              "referencia_obra": "Jaúr. silv. En la espesura (R. 42. 118 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con para. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y conosciendo el Cavallero del Febo que eran mancebos de mucha virtud, y bien dispuestos y liberales para qualquiera cosa, los llevó consigo.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo, 2. 10 (Cl. C. 195. 108)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En el siguiente texto funciona como adv. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recobrando, con estas aspiraciones brebes, más aliento, registró liberal con la vista las halajas de aquella pobre celda, que eran la corteza ligera de vn alcornoque duro.»",
+              "autor": "Solís",
+              "referencia_obra": "y Valenzuela, El desierto prodigioso, 1 (ICC. 14. 20)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Dícese de las doctrinas en las cuales se defiende al máximo la tolerancia, las libertades ciudadanas, el respeto a la iniciativa privada, la reducción de las restricciones. En particular se aplica a educación, estados, regímenes.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El objeto de la Universidad es enseñar las facultades que llaman mayores, y el de aquella debe ser toda la enseñanza conveniente a una educación liberal.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. 3ª cuestión (R. 46. 236 2 ). X"
+            },
+            {
+              "texto_cita": "«Pero, por descaminadas que hubiesen andado en España las ideas liberales, y por más fuerte oposición que hubieran encontrado en el país sus ensayos, no había dejado de formarse un núcleo más o menos homogéneo.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Escritos políticos ( Obr. 23. 68). X"
+            },
+            {
+              "texto_cita": "«Catalina de Rusia, otra aventurera ambiciosa y fantástica, que salida de la bárbara cuna de un minúsculo principado alemán, llega a golpes de suerte y azar a ser la emperatriz libertina y liberal que remoza la corte de los zares, se rodea de artistas y gallardos militares.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 372)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado. Con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El francmasón es pues el liberal por excelencia, por necesidad, por matemática infusa, por ciego raciocinio.»",
+              "autor": "",
+              "referencia_obra": "M. F. Suárez, Sueños, 4 (p. 294). Con de. X"
+            },
+            {
+              "texto_cita": "«Muchos liberales de España se refugian en la isla y encuentran ese delicioso rincón cálido y sensual, en donde las mujeres, como las palmas deliciosas, nacen del sol a la sonrisa, y crecen, y al soplo de las brisas del océano, bajo un cielo purísimo, se mecen.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 4. 25 (p. 397)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En particular, nombre de un partido político que por lo general está en oposición con otro de tendencia conservadora. Dícese de las personas o colectividades que lo profesan. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El partido liberal moderado, propiamente tal, no llegará jamás a las manos con sus adversarios, su mayoría, o mejor diremos, casi su totalidad, está formada de hombres que por su posición social no son a propósito para tomar las armas ni en las calles ni en los campos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Escrit. políticos ( Obr . 23. 233). X"
+            },
+            {
+              "texto_cita": "«Recuerden que el partido liberal y el partido católico son absolutos e invariables en todas partes; pero el partido conservador es relativo, por ser o poder ser una cosa en Chile y otra en Colombia, una en España y otra en Inglaterra.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños , 2 (p. 38). X"
+            },
+            {
+              "texto_cita": "«En ese mundo todos los hombres serían liberales; y las piedras... seguirían siendo conservadoras.»",
+              "autor": "Machado",
+              "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 86)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En superlativo relativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La Unión es la población más liberal de Nariño, sus habitantes sobresalen por el trabajo.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños , 4 (p. 88)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí no hay constitución exactamente nacional, porque los liberales no convienen en borrar las diferencias de orden religioso.»",
+              "autor": "",
+              "referencia_obra": "M. F. Suárez, Sueños , 3 (p. 181). X"
+            },
+            {
+              "texto_cita": "«En Honduras se establecen dos capitales: en León están los liberales, en Granada los conservadores.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 4. 21 (p. 358). X"
+            },
+            {
+              "texto_cita": "«Todo liberal que se respete ha hecho su noviciado con los mamertos y los godos con los curas.»",
+              "autor": "Mendoza",
+              "referencia_obra": ", Años de fuga, 4. 1 (p. 283)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "Dícese de profesiones que requieren el ejercicio del intelecto y se ejercen en libre competencia sin que sean retribuidas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muy grande agrauio, dixo Vgo, se hace a la Poética en essa comparación, porque, siendo arte liberal, es comparada a la seruil.»",
+              "autor": "L. Pinciano",
+              "referencia_obra": ", Philosophia (BALH, 19. 149)."
+            },
+            {
+              "texto_cita": "«Hijo, esto de ser ladrón no es arte mecánica, sino liberal.»",
+              "autor": "Quev.",
+              "referencia_obra": "Sueños , 1 (R. 23. 487 1 ). X"
+            },
+            {
+              "texto_cita": "«Y si al arte liberal | Del buen pincel y buril | La honrara un trabajo tal, | Debiéramos honra igual | A la mecánica y vil.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Rimas (Cl. C. 182. 105). X"
+            },
+            {
+              "texto_cita": "«Las artes son liberales | Porque hacen que libre viva | A quien en ellas se emplea.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amor médico, 1 (Cl. C. 131. 10)."
+            },
+            {
+              "texto_cita": "«Sevilla había cultivado las artes antes de los Reyes Católicos, más como un oficio mecánico que como una profesión noble y liberal.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de las bellas artes (R. 46. 353 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Otrossí vemos diuersidad grande de condiciones, no solamente entre la multitud de los ommes, más aún entre los hermanos nascidos de un padre e de una madre: el uno veemos sabio, el otro inorante; uno couarde, otro esforçado; liberal el un hermano, el otro auariento; uno dado a algunas artes, el otro a ninguna.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 14 (Cl. C. 99. 71)."
+        },
+        {
+          "texto_cita": "«Si esta fama se escribe corrupta e mentirosa, en vano o por demás trabajan los magníficos reyes e príncipes en hacer guerras e conquistas y en ser justicieros e liberales y clementes.»",
+          "autor": "Pz. de Guzmán",
+          "referencia_obra": ", Gener. 1 (R. 68. 698 1 )."
+        },
+        {
+          "texto_cita": "«El liberal non consiente, | Nin la tardança le plaçe.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 234."
+        },
+        {
+          "texto_cita": "«Disen que devedes partir vuestros algos, | E ser liberales syn mala folya.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 538."
+        },
+        {
+          "texto_cita": "«Porque asy todos juntados | Vos dignan, señor, qué tal | Ess esta arte liberal.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 177. — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«E aun queriéndose dar por nobles, pugnan por facer grandes despensas e por ser muy liberales.»",
+          "autor": "Docum",
+          "referencia_obra": ". 73 (R. 51. 202 2 )."
+        },
+        {
+          "texto_cita": "«El sabio que es de liberal alma es sennor de la natura, e el que non es de liberal alma es siervo de la natura.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro, 12 (Knust, 209)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. liberalis, -e 'desprendido, generoso, libre, honorable, noble'. Fr. cat. rum. liberal, it . liberale. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

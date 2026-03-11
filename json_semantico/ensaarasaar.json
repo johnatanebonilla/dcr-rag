@@ -1,0 +1,531 @@
+{
+  "lema": "ENSAÑAR (ASAÑAR).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Irritar, causar fuerte enojo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Te pusiste a provocar y ensañar una fiera, estando dentro de su misma jaula.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 2. 1 (R. 8. 217 1 ). RAE"
+            },
+            {
+              "texto_cita": "«Vista, pues, la ruindad de tres bemoles | Que al buen Lope injurió, la que me ensaña | No vale, a la verdad, tres caracoles.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Poes. (ed. 1883-84, t. 5, p. 107)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—β )",
+          "definicion": "Actuando como acus. una parte de la persona enojada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué castigo se ha de dar | A este mísero villano? | — Ensañar, Fabio, la mano, | Y comenzarme a vengar.»",
+              "autor": "Lope",
+              "referencia_obra": ", El despertar a quien duernie, 3. 1 (R. 41. 356 2 ). +"
+            },
+            {
+              "texto_cita": "«Los corazones rigurosa ensaña, | Y en ellos mismos dibujado enseña | La afrenta y el agravio cometido, | Las muchas muertes y el honor perdido.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 10 (R. 17. 613 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Siendo acus. el sust. rabia u otro semejante. Con en, para indicar el objeto de la ira o enojo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya bien podrás hartar de tu crueza, | Amor, en mi herido pecho el hierro, | Y tu rabia ensañar en mis entrañas; | Mas no podrás hacer, que mi dureza | Dude ya mayor mal.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, canc. 4 (R. 32. 309 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met. Aplicado al mar o a los elementos. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si resplandece el día, | Si Eolo su reino turba, ensaña, | El rostro no varía.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. (ed. 1955, p. 492)."
+            },
+            {
+              "texto_cita": "«¿Viste --- | Del encrespado golfo la aspereza | Cuando el revuelto céfiro le ensaña?»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro, 3 (10)."
+            },
+            {
+              "texto_cita": "«Al sonante bramido | Del piélago feroz que el viento ensaña ---.»",
+              "autor": "Gallego",
+              "referencia_obra": ", eleg. 4 (R. 67. 402 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo acus. el sust. locura. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por la inquieta llanura | Del turbulento mar, la tromba vuela; | Hace trizas la vela | Del buque, donde ensaña su locura.»",
+              "autor": "S. Rueda",
+              "referencia_obra": ", Poes. (ed. 1911, p. 284)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Encarnizarse, enfurecerse cruelmente, empeñarse en hacer daño.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Guardad no me ensañe.»",
+              "autor": "Melo",
+              "referencia_obra": ", Lab. 248 (87 1 )."
+            },
+            {
+              "texto_cita": "«Apenas sube el general litirio, | Cuando el pulgón indómito se ensaña, | Dando a la chinche el último martirio.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 12 (R. 17. 621 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep . con, para indicar el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que si yo veo, Amor, tales hazañas, | Daré en justo rescate de tal pena | Mi hierro, y el ardor con que te ensañas.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg. 15 (R. 32. 289 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un compl. precedido de con , para indicar el objeto de la crueldad. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh niño ciego y vano! | ¿Por qué bravo te muestras y te ensañas | Con quien te da su vida en sus entrañas?»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana (Cl. C. 135. 194)."
+            },
+            {
+              "texto_cita": "«Un lince no pelea con otro lince, un dragón no se ensaña con otro dragón.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 9 (R. 6. 134 2 )."
+            },
+            {
+              "texto_cita": "«Con mi corta fortuna no me ensaño.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 4 (R. 1. 688 1 ). x"
+            },
+            {
+              "texto_cita": "«Así es que, si Lavalle es justo, no tendrá por qué ensañarse conmigo.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 4 (p. 373). +"
+            },
+            {
+              "texto_cita": "«No me ablandará usted, aunque llorara más que Jeremías. No es que me ensañe con usted.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 4 (2. 98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la prep. contra, para indicar lo mismo que en el caso anterior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Contra los cuales [ídolos] se ensañaron en gran manera los moradores desta ciudad, y, presos con graves prisiones, los azotaron.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 13, § 1 (R. 6. 313 2 ). x"
+            },
+            {
+              "texto_cita": "«Terminaba una prédica dentro de la iglesia ensañándose contra Llorente, a quien llamó impío, viborezno, por haber caluminado al santo tribunal de la inquisición.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Provincia , p. 124."
+            }
+          ]
+        },
+        {
+          "id_marcador": "δ δ )",
+          "definicion": "Con de, para indicar la causa. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No te ensañes del kastigo ke no te da tu enemigo.»",
+              "autor": "Correas",
+              "referencia_obra": ", Refr. (cd. 1967)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con en. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando se elogia mucho a uno se tiene presente a otro, al que se trata de rebajar en ese elogio, a un rival del elogiado. Eso cuando no se le elogia con mala intención, por ensañarse en él.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Abel Sánchez , 22 (p. 92). — Siendo el término de la prep. una prop. infinitiva."
+            },
+            {
+              "texto_cita": "«¿Por qué permites que yo esté triste y abatido, cuando mis enemigos se ensañan y esfuerzan más y más en abatirme y afligirme?»",
+              "autor": "Jovell.",
+              "referencia_obra": "C orresp. con Posada (R. 50. 230 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Con sujeto de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La caridad es paciente y benigna, no es envidiosa, no hace mal a nadie, no es soberbia ---, no se ensaña, no piensa mal, no se goza de la maldad y huélgase con la verdad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 1, § 3 (R. 8. 5 1 )."
+            },
+            {
+              "texto_cita": "«Y la ira mujeril, cuando se ensaña, | Entre las iras es la de más saña.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 1 (R. 17. 153 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el objeto de la crueldad. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La severidad del vulgo suele ensañarse solo con la falsedad de los que mudan de doctrina por inconstantes o venales.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo (p. 245)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. contra, para indicar lo mismo que en el caso anterior. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La reacción de Córdoba, que a nombre suyo y por laudables motivos había sido preparada por él en 1812, se había ensañado contra él mismo, en sus extravíos posteriores.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Provincia, p. 85. x"
+            },
+            {
+              "texto_cita": "«Pero la revolución venía ensañándose contra los emblemas relígiosos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 108 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. Dicho del mar y de los elementos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas ensañóse tempestad tan brava, | Que las crespadas ondas de alegría | En altos montes de agua levantaba.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 5 (R. 32. 311 2 ). +"
+            },
+            {
+              "texto_cita": "«Antes cuanto más se iba acercando la noche, más cargaron los vientos y más se ensañaron las tempestades.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana (Cl. C. 135. 49)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. Con la prep. contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nunca estuvo Dios más ensañado contra el mundo que cuando envió las aguas del diluvio.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 1, 2ª pte . § 1 (R. 8. 172 1 )."
+            },
+            {
+              "texto_cita": "«Y todos ensañados contra el trono | Del muy Alto, con armas resonantes | Dieron en los broqueles reciamente.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd. (R. 46. 31 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas asañar, asannar, ensannar. ) Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Madre, non se debe ensañar el maestro de ignorancia de discípulo.»",
+          "autor": "Celest.",
+          "referencia_obra": "1 (R. 3. 15 1 ). x"
+        },
+        {
+          "texto_cita": "«Ensañarse: irascor, eris; indignor, aris. »",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab."
+        },
+        {
+          "texto_cita": "«Quando tú cruel te ensañas, | Con tus fuerzas las atierras | Y deshaces.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 54). +"
+        },
+        {
+          "texto_cita": "«Quien s' ensaña en la boda, piérdela toda.»",
+          "autor": "",
+          "referencia_obra": "Santíll. p. 519."
+        },
+        {
+          "texto_cita": "«Si voluntat non m'engaña, | Non ví otra [moza] más graçiosa: | Si alguna desto s'ensaña, | Lóela su enamorado.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 475."
+        },
+        {
+          "texto_cita": "«E de la tigre ensañada | En la Thebaida leí, | E su feroçidat ví | En estorias e pintada.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 362."
+        },
+        {
+          "texto_cita": "«Yo no cobdicio lo ageno, | Ni me altero, ni m'ensaño.»",
+          "autor": "Mena",
+          "referencia_obra": ", Vicios y virt. (24 1 ). +"
+        },
+        {
+          "texto_cita": "«Ya el don Pedro, porfiando con él que se tornase ---, se ensañaba contra él.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 101 (303)."
+        },
+        {
+          "texto_cita": "«Acostumbraba ensañarse muy de ligero contra el rey su padre, quando las cosas que le demandaba non ge las otorgaba a su querer.»",
+          "autor": "",
+          "referencia_obra": "Ib. 87 (230)."
+        },
+        {
+          "texto_cita": "«Sed bien consejado, | El alto maestro non se vos ensañe.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 102."
+        },
+        {
+          "texto_cita": "«Yo creo que tantos son los nuestros pecados e tan ensañado tenemos a Dios, que le non plogo que este gozo e bien oviesen los christianos en nuestro tiempo.»",
+          "autor": "",
+          "referencia_obra": "Crón. P. Niño , p. 211."
+        },
+        {
+          "texto_cita": "«Quando le facen mal [al puerco espín], ensáñase, lanza las púas o espinas recias e fiere con ellas.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 136."
+        },
+        {
+          "texto_cita": "«E diz que se ensañó porque se lo dixeron.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 185 . — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«E reparad en el regno lo que se destruyó, porque olviden las gentes los yerros, e quiten de sus corazones lo que vos ensañaron e afincaron.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I , 18. 22 (R. 66. 568 1 )."
+        },
+        {
+          "texto_cita": "«Et non le hieras ni le des en el rostro, que lo ensañarás.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza, 8 ( Bibl. venat. 3. 190)."
+        },
+        {
+          "texto_cita": "«Et guarda de los asañar [estos falcones], ca de ligero se ensañan.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2 ( Bibl. venat. 3. 166)."
+        },
+        {
+          "texto_cita": "«Ca los ricos homes, quando se ensañaban contra el rey con razón o sin razón, decíanle que meterían en el regno este don Alfonso.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 92 (R. 66. 228 1; ed. Cerdá, p. 168)."
+        },
+        {
+          "texto_cita": "«Comenzó luego a ensañarse e a decir sus palabras non guardadas en cuanto decía.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 15 (R. 66. 151 2 )."
+        },
+        {
+          "texto_cita": "«E ensañóse [el rey] contra todos, pero mostró más la saña contra don Nuño.»",
+          "autor": "",
+          "referencia_obra": "Crón. Alf. x, 19 (R. 66. 14 2 )."
+        },
+        {
+          "texto_cita": "«Et el alano non lo fizo et él se comenzó a ensañar.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 45 (R. 51. 405 2 )."
+        },
+        {
+          "texto_cita": "«Luego que otra vez me pide cosa alguna, si lo non fago así como él quiere, luego se ensaña.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 14 (R. 51. 401 2 )."
+        },
+        {
+          "texto_cita": "«Et luego que el emperador fue ido, comenzóse ella de ensañar et de embravecer.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 4 (R. 51. 397 1 )."
+        },
+        {
+          "texto_cita": "«Duenna, por te desir esto, non te asannes, nin te aíres.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 882 (R. 57. 254 2 )."
+        },
+        {
+          "texto_cita": "«Quanto más aquí estás, tanto más me asanno.»",
+          "autor": "",
+          "referencia_obra": "Id. 206 (R. 57. 233 2 )."
+        },
+        {
+          "texto_cita": "«Quando demandares alguna cosa y non tela dieren, ensanna más a ti que a otro.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 29). — Siglo XIII: +"
+        },
+        {
+          "texto_cita": "«Quien ha vida con ome de mal talante, por fuerça se abrá de ensañar contra él, maguer sea paçiente.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 156 (p. 335). +"
+        },
+        {
+          "texto_cita": "«Aquel contra quien el rey se ensaña, es en muy grant cuyta, ca le semeja quel' viene la muerte onde espera la vida.»",
+          "autor": "",
+          "referencia_obra": "Ib. 151 (p. 320). +"
+        },
+        {
+          "texto_cita": "«Non se deue ome ensañar contra el rey, maguer le maltraya, e non se deue atreuer a él, maguer sea su priuado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 133 (p. 279)."
+        },
+        {
+          "texto_cita": "«Si aguijón hobiese [el rey de las abejas] e se ensañase contra ellas, matarlas-ýa todas.»",
+          "autor": "Cast. e docum.",
+          "referencia_obra": "10 (R. 51. 110 1 ). RAE"
+        },
+        {
+          "texto_cita": "«Estos son Zebee e Salmana, sobre los que me ensannastes e maltraxiestes.»",
+          "autor": "",
+          "referencia_obra": "Alf. x, Gen. estoria , 2ª pte. 1 (ed. 1957, p. 316 1 )."
+        },
+        {
+          "texto_cita": "«Non quiso comer ninguna cosa, maguer que él gelo traýe delante, e antes ensañaua a los que gelo aduzíen.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 4. 3 (303 2 )."
+        },
+        {
+          "texto_cita": "«E el rey mandó entonces a todos los monteros que ensañasen al toro.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 21 (256 1 )."
+        },
+        {
+          "texto_cita": "«Ensañastes a Dios muy malamente por los vuestros pecados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 2 (208 2 ). RAE"
+        },
+        {
+          "texto_cita": "«Por quanto me vos feziestes ensañar quando me tolliestes a Patroclo ---, bien cuydo que por vuestro mal lo prouastes.»",
+          "autor": "",
+          "referencia_obra": "Hist. Troyana (ed. 1934, p. 46)."
+        },
+        {
+          "texto_cita": "«En la ley de suso tollemos la crueldad de los sennores contra los siervos --- quando se asannaban contra ellos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 6. 5. 13 (115 2 )."
+        },
+        {
+          "texto_cita": "«Mío fiio, entiende tú la veyez de tu padre, e non lo fagas ensannar en su vida.»",
+          "autor": "",
+          "referencia_obra": "lb . 4. 2. 14 (69)."
+        },
+        {
+          "texto_cita": "«Et qui faz asannar el rey contra sí, oblídaselli el mandado de nuestro Sennor Dios, que diz que non querades tanner los míos christos.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 9 ( VIII )."
+        },
+        {
+          "texto_cita": "«Ensáñanse las mujeres a las vegadas tan fuertemente, que, por algún despecho que han de sus maridos, dicen que los fijos que tienen en los vientres o que son nascidos, que non son dellos, mas de otros.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 14. 9 (2. 507)."
+        },
+        {
+          "texto_cita": "«Et por esto dixo el rey David: Ensañadvos, mas non querades pecar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 5. 10 (2. 32)."
+        },
+        {
+          "texto_cita": "«Deben temer de non facer cosa --- porque non se haya [Dios] de ensañar contra ellos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 2. 3 (2. 16)."
+        },
+        {
+          "texto_cita": "«Et esto debe ser guardado porque non se ensañe Dios contra el pueblo et le dé majamiento.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 4. 120 (1. 187)."
+        },
+        {
+          "texto_cita": "«Ensañóse con su mujer, e entró a ella e firióla muy mal.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 23 2 )."
+        },
+        {
+          "texto_cita": "«Et olvidó de cómo tenía los pies sobre las culebras, e que non sabía cuándo se le ensañarían.»",
+          "autor": "",
+          "referencia_obra": "Ib. (R. 51. 19 1 )."
+        },
+        {
+          "texto_cita": "«Si tus amigos se ensannaren contra ti, súfrelos en el tienpo de la yra.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro, 11 (Knust. 172)."
+        },
+        {
+          "texto_cita": "«Feríen entre los griegos, fazíenlos assannar.»",
+          "autor": "Alex.",
+          "referencia_obra": "1595 (R. 57. 196 2 )."
+        },
+        {
+          "texto_cita": "«Diol' una lançada e fizol' ensannar.»",
+          "autor": "",
+          "referencia_obra": "lb . 1220 (R. 57. 185 1 )."
+        },
+        {
+          "texto_cita": "«Empeçós'a ensannar, mas todol' fue en uano.»",
+          "autor": "",
+          "referencia_obra": "Ib. 456 (R. 57. 16. 1 2 )."
+        },
+        {
+          "texto_cita": "«E a qualquier que lo faga uerá que me assanno.»",
+          "autor": "",
+          "referencia_obra": "Ib. 286 (R. 57. 156 1 ). — Siglo XII: RAE"
+        },
+        {
+          "texto_cita": "«Ensannarse á my sanna en ellos e finarlos he.»",
+          "autor": "Almerich",
+          "referencia_obra": ", Fazienda de Ultra Mar (ed. 1965, p. 80)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. vulg. insaniare, y éste de insania 'locura, furor'. Cat. ensanyar, port. ensanhar, gall. ensañar. La forma asañar, hoy en desuso, hay que explicarla por confusión de prefijos, confusión que pudo muy bien haberse llevado ya a cabo en lat. vulg., pues, si junto a insania existió probablemente la forma *absanía (cfr. DCEC sb. voc. Saña ), también pudo darse *absaniare al lado de ínsaniare. Gall. asañar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

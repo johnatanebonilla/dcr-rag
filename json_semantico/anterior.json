@@ -1,0 +1,80 @@
+{
+  "lema": "ANTERIOR.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Tratándose de lugar, situado delante, que se halla delante.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La parte anterior del ojo está cubierta con una membrana transparente, finísima, llamada conjuntiva.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Filosof. elem. Estét. 2 (123)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Tratándose del tiempo, Que precede, hecho ó sucedido antes.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eran las milicias de aquellos lugares cercanos, que de orden anterior salían á cortar la marcha ocupando las quiebras del camino.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 20 (R. 28. 338 1 )."
+            },
+            {
+              "texto_cita": "«En el siglo anterior se ocuparon en reunir y publicar las noticias de su vida [de Cervantes] algunos beneméritos literatos, y entre ellos Mayans, Ríos y Pellicer.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. catál. 167 (R. 2. 225 1 )."
+            },
+            {
+              "texto_cita": "«Sólo Castaños insistió en su anterior dictamen.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist. 4 (R. 64. 103 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el objeto que viene después.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El célebre Antonio Pérez había visto también muchas representaciones anteriores á las de Lope de Rueda.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect. 1 (R. 46. 489 1 )."
+            },
+            {
+              "texto_cita": "«Estos obeliscos por más que se crean exagerados los cálculos de su antigüedad, son, sin disputa alguna, anteriores á todos los monumentos que se conocen.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 431."
+            },
+            {
+              "texto_cita": "« El Conde Lucanor [es] la primera colección de este género que se vio en España, anterior sin duda al Decamerón del Bocacio, aunque en el mérito no le compita.»",
+              "autor": "",
+              "referencia_obra": "Id. Oríg. disc. hist . (R. 2. 154)."
+            },
+            {
+              "texto_cita": "«Los instintos son anteriores en el hombre á las ideas.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos, 1, p. 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. anteriorem, anterior, comparativo formado sobre ante, ante, antes, delante. Se halla ya en Covarrubias. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

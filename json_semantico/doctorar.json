@@ -1,0 +1,26 @@
+{
+  "lema": "DOCTORAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Conferir el grado de doctor ( trans .). — α ) «Libros cultos, de fuera cortesanos, | Dentro estraza, dotoran ignorantes, | Y hacen con tablas griegos los troyanos.» Quev. Musa 6, son. 78 (R. 69. 143 2 ). — α α ) Refl . Graduarse de doctor. «Y para tener autoridad en aquella universidad y en toda Alemania contra los herejes, se doctoraron de camino en Polonia.» Nieremb. Varones ilustres , P. Jayo ( Dicc. Autor .). «El doctor Faustino se doctoró en el año de 1840.» Valera , Las ilusiones del Dr. Faustino , p. 76. — β β ) Part . «Figueroa es estotro, el dotorado | Que cantó de Amarili la constancia.» Cerv. Viaje , 2 (R. 1. 683 2 ). — β ) Con en , para expresar la facultad. «Solo este grado y caravana me faltaba para doctorarme en las leyes que profeso.» Esteb. Gonz . 5 (R. 33. 310 2 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Agostyn de Dios amado, | Doctorado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 362."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de doctor . Port. doutorare ; dottorare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

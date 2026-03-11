@@ -1,0 +1,267 @@
+{
+  "lema": "ABASTAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v . Hoy está olvidado; muy frecuente en lo antiguo, aparece todavía en el siglo XVII.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Abastecer ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuyos invencibles bajeles, siendo ruina y destruición de las flotas holandesas, son los que abastan y enriquecen estos países.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz. fol . 224 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para que seáis llenos de los pechos de su consolación, y seáis abastados de deleites por la grandeza de la gloria que le ha de venir.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 11 (R. 6. 47 1 )."
+            },
+            {
+              "texto_cita": "«El que mantiene todas las criaturas, ayunó cuarenta días en el desierto, y al cabo padeció hambre; porque los que la teníamos de las palabras de Dios y de su gracia, fuésemos abastados della.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid. 1, lunes por la mañ . (R. 8. 64 2 )."
+            },
+            {
+              "texto_cita": "«El pacientísimo Job dice: Señor ¿por qué los impíos viven y son prosperados y abastados de riquezas?»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 1. 24 (R. 60. 406 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Fue de muy frecuente uso en el sentido de Rico y abundantemente provisto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A cinco mil hombres cansados, | Con cinco panes los dejó abastados.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 9 (R. 17. 470 1 )."
+            },
+            {
+              "texto_cita": "«Teniendo el hombre esta luz, este arrimo y amparo, está tan proveído, tan abastado, tan fuerte y poderoso, que las puertas del infierno no pueden contra él.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Pentecostes ( Vida de Cristo , 311)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No basta que el hombre conozca cuán pobre está de los verdaderos bienes, sino es necesario que conozca también cuán abastado está de verdaderos males.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 6, § 4 (R. 8. 449 2 )."
+            },
+            {
+              "texto_cita": "«Aunque eran pobres de dinero, eran ricos y abastados de la divina gracia.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 3. 19 (R. 60. 329 2 )."
+            },
+            {
+              "texto_cita": "«Su asiento en una gran llanura, fértil y abastada de todo lo necesario á la vida y al regalo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 12. 19 (R. 30. 369 1 )."
+            },
+            {
+              "texto_cita": "«Varón sabio en sus ritos y abastado | De bienes y tesoro inestimable.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 32 (R. 17. 119 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En el siguiente lugar vale Copioso:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaba de abastadas provisiones | El sin lealtad castillo apercebido.»",
+              "autor": "",
+              "referencia_obra": "Valb . Bern . 5 (R. 17. 193 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Bastar ( intrans. ). En este sentido cayó en desuso antes que en el precedente. Véase el ejemplo de Granada en 1, β , α α .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Abaste lo dicho. Y agora ¿que piensas hacer?»",
+          "autor": "Timoneda",
+          "referencia_obra": ", Menemnos , 3 (R. 2. 295 2 )."
+        },
+        {
+          "texto_cita": "«Esto abaste haber dicho de la fortuna.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ", Lab . 2 (3 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Non le creyó abastar | La tierra, si por la mar | Non feciese acto famoso.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var . 322 ( Rim. inéd . 319)."
+        },
+        {
+          "texto_cita": "«Abastado de esperanza, | Aunque de gentes menguado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 276 ( Rim. inéd. 312)."
+        },
+        {
+          "texto_cita": "«Avia de la otra parte de la casa un estanque de muchos pescados, cercado, cerrado con llave, de que cada dia que quisiesen podrian sacar pescado que abastase a trecientas personas.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 115."
+        },
+        {
+          "texto_cita": "«A la necesidad del cortar las maneras dichas abastan.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 4 (38)."
+        },
+        {
+          "texto_cita": "«Desta [vianda] fue tanta puesta ante los omnes de los dichos embajadores, que si la llevar quisieran les abastara para medio año.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 153."
+        },
+        {
+          "texto_cita": "«Dentro nascia un gran golpe de agua que abastaba todo el lugar.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 121."
+        },
+        {
+          "texto_cita": "«El señor de aquella ciudad les fizo dar cierta quantia de dineros de cada dia --- que les abastaba para cosas diversas.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 91."
+        },
+        {
+          "texto_cita": "«Estas islas son muy abastadas de ganados.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 37."
+        },
+        {
+          "texto_cita": "«La cama, la mesa, el buen vino blando | Abastan á viejo é ál non desea.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 616."
+        },
+        {
+          "texto_cita": "«La qual [el alma] de cosa de aquesta vida | Non puede ser jamas abastada.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 394."
+        },
+        {
+          "texto_cita": "«Que muchos de aquestos que aqui son nonbrados | Veo ser rricos é muy abastados.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 306."
+        },
+        {
+          "texto_cita": "«Dolet vos de mi, sy vos he servido | Asaz quanto abasta la mi pobre suerte.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 72. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«En la hueste non avia vianda que pudiese otro dia abastar á las gentes de la hueste.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 118 (R. 66. 251 1 )."
+        },
+        {
+          "texto_cita": "«Dixeron que mandase los que quisies matar: | Mandó matar al toro, que podrie abastar.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 73 (R. 57. 229 2 )."
+        },
+        {
+          "texto_cita": "«El fiador non será dado por preso por la debda que fizo, maguer los sus bienes non abasten para cumplir el debdo.»",
+          "autor": "O. L.",
+          "referencia_obra": "2. 292). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Et los homes viles son aquellos que se tienen por abastados con poca cosa.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 20 2 )."
+        },
+        {
+          "texto_cita": "«Abastarles deve que les non facemos sofrir la pena, porque pasaron aquella constitucion.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 12 (193 2 )."
+        },
+        {
+          "texto_cita": "«Mandamos que aquel que lo vende [el siervo], quel dé tanto quanto dixiere el comprador quel puede abastar pora vestir é pora gobernar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 12. 2. 14 (181 2 )."
+        },
+        {
+          "texto_cita": "«La ley que fue dada del nuestro antecesor --- que los siervos cristianos non fuesen en poder de los judios, asaz podie abastar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 12. 2. 13 (180 2 )."
+        },
+        {
+          "texto_cita": "«Quien faz vinna en tierra aiena --- pierda todo quanto y plantó: ca abastarle deve que non peche el duplo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 10. 1. 7 (165 1 ),"
+        },
+        {
+          "texto_cita": "«Es de lino e lana tierra mucho avastada.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz . 149 (R. 57. 393 2 )."
+        },
+        {
+          "texto_cita": "«Muchas buenas riberas e todas bien pobladas, | De fuentes e de prados todas bien abastadas.»",
+          "autor": "Alex.",
+          "referencia_obra": "280 (R. 57. 156 1 )."
+        },
+        {
+          "texto_cita": "«Qui auer quiere prender, bien era abastado.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2260 (R. 57. 25 1 )."
+        },
+        {
+          "texto_cita": "«Si essa despenssa uos falleçiere o uos menguare algo, | Bien las abastad, yo assi uos lo mando.»",
+          "autor": "",
+          "referencia_obra": "Ib. 259 (R. 57. 4 2 )."
+        },
+        {
+          "texto_cita": "«Martin Antolinez, el burgales conplido, | A Myo Cid e a los suyos abastales de pan e de uino.»",
+          "autor": "",
+          "referencia_obra": "Ib. 66 (R. 57. 2 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Et si non potuerit abastare unde abeat vitum et vestitum.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1177 ( Esp. sagr. 49. 396). ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de á y bastar . Véase BASTAR, ABASTECER. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

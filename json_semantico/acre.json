@@ -1,0 +1,167 @@
+{
+  "lema": "ACRE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Fuerte y corrosivo en el sabor.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La caparrosa entre todos los ácidos es la más acre y mordaz.»",
+          "autor": "Laguna",
+          "referencia_obra": ", Diosc . ( Dicc. Autor. )"
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El amor que en tales dramas se introduzca debe participar, por decirlo así, del gusto mismo de la composición, y aparecer áspero y acre hasta en su misma dulzura.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp . (2. 130)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Cuya acción es fuerte y corrosiva. Dícese en especial de los humores del cuerpo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«He tirado más de cuarenta días de una fluxión muy acre á la cabeza y pecho.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Corresp. con Posada (R. 50 . 196 1 ). —"
+        },
+        {
+          "texto_cita": "«Siguióse una tos acre y continua, que me privaba del sueño por la noche y del descanso por el día.»",
+          "autor": "",
+          "referencia_obra": "Id. Def. de la Junta Central, 2. 1 (R. 46. 535 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Tratándose del natural ó genio ó de las personas con respecto á éste: Fuerte, áspero y desabrido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya le es indispensable no sólo parecer prolijo sino incurrir en la nota de censor acre, y, lo que es peor, en la de envidioso.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida, pról. (3 . xx)."
+            },
+            {
+              "texto_cita": "«Juvenal acre, ardiente, | Arrójase á su presa impetuoso, | La hiere, la destruye.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Poét . 4 (1. 106)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acre de condición.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Tratándose de las palabras ó escritos: Mordaz, y agresivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entonces eran más acres las invectivas.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Gran . 1. 19 (64)."
+            },
+            {
+              "texto_cita": "«El tono es acre, las formas exageradas, los cálculos de población y de estrago abultados hasta la extravagancia, y aun contradictorios entre sí.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 460 1 )."
+            },
+            {
+              "texto_cita": "«Su persona quedó expuesta, no sólo á acre censura, sino á groseros insultos.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 349."
+            },
+            {
+              "texto_cita": "«Publicó [Martín Martínez] con este motivo un acre y punzante libelo, titulado Juicio final de la astrología.»",
+              "autor": "Cueto",
+              "referencia_obra": ", Bosquejo hist. (R. 61. xxv)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Nota.",
+      "definicion": "Los gramáticos dan acérrimo como superlativo de acre; es cierto que acerrimus en latín lo es de acer, pero en castellano no se ha conservado sino en la significación metafórica de Muy fuerte, vigoroso, tenaz ó vehemente, tomada directamente de la lengua madre, dado que no se halla este sentido genérico en nuestro acre . Se ap!ica generalmente á personas y rara vez á cosas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si Lázaro, no habiendo recibido del rico alguna injuria, sólo porque no le había dejado gozar de lo que tenía, le fue acérrimo fiscal, ¿de cuál defensa se valdrán aquellos que después de negarles lo que tienen, les quitan lo que ellos tienen?»",
+          "autor": "Quev.",
+          "referencia_obra": "Peste 4 (R. 48. 134 2 )."
+        },
+        {
+          "texto_cita": "«Cicerón no dejó de ser el mayor cónsul de Roma por haber sido zumbón y decidor acérrimo.»",
+          "autor": "Forner",
+          "referencia_obra": ", Exequias de la lengua castell . (R. 63. 425 2 )."
+        },
+        {
+          "texto_cita": "«Hombres heroicos y esforzados, amantes del bien público, celosos de su libertad y sus derechos, y protectores de la inocencia y acérrimos perseguidores de la iniquidad.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Mem. sobre espect. 2 (R. 48. 496 1 )."
+        },
+        {
+          "texto_cita": "«Muy parecido á Torres Naharro en las buenas prendas de poeta, floreció poco después que él Cristóbal de Castillejo, acérrimo defensor de las antiguas coplas castellanas.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Anot. a la Poét. 4 . 19 (1. 205)"
+        },
+        {
+          "texto_cita": "«Dio el encargo de su persona á Pedro de Peralta, el agramontés más acérrimo y más duro.»",
+          "autor": "Quint.",
+          "referencia_obra": "Prínc. de Viana (R. 19. 249 2 )."
+        },
+        {
+          "texto_cita": "«El que había de ser después tan acérrimo defensor de la libertad indiana, empezó su vida por traer un siervo de aquella gente consigo.»",
+          "autor": "Casas",
+          "referencia_obra": "(R. 19. 433 2 )."
+        },
+        {
+          "texto_cita": "«Su mujer [de D. N. Böhl de Faber] --- era literata y patriota acérrima.»",
+          "autor": "A. Galiano",
+          "referencia_obra": ", Recuerdos, p . 176."
+        },
+        {
+          "texto_cita": "«Juzgábamos que si no se nos declaraba amigo, no se nos mostraría acérrimo contrario.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. p. 284. —"
+        },
+        {
+          "texto_cita": "«Todo es suspiros y dolor acérrimo | Y de llanto materia abundantísima.»",
+          "autor": "Arguijo",
+          "referencia_obra": ", epíst. Aquí donde el rigor (R. 32. 397 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. acrem, acer, agrio, fuerte, veloz, enérgico. Es forma erudita, cuya correspondiente vulgar es agro, agrio. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,193 @@
+{
+  "lema": "ENTUMECER. *",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hinchar, hacer que aumente el volumen de una cosa ( trans ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sacudía su larga cola, entumecía su garganta, enderezaba sus escamas y levantaba su cabeza erizada de callosidades.»",
+              "autor": "Buffon",
+              "referencia_obra": "(20. 239)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con la prep. con , para indicar el modo. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con este gran ingenio previniendo | Musas Latinas, Griegas y Españolas | Con arrogancia entumeció las olas | Y a los muros arroja | Pedazos de cristal...»",
+              "autor": "Lope",
+              "referencia_obra": ", Obr. suelt . (1. 37)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Refl . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al paso que se va evacuando el ayre del recipiente (porque esta es obra que dura algún tiempo) se va entumeciendo la vexiga porque el ayre que está dentro de ella se va dilatando.»",
+              "autor": "Feijóo",
+              "referencia_obra": ", Teatro crít . (ed. 1777, t. 5, p. 216)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Se dice especialmente del mar, cuando se alborota. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Sy cual el turbio mar hierve espumoso | Y estas peñas altísimas quebranta, | Y se entumece hinchado, y se levanta | Compelido del ábrego silboso!»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Obras (ed. 1854, t. 1, p. 130)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Part . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Topa a veces el hombre con unos niños tan hinchados y entumecidos que, tocándolos con los dedos, se les hacen unos hoyos.»",
+              "autor": "",
+              "referencia_obra": "G. Soriano, Enfermedades de los niños (ed. 1929, p. 142)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Entorpecer el movimiento del cuerpo o de alguno de sus miembros ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Casi como en vn instante començó el hyelo a entumecer los cuerpos y a entristecer nuestras almas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2 (ed. Acad. t. 6, fol. 104; R. 1. 533 2 ). RAE"
+            },
+            {
+              "texto_cita": "«La humedad entumece los animales pequeños.»",
+              "autor": "Caldas",
+              "referencia_obra": "Disc. calendario rural (ed. 1917, p. 354). RAE"
+            },
+            {
+              "texto_cita": "«El volante encalla las manos, entumece los dedos, duerme los brazos.»",
+              "autor": "Aldecoa",
+              "referencia_obra": ", El corazón , p. 10."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Refl . Con dat. de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue tan grande el frío que sentí, que se me entumecieron las manos sin poder juntar los dedos.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo , 1. 2. 4 (R. 91. 58 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Part . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La gente que pasa por la calle, Eliacim, la dolorosa, entumecida gente que pasa por la calle, hijo mío, con sus desnutriciones --- marcha sembrando estupidez y resignación sobre las malolientes tiendecillas y los plácidos burdeles del arrabal.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. CaldweIl , p. 169."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con la prep. con , para indicar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por estar [las avispas] entumecidas con el frío, no hacen daño ni se mueven del lugar en que caen.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo , 1. 9. 1 (R. 91. 332 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con por , para indicar lo mismo que en el caso anterior. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Poco después, todavía entumecido por la quietud y el frío de la noche, comencé a oír el canto de madrugueros gallos, y el murmullo bullente de un arroyo que parecía despertarse con el sol.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Sonata de primav . p. 9."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γγ)",
+          "definicion": "Con en . met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Cuántas veces lo que tienes por impulso fiel del corazón en tu desvío de las cosas nuevas que ves y de las nuevas gentes que tratas, no es sino la protesta que tu personalidad, subyugada por el hábito, entumecida en la quietud, opone a cuanto importe de algún modo dilatarla y moverla!»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo , p. 170."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la norma entomeçer ). Siglo XV : RAE",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Parte la flema e fásese la yteriçia de escuro color e entomeçe todo el cuerpo.»",
+          "autor": "Trat. fiebres israelí",
+          "referencia_obra": "(ed. 1945, p. 185)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. intumescere 'hincharse', y éste de in y tumor 'hinchazón'. Al lado de entumecer existe entumir , cuya significación coincide con la de la acep. b :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Llegó, pues, y cogiólo mansamente, | Y alzólo así en las manos entumidas.»",
+          "autor": "Hojeda",
+          "referencia_obra": ", Crist . 8 (R. 17. 165 2 ). X"
+        },
+        {
+          "texto_cita": "«Busco el amor que marcha con la muerte, | El pie descalzo y entumida el ala.»",
+          "autor": "Maya",
+          "referencia_obra": ", Obra poética , 3 (p. 193). X"
+        },
+        {
+          "texto_cita": "«El fresco nocturno acababa por entumirle y hablaba para pedir ayuda.»",
+          "autor": "Aldecoa",
+          "referencia_obra": ", Sta. Olaja de acero (ed. 1968, p. 220). ant. fr. entoumir , cat. entumir , port. intumescer , entumecer ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Se conjuga como agradecer , por lo que presenta las siguientes irregularidades: entumezc-o; entumezc-a, as, a, amos, áis, an . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

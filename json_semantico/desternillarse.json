@@ -1,0 +1,25 @@
+{
+  "lema": "DESTERNILLARSE.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Rompérsele á uno las ternillas. Por lo común no se usa sino ponderativamente para denotar una gran risa. — α ) «Al principio quedaron admirados, y luégo soltaron la risa, distinguiéndose entre ellos el viejo Vega, que se desternillaba.» A. Galiano , Recuerdos , p. 266. — β ) Con de , en sentido causal. «Dijo tantas extravagancias, que si me hubiera yo hallado en otra disposición de ánimo, no dudo que me hubiera hecho desternillar de risa.» Ochoa , París , Londres y Madrid , p. 128.",
+  "acepciones": [
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo privativo des y ternilla . Oudin define así:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se rompre la fourchette de I'estomach á force de rire ou autrement.»",
+          "autor": "",
+          "referencia_obra": "En España y en América se dice vulgarmente destornillar , acomodando la palabra á otra etimología:"
+        },
+        {
+          "texto_cita": "«A cada guardapiés que desgobierna, | Sir Láugher de reír se destornilla.»",
+          "autor": "Maury",
+          "referencia_obra": ", Esv. y Almed . 2 (50). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

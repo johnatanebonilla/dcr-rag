@@ -1,0 +1,329 @@
+{
+  "lema": "DESAVENIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Lo mismo que en el simple avenir , el uso transitivo nace del reflejo.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Refl. Ponerse ó estar en desacuerdo por razón de pretensiones ú opiniones.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo suj. las personas que no se avienen.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero mi señora la vieja urdió una tela: tiene necesidad dello, tú de venderlo. Entra y espera aquí, que no os desavernéis.»",
+              "autor": "",
+              "referencia_obra": "Celest . 4 (R. 3. 21 1 )."
+            },
+            {
+              "texto_cita": "«Servid vos como debéis, | Que no nos desavernemos.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Com. Soldad. 1 ( Propal. 304)."
+            },
+            {
+              "texto_cita": "«No nos desavendremos, con tal que nos digáis qué quieren decir ciertas palabrillas que algunas personas en su habla usan ordinariamente.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 113)."
+            },
+            {
+              "texto_cita": "«Comenzó luégo, á tratar la santa madre con Alonso Alvarez de su fundación, y desaviniéronse, por pedirle muchas condiciones que no estaban bien en su orden.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 20 ( Míst . 1. 189)."
+            },
+            {
+              "texto_cita": "«Mas si alguno hubiere tan de carne, que tenga más puestos los ojos en los bienes de carne, que en los del espíritu, como hacían los judíos, no quiero que por esto nos desavengamos; porque aquí le daremos mucho mejor despacho de lo que él pueda desear.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 23 (R. 6. 83 2 )."
+            },
+            {
+              "texto_cita": "«Presto se desavernán y serán enemigos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 7 (R. 30. 507 1 )."
+            },
+            {
+              "texto_cita": "«Comenzaron á desavenirse, sin querer escuchar al almirante, que en fino español les decía que se sosegasen.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 114 1 )."
+            },
+            {
+              "texto_cita": "«Es por lo mismo probable que nos hubiésemos desavenido en cuanto al uso de muchos medios de los encaminados á alcanzar los fines en que estábamos acordes.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 262."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep. Que no se aviene con otro, que está discorde.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era necesario, lo que se suele comúnmente hacer cuando las partes están desavenidas, un buen tercero y medianero que las redujese á amor y concordia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 3. 5 (R. 6. 407 1 )."
+            },
+            {
+              "texto_cita": "«La mesa y convite caritativamente ofrecido, muchas veces reconcilió los desavenidos.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. espir. 9 (R. 11. 322 2 )."
+            },
+            {
+              "texto_cita": "«Procuro poner en paz los que sé que están desavenios.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 16 (R. 1. 436 1 )."
+            },
+            {
+              "texto_cita": "«Las paces que hacen | Amantes desavenidos, | Alegran y satisfacen | Sobre modo á los sentidos.»",
+              "autor": "",
+              "referencia_obra": "Id. La gran sultana , 3 (Com. 2. 111)."
+            },
+            {
+              "texto_cita": "«Bien quisiera | Que á casa don Juan tornara, | Que --- don Fernando Cardona | Vendrá aquí de hoy á mañana: | No quisiera que á los dos | Desavenidos hallara.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mañana será otro día , 2. 5 (R. 7. 530 1 )."
+            },
+            {
+              "texto_cita": "«A esto se seguía querer reconciliar el mismo general á muchos matrimonios desavenidos.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 212."
+            },
+            {
+              "texto_cita": "«Los godos entre sí abrigan | Intestina enemistad | En dos bandos divididos | Que se hacen guerra tenaz --- | Nación tan desavenida | Fácil es de subyugar.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La madre de Pelayo , 1. 1 (192)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Suele agregarse un compl. recípr. Desaviniéronse entre sí.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo suj. una de las personas, lleva la otra con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por esta parte tampoco nos desavendremos con ellos; porque para esto les daremos aquí también las manos llenas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 2, 1ª. pte. (R. 8. 184 2 ); item, ib . 3. 3, § 10 (R. 8. 197 2 )."
+            },
+            {
+              "texto_cita": "«Se desavino con Roger sobre el gobierno de sus gentes.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 12 (R. 21. 12 2 )."
+            },
+            {
+              "texto_cita": "«Comenzaron á sentir la mala vecindad de los soldados y á desavenirse con ellos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4 (R. 21. 6 2 )."
+            },
+            {
+              "texto_cita": "«Orvilé había comenzado á desavenirse con el conde de San Pol por negocios de interés.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 8 (R. 28. 110 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El príncipe no asistió á estas bodas de su padre, con quien estaba entonces desavenido.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 420 1 )."
+            },
+            {
+              "texto_cita": "«Hallándose desavenido con el jefe de los berberiscos --- recorría Al-Motadid, disfrazado, los alrededores del castillo de Arcos, cuando fue reconocido por los servidores de su contrario y hecho prisionero.»",
+              "autor": "Valera",
+              "referencia_obra": ", Poes. de los árabes , 2, p. 10. —"
+            },
+            {
+              "texto_cita": "«Partió precipitadamente de Mallorca, harto más descontento y desavenido que á ella viniera.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. del castillo de Bellver (R. 46. 419 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de . Construcción menos usual entre los modernos que en los autores anteclásicos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desavenirse de otros.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram. Salvá , Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en, para significar el punto del desacuerdo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Horacio introdujo á Mecenas Cilnio con quien hablase: nuestro poeta la figura supuesta de Clito. Y ni aun en la cantidad se desavienen: pues lo que el autor latino esparció en algunos sermones, el castellano lo continuó en uno artificiosamente.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2 (R. 69. 355 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Poner en desacuerdo, enemistar ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Buscaban traza y orden para poner con artificio maña mal á la reina con su hijo desavenillos.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 15. 6 (R. 30. 436 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. No avenirse, no estar bien hallado (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desavínose Julio César con el desprecio en que estaba, cuando conjeturándole Sila por su desaliño, decía: Conviene guardarnos de este mozo mal ceñido.»",
+          "autor": "Quev.",
+          "referencia_obra": "Fantasma 3 (R. 48. 153 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fue el rey don Garcia de Nauarra desauenido del rey don Fernando primero de Castilla su hermano.»",
+          "autor": "",
+          "referencia_obra": "R. de Almela, Val. 3. 2. 6 (74 1 )."
+        },
+        {
+          "texto_cita": "«Casó esta reina con el rey don Alonso de Aragón que fue llamado el Batallador, é desavínose deste rey, é tornóse á Castilla.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 9 (R. 68. 703 2 )."
+        },
+        {
+          "texto_cita": "«Los ingleses son unas gentes muy diversas en condiciones, é desavenidos de las otras naciones.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 88."
+        },
+        {
+          "texto_cita": "«Mal haya, sennora mía, | Quien así nos desaviene.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 94."
+        },
+        {
+          "texto_cita": "«Amas son de una fyrmesa | Qual nunca se desaviene.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 326."
+        },
+        {
+          "texto_cita": "«Mandóles á todos quatro hermanos que fuesen á uno, é que se non desaviniesen.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav . p. 146."
+        },
+        {
+          "texto_cita": "«Y la razon porque el Tamurbee é el turco se ovieron de desavenir el uno del otro é ovieron de pelear, fue ---»",
+          "autor": "",
+          "referencia_obra": "Id. p. 93. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Et algunos caballeros de la orden --- desavenieronse dél.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 33 (R. 66. 195 2 )."
+        },
+        {
+          "texto_cita": "«E esto facia porque él é don Juan Nuñez estavan desavenidos.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 15 (R. 66. 158 2 )."
+        },
+        {
+          "texto_cita": "«Llególe y mandado, de commo el infante don Pedro su hermano, que era en Ledesma, que andava por se desavenir dél, é tener la voz del rey su padre.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 77 (R. 66. 63 1 )."
+        },
+        {
+          "texto_cita": "«Siempre anda desavenido á su compaña.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . (R. 51. 427 1 )."
+        },
+        {
+          "texto_cita": "«Por ninguna manera non puede ser que tan grand daño vos venga á deshora, de que antes non veades alguna señal cierta, como seria el daño que vos vernia, si vos desaviniesedes por tal engaño et maestria.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 38 (R. 51. 390 1 )."
+        },
+        {
+          "texto_cita": "«Et entendieron que si ficiesen desavenir al leon et al toro, que serían ellos fuera de la premia de que los traian apremiados el leon et el toro.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 38 (R. 51. 389 2 )."
+        },
+        {
+          "texto_cita": "«Así irá creciendo la sospecha et el desamor poco á poco, fasta que nos hayamos á desavenir.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 38 (R. 51. 389 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Desauenieronse él e el cuñado por grand tuerto que le fiziera el rey don Bermudo.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 4. 1 (284 2 )."
+        },
+        {
+          "texto_cita": "«Desauinieronse entre sy e leuantóse entre ellos contienda.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 51 (190 2 )."
+        },
+        {
+          "texto_cita": "«La quinta [razon para non cumplirse los desposorios] es si los que son desposados se desavienen et consienten amos para departirse.»",
+          "autor": "Part.",
+          "referencia_obra": "4. 1. 8 (3. 7)."
+        },
+        {
+          "texto_cita": "«E conviene al rey acucioso que se non desavenga con aquel sobre quien non ha poder.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro , 4 (Knust, 112)."
+        },
+        {
+          "texto_cita": "«El mejor amigo es el que non se desaviene de sus amigos.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 23 (52)."
+        },
+        {
+          "texto_cita": "«El rrey e su pueblo non pueden ningund bien acabar seyendo desabenidos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 8 (27)."
+        },
+        {
+          "texto_cita": "«Duraron muy grran tiempo todos desavenidos, | Commo omnes syn sennor, tristes e doloridos.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 162 (R. 57. 394 1 )."
+        },
+        {
+          "texto_cita": "«Fuertes eran los golpes e grandes los roydos, | Cuemo quando los uientos andan desabenidos.»",
+          "autor": "Alex.",
+          "referencia_obra": "658 (R. 57. 167 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo ó privativo des y avenir . Port. desavir ; cat., prov. desavenir ; it. disavuenire , venir mal.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Sigue la de venir : desavengo, desavien-es, e, en; desavin-e, iste, o, imos, isteis, ieron; desavendr-é, ás, á, emos, éis, án; desavendr-ía, ías, ía, íamos, íais, ían; desaveng-a, as, a, amos, áis, an; desaviniese, ieses, iese, iésemos, ieseis, iesen; desavin-iera, ieras, iera, iéramos, ierais, ieran; desavin-iere, ieres, iere, iéremos, iereis, ieren; desavén; desaviniendo . El futuro desaverné alcanza todavía á hallarse en nuestros autores del siglo XVI. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

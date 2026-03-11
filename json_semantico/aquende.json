@@ -1,0 +1,117 @@
+{
+  "lema": "AQUENDE.",
+  "categoria_gramatical": "adv.",
+  "introduccion": "--> adv. Del lado de acá. Es correlativo de allende y se halla usado con las mismas construcciones. Hoy es de rarísimo uso. «Se descubren en las rocas que abren paso á los ríos, tales como el Pigüeña, aquende, en el escobio de Sonisedo y el Bernesga, allende de nuestros montes, en Peña-gotera.» Jovell . Corresp. con Posada, (R. 50. 225 1 ). «Distínguense por este monte en España los ultramontanos de los citramontanos, ó como el vulgo habla, los montañeses de aquende y de allende.» Mariana , Hist. Esp. 1. 3 (R. 30. 3 2 ). «El rey moro entregue la ciudad de Valencia con los demás castillos y villas aquende el río Júcar.» Id. ib . 12. 19 (R. 30. 370 1 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "—Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Alli se nombravan los de Barçelona | E los llobregates, é de Rosellon --- | E muchos que dexo d ’ aquende Aviñon.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 126."
+        },
+        {
+          "texto_cita": "«Han corrido la ribera, | Aquende de Guadiana, | Moros de Valdepurchena.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 471."
+        },
+        {
+          "texto_cita": "«Ordenó e mandó que la vuestra chançelleria estouiese en cada vn anno seys meses aquende los puertos.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Madrigal, año 1438 ( C. de L. y C . 3. 312)."
+        },
+        {
+          "texto_cita": "«El príncipe partió para Roa --- é el rey llegó aquende Roa una grand legua.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 219."
+        },
+        {
+          "texto_cita": "«Así volvieron [de la isla] la gente á las galeras: é quando llegaron, eran ya pasados iquende muchos ingleses, omes de armas e frecheros.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 103."
+        },
+        {
+          "texto_cita": "«E non se entiende esta lengua [a]quende el rio --- Pero la letra que sirven estos de Samarcante del rio allende, non la entienden nin saben leer los del río aquende.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav. p. 138."
+        },
+        {
+          "texto_cita": "«E á la entrada desta iglesia debaxo de un arco que está aquende de la puerta, está él puesto armado sobre quatro marmoles.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 58."
+        },
+        {
+          "texto_cita": "«E quende la mar será estableçido | Qual quier que ayunare en el rramadan, | Creyendo la seta del nesçio alcoran, | Que deva ser muerto ó ser convertido.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 176. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Le daba los puertos de Algecira é de Tarifa, en que pudiese poner las viandas, é las armas, é las otras cosas que él trojiese de allen la mar, é para en que morase de que él fuese pasado aquende.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 60 (R. 66. 48 2 )."
+        },
+        {
+          "texto_cita": "«Et son las armadas á la boca de cima de la Hoz, una que esté allende del rio, et otra que esté aquende.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 3. 30 ( Bibl. venat. 2. 403)."
+        },
+        {
+          "texto_cita": "«Et son las vocerías, la una pasante las aceñas de Texeda fasta en par de Nava Redonda: et la otra aquende del camino que viene del Escorial á los Veneros.»",
+          "autor": "",
+          "referencia_obra": "lb . 3. ( Bibl. venat. 2. 95)."
+        },
+        {
+          "texto_cita": "«Esto mesmo habrán los de aquende del puerto.»",
+          "autor": "Leyes del est.",
+          "referencia_obra": "22 ( O. L. 2. 244)."
+        },
+        {
+          "texto_cita": "«Me pidieron los de Segouia que los cogedores que cogieren los pechos, que cojan los logares que son de Segouia, tambien los de allen sierra commo aquen sierra.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 165). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E lo que troxeren a Seuilla por tierra aquende del puerto vala el quintal a tres mrs.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez, año 1268 ( C. de L. y C. 1. 65)."
+        },
+        {
+          "texto_cita": "«Mandamos que sea tenudo el que se alzó de seguir el alzada, que es fecha para el rey, fasta treynta dias, seyendo el rey alende los puertos, e si fuere aquende los puertos, fasta quinze dias.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 14. 16 ( O. L. 1. 463)."
+        },
+        {
+          "texto_cita": "«E si el sennor del siervo fuere aquende de x millas, el siervo non pueda traer al omme libre antel juez.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 2. 2. 10 (28, nota )."
+        },
+        {
+          "texto_cita": "«Adelant la serna de Fuente Seca, aquent la carrera et allent la carrera.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1173 ( Berg. Antigüed. 2. 461)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. aquem: comp . de acá y ende , como si se dijera: acá partiendo de aquel punto. Véase ALLENDE . El Señor Cornu ( Roma nia, 10, 91) interpreta de acá ende las voces daquand, daquant, que aparecen en los pasajes siguientes:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Qui uiere yr comigo a las bodas, o reçebir mi don, | Daquand vaya comigo cuedo quel aurá pro.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2130 (R. 57. 24 1 )."
+        },
+        {
+          "texto_cita": "«Prendellas con uuestras manos e daldas a los yfantes, | Assi commo yo las prendo; qal uant, commo si fosse delant, | Sed padrino dellos a todel velar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2137 (R. 57. 24 1 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

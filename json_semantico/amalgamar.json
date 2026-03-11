@@ -1,0 +1,81 @@
+{
+  "lema": "AMALGAMAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Quím. Combinar el mercurio con otro ú otros metales ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Juntar, combinar cosas diferentes ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Consultado por la Comisión sobre el modo de organizar las Cortes, creyó conservar los privilegios de la nobleza y el clero amalgamando los tres estamentos en un solo cuerpo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 2. 2 (R. 46. 554 1 )."
+            },
+            {
+              "texto_cita": "«Su fin era amalgamar á todos los partidos y reunirlos alrededor de sí.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 7. 8 (6. 159)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se aprovechó Cervantes de las antiguas hablillas creídas vulgarmente en el país de su héroe; las amalgamó con las noticias de los romances, también antiguos, que andaban en boca de todos sobre Montesinos, sobre Durandarte y los amores de éste con Belerma.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 4, p. 452."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He creído que debo pedir otro beneficio que pueda unirse y amalgamarse con el de Montoro.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. post . 2, p. 148."
+            },
+            {
+              "texto_cita": "«A no ser por esta diferencia de culto, los sarracenos se hubieran tal vez amalgamado con los naturales.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . p. 5."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Con que está usted amalgamado con mi canónigo tarraconense? ¡Cuánto lo celebro! Tendrá usted un buen lazarillo para pasear ese país, fecundo de antiguallas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "carta á Vargas Ponce (R. 50. 266 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Fr. amalgamer ; it. amalgamare . Derivado de amalgama; lat. bajo malagma , gr. μ V λαγμα , ablandamiento, emoliente, μαλ V σσω , ablandar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

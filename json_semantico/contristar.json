@@ -1,0 +1,36 @@
+{
+  "lema": "CONTRISTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Causar mucha tristeza, llenar de tristeza ( trans .). — α ) «El le reprendió con severidad, dejándole sin otro castigo, porque no se hallaba en tiempo de contristar a gente con la demostración que merecía.» Solís , Conq. de Méj. 5. 23 (R. 28. 382 1 ). «Desorden que por ser de todo punto contrario á los cánones, y que las orejas católicas no lo sufren, tanto más nos ha contristado cuanto es mayor la afición que te tenemos.» Mariana , Hist. Esp. 10. 6 (R. 30. 284 2 ). «El actual abandono me contrista | De las dormidas musas castellanas.» T. Iriarte , epíst. 4 (R. 63. 29 1 ). «Aquel héroe que adversidad ninguna, ningún trabajo pudo contristar, se vio vencido por este contratiempo.» Quint. Gran Capitán (R. 19. 278 1 ). «Que le contrista en el alma | Tan dura resolución.» Bartz. Primero yo, 2. 2 (98). — β ) Refl . «Su corazón se contristó profundamente ante la idea de los infelices que se perdían por sus errores.» Ochoa ( Míst . 1. IX). — α α ) Como en otros verbos significativos de afectos del ánimo, la causa que los produce se puede señalar con de , con ó por. «Volvióse á contristar Motezuma de que saliese con fuerzas tan desiguales.» Solís , Conq. de Méj. 4. 7 (R. 28. 314 1 ). «Ellos se contristaron de manera con esta proposición, que sólo respondían con el llanto y el gemido.» Id. ib . 2. 12 (R. 28. 248 1 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mas si por caso se fueren, | Nos vos deueys contristar.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr. 1, p. 332. — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Y en la muerte non fue contristado con miedo de sus enimigos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 4. 2. 14 (70)."
+        },
+        {
+          "texto_cita": "«Fiziestes lo llorrar, auedes lo contristado.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 177 (R. 57. 289 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. contristar ; fr. contrister ; it. contristare : del lat. contristare , compuesto de cum, con, intensivo, y tristis , triste. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

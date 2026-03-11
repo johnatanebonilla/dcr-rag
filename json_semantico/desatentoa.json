@@ -1,0 +1,125 @@
+{
+  "lema": "DESATENTO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que no pone la atención debida, que no considera convenientemente lo que trae entre manos ó lo que se está haciendo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se recibía la eficacia de sus avisos casi con escándalo, por ser culpa común en ministros desatentos reputar la providencia de otros como cobardía.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 5 (R. 21. 520 1 )."
+            },
+            {
+              "texto_cita": "«Y no faltaban algunos eclesiásticos desatentos que abusaban del púlpito para mantenerlos [á los comuneros] en esta opinión.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 7 (R. 28. 353 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , rara expresar á lo que debiera atenderse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya veis descuidado en la conservación de sus dominios, desatento á la defensa de sus leyes, y convertido el ánimo real en espíritu servil.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 2 (R. 28. 303 1 )."
+            },
+            {
+              "texto_cita": "«Desatento á mis verdades, | Y airado á mis persuasiones ---»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo , 1 (R. 54. 235 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Que falta á los deberes de la cortesía ó urbanidad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque rendido mi amor, | Os dejará estar celoso, | Pero desatento no.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante , 2. 11 (R. 39. 154 2 )."
+            },
+            {
+              "texto_cita": "«Dos cargos me hacéis --- | En creer que si os siguiera, | Sería tan desatento, | Que diera esa razón más | A vuestros justos desprecios.»",
+              "autor": "Cald.",
+              "referencia_obra": "¿Cuál es mayor perfección? 1. 2 (R. 7. 70 3 )."
+            },
+            {
+              "texto_cita": "«No hagáis, desatenta, enojos, | Las que obré finezas sabio.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Entre bobos anda el Juego , 2 (R. 54. 27 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Días ha que los tolero | Sólo porque no se diga | Que soy una desatenta.»",
+              "autor": "Bretón",
+              "referencia_obra": ", El ingenuo , 2. 1 (1. 167)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para señalar la persona que es objeto de la desatención.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vos, Lisardo, habéis andado | Con Laura muy desatento.»",
+              "autor": "Cald.",
+              "referencia_obra": "El secreto á voces , 2. 8(R. 7. 422 1 )."
+            },
+            {
+              "texto_cita": "«Sea usted, si quiere, ingrato con su patria y desconocido con sus amigos; pero no caiga otra vez en la tentación de ser desatento con quien puede tachárselo tan franca y justamente.»",
+              "autor": "Jovell.",
+              "referencia_obra": "carta al obispo de Lugo (R. 50. 342 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Dícese de las cosas mismas en que se muestra la desatención.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dispusieron sin industria sus querellas, hablando siempre con desatenta libertad en las personas de los dos ministros.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal. 2 (R. 21. 478 1 )."
+        },
+        {
+          "texto_cita": "«Si tanto no ha bastado para granjearse la estimación de usted, pudo á lo menos esconder en su carta esta flaqueza, y eso tuviera de menos desatenta.»",
+          "autor": "Jovell.",
+          "referencia_obra": "carta al obispo de Lugo (R. 50. 342 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo ó privativo des y atento . Port. desatento ; cat. desatent ; it. disattento. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

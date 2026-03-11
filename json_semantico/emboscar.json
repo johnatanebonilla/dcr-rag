@@ -1,0 +1,327 @@
+{
+  "lema": "EMBOSCAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Milit. Poner encubierta una partida de gente para una operación militar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Emboscó parte [de su gente ] en la cuesta de Talera y un arroyo que la divide del lugar, parte en las mismas casas.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Granad. 2 (R. 21. 91 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Apartaron seiscientos hombres, cuatrocientos con Rendati, que se emboscó a las espaldas de Vilches.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 3 (R. 21. 105 2 )."
+            },
+            {
+              "texto_cita": "«Se emboscaron a tiro de mosquete del camino que había de hacer la escolta.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 78 2 )."
+            },
+            {
+              "texto_cita": "«Envió gruesas tropas de caballería que se emboscasen en las alas del bosque.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 7 (R. 28. 93 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parte con veinte y cinco arcabuceros | A recoger la gente por las huertas, | Donde emboscados los ingleses fieros | Estaban con las armas encubiertas.»",
+              "autor": "Lope",
+              "referencia_obra": ", Drag. 6 (424)."
+            },
+            {
+              "texto_cita": "«Habiendo dejado el conde Carlos emboscados aquella misma noche de su partida cosa de trecientos hombres de todas naciones ---»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 95 1 )."
+            },
+            {
+              "texto_cita": "«Aguardaban los enemigos mal emboscados entre unos maizales.»",
+              "autor": "",
+              "referencia_obra": "So lís, Conq. de Mej. 5. 3 (R. 28. 345 1 )."
+            },
+            {
+              "texto_cita": "«Había emboscado la infantería en unas casas hundidas y espesos matorrales.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 2. 21 (5. 272)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Entrarse, internarse en un bosque.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Digo pues que me torné a emboscar y a buscar dónde sin impedimento alguno pudiese con suspiros y lágrimas rogar al cielo se duela de mi desventura.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 28 (R. 1. 329 1 )."
+            },
+            {
+              "texto_cita": "«A dos millas del lugar hallaron una floresta o bosque donde D. Quijote se emboscó en tanto que Sancho volvía a la ciudad a hablar a Dulcinea.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 9 (R. 1. 422 1 )."
+            },
+            {
+              "texto_cita": "«Silvia al momento acomodó una flecha | A un arco que le di, dispara, y dale | En la cabeza; él [el lobo] emboscose, y ella | Al bosque le siguió, vibrando el dardo.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta, 3 (R. 42. 143 2 )."
+            },
+            {
+              "texto_cita": "«Como gran toro que se embosca y brama | Sobrepujado del contrario apenas.»",
+              "autor": "Fern.",
+              "referencia_obra": "7. 100)."
+            },
+            {
+              "texto_cita": "«En Fuente-Rubia suelen, si se emboscan, | No hallar salida liebre ni raposa, | Y cansadas morir a nuestras manos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El pretendiente al revés 3. 12 (R. 5. 40 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y el ciervo por no ser muerto, | Todo el día está emboscado.»",
+              "autor": "T. Naharro",
+              "referencia_obra": ", Propal. Rom . 2 (1. 115)."
+            },
+            {
+              "texto_cita": "«Y mientras lo permites, Sol dorado, | Regala la ribera | Con la zampoña dulce, y emboscado | Huye tu furia fiera.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 1, Oda 3 (14)."
+            },
+            {
+              "texto_cita": "«Los ligeros venados, | Sin miedo de los perros, | Dejan los altos cerros | A do entre día estaban emboscados.»",
+              "autor": "",
+              "referencia_obra": "M. de Chalde, Magd. 2, § 3 (R. 27. 295 1 )."
+            },
+            {
+              "texto_cita": "«Emboscados, como solos | En medio del universo, | Nos cogió expirando el día, | Clori, envidioso el lucero.»",
+              "autor": "Mel.",
+              "referencia_obra": "rom . 33 (R. 63. 149 1 ):"
+            },
+            {
+              "texto_cita": "«Jamás en débil leño oyó el bramido | Del piélago inclemente | Quien se adurmió una vez al blando ruido | De la emboscada fuente.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. filosof. 6 (R. 67. 306 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, en el sentido de internación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vio, que torciendo sobre la mano derecha se emboscaban en lo más espeso del bosque.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 48 1 )."
+            },
+            {
+              "texto_cita": "«Le rogó [a su amo] que luego de aquí se partiesen y se emboscasen en la sierra que estaba cerca.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 22 (R. 1. 305 2 )."
+            },
+            {
+              "texto_cita": "«Mejor será que nos salgamos de la ciudad y que vuestra merced se embosque en alguna floresta aquí cercana, y yo volveré de día.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 9 (R. 1. 422 1 )."
+            },
+            {
+              "texto_cita": "«Poco a poco se fueron a emboscar en una alameda que hasta un cuarto de legua de allí se parecía.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 28 (R. 1. 465 1 )."
+            },
+            {
+              "texto_cita": "«La gente vaya | Tomando por el monte algún rodeo, | Y embósquese en la cala allí vecina, | Por ver lo que el cosario determina.»",
+              "autor": "",
+              "referencia_obra": "Id. Los baños de Argel, 1 ( Com . 1. 130)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Emboscado en las espesuras de Monserrate, hacía la guerra en continuos asaltos.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 521 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con entre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Huye [el ladrón], y entre los árboles se embosca.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fáb. 68 (451)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con por, que señala el espacio que se recorre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acá y allá turbada al fin por una | Montaña comencé luego a emboscarme | Dejándome llevar de mi fortuna.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 28 (R. 17. 105 2 )."
+            },
+            {
+              "texto_cita": "«Por la aspereza se emboscó de un monte, | Y de un aldea en otra entretenido ---»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 10 (R. 17. 246 1 )."
+            },
+            {
+              "texto_cita": "«Quiso cansado de la mar bajarse | Al margen de una fuente cristalina | Entre blancos jazmines, que a emboscarse | Por su espesura el mismo olor inclina.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 14 (R. 17. 289 1 )."
+            },
+            {
+              "texto_cita": "«Se emboscó corriendo por entre esos jarales y malezas de modo que nos imposibilitó el seguille.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 23 (R. 1. 309 1 )."
+            },
+            {
+              "texto_cita": "«Emboscose, alumbrado de la luna, por un cerro vestido de espesuras.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del. aprov. p. 192 2 ."
+            },
+            {
+              "texto_cita": "«Es con extremo | Inclinada Margarita | A la caza, y su deseo | Se emboscó por esos montes.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 1. 8 (R. 39. 104 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por los árboles bellos emboscados, | El llano huyeron de los verdes prados.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3 , égl. 1 (96)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ingieren en ella [en la lógica] cuestiones de metafísica y de teología--- confundiendo los flacos entendimientos de los que aprenden, emboscándolos en cosas que ni son de aquel lugar ni para aquel tiempo.»",
+              "autor": "P. S. Abril",
+              "referencia_obra": "(R. 65. 295 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaba el campo hecho una selva de carrozas y coches, que frisaban hasta con los umbrales de la iglesia. Era fuerza que yo saliese della, y era fuerza que me emboscase por ellos; así lo, hice, no sin algún trabajo y peligro de ser atropellado.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 2. 2 (R. 18. 323 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que están emboscados en la profundidad de los vicios, esperando cuándo amanecería el día de la enmienda, sobrevínoles primero la noche de la sepultura.»",
+              "autor": "Guev.",
+              "referencia_obra": "M. Aur . 2. 16 (90)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En los siguientes pasajes la metáfora huele a gongorismo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su vista es noche, su erizada y tosca | Melena el amarillo gesto embosca.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 12 (Fern, 7. 338:"
+            },
+            {
+              "texto_cita": "«Impexis onerata comis»",
+              "autor": "",
+              "referencia_obra": ", Luc. 6. 518)."
+            },
+            {
+              "texto_cita": "«¿Ves la greña que [ el león ] viste por muceta, | Erizada, y la sima en donde embosca | Armas por dientes?»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2, son . 30 (43)."
+            },
+            {
+              "texto_cita": "«Las bocas emboscadas en barbas, que apenas se las hallara un brazo»",
+              "autor": "",
+              "referencia_obra": "[el original diría braco y no braço ]. Id . Visita (R. 23. 334 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Emboscarse: in siluas me recipio. Emboscarse, hazerse bosque: siluesco.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Dicc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de en, que denota internación, y bosque. Port., cat., prov. emboscar; fr. embusquer; it. imboscare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe qu: embosquen, embosquemos. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

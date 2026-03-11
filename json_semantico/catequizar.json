@@ -1,0 +1,121 @@
+{
+  "lema": "CATEQUIZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Instruír en la doctrina y misterios de la santa fe católica ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para su instrucción los entregó á ministros que los catequizasen.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "Conq. de las Molucas, 1, fol. 38 ( Dicc. Autor. ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si medio gentil amaba Auristela la honestidad, después de catequizada la adoraba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 4. 6 (R. 1. 668 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, como instruír, adoctrinar .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El santo apóstol no sólo lo recibió y escuchó favorablemente, sino que catequizándole en la fe, lo convirtió y bautizó.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Pablo, Fil. Advert. (5. 719)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era catequizado en el camino del Señor y hablaba con espíritu ferviente, enseñando con afecto la doctrina de Jesucristo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 35 2 )."
+            },
+            {
+              "texto_cita": "«Esta declaración hicieron en la asamblea los diputados de Enrique á los 5 de junio, asegurando que desde luego enviaría á pedirla absolución del Papa, y á convocar varios perlados y personas doctas por quien poder ser catequizado y instruído en la fe.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 75 1 )."
+            },
+            {
+              "texto_cita": "«Nuestro Señor detuvo tres días á Saulo en la ciudad --- para que en este tiempo se catequizase é industriase bien en los misterios de la fe, de la Santísima Trinidad, y se aparejase para recibir el bautismo.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 5. 30 (3. 170)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas ni por esto cesaba el oficio de catequizar, que es enseñar á los mozos y novicios en la fe las principales partes y lugares de la doctrina evangélica.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 1. 2 (R. 11. 62 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Persuadir la ejecución ó el consentimiento de algo que se repugna ( trans. ). No logró catequizarme para que le acompañara.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Catequizar á alguno para el robo, para pasear.»",
+          "autor": "Salvá",
+          "referencia_obra": ", Gram."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIII :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Catecizar --- es palabra de griego que quier tanto decir en nuestro lenguage como soplar, et esto es quando alguno aducen á la puerta de la eglesia para baptizarle, et que resciba el Espíritu Santo.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 7 (1. 67)."
+        },
+        {
+          "texto_cita": "«Et á esto llaman catecizar, que es tanto como soplar.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 34 (1. 85)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. catechizo ; gr. κατηχ \\ ζω , κατηχ X ω , resonar, hacer sonar algo en los oídos de alguien, imbuír, enseñar oralmente, comp. de i\"J\" , que es aquí intensivo, y η PXT , sonar. El catecizar de las Partidas se halla todavía en época muy posterior; véase Capm. Teatro, 4, p. 407.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe c: catequice, catequicéis. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

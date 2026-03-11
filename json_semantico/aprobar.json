@@ -1,0 +1,332 @@
+{
+  "lema": "APROBAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "En general: Calificar ó dar por bueno ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si dijere comamos, yo también; si quisiere derrocar la casa, aprobarlo he.»",
+              "autor": "",
+              "referencia_obra": "Celest . 2 (R. 3. 17 2 )."
+            },
+            {
+              "texto_cita": "«Es regla cierta que tanto aprueba uno cuanto alcanza á entender.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 33)."
+            },
+            {
+              "texto_cita": "«Cuando queremos aprobar una medicina, no miramos si es dulce ó amarga, sino los efectos que obra.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 3. 21, § 4 (R. 6. 715 2 )."
+            },
+            {
+              "texto_cita": "«Siendo incierto el juicio dellos [de los sujetos], y la alabanza una como sentencia definitiva, puede descubrir el tiempo que fue ligereza el dalla, y queda el príncipe obligado por reputación á no desdecirse de lo que una vez aprobó.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 11 (R. 25. 35 2 )."
+            },
+            {
+              "texto_cita": "«Comenzó el Señor á mover á los que más nos habían perseguido, para que mucho nos favoreciesen, é hiciesen limosna, y ansí aprobaban lo que tanto habían reprobado, y poco á poco se dejaron del pleito.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 36 (R. 53. 112 2 )."
+            },
+            {
+              "texto_cita": "«Todo lo tiene de llevar con igualdad de ánimo; y cuando le reprehendiere, aprobar su recto y ajustado juicio, humillándose.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cartas, 1. 8 (R. 55. 286 2 )."
+            },
+            {
+              "texto_cita": "«Lo que la voluntad ama, eso mismo es lo que aprueba el entendimiento.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Príncipe (R. 37. 143 2 )."
+            },
+            {
+              "texto_cita": "«Oídos que me oyeron bendecían | Mi lengua, con las señas me aprobaban | Los dichos que de mis labios salían.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes . 3, Job, 29 (R. 37. 65 2 )."
+            },
+            {
+              "texto_cita": "«Aprobó la elección el papa Inocencio IV, mas el electo no parece se consagró, por su poca edad.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 8 (R. 30. 381 2 )."
+            },
+            {
+              "texto_cita": "«Esta confederación, para que fuese más fuerte, se procuró que el romano Pontífice la aprobase.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . I3. 9 (R. 30. 383 2 )."
+            },
+            {
+              "texto_cita": "«Los mismos que sentían diversamente eran los primeros á besalle la mano y hacelle todo homenaje para mostrarse leales, y que aprobaban su elección.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 18. 9 (R. 31. 14 1 )."
+            },
+            {
+              "texto_cita": "«Yo cumplí mi obligación; | Lo que intentas no lo apruebo; | Pero lo que mandas debo | Poner en ejecución.»",
+              "autor": "Lope",
+              "referencia_obra": ", La corona merecida, 1. 11 (R. 24. 233 1 )."
+            },
+            {
+              "texto_cita": "«Yo confieso, que Cristo da excelencia | Al matrimonio santo, y que le aprueba, | Que Dios siempre aprobó la penitencia.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, sát . (R. 69. 237 1 )."
+            },
+            {
+              "texto_cita": "«A no aprobar tal virtud | Dios con traza milagrosa, | Pareciera sospechosa | Especie de ingratitud.»",
+              "autor": "Jáur.",
+              "referencia_obra": "A Sta. Ter . (R. 42. 131 1 )."
+            },
+            {
+              "texto_cita": "«Aunque en mi confuso pecho siento | El bien y el mal, y lo mejor apruebo, | Aquello solo sigo que repruebo.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 4 (R. 17. 183 2 )."
+            },
+            {
+              "texto_cita": "«Yo sé que el ejército y senado | En todo aprobarán lo que hiciere.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 34 (R. 17. 126 2 )."
+            },
+            {
+              "texto_cita": "«Previno que si andando el tiempo queríamos casarnos con ellas, desde luégo aprobaba y bendecía esta unión.»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos, 1. 1 (R. 2. 444 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siempre que el delito no se castiga, se aprueba.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 46 (R. 21. 43 2 )."
+            },
+            {
+              "texto_cita": "«Ninguna acción se aprueba de quien es aborrecido.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 38 (R. 25. 97 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Importaba enviar religiosos y sacerdotes de aprobada virtud.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 5. 6 (R. 28. 351 2 )."
+            },
+            {
+              "texto_cita": "«Tan grande era su valor y esfuerzo, tan señalada su destreza, conocida y aprobada en muchas guerras.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 14. 5 (R. 30. 408 2 : dice probada )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un pred. precedido de por, para expresar la calidad en que algo se aprueba.» Con silencio grande estuve escuchando lo que mi amigo me decía, y de tal manera se imprimieron en mí sus razones, que sin ponerlas en disputa, las aprobé por buenas, y dellas mismas quise hacer este prólogo.» Cerv. Quij . 1, pról . (R. 1. 253).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque su determinación no fuera tan buena, la aprobara yo por una de las más acertadas que se podían imaginar, por ver cuán buena ocasión y coyuntura se me ofrecía de volver á ver á mi Luscinda.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 24 (R. 1. 311 1 )."
+            },
+            {
+              "texto_cita": "«El vulgo las oye con gusto, y las tiene y las aprueba por buenas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 48 (R. 1. 390 1 )."
+            },
+            {
+              "texto_cita": "«Esperando que en aquel año podría ser curado, concedieron con su buena intención, y aprobaron por discreta su locura.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 73 (R. 1. 556 1 )."
+            },
+            {
+              "texto_cita": "«Toda criatura de Dios es buena, y ninguna se ha de desechar por título de ser mala, si se recibe y come con acción de gracias, porque está santificada por la palabra de Dios y por la oración; porque el Verbo divino la aprueba por buena, y la oración que acompaña la comida la hace santa.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 6. 21 (3. 380)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Es muy raro que falte la preposición.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volvió en sí Delio, y la visión tuviera | Por sueño lisonjero, | Si un gozo celestial, que dulcemente | Sintió, no la aprobara verdadera.»",
+              "autor": "D. Gonz.",
+              "referencia_obra": "Llanto de Delio (R. 61. 184 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, tratándose de doctrinas ú opiniones, Asentir á ellas por creerlas buenas ó fundadas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desa manera, dijo Sancho sin dejar de mascar apriesa, no aprobará vuesa merced aquel refrán que dicen: Muera Marta, y muera harta.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 59 (R. 1. 528 1 )."
+        },
+        {
+          "texto_cita": "«Todo esto se comunicó con Auristela, la cual aprobó su parecer.»",
+          "autor": "",
+          "referencia_obra": "Id. Pers . 2. 8 (R. 1. 602 1 )."
+        },
+        {
+          "texto_cita": "«Vosotros levantad las diestras manos | En señal que aprobáis el voto mío.»",
+          "autor": "",
+          "referencia_obra": "Id. Numancia, 1 (Arrieta, 10. 9)."
+        },
+        {
+          "texto_cita": "«Tampoco aprobamos lo que en esta parte añaden, que un hijo de Atlante llamado Morgete, después de la muerte de su padre, reinó en Italia.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 1. 10 (R. 30. 12 1 )."
+        },
+        {
+          "texto_cita": "«No acabó su razón el indio, cuando | Se levantó un rumor entre la gente, | El parecer á voces aprobando | Sin mostrarse ninguno diferente.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 34 (R. 17. 129 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Tratándose de personas: Declarar hábil y competente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchos de los ordinarios encomiendan el examen á sus oficiales, algunos de los cuales son como mercenarios, que no pretenden más que llevar su salario, haciendo este oficio superficialmente, y más por cumplimiento que con deseo de acertar. Y así aprueban á algunos que no debieran.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de B. de los Márt . 7 (R. 11. 442 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Varones invencibles, | Entre las armas ásperas criados, | Y en guerras y trabajos insufribles | Tantas y tantas veces aprobados.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 24 (R. 17. 91 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de, para expresar el oficio ó facultad en que alguno es calificado de competente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprobado de boticario.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprobarse en teología.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el uso intrans. ) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Falló luego capitan que le rescibió en su compañia, en la qual aprobó tan bien seyendo mozo, é despues en las cosas que hombre mancebo debe facer, que ganó por las armas estimacion de hombre valiente y esforzado.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 7 (61)."
+        },
+        {
+          "texto_cita": "«El rey dixo que así mandaba á todos que lo aprobasen é lo diesen por bien hecho.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 17 (R. 68. 387 2 )."
+        },
+        {
+          "texto_cita": "«Asy mesmo Valerio, en el quarto de su repertorio, aprueba [Codro] ser rey de Atenas.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 82."
+        },
+        {
+          "texto_cita": "«Lo qual en verdat, ya sea que breve, á mi ver, ha declarado assaz bien é abiertamente, aprovando la yntencion suya con Platon, philosopho estoyco.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 487."
+        },
+        {
+          "texto_cita": "«Vistos los capítulos que por él lo fueron enviados por el arcediano su primo, por su merced fueron luego aprobados.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes . 26 (38)."
+        },
+        {
+          "texto_cita": "«Parescia mucho en todas sus maneras á su padre; aprobó bien en todos sus fechos, é en buenas costumbres.»",
+          "autor": "",
+          "referencia_obra": "Crón . P. Niño, p. 46."
+        },
+        {
+          "texto_cita": "«La primera [parte] fabla de su niñez --- é cómo comenzó á tomar armas, é en qué tiempo; las valentías que con ellas comenzó á facer, é cómo de cada dia iba aprobando de bien en mejor.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 11."
+        },
+        {
+          "texto_cita": "«E ordene que corte ante él e ante otros caualleros, e algunos dias, por que en obra aprueven lo que vieron de vista e les fue demostrado en los tajos.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 13 (94)."
+        },
+        {
+          "texto_cita": "«Espejo luziente de clara çiençia, | En todas proezas famoso, aprovado, | Non vos enogedes con este tratado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 145. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Fuera tiene frescura con que ha engannado | La vista de los omnes que lo han aprouado.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1529 (R. 57. 474 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Et este rey era muy acucioso en allegar el saber, et en aprobar los filósofos é amarlos mas que á otros.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 14 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. approvar; prov. aprobar, aproar; fr. approuver; it. approvare; del lat. approbare, comp. de ad, á, y probare, probar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas: aprueb-o, as, a, an; aprueb-e, es, e, en; aprueba tú. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

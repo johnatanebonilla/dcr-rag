@@ -1,0 +1,222 @@
+{
+  "lema": "SITIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Cercar una plaza o fortaleza para combatirla y apoderarse de ella ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué obligaçión o qué derecho tenía Enrrique de Labrid a Logroño, para sitialla [a Nauarra] el rrey de Françia?»",
+              "autor": "Jmz. de Quesada",
+              "referencia_obra": ", El Antijovio (ICC. 10. 58). X"
+            },
+            {
+              "texto_cita": "«Y el Almirante fue con su françés egérçito y sitió aquella çiudad de Milán, cabeça de aquel estado, la qual tubo dos meses çercada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (ICC. 10. 86). X"
+            },
+            {
+              "texto_cita": "«Quando los que vienen a sitiar alguna plaça allegan nuevamente a ello, y están ocupados en hazer sus alojamientos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (ICC. 10. 229). X"
+            },
+            {
+              "texto_cita": "«Pues alto, vamos con fauor del cielo | A sitiar a Mastrique.»",
+              "autor": "Lope",
+              "referencia_obra": ", Asalto de Mastrique (RAE. 4. 56). X"
+            },
+            {
+              "texto_cita": "«En esto se pasa la primera jornada. En la segunda, sitia a Martos el rey de Arjona.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. (3. 171)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo hecho liga, y juntando socorros de casi todos los Príncipes... sitió con sesenta mil Infantes, y treinta mil caballos a Crovecia.»",
+              "autor": "León",
+              "referencia_obra": ", Prodig . 1. 34 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "También con acus. de persona. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nos sitiaron, nos tiraron más de catorce mil tiros de cañón y mortero.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. (1. 212)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por , que indica el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de varias conferencias [los indios] resolvieron que --- sería conveniente sitiarlos [a los españoles] por hambre.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 17 (R. 28. 332 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la expresión: A lo largo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando la mayor parte de su ejército [de Xicontecal] se abrió en dos alas ---, cerrando el círculo consiguieron el intento de sitiarlos [a los españoles] a lo largo.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2. 17 (R. 28. 256 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Pas . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y así fue sitiado [aquel pueblo] por anbas partes, y el maestre de campo Mendoça enbió a dar aviso de todo ello al visorrey de Nápoles a Ytalia, y al Emperador a España, y primero qu'esto abía enbiado al capitán Hernando de Bargas, estando avn el Carlos en Bolonia, dándole quenta de la sospecha que se tenía de que serían presto sitiados como lo fueron.»",
+              "autor": "Jmz. de Quesada",
+              "referencia_obra": ", El Antijovio (ICC. 10. 283)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque la razón que los tales suelen decir y a lo que ellos más se atienen, es que los trabajos del espíritu exceden a los del cuerpo---, como si no trabajase el ánimo del guerrero que tiene a su cargo un ejército, o la defensa de una ciudad sitiada, así con el espíritu como con el cuerpo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 37 (Cl. C. 8. 320). X"
+            },
+            {
+              "texto_cita": "«Allí comeremos juntos, | Con salvoconducto y guarda | Que tengo del gran señor | Que a Rodas tiene sitiada.»",
+              "autor": "Lope",
+              "referencia_obra": ", La pérdida honrosa (RAE. 12. 48)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y en su defensa derramó inflexible | La propia sangre. De Tarifa el alto | Muro, sitiado de agarenas huestes, | Supo guardar su generoso abuelo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Epist. 3 (R. 2. 582 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Asediar a uno para rendir su voluntad. ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vos, como diestro soldado, | Con la vista examinad | Si mi enemigo otra vez | Quiere esta fuerza sitiar.»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo , 2 (R. 54. 244 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al señor Christoual de Heredia... | Beso... las manos ---, aunque | Me trata como a sitiado.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr . (2. 227)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No es completa desgracia, | Que por ser hoy mis días, | He de verme sitiado | De incómodas visitas!»",
+              "autor": "Mor.",
+              "referencia_obra": "Oda , 8 (R. 2. 590 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con por , para indicar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la capilla estoi i condenado | A partir sin remedio de esta vida; | Siento la causa aun más que la partida, | Por hambre expulso como sitiado.»",
+              "autor": "Góng.",
+              "referencia_obra": "Obr. (2. 380)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XIII . +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En vengança de la sangre de los suyos, hordenó [Alarico] batalla contra Roma y, asitiada, por arremetimiento, rompiola por fuego y por destruycion.»",
+          "autor": "",
+          "referencia_obra": "Túy, Crón. Esp . 2. 14 (p. 171). +"
+        },
+        {
+          "texto_cita": "«Ronpio [Teodoredo] la paz de la concordia romana y muchos villajes de los romanos vezinos a él tomó, y Arelas, el muy noble castillo de Galia, luengamente asytiado lo combatio.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 17 (p. 175). +"
+        },
+        {
+          "texto_cita": "«Mas despues de asitiado el castillo, como Juan agramente insistiese, Tholomeo açotaua a su madre y a sus hermanos sobre los muros fasta sacarles la sangre.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 34 (p. 89). +"
+        },
+        {
+          "texto_cita": "«Como Antiocho tuuiese asitiada Alexandria de Egipto, fueron enbiados mensajeros de los romanos para librar a los egipcianos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 24 (p. 85). +"
+        },
+        {
+          "texto_cita": "«Hueste grande de ysmaelitas asytio a Çamora, lo qual oyendo el rey entró en essa cibdad con pocos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 4. 20 (p. 300). +"
+        },
+        {
+          "texto_cita": "«Carlo asitió a Tudela, la qual huuiera tomado en breue sino [es] por trayçión de vn Galalon, conde de su palaçio.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 4. 15 (p. 287)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del ant. sajón sittian 'asentarse' Cat. sitiar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

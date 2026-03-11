@@ -1,0 +1,146 @@
+{
+  "lema": "APODAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Calcular, estimar ( trans .) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quitóse [Cleopatra] de los pechos un balaj que le apodaban en una cibdad, y lo metió en un vaso de vinagre.»",
+          "autor": "Herr.",
+          "referencia_obra": "Agric . gen . 2. 34 (1. 522)."
+        },
+        {
+          "texto_cita": "«El cual [alcaide] vino luégo turbado con hasta setenta hombres --- perdiendo honra y hacienda, que dicen se apodó á más de un cuento de maravedís.»",
+          "autor": "Mendoza",
+          "referencia_obra": ", Crón. de los Ponces de León , fol . 139 ( Dicc. Autor . 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Comparar ( trans .) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aristóteles en su retórica decía que Platón apodaba á estos con los perros, que muerden las piedras arrojadas, y no se llegan á los que se las arrojan.»",
+          "autor": "",
+          "referencia_obra": "Navarro de Azpilcueta, Alabanza y murmuración , fol . 250 ( Dicc. Autor . 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Decir ó poner apodos (que es propiamente una comparación ridícula) ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué alborotas la posada, | Lacayo del rey Herodes? | — No me falta ya, por Dios, | Sino que os juntéis los dos, | El se burle y tú me apodes.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mejor mozo de España , 3. 4 (R. 41. 625 3 )."
+            },
+            {
+              "texto_cita": "«Gaitero del Cid, | Entrad el primero vos. | —Diréselo á mi señora, | En apodando.»",
+              "autor": "",
+              "referencia_obra": "Id. La porfía hasta el temor , 1. 12 (R. 34. 314 3 )."
+            },
+            {
+              "texto_cita": "«Comer pudiera y callar | El señor cara de alambre. | —Señor soldado fingido, | ¿Sabe cómo, si me apoda, | Alborotaré la boda?»",
+              "autor": "",
+              "referencia_obra": "Id. S. Diego de Alcalá , 3 (R. 52. 528 2 )."
+            },
+            {
+              "texto_cita": "«Cuéntanme que me hallaron mil faltas, y que todo se les fue en apodarme y reírse.»",
+              "autor": "Quev.",
+              "referencia_obra": "Cartas del caball. de la Tenaza (R. 23. 455 1 )."
+            },
+            {
+              "texto_cita": "«Ansí de cansarte dejen | Similitudes prolijas | Que de lisonja en lisonja | Te apodan y te fatigan.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 6, rom . 21 (R. 69. 170 1 )."
+            },
+            {
+              "texto_cita": "«Culpa á aquel que, de su alma | Olvidando los defetos, | Graceja con apodar | Los que otro tiene en el cuerpo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los pechos privilegiados , 3. 1 (R. 20. 427 3 )."
+            },
+            {
+              "texto_cita": "«Que le atribuyan cosas que no piensa; | Que le apoden con términos indignos.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", epíst . 3 (R. 63. 26 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de y un pred. , por analogía con motejar , notar .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llama á mis españoles bestias, brutos, | Y apódamelos bien de teologotes.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell . (R. 63. 423 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las gracias y donaires de algunos no están bien en otros: apode el truhán, juegue de mano y voltee el histrión, rebuzne el pícaro ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 230 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aqui tengo un anillo | Que me dio Pero Carryllo | En grant precio apodado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 111."
+        },
+        {
+          "texto_cita": "«El tu amenasar apodo | A grant loco syn abrigo.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 106. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Nunca jamas vos contesca, e lo que dixe apodo: | Yo lo desdiré muy bien e lo desfaré del todo.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 905 (R. 57. 255 2 . ¿Significará aquí podo , corto , cerceno ?). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Le apodaremos»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "En port. tiene las mismas acepciones que en cast. , y los diccionaristas de aquella lengua definen apodo: comparación ridícula ó grotesca; de suerte que en el verbo el sentido de Poner apodos es secundario y derivado del de Comparar (sin duda mediante el sustantivo); éste se daría la mano con el de Calcular, estimar, como en medir cuando se dice:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Midiendo sus fuerzas de mar y tierra con las del rey de España, hallaron no ser bastantes para contrastalle.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Gran . 1 (R. 21. 75 1 ); como que toda tasa ó medida no es sino la comparación con la unidad. Si el sentido primitivo es pues Calcular, estimar, la etimología se viene á los ojos en el lat. putare , que en el sentido material dio podar , y en el moral apodar , estimar, comparar. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

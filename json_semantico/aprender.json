@@ -1,0 +1,723 @@
+{
+  "lema": "APRENDER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Adquirir, generalmente por medio del estudio ó aplicación, el conocimiento de alguna cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He aprendido la lengua latina por arte y libros, y la castellana por uso.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 7)."
+            },
+            {
+              "texto_cita": "«En Francia ni varón ni mujer deja de aprender la lengua castellana.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 3.13 (R. 1. 649 1 )."
+            },
+            {
+              "texto_cita": "«Algunos días le acompañé en el oficio, y le aprendí de manera, que no daría ventaja en echar las bulas al que más presumiese en ello.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 3 (R. 1. 134 2 )."
+            },
+            {
+              "texto_cita": "«Cada soldado una arma solamente | Ha de aprender, y en ella ejercitarse.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 1 (R. 17. 5 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entretiene los oídos el dulce y no aprendido canto de los pequeños, infinitos y pintados pajarillos, que por los intricados ramos van cruzando.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 50 (R. 1. 394 2 )."
+            },
+            {
+              "texto_cita": "«En largas redes, en nudosos lazos [ VI ] | Presa la ligereza de sus alas; | Mudando el dulce, no aprendido canto, | En lastimero són, en triste llanto.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 3, canc. fún . (R. 69. 48 1 )."
+            },
+            {
+              "texto_cita": "«Y las aves sin dueño | Con canto no aprendido | Hinchen el aire de dulce armonía.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 2 (R. 32. 7 1 )."
+            },
+            {
+              "texto_cita": "«Las primeras letras, bien aprendidas, le ocuparán hasta los nueve años.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Gram . (R. 46. 243 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans . Con á y un infin. para expresar el conocimiento que se adquiere.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gran falta es la que llevas contigo, y así querría que aprendieses á firmar siquiera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 43 (R. 1. 494 1 )."
+            },
+            {
+              "texto_cita": "«Si, como otros quieren, alguna vez aprendió á leer, fue ya muy tarde, cuando su dignidad y obligaciones le precisaron á ello.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 301 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Si el infinitivo va con artículo, se omite la prep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni el leer ni el danzar aprender puede | Aunque está menos ruda que solía.»",
+              "autor": "Lope",
+              "referencia_obra": ", La dama boba , 2. 9 (R. 24. 306 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Es puro latinismo la construcción con infin. solo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ven pues, y desde luégo acostumbrado | Aprende como dios ser invocado.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, Geórg . 1 (R. 37. 40 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Nótese sí que un infinitivo anterior puede reproducirse con lo , ú otro neutro, como si fuese acusativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo sé hacer flores con primor notable, | Que lo aprendí de cierta hermana mía.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las flores de D. Juan , 2. 5 (R. 24. 419 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Puede atraer los pronombres pertenecientes al infin. siguiente. Lo aprendió á hacer.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprende llorando, reirás ganando.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": "."
+            },
+            {
+              "texto_cita": "«Comenzó á imitar el camino de los varones señalados que aprendieron viendo y peregrinando.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 2. 1 (65)."
+            },
+            {
+              "texto_cita": "«A los casos pasados se ha de volver los ojos para aprender, no para afligirnos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 63 (R. 25. 175 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En todos estos casos la fuente del conocimiento, el maestro, se denota con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fuera desto aprendí de un cocinero de un embajador ciertas tretas de quínolas y del parar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 3 (R. 1. 135 1 )."
+            },
+            {
+              "texto_cita": "«De las bestias han recebido muchos advertimientos los hombres y aprendido muchas cosas de importancia.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 12 (R. 1. 427 2 )."
+            },
+            {
+              "texto_cita": "«Tan grande era el deseo que en todos se vía de tenelle por su capitán y aprender dél el ejército de las armas, que á porfía daban sus nombres y con grande voluntad se alistaban.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 3. 9 (R. 30. 68 2 )."
+            },
+            {
+              "texto_cita": "«En oyéndole decir que Cristo era Cordero de Dios, luégo dejó á su maestro y se fue tras Cristo, por seguir á otro maestro mejor, de quien pudiese aprender mayor perfección.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 6 (2. 53)."
+            },
+            {
+              "texto_cita": "«Della aprenden las aves | Números dulces que trinar süaves.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo , 1 ( Obr. suelt . 1. 17)."
+            },
+            {
+              "texto_cita": "«Con él | Hablé un rato de las letras | Humanas, que le ha enseñado | La muda naturaleza | De los montes y los cielos, | En cuya divina escuela | La retórica aprendió | De las aves y las fieras.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 2. 1 (R. 7. 6 2 )."
+            },
+            {
+              "texto_cita": "«¿Cómo se aprenderán [la urbanidad y policía] de los estériles documentos de un pedagogo?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ . 3ª cuestión (R. 43. 236 1 )."
+            },
+            {
+              "texto_cita": "«Aprended de Velázquez el arte de animarlas con el encanto de la ilusión.»",
+              "autor": "",
+              "referencia_obra": "Id. Elog. de las bellas artes (R. 46. 356 2 ). —"
+            },
+            {
+              "texto_cita": "«El dice que es manso y humilde, y nos convida á que aprendamos á serlo dél.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Faces (R. 37. 83 2 )."
+            },
+            {
+              "texto_cita": "«Todos los que deseamos alcanzar el espíritu del Señor, lleguemos á él como discípulos á maestro para aprender dél.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 24 (R. 11. 345 1 )."
+            },
+            {
+              "texto_cita": "«Según de mis mayores he aprendido, | Aquella sangre real hierve en mi seno | Que al triforme Gerión de cuello erguido | Doblado yugo puso y firme freno.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 6 (R. 17. 198 1 )."
+            },
+            {
+              "texto_cita": "«A pesar de eso (el ruiseñor replica), | Si él aprendió de mí, yo de él aprendo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb . 48 (1. 78)."
+            },
+            {
+              "texto_cita": "«Bienaventurados son, Señor, estos siervos tuyos que asisten siempre delante de ti, aprendiendo de tu infinita sabiduría.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 23 (1. 371)."
+            },
+            {
+              "texto_cita": "«No quiero de hoy más aprender de los ejemplos del mundo, que son para mi condenación, sino de los vuestros, que son para mi salvación y perfección.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 23 (2. 166)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "También se dice",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprender con tal maestro.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram. Acad. Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con en , para denotar el objeto donde se fija la consideración á fin de adquirir el conocimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descubría, dice, en la imagen de la verdad su inclinación secreta la naturaleza, aprendiendo en aquella pintura los lances verdaderos de la miseración.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 4. 164)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Salvá trae",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprender de música, aprender de zapatero»",
+              "autor": "Conde",
+              "referencia_obra": "Lucanor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Adquirir el hábito de hacer ó practicar una cosá ó de proceder de cierta manera.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No inventé la tiranía, ni sus malas costumbres Tiberio las aprendió de mí, que más las padecí aprobándolas lisonjero, que en las cárceles y el cuchillo los sentenciados.»",
+              "autor": "Quev.",
+              "referencia_obra": "El entremetido (R. 23. 367 1 )."
+            },
+            {
+              "texto_cita": "«Más se me ha de agradecer á mí, que no he tenido de quien aprender virtud, que al que la hereda de sus agüelos.»",
+              "autor": "",
+              "referencia_obra": "Id. Gran Tac . 9 (R. 23. 500 2 )."
+            },
+            {
+              "texto_cita": "«Andemos juntos los dos; | Que quiero aprender de vos | La piedad y valentía.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los favores del mundo , 1. 9 (R. 20. 5 2 )."
+            },
+            {
+              "texto_cita": "«El tigre así reserva la heredada | Rabia, que en el hircano bosque umbrío | Aprendió fácil de la madre fiera.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 2 ( Fern. 7. 30)."
+            },
+            {
+              "texto_cita": "«Fuerza fue que allí aprendieses | Cuatro mil caballerías: | No dormir en cuatro días, | No desnudarse en dos meses.»",
+              "autor": "Mto.",
+              "referencia_obra": "El caballero , 1. 1 (R. 39. 289 1 )."
+            },
+            {
+              "texto_cita": "«La virtud y la gloria de mí aprendes, | Y de otros la fortuna.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 1, p. 47."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprende, hombre, á obedecer; aprende, tierra, á estar debajo de los pies; aprende, polvo, á tenerte en nada; aprende, oh cristiano, de tu Señor y tu Dios, que fue manso y humilde de corazón.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2.4 (R. 6. 125 1 )."
+            },
+            {
+              "texto_cita": "«Cada cual mire lo que le toca; los unos aprendan á gobernar en esta mujer tan prudente, santa y discreta; los otros á obedecer.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 4. 12 (365)."
+            },
+            {
+              "texto_cita": "«Vosotros, príncipes buenos, aprended á tener vuestros beneficios mismos. Vosotros, tiranos, aprended á tener vuestras crueldades propias.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 159 2 )."
+            },
+            {
+              "texto_cita": "«Aprende de este Niño á humillarte, porque quien se humillare como él en la tierra, será por él engrandecido en el cielo.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 17 (1. 343)."
+            },
+            {
+              "texto_cita": "«Aprended de mí á humillaros, á encubriros y á convidaros con caridad unos á otros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6. 44 (3. 514)."
+            },
+            {
+              "texto_cita": "«Angela me toca á mí, | Porque he aprendido de ti | A defender las mujeres.»",
+              "autor": "Lope",
+              "referencia_obra": ", El premio del bien hablar , 3. 11 (R. 24. 507 3 )."
+            },
+            {
+              "texto_cita": "«De él primero aprendieron los mortales | A robar de la tierra el centro oscuro.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd . (R. 46. 32 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Mediante la omisión del infin. ser , viene á construírse con á y un pred.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las mulitas de alquiler | De ti aprendieron á falsas, | Pues á quien llevas encima | Le derribas y le arrastras.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom . 70 (R. 69. 205 1 )."
+            },
+            {
+              "texto_cita": "«Bien pueden los aromas de tu aliento | Aprender á fragantes, si supieren.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 9, Cant. de los cant . (R. 69. 342 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Tomar de memoria ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En los días de domingo solamente entienden en oraciones y lecciones; y en los otros días, cumplidas sus tareas, hacen el mismo ejercicio: cada día aprenden algo de la Escritura sagrada.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 4. 12, § 3 (R. 6. 504 2 )."
+        },
+        {
+          "texto_cita": "«Por opinión y por uso sus fábulas [las de Samaniego] se han hecho clásicas; no hay niño que no las aprenda con facilidad y con gusto, no hay hombre hecho que no les tenga afición.»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes. del siglo XVIII (R. 19. 152 1 )."
+        },
+        {
+          "texto_cita": "«Hombres y mujeres, jóvenes y ancianos doctos é indoctos, todos se arrancaban el libro de las manos, todos aprendían sus versos, todos los aplaudían á porfía.»",
+          "autor": "",
+          "referencia_obra": "Id. Meléndez (R. 19. 113 2 ). —"
+        },
+        {
+          "texto_cita": "«¿Y no podrías, si fuese menester, aprender de memoria unos doce ó diez y seis versos que quiero escribir é insertar en la pieza?»",
+          "autor": "Mor.",
+          "referencia_obra": "Hamlet , 2. 10 (R. 2. 505)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Concebir alguna cosa por lo que aparece, ó con poco fundamento ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No los habían visto [los indios á los caballos] hasta entonces, y aprendieron con el primer asombro que eran monstruos feroces, compuestos de hombre y bruto.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 19 (R. 28. 229 1 )."
+            },
+            {
+              "texto_cita": "«Tenían aprendido que las centellas, cuando se derramaban por el aire y no volvían á caer en el volcán, eran las almas de los tiranos que salían á castigar la tierra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 4 (R. 28. 269 2 )."
+            },
+            {
+              "texto_cita": "«Julián de Alderete, con el oído en el rumor de las armas y con la vista en el avance de los españoles, aprendió que no era decente á su persona la ocupación, á su parecer mecánica, de cegar un foso cuando estaban peleando sus compañeros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 22 (R. 28. 381 1 )."
+            },
+            {
+              "texto_cita": "«Estoile, Inés, mirando | De espacio, y voime así desengañando; | Porque, aunque es parecido, | No es tanto como había yo aprendido.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hombre pobre todo es trazas , 3.15 (R. 7. 518 2 )."
+            },
+            {
+              "texto_cita": "«El cual como puso los ojos en el cintillo, luégo se dio á entender que el que le traía era don Juan de Gamboa, el que le había librado en la pendencia; y tan de veras aprendió esta verdad, que sin hacer otro discurso, arremetió su caballo hacia don Juan.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 10 (R. 1. 218 1 )."
+            },
+            {
+              "texto_cita": "«Y esto nace de dos causas : | Una de haber aprendido | Perfección con el sujeto, | Que no halló --- Otra --- »",
+              "autor": "Mto.",
+              "referencia_obra": "Lo que puede la aprehensión , 1. 1 (R. 39. 168 2 )."
+            },
+            {
+              "texto_cita": "«Aquí llegaba cuando siento estremecerse mi cuerpo --- bien así como cuando aprendemos que nos amenaza alguna grande fatalidad.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell . (R. 63. 424 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así equivoca la imaginación de los hombres la esencia y el color de las cosas, que ordinariamente se estiman como se aprenden, y se aprenden como se desean.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 5 (R. 28. 272 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Nótese la acepción Prender, y la conjugación irregular en el pretérito y tiempos afines: apriso , aprisiera , aprisiese , aprisiere ; el part. apreso (á veces apriso ), enseñado, se usaba con bien y mal como en fr. bien , mal appris , prov. malapres , y se tomaban á menudo las dos combinaciones por Dichoso, Desdichado, respectivamente.) — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Del iniquo é malicioso | Non aprehendas; | Ca sus obras son contiendas | Sin reposo.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 31."
+        },
+        {
+          "texto_cita": "«E cómo del fuego la verva curada | Veloçe s ’ aprende, universalmente | Por toda la flota fue voz divulgada | Quel rey se anegava.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 129."
+        },
+        {
+          "texto_cita": "«Aprendan los grandes bivir castamente.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 83 (29)."
+        },
+        {
+          "texto_cita": "«¿Quién le habia mostrado esta fabla, como no hobiese habido participacion de otra gente, de quien hobiese aprendido?»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 1 (R. 36. 342 2 )."
+        },
+        {
+          "texto_cita": "«Llegó la dicha galeota que avia ido en la dicha embajada, e non se pudo aprender con que venia.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 45."
+        },
+        {
+          "texto_cita": "«E porque sodes sabio muy discreto | Sería muy contento de vos apreender.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 517."
+        },
+        {
+          "texto_cita": "«Vuestra rrason infyngyda | Va contra los mal apressos, | Ssynples, ynorantes, tessos | Syn memoria é syn medida.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 260."
+        },
+        {
+          "texto_cita": "«Assy todo sabio escuche é aprehenda.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 78. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Syenpre mientes debia | Poner en las tiseras, | Dellas aprenderia | Muchas buenas maneras.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 499 (R. 57. 362 2 )."
+        },
+        {
+          "texto_cita": "«Otrosí si acaesciere que fueren dos o tres venados en uno, saber bien escatimar cual es el mayor: et para aprender bien esto, debe ir siempre á la busca con un buen montero, por quel emiende quando feciere algun yerro.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 2 ( Bibl. venat. 1. 18)."
+        },
+        {
+          "texto_cita": "«Dixo el enforcado: tus obras mal apresas | Me troxieron a esto, porque tu me sopesas.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1444 (R. 57. 272 2 )."
+        },
+        {
+          "texto_cita": "«Fue con él a su casa, et diol mucho de queso --- | Con esto el aldeano tovos por bien apreso.»",
+          "autor": "",
+          "referencia_obra": "Id. 1347 (R. 57. 269 2 )."
+        },
+        {
+          "texto_cita": "«Dixo: yo so el alfres contra esta mal apresa, | Yo justaré con ella, que cada anno me sospesa.»",
+          "autor": "",
+          "referencia_obra": "Id. 1052 (R. 57. 260 2 )."
+        },
+        {
+          "texto_cita": "«Ay viejas pitofleras, mal apresas seades.»",
+          "autor": "",
+          "referencia_obra": "Id. 758 (R. 57. 250 2 )."
+        },
+        {
+          "texto_cita": "«Sea el mal andante, sea el mal apreso | Quien a si e a otros estorva con mal seso.»",
+          "autor": "",
+          "referencia_obra": "Id. 545 (R. 57. 244 1 )."
+        },
+        {
+          "texto_cita": "«Vínose para Toledo, para aprender de aquella ciencia.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 13 (R. 51.379 2 )."
+        },
+        {
+          "texto_cita": "«Díjole --- que si él por bien tuviese, que el queria vivir algund tiempo en la su casa por aprender dél alguna cosa de cuanto bien había en él et en las sus gentes.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 6 (R. 51. 394 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«El que trabaja de te servir de grado, | Ese es bien apreso e bien aventurado.»",
+          "autor": "",
+          "referencia_obra": "S. Ildef . (R. 57. 327 1 )."
+        },
+        {
+          "texto_cita": "«Luego se aprendió mucho ahina, é comenzó á arder la rua tan fieramente, que bien la cuarta parte se ardió.»",
+          "autor": "",
+          "referencia_obra": "Conq. de Ultr . 2. 77 (R. 44. 238 1 )."
+        },
+        {
+          "texto_cita": "«E con el viento aprisose el fuego á las tiendas, e fizo muy gran daño.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. fol . 55 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Ca la enseñara el que era ende más sabedor que havie en España á esta sazon, ca lo aprisiera de Hercules.»",
+          "autor": "",
+          "referencia_obra": "Ib . fol . 8 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Ordenaron que asi como en tiempo de guerra aprendian fecho darmas por vista et por prueba, que otrosi en tiempo de paz lo aprisiesen por oido et por entendimiento.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 21. 20 (2. 213)."
+        },
+        {
+          "texto_cita": "«Quando los mozos dellos lo aprisieren, fincárseles ha en la voluntad, et membrárseles ha siempre.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 7. 9 (2. 51)."
+        },
+        {
+          "texto_cita": "«Et dixieron los sabios que tales son los mozos para aprender las cosas mientras son pequeños como la cera blanda quando la ponen en el sello, que quanto más tierna es, tanto mas aina se aprende en ella lo que está en el sello figurado.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 7. 4 (2. 46)."
+        },
+        {
+          "texto_cita": "«Acucioso debe el rey seer en aprender los saberes, ca por ellos entenderá las cosas de raiz.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 5. 16 (2. 36)."
+        },
+        {
+          "texto_cita": "«Aprenden los homes castigamientos buenos en la eglesia.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 10. 16 (1. 368)."
+        },
+        {
+          "texto_cita": "«Manda el derecho que en cada una eglesia obispal haya un maestro de gramática, que es arte de aprender el lenguaje del latin.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 37 (1. 221*)."
+        },
+        {
+          "texto_cita": "«Deben preguntar á los que se les confiesan si saben estas cosas [el Avemaria, Paternoster et Credo] --- et si dixieren que non, debengelas mostrar, et conseiarles, et mandarles que las aprendan.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 27 (1. 140*)."
+        },
+        {
+          "texto_cita": "«Jure que non pudo aver aquellas [testimonias] que querie aducir en aquellos plazos, nin apriso lo que dijieron las que aduxo primero.»",
+          "autor": "Fuero",
+          "referencia_obra": "real , 8. 15 ( O. L. 2. 48)."
+        },
+        {
+          "texto_cita": "«Quiérote facer compañia e aprender de ti.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 23 1 )."
+        },
+        {
+          "texto_cita": "«Non tiene en mucho lo que sabe nin lo que aprendió dello.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51.12 1 )."
+        },
+        {
+          "texto_cita": "«Muchos omnes fueron que nascieron ciegos --- que apresieron muchas buenas cosas.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", preámb. 1 (Knust, 67)."
+        },
+        {
+          "texto_cita": "«La sapiencia es arma del alma e espejo del seso, e ¡commo es bien apreso el que puna en demandarla!»",
+          "autor": "",
+          "referencia_obra": "Ib . 13 (Knust, 254)."
+        },
+        {
+          "texto_cita": "«El que preguntó apriso.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 12)."
+        },
+        {
+          "texto_cita": "«Despues que avien fecha su oracion fablava el fijo del rrey d ’ aquella sapiencia e d´aquel ensennamiento que avie apreso de su maestro.»",
+          "autor": "",
+          "referencia_obra": "Ib . (Knust, 9)."
+        },
+        {
+          "texto_cita": "«Dellos aprenden toda la buena sapiencia.»",
+          "autor": "",
+          "referencia_obra": "Ib . (Knust, 3)."
+        },
+        {
+          "texto_cita": "«Quanto auemos visto ante no lo sabiemos, | Se al non aprisiessemos, en balde ueuiemos.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2126 (R. 57. 212 2 )."
+        },
+        {
+          "texto_cita": "«Ca ennos primeros deue seer cuntado, | Tanto hy fue bien apreso e sobre bien guyado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1270 (R. 57. 186 2 )."
+        },
+        {
+          "texto_cita": "«Escusó a los otros, ca era mas letrado, | Fue siempre bien apriso desque ouo fablado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1160 (R. 57. 183 1 )."
+        },
+        {
+          "texto_cita": "«Achilles por yerro tóuos por affollado, | Tóuos por mal apreso e fue fuerte yrado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 654 (R. 7. 167 2 )."
+        },
+        {
+          "texto_cita": "«El Criador nos lexe bien apressos seer.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4 (R. 57. 147 1 )."
+        },
+        {
+          "texto_cita": "«Aprendrá bonas gestas que sepa retraer.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3 (R. 57. 147 1 )."
+        },
+        {
+          "texto_cita": "«Fuimos hi bien aprisos, grado al Criador.»",
+          "autor": "Appoll.",
+          "referencia_obra": "563 (R. 57. 302 1 )."
+        },
+        {
+          "texto_cita": "«Apriso bien gramátiga é bien tocar viuela.»",
+          "autor": "",
+          "referencia_obra": "Ib . 350 (R. 57. 295 1 )."
+        },
+        {
+          "texto_cita": "«Desend apriso letras, fo preste ordenado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 254 (R. 57. 48 1 )."
+        },
+        {
+          "texto_cita": "«Siempre es bien apriso qui de Dios es amado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 15 (R. 57. 40 1 )."
+        },
+        {
+          "texto_cita": "«El beso del altar significa el beso | El que dio a don Christo Judas el mal apreso.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacr . 209 (R. 57. 87 1 )."
+        },
+        {
+          "texto_cita": "«Commo era mal apriso sedie fuert embargado.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 333 (R. 57. 75 1 )."
+        },
+        {
+          "texto_cita": "«Esti es nuestro sire, e esta nuestra dama: | Siempre es bien apreso qui a ellos se clama.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 650 (R. 57. 123 2 )."
+        },
+        {
+          "texto_cita": "«Tenie muchos criados a letras aprender.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 354 (R. 57. 114 2 )."
+        },
+        {
+          "texto_cita": "«Qui con Dios se aprende duramientre impetra.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 203 (R. 57. 137 2 )."
+        },
+        {
+          "texto_cita": "«Apriso las costumbres de los buenos parientes.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 16 (R. 57. 138 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. aprender ; cat. apéndrer ; prov. aprendre , apenre , aprener ; fr. apprendre ; it. apprendere: del lat. apprendere , aprehendere , comp. de ad , á, y prendere , prehendere , prender, tomar; esto es, tomar para sí. Como se ve, aprender y aprehender son idénticos; no obstante el uso ha establecido diferencia en su empleo. Algunas veces, sin embargo, se hallan empleados uno por otro; cosa parecida al uso de reprehender , comprehender por reprender , comprender .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans.: en general. — Intrans .: 1, a , β - 1, β , β , γ . — Part. : 1, a , α , α α . — Con á : 1, a , β - 1, β , β , γ . — Con : 1, a , ε . — De: 1, a , δ , η - 1, b , β . — En: 1, a , ζ . \u0000"
+}

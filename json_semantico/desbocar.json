@@ -1,0 +1,383 @@
+{
+  "lema": "DESBOCAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Quitar la boca á una cosa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desbocar el jarro, el cántaro.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ajuar de la frontera: un jarro desbocado, un asador sin punta.»",
+              "autor": "Celest.",
+              "referencia_obra": "18 (R. 3. 67 1 )."
+            },
+            {
+              "texto_cita": "«Sacó un jarro desbocado y no muy nuevo.»",
+              "autor": "Lazar.",
+              "referencia_obra": "3 (R. 3. 84 2 )."
+            },
+            {
+              "texto_cita": "«Al un lado estaba un banco de tres pies, y al otro un cántaro desbocado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 3 (R. 1. 138 1 )."
+            },
+            {
+              "texto_cita": "«Tiene á su lado izquierdo un jarro desbocado, que cabe un buen porqué de vino.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 25 (R. 1. 458 1 )."
+            },
+            {
+              "texto_cita": "«Un jarro desbocado, | Tan sucio y sin adorno | Que pudo tener vino de retorno.»",
+              "autor": "Quev.",
+              "referencia_obra": "entremes La venta (R. 69. 285 1 )."
+            },
+            {
+              "texto_cita": "«Un jarro de agua --- desbocado y sucio.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 1. 10 (R. 18. 293 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Dícese del instrumento, como martillo, gubia, etc., que tiene gastada ó mellada la boca.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Desembocar, desaguar ( intrans. ). Con en .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Comenzó á trabajar los comarcanos --- por aquella parte por donde Guadiana desboca en el mar.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 3. 3 (R. 30. 62 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dispararse una caballería haciéndose insensible alfreno.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hipogrifo violento | Que corriste parejas con el viento, | ¿Dónde --- al confuso laberinto | Destas desnudas peñas | Te desbocas, arrastras y despeñas?»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 1. 1 (R. 7. 1 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep. Que se dispara sin obedecer al freno.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hay unas almas y entendimientos tan desbaratados como unos caballos desbocados, que no hay quien los haga parar.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf. 19 (R. 53. 341 1 )."
+            },
+            {
+              "texto_cita": "«Como caballo, desbocado y sin freno, él mismo se despeña en otras maldades.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 2. 4 (R. 60. 417 1 )."
+            },
+            {
+              "texto_cita": "«Y cuando el caballo corro | Desbocado, no peligra | Solamente el que atropella, | Sino el que lleva en la silla.»",
+              "autor": "Mto.",
+              "referencia_obra": "El valiente justiciero , 2. 4 (R. 39. 339 1 )."
+            },
+            {
+              "texto_cita": "«Desbocados del teucro los bridones | Por el llano corrían.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 6 (1. 173)."
+            },
+            {
+              "texto_cita": "«Y Aquiles al auriga, que las riendas | Volvía á los caballos, por la espalda | Clavó la pica y derribó en el polvo, | Y huyeron desbocados los bridones.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 20 (2. 280)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Desbocado es originariamente un adj. á la traza de desmemoriado , desgarbado , que se aplica á la caballería de mala boca. Parece cierto que este adj. ha dado origen al verbo en la acepción que aquí explicamos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es izquierdo y desbocado | Y muy blando de carona.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, A un caballo (R. 32. 168 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué aprovecha que el caballero sea diestro, si el caballo es desbocado?»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 63)."
+            },
+            {
+              "texto_cita": "«Sería desatino entregar las riendas de dos caballos desbocados y furiosos á un niño flaco sin arte.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, introd. (3. 132)."
+            },
+            {
+              "texto_cita": "«Su caballo, por ser algo desbocado, le llevó hasta las puertas de la ciudad.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 7 (R. 28. 98 1 )."
+            },
+            {
+              "texto_cita": "«Está ahí mi caballo overo en San Felipe, y es muy desbocado en la carrera y trotón.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 20 (R. 23. 520 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Dejarse llevar ciegamente por una pasión.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entregada á su apetito | Se desboca y se despeña | Más, mientras que tiene más | Obligaciones que pierda.»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios , 2 (R. 7. 275 1 )."
+            },
+            {
+              "texto_cita": "«Movimiento, en fin, poco mas que popular, que se detiene con la misma facilidad que se desboca.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 7 (R. 28. 353 2 )."
+            },
+            {
+              "texto_cita": "«Solo le arrastra el apetito: ciego | Se desboca en pos dél.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. á Bermudo (R. 46. 42 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Púdose creer uno y otro de un pueblo desbocado.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 15 (R. 28. 329 2 )."
+            },
+            {
+              "texto_cita": "«Apenas hubo acabado la zaguera palabra, cuando ya estaba el escudilla más limpia y enjuta que la podía dejar el gato de Marí Jimenez, que creo que no hay cosa más desbocada en toda esta tierra.»",
+              "autor": "L. de Rueda",
+              "referencia_obra": "(R. 2. 281 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con compls. que denotan el objeto favorecido ó perseguido por la pasión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como --- el vulgo en cualquier parte no es capaz de medio ni consiente freno, de tal manera se desbocó en su favor [del duque de Guisa], que --- no pararon hasta obligar al rey á salir huyendo de su corte.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 1 (R. 28. 14 2 )."
+            },
+            {
+              "texto_cita": "«Fue menester la entereza de Aixa y el poder y valimiento de los Zegríes para que no se desbocase el pueblo contra aquella parcialidad.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 50 (4. 458)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar el objeto que se procura desatentadamente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No leerá original, que no provoque | Su furia de escribir, ni obra aplaudida | A cuya imitación no se desboque.»",
+              "autor": "Forner",
+              "referencia_obra": ", sát. (R. 63. 309 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar aquello en que se procede ciegamente y sin freno.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mientras más se desboque en el ejercicio de su poder, más acorde irá con su principio.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland , 10 (R. 19. 588 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Dícese de la pasión misma.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El orgullo, no pudiendo sufrir oposición, se desboca furioso contra todo lo que encuentra establecido.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 7 (1. 98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deteneos, | Pensamientos mal nacidos, | Que os arrojáis atrevidos | Tras desbocados deseos | Que os tienen de despeñar»",
+              "autor": "Tirso",
+              "referencia_obra": ", El castigo del penseque , 2. 2 (R. 5. 77 2 )."
+            },
+            {
+              "texto_cita": "«Estos hombres de enojo desbocado y condición cerril, pueden ser útiles muchas veces.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 142 1 )."
+            },
+            {
+              "texto_cita": "«No obedezcan tus manos á tu enojo, | Persuadidas de ira desbocada.»",
+              "autor": "",
+              "referencia_obra": "Id. Focil. (R. 69. 408 1 )."
+            },
+            {
+              "texto_cita": "«Cuéstele vuestra gula desbocada | Su pueblo al mar, su habitación al viento.»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 8, silva 12 (R. 69. 309 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "met. Aplicado á otros objetos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un río se desboca y arrebata las plantas de sus alrededores.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Teod. 13 (353)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si la gracia nace de la obediencia pronta del valiño rendido á la voluntad del príncipe, causa un gobierno desbocado, que fácilmente precipita al uno y al otro.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 50 (R. 25.129 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Hablar sin medida ó consideración; y en particular desvergonzarse, prorrumpir en denuestos.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habla con cada bocado | De Mastrik, Namur y Amberes, | Aunque me tiene avisado, | Si la guerra le provoca, | Que al tiempo que se desboca | Le tire yo por un lado.»",
+              "autor": "Rojas",
+              "referencia_obra": ", No hay amigo para amigo , 1 (R. 54. 87 1 )."
+            },
+            {
+              "texto_cita": "«Con luterana desvergüenza se desbocó en sus escritos contra nuestro español.»",
+              "autor": "",
+              "referencia_obra": "Colmenares, Escritores segovianos , pl. 711 (Dicc. Autor. ). —"
+            },
+            {
+              "texto_cita": "«Con oro y buenas razones | Ganasteis notario y clérigo: | Don Jimén, ¿de qué resorte | Os valdréis para evitar | Que mi lengua se desboque?»",
+              "autor": "Hartz.",
+              "referencia_obra": "Honoria , 2. 10 (232)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con esto no quedó freno: desbocados y desearados dicen lo que no es bien que toque en las orejas de la gente humilde y pía.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 4. 4 (274)."
+            },
+            {
+              "texto_cita": "«No murmuren desbocados | Que cuando por él poseo | El estado en que me veo, | Le quito yo sus estados.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del enemigo el primer consejo , 3. 1 (R. 5. 663 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "A menudo se toma desboçado como adj. derivado inmediatamente de boca ( cp. descarado, deslenguado ): Que por costumbre dice palabras indecentes ú ofensivas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ser un señor desbocado, malcriado y boquirroto no le puede venir sino de ser melancólico, cobarde y temeroso, pues á todos es notorio que á la mujer pertenece vengarse con la lengua, y al caballero no, sino con la lanza.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. famil. 1. 25 (R. 13. 117 2 )."
+            },
+            {
+              "texto_cita": "«A un caballero si le llaman perezoso, madruga; si le llaman desbocado, calla; si le llaman glotón, témplase.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 45. (R. 13. 145 2 )."
+            },
+            {
+              "texto_cita": "«Calles de aquesta corte, imitadoras | De confuso Babel, siempre pisadas | De mentiras, al rico aduladoras, | Como al pobre severas, desbocadas.»",
+              "autor": "Tirso",
+              "referencia_obra": ", D. Gil de las Calzas verdes , 3. 18 (R. 5. 421 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo des y boca . Port., cat. desbocar ; el fr. déboucher y el it. sboccare corresponden en particular al cast. en el sentido de Desembocar. Desbocado se aplica además como adj. al cañón ó pieza de artillería que tiene la boca más ancha que lo restante del ánima; en este caso es de formación semejante á la de desbrazado , desalado , que tiene los brazos, las alas abiertas.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe qu : desboque , desboquen . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

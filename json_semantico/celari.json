@@ -1,0 +1,335 @@
+{
+  "lema": "CELAR. (I)",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Procurar con particular cuidado la conservación y aumento de una cosa ó su observancia y cumplimiento.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh cuántos jueces que son indómitos, crueles y severos, hay hoy en el imperio romano, los cuales, so color de celar la justicia, echan á perder la república!»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 65)."
+            },
+            {
+              "texto_cita": "«Pues si Dios celó tanto la honra de su conocimiento que dio á los gentiles, y del que dio á los judíos, ¿cuánto celará el que da á los cristianos, pues es mayor sin comparación que el que unos y otros tuvieron?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 48 ( Míst. 3. 220)."
+            },
+            {
+              "texto_cita": "«Y que nunca haya vicario que tenga mano de entrar, y mandar y salir, ni confesor que tenga esta libertad, sino que éstos sean para celar el recogimiento y honestidad de la casa, y aprovechamiento interior y exterior, para decirlo al perlado cuando hubiere falta.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 5 (R. 53. 326 2 )."
+            },
+            {
+              "texto_cita": "«Verdaderamente una de las cosas que más había de celar el cristiano, es la fama y honra de su prójimo: de que éstos tienen muy poco cuidado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 30, § 3 (R. 6. 164 2 )."
+            },
+            {
+              "texto_cita": "«En lo cual se ve la vanidad de aquella secta, y lo poco en que sus seguidores la tenían, pues tan mal la celaban.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 2. 8 (R. 6. 298 2 )."
+            },
+            {
+              "texto_cita": "«No sólo no se escandalizará de lo que ve padecer á ese Redentor por la gloria de su Padre, mas antes se espantará cómo no padeció más quien tanto la celaba y deseaba.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4, diál. 7, § 4 (R. 6. 566 2 )."
+            },
+            {
+              "texto_cita": "«El unigénito Hijo de Dios descendió del cielo á la tierra y tomó verdaderamente carne humana, y conversó en este mundo con los hombres, procurando la salvación dellos, y celando la gloria de su eterno Padre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 2. 30 (R. 6. 671 2 )."
+            },
+            {
+              "texto_cita": "«Mas á todos estos sacrificios excede infinitamente aquel divinísimo y sumo sacrificio que el unigénito Hijo de Dios ofreció en la cruz por la obediencia de su eterno Padre, y por celar la gloria y honra de su santo nombre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 5. 4, § 3 (R. 6. 729 1 )."
+            },
+            {
+              "texto_cita": "«Oh buen Jesú, haz que --- de tal manera procure y cele la gloria de tu santo nombre, que cualquier injuria tuya abrase y despedace mi corazón.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist . 4. 3, § 1 (R. 8. 285 1 )."
+            },
+            {
+              "texto_cita": "«Quiere que haga con El oficio de hijo para con su padre, amándole, reverenciándole, obedeciéndole y celando su honra y gloria.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 3. 14 (2. 104)."
+            },
+            {
+              "texto_cita": "«Celaban como punto de honra la honestidad y el recato de las mujeres propias.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 17 (R. 28. 293 2 )."
+            },
+            {
+              "texto_cita": "«Entiende, que aunque frises con la luna, | Los que celan tu honor, rectos varones, | Te quieren ver de la modestia amigo.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. Ya, Opicio (R. 42. 328 1 )."
+            },
+            {
+              "texto_cita": "«Celaba siempre [el padre Fabro] la Iglesia de Dios y la salud de los prójimos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de S. Ign . 3. 11 (R. 60. 64 2 )."
+            },
+            {
+              "texto_cita": "«Queremos además que el maestro de ceremonias cele con el mayor desvelo la observancia de cuanto va prevenido, y advierta al rector de cualquiera contravención que descubriere.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr . 1. 5 (R. 46. 189 2 )."
+            },
+            {
+              "texto_cita": "«Esta diputación celará la observancia del presente reglamento, y reclamará ante el Consejo de Regencia cualquiera providencia que estimare contraria á sus artículos.»",
+              "autor": "",
+              "referencia_obra": "Id. Def. de la Junta Central, apénd . 17 (R. 46. 604 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La suprema obligación de los soberanos está en celar que las leyes de la naturaleza no padezcan detrimento entre los hombres.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell . (R. 63. 414 2 )."
+            },
+            {
+              "texto_cita": "«Tampoco descuidó Junot celar que se mantuviese tranquila la populosa Lisboa.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 5 (R. 64. 120 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. Con sobre (por analogía con vigilar, velar ) ó por (siguiendo á mirar ), para expresar el objeto del celo (moderno).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Será de su cargo celar y vigilar sobre la observancia de la constitución que la Junta suprema hubiere dado al Consejo de Regencia, y le advertirá cuanto observare que sea contrario ó no conforme á ella.»",
+              "autor": "",
+              "referencia_obra": "Jovell . Def. de la Junta Central, apénd. 5 (R. 46. 587 1 )."
+            },
+            {
+              "texto_cita": "«Los regentes, el catedrático de humanidades y el maestro de ceremonias celarán con el mayor cuidado sobre este importante objeto de buena disciplina.»",
+              "autor": "",
+              "referencia_obra": "Id. RegI. col. de Calatr . 1. 5 (R. 46. 186 2 ). —"
+            },
+            {
+              "texto_cita": "«Mientras celaba [la Iglesia] por la santidad de las relaciones conyugales, mientras creaba en el seno de las familias la bella dignidad de una matrona, cubría con misterioso velo la faz de la virgen cristiana.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 27 (2. 100 ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Observar los movimientos y acciones de una persona por los recelos que se tienen de ella.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con acus. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí tengo yo sujeto | De toda mi confianza | Que con el mayor desvelo | Sabrá celar la conducta | Del desterrado.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El señorito mimado, 3. 16 (4. 310)."
+            },
+            {
+              "texto_cita": "«Yo pudiera | Citar una --- | Que para evitar los muchos | Riesgos á que vive expuesta | Una señorita joven, | Huérfana de madre, cela | Con esmero su conducta.»",
+              "autor": "",
+              "referencia_obra": "Id . La senorita malcriada , 2. 10 (7. 242) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con una prop. interr. (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Inquiere tú, sabe y cela | Quién con engaño y cautela | En traje de mercader, | Suele á Rugero traer | Cartas del conde y de Estela.»",
+              "autor": "Cald.",
+              "referencia_obra": "Lances de amor y fortuna, 3. 10 (R. 7. 50 3 ) . \"#151"
+            }
+          ]
+        },
+        {
+          "id_marcador": "γ γ )",
+          "definicion": "Con acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo no puedo (ya tú sabes | Cuánto mi tía me cela) | Salir de mi casa sola.»",
+              "autor": "",
+              "referencia_obra": "Cald . Mañana será otro día, 1. 4 (R. 7. 522 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con de , para expresar la pers. que causa el recelo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Que no me pude vengar | Deste honrado que celaba | Tanto su hermana de mí!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El desdichado en fingir , 3. 21 (R. 20. 156 2 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. Con sobre, á semejanza de vigilar (moderno).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vivían [los ermitaños] á sus anchuras, disfrutando la caridad de los fieles, sin que nadie celase sobre su conducta, que no siempre era ejemplar.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 5, p. 8."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En especial, vigilar á los dependientes ó inferiores; cuidar de que cumplan sus deberes ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Atender con esmero al cuidado y observación de la persona amada, por tener celos de ella.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sepa usted --- que una mujer á quien celan y guardan mucho, está ya medio conquistada; y que el mal humor de los maridos y de los padres no hace otra cosa que adelantar las pretensiones del galán.»",
+              "autor": "",
+              "referencia_obra": "Mor . La escuela de los maridos , 1. 6 (R. 2. 447 2 )."
+            },
+            {
+              "texto_cita": "«Don Felipe, como hombre aficionado á deshonestos amoríos, quiere librarse de una esposa que le cela.»",
+              "autor": "",
+              "referencia_obra": "Tamayo y Baus, La locura de amor , 1. 1 (8)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol. Tener celos, manifestándolo en el cuidado y vigilancia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amar y no celar no fue cordura, | Porque tener un hombre amor sin celos | Más parece ignorancia que ventura.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rim. de Burg. son 144 ( Obr. suelt. 19. 144)."
+            },
+            {
+              "texto_cita": "«Quien ama, teme, cela y desconfía.»",
+              "autor": "",
+              "referencia_obra": "Id. Los embustes de Celauro, 1. 17 (R. 24. 95 1 ) ."
+            },
+            {
+              "texto_cita": "«A su privado ha querido, | Porque os hablaba, ofender, | Que dueño debe de ser | Quien cela tan atrevido.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los favores del mundo, 1. 6 (R. 20. 3 1 )."
+            },
+            {
+              "texto_cita": "«La que no cela, no diga | Que quiere, porque el temor | Es una sombra de amor.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hombre pobre todo es trazas, 3. 1 (R. 7. 514 3 ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Zelaba este caballero tanto la honra, que con dificultad era traido á entender en alguna negociacion ni trato que le fuese movido, recelando que las mudanzas de los tiempos le forzasen hacer mudanza de su palabra.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 9 (80)."
+        },
+        {
+          "texto_cita": "«Conozco quanto zela vuestra alta Señoria la limpieza de vuestra excelente fama.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 7 (193)"
+        },
+        {
+          "texto_cita": "«Asi que zelando el buen maestre --- la vida del rey mas que la propria suya, más quisiera que en todas maneras se retraxera al monasterio.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 93 (244)."
+        },
+        {
+          "texto_cita": "«Tanto fue grande el amor que el maestre tovo siempre á la persona del rey é á celar su servicio, que nunca en los tiempos de mas adversidad lo pudieron espantar los temores.»",
+          "autor": "",
+          "referencia_obra": "Ib . 67 (180 )."
+        },
+        {
+          "texto_cita": "«Y muchos d'aquellos que siendo mortales | Biuen zelando la pública cosa.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 214 (72 2 :"
+        },
+        {
+          "texto_cita": "«Zelando la pública cosa: Acrecentando el bien común y mirando con celo por el pro de la república.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Mientra mas reynos conquiere el marido, | Mas ella zela el ya conquerido.»",
+          "autor": "",
+          "referencia_obra": "Id. Ib . 77 (27 2 )."
+        },
+        {
+          "texto_cita": "«Aquesto assi passado vino a la sabiduria de Clicie, que mucho celaba a su esposo Febo.»",
+          "autor": "",
+          "referencia_obra": "Id. Coron . 25 (14 1 ). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Otro non sepa la fabla, desto jura fagamos, | Do se çelan los amigos, son mas fieles entramos.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 634 (R. 57. 247 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. zelar , ciar ; cat. celar : it. zelare : del lat. zelare , denominativo de zelus , celo, como en gr. ζ 0 λ ` v lo es de ζ 0 λοV . La Acad. da la acepción ant. Recelar, temer, que aun no tenemos comprobada. Podría sospecharse que se funda en interpretación errada del siguiente pasaje que el Dicc. Autor. explica también equivocadamente:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Escarmentando [ Stilicón] en los sucesos infelices de Gildo y de Rufino, celó con más astucia sus intentos.»",
+          "autor": "Saav.",
+          "referencia_obra": "Cor. gót . 1, año 395 (R. 25. 274 2 ). Aquí significa Ocultar. Celado se halla, á semejanza del fr. zélé y del it. zelato , por Celoso."
+        },
+        {
+          "texto_cita": "«De sus tribulaciones escapan despojados de vicios, arreados de virtudes, émulos de lo malo, celados de lo bueno, amigos de todos y enemigos de ninguno.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 2. 88)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Se ha escrito también zelar ; pero en la 12ª. edición de su Diccionario no trae ya la Acad. esta ortografía, que se halla en las anteriores. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

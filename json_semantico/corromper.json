@@ -1,0 +1,721 @@
+{
+  "lema": "CORROMPER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Alterar y trastrocar la forma ó estado de una cosa, echar á perder, dañar ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llámanse húmedas en el grado --- cuarto, las que en su excesiva humedad, relajan, corrompen y hacen caer á pedazos todos aquellos miembros que en sus senos reciben.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Diosc. proem. (1 . 16)."
+            },
+            {
+              "texto_cita": "«Dijo Platón --- que la mujer era como la hiedra, que arrimada al tronco se sustenta verde y fresca, y apartada se seca. Más dijo, que corrompe y arranca la pared que acaricia y abraza.»",
+              "autor": "Quev.",
+              "referencia_obra": "Casa de locos (R. 23. 355 2 *)."
+            },
+            {
+              "texto_cita": "«La tierra no tiene fuerza para obrar, mas tiénela para resistir; porque ni fuego, ni agua, ni aire basta para corromperla y mudarla en otra substancia.»",
+              "autor": "",
+              "referencia_obra": "Gran . Símb. 1. 6 (R. 6. 200 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si queremos conservar bien los zumos --- debemos primero clarificarlos cociéndoles --- y después colarlos y meterlos en alguna redoma de vidrio, echándoles encima un poquito de aceite que del aire exterior los defienda y los guarde, por cuanto se corrompen muy fácilmente.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Diosc. proem. (1. 15)."
+            },
+            {
+              "texto_cita": "«Estando dos horas [la sangre] fuera del cuerpo --- se cuaja y corrompe.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 40 ( Míst . 1. 295)."
+            },
+            {
+              "texto_cita": "«Las materias más delicadas, si se corrompen, quedan más dañadas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 81 (R. 25. 218 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. Aplicado á lo inmaterial.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué vale el no tocado | Tesoro, si corrompe el dulce sueño?»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, En vano el mar fatiga (4. 306)."
+            },
+            {
+              "texto_cita": "«Corran siempre todos los ejercicios de la república, sin dar lugar á que los corrompa la ociosidad, como sucediera al mar si no le agitase el viento y le moviese el flujo y reflujo.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 71 (R. 25. 196 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Corromperse | Sentí el sosiego y libertad pasada, | Y el mal de que muriendo estó, engendrarse.»",
+              "autor": "Garcil.",
+              "referencia_obra": "canc . 4 (R. 32. 30 1 ). —"
+            },
+            {
+              "texto_cita": "«Los que primero se desordenaron fueron los que estaban más al pie de la muralla enemiga: tan presto el mayor valor se corrompe en afrenta.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 533 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, Poner en estado de putrefacción, podrir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El calor excesivo corrompe la comida; Las moscas muertas corrompen los licores.»",
+              "autor": "Terreros",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« El agua del mar se corrompería sin el flujo y reflujo.»",
+              "autor": "Terreros",
+              "referencia_obra": "."
+            },
+            {
+              "texto_cita": "«Después de tres ó cuatro días empezaba el cadáver á oler mal y corromperse, llenándose de gusanos y hediondez.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Dif. entre lo temp. y et . 2. 2, § 1 ( Míst. 4. 432)"
+            },
+            {
+              "texto_cita": "«El aire no sacudido se corrompe.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 2 (168)."
+            },
+            {
+              "texto_cita": "«Pero parece más cierto que la confianza que hasta entonces había mostrado Marta comienza á vacilar luégo que percibe el hedor que se exhala del cadáver: Ah, Señor, ya no es tiempo de pensar en restituírle la vida, porque ha comenzado a todo á corromperse.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Juan , 11. 39, nota ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú que tienes asco de ver en una sepultura abierta los huesos de otros medio podridos, has de estar todo hecho gusanos y corrompido entre siete palmos de tierra.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Dif. entre lo temp . y et. 2. 2, § 1 ( Míst . 4. 432)."
+            },
+            {
+              "texto_cita": "«Allí la colgó de la viga en que, ya corrompido é inficionando el ambiente, estaba aún el cuerpo mutilado del infeliz hermano don José Carafa.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 15 (5. 119)."
+            },
+            {
+              "texto_cita": "«Otras veces vendían sus servicios, negándose á llevarse cadáveres ya corrompidos, á menos que no se les diesen tantos escudos.»",
+              "autor": "Gallego",
+              "referencia_obra": ", Los novios, 32 (432)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Oler mal, apestar ( intrans. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Este manjar corrompe con el olor.»",
+          "autor": "Terreros",
+          "referencia_obra": "."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Causar desconcierto en el vientre ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El acedo destos frutos, si es poco, corta la cólera, y reposa el estómago y asienta el vómito; y si es demasiado le aceda y corrompe.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen . 3. 32 (2. 305)."
+            },
+            {
+              "texto_cita": "«Salamanca, tierra frigidísima, donde un jarro de agua suele corromper a un hombre.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 9 (R. 18. 398 2 )."
+            },
+            {
+              "texto_cita": "«Les corrompió [el azúcar] el vientre en tanto extremo, que en quince días no volvieron en su primera figura.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 7 (R. 18. 433 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Corromperse uno es desmayar yéndose de cámaras.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Incomodar, fastidiar, irritar ( trans. ) ( fam. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¡Vuelta al lloriqueo | Me corrompe tanta sensibilidad.»",
+          "autor": "",
+          "referencia_obra": "Breton, La independencia , 1. 3 (4. 142)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Alterar la forma ó estado de una cosa que se hallaba buena ó perfecta, estragar, pervertir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque no desterraron [los godosl la lengua latina, todavía la corrompieron con la suya.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 23)."
+            },
+            {
+              "texto_cita": "«Es relación sin corromper sacada | De la vertad, cortada á su medida.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 1 (R. 17. 4 1 )."
+            },
+            {
+              "texto_cita": "«Tradujeron la sagrada Biblia en latín y en inglés, y la corrompieron, en infinitos lugares, con glosas y anotaciones ponzoñosas y contrarias al texto.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 2. 2 (R. 60. 236 2 )."
+            },
+            {
+              "texto_cita": "«El árabe dijo bir á la cisterna, y también íubb , de que el español corrumpió algibe .»",
+              "autor": "Aldrete",
+              "referencia_obra": ", Ant . 2. 2 (190)."
+            },
+            {
+              "texto_cita": "«Corrompen [los franceses] y vician los nombres y apellidos de nuestros principales autores, llamando verbigracia á Lope de Vega López de Vega.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 65)."
+            },
+            {
+              "texto_cita": "«Es ya muy fácil señalar las causas que la alteraron [la legislación], y por mejor decir la corrompieron.»",
+              "autor": "",
+              "referencia_obra": "Joyell. Disc. sobre la legisl. y la hist . (R. 46. 296 1 )."
+            },
+            {
+              "texto_cita": "«Así fue que apenas se empezó á cultivar la poesía escénica, los mismos que la adelantaron contribuyeron á corromperla, mezclando en sus composiciones personajes o incidentes exalerados, fantásticos, imposibles.»",
+              "autor": "Mor.",
+              "referencia_obra": "Orig. disc. hist . (R. 2. 160)."
+            },
+            {
+              "texto_cita": "«Los modernos han corrompido el gusto, el idioma y la frase poética.»",
+              "autor": "",
+              "referencia_obra": "Id . Obr. póst. 3, 14 . —-"
+            },
+            {
+              "texto_cita": "«Ansí que corrompen esta santidad, y corrompen también, lo que es mayor mal, las santas costumbres.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Monte (3. 87)."
+            },
+            {
+              "texto_cita": "«En Alemania la variedad de religiones, las guerras civiles, las naciones que militan en ella, han corrompido la candidez de sus ánimos y genuidad antigua.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 81 (R. 25. 218 1 )."
+            },
+            {
+              "texto_cita": "«Estos errores, corrompiendo todos los principios de moral pública y privada, natural y religiosa, amenazan igualmente al trono que al altar.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Ética (R. 46. 251 2 )."
+            },
+            {
+              "texto_cita": "«El artista que sólo se propone halagar las pasiones, corrompiendo las costumbres, es un hombre que abusa de sus talentos y olvida la misión sublime que le ha encomendado el Criador.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Criterio , 19, § 12 (169)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue corrompiéndose [el latín] con mucha rapidez en boca del] pueblo, y no es fácil averiguar cómo le hablaba al empezar el siglo VII.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. disc. hist. (R. 2. 150)."
+            },
+            {
+              "texto_cita": "«En la misma época en que se corrompió la arquitectura en Roma, padeció la escultura notable decadencia.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. póst. 1, p. 566."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dije que la lengua castellana consiste principalmente en vocablos latinos, así enteros como corrompidos, y en vocablos arábigos ó moriscos.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 80)."
+            },
+            {
+              "texto_cita": "«Fundaron otra ciudad que se llamó Pax Auausta, y hoy corrompido el nombre, se llama Badajoz.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 3. 24 (R. 30. 86 1 ). —"
+            },
+            {
+              "texto_cita": "«Contra la naturaleza corrompida está --- la gracia divina, y contra el demonio Dios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 2 (R . 6. 123 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Violar, pervertir ó seducir á una mujer ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E Señor permitió corrompiesen las virgenes de Roma los bárbaros godos.»",
+          "autor": "",
+          "referencia_obra": "Sig . Vida de S. Jer. 1. 4 (50)."
+        },
+        {
+          "texto_cita": "«Y no se tenga en poco esta liberalidad de soltar á los cautivos corromper á las vírgenes; porque muchas leces los vencidos son vencidos con los armas de los vencedores, y los vencedores se pierden en los regalos y vicios de los vencidos.»",
+          "autor": "Guev.",
+          "referencia_obra": "M. Aurelio, 1. 21 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Júpiter convertido en forma de Diana la corrompió [á Calisto] y de los dos nació Arcas.»",
+          "autor": "Mena",
+          "referencia_obra": ", 17 (101 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Sobornar, cohechar con dádivas ó de otra manera ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni caricia, interés ni ofrecimiento | Jamás á corromper bastó á ninguno.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 32 (R. 17. 118 1 )."
+            },
+            {
+              "texto_cita": "«Los embajadores son espías públicas, y sin fallar á la ley divina ni al derecho de las gentes, pueden corromper con dádivas la fe de los ministros.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 79 (R. 25. 213 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fueron corrompidos á poder de dinero para que ayudasen á poner en efecto esta maldad.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 6 (R. 30. 437 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Pervertir, apartar de las buenas costumbres ó principios ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La instrucción que trastorna los principios más ciertos la que desconoce las verdades más santas, la que sostiene y propaga los errores más funestos, ésa es la que alucina, extravía y corrompe los pueblos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. 1 a . cuestión (R. 46. 232 1 )."
+            },
+            {
+              "texto_cita": "«Corrompieron su alma con los vicios de la ligereza, ingratitud y falta de vergüenza.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 405 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Corromperse en las costumbres.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La inmensidad de los deseos que en vida experimentamos, aunque varios y con harta frecuencia extraviados, se dirigen todos á la felicidad: esto busca el sabio como el necio, el virtuoso como el corrompido.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Ética, 28 (453)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Se aplica en sentido análogo á cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Jesucristo condenaba sus máximas corrompidas.»",
+              "autor": "",
+              "referencia_obra": "Scio, Gén . 41. 55 , nota."
+            },
+            {
+              "texto_cita": "«Virgilio --- escribió su Eneida en el siglo más corrompido de Roma, cuando ya ni había creencias ni costumbres.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos, 2, p. 50 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se dirá también que la instrucción corrompe, y es verdad.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. 1ª. cuestión (R. 46. 231 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De la qual [fortaleza] se ha de fornescer de tal manera qualquiera que face profesion en la orden de la caballeria, que ni el amor de la vida, ni menos el temor de la muerte le corrompa para facer cosa que no deba.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 13 (211)."
+        },
+        {
+          "texto_cita": "«Nin los disfavores lo enflaquecieron, nin las pérdidas lo alteraron, nin lo corrompieron los partidos.»",
+          "autor": "",
+          "referencia_obra": "C rón. Álv. de Luna , 67 (180) ."
+        },
+        {
+          "texto_cita": "«Fortuna et sus fundamientos, | Poniendo el mundo en su rueda, | Non creays que iamas pueda | Corromper mis pensamientos.»",
+          "autor": "",
+          "referencia_obra": "Canc . de Stúñ . p. 351."
+        },
+        {
+          "texto_cita": "«Et es imposible natural el sol estante ser escuro el cielo, y estante el cielo corromperse, y el fuego estante ser frio y corromperse.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1. 2 (R. 36. 345 1 )."
+        },
+        {
+          "texto_cita": "«Porque primeramente vemos que el cuerpo se corrompe, allí no hay bienaventuranza.»",
+          "autor": "",
+          "referencia_obra": "Ib. proemio (R. 36. 339)."
+        },
+        {
+          "texto_cita": "«Bivia syn orden asas largamente, | Enbuelta en pecados é muy corronpida.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p . 290. — - Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Que con jues lo auemos que le non corronpe pecho.»",
+          "autor": "Pal.",
+          "referencia_obra": "1389 (R. 57. 470 1 )."
+        },
+        {
+          "texto_cita": "«Vendicha [tú, Maria] la doncella que nunca corrompiste.»",
+          "autor": "",
+          "referencia_obra": "Ib . 733 (R. 57. 448 1 )."
+        },
+        {
+          "texto_cita": "«Al comienzo fueron llamados nebís et por el tiempo corrompióse este vocablo, et dícenlos neblís.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 2 ( Bibl. venat. 3. 160)."
+        },
+        {
+          "texto_cita": "«Por tirar á las partes ocasión que non corronpan los testigos, mandamos ---»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 508)."
+        },
+        {
+          "texto_cita": "«Debemos creer, et es razon et verdad, que la divinidat que era ayuntada á la humanidat de Jesucristo, et el su poder era et es tamaño que así fizo sotil á la humanidat que non debió corromper nin corrompió á la bendita Señora Sancta María.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Lib. de los est . 2. 8 (R. 51. 350 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Vieron que lo non podian corromper por cobdicia .»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 23 (R. 51. 140 2 )."
+        },
+        {
+          "texto_cita": "«El que la mujer virgen corrompe tenudo es, por tal de menguar é emendar en su pecado, de la meter en orden ó de la casar, ó de la dar otro buen consejo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 20 (R. 51. 134 1 )."
+        },
+        {
+          "texto_cita": "«E cierto es que la ira es el mayor enemigo que ha el home de aquellos que corrompen el regno del alma.»",
+          "autor": "",
+          "referencia_obra": "lb . 13 (R. 51. 118 1 )."
+        },
+        {
+          "texto_cita": "«Todos los omes de la tierra auien corrompida su carrera e ensuziada su vida.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 2. 54 (199 1 )."
+        },
+        {
+          "texto_cita": "«Corrompieron gran partida de España diziendo mal de la virginidad de Santa Maria.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 50 (185 2 )."
+        },
+        {
+          "texto_cita": "«Corrompiolos él [Teodisco los libros de san Isidro] en manera de fe.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 49 (183 2 )."
+        },
+        {
+          "texto_cita": "«Sy non porque corrompen los omes las palabras e las mudan, lo que dizen moneda, numeda [de Numa] deuien dezir.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 107 (66 2 )."
+        },
+        {
+          "texto_cita": "«Decimos que el que comprase alguna cosa del personero de algunt home corrompiéndolo maliciosamente por alguna cosa que le diese ol prometiese á dar porque le vendiese aquella cosa por menos prescio de lo que valie --- non la podria ganar por tiempo.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 29. 11 (2. 738)."
+        },
+        {
+          "texto_cita": "«Non deben seer sin pena los contendores que corrompen á los jueces que los han de judgar dándoles ó prometiéndoles algo porque judguen torticeramente.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 22. 26 (2. 678)."
+        },
+        {
+          "texto_cita": "«Et otrosí si fuese pleyto en razón de alguna moza que dicen que era corrompida ---»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 14. 8 (2. 506)."
+        },
+        {
+          "texto_cita": "«Ca si el home face cortar á si mismo el miembro de su cuerpo quando es corrompido, porque nol corrompa los otros ---»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 8. 2 (2. 56)."
+        },
+        {
+          "texto_cita": "«Et todo ome que corrompiere á otro por ruego, o por algo quel dé o quel prometa, o por algun engaño, e le fecier decir falso testimonio, el que lo corrompió, e el que dijo la falsedat, ayan la pena de los falsos.»",
+          "autor": "Fuero",
+          "referencia_obra": "real, 2. 8. 13 ( O. L. 2. 47)."
+        },
+        {
+          "texto_cita": "«Asi como el enfermo en quien sé corrompe la cólera et la sangre et la flema é los otros humores, que ge lo non puede toller sinon salvo un buen físico.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 32 1 )."
+        },
+        {
+          "texto_cita": "«Non alcedes vuestro clamor á Dios con nescedad nin con voluntades corronpidas.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 2 (Knust, 90)."
+        },
+        {
+          "texto_cita": "«E si por ventura el iuez fuere corrompido por precio é condempnare aquel que non devie, el que lo corrompió hy el iuez deven seer penados segund la ley cuemo falsos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 5. 7. 8 (96; *corrumpió)."
+        },
+        {
+          "texto_cita": "«Estonz aquel que demostró el escripto, si pudiere provar el escripto por buenos testigos que es bueno é non corrompido ---»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 5. 16 (43; * corrumpido)."
+        },
+        {
+          "texto_cita": "«E tod omne que corrompe á otri por ruego ó por enganno, é le faz dezir falso testimonio, pues que esto fuere provado, el que lo corrompió, é la testimonia que dixo falsiedad por mala cobdicia, sean ambos iusticiados cuemo falsos.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 4. 6 (; * corrumpe --- corrumpeó)."
+        },
+        {
+          "texto_cita": "«En bien yvan los griegos poniendo las feridas, | Auien de fieras guisas las azes corrompidas.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1896 (R. 57. 205 2 )."
+        },
+        {
+          "texto_cita": "«Fagamos lo que suele el bon maestro fazer, | Que quier la carne mala de la otra toger, | Que la que es sana non poda corromper. | Ermanos, yerua mala, diz, non faga rayz.»",
+          "autor": "",
+          "referencia_obra": "lb . 1691 (R. 57. 199 2 )."
+        },
+        {
+          "texto_cita": "«Fuerte yba la envidia los sabios corrompiendo.»",
+          "autor": "Berc.",
+          "referencia_obra": "Loores, 55 (R. 57. 95 1 )."
+        },
+        {
+          "texto_cita": "«Se algunt lego quisiese corronper esta constitucion sea escomungado.»",
+          "autor": "Conc. de Coyanza",
+          "referencia_obra": ", año 1050 ( Muñoz , F . 215)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. corromper; cat . corromprer; prov . corrompre, corrumpre; fr. corrompre; it . corrompere: del lat. corrumpere, compuesto de con, cum, y rumpere, romper, esto es, romper el conjunto ó completamente; en lo moral, ofrece la misma metáfora, en sentido contrario , que integer, íntegro (Bréal y Bailly). En lugar de corrompido ha sido usual en todos los tiempos de la lengua corrupto , tomado directamente del latín",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El P. Labbe considera losanje como corrupto de loxangle.»",
+          "autor": "Monlau",
+          "referencia_obra": ", Dicc. etim. p. 398."
+        },
+        {
+          "texto_cita": "«Un aire corruto en hora menguada, trabajando en una viña me trabó mis miembros.»",
+          "autor": "Quev.",
+          "referencia_obra": "Gran Tac . 21 (R. 23. 522 1 )."
+        },
+        {
+          "texto_cita": "«Es maldad de perversa intención y entendimiento corrupto y de conciencia derramada decir un hombre las faltas ajenas de que no ha sido testigo.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud. 3. 7 (R. 18. 455 1 )."
+        },
+        {
+          "texto_cita": "«Dejando á ti del bien eterna fuente, | Con ansia tan ardiente, | En aguas detenidas | De cisternas corruptas y podridas | Se echó de pechos ante tu presencia.»",
+          "autor": "León",
+          "referencia_obra": ", Poes . 1, En el profundo, (4. 364)."
+        },
+        {
+          "texto_cita": "«Y el mismo ejemplo se puede poner en el aire corrupto de la peste.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 1. 27, § 1 (R. 6. 255 1 )."
+        },
+        {
+          "texto_cita": "«Todos los españoles tienen en este tiempo y usan de una lengua común que llamamos castellana, compuesta de avenida de muchas lenguas, en particular de la latina corrupta.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 1. 5 (R. 30. 6 1 )."
+        },
+        {
+          "texto_cita": "«Año de noventa y ocho | Y entrar en noventa y nueve, | Agua y nieve | Y vientos bravos corrutos.»",
+          "autor": "Encina",
+          "referencia_obra": ", en Mart. de la Rosa , 2, p. 151."
+        },
+        {
+          "texto_cita": "«Hijos, estará corruta la letra; por trece tres.»",
+          "autor": "Celest.",
+          "referencia_obra": "9 (R. 3. 41 2 )."
+        },
+        {
+          "texto_cita": "«Si esta fama se escribe corrupta ó mentirosa ---»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Gener. 1 (R. 68. 698 1 )."
+        },
+        {
+          "texto_cita": "«Algunas órdenes, que en algunos monesterios estaban corruptas é disolutas.»",
+          "autor": "",
+          "referencia_obra": "Id. íb. 26 (R. 68. 709 2 )."
+        },
+        {
+          "texto_cita": "«Purga [el físico] el estómago de los humores corruptos y excesivos ó nocivos.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "8 (R. 51. 351 2 )."
+        },
+        {
+          "texto_cita": "« Que nunca puede ser junto | En un cuerpo perfeçion, | Salvo toda corrupçion | Pues en sy es tan corruto.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p. 366."
+        },
+        {
+          "texto_cita": "«Nin me viene bien… | Disputar con un corruto.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 167."
+        },
+        {
+          "texto_cita": "«Omes de conçieçia non sean omisiados, | Nin por algunos corruptos nin mançebos quexados.»",
+          "autor": "Pal.",
+          "referencia_obra": "678 (R. 57. 446 1 )."
+        },
+        {
+          "texto_cita": "«Algunos han el apetito corrupto é desordenado, así como los pecadores é los malos.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 65 (R. 51.192 2 )."
+        },
+        {
+          "texto_cita": "«E esta pena misma sufra todo maestro que fuere osado de ensennar á los mozos tales libros corruptos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 3. 11 (192). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

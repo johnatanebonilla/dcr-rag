@@ -1,0 +1,87 @@
+{
+  "lema": "ATERIRSE",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Pasmarse de frío. La Academia y Bello dicen que no se usa sino en las inflexiones que acaban en i ó cuya desinencia principia por i . No hemos visto usado sino el infin. en las gramáticas y diccionarios y el part.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Arroyos y chapatales, | Dehesas y colmenares | Apartados, | Do viérades atollados | Acemileros caídos, | Mozos de espuelas mojados, | Y los pajes ateridos | En la silla.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 3, Vida de corte (R. 32. 222 1 )."
+        },
+        {
+          "texto_cita": "«Reducido Vitelio con inmenso trabajo á lugar más alto, condujo también lo restante del ejército, alojando aquella noche sin bagaje y sin fuego, la mayor parte desnudos ó con el cuerpo aterido.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Tác. An . 1 (1. 57)."
+        },
+        {
+          "texto_cita": "«La luna el negro coche | Cubre de helado cristal, | Y llegarás aterido.»",
+          "autor": "Lope",
+          "referencia_obra": ", El cuerdo en su casa , 1. 2 (R. 41. 443 3 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , que expresa la causa; pero apenas se usa en otra combinación que la que ofrece el siguiente ejemplo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gran gloria es matar un león; mas mucho mayor fue matarlo en este tiempo, cuando las manos estaban ateridas de frío y apenas podían apretar la espada.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 4, § 3 (R. 8. 128 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á cosas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fonseca, ya las horas | Del invierno aterido, | Aunque tarde, se fueron, | Y su vez agradable permitieron | Al céfiro florido.»",
+          "autor": "Rioja",
+          "referencia_obra": ", Al verano (R. 32. 283 1 )."
+        },
+        {
+          "texto_cita": "«Con el sereno hibierno comprimido | Yace el terreno, seco y aterido.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars . 7 ( Fern. 7. 177)."
+        },
+        {
+          "texto_cita": "«No más tierna la aurora | Sobre la flor del aterido prado | Su blando aljófar llora.»",
+          "autor": "Lista",
+          "referencia_obra": ", Poes. filosof. 1 (R. 67. 300 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desque le vi tan aterido | E horar tan bravamente, | Trabaié que de presente | Pudiese ser acorrido.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ, p. 164. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Con la nieve et con el viento e con la elada fria | Estaba la culebra medio amodorrida; | El omen piadoso, que la vido aterida, | Dolióse mucho della, quísole dar la vida.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1323 (R. 57. 269 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "En port. hay aterido é inteiriçarse, arrecirse; en it. intirizzare, intirizzire, entorpecer, aterirse: uno y otro salen de intero, inteiro, entero, tomado en el sentido de tieso, duro. Diez supone con verosimilitud que aterirse resultó de una forma correspondiente á aquellas, mediante el trastrueque de prefijos. Habla en favor de esta explicación la circunstancia de haber muchos verbos formados con en que han cedido el puesto á otros formados con á , vr. gra. embrasar abrasar, empestar apestar, empiadar apiadar, encertar acertar, enclarar aclarar, enfear afear, enfogar ahogar, enforcar ahorcar, enforrar aforrar, engarrar agarrar, enrasar arrasar, envergonzar avergonzar, etc. Terreros dice que en muchas partes de Castilla se usa aterecirse ; Nebrija trae aterecerse, aterecido ; y como enterecerse se halla en Herr. Agric . gen. 3. 7 (3. 300), el caso es idéntico. Aterir pudo salir de aterecer cuando coexistían contir contecer, gradir gradecer, padir padecer. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

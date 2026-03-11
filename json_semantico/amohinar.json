@@ -1,0 +1,123 @@
+{
+  "lema": "AMOHINAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Causar mohina ó enojo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amohinábanle sus flaquezas de estómago, sus vaguidos de cabeza, su modo de hablar con más repulgos que sus tocas, y finalmente su inutilidad y sus vainillas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 5 (R. 1. 164 2 )."
+            },
+            {
+              "texto_cita": "«Paréceme, Cloe, que te enojas; | Mi celo es pío; si esto te amohina, | Ríete hasta que escupas las quijadas.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. Aunque Ovidio (R. 42. 319 1 )."
+            },
+            {
+              "texto_cita": "«¿No te cansa y te amohina | Tanto entrar, tanto partir?»",
+              "autor": "Lope",
+              "referencia_obra": ", El caballero de Olmedo , 2 . 1 (R. 34. 373 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí fue el gritar del pueblo, aquí el amohinarse el tio alcalde, aquí el desmayarse Preciosa, y el turbarse Andrés de verla desmayada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 116 1 )."
+            },
+            {
+              "texto_cita": "«Amohinábase el perro, y dando ladridos y aullidos no paraba en tres calles.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2, pról. (R. 1. 404)."
+            },
+            {
+              "texto_cita": "«Los oídos quieren oir cosas placenteras y vanas, y historias de vidas ajenas, y amohínanse si habláis cosas honestas y graves.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4, diál. 6 (R. 6. 559 2 )."
+            },
+            {
+              "texto_cita": "«Esto que le he dicho, baste; | Que por Dios, si me amohino, | Que ha de llevar las señales | De la cadena en el cuerpo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El condenado por desconfiado, 3. 11 (R. 5. 199 3 )."
+            },
+            {
+              "texto_cita": "«Amohinóse el despensero, creyendo mal recompensado su celo en favor de su amo.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1. 5 (4. 21 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar la causa del enojo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amohinóse mucho desto el ventero, y amenazóle que, si no le pagaba, que lo cobraría de modo que le pesase.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 17 (R. 1. 289 2 )."
+            },
+            {
+              "texto_cita": "«Amohinóse Menga de esto.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El pretendiente al revés, 3. 17 (R. 5. 42 3 ). Con con , para expresar la ocasión del enojo."
+            },
+            {
+              "texto_cita": "«Es algo teatrina | Mi condición, y va siempre de gorja, | Y con tanto boato se amohina.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Jovino á Poncio (R. 46. 48 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vengo por seis raciones | Que me deben: que amohina | Ver que sobren á Cristina. | Y resobren á Quiñones, | Y que falten para mí.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La entretenida, 1 ( Com . 2. 192)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer enojoso ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Daría muchas gracias á Dios si fuese sorda y tartamuda, partes que amohinan las conversaciones y dificultan las visitas.»",
+          "autor": "Quev.",
+          "referencia_obra": "Calid. de un casam . (edic. de Sancha, 2. 79)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y mohino, mohina.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "- mohi - forma naturalmente dos sílabas; pero cuando el acento cae fuera de esta combinación, se admite la sinéresis, como se ve en el amohinóse de Tirso . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

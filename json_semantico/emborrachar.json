@@ -1,0 +1,191 @@
+{
+  "lema": "EMBORRACHAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer beber vino u otro licor hasta perder la cabeza ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se puede dar a beber de un vino más o menos, y de un vino bueno y otro mejor, y embriagar y emborrachar a uno más o menos.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Concep. 6 (R. 53. 401 2 )."
+            },
+            {
+              "texto_cita": "«Y cuando el rey David usó de tantas maneras de medios para encubrir el hurto de Bersabé, mandando venir al marido de la guerra, y combidándolo a cenar y emborrachándolo en la cena ---»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 19, § 1 (R. 6. 70 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué mucho, dijo don Cleofás, si es tabernero y puede emborrachar a la fortuna?»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo, Coj. 2 (R. 33. 23 2 )."
+            },
+            {
+              "texto_cita": "«Hamlet en el desorden y alegría de la mesa, logró emborrachar a todos los grandes.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet, 1 , nota 1 (R. 2. 555 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Beber vino u otro licor hasta perder la cabeza; perder el uso libre racional de las potencias con el exceso de la bebida.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Teme [el melancónico] donde no hay que temer, y llora si se emborracha.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía, 3. 20 (174 2 )."
+            },
+            {
+              "texto_cita": "«Descuidáronse, hinchendo las panzas de vino de lo que hallaron en una hacienda de pesca, de manera que todos o la mayor parte se emborracharon.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 17 (R. 18. 469 1 )."
+            },
+            {
+              "texto_cita": "«A mí me bastara una botella, porque no se trata de emborracharse, sino de que Marta con sus pollos brinde una vez a la salud de usted.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 246 1 )."
+            },
+            {
+              "texto_cita": "«El príncipe de Gales se emborracha todas las noches: la borrachera no es en Inglaterra un gran defecto.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 163."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Emborráchanse con cierto brebaje que hacían de trigo, y le llamaban celia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 3. 10 (R. 30. 70 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Emborracharse de aguardiente.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram . Salvá , Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Causar embriaguez. Ordinariamente se usa en absol.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Este [vino de maíz] llaman en el Pirú sora, y es prohibido por ley, por los graves daños que trae emborrachando bravamente.»",
+          "autor": "Acosta",
+          "referencia_obra": ", Hist. Ind. 4. 26 (154 2 )."
+        },
+        {
+          "texto_cita": "«Se abstenían no sólo de todo aquello que podía causarles embriaguez, sino también de las uvas y pámpanos: no porque la uva y el pámpano emborrache, sino por el peligro que había, comiendo el pámpano, de despertar el deseo de comer la uva, y comiendo la uva, de provocar el apetito a beber el mosto y el vino.»",
+          "autor": "Quev.",
+          "referencia_obra": "Vida dev. 1. 23 (R. 48. 268 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión, Atontar, adormecer ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Belesa es una hierba que emborracha las ovejas.»",
+              "autor": "Covarr.",
+              "referencia_obra": "sb. voc. embelesado ."
+            },
+            {
+              "texto_cita": "«Como el más alto grado de la dignidad esencial del hombre sea la razón natural, la cual del todo sepulta y ahoga este vicio [la lujuria], dejando por entonces al hombre hecho una bestia bruta con la fuerza del deleite, que del todo lo emborracha y empapa sus sentidos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 15, § 1 (R. 11. 330 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No estés dormido ni emborrachado en cosas de este mundo.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Ven. Esp. Santo, 1 (2. 237)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Enajenar, sacar de si con el exceso del deleite o la pasión ( trans .) . Hoy se diría más bien embriagar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sólo el vino emborracha, sino otras muchas cosas, como la cerveza, los madroños, la cólera, la afición, etc.»",
+              "autor": "Covarr.",
+              "referencia_obra": "s. v ."
+            },
+            {
+              "texto_cita": "«Tan bien emborracha la ira al ánimo como el vino al cuerpo.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 4, instrucc . § 4 (7. 236)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo seré entonces harto cuando apareciere tu reino, tu gloria, que nos ha de emborrachar de su deleite y abundancia.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 3 (3. 88)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Emborrachadas de aquel vino celestial, no se acuerdan.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Concep . 7 (R. 53. 404 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de en , que denota acto de reducir a cierto estado, y borracho. Port. emborrachar; cat. emborratxar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

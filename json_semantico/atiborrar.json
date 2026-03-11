@@ -1,0 +1,54 @@
+{
+  "lema": "ATIBORRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Llenar alguna cosa (como una silla, una enjalma) de borra, apretándola de suerte que quede repleta ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Llenar con exceso. Con de. — Part.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Después, entapizando toda esquina | Con un pliego de marca, atiborrado | De horrible titulón y hambre canina --- | Gritaré á los que pasan ---»",
+          "autor": "Forner",
+          "referencia_obra": ", Exequias de la lengua castell . (R. 63. 420 1 )."
+        },
+        {
+          "texto_cita": "«Ni habrá diario, ni gaceta, ni biblioteca mensual que no salga atiborrada de nuestras obras.»",
+          "autor": "Mor.",
+          "referencia_obra": "Derr. de los pedantes (R. 2. 567 1 )."
+        },
+        {
+          "texto_cita": "«Con esa perenne lluvia de alusiones y de ocultas diatribas contra determinados sujetos de que ven algunos atiborrado el Quijote, no sólo se afea el carácter de Cervantes, haciéndole malévolo y vengativo, sino que también se le amengua y achica el entendimiento.»",
+          "autor": "Valera",
+          "referencia_obra": ", Disert . p. 33."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Atracar, hartar ( trans. ) ( fam. ). Más comúnmente se usa como refl.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Déjame comer lo que me envía diariamente, en tres platos y un gran tazón, Mr. Guyot, artista restaurador, con lo cual me atiborro.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 2, p. 292."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Parece fusión de los dos temas atibar y borrar ( emborrar ), á la manera de los que con tanta agudeza explica N. Caix ( Zeitschrift für romanische Philologie , 1, 425 sgs.), y de que no faltan ejemplos en cast. como borbotar = bor ( bollar ) + botar , y el bogotano matroz = m ( atar ) + atroz. Atibar es sin duda voz antigua castellana, pues se usa en América con el mismo sentido que el val. tibar , ó sea Sufrir, como voz de carpintería, y en la forma atipar vale en mall. recalcar (significación que corresponde en cast. á estivar ) y además atracar, saciar; en cat. se usa en este sentido el mismo verbo. Atibar, tibar, estivar se refieren al latín stipare como el sicil. attipari , tippari , stipari ; consideróse falsamente como prefijo la parte inicial, y dejado en el un caso lo que parecía tema, se formó en el otro una nueva voz con diferente prefijo. Cp. ATREVER . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

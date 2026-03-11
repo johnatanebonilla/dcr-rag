@@ -1,0 +1,813 @@
+{
+  "lema": "CONFORMAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Establecer armonía entre personas ó cosas, concordar, ajustar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo acus. los objetos que quedan conformes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si es verdad | Que me queréis, y el amor | Ha conformado á los dos, | Mostraldo aquí.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", No hay mal que por bien no venga, 2. 7 (R. 20. 186 1 )."
+            },
+            {
+              "texto_cita": "«Pero cuando son en todo | Iguales los dos sujetos, | No hay, si el amor los conforma, | Más paraíso en el suelo.»",
+              "autor": "",
+              "referencia_obra": "Id. El examen de maridos, 3. 16 (R. 20. 486 2 )."
+            },
+            {
+              "texto_cita": "«¡Qué reñidos se apartaron, | Y qué fácil conformaron | Otra vez las voluntades!»",
+              "autor": "",
+              "referencia_obra": "Id. La cueva de Salamanca , 2 (R. 20. 93 1 )."
+            },
+            {
+              "texto_cita": "«Tú rindes ánimos, juntas corazones, conformas almas divididas.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 1 (29)."
+            },
+            {
+              "texto_cita": "«No cesaban --- de recibir y mandar órdenes á todo el país, de allanar dudas y conformar competencias.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 21. 527 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part . (raro; en su lugar se dice conforme ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaban diferentes y encontrados; | Contaré la elección tan porfiada, | Y cómo al fin quedaron conformados,»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 36 (R. 17. 133 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo acus. uno de los objetos, va el otro precedido de con , que expresa aquí congruencia ó conformidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Queriendo conformar la lengua castellana con la latina, en los semejantes vocablos quitan siempre la e donde la latina no la pone.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Mayans, 45)."
+            },
+            {
+              "texto_cita": "«De que el diablo ve que el paciente conforma su voluntad con la divina, tiéntale por vía de impaciencia.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 3. 6 ( Míst . 3, 52)."
+            },
+            {
+              "texto_cita": "«Conformando más su voluntad con la de sus émulos que con la del rey, vivía en su casa libre de negocios aunque no de pretensiones.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 2 (R. 21. 90 1 )."
+            },
+            {
+              "texto_cita": "«No hay mayor argumento para creer que uno habla de corazón, que verle hacer lo que dice, y conformar la vida con la doctrina.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 4, § 11 (R. 8. 139 1 ) ."
+            },
+            {
+              "texto_cita": "«Desta manera entendemos aquí á Dios, estrechándolo y conformándolo con la medida de nuestro entendimiento.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. 2. 2 (R. 8. 443 2 )."
+            },
+            {
+              "texto_cita": "«Desea conformar la vida que vive con la fe que profesa.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. med. 21, § 2 (R. 8. 583 2 )."
+            },
+            {
+              "texto_cita": "«Esta misma fe le obligaba á esmerarse en la virtud y á conformar la vida con su creencia.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 2. 10 (R. 60. 427 1 )."
+            },
+            {
+              "texto_cita": "«Conformad mi espíritu con vuestro Espíritu y mi pequeñez con vuestra grandeza.»",
+              "autor": "",
+              "referencia_obra": "Id. Flos SS. Pentec. ( Vida de Cristo, 313) ."
+            },
+            {
+              "texto_cita": "«Todo tu estudio sea conformar tu vida con la del Salvador.»",
+              "autor": "Estella",
+              "referencia_obra": ", Van. del mundo, 3 ( Míst. 4. 5)."
+            },
+            {
+              "texto_cita": "«Si salí desnudo del vientre de mi madre, y desnudo tengo de volver á ella, no es mucho que viva desnudo al modo dicho, conformando el medio de la vida con la entrada y salida de ella.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1. 10 (1. 108)."
+            },
+            {
+              "texto_cita": "«No dijeron: Maestro, si quieres --- sino absoluamente: queremos; pretendiendo traer la voluntad de Cristo á la suya, y no conformar la suya con la de Cristo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 23 (2.159)."
+            },
+            {
+              "texto_cita": "«Esto es hacer con propiedad mi oficio, | Y conformar el mío con tu gusto.»",
+              "autor": "Valb.",
+              "referencia_obra": "Grand. mej. 1 (24)."
+            },
+            {
+              "texto_cita": "«Con la grave embajada convenientes | Ojos y traje y parecer conforma.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 2 (R. 17. 418 1 )."
+            },
+            {
+              "texto_cita": "«Aquel tribuno Curio que elocuente | Conformar supo lo eficaz del labio | Con lo feroz del corazón valiente.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 1 ( Fern. 7. 25)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No consintáis que se os haya dado de balde un tan precioso dechado, sino conformaos con él y reformaos en vuestro espíritu.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 3. 16 (R. 6. 428 1 )."
+            },
+            {
+              "texto_cita": "«Es cosa maravillosa el cuidado que pone el Espíritu Santo en conformarse con nuestro estilo, remedando nuestro lenguaje.»",
+              "autor": "León",
+              "referencia_obra": ", Cant. pról. (4. 2). —"
+            },
+            {
+              "texto_cita": "«Con la lengua hebrea se conformó la castellana en no variar los casos.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Mayans, 32)."
+            },
+            {
+              "texto_cita": "«La virtud consiste más principalmente en el constante deseo de seguirla [la ley de Dios], y en que todas nuestras ideas y sentimientos se conformen con ella.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Moral relig. (R. 46. 260 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En la misma construcción y con sentido análogo se usa á , que expresa la conformidad mediante el concepto de aproximación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero el Espíritu Santo, que pretendía conformalle del todo á la imagen de Jesucristo, le inspiró deseo desta virtud.»",
+              "autor": "Palma",
+              "referencia_obra": ", Vida de G. de la Palma , p. 89."
+            },
+            {
+              "texto_cita": "«No es la menor prudencia conformar el estilo y la materia del sermón al auditorio; de una manera se ha de predicar al príncipe y sus consejos, á los nobles y á los doctos, que á una multitud que fuese vulgo.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 1. 20 (77)."
+            },
+            {
+              "texto_cita": "«El artífice que encierra en oro alguna piedra preciosa, la conforma á su engaste.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Cordero (3. 407)."
+            },
+            {
+              "texto_cita": "«¿Roagado os endurecéis? | No á la sangre que tenéis | La condición conformáis.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Ganar amigos, 2. 12 (R. 20. 350 3 )."
+            },
+            {
+              "texto_cita": "«Y conformando al tuyo su desprecio, | Lo tendrán por tu amor en sumo precio.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 6 (R. 17. 450 1 )."
+            },
+            {
+              "texto_cita": "«Hasta los jueces del territorio perdieron de vista el norte á que antes conformaban sus procedimientos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Jurisd. del Cons. de las órd. (R. 46. 474 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Será preciso usarla [la voz gusto ] para conformarnos al lenguaje común.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos, 1, p. 10. —"
+            },
+            {
+              "texto_cita": "«¡Qué mal el cuerpo al alma se conforma, | Pues fue de tan hermosa arquitectura | La materia cristal, bronce la forma.»",
+              "autor": "Lope",
+              "referencia_obra": ", Rim. de Burg. son. 21 ( Obr. suelt. 19. 21)."
+            },
+            {
+              "texto_cita": "«A más mi buril se atreve, | Pues sin color el relieve, | Cuando al vivo se conforma, | La perfección de su forma | Sola los afectos mueve.»",
+              "autor": "Jáur.",
+              "referencia_obra": "diál. Tú, venerable maestra (R. 42. 116 1 )."
+            },
+            {
+              "texto_cita": "«La traducción se conforma generalmente al sentido del original.»",
+              "autor": "Quint.",
+              "referencia_obra": "El Cid de Corneille (R. 67. 191 1 )."
+            },
+            {
+              "texto_cita": "«La tragedia de Virués, por conformarse á los antiguos modelos, está dividida en cinco actos.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Trag. esp. (2. 63)."
+            },
+            {
+              "texto_cita": "«¿De dónde dimana la necesidad de estas verdades? ¿Acaso de nuestra razón? No; antes por el contrario la verdad de nuestra razón depende de que se conforma á las mismas.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Teod. 4 (329) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "La siguiente construcción, en que el verbo ha de tomarse en el sentido de Reducir, ni se acomoda á la etimología ni es usual.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No harías | Por conformar á Silvia en que le hablase | Aminta solo, ó tú delante, un día?»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta, 2 (R. 42. 139 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Es impropia la constr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conformar su semblante por el ajeno,»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram. ; por no puede emplearse en el sentido de conformidad, sino cuando cabe imaginar el objeto de que se trata romo un camino que se sigue para llegar al fin:"
+            },
+            {
+              "texto_cita": "«Arreglar, adornar la casa por el gusto moderno.»",
+              "autor": "",
+              "referencia_obra": "Esto no puede verificarse en conformar ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Covenir en una misma opinión ó díctamen, ponerse de acuerdo, estar conforme.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo sujeto las personas ó cosas acordes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos [los sabios ] dicen que su hija, | Y unánimes se conforman, | Pariría un bello infante.»",
+              "autor": "Lope",
+              "referencia_obra": ", Contra valor no hay desdicha , 2. 16 (R. 41. 10 3 )."
+            },
+            {
+              "texto_cita": "«Se tenía por bastante causa para el divorcio que se conformasen los dos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3 (R. 28. 293 1 )."
+            },
+            {
+              "texto_cita": "«Resolverá lo que le pareciere justo, y lo pondrá en ejecución si las partes se conformaren.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 44 2 )."
+            },
+            {
+              "texto_cita": "«Le aseguró que esperaba á su hermano y que se conformarían los dos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 360 1 ). —"
+            },
+            {
+              "texto_cita": "«Suplico á vuestra merced reciba el pobre servicio de mano de quien lo hiciera más rico, si su poder y deseo se conformaran.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill. pról. (R. 3. 77)."
+            },
+            {
+              "texto_cita": "«No se conformaban su entendimiento y su valor, y todo era batallar sin resolver.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 14 (R. 28. 326 2 )."
+            },
+            {
+              "texto_cita": "«Los pareceres no se conformaron.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 5 (R. 30. 251 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para expresar la base de la conformidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le declaro cómo él era el mayor enemigo que el amor y los enamorados tenían, rogándole que pues tanto en las opiniones se conformaban, tuviese por bien de no enfadarse con su compañía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 4 (R. 1. 63 2 )."
+            },
+            {
+              "texto_cita": "«Muchos hay, y de varias naciones, y todos se conforman en las costumbres licenciosas.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 3 (R. 21. 487 2 )."
+            },
+            {
+              "texto_cita": "«Unos querían al rey, otros la república; éstos y aquéllos se conformaban en disponer su daño.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 (R. 21. 515 1 )."
+            },
+            {
+              "texto_cita": "«Los príncipes cristianos no se conformaban en un parecer.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 21. 13 (R. 31. 109 2 )."
+            },
+            {
+              "texto_cita": "«Se conformaron todos los capitanes en que sólo era posible ó menos aventurada la resolución de adelantar la marcha.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 19 (R. 28. 338 1 )."
+            },
+            {
+              "texto_cita": "«Veo que nos conformamos mucho en las ideas de virtud, amistad y vicio.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr. 47 (2. 206). —"
+            },
+            {
+              "texto_cita": "«Después de la muerte del reverendo don Rodrigo obispo de León, no se conformaron los votos del clero en la elección del sucesor.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 12. 1 (R. 30. 341 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Admite otros compls. que no ofrecen dificultad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para tratar dello se vieron en la ciudad de Soria: allí secretamente se conformaron contra el rey de Aragón.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 6 (R. 30. 505 1 )."
+            },
+            {
+              "texto_cita": "«Divididos en parcialidades y aficiones, no podían conformarse para acudir á la defensa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13. 22 (R. 30. 398 2 )."
+            },
+            {
+              "texto_cita": "«Vuestro nombre sea santificado en todo el mundo de tal manera, que todas las naciones y lenguas, todas las edades y cualidades de personas en todo lugar se conformen para alabar y glorificar vuestro santo nombre.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 7. 2. 1, § 11, consid. 2 (R. 8. 407 2 )."
+            },
+            {
+              "texto_cita": "«Conformáronse moros y cristianos | A idolatrar la nieve de dos manos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Nec. de Orl. 1 (R. 69. 291 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Siendo suj. una de las personas ó cosas, la otra va precedida de con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzaré este trabajo desde el principio del año 1588, que fue en el que llegué á los estados de Flandes; porque no me conformo con los que escriben historia de lo que no vieron.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 1 (R. 28. 4 1 )."
+            },
+            {
+              "texto_cita": "«Fue muy conveniente que el niño Jesús guardase la ley á que estaba obligado, y que la Madre se conformase con su Hijo para nuestro remedio y ejemplo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Purific. ( Vida de la Virgen, 157). —"
+            },
+            {
+              "texto_cita": "«Estáis | En un parecer conmigo, | Pues en esto os conformáis | Con lo mismo que yo digo.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 222 3 )."
+            },
+            {
+              "texto_cita": "«En un harto, conformándose con el parecer de Sabino, se pasaron al soto.»",
+              "autor": "León",
+              "referencia_obra": ", Nombres, 2, introd. (3. 134)."
+            },
+            {
+              "texto_cita": "«Vio que la pastora era tan enemiga del amor como parecía, y que tan de todo en todo con la condición desamorada suya se conformaba ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 63 1 )."
+            },
+            {
+              "texto_cita": "«El celo inmoderado suele hacer errar á los que gobiernan, porque no sabe conformarse con la prudencia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 85 (R. 25. 228 2 )."
+            },
+            {
+              "texto_cita": "«Cuando le parecían más acertados sus pareceres, se conformaba con ellos.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 55 (R. 25. 147 2 )."
+            },
+            {
+              "texto_cita": "«Estamos muy distantes de conformarnos con el dictamen de los que sientan que deben preferirse [las versiones parafrásticas] á las literales.»",
+              "autor": "Scío",
+              "referencia_obra": ", Biblia, Disert. prel. 2, § 5 (1. XLV). —"
+            },
+            {
+              "texto_cita": "«En fin se vino á conformar el parecer de todos con el que dio el discreto Damón.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 3 (R. 1. 44 2 )."
+            },
+            {
+              "texto_cita": "«Págueos el cielo, pastores, respondió Telesio, la sinceridad de vuestras intenciones, pues tanto se conforman con la de aquel que solo vuestro bien y provecho pretende.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5 (R. 1. 80 2 )."
+            },
+            {
+              "texto_cita": "«Las leyes en el mundo recibidas, | Si son entre cristianos, no son justas, | Cuando con las de Dios no se conforman.»",
+              "autor": "Lope",
+              "referencia_obra": ", La fuerza lastimosa , 2. 11 (R. 41. 268 1 )."
+            },
+            {
+              "texto_cita": "«Muero por ver á Madama | Antes que éntre en la ciudad, | Por saber si la beldad | Se conforma con la fama.»",
+              "autor": "",
+              "referencia_obra": "Id. La corona merecida, 1. 1 (R. 24. 228 2 )."
+            },
+            {
+              "texto_cita": "«No sé cómo esta paga se conforme | Con servicios tan claros y leales.»",
+              "autor": "",
+              "referencia_obra": "Id. La inocente sangre , 3. 5 (R. 52. 366 1 )."
+            },
+            {
+              "texto_cita": "«Bien se conforma con vuestra fama y nombre vuestra puntualidad y cortesía.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 1. 18 (R. 18. 311 2 )"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En igual sentido se usa como intrans. , aunque es hoy menos usual que en época anterior.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo suj. los objetos conformes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué quieres? Deben de ser | Estrellas que no conforman.»",
+              "autor": "Lope",
+              "referencia_obra": ", D. Juan de Castro, 1 ª . pte. 2. 18 (R. 52. 387 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los villanos prisioneros y espías conformaron en tener el enemigo la gente que se ha dicho.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 84 2 )."
+            },
+            {
+              "texto_cita": "«Sólo conformaban en el lenguaje común de que todos usaban.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 6. 1 (R. 30. 149 1 )."
+            },
+            {
+              "texto_cita": "«En esto conformaron los capitanes competidores juntamente con los turcos y turcoples.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 51 (R. 21. 49 1 )."
+            },
+            {
+              "texto_cita": "«En esto mismo conforman | Mis astrólogos, que han hecho | Recto examen de su influjo | En mi triste nacimiento.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El dueño de las estrellas , 2. 2 (R. 20. 274 1 )."
+            },
+            {
+              "texto_cita": "«Todo conforma en mi mal.»",
+              "autor": "",
+              "referencia_obra": "Id. La industria y la suerte, 2. 11 (R. 20. 34 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Siendo suj. uno de los objetos acordes, el otro lleva con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue un gozo espiritual, y un entender mi alma que aquel alma me había de entender y que conformaba con ella.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 33 (R. 53. 102 1 )."
+            },
+            {
+              "texto_cita": "«Otros decían que era claro demonio: solo el confesor, que aunque conformaba con ellos, por probarme, según después supe, siempre me consolaba.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib. 25 (R. 53. 79 1 ). ---"
+            },
+            {
+              "texto_cita": "«Cualquier destas difiniciones conforma con la de Juan de Mena.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab. 137 (55 1 )."
+            },
+            {
+              "texto_cita": "«El que dice que conoce á Dios, y no guarda sus mandamientos, este tal no se escapa de mentiroso, porque no conforman las obras con lo que dice.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 1. 2 ( Míst. 3.2)."
+            },
+            {
+              "texto_cita": "«Tengo esta orden en gran veneración, porque los he tratado mucho, y veo conforma su vida con lo que el Señor me ha dado dellos á entender.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 38 (R. 53. 118 1 )."
+            },
+            {
+              "texto_cita": "«La vida que hacían él y sus compañeros conformaba mucho con nuestra regla.»",
+              "autor": "",
+              "referencia_obra": "Ead. Fund. 17 (R. 53. 207 2 )."
+            },
+            {
+              "texto_cita": "«Hay efetos muy diferentes en los fingidos arrobamientos --- Las señales y efetos no conforman con tan gran merced.»",
+              "autor": "Mor.",
+              "referencia_obra": "6.,4 (R. 53. 468 2 ) ."
+            },
+            {
+              "texto_cita": "«Al fin con voz pujante y expedida, | Que poco con las canas conformaba --- | La respuesta me dio.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 23 (R. 17. 88 2 )."
+            },
+            {
+              "texto_cita": "«Tenemos finalmente no sólo ejemplos sino también ilustrísimos testimonios y dichos de santos que conforman con sus ejemplos.»",
+              "autor": "",
+              "referencia_obra": "Cran. Orac. y consid. 3. 2. 3, § 1 (R. 8. 190 1 )."
+            },
+            {
+              "texto_cita": "«En ti | Conforman las palabras con el hecho.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 3, salmo 50 (4. 584)."
+            },
+            {
+              "texto_cita": "«Yo me holgaría de haberme engañado si no conforma su condición con su hermosura.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 (R. 1. 18 2 )."
+            },
+            {
+              "texto_cita": "«Bien conforma tu agradable semblante, nombrado Tirsi, con lo que de tu valor y discreción en las cercanas y apartadas tierras la parlera fama pregona.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2 (R. 1. 23 1 )."
+            },
+            {
+              "texto_cita": "«El que la leyó [la canción] dijo que no le parecía que conformaba con la relación que él había oído del recato y bondad de Marcela, porque en ella se quejaba Grisóstomo de celos, sospechas y de ausencia.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 14 (R. 1. 281 2 )."
+            },
+            {
+              "texto_cita": "«Mas tu gracia me puede trocar, para que la vida conforme con la profesión.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 53 (2. 314)."
+            },
+            {
+              "texto_cita": "«En viendo el hidalgo la silla y el freno, halló que conformaba con las señas que yo le había dado.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 16 (R. 18. 411 2 )."
+            },
+            {
+              "texto_cita": "«La color á lo menos, replicó el astrólogo, no conforma con vuestra satisfacción: dadme acá ese pulso.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los tres maridos burlados (R. 18. 482 1 )."
+            },
+            {
+              "texto_cita": "«Muy bien el nombre conforma, | Laura, con su bella forma.»",
+              "autor": "",
+              "referencia_obra": "Id. Palabras y plumas , 2. 11 (R. 5. 13 1 )."
+            },
+            {
+              "texto_cita": "«No tiene igual vuestro ingenio. | — Con su hermosura conforma.»",
+              "autor": "Lope",
+              "referencia_obra": ", La dama boba, 3. 27 (R. 24. 316 2 )."
+            },
+            {
+              "texto_cita": "«Pero comiencen ya las nobles Musas | Las justas alabanzas, sin que formen | Con la ignorancia excusas, | Cuando no con los méritos conformen.»",
+              "autor": "",
+              "referencia_obra": "Id. Laurel de Apolo, 1 ( Obr. suelt. 1. 13)."
+            },
+            {
+              "texto_cita": "«Mal conforma tu gentileza y brío con tan tibia respuesta, mal tu donaire y gracia con tu severidad.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 2. 8 (R. 18. 336 2 )."
+            },
+            {
+              "texto_cita": "«No puedo negaros que me ha puesto en gran cuidado lo que conforman estas señas con las de esos extranjeros.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de M éj . 2. 16 (R. 28. 253 2 )."
+            },
+            {
+              "texto_cita": "«No conforma [esta dulzura] con lo demás que sabemos de su codicia, soberbia y ambición.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 16 (R. 28. 254 2 )."
+            },
+            {
+              "texto_cita": "«La doctrina toda del padre maestro Fray Luis --- conforma en todo con lo que esta santa religión ha siempre enseñado y practicado.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 3. 4 (179)."
+            },
+            {
+              "texto_cita": "«Pues para mí este silencio | No conforma con el nombre | Clarín, y callar no puedo.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño, 3. 1 (R. 7. 13 1 )."
+            },
+            {
+              "texto_cita": "«Por esta señal no podrá saberse si el texto que nos dio conformaba con el original ó si se desviaba de él.»",
+              "autor": "Part.",
+              "referencia_obra": "(1. XXXI)."
+            },
+            {
+              "texto_cita": "«Los soldados mismos hicieron pedazos á todos aquellos miserables sin que el Gran Capitán castigase este exceso, que conformaba mucho con la severidad que él usaba en la disciplina militar.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitán (R. 19. 269 2 ). —"
+            },
+            {
+              "texto_cita": "«Conforma con esto que los concilios de los obispos, que por este tiempo se tuvieron en España, ponen al principio el nombre de Teodorico y también el año de su reinado.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 5. 7 (R. 30. 131 1 )."
+            },
+            {
+              "texto_cita": "«Bien conforma con esto lo que se cuenta haber dicho un cierto mozo romano de la familia de los Gracos.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 18 (3. 508)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Mucho menos frecuente es la construcción con á",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este llevar Dios el espíritu y mostrarle cosas tan excelentes en estos arrebatamientos, paréceme a mí conforma mucho á cuando sale un alma del cuerpo, que en un instante se ve en todo este bien.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 38 (R. 53. 116 2 )."
+            },
+            {
+              "texto_cita": "«Cuán bien, obscura noche, al dolor mío | Conformas.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, son. 5 (R. 32. 299 2 )."
+            },
+            {
+              "texto_cita": "«A veces | No conforma al cuerpo el alma.»",
+              "autor": "Lope",
+              "referencia_obra": ", La hermosa fea, 1. 7 (R. 34. 352 2 )."
+            },
+            {
+              "texto_cita": "«Bien conforma esa presea | Al oficio de los dos.»",
+              "autor": "",
+              "referencia_obra": "Id. La pobreza estimada , 1. 1 (R. 52. 141 3 )."
+            },
+            {
+              "texto_cita": "«Y viendo que conforma | Tanto el retrato á su primera forma, | Amé vuestra hermosura.»",
+              "autor": "",
+              "referencia_obra": "Id. Dorotea , 5. 1 ( Obr. suelt. 7. 364)."
+            },
+            {
+              "texto_cita": "«En tu presencia conforma | Lo que mi oído acredita | A lo que mi ojos notan.»",
+              "autor": "Mto.",
+              "referencia_obra": "El caballero , 2. 17 (R. 39.302 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. Reducirse, sujetarse uno voluntariamente á hacer ó sufrir alguna cosa para la cual tenía alguna repugnancia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto pide resignación, hermano. Tú has tenido la culpa, es necesario que te conformes. — Y hará muy mal en no conformarse.»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos , 3. 7 (R. 2. 459 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar aquello á que uno se resigna.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No penséis que está la cosa en si se muere mi padre ó hermano, conformarme tanto con la voluntad de Dios, que no lo sienta.»",
+              "autor": "Mor.",
+              "referencia_obra": "5. 3 (R. 53. 457 2 )."
+            },
+            {
+              "texto_cita": "«Unas decían: Amiga, nada se remedia con llorar. Otras: Sin duda goza de Dios. Cuál la animaba á que se conformase con la voluntad del Señor.»",
+              "autor": "Quev.",
+              "referencia_obra": "El mundo por de dentro (R. 23. 328 1 )."
+            },
+            {
+              "texto_cita": "«Al fin su misma confusión los advirtio que era mejor conformarse con el mal que habían experimentado, que intentar el remedio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 46 (R. 25. 117 2 )."
+            },
+            {
+              "texto_cita": "«O el cosechero de Ecija se ha de conformar con los precios á que vende el de Carmona, ó no ha de vender.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre extr. de aceites (R. 50. 4 2 )."
+            },
+            {
+              "texto_cita": "«El rey no tenía facultad de conceder ó de negar la sanción, sino que debía meramente conformarse con ellas y promulgarlas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 2. 12, (5. 92)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La honestad de su vida se conformaba con la abundancia de su sciencia.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 18 (111)."
+        },
+        {
+          "texto_cita": "«El leon, visto que todos los grandes animales conformaban, fue constreñido a lo enviar.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras, 23 (256)."
+        },
+        {
+          "texto_cita": "«Soy maravillado de los que facen fundamento deste reyno que vos dan en la discordia de los caballeros é gentes dél, como si fuese imposible la reconciliación entre ellos, é conformarse contra vuestras gentes.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 7 (194)."
+        },
+        {
+          "texto_cita": "«Vos debeis conformar con la razon y levantarvos desta via, é tomar vuestro camino para vuestra tierra.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II , 1. 51 (R. 68. 299 1 )."
+        },
+        {
+          "texto_cita": "«E porque veais é conozcais mi voluntad que se conforma con la obra ---»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 115 (311)."
+        },
+        {
+          "texto_cita": "«Aquello sigue, con aquello se conforma, é en aquello estudia é se trabaja.»",
+          "autor": "",
+          "referencia_obra": "Ib. 97 (255)."
+        },
+        {
+          "texto_cita": "«El maestre trabajó mucho, poniendo en estrecho á los de dentro por minas é ingenios --- fasta que el adelantado Diego Manrique se conformó con el servicio del rey é entregó la fortaleza.»",
+          "autor": "",
+          "referencia_obra": "Ib . 71 (188)."
+        },
+        {
+          "texto_cita": "«Justo es, vista mi vida | De tanta contrariedat, | Conformar la voluntad | Con la tristesa complida.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 154."
+        },
+        {
+          "texto_cita": "«Ama é onra la verdat, | Non desviando, | Mas á aquella conformando | Tu amistat.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 55."
+        },
+        {
+          "texto_cita": "«Conformados en un canto | Decían ---»",
+          "autor": "",
+          "referencia_obra": "Id. p. 300."
+        },
+        {
+          "texto_cita": "«Quitó la tal permisión é mandamiento, conformando su voluntad con las leyes de su reino.»",
+          "autor": "Seg. de Tordes.",
+          "referencia_obra": "69 (93 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Todos los omes del mundo se conforman e semejan a la manera de su rey que han.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 2. 55 (203 2 )."
+        },
+        {
+          "texto_cita": "«Conformaba sus frayres, tenieles bien leçion.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 217 (R. 57. 46 2 )."
+        },
+        {
+          "texto_cita": "«Pues ende vino en tierra, al siervo se conformó.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores, 16 (R. 57. 94 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "constr. «Conformar su semblante por el ajeno,» que trae Salvá , Gram. ; por no puede emplearse en el sentido de conformidad, sino cuando cabe imaginar el objeto de que se trata romo un camino que se sigue para llegar al fin: «Arreglar, adornar la casa por el gusto moderno.» Esto no puede verificarse en conformar . b) Refl. Covenir en una misma opinión ó díctamen, ponerse de acuerdo, estar conforme. — α ) Siendo sujeto las personas ó cosas acordes. «Todos [los sabios ] dicen que su hija, | Y unánimes se conforman, | Pariría un bello infante.» Lope , Contra valor no hay desdicha , 2. 16 (R. 41. 10 3 ). «Se tenía por bastante causa para el divorcio que se conformasen los dos.» Solís , Conq. de Méj. 3 (R. 28. 293 1 ). «Resolverá lo que le pareciere justo, y lo pondrá en ejecución si las partes se conformaren.» Jovell. Inf. sobre el libre ejerc. de las artes (R. 50. 44 2 ). «Le aseguró que esperaba á su hermano y que se conformarían los dos.» Quint. Pizarro (R. 19. 360 1 ). — «Suplico á vuestra merced reciba el pobre servicio de mano de quien lo hiciera más rico, si su poder y deseo se conformaran.» Mend. Lazarill. pról. (R. 3. 77). «No se conformaban su entendimiento y su valor, y todo era batallar sin resolver.» Solís , Conq. de Méj. 4. 14 (R. 28. 326 2 ). «Los pareceres no se conformaron.» Mariana , Hist. Esp. 9. 5 (R. 30. 251 2 ). — β ) Con en, para expresar la base de la conformidad. «Le declaro cómo él era el mayor enemigo que el amor y los enamorados tenían, rogándole que pues tanto en las opiniones se conformaban, tuviese por bien de no enfadarse con su compañía.» Cerv. Gal. 4 (R. 1. 63 2 ). «Muchos hay, y de varias naciones, y todos se conforman en las costumbres licenciosas.» Melo , Guerra de Catal. 3 (R. 21. 487 2 ). «Unos querían al rey, otros la república; éstos y aquéllos se conformaban en disponer su daño.» Id. ib. 4 (R. 21. 515 1 ). «Los príncipes cristianos no se conformaban en un parecer.» Mariana , Hist. Esp. 21. 13 (R. 31. 109 2 ). «Se conformaron todos los capitanes en que sólo era posible ó menos aventurada la resolución de adelantar la marcha.» Solís , Conq. de Méj . 4. 19 (R. 28. 338 1 ). «Veo que nos conformamos mucho en las ideas de virtud, amistad y vicio.» Cadalso , Cart. marr. 47 (2. 206). — «Después de la muerte del reverendo don Rodrigo obispo de León, no se conformaron los votos del clero en la elección del sucesor.» Mariana , Hist. Esp. 12. 1 (R. 30. 341 1 ). — γ ) Admite otros compls. que no ofrecen dificultad. «Para tratar dello se vieron en la ciudad de Soria: allí secretamente se conformaron contra el rey de Aragón.» Mariana , Hist. Esp. 17. 6 (R. 30. 505 1 ). «Divididos en parcialidades y aficiones, no podían conformarse para acudir á la defensa.» Id. ib. 13. 22 (R. 30. 398 2 ). «Vuestro nombre sea santificado en todo el mundo de tal manera, que todas las naciones y lenguas, todas las edades y cualidades de personas en todo lugar se conformen para alabar y glorificar vuestro santo nombre.» Gran. Mem. vida crist. 7. 2. 1, § 11, consid. 2 (R. 8. 407 2 ). «Conformáronse moros y cristianos | A idolatrar la nieve de dos manos.» Quev. Nec. de Orl. 1 (R. 69. 291 1 ). — δ ) Siendo suj. una de las personas ó cosas, la otra va precedida de con . «Comenzaré este trabajo desde el principio del año 1588, que fue en el que llegué á los estados de Flandes; porque no me conformo con los que escriben historia de lo que no vieron.» Coloma , Guerras de los Est. Bajos, 1 (R. 28. 4 1 ). «Fue muy conveniente que el niño Jesús guardase la ley á que estaba obligado, y que la Madre se conformase con su Hijo para nuestro remedio y ejemplo.» Rivad. Flos SS. Purific. ( Vida de la Virgen, 157). — «Estáis | En un parecer conmigo, | Pues en esto os conformáis | Con lo mismo que yo digo.» Castillejo , 3, Vida de corte (R. 32. 222 3 ). «En un harto, conformándose con el parecer de Sabino, se pasaron al soto.» León , Nombres, 2, introd. (3. 134). «Vio que la pastora era tan enemiga del amor como parecía, y que tan de todo en todo con la condición desamorada suya se conformaba ---» Cerv. Gal . 4 (R. 1. 63 1 ). «El celo inmoderado suele hacer errar á los que gobiernan, porque no sabe conformarse con la prudencia.» Saav. Emp. 85 (R. 25. 228 2 ). «Cuando le parecían más acertados sus pareceres, se conformaba con ellos.» Id . ib. 55 (R. 25. 147 2 ). «Estamos muy distantes de conformarnos con el dictamen de los que sientan que deben preferirse [las versiones parafrásticas] á las literales.» Scío , Biblia, Disert. prel. 2, § 5 (1. XLV). — «En fin se vino á conformar el parecer de todos con el que dio el discreto Damón.» Cerv. Gal. 3 (R. 1. 44 2 ). «Págueos el cielo, pastores, respondió Telesio, la sinceridad de vuestras intenciones, pues tanto se conforman con la de aquel que solo vuestro bien y provecho pretende.» Id. ib. 5 (R. 1. 80 2 ). «Las leyes en el mundo recibidas, | Si son entre cristianos, no son justas, | Cuando con las de Dios no se conforman.» Lope , La fuerza lastimosa , 2. 11 (R. 41. 268 1 ). «Muero por ver á Madama | Antes que éntre en la ciudad, | Por saber si la beldad | Se conforma con la fama.» Id. La corona merecida, 1. 1 (R. 24. 228 2 ). «No sé cómo esta paga se conforme | Con servicios tan claros y leales.» Id. La inocente sangre , 3. 5 (R. 52. 366 1 ). «Bien se conforma con vuestra fama y nombre vuestra puntualidad y cortesía.» Césp. y Men. Sold. Pínd. 1. 18 (R. 18. 311 2 ) c) En igual sentido se usa como intrans. , aunque es hoy menos usual que en época anterior. — α ) Siendo suj. los objetos conformes. «¿Qué quieres? Deben de ser | Estrellas que no conforman.» Lope , D. Juan de Castro, 1 ª . pte. 2. 18 (R. 52. 387 1 ). — β ) Con en. «Los villanos prisioneros y espías conformaron en tener el enemigo la gente que se ha dicho.» Coloma , Guerras de los Est. Bajos, 6 (R. 28. 84 2 ). «Sólo conformaban en el lenguaje común de que todos usaban.» Mariana , Hist. Esp. 6. 1 (R. 30. 149 1 ). «En esto conformaron los capitanes competidores juntamente con los turcos y turcoples.» Moncada , Exped. 51 (R. 21. 49 1 ). «En esto mismo conforman | Mis astrólogos, que han hecho | Recto examen de su influjo | En mi triste nacimiento.» Alarcón , El dueño de las estrellas , 2. 2 (R. 20. 274 1 ). «Todo conforma en mi mal.» Id. La industria y la suerte, 2. 11 (R. 20. 34 3 ). — γ ) Siendo suj. uno de los objetos acordes, el otro lleva con . «Fue un gozo espiritual, y un entender mi alma que aquel alma me había de entender y que conformaba con ella.» Sta. Ter. Vida , 33 (R. 53. 102 1 ). «Otros decían que era claro demonio: solo el confesor, que aunque conformaba con ellos, por probarme, según después supe, siempre me consolaba.» Ead. ib. 25 (R. 53. 79 1 ). --- «Cualquier destas difiniciones conforma con la de Juan de Mena.» Comend. Griego , Lab. 137 (55 1 ). «El que dice que conoce á Dios, y no guarda sus mandamientos, este tal no se escapa de mentiroso, porque no conforman las obras con lo que dice.» Venegas , Agonía , 1. 2 ( Míst. 3.2). «Tengo esta orden en gran veneración, porque los he tratado mucho, y veo conforma su vida con lo que el Señor me ha dado dellos á entender.» Sta. Ter. Vida , 38 (R. 53. 118 1 ). «La vida que hacían él y sus compañeros conformaba mucho con nuestra regla.» Ead. Fund. 17 (R. 53. 207 2 ). «Hay efetos muy diferentes en los fingidos arrobamientos --- Las señales y efetos no conforman con tan gran merced.» Ead. Mor. 6.,4 (R. 53. 468 2 ) . «Al fin con voz pujante y expedida, | Que poco con las canas conformaba --- | La respuesta me dio.» Erc. Arauc. 23 (R. 17. 88 2 ). «Tenemos finalmente no sólo ejemplos sino también ilustrísimos testimonios y dichos de santos que conforman con sus ejemplos.» Cran. Orac. y consid. 3. 2. 3, § 1 (R. 8. 190 1 ). «En ti | Conforman las palabras con el hecho.» León , Poes. 3, salmo 50 (4. 584). «Yo me holgaría de haberme engañado si no conforma su condición con su hermosura.» Cerv. Gal. 2 (R. 1. 18 2 ). «Bien conforma tu agradable semblante, nombrado Tirsi, con lo que de tu valor y discreción en las cercanas y apartadas tierras la parlera fama pregona.» Id. ib . 2 (R. 1. 23 1 ). «El que la leyó [la canción] dijo que no le parecía que conformaba con la relación que él había oído del recato y bondad de Marcela, porque en ella se quejaba Grisóstomo de celos, sospechas y de ausencia.» Id. Quij. 1. 14 (R. 1. 281 2 ). «Mas tu gracia me puede trocar, para que la vida conforme con la profesión.» Puente , Medit. 3. 53 (2. 314). «En viendo el hidalgo la silla y el freno, halló que conformaba con las señas que yo le había dado.» Espinel , Escud. 1. 16 (R. 18. 411 2 ). «La color á lo menos, replicó el astrólogo, no conforma con vuestra satisfacción: dadme acá ese pulso.» Tirso , Los tres maridos burlados (R. 18. 482 1 ). «Muy bien el nombre conforma, | Laura, con su bella forma.» Id. Palabras y plumas , 2. 11 (R. 5. 13 1 ). «No tiene igual vuestro ingenio. | — Con su hermosura conforma.» Lope , La dama boba, 3. 27 (R. 24. 316 2 ). «Pero comiencen ya las nobles Musas | Las justas alabanzas, sin que formen | Con la ignorancia excusas, | Cuando no con los méritos conformen.» Id. Laurel de Apolo, 1 ( Obr. suelt. 1. 13). «Mal conforma tu gentileza y brío con tan tibia respuesta, mal tu donaire y gracia con tu severidad.» Césp. y Men. Sold. Pínd. 2. 8 (R. 18. 336 2 ). «No puedo negaros que me ha puesto en gran cuidado lo que conforman estas señas con las de esos extranjeros.» Solís , Conq. de M éj . 2. 16 (R. 28. 253 2 ). «No conforma [esta dulzura] con lo demás que sabemos de su codicia, soberbia y ambición.» Id. ib . 2. 16 (R. 28. 254 2 ). «La doctrina toda del padre maestro Fray Luis --- conforma en todo con lo que esta santa religión ha siempre enseñado y practicado.» Muñoz , Vida de Granad. 3. 4 (179). «Pues para mí este silencio | No conforma con el nombre | Clarín, y callar no puedo.» Cald. La vida es sueño, 3. 1 (R. 7. 13 1 ). «Por esta señal no podrá saberse si el texto que nos dio conformaba con el original ó si se desviaba de él.» Pról. á las Part. (1. XXXI). «Los soldados mismos hicieron pedazos á todos aquellos miserables sin que el Gran Capitán castigase este exceso, que conformaba mucho con la severidad que él usaba en la disciplina militar.» Quint. Gran Capitán (R. 19. 269 2 ). — «Conforma con esto que los concilios de los obispos, que por este tiempo se tuvieron en España, ponen al principio el nombre de Teodorico y también el año de su reinado.» Mariana , Hist. Esp. 5. 7 (R. 30. 131 1 ). «Bien conforma con esto lo que se cuenta haber dicho un cierto mozo romano de la familia de los Gracos.» León , Perf. cas. 18 (3. 508). — δ ) Mucho menos frecuente es la construcción con á «Este llevar Dios el espíritu y mostrarle cosas tan excelentes en estos arrebatamientos, paréceme a mí conforma mucho á cuando sale un alma del cuerpo, que en un instante se ve en todo este bien.» Sta. Ter. Vida, 38 (R. 53. 116 2 ). «Cuán bien, obscura noche, al dolor mío | Conformas.» Herr. 2, son. 5 (R. 32. 299 2 ). «A veces | No conforma al cuerpo el alma.» Lope , La hermosa fea, 1. 7 (R. 34. 352 2 ). «Bien conforma esa presea | Al oficio de los dos.» Id. La pobreza estimada , 1. 1 (R. 52. 141 3 ). «Y viendo que conforma | Tanto el retrato á su primera forma, | Amé vuestra hermosura.» Id. Dorotea , 5. 1 ( Obr. suelt. 7. 364). «En tu presencia conforma | Lo que mi oído acredita | A lo que mi ojos notan.» Mto. El caballero , 2. 17 (R. 39.302 2 ). d) Refl. Reducirse, sujetarse uno voluntariamente á hacer ó sufrir alguna cosa para la cual tenía alguna repugnancia. — α ) Absol. «Esto pide resignación, hermano. Tú has tenido la culpa, es necesario que te conformes. — Y hará muy mal en no conformarse.» Mor. La escuela de los maridos , 3. 7 (R. 2. 459 1 ). — β ) Con con , para expresar aquello á que uno se resigna. «No penséis que está la cosa en si se muere mi padre ó hermano, conformarme tanto con la voluntad de Dios, que no lo sienta.» Sta. Ter. Mor. 5. 3 (R. 53. 457 2 ). «Unas decían: Amiga, nada se remedia con llorar. Otras: Sin duda goza de Dios. Cuál la animaba á que se conformase con la voluntad del Señor.» Quev. El mundo por de dentro (R. 23. 328 1 ). «Al fin su misma confusión los advirtio que era mejor conformarse con el mal que habían experimentado, que intentar el remedio.» Saav. Emp. 46 (R. 25. 117 2 ). «O el cosechero de Ecija se ha de conformar con los precios á que vende el de Carmona, ó no ha de vender.» Jovell. Inf. sobre extr. de aceites (R. 50. 4 2 ). «El rey no tenía facultad de conceder ó de negar la sanción, sino que debía meramente conformarse con ellas y promulgarlas.» M. de la Rosa , Esp. del siglo , 2. 12, (5. 92). Per. antecl. Siglo XV : «La honestad de su vida se conformaba con la abundancia de su sciencia.» Pulgar , Clar. var. 18 (111). «El leon, visto que todos los grandes animales conformaban, fue constreñido a lo enviar.» Id. Letras, 23 (256). «Soy maravillado de los que facen fundamento deste reyno que vos dan en la discordia de los caballeros é gentes dél, como si fuese imposible la reconciliación entre ellos, é conformarse contra vuestras gentes.» Id. ib. 7 (194). «Vos debeis conformar con la razon y levantarvos desta via, é tomar vuestro camino para vuestra tierra.» Crón. Juan II , 1. 51 (R. 68. 299 1 ). «E porque veais é conozcais mi voluntad que se conforma con la obra ---» Crón. Álv. de Luna, 115 (311). «Aquello sigue, con aquello se conforma, é en aquello estudia é se trabaja.» Ib. 97 (255). «El maestre trabajó mucho, poniendo en estrecho á los de dentro por minas é ingenios --- fasta que el adelantado Diego Manrique se conformó con el servicio del rey é entregó la fortaleza.» Ib . 71 (188). «Justo es, vista mi vida | De tanta contrariedat, | Conformar la voluntad | Con la tristesa complida.» Canc. de Stúñ. p. 154. «Ama é onra la verdat, | Non desviando, | Mas á aquella conformando | Tu amistat.» Santill. p. 55. «Conformados en un canto | Decían ---» Id. p. 300. «Quitó la tal permisión é mandamiento, conformando su voluntad con las leyes de su reino.» Seg. de Tordes. 69 (93 1 ). — Siglo XIII : «Todos los omes del mundo se conforman e semejan a la manera de su rey que han.» Crón. gen. 2. 55 (203 2 ). «Conformaba sus frayres, tenieles bien leçion.» Berc. S. Dom. 217 (R. 57. 46 2 ). «Pues ende vino en tierra, al siervo se conformó.» Id. Loores, 16 (R. 57. 94 1 ). Etim. Port., cat, prov. , conformar ; fr. conformer; it. conformare: del lat. conformare , componer, acomodar, compuesto de cum , con, y formare , formar, denominativo de forma , forma. \u0000"
+}

@@ -1,0 +1,26 @@
+{
+  "lema": "ESCAMAR (I).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Quitar las escamas al pescado ( trans .). — α ) X «Luego el uno dijo: \" huéspeda, ¿qué otra cosa tenéis que darnos? \" Habíanle poco antes en pressencia dellos vendido un sábalo. Teníalo en el suelo para escamalle. Respondióles: \"deste, si queréis un par de ruedas; que no hay otra cosa \".» Alemán , Guzmán, 1. 1. 4 (Cl. C. 73. 124).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Escamar el pescado: desquamo .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Voc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. desquamare, de idéntica significación, compuesto de de y squama, ‘escama'. It. squamare, port. escamar . El fr. écailler deriva de écaille , 'escama', y este del franco skalja, 'teja'. J. P. P. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

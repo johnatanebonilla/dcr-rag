@@ -1,0 +1,268 @@
+{
+  "lema": "CONFÍN.",
+  "categoria_gramatical": "",
+  "introduccion": "CONFÍN.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "adj.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Confinante.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gala, también africano de nación, competidor antiguo de Siface sobre términos o pundonores que suelen recrecer á gentes vecinas y confines.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón. 5. 37 (2. 550)."
+            },
+            {
+              "texto_cita": "«Las fortalezas confines hacen rostro al enemigo; las demás hacen guerra al señor.»",
+              "autor": "",
+              "referencia_obra": "Nieremberg, Dict. reales, década 7 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á para expresar el objeto contiguo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A esta desatinada locura escogió por sitio la vecindad del quemadero de los cristianos, tan confín á su recreación, que á la soberbia de su deleite servía de copete aquel lugar que infestaba con horror los ojos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 50 1 )."
+            },
+            {
+              "texto_cita": "«El uno [el que nace] está confín á los umbrales de la nada, de que salió nueve meses antes; el otro [el que muere] está confín á la eternidad, que le aguarda poco después.»",
+              "autor": "",
+              "referencia_obra": "Id. Fantasma 2 (R. 48. 142 1 )."
+            },
+            {
+              "texto_cita": "«Grandes palabras, confines á los mayores misterios de nuestra fe.»",
+              "autor": "",
+              "referencia_obra": "Id. Prov. de Dios (R. 48. 195 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con, en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se precisan de ser naturales de las tierras confines con Judea.»",
+              "autor": "Quev.",
+              "referencia_obra": "Doctr. estoica (R. 69. 416)."
+            },
+            {
+              "texto_cita": "«Al fuego, que no se deja tratar, que como monarca de todo, tiene su trono confín con las estrellas, le halló escondido en las entrañas del pedernal.»",
+              "autor": "",
+              "referencia_obra": "Id. Prov. de Dios (R. 48. 173 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que no dejaba toca ni valona | Que no escondía por aquel tejado, | Confín del corredor de un licenciado.»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom . 1 (O br. suelt . 19. 174)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Sustantivado. Vecino, el que habita el país confinante.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tuvieron diferencia con otros andaluces turdetanos sus confines, sobre cosas que suelen acontecer entre pueblos vecinos.»",
+          "autor": "Ocampo",
+          "referencia_obra": ", Crón . 4. 15 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Sust. m.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Término o raya que divide las poblaciones, provincias ó reinos y señala los límites de cada uno.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y [deberían los reyes] no consentir entrar | Avaricia en sus confines.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 3 , Consil . (R. 32. 234 1 )."
+        },
+        {
+          "texto_cita": "«A la parte del septentrión, á los confines de los celtiberos caían los arevacos.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 1. 14 (R. 30. 17 1 )."
+        },
+        {
+          "texto_cita": "«Está asentada [Almería] á la ribera del mar Mediterráneo á los confines de Andalucía y del reino de Murcia.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 10. 18 (R. 30. 306 1 )."
+        },
+        {
+          "texto_cita": "«Los confines del estado vecino son muros del propio, y se deben guardar como tales.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 91 (R. 25. 240 2 )."
+        },
+        {
+          "texto_cita": "«Los bandoleros desnudan al caminante que pasa de un confín á otro.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 67 (R. 25. 185 2 )."
+        },
+        {
+          "texto_cita": "«A tres leguas de marcha se volvieron por no estar acostumbrados á pelear lejos de sus confines.»",
+          "autor": "Solís",
+          "referencia_obra": ". Conq. de Méj. 4. 8 (R. 28. 314 2 )."
+        },
+        {
+          "texto_cita": "«Parte confines el lugar profundo | Al mundo nuestro y al tartáreo mundo.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars. 12 ( Fern. 7. 346)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con feliz parto puso al heredero | Séptimo en los confines de la vida | La gran consorte del monarca ibero.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "eleg. que principia así (R. 42. 342 2 )."
+        },
+        {
+          "texto_cita": "«A muchos dio grandes ingenios, á pocos gran prudencia. Sin ella, los más elevados son mas peligrosos para el gobierno, porque pasan los confines de la razón y se pierden.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 28 (R. 25. 74 1 )."
+        },
+        {
+          "texto_cita": "«Inventó nuevas reverencias y ceremonias, extendiendo el respeto hasta los confines de la adoración.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj . 2. 3 (R. 28. 235 2 )."
+        },
+        {
+          "texto_cita": "«Ved aquí el límite en que se detuvo la geografía práctica de los griegos --- pues que ni la escuela de Alejandría, ni los estudios de Roma, aunque ennoblecidos con los nombres de Ptolomeo y Estrabón, de Mela y Plinio, la pudieron sacar de tan estrechos confines.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Disc. sobre la geogr. hist. (R. 46. 327 2 )."
+        },
+        {
+          "texto_cita": "«Desde estos tiempos hasta los fines del siglo corrieron para este Consejo muchos años de paz y de esplendor, sin que nos conste que en ellos fuesen notablemente turbados los confines de su jurisdicción.»",
+          "autor": "",
+          "referencia_obra": "Id. Jurisd. del Cons. de las órd. (R. 46. 464 1 )."
+        },
+        {
+          "texto_cita": "«El mundo va á ver --- perfeccionada la navegación, las artes, el comercio: las ciencias extenderán prodigiosamente sus confines.»",
+          "autor": "Clem.",
+          "referencia_obra": "Elog. de Is. la Cat. ( Mem. Acad. Hist. 6. 20)."
+        },
+        {
+          "texto_cita": "«Este sentimiento no comienza á desenvolverse hasta que el hombre toca ya los confines de la adolescencia.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos, 1, p. 8."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Se usa en un sentido extensivo, á veces algún tanto vago, según se ve por los ejemplos siguientes:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vela llorar el sol al mediodía, | vela del confín del ocidente | Cuando á alumbrar al indio se desvía.»",
+          "autor": "Jáur.",
+          "referencia_obra": "eleg. Partió la noche (R. 42. 109 1 )."
+        },
+        {
+          "texto_cita": "«Cajas y clarines | Resonando por todos los confines, | Señalan el compás y movimiento | Del ejército hermoso.»",
+          "autor": "Mto.",
+          "referencia_obra": "Industrias contra finezas , 3. 15 (R. 39. 286 3 )."
+        },
+        {
+          "texto_cita": "«Otros confines busca; | Pues no son éstos los que Apolo Delio | Te indicó, ni morar te manda en Creta.»",
+          "autor": "",
+          "referencia_obra": "T. Iriarte, Eneida, 3 (3. 191)."
+        },
+        {
+          "texto_cita": "«Hable ahora por mí la deleitable | Estación ¡oh Sileno! en que pretendes | Abandonar este confín.»",
+          "autor": "",
+          "referencia_obra": "Id. Poemas varios , 6 (R. 63. 47 2 )."
+        },
+        {
+          "texto_cita": "«Quedó la Europa en paz, sin oírse más eco de guerra que el que sonaba hacia un confín lejano, mientras luchaban brazo á brazo la Rusia y la Turquía.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp. del siglo, 3. 14 (5. 217) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Una de las cosas que los reyes comarcanos vos an envidia, es tener en vuestros confines gente con quien no solo podéis tener guerra justa, mas guerra santa.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 11 (204)."
+        },
+        {
+          "texto_cita": "«El infante llegó con los reyes á Huerta, que es en los confines de Castilla é Aragon.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 21 (72)."
+        },
+        {
+          "texto_cita": "«Tan quebrantados quedaron | Deste encuentro los malsines | Que jamás nuestros confines | Nunca con armas tentaron.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var. 253 ( Rim. inéd. 309)."
+        },
+        {
+          "texto_cita": "«Ya las lumbres, al alva confinas, | Los cultivadores al campo llamavan.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 120."
+        },
+        {
+          "texto_cita": "«E la mas confina esphera | A los mortales sentia | La diurnal alegria, | Magüer fuesse postrimera.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 332."
+        },
+        {
+          "texto_cita": "«Los dichos infantes contra su voluntad me ovieron de adejar [sobra el de ó el a ] las dichas villas é castillos, sacado Alburquerque é Azagala, que son en los confines de mis reynos.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1438 ( Crón. Álv. de Luna, 406)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. confim ; it. confine; fr . confins, confines: del lat . confinis, que tiene límites comunes, comp. de cum , con, y finis, límite, término, fin. En lat. hay además confinium, que en la forma confinio usó Berceo:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ovinirna, Rio durbel con todo su confinio ---»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill. 470 (R. 57. 79 1 ). Para el confina del M. de Santillana se puede suponer un masc. confino, como en it. , ó bien asemejarlo á comuna , frecuente en el siglo XV. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

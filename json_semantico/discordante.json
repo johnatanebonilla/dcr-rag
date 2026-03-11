@@ -1,0 +1,132 @@
+{
+  "lema": "DISCORDANTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que discuerda en parecer, opinión ó voluntad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando allí los cuatro discordantes amadores nos hallamos, no se puede decir lo que sentíamos, porque cada uno miraba á quien no quería que le mirase.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 1 (43)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el punto en que consiste la discordancia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallando, en los sucesos ó en sus circunstancias, discordantes con notable oposición á nuestros mismos escritores, me ha sido necesario buscar la verdad con poca luz, ó conjeturarla de lo más verisímil.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. advert . (R. 28. 207)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Que discuerda en cualidades.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Colores, atributos discordantes.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Voces, circunstancias discordantes de las referidas.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Considerado como negativo de concorde , conforme , se construye alguna vez lo mismo que ellos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto dicho y repetido catorce ó veinte veces, callan de repente los instrumentos, sin saber por qué, y empieza entre marido y mujer lo que llaman parola , transición intempestiva, absurda, discordante con lo que ha precedido y lo que debe seguir.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 101."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Dícese de voces é instrumentos que no están acordes ó de las combinaciones producidas por ellos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Luégo que acabó su discordante sinfonía la que yo quiero llamar orquestra, salió un personaje ridículo.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 1, p. 582."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Magüer son en calidad | Algunt tanto discordantes, | Ambas a dos son priuantes | De la franca libertad.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr . 1, p. 132."
+        },
+        {
+          "texto_cita": "«E juntos é discordantes | Todos los quatro elementos | En uno ---»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 190."
+        },
+        {
+          "texto_cita": "«Eco respondia | A sus discordantes voçes.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 355."
+        },
+        {
+          "texto_cita": "«Trabajando por concordar los discordantes é quitar pleitos é contiendas, non podie complacer á todos.»",
+          "autor": "",
+          "referencia_obra": "Libro de los enxemplos , 13 (R. 51. 450 1 )."
+        },
+        {
+          "texto_cita": "«Ayuna sin quarentena | Por trobar por consonantes; | Non valen sus descordantes | Una blanca la docena.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 640."
+        },
+        {
+          "texto_cita": "«Ca siempre veo que eres [oh fortuna] | Discordante.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 237."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. discordantem , discordans , part. de discordare , discordar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

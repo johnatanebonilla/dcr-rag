@@ -1,0 +1,825 @@
+{
+  "lema": "AMPARAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Defender cubriendo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Derribaron los moros al infante. Amparábale el conde don García con su escudo, y con la espada arredraba y aun detuvo por buen espacio los moros que los rodeaban y acometían por todas partes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 5 (R. 30. 284 1 )."
+            },
+            {
+              "texto_cita": "«Vio á nuestra Señora con grandísima gloria, vestida de un manto blanco, debajo del cual amparaba á la Santa y á todas sus monjas.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 10 ( Míst. 1. 143)."
+            },
+            {
+              "texto_cita": "«Halla la viuda tórtola su nido | Do amparar sus hijuelos.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "salmo 83 (R. 42. 329 1 ). —"
+            },
+            {
+              "texto_cita": "«Por un inculto paso y encubierto, | Que la fragosa sierra le amparaba, | Le pareció con tiempo retirarse.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 22 (R. 17. 84 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por el suelo llano | Su duro tronco echó rayo ligero; | Al dar en tierra, el segador cercano | Que á ampararse á su sombra iba primero, | Suspenso, ni se acerca ni retira.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 20 (R. 17. 350 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amparados de la obscuridad llegaron sin ser sentidos al Parián.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "Conq. de las Malucas , lib . 4, fol . 111 ( Dicc. Autor .)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con contra , para expresar lo que daña ú ofende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De nube un pabellón maravilloso | Los amparaba contra el sol de día, | Y una columna, cual ardiente vela, | Les hacía de noche centinela.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 6 (R. 17. 449 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en igual sentido, aunque mediante conceptos distintos: contra denota oposición á lo que daña; de alejamiento ó separación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre las cimas del Alpe | Sobresalen dos montañas, | Que coronadas de nieve | Al cielo sus frentes alzan; | Una al grato mediodía | Presenta la herbosa falda; | Otra hacia el norte se eleva | Y del aquilón la ampara.»",
+              "autor": "Lista",
+              "referencia_obra": ", rom . 2 (R. 67. 334 1 )."
+            },
+            {
+              "texto_cita": "«De enlazados ramos | Espacioso dosel hora me ampara | Del crudo ardor del polvoroso estío.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Cienf . (R. 19. 29 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar el lugar donde se defiende algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De los montes Pirineos, en que nuestros mayores ampararon su libertad --- bajamos y extendimos los términos de nuestro señorío no sólo por España, sino que sujetamos valerosamente á nuestro cetro muchas islas del mar Mediterráneo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 19. 9 (R. 31. 44 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llevemos | A Gui de Borgoña al fuerte, | Y amparémonos en él.»",
+              "autor": "Cald.",
+              "referencia_obra": "La puente de Mantible , 3. 7 (R. 7. 218 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amparados en la distancia, se defendían de la sujeción.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 7 (R. 28. 208 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con de , para significar lo que sirve de defensa ó resguardo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desta colina, Federico, quiero | Amparar nuestra gente.»",
+              "autor": "Mto.",
+              "referencia_obra": "El licenciado Vidriera , 1. 9 (R. 39. 253 3 ). —"
+            },
+            {
+              "texto_cita": "«De ti, madre de Dios, exclama, vengo | A amparar mi inocencia.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, Blanca de Borbón , 1.1 (85)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Guarecerse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me amparé del palacio de don Marco Antonio de Capua.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz . 6 (R. 33. 317 2 )."
+            },
+            {
+              "texto_cita": "«Un hombre que ha venido | A ampararse deste reino.»",
+              "autor": "Lope",
+              "referencia_obra": ", Guardar y guardarse , 1. 16 (R. 34. 390 3 )."
+            },
+            {
+              "texto_cita": "«Ataja, ataja, no entren | A ampararse de las rocas.»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios , 3 (R. 7. 285 2 )."
+            },
+            {
+              "texto_cita": "«Quítame este manto aprisa, | Que aunque no importara, Inés, | El que mi hermano supiera, | Que fui en casa de Beatriz, | Importa que no lo sepa | Por circunstancias que hubieron | De obligarme á que por fuerza | Me amparase de un portal | En que él me vio.»",
+              "autor": "",
+              "referencia_obra": "Id. ¿Cuál es mayor perfección? 2. 20 (R. 7. 82 3 )."
+            },
+            {
+              "texto_cita": "«Deste bufete [Me amparo]. — Estará debajo | De un bufete otro bufete.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La cueva de Salamanca , 1 (R. 20. 85 2 )."
+            },
+            {
+              "texto_cita": "«De vuestras aguas me amparo | Como cierva en la corriente, | Que viene herida á la fuente.»",
+              "autor": "Lope",
+              "referencia_obra": ", San Diego de Alcalá , 2 (R. 52. 522 3 )."
+            },
+            {
+              "texto_cita": "«Este sagrado me valga. | — No podrá, aunque dél te ampares.»",
+              "autor": "Mto.",
+              "referencia_obra": "S. Franco de Sena , 3. 16 (R. 39. 142 3 )."
+            },
+            {
+              "texto_cita": "«¡Oh, salve, chocita mía! | De ti mi aflicción se ampara.»",
+              "autor": "Cienf.",
+              "referencia_obra": "Poes. El propósito (R. 67. 10 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con con , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ampararse con algo.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Ampararse con el castillo.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Refl . Acudir en busca de favor ó protección.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar la persona cuyo amparo se solicita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es su costumbre favorecer á los que de ella se quieren amparar.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 23 (R. 53. 220 2 )."
+            },
+            {
+              "texto_cita": "«Nada temeré sino mis pecados y tu justicia; mas de tal manera la temeré, que de ti, ofendido como juez, me ampararé como hijo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Fant . 4 (R. 48. 163 2 )."
+            },
+            {
+              "texto_cita": "«Un príncipe de la sangre, | Desde que nace, obligada | La tiene á favorecer | A los que della se amparan.»",
+              "autor": "Lope",
+              "referencia_obra": ", Más pueden celos que amor , 1. 9 (R. 34. 178 2 )."
+            },
+            {
+              "texto_cita": "«Van á Castilla á ampararse | De Fernando é Isabel.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La gallega Marí-Hernández , 1. 1 (R. 5. 109 2 )."
+            },
+            {
+              "texto_cita": "«Advierte | Que éste se ampara de mí.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Siempre ayuda la verdad , 1. 1 (R. 20. 229 1 )."
+            },
+            {
+              "texto_cita": "«Calla, necio. ¿Del hermano | Del muerto había de ampararse?»",
+              "autor": "",
+              "referencia_obra": "Id. Ganar amigos , 1. 7 (R. 20. 343 2 )."
+            },
+            {
+              "texto_cita": "«Huyendo de la fortuna | Vengo á ampararme de vos, | Por dar con tal capitán | Al mismo infierno temor.»",
+              "autor": "",
+              "referencia_obra": "Id. El tejedor de Segovia , 2ª pte . 2. 14 (R. 20. 406 2 )."
+            },
+            {
+              "texto_cita": "«Hasta agora no creí | Que caballeros engañan, | De vuestras obligaciones, | A los que dellos se amparan.»",
+              "autor": "Cald.",
+              "referencia_obra": "Casa con dos puertas , 3. 16 (R. 7. 147 3 )."
+            },
+            {
+              "texto_cita": "«Mas aunque todo esto aquí | Está contra vos, está | De vuestra parte que ya | Os amparasteis de mí.»",
+              "autor": "",
+              "referencia_obra": "Id. Mejor está que estaba , 1. 4 (R. 7. 226 2 )."
+            },
+            {
+              "texto_cita": "«Vida y alma le debo | En un tesoro; pero no me muevo | Por eso solamente, | Sino porque de mí y de ti valiente | Y rendido se ampara.»",
+              "autor": "",
+              "referencia_obra": "Id. Argenis y Poliarco , 3. 12 (R. 7. 455 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un nombre de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mal su justicia asegura | Quien en sus pleitos ignora | Que mujer competidora | Se ampara de su hermosura.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La Huerta de Juan Fernández , 2. 2 (R. 5. 639 2 )."
+            },
+            {
+              "texto_cita": "«Es tu poder tan grande, que me llama | Para que yo me ampare de su fuerza | Contra su mismo brazo y poder santo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 9, salmo 14 (R. 69. 333 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un infin. (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ella, quejosa, de pedir se ampara | Que de mujer común la diferencie, | Que le promete desde el mismo día | Escucharle más blanda que solía.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél . 16 ( Obr. suelt . 2. 252)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Favorecer al que se halla desvalido ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A un ejército considerable se le auxilia para hacer más poderosa é irresistible su fuerza; á una plaza que sostiene con dificultad un sitio, se la socorre para que no se rinda; á un infeliz vencido y derrotado, se le ampara, para que no perezca --- Se auxilia al industrioso, se socorre al necesitado, se ampara al desvalido.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Sinón ."
+            },
+            {
+              "texto_cita": "«Los pobres virtuosos y discretos tienen quien los siga, honre y ampare, como los ricos tienen quien los lisonjee y acompañe.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 21 (R. 1. 449 1 )."
+            },
+            {
+              "texto_cita": "«¡Desdichada nací pues no me queda á quien volver los ojos! ¿Quién ha de amparar á una pobre mujer sola?»",
+              "autor": "Quev.",
+              "referencia_obra": "Mundo por de dentro (R. 23. 328 1 )."
+            },
+            {
+              "texto_cita": "«Si como lo muestra | El traje, sois caballero | De obligaciones y prendas | Amparad á una mujer | Que á valerse de vos llega.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende , 1. 2 (R. 7. 167 2 )."
+            },
+            {
+              "texto_cita": "«Callad, | No digáis más, que no deben | Escuchar los caballeros | Más razón á las mujeres | Para ampararlas, que verlas | Afligidas.»",
+              "autor": "",
+              "referencia_obra": "Id. El escondido y la tapada , 2. 15 (R.7. 470 3 )."
+            },
+            {
+              "texto_cita": "«Como el cielo durará para siempre cubriendo la tierra, así su misericordia durará amparando á los que le aman.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 6.12 (3. 325)."
+            },
+            {
+              "texto_cita": "«Mucho los viejos una casa amparan: | Los mozos son polilla de la hacienda.»",
+              "autor": "Lope",
+              "referencia_obra": ", La discreta enamorada , 1. 7 (R. 24. 159 1 )."
+            },
+            {
+              "texto_cita": "«Dios vuestra casa ampara, | Y él os sabra defender.»",
+              "autor": "",
+              "referencia_obra": "Id. El gran duque de Moscovia , 1. 15 (R. 52. 260 2 )."
+            },
+            {
+              "texto_cita": "«En su Dios deposita la esperanza, | Y de su protección perpetua fía, | Viendo que de su mano le bendijo | Y con amor le ampara como á hijo.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Expos. del salmo 113 (R. 42.123 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El tiempo que estamos en el siglo por razón de alguna necesidad, ahí somos amparados por mano del Señor ó por ventura por la oración del padre espiritual; porque el nombre del Señor no sea por nosotros blasfemado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 15. 1 (R. 11. 332 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acuérdome cuando el ángel dijo á la Virgen santísima nuestra Señora: la virtud del muy Alto te hará sombra. ¡Qué amparada se debe ver un alma, cuando el Señor la pone en esta grandeza!»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Conc . 5 (R. 53. 400 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la persona ó cosa que amenaza ú ofende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se huyó y acogió al aposento de la reina, que se puso delante para amparalle del rey que venía en su seguimiento con la espada desnuda, y por sus ruegos y lágrimas hizo tanto que le libró de la muerte.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 14. 12 (R. 30. 421 1 )."
+            },
+            {
+              "texto_cita": "«Si ella con muy culpable atrevimiento no se aparta de su Esposo, él la amparará de todo el mundo, y aun de todo el infierno.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor . 6. 4 (R. 53. 468 2 )."
+            },
+            {
+              "texto_cita": "«Vosotros os tenéis por satisfechos con un sucesor de David que os reduzga á vuestra primera tierra, y os mantenga en justicia, y defienda y ampare de vuestros contrarios.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2 Brazo (R. 37. 115 2 )."
+            },
+            {
+              "texto_cita": "«Y tú también, oh singular princesa, | Justicia es que me ampares deste ingrato, | Y que me cumpla mandes la promesa, | Y torne de su amor al primer trato.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 9 (R. 17. 240 1 )."
+            },
+            {
+              "texto_cita": "«No entres, no entres á mirarla; | Porque á su lado, señor, | Está Astolfo, que la guarda. | Verdad es que el cielo quiere | De ti, señor, ampararla.»",
+              "autor": "Cald.",
+              "referencia_obra": "El galán fantasma , 3. 22 (R. 7. 310 3 ). —"
+            },
+            {
+              "texto_cita": "«Del bélico furor las amparaban.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 18 (R. 17. 70 1 )."
+            },
+            {
+              "texto_cita": "«El brazo deste joven valeroso | De mi culpa podrá satisfacerte, | Cuando su espada ampare, no vencida, | De varios riesgos tu importante vida.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 3 (R. 17. 167 2 )."
+            },
+            {
+              "texto_cita": "«¡Cuando está aquí don Félix, tras su ausencia, | Que me puede amparar desta violencia, | Quiere á otra!»",
+              "autor": "Mto.",
+              "referencia_obra": "El caballero , 2. 7 (R. 39. 298 3 )."
+            },
+            {
+              "texto_cita": "«Solicitad los mares | Para que no os escondan los lugares | En donde procelosos | Amparan la inocencia | De vuestra peregrina diIigencia.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 8, silva 12 (R. 69. 309 2 )."
+            },
+            {
+              "texto_cita": "«A vueltas de los muchos que venían á pedirle el bautismo y la doctrina, venían muchos otros también á pedirle que los amparase de las demasías de los españoles.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 464 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Con éste [el ayuno] se ampararon y defendieron aquellos tres mozos del furor del rey de Babilonia.» Gran. Mem . 2. 3. 3, § 1 (R. 8. 239 1 ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le dio [á la rosa] las espinas | Para guardar su belleza; | Y no hay imagen más clara | De la castidad hermosa, | Pues de la mano la rosa | Con las espinas se ampara.»",
+              "autor": "Lope",
+              "referencia_obra": ", Mirad á quién alabáis , 2. 12 (R. 52. 466 3 )."
+            },
+            {
+              "texto_cita": "«Aquesa mujer venía | A ampararse á vos de un riesgo.»",
+              "autor": "Mto.",
+              "referencia_obra": "El lindo don Diego , 2. 14 (R. 39. 364 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con contra , para el mismo fin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si éste al cielo amparara | Contra las duras fuerzas de Mimante, | Ni el trance recelara | El vencedor Tonante, | Ni sacudiera el brazo fulminante.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, canc . 6 (R. 32. 287 2 )."
+            },
+            {
+              "texto_cita": "«Si guardarle es nobleza, | Pues que viene á que le ampare | Aragón contra Castilla | En un peligro tan grave, | También guardarme es prudencia | De que don Félix me mate.»",
+              "autor": "Lope",
+              "referencia_obra": ", Guardar y guardarse , 1. 18 (R. 34. 391 1 )."
+            },
+            {
+              "texto_cita": "«Recordábale al mismo tiempo la honra que ganaría en amparar á un principe huérfano y desvalido contra las injurias de los extraños.»",
+              "autor": "Quint.",
+              "referencia_obra": "Guzmán el Bueno (R. 19. 217 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , en la frase forense amparar en la posesión : mantener á uno en la posesión que tenía antes de moverse el pleito. Acad. Dicc .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "For. Embargar bienes muebles ( trans .) ( prov. de Aragón). Borao .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Prendiendo sus personas, y amparando y distribuyendo sus bienes hasta la entera y condigna satisfacción.»",
+          "autor": "",
+          "referencia_obra": "Estatutos de Zaragoza , pl . 308 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "Pedir prestado ( trans .) ( ant. ; probablemente valencianismo).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estando un vecino en casa de un compadre suyo para ampararle un ducado, que tenía grandísima necesidad dél --- dijo ---»",
+          "autor": "Timoneda",
+          "referencia_obra": ", Alivio de camin . 21 (R. 3. 171 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "Llenar las condiciones bajo las cuales está concedido el derecho de sacar ó beneficiar una mina ( trans .) ( prov. Amér. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Amparar una mina.»",
+          "autor": "Salvá",
+          "referencia_obra": ", Dicc . Esta acepción hubo de aparecer por suponerse la existencia en el positivo de la correspondiente á desamparar . Cp. Leyes de Indias , 4. 19. 6."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas emparar , amperar (ésta pudiera ser errata, pero le prestan apoyo el imperare del fuero de Toledo, y el fr. ant. emperer , en Ducange , sb. voc. Emparamentum ), y las acepciones:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Defender; refl . defenderse;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Embargar, impedir;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "γ )",
+          "definicion": "Apoderarse.) — Siglo XV :",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hicieron un muro muy grueso de piedra seca, é con aquello se amparaba algo el muro é la torre mayor.»",
+              "autor": "Crón. Juan II",
+              "referencia_obra": ", 1. 43 (R. 68. 295 2 )."
+            },
+            {
+              "texto_cita": "«Cubriendome de tu manto | Tú me quieras amparar.»",
+              "autor": "P. de Guzmán",
+              "referencia_obra": ", Clar. var . 202 ( Rim. inéd . 302)."
+            },
+            {
+              "texto_cita": "«Al su saber divino, glorioso | Non se le ampara escuro secreto.»",
+              "autor": "Canc. de Baena",
+              "referencia_obra": ", p. 549."
+            },
+            {
+              "texto_cita": "«Pues hanparades çien mill, | Amparad á mí.»",
+              "autor": "",
+              "referencia_obra": "Ib . p. 166."
+            },
+            {
+              "texto_cita": "«Me mandastes, | Non sé ssy vos mienbra, una vestra ropa | Yo bien tengo que quanto tal opa, | En todo este tienpo que non la enparastes.»",
+              "autor": "",
+              "referencia_obra": "Ib . p. 101. — Siglo XIV :"
+            },
+            {
+              "texto_cita": "«Las casas que avian fecho eranles caidas las mas dellas, asi que los non amparaban del sol nin del agua quando llovia.»",
+              "autor": "Alf. XI",
+              "referencia_obra": ", 325 (R. 66. 381 1 )."
+            },
+            {
+              "texto_cita": "«Et ponian las adagaras delante que los amparasen de las saetas.»",
+              "autor": "",
+              "referencia_obra": "Ib . 120 (R. 66. 253 1 )."
+            },
+            {
+              "texto_cita": "«Et veno y don Yuzaf el judio, que ella amparó de la muerte.»",
+              "autor": "",
+              "referencia_obra": "Ib . 70 (R. 66. 217 1 )."
+            },
+            {
+              "texto_cita": "«Esto queria él facer aviendo en su ayuda los malfechores, et amparándolos del rey.»",
+              "autor": "",
+              "referencia_obra": "Ib . 45 (R. 66. 201 1 )."
+            },
+            {
+              "texto_cita": "«Nunca don Joan recudió á los amparar.»",
+              "autor": "",
+              "referencia_obra": "Ib . 16 (R. 66. 185 2 )."
+            },
+            {
+              "texto_cita": "«Les envió decir --- que luego seria con ellos, é que ampararia la tierra de los males que los moros facian en ella.»",
+              "autor": "Alf. X",
+              "referencia_obra": ", 64 (R. 66. 51 1 )."
+            },
+            {
+              "texto_cita": "«El é las sus gentes eran para amparar é defender la su tierra.»",
+              "autor": "",
+              "referencia_obra": "lb . 8 (R. 66. 7 2 )."
+            },
+            {
+              "texto_cita": "«Por la çaga anparar, | Muy bien lidió don Juan, | E bien asy la mesnada, | En los moros bien golparon.»",
+              "autor": "",
+              "referencia_obra": "Alf. XI , 437 (R. 57. 490 2 )."
+            },
+            {
+              "texto_cita": "«Non anpare nin deffienda en el sso barrio al mio alguazil ningun omme a quien el quiera prender.»",
+              "autor": "",
+              "referencia_obra": "Cortes de Valladolid , año 1312 ( C. de L. y C . 1. 211)."
+            },
+            {
+              "texto_cita": "«Et si dellos fizieren algunas fuerças o muertes de omes o enbargaren o enpararen la mi justiçia, mandarlos he derribar.»",
+              "autor": "C. de L. y C.",
+              "referencia_obra": "1. 189)."
+            },
+            {
+              "texto_cita": "«Que pierda lo quel tomaren et sea para mi, et que el su cuerpo non aya penna, saluo si se quisier anparar.»",
+              "autor": "",
+              "referencia_obra": "Cortes de Burgos , año 1301 ( C. de L. y C . 1. 148). — Siglo XIII :"
+            },
+            {
+              "texto_cita": "«Dizen que los cogedores que cogen los nuestros pechos, fallando peyndras en las nuestras villas e en los nuestros logares et non ge las amparando, que uan peyndrar por los caminos e por las ferias.»",
+              "autor": "",
+              "referencia_obra": "Cortes de Valladolid , año 1293 ( C. de L. y C . 1. 111)."
+            },
+            {
+              "texto_cita": "«Si sobresto los otros non gelo quisieren aun dexar, emparándogelo por fuerza con armas, estonce si gelo tolleren ó les ficieren daño los que van en pos lo suyo, non caen por ello en pena nin en caloña alguna.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 26. 24 (2. 293)."
+            },
+            {
+              "texto_cita": "«La segunda manera de guerra de que agora queremos fablar, es de aquella que deben facer contra los enemigos que son fuera del regno que les quieren tomar por fuerza su tierra ó empararles la que con derecho deben haber.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 23. 2 (2. 228)."
+            },
+            {
+              "texto_cita": "«Los oficiales et los mayorales deben servir et obedecer al rey como á su señor, et amparar et mantener el regno como á su cuerpo.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 19. 1 (2. 57)."
+            },
+            {
+              "texto_cita": "«Si el clérigo quiere ferir á alguno, et el otro fiere luego á él por ampararse.»",
+              "autor": "",
+              "referencia_obra": "Part . 1. 9. 3 (1. 329)."
+            },
+            {
+              "texto_cita": "«Como si alguno demanda alguna mugier, e se anpara por si o por otri por ella, mostrando alguna de aquellas razones que manda el derecho de santa eglesia.»",
+              "autor": "",
+              "referencia_obra": "Espéc . 4. 7. 33 (O. L. 1. 212)."
+            },
+            {
+              "texto_cita": "«Si aquel quel pide quel demuestre la cosa, no la avie perdida por tienpo en esta sazon que dixiemos, --- aquel a qui la demandan que la a de mostrar, non se puede enparar diziendo que la a ganada por tienpo.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 344)."
+            },
+            {
+              "texto_cita": "«Por la defensión, quando derechamiente se faze, alcanza ome mas ayna su derecho. E enparase del mal quel podrie venir por razon de la demanda quel fazen.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 306)."
+            },
+            {
+              "texto_cita": "«Si aquel que es tenedor de aquella cosa en que manda fazer el asentamiento non consintiere que lo faga, deve enbiar el rey al juez o al merino de aquel logar, o a otro ome qualquier quel eche ende. E si gelo anperare, peche ciento mrs. al rey, e ciento a aquel que feziere el asentamiento por su mandado --- Mas si el asentamiento fuere fecho por mandado de otro judgador, deve él enbiar al que a de fazer la justicia en aquel logar, quel eche ende a aquel que lo enpara, e asiente al demandador en aquello que el juez le mandó. E si a este lo anperase, mandamos quel peche diez mrs.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 302, 303). Item, Part . 3. 8, 3; salvo que aquí se lee amparar (el título de la ley, y también después en el cuerpo de ella: embargar )."
+            },
+            {
+              "texto_cita": "«Con ayuda de los otros del regno defienda el regno e enparelo e tengalo en justicia e en derecho fasta que el rey sea de edat que lo pueda fazer.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 72)."
+            },
+            {
+              "texto_cita": "«Devense guiar los de la villa por su conseio, e deven le obedescer quanto en anparar la villa e en guardarla para el rey.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 36)."
+            },
+            {
+              "texto_cita": "«Pero si alguno dellos matase, o feriese o prisiese o desonrase defendiendo su rey --- u al mayor fijo que devie ser heredero, o enparando el regno, non aya ninguna pena.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 28)."
+            },
+            {
+              "texto_cita": "«Naturalmente el rey es cabeza de su reyno e es ayuntamiento de su pueblo --- e es muro que los anpara que non reciban daño de los de fuera.»",
+              "autor": "",
+              "referencia_obra": "Ib . 2. 1. 1 (O. L. 1. 13)."
+            },
+            {
+              "texto_cita": "«Es por la mala ventura de que se non puede ninguno amparar.»",
+              "autor": "",
+              "referencia_obra": "Cal. é Dymna (R. 51. 28 2 )."
+            },
+            {
+              "texto_cita": "«Cuanto mas pensé en las cosas deste mundo é en sus sabores, tanto mas le desprecié, et tove por bien de me amparar con religion et despreciar este mundo.»",
+              "autor": "",
+              "referencia_obra": "lb . (R. 51. 17 1 )."
+            },
+            {
+              "texto_cita": "«El anima que se ampara de demandar siempre las cobdicias muere.»",
+              "autor": "Buenos proverbios",
+              "referencia_obra": "(Knust, Mitth . 64)."
+            },
+            {
+              "texto_cita": "«Si por aventura escapare el homiciero, empare el seynor de la villa sus cosas por su omicidio.»",
+              "autor": "Fuero",
+              "referencia_obra": "de Argued. ( Muñoz , F . 331)"
+            },
+            {
+              "texto_cita": "«La debda que ficieren otras mugeres, a menos de lo mandar o de lo otorgar suo marido, non las deven quitar suos maridos de mas de cinco sueldos, e puedenlas emparar suos maridos mientras que fueren vivos, e non pagar ellos nin ellas nada de cinco sueldos en arriba.»",
+              "autor": "Fuero",
+              "referencia_obra": "viejo , 5. 1. 12 (124)."
+            },
+            {
+              "texto_cita": "«Quieren mas guardar sus labores que sus cuerpos, é amparan sus casas é desamparan á sí mismos.»",
+              "autor": "Fuero",
+              "referencia_obra": "Juzgo , 9. 2. 8 (159)."
+            },
+            {
+              "texto_cita": "«Si --- alguno de sus parientes mata por tuerto quel fazie el otro, ó porque se queria amparar dél el que lo mató.»",
+              "autor": "",
+              "referencia_obra": "Ib . 6. 5. 19 (118)."
+            },
+            {
+              "texto_cita": "«De tan mal enemigo tan malo de arrancar, | El que saluó el mundo nos denne a emparar.»",
+              "autor": "",
+              "referencia_obra": "Alex . 2205 (R. 57. 215 1 )."
+            },
+            {
+              "texto_cita": "«Nunca en al cuydaua | Por fer matar a Ector, mas non se ge guisaua, | Ca entendie que Troya por él se amparaba.»",
+              "autor": "",
+              "referencia_obra": "Ib . 634 (R. 57. 167 1 )."
+            },
+            {
+              "texto_cita": "«Que si non porque era cuentra ellos la fada, | Ouieran os griegos á Troya amparada.»",
+              "autor": "",
+              "referencia_obra": "Ib . 435 (R. 57. 161 1 )."
+            },
+            {
+              "texto_cita": "«Si non los amparare el padron del logar, | Nos non podremos, rey, contigo baraiar.»",
+              "autor": "Berc.",
+              "referencia_obra": "S. Dom . 155 (R. 57. 44 2 )."
+            },
+            {
+              "texto_cita": "«Astragaban la tierra quanto podian trobar, | Ca non avien conseio por seli amparar.»",
+              "autor": "",
+              "referencia_obra": "Id. S. Mill . 415 (R. 57. 77 2 )."
+            },
+            {
+              "texto_cita": "«Siempre toda su cosa es mejor allinada, | Del diablo en cabo el alma emparada.»",
+              "autor": "",
+              "referencia_obra": "Id. Loores , 206 (R. 57. 99 2 )."
+            },
+            {
+              "texto_cita": "«Dios solo faz tal cosa que sus siervos empara.»",
+              "autor": "",
+              "referencia_obra": "Id. S. Oria , 78 (R. 57. 140 1 )."
+            },
+            {
+              "texto_cita": "«Que por su merçed non la dexasse, | Del diablo la amparasse.»",
+              "autor": "",
+              "referencia_obra": "S. M Egipc . (R. 57. 312 2 )."
+            },
+            {
+              "texto_cita": "«Aquel rey de Seuilla el mandado legaua, | Que presa es Valençia que non ge la enparan.»",
+              "autor": "Cid",
+              "referencia_obra": ", 1223 (R. 57.15 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Praeterea mando, quod fiat inquisitio per bonos homines de illis qui remanserunt de meo fosato, quantum levaverunt alcalles, et quantum amparaverunt majordomo Episcopi, et integrent totum ei.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1225 ( Esp. sagr . 41. 359)."
+        },
+        {
+          "texto_cita": "«Juret ille qui tenet ipsa hereditate que non fuit sabidore quod anparaverit suos parentes directum et pennos pro ista hereditate.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid , año 1202 ( Mem. Acad. Hist . 8. 39)."
+        },
+        {
+          "texto_cita": "«Et si el qui anpara disierit homines habuerit ibi, cognominet los homines con qui firmara, et iurent quod in illa ora ibi fuerunt quando achela buelta fuit facta.»",
+          "autor": "",
+          "referencia_obra": "Ib . ( ib . 8. 30)."
+        },
+        {
+          "texto_cita": "«Concedo autem ad infanzones quod defendant et emparent suos excusatos et suos caseros.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Larraón , año 1192 ( Llor. Prov. Vasc . 4. 324)."
+        },
+        {
+          "texto_cita": "«Convenio et concedo vobis quod nunquani sepedicta castella forcem vobis --- et quod amparemus ea de omnibus qui fecerint ibi malum.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1191 ( Dicc. de la Rioja , 287)."
+        },
+        {
+          "texto_cita": "«Si vero dominus domus fiadorem non presentaverit, et pignus amparaverit, merinus vel sagio det duos testes super hoc ad dominum.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Santander , año 1187 ( Prov. Vasc . 4. 306)."
+        },
+        {
+          "texto_cita": "«Conquestus est, quod comes ea occasione illius tertiae partis Januensium quosdam honores imparaverat.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1165 (catalán) ( Esp. sagr . 42. 293)."
+        },
+        {
+          "texto_cita": "«Non sit super eos aliquod servitium ad faciendum supra bestias illorum, non sernam, nec fossatoria, nec vigilia in civitate, nec in castello, sed sint honorati, et liberi, et ab omnibus laceribus imperati --- Jussit ut saiones non intrent in eas, nec maiorinus, sed sint imperati per amorem populationis illius in Toleto.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Toledo , año 1118 ( Muñoz , F . 365)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Gall. emparar ; port. amparar , emparar ; cat. amparar , proteger, embargar; val., mall. amparar , emparar , proteger, secuestrar; cat. , val., mall. empara , embargo; arag., cat. , val. , amprar , tomar prestado, en mall. usar, gastar; prov. amparar , emparar , proteger, tomar, aprender; fr. ant. emparer , fortificar; s´emparer , apoderarse; it. imparare , aprender: latín bajo imparare , propiamente preparar, alistar, y de ahí ( emparare , amparare ) fortalecer, defender, proteger; del sentido de defender, mediando el de impedir, pasó al de embargar; del de tomar bajo su protección pasó al genérico de tomar, que es el fundamental en apoderarse, tomar prestado, servirse, y finalmente en aprender ( adprendere , tomar para sí). Mamparar , de uso común hasta el siglo XV, es manu parare ; aparece como variante en el siguiente lugar:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Deve seer constrennido de responder en aquellos dias, é non se puede mamparar por las ferias.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 1. 2. 10 (13; * emparar, amparar)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans . — Refl .: 1, a , α , α α - 1, a , δ , α α - 1, a , ε , α α - 1, b - 2, β , α α . — Part .: 1, a , α , β β - 1, a , δ , β β - 2, α , β β . — Con con : 1, a , ζ . — Contra : 1, a , β - 2, γ . — De : 1, a , γ - 1, α , ε - 1, β - 2, β . — En : 1, a , δ - 2, δ . \u0000"
+}

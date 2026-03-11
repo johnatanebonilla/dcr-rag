@@ -1,0 +1,111 @@
+{
+  "lema": "AFÁN.",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "-->s. m. El trabajo demasiado y congojosa solicitud. Unas veces predomina la idea de trabajo, otras la de congoja, otras la de solicitud. — α ) «Hace [el vino] sufrir los afanes de las labranzas á los cansados segadores.» Celest. 9 (R. 3. 41 1 ). «¿No será mejor y más acertado morir como buenos, que perder la libertad que nuestros mayores con tanto afán nos dejaron?» Mariana , Hist. Esp . 9. 5 (R. 30. 250 1 ). «Estas eran las faltas principales que en don Alonso se notaban; y si con tiempo se remediaran, el reino y él mismo se libraran de grandes afanes.» Id . ib. 13. 20 (R. 30. 396 2 ). «El cisne, que el mayor de los afanes | Lamenta con dulcísima armonía» B. Argens . epíst. No te pienso pedir (R. 42 . 315 2 ). «En aquel general impulso que arrastró en pos de ellas [las letras] todas las naciones de Europa, ninguna las buscó con más afán, ninguna las cultivó con más gloria que la ingeniosa España.» Jovell. Or. inaug. del Instit. Astur. (R. 46. 319 2 ). «Guiados por la suerte | A más nobles objetos, recorramos | En el afán poético materias | Dignas de una memoria perdurable.» Id . A sus amigos de Salam. (R . 46. 38 2 ). «Asistía á los afanes rústicos de aquella gente laboriosa abatida y mísera.» Mor . Vida de Moratín (R. 2. XIX ). «¡Oh cuánto padece de afanes cercada, | Merced al engaño de fiero enemigo, | En largo castigo la prole de Adán!» Id . Los padres del limbo (R. 2. 606 2 ). «Baña el sudor mi frente, el pie me falta, | Y opresa del afán caigo sin vida.» Quint. Pelayo , 2. 1 (R. 19. 62 1 ). «A Kerima un afán desconocido | Le agita el pecho, le conmueve el alma.» A. Saav. Moro expós . 1 (2. 22). — β ) Con de, para expresar el objeto de la solicitud. «Es [el Quijote] una inspiración felicísima, trasladada al papel con prisa, con afán de llevarla á cabo y sin volver la vista atrás para mirar lo que iba hecho.» Hartz. Observ. sobre el Coment. de Clem. (378). «Siento | Un afán inexplicable | De preguntar.» Id. Primero yo , 3. 5 (108). «El afán de la venganza | Me llevaba al deshonor.» A. L. de Ayala, El tejado de vidrio, 4. 7 (2. 202). — γ ) Con por , que expresa la causa de la solicitud. «De una mirada hicieron manifiesto | Su afán por no poder salvar el resto.» Arriaza , Cantos líricos , 5. 2 (R. 67. 101 2 ). «A veces se nota sumo afán por imitar á los antiguos en las largas arengas que ponen en boca de los personajes.» Gil y Zárate , Resum. histór. p. 37.",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la acepción de Trabajo material, como del jornalero, de los animales).— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Asaz pasamos grand trabajo toda la noche --- pasando muchos fuertes pasos, sufriendo muchos afanes.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p.73."
+        },
+        {
+          "texto_cita": "«En esta tierra son muy alabados los caballos della por de grande afan.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 141."
+        },
+        {
+          "texto_cita": "«Tantas monedas pagaba el ome de afan, que non tenia si non una azada é un asno con que mantenia á si é á su muger é á sus fijos, como los labradores ricos.»",
+          "autor": "Sum. del Despens.",
+          "referencia_obra": "p. 83. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Grand danno viene a los nuestros rregnos por ser en ellos consentidos e gouernados muchos vagabundos e folgazanes que podrian trabaiar e beuir de su afan e non lo facen.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Briviesca , año 1387 ( C. de L. y C . 2. 370)."
+        },
+        {
+          "texto_cita": "«Se perdian muchos caballos et rocines por el grand afan que les daban andando cada día en ellos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 93 (R. 66. 229 1 )."
+        },
+        {
+          "texto_cita": "«El rey tomó y [en la toma de Tarifa] tan grand afan é tanta laceria, que fue comienzo de la dolencia que él ovo despues.»",
+          "autor": "",
+          "referencia_obra": "Crón. Sancho IV , 9 (R. 66. 86 2 )."
+        },
+        {
+          "texto_cita": "«Era mancevo que todo el dia andaba de muy malos juegos, en guisa que tomó tan grand afan en ellos, que fue ocasion de aver muy grand dolencia.»",
+          "autor": "",
+          "referencia_obra": "lb . 5 (R. 66. 80 1 )."
+        },
+        {
+          "texto_cita": "«Porque los canes de su naturaleza son muy calientes, debenles dar en este tiempo menos afan.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 20 ( Bibl. venat. 1. 67)."
+        },
+        {
+          "texto_cita": "«Les faria mal [á los sabuesos y alanos] el grant afan sobrel comer.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1, pról . ( Bibl. venat. 1. 6). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Sean ligeros et ardidos, et bien laccionados de sus miembros para poder sofrir el afan de la guerra.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 22. 7 (2. 226)."
+        },
+        {
+          "texto_cita": "«Non puede home ganar bondat sin grant afan.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 3. 5 (2. 20)."
+        },
+        {
+          "texto_cita": "«De una parte reciben afan en entender la razon, e de otra en escrivirla.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 46)."
+        },
+        {
+          "texto_cita": "«Persevera en melecinar los enfermos, et non te tire dello el afan de la física, porque los homes non lo saben.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 15 1 )."
+        },
+        {
+          "texto_cita": "«Quien proeza quisiere, afan deue sofrer.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2128 (R. 57. 212 2 )."
+        },
+        {
+          "texto_cita": "«Mandaronme que fuese albergar con Johan, | Ca el me daria çena de agua e de pan, | --- Ca perderme podria con tamanno affan.»",
+          "autor": "Berc.",
+          "referencia_obra": "Duelo , 158 (R. 57. 136 1 )."
+        },
+        {
+          "texto_cita": "«E yr-me quiero pora Valençia, con afan la gané yo.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3507 (R. 57. 36 1 )."
+        },
+        {
+          "texto_cita": "«Con grand afan gané lo que he yo.»",
+          "autor": "",
+          "referencia_obra": "lb . 1935 (R. 57. 22 1 )."
+        },
+        {
+          "texto_cita": "«Con afan gané a Valençia e ela por heredad.»",
+          "autor": "",
+          "referencia_obra": "lb . 1635 (R. 57. 19 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., prov. afan ; fr. ahan ; it. affanno ; en Aragón afaño (Borao no lo trae por ant. como la Acad. ). Véase AFANAR. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

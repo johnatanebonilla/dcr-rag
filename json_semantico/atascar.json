@@ -1,0 +1,260 @@
+{
+  "lema": "ATASCAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Tapar con tascos ó estopones las aberturas que hay entre tabla y tabla y las hendeduras de ellas, como se hace cuando se calafatea un buque ( trans .). Covarr. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Obstruír ó cegar un conducto con alguna cosa ( trans .). De ordinario se usa conto refl .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Atascarse una cañería.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc."
+        },
+        {
+          "texto_cita": "«Con tanto y tanto ripio y tanta broza | Así Hipocrene límpida se atasca.»",
+          "autor": "Bretón",
+          "referencia_obra": ", Desvergüenza, pról. (13)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2",
+      "definicion": ". Metafóricamente y en general se toma por Poner embarazo, detener.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner embarazo en cualquier dependencia ó negocio para que no prosiga ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Detener, impedir á alguno que prosiga lo comenzado ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh! como tú no me faltes, | Ningún peligro me atasca.»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojigata, 3. 10 (R. 2. 412 3 )"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl . Quedarse detenido en algún pantano ó barrizal de donde no se puede salir sino con gran dificultad. Se dice tanto de las personas, como de las caballerías y carruajes.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quién, el húmido cieno á la cintura, | Con dos y tres á veces peleaba; | Quién por mostrar mayor desenvoltura | Queriéndose mover, más se atascaba.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 22 (R. 17. 84 1 )."
+            },
+            {
+              "texto_cita": "«Mejor remedio sería | Hacer el que aprovechó | A un coche que se atascó | En la corte esotro día.»",
+              "autor": "Cald.",
+              "referencia_obra": "La devoción de la Cruz, 1. 1 (R. 7. 54 1 )."
+            },
+            {
+              "texto_cita": "«Nuestras diligencias se atascan cien veces por los caminos en invierno, y vuelcan otras tantas en verano.»",
+              "autor": "Ochoa",
+              "referencia_obra": ", París Londres y Madrid, p. 570."
+            },
+            {
+              "texto_cita": "«Por último se atasca el coche, se sepultan los caballos en el lodo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 521. —"
+            },
+            {
+              "texto_cita": "«Pero con tus sociedades, y tu ministerio, y tu exaltado liberalismo gaditano, y tu distribución de empleos, tus jubilaciones é interinidades, y hablar y no hacer, y decretar y no ejecutar, y destruír y no reponer, es imposible de toda imposibilidad que el carro no se atasque.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2, p. 335."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para expresar el lugar ó la materia donde alguno queda detenido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Atascóse en el barro? | ¡Ahí mil diablos con el coche y carro!»",
+              "autor": "Tirso",
+              "referencia_obra": ", Por el sótano y el torno, 1. 1 (R. 5. 228 1 )."
+            },
+            {
+              "texto_cita": "«Que en una zanja de aquéllas | Se ha atascado un coche.»",
+              "autor": "Cald.",
+              "referencia_obra": "El escondido y la tapada, 1. 2 (R. 7. 460 3 )."
+            },
+            {
+              "texto_cita": "«En un atolladero | El carro se atascó de Juan Regaña.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 5. 11 (R. 61. 376 1 )."
+            },
+            {
+              "texto_cita": "«0 ustedes se van á la Corte de ambos mundos, ó se atascan en algún barranco de Mogarraz.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 323."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Moverse los caballos no pudieran | En pegajosos lodos atascados.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 12 (R. 17. 48 2 )."
+            },
+            {
+              "texto_cita": "«Otros ¡ayuda! ayuda! voceaban | En húmidos pantanos atascados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 35 (R. 17. 130 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Alguna vez se halla usado como intrans . en el mismo sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oye, que el coche atascó, | Y no pudiendo arrancar, | | Los ha obligado á apear.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El pretendiente al revés, 1. 13 (R. 5. 29 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. En general Quedarse detenido por algún obstáculo, no pasar adelante, no correr.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Como la figura del rey de Francia hiciese que se retiraba en derrota, y se hubiesen atascado con no sé qué tropiezo las de los nuestros que le perseguían, el emperador, ---- se dejó por un momento llevar de su imaginación guerrera y fogosa.»",
+          "autor": "Hartz.",
+          "referencia_obra": "La locura contagiosa (376)."
+        },
+        {
+          "texto_cita": "«Si han de sacar algún jugo | Y dar al convite un tiento, | Que aprovechen el momento | Que se te atasque un mendrugo.»",
+          "autor": "Arriaza",
+          "referencia_obra": ", Comp. varias , 26 (R. 67. 144 2 )."
+        },
+        {
+          "texto_cita": "«Como está [la bata] sobre la chupa, | Se arruga todo y se atasca.»",
+          "autor": "Mor.",
+          "referencia_obra": "El barón, 2. 12 (R. 2. 389 3 ) ."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los franceses, dueños del monasterio de Santa Engracia, estaban como atascados en las calles que daban al Coso.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 5 (R. 64. 116 1 )."
+            },
+            {
+              "texto_cita": "«Llegaron [los ratones] presurosos | A sus angostas cuevas --- Pero los capitanes, | Que en las estrechas puertas | Quedaron atascados | Sin ninguna defensa, | A causa de unos cuernos | Puestos en las cabezas | Para ser de sus tropas | Vistos en la refriega, | Fueron las desdichadas | Víctimas de la guerra.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb. 4. 20 (R. 61. 372 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Refl .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«i Ay, señora! que mi amo | En cada paso se atasca, | Se atolondra...»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojigata , 3. 1 (R. 2. 407 3 )."
+            },
+            {
+              "texto_cita": "«¿Sabes escribir? — No sé; | Que tengo horror á la tinta. —Y leer? — Es cosa distinta; | Me atasqué en el A B C.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", El español en Venecia , 5. 3 (3. 510). —"
+            },
+            {
+              "texto_cita": "«No hay quistión ni pesadumbre, | Que sepa, amigo, nadar: | Todas se ahogan en vino, | Todas se atascan en pan.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 5, jác . 2 (R. 69. 99 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y me quedo en el camino | Del hipérbole atascado.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los milagros del desprecio , 1. 5 (R. 34. 236 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Refl . met. En especial, Quedarse en algún razonamiento ó discurso sin poder proseguir.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vierte los dos ó tres períodos que llevaba estudiados, se atasca no sabe qué decir.»",
+          "autor": "Mor.",
+          "referencia_obra": "Hamlet , 5, nota 10 (R. 2. 560 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "g)",
+      "definicion": "En las últimas ediciones de la Gramática de la Academia se registra la expresión Atascarse de comida, en que el verbo vale Atracarse. No se ha puesto en el Diccionario.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y tasco ; éste á su vez sale de tascar . Port. atascar .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe qu : atasque, atasquen . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

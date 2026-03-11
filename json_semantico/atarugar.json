@@ -1,0 +1,91 @@
+{
+  "lema": "ATARUGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "En lenguaje de carpintería, Asegurar un ensamblado con tarugos, cuñas ó clavijas ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Tapar con tarugos ó tapones los agujeros de los pilones, pilas ó vasijas para impedir que se escape el líquido que contengan ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Confundir ó hacer callar á alguno, dejándole sin saber qué responder ó qué hacer ( trans .) ( fam. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No puedes figurarte cuánto me embrollan y atarugan los tales encargos, juntos con otros que me vienen de Bayona cada ocho días.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. Póst. 3, p. 40."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya estáís casado, | Lleno de desasosiegos; | Lo pasado se olvidó; | Y atarugado y suspenso | Con lo presente: Muñoz, | ¿Qué dices? Dáme un consejo, | Un arbitrio... ¿Para qué? | ¿Para deshacer lo hecho?»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña , 2. 1 (R. 2. 343 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Atestar ( fam. ). Con de , á semejanza de llenar . — Part .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Juntáronse tres doctores, | De los de más reverendas, | Que tienen atarugadas | De difuntos las iglesias.»",
+          "autor": "Mor.",
+          "referencia_obra": "La mojigata , 1. 9 (R. 2. 399 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Hartar, atracar. Comúnmente se usa como refl . Con de .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cenarías en el gran café que está inmediato al salón de la danza prima, y allí podrías atarugarte de cuanto Dios crió.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 2, p. 219."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "met. Refl . Atragantarse ( fam. ). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y tarugo .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe gu : atarugué . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

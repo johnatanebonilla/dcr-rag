@@ -1,0 +1,275 @@
+{
+  "lema": "EMPAREJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dejar parejo, a una misma altura o nivel ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Emparejar, podándolas, las ramas de un árbol.»",
+          "autor": "",
+          "referencia_obra": ""
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Tratándose de puertas, ventanas, etc., juntarlas de modo que ajusten, pero sin cerrarlas con llave, cerrojo, etc. ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Estar a la misma altura o nivel ( intrans .). Con con , para denotar el objeto que sirve de término de comparación.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Para mostrar la creciente que hace este río [el Nilo] tantos codos en alto, hizo el maestro unos niños pigmeos de un codo cada uno que suben sobre la estatua del río desde el pie postrero hasta los hombros; y cuando está el más alto emparejando con la fruta y espinas del cornucopia, se declara ir a las parejas la fertilidad con la mayor creciente.»",
+          "autor": "",
+          "referencia_obra": "A. Agust. Diál. de med. 3 (8. 59)."
+        },
+        {
+          "texto_cita": "«Rara vez baja la nieve a los valles; y aunque alguna vez cae tanta que empareja con las cumbres de los montes, siempre se contiene dentro de ellos.»",
+          "autor": "",
+          "referencia_obra": "Ovalle , Hist. de Chile, 1. 2 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dejar parejo, en igual calidad, condición o estado ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A todos, vive Dios, ha emparejado, | Con todos ha reñido.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", Mudarse por mejorarse , 2. 11 (R. 20. 110 2 )."
+        },
+        {
+          "texto_cita": "«Le pondré aquí [este soneto italiano] en su lengua --- y también en la nuestra, para que los que no saben la italiana vean lo que quiso decir, pues yo no supe emparejalle el estilo, ni nuestra lengua puede decir en iguales versos lo que aquélla, que tiene los términos más cortos.»",
+          "autor": "M. de Chaide",
+          "referencia_obra": ", Magd . 3, § 45 (R. 27. 382 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Ponerse a un nivel, igualarse. Con en para expresar la circunstancia que se compara, y con con para señalar el término de comparación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En otra situación quizá me atrevería a emparejarme con usted, no sólo en afición, sino en trabajo, porque no era poco el empleado en esto.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 214 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué sentirán los príncipes cuando se vean emparejados con los plebeyos y tratados de ellos con tal desvergüenza y odio?»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1. 16 (1. 147)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ser igual o parejo, hallarse a un mismo nivel con respecto a la calidad, estado o condición ( intrans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en, para expresar la circunstancia que se compara.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En diluvios de fuego tempestuoso | Sepultados, y en negros torbellinos | Vio el dragón a los socios de su ruina, | Y junto revolcándose al que en brío | Casi y en impiedad le emparejaba.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd. (R. 46. 27 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque es golpe inferior, y no empareja, | Que el que un león mató, mate una oveja.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 17 (R. 17. 322 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Llegar uno andando a ponerse al lado o a corta distancia a derecha o izquierda de un objeto ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sospeché que era algún caballero que dejaba atrás su coche, y así emparejando le saludé.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 12 (R. 23. 507 1 )."
+            },
+            {
+              "texto_cita": "«Llegué a la puerta, y emparejando, cierra uno de los dos, que me aguardaban por Don Diego, con un garrote conmigo, y dame dos palos en las piernas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 20 (R. 23. 521 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para señalar el objeto a cuyo lado llega uno.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como me vio parose en el camino hasta que pudiese emparejar con él.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 5 (R. 18. 452 1 )."
+            },
+            {
+              "texto_cita": "«En esto estábamos, cuando muy estirado y con gran ceño emparejó otro muerto conmigo, y dijo ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 338 1 )."
+            },
+            {
+              "texto_cita": "«Cuando emparejó la tropa | Con los dos padres franciscanos, | Paráronse éstos.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "D. Álv. de Luna, 1. 2 (3. 52)."
+            },
+            {
+              "texto_cita": "«Revolvió su caballo, y emparejando con ella, le echó los brazos.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 43 (R. 21. 40 2 )."
+            },
+            {
+              "texto_cita": "«Ponen a punto la una y otra lanza, | Y cuando en la carrera ya empareja | Con el mosca el hormiga, sin tardanza | La muerte el uno al otro le apareja.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 12 (R. 17. 623 1 )."
+            },
+            {
+              "texto_cita": "«Emparejar con la venta.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram . —"
+            },
+            {
+              "texto_cita": "«Se fue podrido de ver que [los treinta y dos pretendientes que debían sucederse en un mismo oficio] se arrempujaban las edades hacia el saeculum per ignem, y que pretendían emparejar con saecula saeculorum. »",
+              "autor": "",
+              "referencia_obra": "Quev . Hora de todos, 21 (R. 23. 395 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Son raras y hoy inadmisibles las construcciones siguientes:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Como trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Venía pues de jugar a la pelota don Alonso con sus criados una tarde, cuando al emparejar de cierta iglesia, saliendo della, una mujer tapada se le puso delante.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 1. 18 (R. 18. 311 1 )."
+            },
+            {
+              "texto_cita": "«Al emparejar de la puerta de Jacinta, a uno de sus dorados balcones la halló.»",
+              "autor": "",
+              "referencia_obra": "Id . Esp. Ger . 1. 2 (R. 18. 148 2 ). Véase la prep. De , 16, δ , β β ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vuelvo el rostro, y por la misma senda veo venir hacia mí --- cuatro gentileshombres, que emparejándose conmigo y reparando un poco, uno dellos con turbado semblante --- me dijo ---»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 2. 24 (R. 18. 365 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Es absolutamente impropio en el sentido de Echar a andar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Emparejó calle arriba listo como un cohete.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Los dos bofetones (327)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Dícese de objetos que van en una misma línea, ninguno más adelante o atrás que otro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Veinte leguas tiene el muro | De circunferencia | --- En la planitud | De su cumbre emparejados | Van seis carros.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El Anticristo, 1 (R. 20. 366 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Me creo | Con Dido, Arcas, Ançeo | Mis penas empareiar.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 83. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«El onbre de metales | Dos es confaçionado --- | El uno terrenal, | En él bestia semeja | Otro çelestial | Con angel en-pareja.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 477 (R. 57. 361 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Non es alegria ninguna en este mundo que empareje con la compañia de los buenos amigos.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 45 1 )."
+        },
+        {
+          "texto_cita": "«El que destruyó el angel primero quando engrandeció e se quiso empareiar con él.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 3. 15 (197)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de en , que denota reducción a cierta condición o estado, y parejo . Port. emparelhar ; cat. emparellar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

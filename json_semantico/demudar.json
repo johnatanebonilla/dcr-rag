@@ -1,0 +1,314 @@
+{
+  "lema": "DEMUDAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Mudar ó variar desventajosamente ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ensuciaste la tez con falsa postura, demudaste el cabello con deshonesto color.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 12 (3. 478)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la primera forma ó estado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lucano, tratando de amplificar y adornar el pensamiento, le va demudando más y más del sublime, hasta que al cabo viene á parar en una hinchada declamación.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. Retór . (R. 46. 129 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para expresar la nueva forma ó estado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El canto y el conjuro es poderoso | A retraer la luna reluciente; | En rostro demudó Circe mostroso | Con cantos del Ulises á la gente.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl . 8 (4. 429)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Desfigurar, disfrazar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dicen que se le reviste el diablo en el cuerpo, y demudando la voz finge que habla él.»",
+          "autor": "Mármol",
+          "referencia_obra": ", Descr. de Africa , 2. 3 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Aplicado al semblante, al color, Cambiarlo repentinamente ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh cuántas veces la ofendida amante, | Si el asta ó piedra arroja contra Orfeo, | Después del tiro demudó el semblante, | El golpe revocando en su deseo!»",
+              "autor": "Jáur.",
+              "referencia_obra": "Orfeo , 5 ( Fern. 8. 309)."
+            },
+            {
+              "texto_cita": "«No hay discreción que no ciegue, | No hay color que no demude, | Y no hay lengua que no mude | Antes que á hablarla llegue.»",
+              "autor": "Mend.",
+              "referencia_obra": "carta Quería contar mi vida (R. 32. 101 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al concluír estas razones, calla, | Y pálido su rostro se demuda.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 4 (3. 309)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl . Dícese de la persona cuyo color ó semblante se cambia repentinamente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La dolencia | Con su débil presencia y amarilla | Bajaba de la silla al duque sano, | Y con pesada mano le tocaba; | El luégo comenzaba á demudarse, | Y amarillo pararse, y á dolerse.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 2 (R. 32. 18 1 )."
+            },
+            {
+              "texto_cita": "«Desde que vi demudarte, | Algún mal imaginé.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los peligros de la ausencia , 3. 2(R. 34. 418 3 ). —"
+            },
+            {
+              "texto_cita": "«Y todo vi se demudó en el rostro.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 3 (R. 42. 142 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La Fortuna demudada y colérica, dijo ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos , preámb . (R. 23. 385 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar aquello en que se nota el cambio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Iba demudadísima de color, y dando algunos pequeños suspiros, mirando al cielo.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij . 16 (R. 18. 49 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Dícese de la alteración del ánimo que suele acompañar el cambio de color ó semblante ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Diole un ministro una bofetada, y el golpe que alteró el rostro, no demudó su paciencia.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 20 (R. 23. 86 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Refl . Dícese de la persona misma que se inmuta y altera.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh qué casta tan aguda, | La res muda | Sentir el mal de su dueño! | —Mi ganado en verme el ceño | Se demuda | Como persona sesuda.»",
+              "autor": "Encina",
+              "referencia_obra": "(R. 2. 228 2 )."
+            },
+            {
+              "texto_cita": "«¿Hombre dices que ha bajado? | —¿Qué te demudas y alteras? | ¡Vive Dios que descendió, | Y que fue burla de fama, | Pues te ha quitado la dama, | Y muchos palos nos dio!»",
+              "autor": "Lope",
+              "referencia_obra": ", La fuerza lastimosa , 1. 23 (R. 41. 263 3 )."
+            },
+            {
+              "texto_cita": "«En esto los cogió la Hora, y demudándose los nobilísimos ginoveses, dijeron al magnífico ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos , 33 (R. 23. 405 2 )."
+            },
+            {
+              "texto_cita": "«Mirándola [aquella tabla] su hermano el Africano, se demudó y encendió todo en ira, y echó mano á la daga cuando vio cómo los enemigos llevaban preso á su hermano Lucio Paulo después de la victoria de Perseo.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. Eloc. exter. Acción (660)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó á temblar, y como desatinado tomó una ropa su espada, y entró allá y muy demudado le preguntó qué era aquello.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 22 (R. 53. 218 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estaba el patron mirando á todas artes, demudada la color, sospirando, catando en el aguja é en la carta de marear.»",
+          "autor": "",
+          "referencia_obra": "Crón. P. Niño , p. 94. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«El camiar los enmagresce et los face demudar.»",
+          "autor": "",
+          "referencia_obra": "Mont. Alf. XI , 2. 2. 7 ( Bibl. venat. 1. 168)."
+        },
+        {
+          "texto_cita": "«Tu le posiste miedo, e tu lo demudeste.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 1530 (R. 57. 275 2 )."
+        },
+        {
+          "texto_cita": "«Todo se le demuda el color e el deseo.»",
+          "autor": "",
+          "referencia_obra": "Id. 781 (R. 57. 251 2 )."
+        },
+        {
+          "texto_cita": "«Pero Dios que crio natura e acidente, | Puedelos demudar, et faser otramente.»",
+          "autor": "",
+          "referencia_obra": "Id. 130 (R. 57. 231 1 )."
+        },
+        {
+          "texto_cita": "«Es ya demudado en tal manera, que sus cabellos et sus barbas, que eran entonces pretas, que son mudadas agora blancas.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Lib. de los est . 1. 10 (R. 51. 285 2 ). Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Quien mucho quiere oir, conviene que se le demude el corazon segund aquello que oye.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 11 (R. 51. 113 1 )."
+        },
+        {
+          "texto_cita": "«Demúdase contra la mar»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«E este Marco Aurelio fue tan sosegado e tan manso que bien desde niño pequeño nunca se demudó la cara de vna guysa nin por alegria nin por pesar que ouiesse.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 122 (99 2 )."
+        },
+        {
+          "texto_cita": "«E que esto era lo que querie siempre, quel temiesen todos --- Mas demudose desto aqui en el fecho de España, e puso en su coraçon que de tanto quanto y pudiesse ganar por amor o por auenencia que lo non levase por guerras.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 87 (47 1 )."
+        },
+        {
+          "texto_cita": "«Et yo desfiuzado estó de ti et de tu natura et de tus costumbres, que nunca demuden nin cambien en bien.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 34 1 )."
+        },
+        {
+          "texto_cita": "«Auie por encobrirse el nombre demudado.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1727 (R. 57. 200 2 )."
+        },
+        {
+          "texto_cita": "«Yuanse a los griegos los colores demudando.»",
+          "autor": "",
+          "referencia_obra": "Ib . 230 (R. 57. 154 2 )."
+        },
+        {
+          "texto_cita": "«Cambiossele la color e fues todo demudando.»",
+          "autor": "",
+          "referencia_obra": "Ib . 23 (R. 57. 148 1 )."
+        },
+        {
+          "texto_cita": "«Avie de su stado demudado la boca, | Fablaba de la lengua mucha palabra loca.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 293 (R. 57. 49 1 ; * demudada)."
+        },
+        {
+          "texto_cita": "«Mas era de tal guisa demudado el viento | Que fascas non avien ningun sostenimiento.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 188 (R. 57. 45 2 )."
+        },
+        {
+          "texto_cita": "«Querria esta vida en otra demudar, | E bevir solitario por la alma salvar.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 17 (R. 57. 65 2 )."
+        },
+        {
+          "texto_cita": "«Espantáse el bispo, fo todo demudado.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 567 (R. 57. 121 1 )."
+        },
+        {
+          "texto_cita": "«Cata non aias miedo, por ren non te demudes.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 293 (R. 57. 112 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. demutare , compuesto de de y mutare , mudar. Port. demudar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

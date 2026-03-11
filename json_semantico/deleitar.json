@@ -1,0 +1,340 @@
+{
+  "lema": "DELEITAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Causar una impresión muy agradable, dar vivo placer ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las aves con su canto y las aguas con su frescura le deleitan y sirven.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Pastor (3. 61)."
+            },
+            {
+              "texto_cita": "«Si la pintura hermosa, presente á la vista, deleita los ojos --- y si el bien que hay en lo dulce, ó en lo sabroso, ó en lo blando, causa contentamiento en el tacto --- injuria será que se hace á Dios, poner en cuestión si deleita, ó qué tanto deleita al alma que se abraza con él.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2.9 Esposo (3. 254)."
+            },
+            {
+              "texto_cita": "«Con dulce són deleita el santo oído.»",
+              "autor": "",
+              "referencia_obra": "Id. Poes . 1, Alma región luciente (4. 322)."
+            },
+            {
+              "texto_cita": "«No sólo deleitan [las flores] la vista con su hermosura, sino también el sentido del oler con su olor, y con las aguas que dellas se destilan.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 1. 5, § 1 (R. 6. 611 1 )."
+            },
+            {
+              "texto_cita": "«Si la pintura hermosa deleita los ojos, y si el bien que hay en lo dulce, sabroso y blando deleita el tacto --- ¿qué será el gusto y el deleite que causarán aquella infinita bondad, amor y suavidad de Dios al alma que estrechamente se junta y abraza con él?»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 17 ( Míst. 1. 76)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la vista entretiene su pintura: | El olor por el alma se reparte: | Este deleita, aquélla da frescura.»",
+              "autor": "Valb.",
+              "referencia_obra": "Grand. mej. 8 (73)."
+            },
+            {
+              "texto_cita": "«La razón es, que como ellos [los diablos], dondequiera que están, traen el infierno consigo, y no pueden recebir género de alivio alguno en sus tormentos, y el buen olor sea cosa que deleita y contenta, no es posible que ellos huelan cosa buena.»",
+              "autor": "",
+              "referencia_obra": "Cery. Quij . 1. 47 (R. 1. 387 1 )."
+            },
+            {
+              "texto_cita": "«Son cuentos disparatados, que atienden solamente á deleitar, y no a enseñar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 47 (R. 1. 389 1 )."
+            },
+            {
+              "texto_cita": "«Hojeo más los [libros] que son profanos que los devotos, como sean de honesto entretenimiento, que deleiten con el lenguaje y admiren y suspendan con la invención.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 16 (R. 1. 436 1 )."
+            },
+            {
+              "texto_cita": "«Aquí las sombras de las cosas nos atemorizan y asombran; allí la verdad asosiega y deleita.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Pastor (3. 62)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Sentir vivo placer.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues ¿qué tal os parece que será el aposento adonde un rey tan poderoso, tan sabio, tan limpio, tan lleno de todos los bienes se deleita?»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor . 1. 1 (R. 53. 435 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con y un sust. para significar lo que causa el placer.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hombre sanguíneo --- deléitase con la música.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 3. 20 ( Míst . 3. 109)."
+            },
+            {
+              "texto_cita": "«No te deleitarás con sacrificios de animales.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 109 (2. 193)."
+            },
+            {
+              "texto_cita": "«El alma se deleita con la música naturalmente.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 3. 7 ( Obr. suelt. 7. 240)."
+            },
+            {
+              "texto_cita": "«Porque es cosa imposible | Que alguno se deleite con la cosa | Que le parece dura y enojosa.»",
+              "autor": "Quev.",
+              "referencia_obra": "Doctr. de Epict . 30 (R. 69. 399 1 )."
+            },
+            {
+              "texto_cita": "«¿Quién afirmará el afecto que se paga de las diferencias de las especies, y es como la materia primera, que no reposa en una forma y se deleita con la variedad?»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 50 (R. 25. 128 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de y un infin. , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parece para esto nos podemos mucho ayudar con considerar nuestra bajeza y la ingratitud que tenemos con Dios --- en deleitarnos de ver sus obras, su grandeza, lo que nos ama.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 10 (R. 53. 42 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Hoy suena menos bien esta construcción con un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se deleitaba de su trato [Dios del de los hombres], y deleitábase de tratarlos, porque tenía determinado consigo de, venido su tiempo, nacer uno de ellos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Hijo (3. 299)."
+            },
+            {
+              "texto_cita": "«Canten algunos pastores que se deleiten de música.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 4 (238)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en y un infin. para expresar el acto en que se halla placer.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y quiso que viese claro que á semejantes pláticas siempre se hallaba presente, y lo mucho que se sirve en que ansí se deleiten en hablar en él.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 34 (R. 53. 106 1 )."
+            },
+            {
+              "texto_cita": "«Aristómaco Solense se maravillaba y deleitaba tanto en contemplar las propriedades de las abejas, que por espacio de cincuenta y ocho años ninguna otra cosa más principalmente hacía que ésta.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 20 (R. 6. 234 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Es menos frecuente esta prep. con un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando él enmendare su vida --- se deleitará en Dios.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 22 (1. 15)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "La ocasión del deleite se expresa por medio de un gerundio ó del infin. precedido de al .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así que amando me deleito, y hallo | Que no es locura este deleite mío.»",
+              "autor": "Garcil.",
+              "referencia_obra": "epíst. (R. 32. 27 2 )."
+            },
+            {
+              "texto_cita": "«En vano te deleitas | Al ver el llanto mío, | ¡Cruel Enarda! en vano | Celebras mis suspiros.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Poes. (R. 46. 12 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Es incorrecta la construcción con el infin. sin prep. ( lat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«delectaris bibere humanum, sanguinem»",
+              "autor": "",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Son éstos los misterios | De la diosa cruel reina de Cipro, | Que desiguales ánimas y formas | Se deleita enlazar.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", égl. Tirsi, pastor ( Fern. p. 63. ¿Será en lazar? )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese, la forma erudita delectar .) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En esta plática se deleytaba por la grand habituacion que en ella tovo en su mocedad.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 4 (35)."
+        },
+        {
+          "texto_cita": "«Si vencidos de la torpe tentacion os deleytardes en cosa fea, el deleyte será momentáneo, é la mácula de la vileza os acusará para siempre.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 23 (245)."
+        },
+        {
+          "texto_cita": "«De que la vi deleytar [la gula] | En el apetito puro, | Avnque quisiera, a Epicuro | Non lo pudiera oluidar.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr. 1, p. 250."
+        },
+        {
+          "texto_cita": "«Y los deleytes de acá | Son en que nos deleytamos | Temporales.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 49)."
+        },
+        {
+          "texto_cita": "«Esta era la cosa que mas le deleytaba.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 18 (61)."
+        },
+        {
+          "texto_cita": "«Nunca le fallescen [al rey] buenos ministros é oficiales para aquel oficio en que él se deleyta.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 2 (R. 68. 699 1 )."
+        },
+        {
+          "texto_cita": "«Delectanos con istorias.»",
+          "autor": "",
+          "referencia_obra": "Id. Clar. var. 341 ( Rim. inéd. 322)."
+        },
+        {
+          "texto_cita": "«Tanto me agrada e delecta | Vuestro bien principiar, | Que vos presumo loar | Antes de la edad provecta.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1 ( Rim. inéd. 271)."
+        },
+        {
+          "texto_cita": "«Se delectaba en el benefiçio de su continençia.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 84."
+        },
+        {
+          "texto_cita": "«Se han vulgariçado en este reyno algunos poemas --- é muchas otras cosas en que yo me he deleytado fasta este tiempo e me deleyto.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 482."
+        },
+        {
+          "texto_cita": "«Lo hazen por aprouechar a si, o por delectarse los poetas.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron. 39 (19 1 )."
+        },
+        {
+          "texto_cita": "«Se deleitaban en mirar la diversidad de las flores et olerlas.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1. 2 (R. 36. 344 2 )."
+        },
+        {
+          "texto_cita": "«Tú mas amas el tu gato é mas te deleitas en lo tomar é falagar que el papa Gregorio en todos los bienes deste mundo.»",
+          "autor": "",
+          "referencia_obra": "Lib. de los enxemplos (R. 51. 460 1 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«La su vida muy limpia en Dios se deleytaba.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1478 (R. 57. 273 2 )."
+        },
+        {
+          "texto_cita": "«Dijo una vez el dicho home santo que mas se deleitaba él cuando traia la mano á la su gata por el lomo, que sant Gregorio, que era papa, en todas sus riquezas.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Lib. infin. 55 (R. 51. 308 2 ). Item, Lib. de los est. 2. 38 (R. 51. 359 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Facen al home deleitarse en un solo Dios.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 59 (R. 51. 186 2 )."
+        },
+        {
+          "texto_cita": "«Nunca me deleité en los ornamentos reales.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6 (R. 51. 97 1 )."
+        },
+        {
+          "texto_cita": "«La segunda [cosa] es algunt sabor en que deleitase mi alma.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 31)."
+        },
+        {
+          "texto_cita": "«Faz al que es bon omne bon fecho nembrar, | Tanto que se deleyta mucho a glorificar.»",
+          "autor": "Alex.",
+          "referencia_obra": "2237 (R. 57. 216 1 )."
+        },
+        {
+          "texto_cita": "«Ally solie folgar, | La sazon que querie su cuerpo deleytar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1955 (R. 57. 207 2 )."
+        },
+        {
+          "texto_cita": "«Yuan por las aldeas los corpos deleytando.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1387 (R. 57. 190 1 )."
+        },
+        {
+          "texto_cita": "«Andamos por las tierras los corpos deleytando.»",
+          "autor": "",
+          "referencia_obra": "Ib . 119 (R. 57. 151 1 )."
+        },
+        {
+          "texto_cita": "«Tu mucho te deleitas en las nuestras passiones.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Oria , 34 (R. 57. 138 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. deleitar ; cat. , val. deleitar , delitar ; prov. delieitar , delechar, delectar ; fr. ant. deliter , hoy délecter ; it. dilettare : del lat. delectare , compuesto de de y lactare , atraer, seducir, intensivo de lacere . Nuestro deleitar es, por lo que hace á la forma, puramente portugués. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

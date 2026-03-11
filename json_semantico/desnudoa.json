@@ -1,0 +1,763 @@
+{
+  "lema": "DESNUDO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Sin vestido.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hacían acostar los santos desnudos en unos zarzos de junco, y allí los rociaban con miel y con caldo, y ponían al sol para que las abispas y abejas los estuviesen siempre picando.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 2. 19, § 5 (R. 6. 646 1 )."
+            },
+            {
+              "texto_cita": "«Y fue quien los mantuvo [á los santos ermitaños] con hierbas y sin comer muchos días, desnudos al frío, y descubiertos al calor.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Esposo (3. 259)."
+            },
+            {
+              "texto_cita": "«Las mangas llegaban á medios brazos solamente, y de allí adelante desnudos.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, 4 (130)."
+            },
+            {
+              "texto_cita": "«Le había hecho meter en una tinaja de agua hasta el cuello, desnudo en carnes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 113 2 )."
+            },
+            {
+              "texto_cita": "«Levantándose de una estera vieja donde estaba echado y desnudo en cueros, preguntó ---»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 1 (R. 1. 406 2 )."
+            },
+            {
+              "texto_cita": "«Tomaros he yo, dijo D. Quijote, don villano, harto de ajos, y amarraros he á un árbol, desnudo como vuestra madre os parió.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 2. 35 (R. 1. 480 1 )."
+            },
+            {
+              "texto_cita": "«Para remediar esto el senado mandó que á la que se matase, la sacasen desnuda á la plaza, y la tuviesen todo el día en público descubierta.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 2. 5 ( Obr. suelt. 7. 121)."
+            },
+            {
+              "texto_cita": "«La Venus de Médicis, desnuda como está, es más honesta que la figura de que hablamos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 383."
+            },
+            {
+              "texto_cita": "«A los primeros héroes pinta la antigüedad desnudos, para representar el vigor y esfuerzo de su naturaleza.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. introd. (53)."
+            },
+            {
+              "texto_cita": "«Salió Masanielo del Carmen medio desnudo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 19 (5. 143)."
+            },
+            {
+              "texto_cita": "«Cuando el desdichado rey vio á sus hijas con los pies desnudos y enflaquecidas por el hambre y los trabajos, rompió en lastimero llanto.»",
+              "autor": "Valera",
+              "referencia_obra": ", Poes. de los árabes. 2, p. 50. —"
+            },
+            {
+              "texto_cita": "«¡Oh Gesner! ¿dónde estás? Tú á quien desnuda | Llena de gracia y de inmortal belleza | Natura se mostró.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Cienfuegos (R. 19. 31 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Dim .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lloro, porque estoy yo con un cobertor de grana, y está el niño Jesús desnudito y llorando de frío en un pesebre.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª Ana Ponce de León , 3. 6 (137)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para denotar el vestido que falta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dios crió á nuestros primeros padres desnudos de ropas y vestido.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Magd . 2, § 8 (R. 27. 307 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Construído inmediatamente con un compl. significativo de la parte que la persona tiene descubierta. Es latinismo (",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«nudus membra Pyracmon»",
+              "autor": "",
+              "referencia_obra": ") usado alguna vez en poesía."
+            },
+            {
+              "texto_cita": "«Desnuda el pecho anda ella.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom .14 (R. 32. 510 1 )."
+            },
+            {
+              "texto_cita": "«Quien la hubiese encontrado de repente, | Desnuda el cuello, desceñida el cinto ---»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 5 (2. 174)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Sustantívase (el desnudo) para denotar en el lenguaje de la pintura y escultura las formas del cuerpo humano desnudas ó que se perciben á través del vestido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los antiguos consideraron los ropajes como cosa accesoria, y no principal --- procuraron vestir y no esconder el desnudo de sus figuras.»",
+              "autor": "Azara",
+              "referencia_obra": ", Obras de Mengs, p. 48."
+            },
+            {
+              "texto_cita": "«Un libro didáctico creo yo que debe ser como el desnudo en la pintura y escultura: un desnudo amable, deleitable, bello.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell. (R. 63. 411 2 )."
+            },
+            {
+              "texto_cita": "«En el desnudo su beldad consiste, | Y las afea más quien más las viste.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Mús . 5 (1. 256)."
+            },
+            {
+              "texto_cita": "«Hay una figura de la Modestia, cubierta enteramente con un velo, obra de Antonio Corradini, de singular mérito por haber sabido dar á las ropas que la cubren tan oportunos toques, que manifiestan el bello desnudo del cuerpo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 383."
+            },
+            {
+              "texto_cita": "«En los grupos --- se ve un bello carácter de diseño, bellos desnudos, gracia en la expresión y buen estudio de ropajes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1, p. 364."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Muy mal ó indecentemente vestido.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si les dieron ocasión de pecar [los casados á sus mujeres] ó por traellas muy demasiadamente vestidas, ó muy desnudas y muy hambrientas.»",
+          "autor": "Venegas",
+          "referencia_obra": ", Agonía, 3. 17 ( Míst. 3. 102)."
+        },
+        {
+          "texto_cita": "«Temblando | Estuve de sólo verla. | — Roto y desnudo has osado | Verla y seguirla otras veces.»",
+          "autor": "Lope",
+          "referencia_obra": ", Las flores de D. Juan, 2. 20 (R. 24. 423 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Completamente desprovisto de bienes de fortuna.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mucho mayor maravilla sería ver en este tiempo una mujercita sola, pobre, desnuda, sin fuerzas ni favor del mundo, con ánimo y pecho para negocio tan arduo y dificultoso.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 15 ( Míst . 1. 168)."
+            },
+            {
+              "texto_cita": "«Saliendo yo desnudo, como salgo, no es menester otra señal para dar á entender que he gobernado como un ángel.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 53 (R. 1. 517 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desnudo nací, desnudo me hallo, ni pierdo ni gano»",
+              "autor": "Cerv.",
+              "referencia_obra": "lo aplica con frecuencia: Quij . 1. 25 (R. 4. 313 1 ); ib. 2. 8 (R. 1. 419 2 ); 2. 53 (R. 1. 517 1 ); 2. 55 (R. 1. 521 2 ); 2. 57 (R. 1 . 523 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "No estar uno desnudo ( fam. ): estar acomodado. Acad. Dicc.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar aquello de que se carece.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siendo tan rico llevó con ánimo tan igual el venir á ser pobre --- en un momento, y sin pensar, y hallándose en un instante desnudo de todo.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 1 (1. 7)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Perfectamente desprendido de los bienes ó intereses de la tierra.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El varón desnudo hace purísima oración; mas el codicioso padece muchas imágines en ella.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. esp. 16, § 1 (R. 11. 335 1 )."
+            },
+            {
+              "texto_cita": "«El monje desnudo es señor de todo el mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que tuviere su ánima desnuda de todas las cosas que desordenadamente se aman ---»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2. 1, § 2 (R. 8. 442 1 )."
+            },
+            {
+              "texto_cita": "«Gozando todos sin peligro alguno | De la paz, va desnudo de las cosas | Mudables á su origen cada uno.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "terc. A la fuente anheló (R. 42. 330 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aplicado á cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En fin no tienen todos el amor tan desnudo a V. S. como las descalzas.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 1 (R. 55. 149 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Falto ó despojado de lo que cubre ó adorna.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No dormían las noches en camas, sino sobre la tierra desnuda.»",
+              "autor": "",
+              "referencia_obra": "Gran . Símb. 4 , diál. 10 (R. 6. 588 2 )."
+            },
+            {
+              "texto_cita": "«Hinca las rodillas desnudas sobre la tierra desnuda.»",
+              "autor": "",
+              "referencia_obra": "Sig . Vida de S. Jer. 4. 6 (298)."
+            },
+            {
+              "texto_cita": "«La casa estaba despojada, las paredes desnudas.»",
+              "autor": "Quev.",
+              "referencia_obra": "Mundo por de dentro (R. 23. 328 1 )."
+            },
+            {
+              "texto_cita": "«Esta desnuda playa, esta llanura | De astas rotas armas mal sembrada.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son . 84 (R. 32. 274 2 )."
+            },
+            {
+              "texto_cita": "«Testigo es de mis males el desierto | Que me ve en su desnuda y roja arena | Vencido del dolor y casi muerto.»",
+              "autor": "",
+              "referencia_obra": "Id. 1, eleg. 17 (R. 32. 293 2 )."
+            },
+            {
+              "texto_cita": "«Del mar las ondas quebrantarse vía | En las desnudas peñas.»",
+              "autor": "",
+              "referencia_obra": "Id. 1, son . 39 (R. 32. 262 2 )."
+            },
+            {
+              "texto_cita": "«Cuéntame, oh Musa, tú, el varón que pudo | A la enemiga Francia echar por tierra, | Cuando de Roncesvalles el desnudo | Cerro gimió al gran peso de la guerra.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 143 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar lo que falta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pide que el rostro blanco se pinte con alguna templada color, cual es la que parece en una granada desnuda de su cáscara.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares, 4. 3 (4. 66)."
+            },
+            {
+              "texto_cita": "«En la sazón del erizado invierno | Desnudo el árbol de su flor y fruto ---»",
+              "autor": "",
+              "referencia_obra": "Cery. La entretenida , 3 ( Com . 2. 215)."
+            },
+            {
+              "texto_cita": "«O los pinos de un bosque, aunque desnudos | De su frondosa pompa, y chamuscados | Sobre el marchito suelo, todavía | Duran erguidos los eternos troncos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd. (R. 46. 31 2 )."
+            },
+            {
+              "texto_cita": "«En lo interior, exceptuando algunas estatuas, está [la catedral de Florencia] muy desnuda de ornamentos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 331."
+            },
+            {
+              "texto_cita": "«De las iglesias [de Córdoba] podrían sacarse carros de leña dorada para calentarse un ejército; y quedarían mejor si las dejaran desnudas de ornatos tan ridículos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2, p. 18."
+            },
+            {
+              "texto_cita": "«El costado | Que al inclinarse al suelo descubría | Desnudo del broquel, le hirió de cerca.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 4 (1. 121)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En especial, Desenvainado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El desnudo puñal lleva escondido.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 31 (R. 17. 114 2 )."
+            },
+            {
+              "texto_cita": "«Vieron que del monte salía un pastor corriendo á la mayor priesa del mundo, con un cuchillo desnudo en la mano.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 5 2 )."
+            },
+            {
+              "texto_cita": "«Con la espada desnuda pasó por medio de la turba alborotada.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 9 (R. 1. 207 1 )."
+            },
+            {
+              "texto_cita": "«Le puso la punta desnuda de su espada encima del rostro, y le dijo ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 14 (R. 1. 433 2 )."
+            },
+            {
+              "texto_cita": "«Dio á correr tras mí con un cuchillo desnudo para matarme.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 2 (R. 23. 488 1 )."
+            },
+            {
+              "texto_cita": "«Presentóse Masanielo al amanecer en el Mercado, á caballo y con la espada desnuda.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 19 (5. 142)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Por analogía:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No era águila imperial, que con dos severos rostros, desnudas las garras, amenazaba á todas partes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 41 (R. 25. 105 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Patente, manifiesto, sin cosa que oculte ó esconda.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Penetráis con la claridad de vuestra vista los abismos, y no hay cosa que no esté abierta y desnuda ante vuestros ojos.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 1. 2 (R. 6. 185 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Claro, sin rebozo ni doblez.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si á los oídos de los príncipes llegase la verdad desnuda sin los vestidos de lisonja, otros siglos correrían.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 2 (R. 1. 409 1 )."
+        },
+        {
+          "texto_cita": "«Mejor será decirle la verdad desnuda, que no que nos alcance en mentirosa cuenta.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 34 (R. 1. 351 2 )."
+        },
+        {
+          "texto_cita": "«Tuvo por más seguro. --- emplear su talento en dorar ciertos vicios brillantes, que veía ensalzados por todas partes, que no presentarlos desnudos en la escena para escarnecerlos y desterrarlos.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Com. esp. 4 (2. 192)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se dice de las expresiones que representan con demasiada claridad objetos indecorosos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para dar un velo á las voces demasiado desnudas, es oportuno latinizarlas.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. 1. 4 (162)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Aplicado al estilo, Sin comentarios ó apreciaciones.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cuando me escribas algo de cosas públicas, sea siempre narración desnuda.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst. 2, p. 440."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "En general, Falto, desprovisto de cualquiera cosa material ó inmaterial. Con de , ara expresar lo que falta.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si bien se hallaba desnudo de todos amparos y defensas, trató de renovar la guerra.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 16. 12 (R. 30. 477 2 )."
+        },
+        {
+          "texto_cita": "«De vil temor desnudo.»",
+          "autor": "Herr.",
+          "referencia_obra": "2, canc . 7 (R. 32. 322 1 )."
+        },
+        {
+          "texto_cita": "«Quien conocía el celo de la religión que tuvo siempre el rey --- conocerá claramente cuán desnudo de tales intentos entraba en este negocio.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos, 1 (R. 28. 14 2 )."
+        },
+        {
+          "texto_cita": "«Informemos á nuestro rey con una persona llena de verdad celo, desnuda de todos respetos humanos.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal. 3 (R. 21. 489 1 )."
+        },
+        {
+          "texto_cita": "«Librar del fuego la engañada mano | Manda Porsena, y el acero agudo, | Que Mucio abrasa, de temor desnudo.»",
+          "autor": "",
+          "referencia_obra": "Jáur, son. que principia así (R. 42. 104 1 )."
+        },
+        {
+          "texto_cita": "«Tú no me vences, Marte, si peleo | De ambiciones desnudo, de fe armado.»",
+          "autor": "Fern.",
+          "referencia_obra": "81 170)."
+        },
+        {
+          "texto_cita": "«Aunque desnudo dellas [de letras], hizo [Justiniano] glorioso su gobierno con los varones doctos que tuvo cerca de sí.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 4 (R. 25. 17 1 )."
+        },
+        {
+          "texto_cita": "«Faltos de consejo, desnudos de recursos, no sabían qué partido tomar.»",
+          "autor": "Quint.",
+          "referencia_obra": "Prínc. de Viana (R. 19. 245 2 )."
+        },
+        {
+          "texto_cita": "«Los miserables indios, desnudos de abrigo, faltos de vigor --- horriblemente padecían.»",
+          "autor": "",
+          "referencia_obra": "Id. Pizarro (R. 19. 337 1 )."
+        },
+        {
+          "texto_cita": "«Era conveniente que la empresa se encargase á hombres enteramente desapasionados é imparciales, desnudos de todo interés y de toda ambición.»",
+          "autor": "Casas",
+          "referencia_obra": "(R. 19. 441 1 ). —"
+        },
+        {
+          "texto_cita": "«Estará [el alma] sola, desnuda de su cuerpo y de todas las cosas visibles, vestida solamente de sus obras.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 1. 9 (1. 97)."
+        },
+        {
+          "texto_cita": "«Si eres agora espíritu desnudo | Ya de los miembros, como yo presurno ---»",
+          "autor": "Jáur.",
+          "referencia_obra": "Aminta , 4 (R. 42. 145 2 )."
+        },
+        {
+          "texto_cita": "«Falsa fe, cierto temor, | Voluntad de amor desnuda.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Gal . 6 (R. 1. 91 2 )."
+        },
+        {
+          "texto_cita": "«Mi temerosa lengua cuasi muda | Pienso mover en la real presencia, | De adulación y de mentir desnuda.»",
+          "autor": "",
+          "referencia_obra": "Id. El trato de Argel, 1 (Sancha, 295)."
+        },
+        {
+          "texto_cita": "«Es tu forma intelectiva | De toda ciencia espíritu desnudo.»",
+          "autor": "Lope",
+          "referencia_obra": ", son . 30 ( Obr. suelt. 1. 393)."
+        },
+        {
+          "texto_cita": "«Pechos que piensan que el bien ajeno ha de redundar en daño suyo, desnudos de partes y merecimientos.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud. 1. 8 (R. 18. 396 1 )."
+        },
+        {
+          "texto_cita": "«Esperaban | A los que tú, Señor, eras escudo; | Que el corazón desnudo | De pavor, y de fe y amor vestido, | Con celestial aliento confiaban.»",
+          "autor": "Herr.",
+          "referencia_obra": "2, canc. 3 (R. 32. 307 1 )."
+        },
+        {
+          "texto_cita": "«Ablandarpudo | Aquel pecho desnudo de clemencia.»",
+          "autor": "Tirso",
+          "referencia_obra": ", El pretendiente al revés, 2. 1 (R. 5. 31 1 ). —"
+        },
+        {
+          "texto_cita": "«Mi zampoña ruda, | Indigna de llegar á tus oídos, | Pues de ornamento y gracia va desnuda.»",
+          "autor": "Garcil.",
+          "referencia_obra": "égl . 3 (R. 32. 21 1 )."
+        },
+        {
+          "texto_cita": "«La ciudad por estar desnuda de gente de guerra quedó en poder del vencedor.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 6. 24 (R. 30. 183 2 )."
+        },
+        {
+          "texto_cita": "«Tanto será la obra más perfecta, cuanto más desnuda fuere de todo interese proprio.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 2. 17, § 3 (R. 6. 154 2 )."
+        },
+        {
+          "texto_cita": "«Va la verdad desnuda de artificio.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 12 (R. 17. 50 2 )."
+        },
+        {
+          "texto_cita": "«Ni la conducta moderada y sin nota bastará para recomendarle cuando estuviere desnuda de aquella instrucción.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Regl. col. de Calatr. 2. 5 (R. 46. 226 2 )."
+        },
+        {
+          "texto_cita": "«Le imitó [Timoneda á Rueda] en algunas piezas cómicas que compuso en prosa, no desnudas de mérito.»",
+          "autor": "Mor.",
+          "referencia_obra": "Oríg . disc. hist. (R. 2. 161)."
+        },
+        {
+          "texto_cita": "«Su testimonio, desnudo absolutamente de pruebas, no es de peso alguno.»",
+          "autor": "Clem.",
+          "referencia_obra": "Coment. 1 , p. 108."
+        },
+        {
+          "texto_cita": "«La música más grata y deliciosa | Ni una pausa consiente ni un sonido | Desnudo de sentido.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Poét . 3 (1. 105)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la forma desnuyo ). Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El brazo desnudo, el espada en la mano, esforzando los suyos, firiendo los enemigos, venció muchas batallas de moros.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 14 (102)."
+        },
+        {
+          "texto_cita": "«Mataron al hombre de armas que habian llevado preso, echáronlo desnudo de los muros abajo.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 1. 50 (R. 68. 298 1 )."
+        },
+        {
+          "texto_cita": "«El espada desnuda en la mano, andando animando á los unos é á los otros ---»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 20 (68)."
+        },
+        {
+          "texto_cita": "«Vascongados medio mudos | Pero ardidos e fuertes, | Faziendo teribles muertes | Desarmados e desnudos.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var . 184 ( Rim. inéd . 299)."
+        },
+        {
+          "texto_cita": "«Al Santo Apostol vio | Con una espada desnuda.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 147 ( Rim. inéd. 294)."
+        },
+        {
+          "texto_cita": "«Tenia desnuda una espada | En mano con grand vigor.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 72."
+        },
+        {
+          "texto_cita": "«Pero las virtudes non son en sus manos | Nin dellas vos pudo desnuda faser.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 210 (71 2 )."
+        },
+        {
+          "texto_cita": "«E el uno llevaba una espada desnuda tendida sobre la cerviz del caballo.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 16 (131)."
+        },
+        {
+          "texto_cita": "«",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Desnudos nasçieron é asy se fallaron | Despues d'esta vida esquiva, engañosa.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 383."
+        },
+        {
+          "texto_cita": "«Salió del banno desnuyo.»",
+          "autor": "",
+          "referencia_obra": "Lib. de los enxemplos (R. 51. 458 1 ). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Maguer todas las cosas a él desnudas son, | Abiertas e muy claras sin poner opinion ---»",
+          "autor": "Pal.",
+          "referencia_obra": "1573 (R. 57. 475 2 )."
+        },
+        {
+          "texto_cita": "«Vestia los desnudos, daua á comer á los que auian fanbre.»",
+          "autor": "",
+          "referencia_obra": "Placidas (Knust, 124)."
+        },
+        {
+          "texto_cita": "«E teniéndole desnudo de las armas é de las otras vestiduras que levaba ---»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 63 (R. 66. 50 2 )."
+        },
+        {
+          "texto_cita": "«Salió del baño desnuyo.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. (R. 51. 424 1 )."
+        },
+        {
+          "texto_cita": "«Mas vale el home andar desnuyo que cubierto de malas obras.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (R. 51. 427 1 )."
+        },
+        {
+          "texto_cita": "«Et estando Adam et Eva por el paraiso, desnudos cuales nascieron, non habian vergüenza de Dios nin de sí mesmos.»",
+          "autor": "",
+          "referencia_obra": "Id. Libro de los est . 1. 38 (R. 51. 297 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Desnudo nasce e desnudo vive toda su vida.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 90 (R. 51. 228 1 )."
+        },
+        {
+          "texto_cita": "«Tanto le da que ande desnudo como si andoviese bien vestido.»",
+          "autor": "",
+          "referencia_obra": "lb . 6 (R. 51. 96 2 )."
+        },
+        {
+          "texto_cita": "«Desnudo nasci del vientre de mi madre, e desnudo torno a la tierra.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 17 (240 1 )."
+        },
+        {
+          "texto_cita": "«Estaua muy triste de cara --- e los braços desnudos.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 84 (45 2 )."
+        },
+        {
+          "texto_cita": "«E melésinad los enfermos, e vestid los desnudos.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 2 (Knust, 96)."
+        },
+        {
+          "texto_cita": "«E el caballero non se librará, é el esforzado de corazon fuirá de entre los fuertes desnuyo.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 10 (192)."
+        },
+        {
+          "texto_cita": "«Los çiegos alumnaron, los desnudos vistieron.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Laur . 49 (R. 57. 91 2 )."
+        },
+        {
+          "texto_cita": "«Por grant viento e grant friura | Desnuda va ssin vestidura.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egipc . (R. 57. 312 2 )."
+        },
+        {
+          "texto_cita": "«El espada tienes desnuda en la mano e veot aguijar.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2413 (R. 57. 26 2 )."
+        },
+        {
+          "texto_cita": "«Las espadas desnudas, a las puertas se parauan.»",
+          "autor": "",
+          "referencia_obra": "lb . 608 (R. 57. 9 1 )."
+        },
+        {
+          "texto_cita": "«En mano tenie desnuda el espada.»",
+          "autor": "",
+          "referencia_obra": "lb . 471 (R. 57. 7 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de la partícula negativa des, que aquí es intensiva, y nudo ; ep. desnu dar. Port. desnudo; cat. , val. desnú; mall . desnuu; prov. desnud, desnut, desnug. Este uso de des con palabras que ya denotan privación ocurre por ejemplo en desmenguar y no es desconocido en portugués (Leite de Vasconcellos, Dialectos beirôes , I, p. 14). Desnuyo se refiere á una forma antigua desnuo como tuyo, suyo á tuo, suo. Este mismo oficio de suavizar el hiato desempeña la y en el gall. Rafayel, astur. Refaye (Munthe, Anteckningar om folkmalet i en trakt af vestra Asturien, p. 35). \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

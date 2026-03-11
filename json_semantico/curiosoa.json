@@ -1,0 +1,339 @@
+{
+  "lema": "CURIOSO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que pone particular cuidado y diligencia en lo que hace ó trata. A veces denota un cuidado excesivo sobre todo en traerse bien.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cide Hameto Benengeli fue historiador muy curioso y muy puntual en todas las cosas, y échase bien de ver, pues las que quedan referidas, con ser tan mínimas y tan raras, no las quiso pasar en silencio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 16 (R. 1. 286 2 )."
+            },
+            {
+              "texto_cita": "«Este [regoldar] es uno de los más torpes vocablos que tiene la lengua castellana, aunque es muy significativo, y así la gente curiosa se ha acogido al latín, y al regoldar dicen erutar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 43 (R. 1. 493 1 )."
+            },
+            {
+              "texto_cita": "«El ser yo limpia y curiosa | ¿Por melindres has tenido?»",
+              "autor": "Lope",
+              "referencia_obra": ", Los melindres de Belisa , 1. 12 (R. 24. 321 1 )."
+            },
+            {
+              "texto_cita": "«Cierto es que la casada que fuere tan tasada en sus gastos, y tan no curiosa por una parte, y por otra tan casera, y veladora y apvovechada, no sólo conservará lo que su marido adquiriere, sino...»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 8 (3. 459)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para expresar aquello en que se pone cuidado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Holgábame de ser estimada, era curiosa en cuanto hacía.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 5 (R. 53. 29 2 )."
+            },
+            {
+              "texto_cita": "«Tuvo el cargo de su padre no con menor gloria que él, por ser de ingenio fácil, de suavidad de costumbres y afabilidad singular, en todas sus cosas muy curioso.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 8. 3 (R. 30. 223 2 )."
+            },
+            {
+              "texto_cita": "«No se pudiera hallar cosa en aquel tiempo más estragada que las costumbres de España, ni gente más curiosa en buscar todo género de regalo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 6. 21 (R. 30. 178 2 )."
+            },
+            {
+              "texto_cita": "«No seas muy curioso en tu vestido; porque el amador de preciosos vestidos no suele tener los pensamientos humildes.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 2. 14, § 1 (R. 11. 121 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Que pone particular cuidado en saber y averiguar las cosas; que gusta de saber y averiguar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tengo no sé qué briznas de curioso, y de desear saber lo que se me estorba y impide.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 41 (R. 1. 490 2 )."
+            },
+            {
+              "texto_cita": "«El era algo curioso y siempre le fatigaban deseos de saber cosas nuevas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 24 (R. 1. 455 2 )."
+            },
+            {
+              "texto_cita": "«Quedaron todos los circunstantes admirados, y algunos dellos, más simples que curiosos, en altas voces comenzaron á decir: ¡Milagro, milagro!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 21. (R. 1. 448 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando entra el rey de nuevo en alguna ciudad --- los curiosos suelen poner cuidado y trabajo por ver semejantes recibimientos»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 7 (3. 457)."
+            },
+            {
+              "texto_cita": "«Yo he visto en ella [en Toledo] una copiosa serie de monumentos, donde puede estudiar el curioso el origen, progresos y alteraciones de nuestras artes hasta el día.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de las bellas artes (R. 46. 353 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar aquello en que se muestra curiosisdad ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuanto menos familiar suyo soy, tanto soy más curioso en el oler las cosas.»",
+              "autor": "",
+              "referencia_obra": "P. S. de Abril, trad. de Cic. Fam. 4. 13 (1. 483. El original:"
+            },
+            {
+              "texto_cita": "«ad investigandum curiosior.»",
+              "autor": "",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Piense en lo que Dios le manda, y no sea curioso en querer escudriñar sus obras.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. espir. 31 (R. 11. 262 1 )."
+            },
+            {
+              "texto_cita": "«En cosas quo no le va, ni le viene, no sea curiosa en hablarlas ni preguntarlas.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Avisos , 46 (R. 53. 286 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de, para expresar el objeto de la curiosidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que por la mayor parte los que son curiosos destas cosas tienen y creen, es que la lengua que hoy usan los vizcaínos es aquella antigua española.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Mayans, 18)."
+            },
+            {
+              "texto_cita": "«Forzado es, que si no trata de sus oficios, emplee su vida en los oficios ajenos, y que dé en ser ventanera, visitadora, callejera --- de su casa olvidada y de las ajenas curiosa.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas . 9 (3. 462)."
+            },
+            {
+              "texto_cita": "«Ya sabes tú cuán curiosas | Son de saber las mujeres.»",
+              "autor": "Lope",
+              "referencia_obra": ", El despertar á quien duerme , 1. 7 (R. 41. 347 2 )."
+            },
+            {
+              "texto_cita": "«Yo, desta ciencia curioso, | Incitado destas nuevas, | Supe de la cueva el sitio, | Y partíme solo á verla.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La cueva de Salamanca, 1 (R. 20. 88 2 )."
+            },
+            {
+              "texto_cita": "«El señor Conde se ha propuesto --- vindicará nuestra nación de la nota de poco curiosa de sus antigüedades en parte tan considerable de sus fastos.»",
+              "autor": "Clem.",
+              "referencia_obra": "( Mem. Acad. Hist. 6. L )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con menos propiedad se usa por.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Curioso por saber.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram . Esta partícula es oportuna con adjetivos que denotan un estado del ánimo, como ansioso , porque denota la causa de tal estado; curioso no se halla en este caso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Aplicado á cosas.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hecho con particular cuidado; limpio, aseado. A veces denota esmero ó delicadeza excesiva en los objetos de uso personal.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Procura que tus vestidos no sean curiosos; porque quien ama mucho el vestido precioso, no siempre tiene el corazón humilde.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 2. 4, § 1 (R. 6. 127 1 )."
+        },
+        {
+          "texto_cita": "«¿Qué diré del paladar? ¿Cuán amigo es de manjares curiosos, y sabrosos, y costosos?»",
+          "autor": "",
+          "referencia_obra": "Id. Símb . 4, diál . 6 (R. 6. 559 2 )."
+        },
+        {
+          "texto_cita": "«Eran cuatro camisas de delgada holanda, y otras cosas de lienzo, no menos curiosas que limpias.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 23 (R. 1. 307 1 )."
+        },
+        {
+          "texto_cita": "«De la lección de los libros y de la vanidad que de ellos había concebido, brotó la demasía y desconcierto de las galas y aderezos curiosos.»",
+          "autor": "Yepes",
+          "referencia_obra": ", Vida de Sta. Ter . 1. 3 ( Míst . 1. 10)."
+        },
+        {
+          "texto_cita": "«Una cuadrada, | Limpia y olorosa mesa, | A lo italiano curiosa, | A lo español opulenta.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", La verdad sospechosa , 3. 7 (R. 20. 325 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Que excita curiosidad; que merece atención por contener cosas interesantes y poco comunes.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Metiendo la mano en su zurrón y sacando el curioso globo, todos por satisfacernos fuimos á ver lo que antes dudábamos.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro, 8 (161)."
+            },
+            {
+              "texto_cita": "«Llenó de agua un curioso vaso que tenía consigo, donde se venía riendo el cristal.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 2 (170)."
+            },
+            {
+              "texto_cita": "«Lee todo aquel capítulo, Julio, que es de lo más curioso que vi en mi vida.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 5. 3 ( Obr. suelt . 7. 387)."
+            },
+            {
+              "texto_cita": "«Bien es verdad que el segundo autor desta obra no quiso creer que tan curiosa historia estuviese entregada á las leyes del olvido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 9 (R. 1. 271 1 )."
+            },
+            {
+              "texto_cita": "«Yo por mi parte os oiré, hermano, de muy buena gana, y así lo harán todos estos señores por lo mucho que tienen de discretos y de ser amigos de curiosas novedades, que suspendan, alegren y entretengan los sentidos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 51 (R. 1. 396 1 )."
+            },
+            {
+              "texto_cita": "«Antes quisiera | Que aquí unas telas veáis, | Y algunas cosas curiosas | Delas que truje de allá.»",
+              "autor": "Mto.",
+              "referencia_obra": "No puede ser, 1. 10 (R. 39. 193 1 )."
+            },
+            {
+              "texto_cita": "«La última parte del artículo es de don Juan de Iriarte, y es curioso en ella ver á un gramático tomar la defensa de Góngora contra un poeta.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. castell. del siglo XVIII , 1 (R. 19. 146 2 )."
+            },
+            {
+              "texto_cita": "«Aun era más la cabida que tenía con el sumiller Laxao, á quien su elocución, sus modales, su conversación entretenida y curiosa se le conciliaban del todo.»",
+              "autor": "Casas",
+              "referencia_obra": "(R. 19. 444 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sup .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Emprendemos este trabajo histórico después de --- haber examinado curiosísimos manuscritos de aquel tiempo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. introd. (5. XXIV)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "A veces se toma en mala parte y sugiere que la curiosidad es perniciosa ó impertinente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y no menos [se muestra la sabiduría de Dios] en el juntar los concilios generales y asistir con el espíritu de su infalible promesa y verdad en ellos, para que con ella se desterrasen de la santa Iglesia las nuevas, peregrinas, falsas y curiosas doctrinas.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 2. 6 (R. 60. 419 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Hecho ó dictado por curiosidad y deseo de saber.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dijo san Bernabé á un curioso romano que las demandas curiosas no son dignas de respuesta.»",
+          "autor": "Venegas",
+          "referencia_obra": ", Agonía, 3. 12 ( Míst . 3. 73)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Curioso: curiosus, curaculus .»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., it. curioso ; cat., prov. curios ; fr. curieux : del lat. curiosus , derivado de cura, cuidado. En prov. y cat. ant. se usaba curos, cuidadoso, derivado netamente romance; es el mismo curoso que se halla en nuestros escritores del siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De tres pies tenia presçiosa corona | El alto instrumente temprava curoso.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 133."
+        },
+        {
+          "texto_cita": "«Guarda curosa se deue poner en estos instrumentos por el cortardor que los tiene e ha de seruir con ellos ante rey.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 4 (33). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

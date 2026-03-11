@@ -1,0 +1,158 @@
+{
+  "lema": "DESDEÑOSO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que manifiesta desdén, ó sea despego y menosprecio.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y sin mirarme, desdeñosa y fiera, | No sé qué allá entre dientes murmurando, | Me dejó aquí.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 2 (R. 32. 10 1 )."
+            },
+            {
+              "texto_cita": "«Me dijo así la bella desdeñosa, | Que me negaba un tiempo la esperanza, | Sorda y dura á mi lástima llorosa.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 9 (R. 32. 323 1 )."
+            },
+            {
+              "texto_cita": "«Dijo aquel, insolente y desdeñoso: |",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«¿No conocen mis iras estas tierras?»",
+              "autor": "",
+              "referencia_obra": "Id. 2, canc . 3 (R. 32. 306 2 )."
+            },
+            {
+              "texto_cita": "«El indigno prelado [Anás] en silla estaba | Pomposa y alta, esquivo y desdeñoso, | Con faz sañuda y apariencia brava.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 4 (R. 17. 431 1 )."
+            },
+            {
+              "texto_cita": "«Ella lo sigue amorosa, | Y él desdeñoso resiste.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El desdichado en fingir, 2. 12 (R. 20. 151 1 )."
+            },
+            {
+              "texto_cita": "«¿No es don Diego de Ribera | Ese hombre, á quien, desdeñosa, | Con más desaires desprecio | Que él con finezas me enoja?»",
+              "autor": "Mto.",
+              "referencia_obra": "El caballero, 2. 17 (R. 39. 302 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, para expresar el objeto del desdén.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viéndole tan desdeñoso con la verdad, perdido todo temor, salieron de la espesura.»",
+              "autor": "León",
+              "referencia_obra": "prodigioso, 2, pl. 3 ( Dicc. Autor. ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á y un nombre de cosa, en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aljófares desprecia, | Sordo á suspiros, desdeñoso á voces.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del. aprov. fol . 12."
+            },
+            {
+              "texto_cita": "«Yo desdeñoso á tales desatinos --- avisé con señas á mi hermano»",
+              "autor": "",
+              "referencia_obra": "Id. ib. fol. 121."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese de las cosas en que se manifiesta desdén.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con flautas, cuernos, roncos instrumentos, | Alto estruendo, alaridos desdeñosos, | Salen los fieros bárbaros sangrientos.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc. 4 (R. 17. 18 2 )."
+        },
+        {
+          "texto_cita": "«Por amor nace discordia entre los carneros --- y si sucede que la amada ovejuela acoja al vencedor, el vencido topando reciamente en el tronco de algún árbol, hace á sí mismo dura y desdeñosa ofensa.»",
+          "autor": "Figueroa",
+          "referencia_obra": ", Amarilis, 1 (27)."
+        },
+        {
+          "texto_cita": "«Llena el anca y crecida, largo el trecho | De la cola y cabellos desdeñosos.»",
+          "autor": "",
+          "referencia_obra": "Céspedes, Pintur. 2 (R. 32. 365 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No se espresan aqui muchas maneras é palabras desdeñosas e aun injuriosas que los susodichos dixeron á muchos grandes é buenos.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 30 (R. 68. 711 1 )."
+        },
+        {
+          "texto_cita": "«Et [vi] á Porsia desdennosa.»",
+          "autor": "",
+          "referencia_obra": "Canc . de Stúñ. p. 76"
+        },
+        {
+          "texto_cita": "«Vuestro gesto desdennoso | Non fará nin yo lo creo, | Donsella, que mi deseo | Non vos recuente quexoso.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 242."
+        },
+        {
+          "texto_cita": "«Con otros vervos donosos | Que en vos syenpre son fallados, | Gentiles, retoricados, | Todos fueran muy gososos; | Mas estos tan desdeñosos | Son ---»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 635. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Pues a ti me encomiendo, non me seas desdennosa.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1643 (R. 57. 279 2 )."
+        },
+        {
+          "texto_cita": "«De lo quel pertenese, non sea desdennoso.»",
+          "autor": "",
+          "referencia_obra": "Id. 754 (R. 57. 250 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Vernien por ende muchos daños, ca meterse hie por olvidadizo, et otrosi por desdeñoso et despreciador de lo quel mismo ficiera.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 4. 15 (2. 400)."
+        },
+        {
+          "texto_cita": "«Que non sean desdeñosos en entrar aina en el acabdellamiento quando ge lo mandaren.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 28. 3 (2. 318)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de desdeño mediante el sufijo abundancial oso. Port. desdenhoso; cat. desdenyós; prov. desdenhos; fr. dédaigneux; it. disdegnoso, sdegnoso. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

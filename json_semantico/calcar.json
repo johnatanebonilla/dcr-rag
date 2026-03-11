@@ -1,0 +1,89 @@
+{
+  "lema": "CALCAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Apretar con el pie ( trans. ). Ya Terreros lo tilda de inusitado.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Sacar copia de un dibujo, inscripción ó relieve por contacto inmediato del original con el papel ó la tela á que han de ser trasladados, lo cual se hace mediante varios procedimientos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Copié las inscripciones calcándolas.»",
+              "autor": "Clem.",
+              "referencia_obra": "( Mem. Acad. Hist. 6. LXXVIII )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sobre , para señalar el original ó modelo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Copias [de inscripciones] calcadas con el mayor cuidado sobre los mismos originales.»",
+              "autor": "Clem.",
+              "referencia_obra": "( Mem. Acad. Hist. 6. LI )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Imitar ó copiar puntualmente ( trans .). Con en ó sobre , para denotar lo que sirve de modelo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No creemos que la oratoria sagrada pueda tener otro estilo sino el que esté calcado en el de la santa Escritura.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos , 1, p. 68."
+        },
+        {
+          "texto_cita": "«De donde había de provenir, por poco esmero que en ello se pusiese, que las descripciones no fuesen vagas y pintadas de fantasía, como lo suelen ser las que se hacen de países que no se han visto; sino calcadas, por decirlo así, en el propio terreno y sobre los objetos mismos.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Is. de Solís , 1, advert. (4. 194)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(En el sentido de Hincar á golpes.) Siglo XIII :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pegoseli tan firme en el punno çerrado | Que con englut ninguno non serie tan trabado, | Nin con clavo que fuesse con martiello calcado»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 883 (R. 57. 130 2 )."
+        },
+        {
+          "texto_cita": "«Calcaronli espinas redor de la mollera.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 25 (R. 57. 132 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. calcare , pisar, de calx, calcanar. La acepción común de nuestro verbo, lo mismo que el fr. calquer , procede del it. calcare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "La c se convierte en qu, antes de e : calquen, calquéis. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

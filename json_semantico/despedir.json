@@ -1,0 +1,1159 @@
+{
+  "lema": "DESPEDIR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Soltar, dejar caer ó desprenderse lo que estaba adherido; echar, dejar salir lo que estaba en el interior ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De los cuales [árboles] unos son fructuosos otros estériles --- unos que nunca despiden la hoja, otros que cada año la mudan.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 10, § 2 (R. 6. 207 1 )."
+            },
+            {
+              "texto_cita": "«Hase de hacer [el enjerto de cañutillo] en tiempo que suda el árbol y despida la corteza.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 3. 8 (2. 88)."
+            },
+            {
+              "texto_cita": "«El tiempo de engerir, Cosme, á propósito | Ha de ser en creciente de la luna --- | Cuando vieres que suda la corteza | Y despide la yema, pon el ramo | Al pecho ó sobre la rodilla, y corta | Haciendo dos rayitas, como escudo ---»",
+              "autor": "Lope",
+              "referencia_obra": ", La buena guarda, 3 (R. 41. 339 1 )."
+            },
+            {
+              "texto_cita": "«Cuando la culebra quiere mudar el pellejo, entra por un agujero muy estrecho, para que así pueda despedir la piel.»",
+              "autor": "Doctr.",
+              "referencia_obra": "espir. 35, § 2 (R. 11. 267 2 )."
+            },
+            {
+              "texto_cita": "«Cuando la culebra despide el pellejo, renovarse quiere.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 4 (R. 18. 386 1 )."
+            },
+            {
+              "texto_cita": "«Estaba otra mujer de parto tres días había sin poder despedir la criatura.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de B. de los Márt . 10 (R. 11. 446 1 )."
+            },
+            {
+              "texto_cita": "«Como suele | El curtidor á numerosa turba | De obreros entregar, á que la estiren, | De corpulento buey la piel teñida | En untuoso aceite, y apartados | Y en círculo dispuestos, con gran fuerza | Cada cual tira de su punta, y pronto | Despide el agua y el aceite embebe ---»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 17 (2. 181). —"
+            },
+            {
+              "texto_cita": "«Cerrando sus ojos, como ya menospreciando las cosas mortales, hasta que despidió el alma repetía los mismos versos.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 5. 10 (510)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Con de y el pron. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los valientes alcornoques despedían de sí, sin otro artificio que el de su cortesía, sus anchas y livianas cortezas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 11 (R. 1. 275 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Quedar desprendido ó suelto (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Echándolo [el capullo de la seda] en agua caliente, se puede muy bien recoger el hilo, despidiéndose y despegándose con el calor un hilo de otro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb., 1. 21 (R. 6. 237 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Echar de sí, difundir, esparcir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De ámbar pensé, mas no es sino de azufre | El olor que despiden estas plantas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La casa de los celos, 3 ( Com . 1. 115)."
+            },
+            {
+              "texto_cita": "«Veréis --- | Que la senda por do pase | Olor de casia despide.»",
+              "autor": "Iglesias",
+              "referencia_obra": ", róm. 4 (R. 61. 432 3 )."
+            },
+            {
+              "texto_cita": "«Tomó dos gruesas lanzas guarnecidas | De agudo bronce, y á lo lejos mucho | Y hasta la alta región del ancho cielo | Llegaba el resplandor que despedían.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 11 (1. 311)."
+            },
+            {
+              "texto_cita": "«Al resplandor que en torno despedía | Creyeron ver al furibundo Aquiles.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 17 (2. 172)."
+            },
+            {
+              "texto_cita": "«Les pasó por delante tocando en vez de corneta un hueco y desmesurado cuerno, que un ronco y espantoso són despedía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quijj. 2. 34 (R. 1. 478 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de y el pron. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y las flores, y las hierbas, y el campo todo despide de sí un tesoro de olor.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 7 (3. 457)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Soltar, como la voz ó el aliento, con particular esfuerzo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despidiendo treinta ayes y sesenta sospiros y ciento y veinte pésetes y reniegos de quien allí le había traido, se levantó.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 15 (R. 1. 285 1 )."
+            },
+            {
+              "texto_cita": "«Dolorosos | Gemidos despedía y por su nombre | Al amigo llamaba.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 10 (1. 305)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Temblando y pasito, y casi sin osar despedir el aliento de la boca, llegó Leonora á untar los pulsos del celoso mando.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 7 (R. 1. 178 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar el objeto con que se suelta la voz.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despedia [yo] la voz á mil honestos cantares.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 13 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Soltar cosa arrojadiza después de preparado impulso, arrojar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y tantas despidió la honda piedras, | Que el muro penetraron de las hiedras.»",
+              "autor": "Góng.",
+              "referencia_obra": "Polif. (R. 32. 462 2 )."
+            },
+            {
+              "texto_cita": "«Hecha [la muralla] de troncos robustos de árboles fijos en la tierra, al modo de nuestras estacadas; pero apretados entre sí con tal disposición, que las junturas les servían de troneras para despedir sus flechas.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 17 (R. 28. 226 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar la cosa en que se ha preparado el impulso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era tanta la presteza y violencia con que los despedían [los dardos] de sus manos, que atravesaban hombres y caballos armados.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 7 (R. 21. 8 2 )."
+            },
+            {
+              "texto_cita": "«Tal vez suelen | Disputar su pujanza despidiendo | De la robusta mano enormes troncos, | Cual si fuera un liviano ó fácil peso.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Pelayo , 2. 8 (R. 46. 60 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á ó contra, para expresar el objeto á que se dirige el tiro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrieron sus aljabas y á manojos | Contra mí las saetas despidieron.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 30 (2. 113)."
+            },
+            {
+              "texto_cita": "«Parecido | Al ardiente relámpago que Jove | Despide con su diestra poderosa | Desde el luciente Olimpo á los humanos.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 13 (2. 17)."
+            },
+            {
+              "texto_cita": "«¿Queréis que la voz mia | Rayos despida á los soberbios tronos?»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Para un convite (R. 19. 32 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con un dat. de pers. en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amor un dulce tiro | Riendo me despide.»",
+              "autor": "Mel.",
+              "referencia_obra": "Anacr. 1 (R. 63. 93 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "En general, Lanzar, arrojar, rechazar de sí ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero él sin moverse desechaba sus amonestaciones, como una grande roca despide las ondas de un pequeño arroyo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 3. 24, § 1 (R. 6. 440 1 )."
+            },
+            {
+              "texto_cita": "«Vuelan, movidas de rencor, las naves | Con naves á encontrar; menos violentas | Despide el polo austral sierras de hielo, | Que con su mole inmensa y resonante | Por las fáciles ondas se deslizan.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Trafalgar (R. 19. 17 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era salido el sol, cuando el enorme | Peso de las espaldas despedía | Y un salto dio en lanzándole disforme | Mostrando que aún más ánimo tenía.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 2 (R. 17. 10 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En la antigua legislación, Refl. Declarar el vasallo al señor, besándole la mano, que no es más su vasallo; de aquí: Decir el criado al amo ó el subalterno al superior que deja su servicio ó dependencia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandamos que el criado ó criada --- que se despidiere de su señor ó amo, no pueda asentar ni servir á otro señor ni amo en el mismo lugar y sus arrabales, ni otra persona alguna le pueda recibir ni acoger sin expresa licencia y consentimiento del señor y amo de quien se despidió.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 6. 16. 1 (2. 536)."
+            },
+            {
+              "texto_cita": "«Ahora cuando yo pensaba ponerte en estado, y tal que á pesar de tu mujer te llamaran señoría, te despides? ¿Ahora te vas ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 28 (R. 1. 465 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En sentido parecido:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ganada Noyón, despidiéndosele al de Bearne, conforme á la costurnbre de Francia, casi toda su nobleza, quedó imposibilitado de tentar otra cosa de importancia.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 4 (R. 28. 43 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "De aquí trans. : Dejar el superior libre al inferior de la dependencia en que eslaba para con él; quitar la ocupación, empleo ó servicio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dicen algunos que redunda en poca reputación del príncipe despedir ministros, porque con la repulsa se entra en sospecha de que no se miraron las elecciones.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist. 1. 26 (152: Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«Por eso, y porque él era algún tanto corto de vista, mi señora le despidió.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 48 (R. 1. 504 2 )."
+            },
+            {
+              "texto_cita": "«El señor que despedir | Un criado resolvió, | No se ofende si él buscó | Otro dueño á quien servir.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á si mismo, 3. 18 (R. 20. 80 1 )."
+            },
+            {
+              "texto_cita": "«Desde aquella noche mesma | Que trajiste herido á Astolfo | A casa, y como si fuera | Tu familia su homicida, | Con enojo y con afrenta | A todos nos despediste, | Sirvo á Carlos.»",
+              "autor": "Cald.",
+              "referencia_obra": "El galán fantasma, 2 . 2 (R. 7. 297 1 )."
+            },
+            {
+              "texto_cita": "«En fin tu me has despedido. | — Beatriz, no repliques más. | — Injusto pago me das | Del tiempo que te he servido.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Donde hay agravios, no hay celos, 1 (R. 54. 150 1 )."
+            },
+            {
+              "texto_cita": "«Ya he despedido á un escribiente, y dentro de poco tendré que cerrar el oficio.»",
+              "autor": "",
+              "referencia_obra": "Miñano, Lam. polít. 2 (6). — Pas."
+            },
+            {
+              "texto_cita": "«Si se recibe ó se despide el criado, ha de ser por su mano de ellas.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. introd. (3. 424)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para expresar aquello de que alguien queda separado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con amenazas | Nos despidió de su servicio.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 21 (2. 305)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. met. Hacer ó decir alguna expresión de afecto ó cortesanía para separarse una persona de otra.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por venir el día se fueron los músicos, despidiéndose con las chirimías.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 8 (R. 1. 187 1 )."
+            },
+            {
+              "texto_cita": "«Porque viendo la priesa del partirme | Alma no tuve para despedirme.»",
+              "autor": "Cald.",
+              "referencia_obra": "El astrólogo fingido, 1. 7 (R. 7. 576 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recipr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ea, despedios las dos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los embustes de Celauro , 2. 5 (R. 24. 98 3 )."
+            },
+            {
+              "texto_cita": "«Despedímonos los dos --- | Dímonos firmes palabras... | ¿Dímones, dije? mentí: | Yo las di firmes, que Julia | Las dio de mujer, al fin. | Partió.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo, 2. 13 (R. 20. 73 3 )."
+            },
+            {
+              "texto_cita": "«Fue Cortés, acompañado de sus amigos, á casa del gobernador, donde se despidieron los dos dándose los brazos y las manos con amigable sinceridad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 10 (R. 28. 217 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de , para expresar la persona de quien uno se separa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aconteció que el mismo día de Navidad, un caballero muy principal á quien él tenía señalado para el gobierno de Castiila, se vino á despedir dél para ir á su cargo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 9 (R. 30. 440 2 )."
+            },
+            {
+              "texto_cita": "«De una sola cosa me pesa, dulce amiga, y es que no puedo despedirme de ti en esta amarga partida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 32 1 )."
+            },
+            {
+              "texto_cita": "«No os afrentéis, Ricardo, de llorar --- que una cosa es pelear con los enemigos, y otra despedirse de quien bien se quiere.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 4 (R. 1. 148 1 )."
+            },
+            {
+              "texto_cita": "«Despidióse de sus amigos que los tenía muchos y muy buenos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8 (R. 1. 183 2 )."
+            },
+            {
+              "texto_cita": "«Todo lo cual hecho y cumplido, sin despedirse Panza de sus hijos y mujer, ni D. Quijote de su ama y sobrina, una noche se salieron del lugar.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 7 (R. 1. 268 2 )."
+            },
+            {
+              "texto_cita": "«Dando todos el pésame á su amigo Ambrosio, se despidieron dél.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 14 (R. 1. 283 1 )."
+            },
+            {
+              "texto_cita": "«En un mismo día nos despedimos todos tres de nuestro buen padre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 39 (R. 1. 363 2 )."
+            },
+            {
+              "texto_cita": "«El día que nos partimos nunca pude verle para despedirme dél siquiera con los ojos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 43 (R. 1. 377 2 )."
+            },
+            {
+              "texto_cita": "«Loco y ofendido | Me parto, y de ninguno me despido.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Palabras y plumas, 1. 4 (R. 5. 4 2 )."
+            },
+            {
+              "texto_cita": "«Acabada la misa, se despidió Cortés del cacique y de todos los indios principales.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 20 (R. 28. 230 2 )."
+            },
+            {
+              "texto_cita": "«Supieron que [el emperador] había de hacer mansión en Tordesillas para despedirse de la reina doña Juana.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 1 (R. 28. 264 2 )."
+            },
+            {
+              "texto_cita": "«Alegres fuentecillas --- | Monte, que el Tajo abraza --- | De todos me despido, | Pues quiere mi desdicha que me aparte | Celoso y ofendido.»",
+              "autor": "Esquil.",
+              "referencia_obra": "égl. ( Lope , Obr. suelt. 1. 357). — Part. dep."
+            },
+            {
+              "texto_cita": "«Despedida dellos, se fue por el valle abajo.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, 7 (204)."
+            },
+            {
+              "texto_cita": "«Su majestad, que estaba | Ya de la reina despedido, vino | De Burgos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los ramilletes de Madrid, 3. 5 (R. 52. 317 3 )."
+            },
+            {
+              "texto_cita": "«Ella se volvió á Elisa, y á poco rato, despedidas de los pastores, se entraron por la espesura de los árboles con poco gusto de todos.»",
+              "autor": "G. de Montalvo",
+              "referencia_obra": ", Pastor de Filida, 1 (13)."
+            },
+            {
+              "texto_cita": "«Despedido de todos con el sentimiento regalado que en las demás partes, guió con su familia á la metrópoli antioquena.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del. aprov. f. 137 1 ."
+            },
+            {
+              "texto_cita": "«Despedido de su adorada esposa, sin sospecha y recelo bajó la escalera.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 2. 18 (R. 18. 356 1 )."
+            },
+            {
+              "texto_cita": "«Luégo al punto he de partirme --- | Y de mi esposa y su padre | Estoy despedido ya.»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo, 2 (R. 54. 244 1 )."
+            },
+            {
+              "texto_cita": "«Despedido amistosamente de todos los que pasaban adelante, me encaminé á la posada.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Un viaje (354)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Alguna vez se halla como en el lenguaje antiguo un dat. pron. en lugar del compl. con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y él después de alguna intermisión que gastó en sus disculpas, satisfaciones vanas de haberse ausentado sin despedírseme ---»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 2. 10 (R. 18. 339 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "De aquí como trans. : Acompañar por obsequio al que sale de una casa ó de un pueblo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la tarde, dichas vísperas, salió la misma procesión á despedir las santas reliquias con tanta y más gente que á la entrada.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Opúsc. 1 , p. 125."
+            },
+            {
+              "texto_cita": "«Al huésped es cortesía | El despedirle obligado.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La celosa de sí misma, 1. 8 (R. 5. 134 1 )."
+            },
+            {
+              "texto_cita": "«Saliendo todos á despedirle como una media legua --- llegó por fin al campamento de su hermano.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 357 2 ). —"
+            },
+            {
+              "texto_cita": "«Hubo nación, que con menos luz de la inmortalidad, recibía al nacido con lágrimas, y despedía al difunto con regocijos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 101 (R. 25. 265 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En este paso parece significar Cerrar la predicación de la bula para irse á ofrecerla á otra parte:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Había predicado dos ó tres días haciendo sus acostumbradas diligencias, y no le habían tomado bula, ni á mi ver tenían intención de se la tomar. Estaba dado al diablo con aquello, y pensando qué hacer, se acordó de convidar al pueblo para otro día de mañana despedir la bula --- La mañana venida, mi amo se fue á la iglesia y mandó tañer á misa y al sermón para despedir la bula.»",
+              "autor": "Lazar.",
+              "referencia_obra": "5 (R. 3. 88 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con un nombre de persona, Separarse de ella en espíritu, ahogando ó venciendo el afecto que se le tiene. Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquélla no quiso el marido, y negó el mundo, y despidióse de todos, para conversar siempre y desembarazadamente con Cristo.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. introd. (3. 425)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un nombre de cosa, Renunciar á la esperanza de poseerla ó lograrla. Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por lo cual les dice [el demonio] que se despidan del cielo que con la vida contradijeron.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía, 3. 17 ( Míst . 3. 102)."
+            },
+            {
+              "texto_cita": "«Tienen por dificultosísima esta empresa, y así se despiden della.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 28, § 1 (R. 6. 106 1 )."
+            },
+            {
+              "texto_cita": "«Quienquiera que fuere enemigo del trabajo, bien se puede despedir de todas las virtudes.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 5. 3. 6, § 4 (R. 6. 687 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me despido de poner en ella [en la cuestión] mi estudio á su tiempo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1 ; Padre (3. 107)."
+            },
+            {
+              "texto_cita": "«¡Que tengo de despedirme | De ver el Tajo dorado! | ¡Que ha de quedar mi ganado, | Y yo triste he de partirme!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 74 2 )."
+            },
+            {
+              "texto_cita": "«Solicitándoles los bárbaros á que tañesen sus violones y tomasen un rato de placer, por no agraviar la fidelidad que conservaban en sus pechos á las ruinas del templo santo, se despidieron de tenerle hasta volver á besar las piedras de sus paredes.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro, 4. 112)."
+            },
+            {
+              "texto_cita": "«Vaya con Dios vuestra alteza --- | Y despídase de ser | Mi marido eternamente.»",
+              "autor": "Lope",
+              "referencia_obra": ", La obediencia laureada, 2. 15 (R. 52. 179 2 )."
+            },
+            {
+              "texto_cita": "«La mujer que gusta de domar caballos, despídase de enamorar corazones.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 201."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los moros despedidos de la esperanza del socorro de Africa que esperaban, entregaron al rey el mes de agosto año de nuestra salvación 1277 á Montesa y otros muchos castillos que tomaran.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 3 (R. 30. 404 2 )."
+            },
+            {
+              "texto_cita": "«De allí quedé sujeto, y sin sentido, | Sino para el dolor; y de alegría | En cuanto amando viva, despedido.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 2 (R. 32. 302 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con suj. de cosa, Apartarse, alejarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los otros comunes eclipses apenas duran la décima parte de una hora. Porque como la luna se mueva con tanta ligereza, fácilmente pasa adelante y se despide del sol, y vuelve su claridad al mundo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 29, § 1 (R. 6. 360 1 )."
+            },
+            {
+              "texto_cita": "«Ya se comenzaban á despedir las tinieblas de la gentilidad y resplandecer el rayo de la nueva luz.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Epif. ( Vida de Cristo, 214)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Decir ó mostrar á una persona que puede irse ó alejarse ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despidió á sus amigos, que esperando la llave estaban.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 178 2 )."
+            },
+            {
+              "texto_cita": "«Despidióla con buenas palabras y ofrecimientos.»",
+              "autor": "",
+              "referencia_obra": "Id. Tía fing. (R. 1. 247 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Con á en el sentido de dirección.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Echándoles su apostólica bendición, los despidió á sus casas.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del. aprov. f. 135 2 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Se decía de las cortes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las cortes de Guadalajara --- se despidieron, entrado bien el verano.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 18. 18 (R. 31. 23 1 )."
+            },
+            {
+              "texto_cita": "«Las alegrías, como se puede entender, fueron muy grandes: con que las cortes de Madrid se concluyeron y despidieron.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 19. 2 (R. 31. 34 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despedidas las cortes, se apresuró para ir á Castilla.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 8 (R. 30. 413 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer que se vaya la persona cuya pretensión negamos ó no despachamos favorablemente; apartar de sí al que ofende ó molesta ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No fuera más acertado haber despedido á Lotario como otras veces lo he hecho ---?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 34 (R. 1. 350 1 )."
+            },
+            {
+              "texto_cita": "«Mandó que los despidiesen [á los embajadores], y sin dejarse ver, respondió al cacique por medio del intérprete que si deseaba su amistad, enviase personas de más razón y más decentes á solicitarla.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 20 (R. 28. 229 2 )."
+            },
+            {
+              "texto_cita": "«Pero como se fuese delante del Santísimo Sacramento á pedir consejo al Señor para escribir una carta, despidiendo á la princesa de suerte que no se enojase, sino que llevase en paciencia su dilación, respondióle nuestro Señor ---»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2 . 21 ( Míst. 1. 196)."
+            },
+            {
+              "texto_cita": "«Mas los que aborrecieron siendo amados | Llamaron al amor pobre importuno, | Que á quien más los despide más le ruegan.»",
+              "autor": "Lope",
+              "referencia_obra": ", La hermosura aborrecida, 1. 7 (R. 34. 98 1 )."
+            },
+            {
+              "texto_cita": "«Despidiendo los inútiles tuvo el ejército en campaña al rigor del hibierno.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 82 (R. 25. 222 1 )."
+            },
+            {
+              "texto_cita": "«Daban á entender que estaban de paz y que llamaban, al parecer, más que despedían a los pasajeros.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1 . 7 (R. 28. 214 1 )."
+            },
+            {
+              "texto_cita": "«Los celos nunca despiden, | Antes, si se advierte, ruegan; | Que el dar la queja un amante | Es por no querer tenerla.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante, 1. 1 (R. 39. 144 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muy fuera de sazón y imprudentemente fueron despedidos [los embajadores de Marruecos] con palabras afrentosas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 8 (R. 30. 413 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de y el pron. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que quiere ser casto y regala su cuerpo, es como el que quiere despedir de sí un perro, y le arroja un pedazo de pan: el cual por eso le seguirá más.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 4, 2ª pte. 2 , § 4 (R. 3. 280 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Apartar de sí ó desechar alguna cosa no material ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues si todas estas maneras de defectos pueden caber en la oración, necesaria es luégo la asistencia y compañía de las otras virtudes para despedirlos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 5. 2 (R. 8. 296 1 )."
+            },
+            {
+              "texto_cita": "«Despiden el cansancio y la torpeza.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 11 (R. 17. 42 2 )."
+            },
+            {
+              "texto_cita": "«De aquí, por no irritar su complacencia, | Escarmentando en su aversión, despido | O templo mi oficiosa diligencia.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Don Juan, ya se me ha puesto (R. 42. 351 1 )."
+            },
+            {
+              "texto_cita": "«Su humildad y recato no consentían que del todo despidiese el temor.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 1. 21 ( Míst. 1. 99)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para lo cual primeramente habéis de despedir de vuestra ánima la indignidad que por defuera se ofrece á los ojos de carne en hacerse Dios hombre y morir en cruz.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 8, concl . § 1 (R. 6. 476 2 )."
+            },
+            {
+              "texto_cita": "«Se nos encomienda que en el tiempo de la oración despidamos de nuestra ánima todos los pensamientos y cuidados terrenos.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 5. 2, § 1 (R. 8. 296 1 )."
+            },
+            {
+              "texto_cita": "«Purifíquela [su conciencia] y despida de si todo lo que viere que puedo desagradar á Dios.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 1 . 12 (R. 60. 382 1 )."
+            },
+            {
+              "texto_cita": "«Ante todas cosas debemos enmendar nuestras vidas, y despedir de nosotros todos los vicios.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 8 (R. 60. 423 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con menos frecuencia se usa como suj. un nombre de cosa: Disipar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las cajas, pífanos, trompetas y clarines despedían todo el temor de los bisoños.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5. (R. 21. 527 1 )."
+            },
+            {
+              "texto_cita": "«Solo el verla despedía cualquiera tristeza y vano temor.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de la Virgen (23)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "En general, Desechar ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De lo que V. S. me dice de hacer ahí casa de estos descalzos, sería harto bien --- y ahora viene bien, que los visitadores se han tornado á confirmar --- y pueden admitir monasterios; y ansí espero en el Señor lo ha de querer: V. S. no lo despida, por amor de Dios.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Cartas, 1 . 2 (R. 55. 41 2 )."
+        },
+        {
+          "texto_cita": "«Fácilmente acaba consigo el hombre que ha gustado [los bienes espirituales], despedir y dar de mano á todos los otros bienes por estos bienes.»",
+          "autor": "Gran.",
+          "referencia_obra": "Adic. al Mem. 1. 4 (R. 8. 429 1 )."
+        },
+        {
+          "texto_cita": "«Llegué al coche --- | Diciendo: Pues es forzoso, | Señoras, que vuestro coche | De aquí no pase, y que de otro | Hayáis de serviros, éste | Merezca ser tan dichoso, | Que por estar más á mano | Le admitáis. Con mil enojos | Despidió el ofrecimiento, | Echándome del destrozo | La culpa.»",
+          "autor": "Cald.",
+          "referencia_obra": "¿ Cuál es mayor perfección? 1. 1 (R. 7. 69 3 )"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Despachar, enviar ( trans. ) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La diputación y ciudad despedían misionarios ó embajadores por dar satisfacción á su príncipe.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal. 2 (R. 21. 477 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Refl. Despacharse, ejecutar con expedición (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo me recuesto, dijo el alférez, en esta silla en tauto que vuesa merced lee si quiere esos sueños ó disparates --- Haga vuesa merced su gusto, dijo Peralta, que yo con brevedad me despediré desta letura.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 11 (R. 1. 226 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(La forma más antigua es espedir. ) Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E estonce el caballero besó al rey la mano --- é despidióse dél.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 125 (361)."
+        },
+        {
+          "texto_cita": "«E decíales que nin tampoco non temiesen --- é assi se despedia dellos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 10 (33)."
+        },
+        {
+          "texto_cita": "«Por el fallescimiento suyo [del arzobispo don Pedro de Luna] don Álvaro non despidió nin partió de si ninguno de los que tenia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 5 (14)."
+        },
+        {
+          "texto_cita": "«Con ellos me espediré, | La su bendicion tomando.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var . 369 ( Rim. inéd. 326)."
+        },
+        {
+          "texto_cita": "«Et viviendo despedida | De salud et redemption.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 82."
+        },
+        {
+          "texto_cita": "«El triste que se despide, | De plaçer e de folgura | Se despide; | Pues que su triste ventura | Lo despide | De vos, linda criatura.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 459."
+        },
+        {
+          "texto_cita": "«Aviase ya enviado despedir della por razon de la guerra de los moros.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 180."
+        },
+        {
+          "texto_cita": "«Gutierre se despidió de todos con mucho contento.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 32 (28 1 )."
+        },
+        {
+          "texto_cita": "«Expedir nin partir non se puede ningund vasallo de su señor en el primero año en que lo fizo caballero.»",
+          "autor": "",
+          "referencia_obra": "Doctrinal de caballeros, 4. 4 ( Dicc. Autor. ). — Siglo XIV: El que en este mundo quiso | Onrras, riquezas e riso, | De heredar el parayso | Se despida.» Tract. de lo doctr. (R. 57. 376 2 )."
+        },
+        {
+          "texto_cita": "«E del papa se espedieron, | Al infante se tornaron.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 9 (R. 57. 477 1 )."
+        },
+        {
+          "texto_cita": "«Envióse despedir del rey, é besóle la mano.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 1 (R. 66. 100 1 )."
+        },
+        {
+          "texto_cita": "«Don Juan Núñez: vuestro escudero dijo al rey que vos despidiedes dél.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 34 (R. 66. 28 2 )."
+        },
+        {
+          "texto_cita": "«Enviaron sus mandaderos que los despidiesen del rey, é le pidiesen plaxo de treinta dias é de nueve dias é de tres dias, á que pudiesen salir de los reinos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 27 (R. 66. 23 2 )."
+        },
+        {
+          "texto_cita": "«Quiero me espedir de vos, et querervos ya dar la mi bendicion.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Tract. sobre las armas (R. 51. 263 1 )."
+        },
+        {
+          "texto_cita": "«A todas estas cosas se obliga el vasallo á la hora que recibe señor, et nunca deste obligamiento puede ser partido fasta que se despida dél besandol la mano, et diciendo: Señor don fulano, besovos la mano et non so vuestro vasallo.»",
+          "autor": "",
+          "referencia_obra": "Id. Libro de los est. 1. 86 (R. 51. 332 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«E espedieronse alli el vno del otro con grande amor.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 4. 2 (294 1 )."
+        },
+        {
+          "texto_cita": "«Si ellos quisieren tener la villa combusco, nin la dedes por auer nin por cambio; mas si non quisieren, luego nos dispidamos e nos vayamos a Toledo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 2 (290 2 )."
+        },
+        {
+          "texto_cita": "«E despues que Mudarra Gonzalez esto ouo dicho e fue despedido de la madre, fue para Almançor.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 21 (262 2 )."
+        },
+        {
+          "texto_cita": "«Et el despedimiento debe seer fecho en esta manera, deciendo el vasallo al señor: Despídome de vos et bésovos la mano, et de aqui adelante non so vuestro vasallo. Et quando alguno otro se despediere en nombre del vasallo debe decir asi: Fulan caballero se despide de vos, et bésovos la mano por él, el digovos de su parte que de aqui adelante non es vuestro vasallo.»",
+          "autor": "Part.",
+          "referencia_obra": "4. 25. 7 (3. 136)."
+        },
+        {
+          "texto_cita": "«Mandamos que ningun fijodalgo non se pueda tornar vasallo dotre fasta que se expida de su señor.»",
+          "autor": "Fuero",
+          "referencia_obra": "real, 3. 53 ( O. L. 2. 97)."
+        },
+        {
+          "texto_cita": "«Llamó á sus fijos e a su muger, e castigolos, e espidióse dellos, e enviolos.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 11 (Knust, 162)."
+        },
+        {
+          "texto_cita": "«Si algund rico ome, que es vasallo del rey, se quier espedir del e de non ser suo vasallo, puedese espedir de tal guisa por un suo vasallo cavallero, o escudero, que sean fijosdalgo. Devel’ decir ansi: Señor, fulan rico ome [se despide de vos], beso vos yo la mano por él, e de aquí adelante non es vostro vasallo. E si algund cavallero ó escudero fijodalgo quisier espedir algund rico home, non seyendo este que él espide suo vasallo, puedelo facer; mas si aquel á quien espide, non gelo otorgare, este que él espidió deve ser enemigo del rey.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 1. 3. 3 (12)."
+        },
+        {
+          "texto_cita": "«A la entrada de la puerta todos se despedyeron.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 565 (R. 57. 406 2 )."
+        },
+        {
+          "texto_cita": "«Quierome, sennores, con tanto espedir.»",
+          "autor": "Alex.",
+          "referencia_obra": "2508 (R. 57. 224 1 )."
+        },
+        {
+          "texto_cita": "«Non querria con esto de vos me espedir.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 315 (R. 57. 50 1 )."
+        },
+        {
+          "texto_cita": "«De esta petiçion con esto me espido.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 198 (R. 57. 46 1 )."
+        },
+        {
+          "texto_cita": "«Despidióse de todos, desamparó la tierra.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 181 (R. 57. 45 2 )."
+        },
+        {
+          "texto_cita": "«La ora es llegada, quiero me dispidir.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill. 299 (R. 57. 74 2 )."
+        },
+        {
+          "texto_cita": "«Aun non me queria, sennores, espedir.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria, 185 (R. 57. 143 1 )."
+        },
+        {
+          "texto_cita": "«Hyas espidió Myo Cid de so sennor Alfonsso.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2155 (R. 57. 24 1 )."
+        },
+        {
+          "texto_cita": "«Despidiensse al rey, con esto tornados son.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1914 (R. 57. 22 1 )."
+        },
+        {
+          "texto_cita": "«Hyas espiden e pienssan de caualgar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1440 (R. 57. 17 2 )."
+        },
+        {
+          "texto_cita": "«Minaya Albar Fanez al buen rey se espidio: | Hya uos ydes, Minaya, yd a la graya del Criador.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1378 (R. 57. 17 1 )."
+        },
+        {
+          "texto_cita": "«Alegre fue Minaya e spidiós e vinos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1307 (R. 57. 16 2 )."
+        },
+        {
+          "texto_cita": "«Violo Myo Çid que con los averes que auien tomados | Que sis pudiessen yr, ferlo yen de grado. | Esto mandó Myo Çid, Minaya lo ouo consseiado: | Que ningun omne de los sos ques le non spidies, o nol besas la mano, | Sil pudiessen prender, o fuesse alcançado, | Tomassen-le el auer e pusiessen-le en un palo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1252 (R. 57. 16 1 )."
+        },
+        {
+          "texto_cita": "«Spidios el caboso de cuer e de veluntad.»",
+          "autor": "",
+          "referencia_obra": "Ib. 226 (R. 57. 4 1 )."
+        },
+        {
+          "texto_cita": "«Grado exir de la posada e espidios de amos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 200 (R. 57. 3 2 ). —"
+        },
+        {
+          "texto_cita": "«Todo homine ad cui el alguazil pendrado touieret et non recudiere super suos penos con directo, et in isto comedio se espediere el alguazil en conzeio, demanden suos penos fata VIIII.dias: et si fata VIIII. dias no los demandaret, postea no le respondeat el alguazil.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid, año 1202 ( Mem. Acad. Hist. 8. 41)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. despedir, que además de las acepciones castellanas tiene las de Despachar, enviar (que ya vimos usada por el portugués Melo ), y Arrancar, salir corriendo, que no sabemos si se usa en España pero que hemos oído en América:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«el caballo despidió ó despidió á correr»",
+          "autor": "",
+          "referencia_obra": "; expedir, despachar, apartar de sí, librar, y como refl. desembarazarse, escaparse; despir, soltar como la piel, las hojas, y de aquí desnudar. Cat. despedir, que además de nuestras acepciones tiene la de Darse prisa, despachar; despedit, expedito, espedido ("
+        },
+        {
+          "texto_cita": "«Este rebelde cuerpo que detiene | Del alma el espedido y presto vuelo.»",
+          "autor": "Garcil.",
+          "referencia_obra": "égl. 2 : R. 32. 13 1 ). It. spedire, despachar, spedirsi, desembarazarse, despacharse. Del lat. expedire, modificada la partícula componente á estilo castellano: desembarazar, dejar libre, opuesto á impedire, poner trabas en los pies, impedir. El fr. expédier, despachar, presupone un Frecuentativo expeditare."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: despid-o, es, e, en ; despid-ió, ieron; despid-a, as, a, amos, áis, an; despid-iese, ieses, iese, iésemos, ieseis, iesen; despid-iera, ieras, iera, iéramos, ieráis, ieran; despid-iere, ieres, iere, iéremos, iereis, ieren; des-pide tú ; despidiendo. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

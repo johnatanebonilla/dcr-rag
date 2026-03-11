@@ -1,0 +1,175 @@
+{
+  "lema": "DESPINTAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Borrar ó raer lo pintado ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandó reedificar en los templos las imágines y pinturas que Filípico había mandado destruír y despintar.»",
+              "autor": "",
+              "referencia_obra": "Mejía, Hist. imp. filípico ( Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por cuatro veces hirieron los superiores experiencias en las señales de las llagas. Al principio no consintió que le lavasen las manos más que con agua sola, y no se despintaron.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 2. 11 (125)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La letra de esta escritura (como dice el padre Sota) por su mucha antigüedad estaba ya despintada en algunas partes, á cuya causa no la pudimos leer enteramente.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Pelayo, nota 9 (R. 46. 74 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Borrarse fácilmente los colores de que están teñidas las cosas. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Por alusión al engaño que se padece á menudo en el juego de naipes cuando sale un palo diferente del que por la pinta se conjeturaba:",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Frustrar, barajar, hacer que algo se desvanezca ó no llegue al fin pretendido ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó á hacer diligencias, por despintar aquel negocio, más apretadas y con más cuidado que otros muy ambiciosos las hacen para alcanzarlo.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Vida del P. Lainez, § 8 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«Que de mi fortuna así | La primer victoria alcanzas; | Pues no podrá despintarme | Estos escudos que están | En mi mano.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Quien mal anda, en mal acaba, 2. 6 (R. 20. 219 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pintada la suerte vi, | Mas luégo se despintó, | Y el naipe se barajó | Para darme muerte á mí.»",
+              "autor": "Lope",
+              "referencia_obra": ", La estrella de Sevilla, 2. 13 (R. 24. 146 2 )."
+            },
+            {
+              "texto_cita": "«Pues este subir a esperanzas alegres y caer de ellas al mismo momento --- el despintarse la salud que ya se tocaba ---»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Rey (3. 174)."
+            },
+            {
+              "texto_cita": "«Quedóse helado el cardenal y sintió este golpe más de lo que se puede encarecer, viendo que se le iba despintando la traza de su ambición.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 1. 6 (R. 60. 192 2 )."
+            },
+            {
+              "texto_cita": "«Que cuando efeto no tenga | El llegarla tú a gozar, | Con el engaño que hacemos, | El pesar que les daremos | No se puede despintar.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La industria y la suerte , 3. 6 (R. 20. 38 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. En frases negativas: Dejar un objeto de ser reconocido á pesar de las señas que de él se tienen.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los conocí por la jaca torda que no se puede despintar... ¡Cada relámpago que daban las herraduras!»",
+              "autor": "A. Saav.",
+              "referencia_obra": "D. Álvaro , 1. 4 (4. 119)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "De ordinario con un dat. pron.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No contento el señor Segarra --- con haber determinadamente demostrado la persona de usted, ofreciendo de ella tantas señales que á nadie se le despintará, quiso concluír retrato.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Epist. crít. parenét. (6. 326)."
+            },
+            {
+              "texto_cita": "«Fácilmente le conocerán ustedes. El es un hombre de corta estatura, morenillo, de mediana edad, ojos azules, nariz larga, vestido de paño burdo, con un sombrerillo redondo. — No se me despintará, no.»",
+              "autor": "Mor.",
+              "referencia_obra": "El médico á palos, 1. 2 (R. 2. 462 2 )."
+            },
+            {
+              "texto_cita": "«Y si viene allí el señor... | No se me ha de despintar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Tanto vales cuanto tienes, 1. 20 (4. 41) ."
+            },
+            {
+              "texto_cita": "«Dos dominós blancos con guarniciones encarnadas... ¡Bueno! No se me despintarán.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", El entremetido, 2. 24 (75)."
+            },
+            {
+              "texto_cita": "«¿Vos le conocéis? — No hay miedo | De que a mí se me despinte. | Le he visto y tengo buen ojo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Honoria, 3. 6 (238)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "No corresponder, desdecir, degenerar ( intrans. ). Con de.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fulano no despinta de su casta.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo privativo ó negativo des y pintar, pinta. Port. despintar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

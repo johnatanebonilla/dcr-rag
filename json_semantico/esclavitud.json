@@ -1,0 +1,186 @@
+{
+  "lema": "ESCLAVITUD.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Estado o condición de esclavo. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los reyes fijarán para tribus indómitas una esclavitud temporal.»",
+          "autor": "E. Posada",
+          "referencia_obra": ", La esclavitud en Colombia , p. 4. X"
+        },
+        {
+          "texto_cita": "«La reacción del negro contra la esclavitud comenzaba en el momento que sabía de su condena a ser llevado al Nuevo Mundo.»",
+          "autor": "A. Escalante",
+          "referencia_obra": ", El negro en Col . 3. 12 (p. 111)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Institución social consistente en la existencia de esclavos, o personas sobre las que se ejerce un derecho de propiedad. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La ley del 21 de mayo de 1851 decretó la abolición de la esclavitud y provocó un levantamiento armado de terratenientes conservadores.»",
+          "autor": "",
+          "referencia_obra": "P. Gilhodes, Las luchas agrarias en Colombia , p. 28. X"
+        },
+        {
+          "texto_cita": "«Parece que las tribus indígenas tenían establecido la esclavitud, y que en ella se ponía a los prisioneros de guerra.»",
+          "autor": "E. Posada",
+          "referencia_obra": ", La esclavitud en Colombia , p. 1. X"
+        },
+        {
+          "texto_cita": "«El hombre ha conocido la institución de la esclavitud en todos los tiempos y en diversas latitudes.»",
+          "autor": "A. Escalante",
+          "referencia_obra": ", El negro en Col . 1. 1 (p. 11)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En general, Falta de libertad. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si es muerte la esclavitud, | Y la libertad bien sumo, | Ya quedas libre, y comienzas | A vivir vida de gusto.»",
+          "autor": "Góng.",
+          "referencia_obra": "rom. var . 15 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Quien por vivir queda esclavo, no sabe que la esclavitud no merece nombre de vida.»",
+          "autor": "Quev.",
+          "referencia_obra": "M. Bruto (R. 23. 145 1 ). X"
+        },
+        {
+          "texto_cita": "«Nosotros, empero, queríamos la unidad en la civilización y en la libertad, y se nos ha dado la unidad en la barbarie y en la esclavitud.»",
+          "autor": "D. F. Sarmiento",
+          "referencia_obra": ", Facundo, 1. 1 (p. 29)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Sujeción rigurosa o dependencia excesiva.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Hablando de personas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y qué es la vida cortesana sino una mal disfrazada esclavitud?»",
+              "autor": "Feijóo",
+              "referencia_obra": ", Cartas eruditas (Cl. C. 85. 120)."
+            },
+            {
+              "texto_cita": "«Siguió [Oliva] como pauta la Electra --- y bien puede decirse que su objeto se redujo a sacar de ella una hermosa copia, rehuyendo sujetarse con embarazosa esclavitud.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp . (2. 41). X"
+            },
+            {
+              "texto_cita": "«Y permítanme también recordar y agradecer el apoyo que ahora mismo recibo de generosas personas que habitan mis valles y montañas, y cuya bondad me agobiaría hasta hacerme ver la esclavitud como única y dulce correspondencia.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 2 (p. 35). X"
+            },
+            {
+              "texto_cita": "«Porque, en efecto, la libertad liberal es como escudo de dos colores, en que de un lado está la licencia propia y del otro la sumisión o esclavitud ajena.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4 (p. 64)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. En sentido figurado se utiliza también, aunque raramente, hablando de cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal es el origen de la esclavitud en que se halla por punto general el tráfico de los abastos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª clase (R. 50. 108 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. Con aplicación a lo espiritual o moral, Sujeción excesiva a pasiones, vicios, afectos, etc.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién me ha de librar, mi Dios, | De tan larga esclavitud, | Sino quien es mi salud, | Que sólo consiste en vos?»",
+              "autor": "Lope",
+              "referencia_obra": ", Obras son amores (R. 157. 118). X"
+            },
+            {
+              "texto_cita": "«Nació Monarcha del imperio mío | La mente, en noble libertad criada, | Oy en esclavitud yace amarrada, | Al semblante severo de un desvío.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa , 4. son . 2 ( Dicc . Autor.)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Gran miseria la nuestra, y suma esclavitud al pecado!»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios , 2. 4. 2 (337). X"
+            },
+            {
+              "texto_cita": "«Desta esclavitud que contraxisteis al pecado que os rindió quando le cometisteis, os nació una infelicidad lamentable.»",
+              "autor": "Valverde",
+              "referencia_obra": ", Vida de Christo , 4. 23 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues mírales allí --- engañándole, y volviendo en gestos y en muecas las esclavitudes de la lisonja.»",
+              "autor": "Quev.",
+              "referencia_obra": "Mundo por de dentro (R. 23. 331 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "met. Hermandad o asociación religiosa. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«También es conveniente reparar, en que con tanto número de Cofradías, Hermandades y Esclavitudes, se andan los oficiales la mitad del año atendiendo más a las emulaciones y competencias, que a la devoción.»",
+          "autor": "",
+          "referencia_obra": "Navarrete, Conserv . 13 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De esclavo ( < gr. σκλ V βοV ; ‘eslavo, esclavo’) más el sufijo derivativo - itud . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

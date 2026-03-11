@@ -1,0 +1,469 @@
+{
+  "lema": "EMPOBRECER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer llegar o reducir a alguno a estado de pobreza ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con a y un acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En un mes empobreció al indiano, | Y chupó a un escocés tres mil guineas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "sát . 2 a Arnesto (R. 46. 35 1 ). +"
+            },
+            {
+              "texto_cita": "«Tú, lastimoso alquimista, | Pues del ébano que tuerces, | Haciendo plata las hebras | A sus dueños empobreces.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 4 , rom. 2 (R. 69. 66 1 ). +"
+            },
+            {
+              "texto_cita": "«Quéjanse que das a los delitos lo que se debe a los méritos ---, y que empobreces y abates a quien debieras enriquecer.»",
+              "autor": "",
+              "referencia_obra": "Id. Hora de todos , 1 (R. 23. 385 1 ). —"
+            },
+            {
+              "texto_cita": "«¿Con que sólo mi sobrino | Ignora que este arte falso [de la alquimia] | Mil ricos empobreció | Y a ningún pobre dio un cuarto?»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El señorito mimado, 1. 2 (4. 152)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo el acus. un pron. pers. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que enriquece los súbditos tiene tantos tesoros como vasallos; el que los empobrece, otros tantos hospitales.»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos, 26 (R. 23, 398 2 )."
+            },
+            {
+              "texto_cita": "«Tan lejos de apetecer | Tu estado estoy, por quererte, | Que quisiera empobrecerte | Para darte nuevo ser.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Palabras y plumas , 1. 1 (R. 5. 1 2 ). +"
+            },
+            {
+              "texto_cita": "«Pidiendo, le obligaron a confesar que su riqueza le empobreció.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov de Dios (R. 48. 204 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Presto seamos, Señor, prevenidos con vuestras misericordias, porque en gran manera somos empobrecidos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 2. 2 (R. 8. 237 1 ). Item, Esc. espir . 5 (R. 11. 310 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con para denotar el medio o instrumento con que se reduce o hace venir a dicho estado. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así como es justo que se mantengan con las utilidades que ellos mismos produzcan, lo es también que no se les agrave y empobrezca con exacciones.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 145."
+            },
+            {
+              "texto_cita": "«Es tan soberbio y tan feroz este monstruo, que sobre apurarnos y empobrecernos con sus tributos, formando sus riquezas de nuestras calamidades, quiere también mandar en las honras de sus vasallos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 2. 9 (R. 28. 243 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por extensión dicho de las cosas, para denotar que se las hace venir a menos o mermar de su ser o estado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bajo un rico dosel con perlas y oro | Que del oriente empobreció las minas, | Fernando e Isabel el trono ocupan.»",
+              "autor": "Mor.",
+              "referencia_obra": "Toma de Granada, (R. 2. 574 1 )."
+            },
+            {
+              "texto_cita": "«Tanta es la fuerza con que atrae [esta planta] para sí todo el jugo y humor, que no consiente o empobrece las raíces vecinas.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "( Capm. Teatro , 4. 377). +"
+            },
+            {
+              "texto_cita": "«La misma copia | Te empobrece el apetito.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El Anticristo , 3 (R. 20. 368 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijo [San Cipriano] que ya ni se halla oro ni plata, y que están exhaustas, empobrecidas y acabadas las minas de los metales.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de monarq. 6 (R. 25. 465 2 ). +"
+            },
+            {
+              "texto_cita": "«Recordó [Masanielo] la avaricia de los contratistas, la soberbia de los nobles, la arbitrariedad de las autoridades españolas y el estado miserable del reino, esquilmado y empobrecido por unos, humillado y oprimido por otros.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 20 (R. 102. 188 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado a lo inmaterial, Hacer perder de su fuerza o vigor, debilitar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En este tiempo empobreció Dios nuestro Señor las esperanzas de toda la cristiandad, llevándose, como hemos dicho, de sobreparto a la Reina nuestra Señora.»",
+              "autor": "Quev.",
+              "referencia_obra": "Grandes anales (R. 23. 207 2 )."
+            },
+            {
+              "texto_cita": "«Cuando las palabras varían entre sí sólo por los sonidos y no por la mayor o menor energía y sencillez de su propio sentido, en vez de dar riqueza a la sentencia, la empobrecen.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc . 1. 3 (111)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque esta figura es de mucho valor, se puede abusar de ella como de todas las demás, ya sea empleándola en asuntos donde no conviene, como son los de puro razonamiento, ya sea multiplicándola tanto, que se empobrezca la materia a fuerza de abundancia.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. Retór. (R. 46. 122 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El espíritu de la verdadera humildad --- hace estar el hombre delante de Dios muy empobrescido, y desnudo, y muy prostrado ante aquella soberana Majestad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 8, § 2 (R. 8. 17 1 )."
+            },
+            {
+              "texto_cita": "«La empobrecida | Alma con don copioso | Será por él del daño redimida | Y de la violencia.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 3 , salmo 71 (R. 37. 53 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Llegar o venir a estado de pobreza ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quitar al que lo ha menester para dar al que no lo ha menester es injusticia, y no puede carecer del castigo de empobrecer.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios, 1. 24 (R. 23. 40 1 ). +"
+            },
+            {
+              "texto_cita": "«Ni ha inventado la codicia más feo modo de empobrecer que el de aquellos miserables que se destruyen por dar a otros más ricos.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 1. 24 (R. 23. 40 1 )."
+            },
+            {
+              "texto_cita": "«Gasté, empobrecí; mi padre | Enojado descuidose | De mi socorro.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las bizarrías de Belisa, 1. 2 (R. 34. 558 2 )."
+            },
+            {
+              "texto_cita": "«¿Ha de ser esta mujer | Como las viles mujeres, | Que cuando por sus placeres | Viene un hombre a empobrecer, | No le prestarán dos reales | Para una soga?»",
+              "autor": "",
+              "referencia_obra": "Id. Servir a señor discreto, 2. 2 (R. 52. 77 1 ). +"
+            },
+            {
+              "texto_cita": "«Mudar estado es casar; | Tú no, por pobre, empobreces. Id. La pobreza estimada, 1. 2 (R. 143 2 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Porque si seso tuvieras, | Ni imposibles pretendieras--- | Ni hubieras hecho, señor, | Los gastos que sin provecho, | Empobreciendo, te han hecho | Hijo pródigo de amor.»",
+              "autor": "Tirso",
+              "referencia_obra": ", P a labras y plumas, 1. 3 (R. 5. 3 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo sujeto un nombre de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi corta suerte, y el descuydo de mis padres, que empobrecieron antes de tiempo, sin saber cómo, ni cómo no, me truxeron a la corte a Madrid.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 48 (fol. 181 rº; R. 1. 504 1 ). +"
+            },
+            {
+              "texto_cita": "«Si no empobrecen las gentes, | O mueren, cesa su gasto.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom . 88 (R. 69. 220 2 )."
+            },
+            {
+              "texto_cita": "«Con la muerte del rey don Pedro enriquecieron unos y empobrecieron otros.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 14 (R. 30. 519 2 )."
+            },
+            {
+              "texto_cita": "«Ninguno más derrama que quien menos coge, ni hay quién más presto empobrezca, que el que fácilmente enriqueció.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª Ana Ponce de León , 1. 8 (47). +"
+            },
+            {
+              "texto_cita": "«Caso es repugnante | Que el sabio pobre enriquezca | Pero también que empobrezca | El sabio --- repuna.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La Industria y la Suerte, 2. 3 (R. 20. 30 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con a semejanza de la construcción trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dale Dios el más extraordinarlo castigo, permitiendo que quien enriquece con lo que quita, empobrezca con lo que da. Así se lo amenaza el Sabio: Quien calumnia al pobre por aumentar sus riquezas, dará al más rico que él y empobrecerá.»",
+              "autor": "Quev.",
+              "referencia_obra": "Fantasma 2 (R. 48. 143 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó a empobrecerse y a tener tan grandes necesidades, que para salir dellas fue forzado echar grandes pechos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 1. 31 (R. 60. 216 1 ). +"
+            },
+            {
+              "texto_cita": "«Por esta razón no conviene que los nobles se empobrezcan de modo, que hallándose con los espíritus levantados por su nobleza---, procuren conseguir, enturbiando la república, lo que desconfían alcanzar estando pacífica.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de monarq. 26 . (R. 25. 503 1 )."
+            },
+            {
+              "texto_cita": "«En patria libre y libres ciudadanos | Fuera gravamen padecer pobreza; | Pero si un reino esclavo la padece, | El que reina será quien se empobrece.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 5 ( Fern. 7. 124)."
+            },
+            {
+              "texto_cita": "«Sobre todo pensamiento será lleno y abastado quien por él se empobrece.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Cartas sueltas (5. 403)."
+            },
+            {
+              "texto_cita": "«Quiso de tal manera empobrecerse siendo hombre por tí, que ni aun dónde reclinar la cabeza tuvo.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios 2. 8. 1 (412). +"
+            },
+            {
+              "texto_cita": "«No sois vos, Señor, como los hombres, que se empobrecen cuando dan, y por eso se importunan cuando les piden.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del crist. 11 (R. 11. 188 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con en igual sentido. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con las rentas de nuestros Reynos se enriquecen los Reynos Extrangeros, y aun a las veces los enemigos, en tanto que se empobrecen los nuestros.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 1. 14. 1 (1. 106)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de para significar el bien o bienes que vienen a menos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La sabiduría romana--- sin empobrecerse del oro y la plata, tuvo caudal para satisfacer a los generosos y a los magnánimos.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 133 2 )."
+            },
+            {
+              "texto_cita": "«El humilde va siempre vaciándose de sí mismo y empobreciéndose de aire, que San Agustín llamó a éste pobre de espíritu.»",
+              "autor": "",
+              "referencia_obra": "J. de los Ángeles, Diál . 3. 9 (112)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en que representa idealmente la acción que empobrece. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sois vos [Señor] así; porque como no os empobrecéis en lo uno, no os importunáis en lo otro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del crist. 11 (R. 11. 188 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quien por Dios se enpobreçe | En este mundo que vive, | E después lo leal sirve [léase: leal lo sirve] | Enrryqueçe.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", fol. 187 rº; b, p. 623. +"
+        },
+        {
+          "texto_cita": "«¡Cuántos buenos honbres matas e enpobrezes! Amansa ya e çesa, biento e fortuna.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", 87 (Ed. Carriazo, p. 258). +"
+        },
+        {
+          "texto_cita": "«Enriquezes a quien quieres, enpobrezes a quien te pagas; de pequeños, ricos, e de ricos, mendigantes.»",
+          "autor": "",
+          "referencia_obra": "Ib. 87 (Ed Carriazo, p. 257). +"
+        },
+        {
+          "texto_cita": "«Ni las ansias del querer, | Ni los bienes de fortuna, | Ni morir ni empobrecer | No se cuenten por perder.»",
+          "autor": "",
+          "referencia_obra": "Alvarez Gato, Obr . 70 (ed. J. Artiles, p. 124). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Decian que el rey empobrescie la tierra dando algo a las gentes de otros reinos, e otrosi por lo del imperio.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 24 (R. 66. 21 1 )."
+        },
+        {
+          "texto_cita": "«Despendian mas de lo que avian, et empobrecian mucho.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 186 (R. 66. 292 2 ; ed. Cerdá, 351. 8). +"
+        },
+        {
+          "texto_cita": "«Ca las gentes de la su tierra eran tan empobrecidas por los muchos pechos que avian pechados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 188 (R. 66. 294 1 ; ed. Cerdá, 354. 30)."
+        },
+        {
+          "texto_cita": "«Con lo que Lope gana, | Rodrigo enpobresçe.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 76 (ed. G. Llubera, p. 72; R. 57. 335 1 ). +"
+        },
+        {
+          "texto_cita": "«Que dexan por ende algunos de labrar las vinnas e que sse pierden, et quelos logares del mio sennorio que se despueblan e que se enpobrecen.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "2. 61)."
+        },
+        {
+          "texto_cita": "«Otrosy por rrazon de las costas que ffazian los ommes en los desposorios e en las bodas e en el vestir e en otras cosas, por lo qual enpobrescian algunos ---»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 614). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«La ventura---- faze al muy escaso rrico e abondado, et empobreçe al flaco, et esfuerça al cobarde et encobarda al esforçado.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(ed. Allen, 44. 478; R. 51. 28 2 ). +"
+        },
+        {
+          "texto_cita": "«El omne, quando enpobreçe, sospéchalo el que fiava por él.»",
+          "autor": "",
+          "referencia_obra": "Ib . (ed. Allen, 88. 297)."
+        },
+        {
+          "texto_cita": "«Nin puede enrrequecer si non enpobrece a otros.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro , 13 (Knust, 250)."
+        },
+        {
+          "texto_cita": "«Mal es que enprovescas, e peor que te enrriquescas e fagas tuerto.»",
+          "autor": "",
+          "referencia_obra": "Ib . 12 (Knust, 237)."
+        },
+        {
+          "texto_cita": "«El que enpobrece, maguer sea en su tierra, tan estranno se fas, commo si fuese en tierra agena.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 26 (57)."
+        },
+        {
+          "texto_cita": "«E enriquecen de lo de los enemigos, enpobreciendolos e enfraqueciendolos.»",
+          "autor": "",
+          "referencia_obra": "Espéc . 3. 5. 5 (O. L. 1. 85). +"
+        },
+        {
+          "texto_cita": "«Todos lo entendemos --- | La iglesia de Sillos como es decayda, | Fazienda tan granada es tanto enpobrida, | Abés pueden dos monges aver en ella vida.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 202 (ed. Fitz. Gerald, p. 36; R. 57. 46 1 ). +"
+        },
+        {
+          "texto_cita": "«Como fazié grand gasto --- | Falleció la pecunia --- | Entendiéngelo todos que era empobrido, | Non trovava mudado nin aver encreído.»",
+          "autor": "",
+          "referencia_obra": "Id . Mil. 631 (ed. Marden, p. 92; R. 57. 123 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en , que denota entrada o reducción a cierto estado y pobre . Con el mismo sentido emplean el lat. pauperescere y pauperare , el port. empebrecer , el cat. empobrir , el prov. apaubrir , el fr. appauvrir , el it. impoverire . Muy rara, aunque no inaudita, es la variante empobrar del siguiente pasaje:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Anilla, dame atención, | Que es dádiva que no empobra.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 6, rom . 2 (R. 69. 152 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: empobrezco ; empobrezc-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

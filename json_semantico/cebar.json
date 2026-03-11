@@ -1,0 +1,866 @@
+{
+  "lema": "CEBAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar de comer á los animales para alimentarlos ó engordarlos ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien quisiere cebar puercos en casa, tómelos de sobre dos años; digo si los quiere hacer muy grandes, que para carne mejores son los nuevos.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 5. 37 (3. 507)."
+            },
+            {
+              "texto_cita": "«Aun para cebar son mejores las ánsares blancas que las otras.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 10 (3. 326)."
+            },
+            {
+              "texto_cita": "«¡Qué llena está de piñones! | Morcilla de cortesanos, | Y asada por esas manos, | Hechas á cebar lechones.»",
+              "autor": "Alcázar",
+              "referencia_obra": ", Una cena (R. 32. 407 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era yo muchacho, vicioso y regalado, criado en Sevilla, sin castigo de padre, la madre viuda --- cebhado á torreznos, molletes y mantequillas.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 3 (R. 3. 195 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar el alimento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En parte se ceban con grano de maíz y engordan excesivamente para que den manteca.»",
+              "autor": "Acosta",
+              "referencia_obra": ", Hist. de Indias , 4. 38 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , que denota el alimento como campo donde come el animal.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No dejes que los tuyos así oprima, | Y en sus cuerpos cruel las fieras cebe.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, canc. 3 (R. 32. 306 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A no ser esto, ya se hubieran cebado los milanos del aire en los despojos de aquel indigno, deshonesto, homicida, pérfido seductor.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet , 2. 11 (R. 2 . 506)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuerpo de Dios come y sangre bebe, | Con que encienda su sed, su hambre cebe.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 1 (R. 17. 405 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar lo que se mira como alimento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se tratará en él de ofuscar vuestro espíritu con vanas opiniones, ni de cebarle con verdades estériles.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. inaug. del Instit. Astur. (R. 46. 320 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de, en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué? Si la edad hambrienta lleva | Las peñas enriscadas y subidas, | El fiero diente y su crueza ceba | De piedras arrancadas y esparcidas.»",
+              "autor": "",
+              "referencia_obra": "Céspedes, Pintur. 1 (R. 32. 363 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dirá la razón al que se ceba de fama, que dónde tiene la fama su asiento y morada.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 265)."
+            },
+            {
+              "texto_cita": "«Saboreábale las pláticas y sus entretenimientos el demonio: y vuelta de allí á la oración doblábale Dios el regalo y favores, y dábale á entender que aquello de que se cebaba en la red era falso, y que su dulzor era verdadero dulzor.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 1. 7 ( Míst. 1.25)."
+            },
+            {
+              "texto_cita": "«El que come pan de ángeles no es razón que se cebe de deleites de bestias.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 3. 10 (R. 8. 266 1 )."
+            },
+            {
+              "texto_cita": "«No te cebes de las vanidades que el falso mundo te da.»",
+              "autor": "Estella",
+              "referencia_obra": ", Van. del mundo , 6 ( Míst. 4. 13)."
+            },
+            {
+              "texto_cita": "«No te engañe el mundo, ni se ceben tus ojos de esa verdura y hermosura que parece.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 ( Míst. 4. 7)."
+            },
+            {
+              "texto_cita": "«Muda él sus ovejas en sí. Porque cebándose ellas de él, se desnudan á sí de sí mismas, y se visten de sus cualidades de Cristo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Pastor (3. 76)."
+            },
+            {
+              "texto_cita": "«Eso mismo que nos manda, es aquello de que se ceba nuestro descanso y nuestra verdadera vida.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (R. 37. 90 2 )."
+            },
+            {
+              "texto_cita": "«Vengan ahora los que se ceban de solo aquello que el sentido aprehende.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2, Brazo (3. 161)."
+            },
+            {
+              "texto_cita": "«Atiéndeme, que quiero que se ceben | De aquesto que te anuncio tus sentidos.»",
+              "autor": "",
+              "referencia_obra": "Id. Expos. de Job , 15 (1. 252)."
+            },
+            {
+              "texto_cita": "«Pace el cordero la menuda hierba, | Y el lobo se alimenta del cordero; | Mas el amor de lágrimas se ceba, | Y sin jamás mostrarse satisfecho.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 135 1 )."
+            },
+            {
+              "texto_cita": "«Y yo me gozo en las terribles plagas | De que su atroz iniquidad se ceba.»",
+              "autor": "Quint.",
+              "referencia_obra": "El duque de Viseo, 2. 4 (R. 19. 50 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar aquello que ofrece alimento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por donde quiera que vamos hallaremos alguna historia en que cebar la vista.»",
+              "autor": "",
+              "referencia_obra": "Sig . Vida de S. Jer. 4. 9 (338)."
+            },
+            {
+              "texto_cita": "«Discurría por todas las cosas del mundo, cebando y recreando su ánima en la contemplación de las obras y maravillas de la divina Providencia.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 3, § 4 (R. 6. 191 1 )."
+            },
+            {
+              "texto_cita": "«Dichosísimo yo, que tan mancebo, | Después de haber gozado humana alteza, | En la divina alteza el alma cebo.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", eleg. 6 ( Fern. p. 60)."
+            },
+            {
+              "texto_cita": "«Las lágrimas, amor, dulces y amargas, | En quien cebaste mis primeros días ---»",
+              "autor": "Fern.",
+              "referencia_obra": "p. 22)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El amor nace | Junto con la confianza | Y en ella se ceba y pace | Y en faltando la esperanza, | Como niebla se deshace.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 4 1 )."
+            },
+            {
+              "texto_cita": "«Si tus amadas prendas, á quien mira | Como á su luz tu patria, ver deseas | Despojos de la pública mentira; | Y si cebarse en las mohatras feas, | Habiendo el patrimonio trastornado, | Te persuade alguno que los veas ---»",
+              "autor": "",
+              "referencia_obra": "B. Argens. epíst. Dícesme, Nuño (R. 42. 306 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar ó preparar á los animales el cebo a que han de aficionarse, ó para servirse de ellos en la caza ó para atraerlos ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yendo á caza con un halcón en una mano y un corazón en otra para ceballo, me arrebataron el mío de improviso.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 6 (R. 18. 453 1 )."
+            },
+            {
+              "texto_cita": "«Cebando estaba á las ondas | De un estanque transparente | Su baharí, que, de hambriento, | Picaba los cascabeles.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 90 (R. 32. 539 2 )."
+            },
+            {
+              "texto_cita": "«Aunque aniden [las águilas] en alto, descubren bien de allí la presa, y se lanzan á ella, y allí ceban á sus hijos.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 39 (2. 293)."
+            },
+            {
+              "texto_cita": "«Si lo convidáis, viene más presto | Que un gavilán que ceban á la mano.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "epíst. Aqui donde en Afranio (R. 42. 268 1 ). —"
+            },
+            {
+              "texto_cita": "«Con sus perros obliga | Al jabalí acosado | A que sus redes y asechanzas pruebe, | Y que su mismo engaño al tordo cebe.»",
+              "autor": "",
+              "referencia_obra": "Id. canc. Dichoso el que apartado (R. 42. 288 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Has visto un gavilán cuando se ceba? | Pues tal quisiera yo que me cebase | Tu diligencia en nuevas aves.»",
+              "autor": "Lope",
+              "referencia_obra": ", La hermosura aborrecida, 2. 12 (R. 34. 107 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Atraer, aficionar, engolosinar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tu virtud y valor es quien nos ceba | Y nos persuade que será ganancia | Mayor de cuantas desear podremos | Si por jefe y amigo te tenemos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Numancia , 1 (Arrieta, 10. 13)."
+            },
+            {
+              "texto_cita": "«Yo os daré mañana dos mil escudos de oro para que se los ofrezcáis y aun se los deis, y otros tantos para que compréis joyas con que cebarla, que las mujeres suelen ser aficionadas --- á esto de traerse bien y andar galanas.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 33 (R. 1. 345 1 )."
+            },
+            {
+              "texto_cita": "«Plantó Verdugo sus dos piecezuelas en una eminencia y fue en persona á reconocer su sitio y ver si se podían acometer sus trincheras, haciendo reforzar la escaramuza con infantería y caballería, pensando sacarles dellas cebándoles, y pelear fuera con mucha seguridad.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 6 (R. 28. 83 1 )."
+            },
+            {
+              "texto_cita": "«Con más coraje salieron á escaramuzar y cebar al enemigo que viniese á buscar su misma muerte.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 65 (R. 21. 59 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo, que las vi cebadas, declaré mi voluntad á la muchacha, y ella me oyó contentísima.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 18 (R. 23. 516 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar lo que sirve de atractivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cébasnos, mundo falso, con el manjar de tus deleites, y al mejor sabor nos descubres el anzuelo.»",
+              "autor": "Celest.",
+              "referencia_obra": "21 (R. 3. 73 2 )."
+            },
+            {
+              "texto_cita": "«La respuesta fue que le cebase con buenas esperanzas; y con color de querelle entregar aquella ciudad le metiese en el lazo, y le echase mano.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 18. 1 (R. 31. 2 2 )."
+            },
+            {
+              "texto_cita": "«Si se conserva con este desorden y exceso de sus partes alguna república, es --- con no oprimir, antes cebar con esperanzas, á los de gran espíritu.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 41 (R. 25.106 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en, para expresar la cosa donde se halla el atractivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuidaba Pizarro de que estas noticias cundiesen entre los españoles; pero ellos, escarmentados é incrédulos, no les daban acogida, teniéndolas por invenciones suyas para levantarles el ánimo con la esperanza, y cebarlos en la empresa.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 317 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Engolosinarse, entregarse ó emplearse con mucha eficacia ó intensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En viendo Nerón que su crueldad se tenía por justicia, se cebó más en ella.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 48 (R. 25. 125 1 )."
+            },
+            {
+              "texto_cita": "«Blanco triste á la envidia | Que en herirle se ceba, | Sus aciertos apoca, | Sus deslices aumenta.»",
+              "autor": "Mel.",
+              "referencia_obra": "Anacr. 38 (R. 63. 102 3 )."
+            },
+            {
+              "texto_cita": "«Si bien á los principios dan horror los negocios, después se ceba tanto en ellos la ambición y la gloria, que se apetecen y aman.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 28 (R. 25. 75 2 )."
+            },
+            {
+              "texto_cita": "«Hicieron muchos prisioneros; cargaron de ropas y mercaderías de valor, y particularmente se cebaron en los almacenes de la sal, de cuya provisión remitieron luégo algunas cargas á su ciudad.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 7 (R. 28. 275 1 )."
+            },
+            {
+              "texto_cita": "«En el siglo décimosexto no podía ser así: el espíritu de controversia, tan propio de dicha época, debía cebarse con afán en cuestiones de aquella clase.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Esp. del siglo , preámb. (5. 5). —"
+            },
+            {
+              "texto_cita": "«Primero se ceba la invidia en las entrañas propias que en el honor del vecino.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 9 (R. 25. 29 1 )."
+            },
+            {
+              "texto_cita": "«Sol es el oro cuyos rayos ciegan | La vista más aguda, si se ceba | En la vana apariencia del provecho.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 3 (R. 1. 36 2 )."
+            },
+            {
+              "texto_cita": "«Digo --- que alguna vez te desenfades | De aquel rigor, y el gusto no apremiado | Se cebe en más benignas facultades.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "terc. Yo quiero , mi Fernando (R. 42. 347 1 )."
+            },
+            {
+              "texto_cita": "«La Iglesia la llama Virgen prudentísima, porque, con ser tan grande la promesa del ángel, no se cebó luégo en ella, hasta ver cómo se concertaría con el voto que tenía hecho de castidad.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 2. 7 (1. 290)."
+            },
+            {
+              "texto_cita": "«Cuando les deparaba la suerte venir á las manos con los infieles, cebábanse en ellos con tal ímpetu, que más de una vez los arrollaron hasta los muros de la ciudad.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", H. P. del Pulgar (4. 54)."
+            },
+            {
+              "texto_cita": "«Concurrían en esta ocasión mil circunstancias que evitaron que la maledicencia se cebase en tan inocentes relaciones y las interpretase en sentido avieso.»",
+              "autor": "Valera",
+              "referencia_obra": ", Doña Luz , p. 92,"
+            },
+            {
+              "texto_cita": "«Cebarse en llanto y mortandad desea.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A la paz (R. 19. 8 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Marco Antonio ocupado en ofender y defenderse, no advirtió en las razones que las dos le dijeron; antes cebado en la pelea, hacía cosas al parecer increíbles.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 9 (R. 1. 206 2 )."
+            },
+            {
+              "texto_cita": "«Estás cebado en la golosina del pecado, y por ese precio te obligas á llevar sobre ti la carga dél.»",
+              "autor": "",
+              "referencia_obra": "Gran, Guía , 1. 10 (R. 6. 41 2 )."
+            },
+            {
+              "texto_cita": "«Siguieron y ensangrentaron el alcance con tanta resolución, que, cebados en él, se hallaron dentro de la población, cuya entrada mantuvieron, hasta que llegando el ejército se repartió la gente por las calles.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5 . 16 (R. 28. 368 1 )."
+            },
+            {
+              "texto_cita": "«Atrevidos deseos no cansados, | Que van en lo que siguen tan cebados, | Que pierden al peligro ya el recelo.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, son. 41 (R. 32. 311 1 )."
+            },
+            {
+              "texto_cita": "«Inhumano destino, dura suerte, | Furia de amor cebada en abatirme.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", son. 9 (R. 67. 55 2 )."
+            },
+            {
+              "texto_cita": "«Pero muy presto la araucana gente, | En la española sangre ya cebada, | Los hizo revolver forzosamente, | Y seguir la carrera comenzada.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 22 (R. 17. 84 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Refl. Dejarse atraer ó seducir. Con de , para expresar el atractivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es necesario --- que ni por amor aflojen [los jueces] ni por codicia se corrompan, ni por temor se retraigan, ni con ruegos se ablanden, ni de promesas se ceben.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 64)."
+            },
+            {
+              "texto_cita": "«Cuando es largo, espeso y rubio [el cabello], es lazo y gran red para los que se ceban de semejantes cosas.»",
+              "autor": "León",
+              "referencia_obra": ", Cant. 4. 2 (4. 62)."
+            },
+            {
+              "texto_cita": "«El marido cristiano no hace caso de la buena figura, porque no se ceba de lo que los gentiles se ceban.»",
+              "autor": "",
+              "referencia_obra": "Id. Perf. cas. 12 (3. 485)."
+            },
+            {
+              "texto_cita": "«El hombre que nació para bienes tanto mayores, si se ceba del oro ansí que ponga en él su esperanza, afrenta se hace á sí, y se envilece y abaja.»",
+              "autor": "",
+              "referencia_obra": "Id. Expos. de Job , 31 (2. 129) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nísida había dicho al capitán que yo era hombre principal y de gran rescate, con intención que cebados de la codicia y del dinero que de mí podrían haber, con algo más recato mirasen por la salud mía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 70 2 )."
+            },
+            {
+              "texto_cita": "«Ruego yo á Dios me saque de pecado mortal, que lo mesmo será si me saca deste peligroso oficio de escudero, en el cual he incurrido segunda vez, cebado y engañado de una bolsa con cien ducados que me hallé un día en el corazón de Sierra Morena.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 13 (R . 1. 429 2 )."
+            },
+            {
+              "texto_cita": "«Hiciste vanos los consejos míos, | Cebado del error de tus empresas.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pienso pedir (R. 42. 315 2 )."
+            },
+            {
+              "texto_cita": "«Así yacen confundidos | Donde esperaron victoria, | Cebados de aquella gloria | Que prometen tus sentidos.»",
+              "autor": "",
+              "referencia_obra": "Id. redond. Bella Amarili (R. 42. 295 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Refl. Dícese de aquellos objetos que obran con grande intensidad ó produciendo grande estrago",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sea peste ó no lo sea, lo cierto es que ya ha habido unos dos ó tres que murieron de ella en la ciudad, y si se ceba en ella, tardará en salir.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst. 2, p. 370."
+        },
+        {
+          "texto_cita": "«¿Cuál, díme, sufrirá mayor martirio, | Tú, en quien se ceba la cruel dolencia, | O yo, que todo el mal siento importuno | De tu misma dolencia y mi delirio?»",
+          "autor": "Jovell.",
+          "referencia_obra": "son. á Clori (R. 46. 26 2 )."
+        },
+        {
+          "texto_cita": "«Héle allí, negro, desnudo, | El grueso tronco quemado... | Bramó ronca la tormenta, | Y cebóse en él un rayo.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Moro expós. 5 (2. 172)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Prender, agarrar ó asirse una cosa en otra, como un clavo en la madera, el tornillo en la tuerca, etc. ( intrans .) . Este uso intrans. proviene sin duda del refl.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La saeta dicen haber cebado cuando ha entrado en la carne.»",
+          "autor": "Covarr.",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Dos mozos. — Pequeña presa es ésa; poco cebo tiene ahí mi espada. Mejor cebara ella en otra parte esta noche, que estaba concertado.»",
+          "autor": "Celest.",
+          "referencia_obra": "18 (R. 3. 67 1 )."
+        },
+        {
+          "texto_cita": "«El encuentro le cogió por las espaldas y le salió á los pechos; tal es la furia de un caballo y la de una lanza si ceba.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos , 7 (R. 28. 98 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Hacer que una cosa se asegure, apoye ó estribe en otra ( trans. ). Este uso ha venido igualmente del refl. , á la manera que de bullirse se ha pasado á bullir la mano, la mesa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cebar eI rejón en el arte de torear es herir con él al toro.»",
+          "autor": "Terreros",
+          "referencia_obra": "."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Ir añadiendo materia combustible para que no se acabe el fuego ó la luz ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ejemplo desto vemos en la lámpara que queremos que siempre arda, donde el ardor de la llama poco á poco va consumiendo el aceite que la sustenta. Por lo cual es necesario cebarla siempre.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 25 (R. 6. 247 1 )."
+            },
+            {
+              "texto_cita": "«Para que la lumbre de la lámpara que va gastando el aceite no se apague, conviene irla cebando.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Smo. Sacram. ( Vida de Cristo, 363)."
+            },
+            {
+              "texto_cita": "«Los necios son como las cinco vírgenes locas que tienen lámparas, pero con muy poco aceite, ni lo tienen en las vasijas para cebarlas; esto es, tienen fe, y no caridad.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 57 (2. 331)."
+            },
+            {
+              "texto_cita": "«En su contorno estaban otras siete [lámparas menores] que representaban la muchedumbre de todos los fieles; y para cebarlas estaban junto á ellas siete vasijas de oro, á modo de aceiteras, llenas de aceite, figura de los siete sacramentos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 6. 38 (3. 482)."
+            },
+            {
+              "texto_cita": "«Los árboles que no dan fruta dan siquiera madera de que hacer casas y otras cosas artificiales de que usamos, y leña que cebe el fuego con que nos calentamos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 6. 21 (3. 378)."
+            },
+            {
+              "texto_cita": "«En muchas cosas se parece el fuego á la guerra, no solamente porque su naturaleza es de destruír, sino también porque la misma materia que le ceba, suele, cuando es grande, extinguille.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 98 (R. 25. 255 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandó Hernán Cortés que se dejasen cebados los fuegos, para deslumbrar al enemigo de aquel movimiento.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 20 (R. 28. 338 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, para expresar lo que se mira como alimento del fuego.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Manda --- que porque no se acabase el fuego del altar, cada día le cebase el sacerdote con nueva leña.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Medit. sobre el paternóster (R. 53. 538 1 )."
+            },
+            {
+              "texto_cita": "«El fuego fuera de su región más presto se acaba, si no hay cuidado de cebarlo muchas veces con leña, para que así se conserve.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 1, § 3 (R. 8. 5 2 )."
+            },
+            {
+              "texto_cita": "«Como cebamos siempre con aceite la lámpara que siempre arde, así conviene cebar el cuerpo con su ordinario mantenimiento, para que lo que por una parte se gasta, por otra se restaure.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 4, diál. 8, § 2 (R. 6. 574 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de, en sentido análogo (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mirad un horno de vidro cebarle de leña.»",
+              "autor": "",
+              "referencia_obra": "Paravicino, Marial , fol. 237 ( Dicc. Autor. )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Fomentar ó alimentar un afecto ó pasión; y en general, Mantener, sostener ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para que el calor de la devoción no se muera ni resfríe, cada día [manda el Señor] le cebemos con nuevas y vivas consideraciones.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Medit. sobre el paternóster (R. 53. 538 1 )."
+            },
+            {
+              "texto_cita": "«De manera que sin mantenimiento da sustancia á la carne, y tiene vivo el calor del corazón sin ceballe, y sustenta los espíritus sin que se evaporen.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (3. 307)."
+            },
+            {
+              "texto_cita": "«En estos y otros tales pensamientos debe de ocupar el hombre su corazón antes que reciba y después de haber recebido este huésped celestial, para cebar con ellos la devoción que para esto se requiere.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 3. 7 (R. 8. 252 1 )."
+            },
+            {
+              "texto_cita": "«Amenazó con el castigo de pocos, y con el premio de algunos cebó las esperanzas de todos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 101 (R. 25. 266 2 )."
+            },
+            {
+              "texto_cita": "«Sepa que la verdad se esconde de los que la buscan con temerario orgullo; que se complace en burlar sus conatos, y que mientras ceba su presunción con fantasmas y vanas apariencias, sólo se presenta clara y brillante, cual bajó del cielo, á los que la buscan con sobriedad y rectitud de intención.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. inaug. del Instit. Astur. (R. 46. 322 2 )."
+            },
+            {
+              "texto_cita": "«Todos estas incidencias cebaban el resentimiento del rey de Navarra, sin que las satisfacciones del príncipe bastasen á calmarle.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 241 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal emulación es la que se ha de cebar en las repúblicas con los premios, los trofeos y estatuas, porque es el alma de su conservación y el espíritu de su grandeza.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 9 (R. 25. 31 1 ). —"
+            },
+            {
+              "texto_cita": "«El mismo estrago de los suyos era nueva dificultad para los españoles, porque se iba cebando la batalla con gente de refresco.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 20 (R. 28. 339 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Min. Ir añadiendo planchas en el horno de fundición á medida que va saliendo el metal ( trans. ). Salvá , Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Poner pólvora en la cazoleta ó fogón de las armas de fuego ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oyó Arnaut esta respuesta, y luégo cebando el navío por todas partes, comenzó á jugar desde lejos el artillería.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 70 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Llevas cebadas las pistolas?»",
+              "autor": "Lope",
+              "referencia_obra": ", La inocente Laura, 2. 21 (R. 52. 489 2 )."
+            },
+            {
+              "texto_cita": "«La cerca ha de estar abierta --- | Cebadas en el cañón | Las piezas, porque encendido | El polvorín no disparen.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La manganilla de Melilla , 3 (R. 20. 319 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Por extensión, Poner fuego al cohete ú otro artificio de pólvora ( trans. ). Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Poner el cebo al anzuelo ú otro instrumento de caza ( trans. ). Terreros .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cebáronse las nasas, tendiéronse las redes y acomodáronse los anzuelos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers. 2. 11 (R. 1. 605 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Concertaron las brújulas cebadas con la piedra iman.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 83."
+        },
+        {
+          "texto_cita": "«Quatro açores en dos garças | Se çevan á sus sasones.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 529."
+        },
+        {
+          "texto_cita": "«Muchos de viento se çevan.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 162. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Et el soldán que non paraba mientes sinon por cebar sus falcones, cuando vio la gente de la galea en derredor de sí, fue muy espantado.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 6 (R. 51. 394 1 )."
+        },
+        {
+          "texto_cita": "«Et el soldan et el yerno del conde cebaron muy bien sus falcones.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 6 (R. 51. 394 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Commo águila fanbryenta que se querya çebar.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 708 (R. 57. 411 1 )."
+        },
+        {
+          "texto_cita": "«Los grifos --- | Cuydaronse çeuar, mas non les ualió nada.»",
+          "autor": "Alex.",
+          "referencia_obra": "2336 (R. 57. 219 1 )."
+        },
+        {
+          "texto_cita": "«Contendien por çeuarse, non les ualie nada.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2338 ( ib. )."
+        },
+        {
+          "texto_cita": "«Non era bien ceuado, queries mas ceuar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 506 (R. 57. 163 1 )."
+        },
+        {
+          "texto_cita": "«Tu çebas las lombriçes, que yazen soterradas.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 452 (R. 57. 54 1 )."
+        },
+        {
+          "texto_cita": "«Façiense del abondo todas maravilladas, | Vedien que vertut era que las avie çevadas.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill. 249 (R. 57. 72 2 )."
+        },
+        {
+          "texto_cita": "«Demos por la ecclesia las carnes que çevamos, | Por poco de laçerio, las almas non perdamos.»",
+          "autor": "",
+          "referencia_obra": "Id . S. Laur. 32 (R. 57. 91 1 )."
+        },
+        {
+          "texto_cita": "«Tu çevabas a elli, él a ti governaba.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores, 30 (R. 57. 94 2 )."
+        },
+        {
+          "texto_cita": "«Bravo commo leon que se quiere çebar.»",
+          "autor": "",
+          "referencia_obra": "Id . Signos, 61 (R. 57. 103 1 )."
+        },
+        {
+          "texto_cita": "«A que de comer ovo copdiçia o sabor, | Çevólo a su guisa, muy de buen amor.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo, 64 (R. 57. 133 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. cevar; it. cibare: del lat. cibare, denominativo de cibus , cebo, alimento. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,282 @@
+{
+  "lema": "BATALLAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Pelear, reñir con armas ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos los escuadrones batallaban por su parte valientemente, de tal manera que mostraban muy bien el deseo que tenían de ganar para sí lo mejor.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 348)."
+            },
+            {
+              "texto_cita": "«Aunque, como dijo el rey Tiridates, es de particulares mantener lo propio y de reyes batallar por lo ajeno, debe entenderse esto cuando la razón y prudencia lo aconsejan.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 59 (R. 25. 159 1 )."
+            },
+            {
+              "texto_cita": "«Al rey | Téneis vos, infanzón, miedo? | — Con su majestad el rey | Y su rigor me le ha puesto; | Pero yo se le pusiera, | A batallar cuerpo á cuerpo | Y hombre á hombre donde estamos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El rey D. Pedro en Madrid , 3. 9 (R. 5. 607 2 )."
+            },
+            {
+              "texto_cita": "«Por ocho siglos | Decís que nuestros padres batallaron | Por rescatar la patria.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La viuda de Padilla , 2. 3 (3. 56)."
+            },
+            {
+              "texto_cita": "«Entre los espantosos alaridos | Que al batallar horrísono se mezclan, | De cuando en cuando el eco se distingue | En que Pelayo y Libertad resuenan.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 5. 2 (R. 19. 72 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasó á las riberas del Ebro, donde talló con Terón, capitán de los ébricos españoles.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 4 (R. 21. 516 2 )."
+            },
+            {
+              "texto_cita": "«Le hizo decir por su intérprete que trajese otros diez como él, y permitiría que pasase á batallar con todos juntos aquel español.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 24 (R. 28. 385 1 )."
+            },
+            {
+              "texto_cita": "«Pintan monstros semideos, | Que por los montes van de rama en rama, | Las poéticas trullas, | Diciendo que batallan con las grullas.»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom. 7 ( Obr. suelt . 19. 253)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A una sola nación vencer no puedo, | Contra la cual ha tiempo que batallo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 1 (3. 7)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con acus. homogéneo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con fuerzas nuevas | Batallará gloriosa nuevas lides.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. lír. prof . 4 (R. 67. 287 2 )."
+            },
+            {
+              "texto_cita": "«Aviso á mi señor que si me ha de llevar consigo, ha de ser con condición que él se lo ha de batallar todo, y que yo no he de estar obligado á otra cosa que á mirar por su persona en lo que tocare á su limpieza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 4 (R. 1. 412 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Es rarísimo el uso de otro acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No la persuaden [la secta ] , sino la violentan; batállanla, no la predican,»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 208 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, Esgr. Contender uno con otro, jugando con espadas negras ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Empezaron á batallar, y de la espada negra pasaron á la blanca.»",
+          "autor": "",
+          "referencia_obra": "Ovalle, Hist. de Chile, fol . 213 ( Dicc. Autor .)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Dícese de cualquiera especie de lucha, vr. gra.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Luchar venciendo los obstáculos que se ofrecen para lograr un fin, ó resistiendo á los casos adversos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cual [el Salvador], por el ministerio de unos rudos y pobres pescadores, batallando continuamente, no con armas de hierro, sino con la virtud del Espíritu Santo, á pesar de todo el mundo, desterró esta pestilencia dél.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 12 (R. 6. 311 1 )."
+            },
+            {
+              "texto_cita": "«Mas has de batallar por la victoria | Que alcanza la corona de la gloria.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 6 (R. 17. 446 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Con qué contrarios, | Desesperado amor, batallo y lucho!»",
+              "autor": "Lope",
+              "referencia_obra": ", El molino , 2.18 (R. 24.34 1 )."
+            },
+            {
+              "texto_cita": "«Con la enfermedad batallo; ó ella me vencerá, ú yo la venceré.»",
+              "autor": "Quev.",
+              "referencia_obra": "Remedios de cualquier fortuna (R. 48. 374 1 )."
+            },
+            {
+              "texto_cita": "«Dejándola algún tanto batallar con la última y temerosa agonía, cuando ya me pareció estaría muerta --- hice creer por infalible verdad la desgracia casual de Julia y mi verdadero sentimiento.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Esp. Gerardo , 1. 3 (R. 18. 158 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Luchar interiormente con los varios pensamientos ó afectos que asaltan ó acongojan el espíritu; fluctuar, vacilar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh qué gloria es la del ánima que desta manera batalla; que sin escudo se defiende, sin armas pelea y sin fortaleza es fuerte!»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 4, § 3 (R. 8. 128 2 )."
+            },
+            {
+              "texto_cita": "«Desta manera anda el ánima batallando y fluctuando con estas ondas; una la trae y otra la lleva.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med . 12, § 4 (R. 8. 541 1 )."
+            },
+            {
+              "texto_cita": "«No se conformaban su entendimiento y su valor, y todo era batallar sin resolver.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 13 (R. 28. 326 2 )."
+            },
+            {
+              "texto_cita": "«Mil veces su rigor desafiara, | En cambio de la horrenda incertidumbre | En que hundido mi espíritu batalla.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , 2. 3 (3. 262)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ay Dios, y cuán pocas son | Las que con su tentación | No están siempre batallando!»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, Condic. de las mujeres (R. 32. 196 2 )."
+            },
+            {
+              "texto_cita": "«Quedó encargado á su familia y en miserable congoja batallando con las violencias de su natural y el abatimiento de su espíritu.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 14 (R. 28. 328 2 )."
+            },
+            {
+              "texto_cita": "«¡Llanto feliz! Cual bienhechor rocío | Templa la sed del abrasado suelo, | Calma la angustia, la mortal congoja | Con que batalla mi cansado esfuerzo.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poes. La soledad (1. 35)."
+            },
+            {
+              "texto_cita": "«Mas ¿qué digo conmigo batallando?»",
+              "autor": "Cald.",
+              "referencia_obra": "El galán fantasma , 2. 17 (R. 7. 300 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Luchar y hacerse oposición cosas de diversa naturaleza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ambas [la libertad y la obediencia] son opuestas y siempre batallan entre sí, de donde nacen las rebeldías y traiciones al señor natural.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 54 (R. 25. 143 1 )."
+            },
+            {
+              "texto_cita": "«Batallaban también en mi ánimo dos principios encontrados.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 352. —"
+            },
+            {
+              "texto_cita": "«Temor con amor | Batallaban en su pecho.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3 (R. 32. 249 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Disputar. Acad. Dicc .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En ventura Octaviano, | Julio César en vencer | Y batallar, | En la virtud Africano, | Annibal en el saber | Y trabajar.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 56)."
+        },
+        {
+          "texto_cita": "«Aquel que Alcaudete ganó batallando.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 277 (94 2 )."
+        },
+        {
+          "texto_cita": "«Vi por lo alto venir ya bolando | El anima fresca del sancto clauero, | Partida del cuerpo del buen cauallero | Que por su justicia murio batallando.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 208 (71 2 )."
+        },
+        {
+          "texto_cita": "«De vuestro fijo vos digo que es nascido para batallar, é usar oficio de armas é caballería.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 42."
+        },
+        {
+          "texto_cita": "«Dixeron: tomemos omes para batallar destos que usan artes mecánicas.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 4. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Los almirantes de Espanna | Con la galea batallaron.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI , 2117 (R. 57. 541 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de batalla . Port., prov. batalhar ; fr. batailler ; it. battagliare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

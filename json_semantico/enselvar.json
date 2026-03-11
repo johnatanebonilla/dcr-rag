@@ -1,0 +1,86 @@
+{
+  "lema": "ENSELVAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "En general, Ocultar entre el ramaje a una persona o cosa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No lejos del caudal deste ancho río, | Que su florida juncia y grama enselva ---.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 20 (R. 17. 357 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Camina y anda, y, mientras más se enselva, | Menos guía le queda y menos tino.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 10 (R. 17. 244 1 ). RAE"
+            },
+            {
+              "texto_cita": "«A un dulce pajarillo que volando | De árbol n árbol, de rama en rama, | Melancólicos trinos gorjeando, | Sus penas templa y la atención le llama, | Y en pos se enselva la afligida dama ---.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Obras (ed. 1854, t. 1, p. 244)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando en la asperidad del bosque espeso | Me enselvo más, la claridad se aparta.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, canc. 2 (R. 32. 266 2 ). RAE"
+            },
+            {
+              "texto_cita": "«Fugitivos afortunados, allá se enselvan en oscuras soledades.»",
+              "autor": "Montalvo",
+              "referencia_obra": ", Siete tratados (1. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estos montes --- estarán enselvados o cubiertos de árboles.»",
+              "autor": "",
+              "referencia_obra": "Juanelo, Libros de ingenios y máquinas, fol. 21. RAE"
+            },
+            {
+              "texto_cita": "«Una ave extraña de gallarda pluma, | Que de una en otra rama el vuelo tiende, | Al espirar la luz, se halló enselvada, | Y tuvo que pensar en recogerse.»",
+              "autor": "",
+              "referencia_obra": "A. Saav . Obras (ed. 1854, t. 2, p. 288)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Particularmente, Poner encubiertos entre el ramaje los soldados para una operación militar ( trans .) (cfr. Dicc. Acad. ).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y selva, y éste del lat. silva 'bosque'. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

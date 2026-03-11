@@ -1,0 +1,641 @@
+{
+  "lema": "AVENTAJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar ventaja ó mejoría; poner en mejor estado ó conceder alguna preeminencia ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si la gastas [la hacienda], no la tienes: luego forzosamente se colige que es bueno tenella para no tenella. Dirás que tienes hijos y que los quieres aventajar. Doy que te afanas por dejallos más ricos, y estos á tus nietos, y tus nietos á los suyos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Cuna y sepult. 2 (R. 48.82 2 )."
+            },
+            {
+              "texto_cita": "«¿Posible es que sin saber | El infante mi linaje, | Deste modo me aventaje?»",
+              "autor": "Tirso",
+              "referencia_obra": ", Averígüelo Vargas , 2. 8 (R. 5. 678 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Adelantarse en medras ú honores, mejorar de situación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo que en mi buena suerte te tenía librada la paga de tus servicios, me veo en los principios de aventajarme, y tú antes de tiempo, contra la ley del razonable discurso, te ves premiado de tus deseos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 42 (R. 1. 492 1 )."
+            },
+            {
+              "texto_cita": "«En vez de desear una revolución para aventajarme, todo lo tenía que temer de ella, si llegaba á suceder.»",
+              "autor": "",
+              "referencia_obra": "Quint . Obr. inéd . p. 168. —"
+            },
+            {
+              "texto_cita": "«Para aventajaros | Entre las sombras desta edad culpada | Debéis siempre esforzaros.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, canc . 8 (R. 32. 326 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Había anteriormente pasado por Trujillo, con el objeto sin duda de abrazar á sus parientes, y disfrutar la satisfacción, tan natural en los hombres, de presentarse aventajados y grandes en su patria.»",
+              "autor": "",
+              "referencia_obra": "Quint . Pizarro (R. 19. 313 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part. En especial, en la milicia se usa como sust. por Soldado raso que, por merced particular, tiene alguna ventaja en el sueldo. Acad. Dicc. —",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vinieron voluntariamente muchos soldados aventajados y entretenidos italianos --- con gruesos remates, que dificultaron más el remedio de tan gran dolencia.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 6 (R. 28. 80 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , sobre ó entre , para expresar los objetos sobre los cuales se da preeminencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«San Pablo, en la epístola que escribe á los hebreos, comparando á Cristo con los ángeles, y con las demás criaturas, y diferenciándole dellas, y aventajándole á todas, usa deste nombre de Hijo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Hijo (R. 37. 165 1 )."
+            },
+            {
+              "texto_cita": "«Dios nos aventaja á las aves, y á las aves provee en sus necesidades: luego no nos olvidará en las nuestras.»",
+              "autor": "",
+              "referencia_obra": "Id . Expos. de Job , 35 (2. 210)."
+            },
+            {
+              "texto_cita": "«Dice que las pagas de los catalanes eran doblado mayores que las de los turcoples y masagetas; con que claramente se muestra la estimación que se hizo de la milicia catalana y aragonesa, pues con tan excesiva diferencia la aventajaron á todos los que servían en su imperio.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 6 (R. 21. 7 2 )."
+            },
+            {
+              "texto_cita": "«Mira en lo que te ha aventajado el Señor sobre otros muchos hombres, y reconoce que de todo esto le eres deudor.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. Vida crist . 7. 2. 1, § 9 (R. 8. 398 1 )."
+            },
+            {
+              "texto_cita": "«Si vos la alabáis, | Conde, cuando os abrasáis | En su amor, yo también trato | Aventajarla entre todas.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Esto sí que es negociar , 3. 3 (R. 5. 260 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para expresar el objeto que da ó constituye la ventaja ó mejora.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos los circunstantes conocieron, que si alguno [algún rostro] se podría igualar al de las dos, era el de la mora, y aun hubo algunos que la aventajaron en alguna cosa.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 37 (R. 1. 359 2 )."
+            },
+            {
+              "texto_cita": "«Cuando son graves [las enfermedades], y los dolores agudos, y se reciben de parte del enfermo con resignación y paciencia, es la mayor penalidad que hay, y un grande medio para granjear un alma y aventajarla en perfección y merecimiento.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 7 ( Míst . 1. 23)."
+            },
+            {
+              "texto_cita": "«Parecióle al conde de Fuentes que bastaba aventajarles [á los soldados españoles] en dos pagas.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 6 (R. 28. 76 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Anteponer, preferir ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al fin aventajé su canto y ruego | A mi negocio propio.»",
+          "autor": "León",
+          "referencia_obra": ", Poes . 2, égl. 7 (R. 37. 24 1 )."
+        },
+        {
+          "texto_cita": "«Digo que es traza extremada, | Que á todas las aventajo.»",
+          "autor": "Lope",
+          "referencia_obra": ", La noche toledana , 1. 6 (R. 24. 207 1 ). El texto parece viciado; acaso habrá de leerse:"
+        },
+        {
+          "texto_cita": "«Y que á todas la aventajo»",
+          "autor": "",
+          "referencia_obra": ")."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Refl . Adelantarse, llevar ventaja, exceder.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar el objeto excedido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque había muchas señoras doncellas y casadas con gran fama de ser honestas y hermosas, á todas se aventajaba la señora Cornelia Bentibolli.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 10 (R. 1. 211 1 )."
+            },
+            {
+              "texto_cita": "«También digo, que el natural poeta que se ayudare del arte será mucho mejor, y se aventajará al poeta que sólo por saber el arte quisiere serlo.»",
+              "autor": "",
+              "referencia_obra": "Id . Quij. 2. 16 (R. 1. 436 2 )."
+            },
+            {
+              "texto_cita": "«Despartiéronse los ejércitos sin aventajarse el uno al otro, antes con igual daño y pérdida de ambas las partes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 3. 13 (R. 30. 75 1 )."
+            },
+            {
+              "texto_cita": "«Negocios de Roma son, | Porque en su gobernación | Se aventaja á Otavïano.»",
+              "autor": "Lope",
+              "referencia_obra": ", Roma abrasada , 2. 6 (R. 52. 288 2 )."
+            },
+            {
+              "texto_cita": "«Se hizo capaz de aventajarse á cuantos artistas le habían precedido y de reunir en sí solo toda la gloria del arte.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de las bellas artes (R. 46. 358 1 )."
+            },
+            {
+              "texto_cita": "«Los progresos que hizo fueron tales que en la guerra de Aragón y en la batalla de Grados, donde el rey don Ramiro fue vencido y muerto, no hubo guerrero alguno que se aventajase á Rodrigo.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cid (R. 19. 203 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sobre , en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y porque en este mundo se aventajaron sobre los otros hombres en parecerse con Cristo en la pureza virginal, por esto en el otro se llegaron á él más familiarmente.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 6 (R. 6. 130 1 )."
+            },
+            {
+              "texto_cita": "«Así como en las demás cosas muestra su gran piedad, así en la devoción de la sacratísima Virgen se esmera mucho, y se aventaja sobre las otras ciudades del mundo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de la Virgen (295)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en igual sentido ( ant. y raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Piensan sin duda vulgarmente nuestros españoles --- que naturaleza enseña perfectamente nuestro lenguaje, y como es maestra de la habla, así lo es de la perfección de ella, sin que haya de aventajarse uno de otro en esto, porque naturaleza enseña á todos todo lo que en la lengua natural hay que saber.»",
+              "autor": "",
+              "referencia_obra": "A. Mor . Pról. al Diál. de la dignidad del hombre (R. 65. 379)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar la cualidad cuyo exceso constituye la ventaja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muerto sois, caballero, si no confesáis que la sin par Dulcinea del Toboso se aventaja en belleza á vuestra Casildea de Vandalia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 14 (R. 1. 433 2 )."
+            },
+            {
+              "texto_cita": "«En aquella iglesia sucedió á su hermano Juan, como persona que se aventajaba á los demás en el ingenio, erudición y letras.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 6. 6 (R. 30. 158 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Otras veces denota en el acto ú objeto en que aparece la ventaja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al principio se hicieron algunas escaramuzas con salidas que hacían los moros, en que siempre los cristianos se aventajaban.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 15 (R. 30. 392 1 )."
+            },
+            {
+              "texto_cita": "«Nuestros enemigos --- están bien pertrechados, y se aventajan en el puesto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 18. 9 (R. 31. 15 2 )."
+            },
+            {
+              "texto_cita": "«Tengo determinado de que por mí no falte tan agradecida usanza, antes pienso aventajarme en ella.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 7 (R. 1. 268 2 )."
+            },
+            {
+              "texto_cita": "«De ti, el dotor Francisco Díaz, puedo | Asegurar á estos mis pastores, | Que con seguro corazón y ledo | Pueden aventajarse en tus loores.»",
+              "autor": "",
+              "referencia_obra": "Id. Gal . 6 (R. 1. 87 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Absol . Excelente, sobresaliente, muy notable.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes que acabase sus estudios fallecieron sus padres; y después de acabados (y saliendo de los aventajados de su curso, así por su buen ingenio como por la diligencia del estudio) siendo ya de edad competente, se ordenó de misa.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv. , 1 (R. 11. 451 2 )."
+            },
+            {
+              "texto_cita": "«Don Leandro Fernández Moratín poeta cómico aventajado, si bien falto de imaginación creadora, y de pasión viva ó intensa.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 63."
+            },
+            {
+              "texto_cita": "«Discípulo de Bartolomé de Argensola, no tuvo [Villegas] su buen juicio, con el cual hubiera igualado á los más aventajados escritores.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . p. 84."
+            },
+            {
+              "texto_cita": "«Premio del colegial y colegiala | Que eran en los examenes juzgados | En grado superior aventajados.»",
+              "autor": "",
+              "referencia_obra": "Hartz . Fáb . 3 (426). —"
+            },
+            {
+              "texto_cita": "«Quien quiera que hubiere dicho que yo soy comedor aventajado, y no limpio, téngase por dicho que no acierta.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 62 (R. 1. 535 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en , para expresar aquello en que se muestra la excelencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan aventajados los dos en todo género de discreción, ciencia y loables ejercicios que no sólo en el circuito de nuestra comarca son conocidos, pero por todo el de la tierra conocidos y estimados.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 21 2 )."
+            },
+            {
+              "texto_cita": "«Ella sola es la más aventajada en hermosura de cuantas hoy viven.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 14 (R. 1. 430 2 )."
+            },
+            {
+              "texto_cita": "«Era Juliano, en aquel tiempo muy aventajado en erudición, de que dan bastante muestra sus obras.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 6. 18 (R. 30. 176 1 )."
+            },
+            {
+              "texto_cita": "«Fue aventajado en ser justiciero.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 17. 9 (R. 30. 512 2 )."
+            },
+            {
+              "texto_cita": "«Ni se puede dudar en manera alguna de que fue este glorioso príncipe en este dón de firmeza, de amor y fe para con Cristo muy aventajado entre todos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. pról . (R. 37. 72 2 )."
+            },
+            {
+              "texto_cita": "«Allí eran nobles los aventajados en las artes y ciencias, de cuya excelencia recibían lustre y estimación, y los demás hacían número de plebe:»",
+              "autor": "",
+              "referencia_obra": "Saav . Rep. (R. 25. 402 1 )."
+            },
+            {
+              "texto_cita": "«Nunca quiso escribir ninguna de sus obras en latín, en que era aventajado.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2, p. 16."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con á para expresar la persona excedida.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La [ayuda] que los nuestros le ofrecían, no se puede con palabras encarecer la estimación que hizo della, por ser de gente tan aventajada á las demás que le servían.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 5 (R. 21. 7 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese en igual sentido de las cosas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cada cual procura que su glosa á la del otro se aventaje.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 3 (R. 1. 46 2 )."
+            },
+            {
+              "texto_cita": "«Puedes, famoso Betis, dignamente | Al Mincio, al Arno, al Tibre aventajarte, | Y alzar contento la sagrada frente, | Y en nuevos anchos senos dilatarte.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 6 (R. 1. 88 1 )."
+            },
+            {
+              "texto_cita": "«A todas las hazañas que ellos todos juntos y cada uno por sí hicieron, se aventajarán las mías.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 5 (R. 1. 264 2 )."
+            },
+            {
+              "texto_cita": "«A todo lo cual se aventajaba la belleza singular de sus hermosos y rubios cabellos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 27 (R. 1. 323 1 )."
+            },
+            {
+              "texto_cita": "«Ni penséis que la ha movido á mudar religión entender ella que la vuestra á la nuestra se aventaja, sino el saber que en vuestra tierra se usa la deshonestidad más libremente que en la nuestra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 41 (R. 1. 372 1 )."
+            },
+            {
+              "texto_cita": "«Admirada quedó Dorotea de las sentidas razones de la muchacha, pareciéndole que se aventajaban en mucho á la discreción que sus pocos años prometían.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 1. 43 (R. 1. 377 1 )."
+            },
+            {
+              "texto_cita": "«Si eso es así, replicó D. Lorenzo, yo digo que se aventaja esa ciencia á todas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 18 (R. 1. 441 1 )."
+            },
+            {
+              "texto_cita": "«Diole las bellotas, y más un queso que Teresa le dio por ser muy bueno, que se aventajaba á los de Tronchón.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 52 (R. 1. 515 2 )."
+            },
+            {
+              "texto_cita": "«Las virtudes que van creciendo con la juventud, no solamente se aventajan á las demás, sino también á sí mismas.»",
+              "autor": "",
+              "referencia_obra": "Saav . Emp . 1 (R. 25. 10 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sobre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por ser aquella soberana sustancia infinitamente aventajada sobre la nuestra.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 3. 14, § 1 (R. 6. 419 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de ( ant. y raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sustancia que sobrepuja todos los sentidos y entendimientos, y se diferencia y aventaja infinitamente de todo lo ál.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 38, § 10 (R.6. 282 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al cual [monasterio] ninguno en grandeza, majestad y riquezas se aventajó antiguamente en España, y aun hoy es de los más nombrados que en ella se hallan.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 7. 19 (R. 30. 217 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Absol . Sobresalir.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los vasallos reverencian más al príncipe en quien se aventajan las partes y caridades del ánimo.»",
+              "autor": "",
+              "referencia_obra": "Saav . Emp. 18 (R. 25. 48 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Part. dep . Sobresaliente, muy notable, eximio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallóse presente á esta sazón un embajador del rey de Marruecos, moro principal y de reputación por el lugar que tenía y su prudencia muy aventajada.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 18. 16 (R. 31. 29 1 )"
+            },
+            {
+              "texto_cita": "«A los ocho días señalados envió agua muy abundante, de tal suerte, que los frutos se remediaron y la cosecha de aquel año fue aventajada.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 12. 1 (R. 30. 341 2 )."
+            },
+            {
+              "texto_cita": "«Tal vez en la llaneza y la humildad suelen esconderse los regocijos más aventajados.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 2. 13 (R. 1. 608 1 )."
+            },
+            {
+              "texto_cita": "«Engáñanse, porque no es otra esta fe que la que antes tenían; mas ésta viene á estar tan fortificada y aventajada en el ánima, que les parece ser otra, no lo siendo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 32, § 2 (R. 6. 392 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Ventajoso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Propúsoles grandes intereses, ofrecióles partidos aventajados.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 8. 10 (R. 30. 238 1 )."
+            },
+            {
+              "texto_cita": "«Otros, cansados del gobierno, presente, cuidaban que lo venidero sería mas aventajado y mejor.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 19. 1 (R. 31. 32 2 )."
+            },
+            {
+              "texto_cita": "«Veréis por experiencia cuánto más aventajado es este partido de lo que vosotros pensáis.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 11 (R. 6. 47 1 )."
+            },
+            {
+              "texto_cita": "«Fuera mayor la pérdida si no sobreviniera la noche, porque nuestra infantería peleaba de lugar aventajado.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 58 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Por analogía con adelantar , el objeto excedido se usa también en acus.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Puesto que han fundado más mayorazgos las letras que las armas, todavía llevan un no sé qué los de las armas á los de las letras, con un sí sé qué de esplendor que se halla en ellos, que los aventaja á todos. Cerv. Quij . 2. 24 (R. 1. 456 1 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Castillejo manejaba la lengua mejor que Naharro, le aventajaba como versificador, y el chiste que se advierte en sus obras conocidas induce á creer que no serían despreciables sus comedias.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . p. 264."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Considera, Grisaldo, que en nobleza no te debo nada, y que en riqueza no te soy desigual, y que te aventajo en bondad del ánimo y en la firmeza de la fe.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 48 2 )."
+            },
+            {
+              "texto_cita": "«Con no sé cuántas alas adornaba | Manos y pies, indicio manifiesto, | Que en ligereza al viento aventajaba.»",
+              "autor": "",
+              "referencia_obra": "Id. Viaje , 8 (R. 1. 698 1 )."
+            },
+            {
+              "texto_cita": "«Si no la igualo en calidad, yo creo | Que en hacienda, Alejandro, la aventajo.»",
+              "autor": "Lope",
+              "referencia_obra": ", La obediencia laureada , 2. 13 (R. 52. 177 3 )."
+            },
+            {
+              "texto_cita": "«No porque en esfuerzo, en sufrimiento y en diligencia le aventajase alguno ó le igualasen muchos de los que entonces militaban en Tierra Firme.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro , (R. 19. 301 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En ocasiones parece construírse con dat. , ya sea porque se considere el verbo como equivalente á la frase hacer ventaja (véase A, 8, c), ó porque se conserva el régimen del refl. aventajarse .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la par debe reconocerse que es muy difícil, si es que no imposible, aventajarles en el arte de preparar escenas interesantísimas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. esp . 4 (2. 205)."
+            },
+            {
+              "texto_cita": "«El ejemplo dado por la nación inglesa suscitó algunos años después en el marqués de la Ensenada el pensamiento de hacer en España una edición del Quijote que pudiese competir en lo magnífico con la inglesa, y que en otras calidades le aventajase.»",
+              "autor": "",
+              "referencia_obra": "Clem . Coment . 4, p. 51."
+            },
+            {
+              "texto_cita": "«Y en la expresión de los afectos, ya fuertes é impetuosos, ya tiernos y melancólicos ¿que metro aventaja al romance?»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Rom. hist. pról . (3. XVII)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Alguna vez se usa como intrans . por analogía con adelantar y en el mismo sentido que éste.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aunque el soplo de la fortuna te llevare acaso á la misma corte de Castilla, no sabré yo decir si aventajarás mucho.»",
+          "autor": "Solís",
+          "referencia_obra": ", 1. 2 (4. 203)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Por crecer é aventajar sus estados é rentas --- dieron lugar á ello.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener . 34 (R 68. 717 1 )."
+        },
+        {
+          "texto_cita": "«E muy lealmente e syn otra maña | Le faga serviçios muy aventajados.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 375. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Tiene miedo muy fuerte | Que le aventajará, | Non se mienbra que la muerte | A amos ygualará.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 223 (R. 57. 345 2 )."
+        },
+        {
+          "texto_cita": "«Faser quiero buestro rruego, | Fijo bien auentajado.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1248 (R. 57. 515 1 )."
+        },
+        {
+          "texto_cita": "«Gran daño se siguió de la su venida al rey de Granada, ca él por los honrar aventajábalos en todas las cosas.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 13 (R. 66. 10 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y ventaja . Port. avantajar, aventajar ; fr. avantager ; it . avvantaggiare .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans .: en general. — Intrans .: 2, c , γ - 2 , δ . — Refl .: 1, a , α , α α - 2, a - 2, b . — Part .: 1, a, α , β β - 2, a , ε - 2, β , ζ . — Con á : 1, a , β - 2, α, α - 2, α, ε , γ γ - 2, b, α . — De: 2 , a, γ - 2, β, γ . — En : 1, a, γ - 2, α , δ - 2, α , ε , β β - 2, b , δ - 2, χ , β . — Entre : 1 , a, β . — Sobre : 1, a , β - 2, α , β - 2, β, β . \u0000"
+}

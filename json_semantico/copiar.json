@@ -1,0 +1,300 @@
+{
+  "lema": "COPIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Escribir lo mismo que está escrito en otra parte ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Copiar un libro á plana y renglón.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo hallado un buen catálogo de priores de San Marcos y otro de varones ilustres, he dado orden de que me los copien.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 178 1 )."
+            },
+            {
+              "texto_cita": "«Para dar una exacta idea de estos castillos, copiaremos la descripción que hace la Historia de Ultramar del primero que se construyó en Oriente por arquitectos europeos en el cerco de Nicea.»",
+              "autor": "",
+              "referencia_obra": "Id. Elog. de V. Rodr. nota 11 (R. 46. 383 2 )."
+            },
+            {
+              "texto_cita": "«Escribióle en fin una carta que todos los analistas copian, y cuya sustancia viene á ser ---»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 242 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero ningún poema tuyo intenté, | Luégo como se copie ó se concluya, | A la pública luz salir reciente.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Don Juan , ya se me ha puesto (R. 42. 350 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el original de que se saca la copia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El traducir de lenguas fáciles ni arguye ingenio, ni elocucion, como no le arguye el que traslada, ni el que copia un papel de otro papel.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 62 (R. 1. 537 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ir escribiendo lo que dice otro en un discurso seguido ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El colector copió de la memoria de los que los cantaban algunos [romances] que no halló escritos.»",
+          "autor": "Clem.",
+          "referencia_obra": "Coment. 5, p. 393."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Hacer una obra de pintura ó escultura á entera semejanza de otra que se tiene á la vista ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le hizo copiar en miniatura dos cuadros de Rafael.»",
+              "autor": "Azara",
+              "referencia_obra": ", Obras de Mengs , p. VI."
+            },
+            {
+              "texto_cita": "«En 1756 se hizo encargo formal al presidente de la chancillería de Granada para que, valiéndose del pintor de aquella ciudad don Manuel Jiménez, hiciese copiar enteramente los retratos de los reyes moros y otras antigüedades pintadas en las bóvedas de la Alhambra.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre los mon. de Granada y Córdoba, (R. 46. 365 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si mi dibujo se copia bien en madera, se hará ahí lo que no se hizo aquí sino muy mal con otro pequeno.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 242 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar lo que sirve de original.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero al fin me sucedió | Como al mal pintor que copia, | De perfeto original: | Fui ignorante, copié mal: | Vos sois la pintura propia.»",
+              "autor": "Lope",
+              "referencia_obra": ", Amar sin saber á quién , 2. 19 (R. 34. 456 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El frontispicio actual es de forma muy sencilla y grandiosa, atendida la cual no tengo duda que se copió de la del antiguo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre los conv. de S. Dom. y S. Franc . (R. 46. 435 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Hacer una obra de pintura ó escultura imitando la naturaleza ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Zeuxis, para haber de hacer un retrato muy perfecto de Elena, mandó juntar las doncellas de mayor belleza que se hallaban en la tierra de los crotoniatas, y copiando de cada una la mejor facción, sacó una imagen muy perfecta y hermosa.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios , 2. 14, § 2 (180)."
+            },
+            {
+              "texto_cita": "«A retratalla | Comienza, si humana mano | Al vivo puede copiar | La belleza singular | De un serafín.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio , 2. 14 (R. 5. 215 3 )."
+            },
+            {
+              "texto_cita": "«Casi nada hay en la naturaleza que el pintor pueda copiar como lo ve.»",
+              "autor": "Azara",
+              "referencia_obra": ", Obras de Mengs , p. 340."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , en la frase Copiar del natural .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este linaje de estudio le importará muchísimo para tomar inteligencia del claro y obscuro y habituarse á copiar del natural.»",
+              "autor": "Palomino",
+              "referencia_obra": ", Mus. pict . 5. 1, § 1 (2. 37)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "La relación entre el original y la copia se ha representado siempre en nuestra lengua bajo el concepto de extracción; por esto miramos como impropia la expresión",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Copiar las ropas por el natural.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram. Por significa el medio, y en consecuencia disloca y relaja la conexión entre los dos términos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Representar exactamente ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú, antes que escribas, á pensar aprende; | La expresion copia siempre al pensamiento.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Arte poét . 1 (R. 67. 119 2 )."
+            },
+            {
+              "texto_cita": "«Aquella edad imita lo que ve y oye, y copia en sí las costumbres del compañero.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 2 (R. 25. 14 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El maestro se copia en el discípulo y deja en él un retrato y semejanza suya.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 1 (R. 25. 10 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En especial, Representar fielmente con palabras, describir, pintar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sus luces, sus reflejos | Será razón que te copie, | Que no es tratable la llama | Por serlo los resplandores.»",
+              "autor": "Salazar",
+              "referencia_obra": ", También se ama en el abismo , 1 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "met. Imitar ó remedar á una persona ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De Cervantes puede decirse lo mismo que Veleyo Patérculo dijo de Homero: Ni tuvo antes á quien copiar, ni después ha tenido quien le copie.»",
+          "autor": "Clem.",
+          "referencia_obra": "Coment . 1, p. XXIII ("
+        },
+        {
+          "texto_cita": "«Neque ante illum, quem ille imitaretur, neque post illum, qui eum imitari posset, inventus est.»",
+          "autor": "",
+          "referencia_obra": "1 5)."
+        },
+        {
+          "texto_cita": "«Se persuadió que ya lo contrahacía [á Mudarra] | Con tal primor y tan exactamente, | Que por el mismo original que copia | Aquellos dos incógnitos le tienen.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Moro expós . 8 (2. 299)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "g)",
+      "definicion": "met. Imitar servilmente el estilo ó las obras de escritores ó artistas ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sería cuento de nunca acabar el ir citando aquí otras imitaciones ó copias que ha hecho Fray Luis de León de Horacio, de Platón, de Píndaro, de Cicerón y de Virgilio. Eso sí; él tenía muy buen gusto y no imitaba ó copiaba sino lo muy bueno.»",
+              "autor": "Valera",
+              "referencia_obra": ", Disert . p. 139."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En suma, Góngora ha copiado de todos los poetas latinos, de muchos griegos y de no pocos italianos.»",
+              "autor": "Valera",
+              "referencia_obra": ", Disert . p. 137."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las Soledades son un poema pedantesco y detestable, donde, á par que no hay verso ni idea que no estén imitados ó copiados de algún clásico, la originalidad se funda en lo violento, artificioso y archiculto del estilo.»",
+              "autor": "Valera",
+              "referencia_obra": ", Disert. p. 137."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y cómo se imita? Copiando; y copiando con todas las desventajas que nacen de la diferencia de idioma, costumbres y tradiciones.»",
+              "autor": "Mora",
+              "referencia_obra": ", pról. á los Ensayos de Lista (1. VII)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de copia . Port., cat. copiar ; fr. copier ; it. copiare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

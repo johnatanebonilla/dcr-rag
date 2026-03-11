@@ -1,0 +1,1284 @@
+{
+  "lema": "PODER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tener la capacidad de hacer una cosa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con sujeto de persona. El acus. es una prop. infinitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Oh mansísimo y suavísimo cordero, cómo pudiste atravesar con tan agudo cuchillo el corazón de tu madre?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 6 (3. 112 1 )."
+            },
+            {
+              "texto_cita": "«No pudiéramos creer, que ningunos hombres eran tan ciegos, si no supiéramos haber sido tan grandes.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, introd. (3. 134)."
+            },
+            {
+              "texto_cita": "«La longura de un caballo | Puede medirla a compás, | Yo delante, y él detrás.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El rufián dichoso, 1 ( Com. 2. 184)."
+            },
+            {
+              "texto_cita": "«Resolvieron de salir a pelear con todas sus fuerzas y aventurar en un trance de una batalla su vida y libertad: consejo que le deben seguir los que no pueden largo tiempo conservar la guerra.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 35 (R. 21. 33 1 )."
+            },
+            {
+              "texto_cita": "«Viendo su gente rendida, desesperado de poder hacer algún buen efeto con sola la que tenía en tierra, acudió con su persona y con cuatrocientos caballos a dar calor al asalto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 44 (R. 21. 41 2 )."
+            },
+            {
+              "texto_cita": "«Confiesas que no puedes vivir sin ella [sin la mujer].»",
+              "autor": "Quev.",
+              "referencia_obra": "Remedios de cualquier fortuna (3. 519)."
+            },
+            {
+              "texto_cita": "«No pudiendo el rey de Mallorca don Jaime el Tercero resistir al rey don Pedro el Cuarto de Aragón, su cuñado ---, se puso en sus manos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 37 (R. 25. 96 1 )."
+            },
+            {
+              "texto_cita": "«Los malvados no pueden ser amigos.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cartas marr. 46 (2. 202)."
+            },
+            {
+              "texto_cita": "«Dijo un mejicano a Cortés: por cada hombre que pierdas tú, podremos perder veinte mil nosotros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 9 (2. 77)."
+            },
+            {
+              "texto_cita": "«Tal es el tenor de un escrito, que no podrán releer sin rubor sus autores.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. (7. 240). — Además con dat."
+            },
+            {
+              "texto_cita": "«Acá con mis escuderos | Me entiendo, con mis hidalgos | Me haga Dios bien, que a estos puedo | Poner al menor enfado | De paticas en la calle, | Si no se están en el patio.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Abre el ojo, 1 (R. 54. 127 1 )."
+            },
+            {
+              "texto_cita": "«Si la ocasión fuese tal que sin perder su primer intento pudiese inquietar al enemigo, lo procurase.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 4 (R. 21. 504 2 ). — Atrae los pronombres del infinitivo. X"
+            },
+            {
+              "texto_cita": "«Pero la culpa de esto la tiene el desseo que tengo de conoscerte, y voluntad de dar algún alvio al mal de que tan dolorosamente te lamentas, al cual, aunque dizen que es escusado buscalle consuelo, con voluntad libre y razón desapassionada, se le puede dar suficiente remedio.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana (Cl. C. 135. 90). X"
+            },
+            {
+              "texto_cita": "«Son en vos estos esmaltes | Tan probados y tan ciertos, | Que a sacres y girifaltes | Les podéis franquear los puertos.»",
+              "autor": "Lz. de Yanguas",
+              "referencia_obra": ", Obr. dramát. (Cl. C. 162. 125)."
+            },
+            {
+              "texto_cita": "«Harto recio se me hace que se ponga ahora su merced andar ochenta leguas pudiéndolo excusar, índonos tanto en su salud.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas, 3. 15 (R. 55. 174 2 )."
+            },
+            {
+              "texto_cita": "«Dios es mi luz y Vida. | ¿Quién me podrá dañar?»",
+              "autor": "León",
+              "referencia_obra": ". Poes. salmo 26 ( Fern. 10. 250)."
+            },
+            {
+              "texto_cita": "«Con facilidad la podrían ganar [a Galípoli] y con la misma defendella.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 34 (R. 21. 32 2 )."
+            },
+            {
+              "texto_cita": "«Los secretos no se han de comunicar a todos los ministros aunque sean muy fieles, sino a aquellos que han de tener parte en ellos o que sin mayor inconveniente no se puede excusar el hacellos partícipes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 62 (R. 25. 172 2 ). X"
+            },
+            {
+              "texto_cita": "«Habéis convenido conmigo en que debemos esperar los sucesos de Buenos Aires; justo es convengáis también en que, si esos sucesos nos envuentran disociados, en bien poca parte les podremos ser útiles.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 2 (p. 208). X"
+            },
+            {
+              "texto_cita": "«Un simple vaso de agua que yo le sirva le hace más provecho que todo lo que los demás le podáis hacer.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", La tía Tula, 21 (p. 115)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en. Además con para y una prop. infinitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Puede [el alma] en este estado hacer muchos actos para determinarse a hacer mucho por Dios.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 12 (1. 82)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con desde.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde un camarín puede obrar más un príncipe que en la campaña.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 84 (R. 25. 226 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sujeto de cosa. El acus. es una prop. infinitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ciudad no estaba bastantemente fortificada que pudiese defenderse de los terribles asaltos del enemigo.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 14 (R. 21. 15 1 )."
+            },
+            {
+              "texto_cita": "«Ni la tiranía y bárbara crueldad de los enemigos, ni la infección de los elementos, conjurados todos contra ella, han podido derribar su constancia [de Borgoña].»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 58 (R. 25. 156 1 )."
+            },
+            {
+              "texto_cita": "«Porque las cosas divinas ni las puede nuestro ingenio entender, ni nuestro entendimiento discernir.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro (2. 103)."
+            },
+            {
+              "texto_cita": "«Una saeta perdida, | Tirada desde muy lejos, | Que ya al suelo se caía, | ¿Qué daño puede hacer?...»",
+              "autor": "Hartz.",
+              "referencia_obra": "Honoria, 4. 1 (p. 241)."
+            },
+            {
+              "texto_cita": "«Ni dos enfermedades crueles que le atacaron, ni la muerte de uno de sus hijos en quien él adoraba, pudieron alterar jamás la celestial serenidad de su alma.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd. p. 228. X"
+            },
+            {
+              "texto_cita": "«Denle la vianda partida por que no entre en su cámara cuchillo ni tenedor... El agua y un poco de vino, en jarro de plata..., por mayor honra de su Alteza..., y porque el barro puede romperse y servir con su filo de arma bien afilada...»",
+              "autor": "Pemán",
+              "referencia_obra": ", Felipe II, 1. 12 (p. 88)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cualquier ofensa o disgusto, aunque pequeño, puede más que los mayores beneficios.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 47 (R. 25. 119 2 )."
+            },
+            {
+              "texto_cita": "«Probemos lo que puede el arrepentimiento... ¿y qué no podrá?»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet, 3. 22 (R. 2. 520 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y sonme [mis maldades] tan pesada carga, que me derruecan y no puedo con ella.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. 2. 11 (R. 27. 317 1 )."
+            },
+            {
+              "texto_cita": "«Para tantas cosas promete un solo Pastor: ansí para mostrar que Cristo puede con todo, como para enseñar, que en El es siempre uno el que rige.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1. 6 (3. 72)."
+            },
+            {
+              "texto_cita": "«Los hombres que viven de llevar y traer cargas a cuestas, cuando son alquilados para llevar alguna, primero la miran muy bien, y prueban levantarla, para ver si podrán con ella.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 1. 10 (1. 69 1 )."
+            },
+            {
+              "texto_cita": "«Pues siendo muy corpulento y obeso, no podían con él los que lo conducían.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 6 (5. 59). — Además con para y una prop. infinitiva, que expresa la finalidad."
+            },
+            {
+              "texto_cita": "«Ansí en esto como en lo demás que me oponen, puede conmigo más para seguir lo comenzado, que para retraerme de ello.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, introd. (3. 277)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A responder se ofreció, | Mil veces lo cometía, mas de triste no podía, | Y por ella respondió | El amor que le tenía.»",
+              "autor": "",
+              "referencia_obra": "Montem, Diana, 2 (p. 63)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ocúpanse todos los sentidos en este gozo, de manera, que no queda ninguno desocupado para poder en otra cosa interior, ni exteriormente.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 18 (R. 53. 59 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con para y una prop. infinitiva que señala la finalidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este [don] suele él dar a los que de su parte se disponen y hacen lo que pueden para alcanzarlo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, pról. (1. 8)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con un predicado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De donde nace el ser más fácil el restituirse en la fortuna adversa que conservarse en la próspera --- más alcanzó [al rey don Alonso] vencido que pudiera vencedor.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 35 (R. 25. 91 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Pas. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los accidentes que no se pudieron prevenir, no culpan el hecho.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 63 (R. 25. 175 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Lograr, conseguir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pudo tanto el ruego importuno de esta mujer con el Profeta, que se va con ella.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Ven. Esp. Santo, 3 (2. 272)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El acus. es una prop. infinitiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ella no tan solamente no podía velle, mas aun si le hablaban en él, no había cosa que más pena le diese.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, 5 (p. 174)."
+            },
+            {
+              "texto_cita": "«Queda otra llave a nosotras, para si acaeciese algo puedan salir.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Cartas, 355 (R. 55. 305 1 ). — Además con la prep. con."
+            },
+            {
+              "texto_cita": "«Aunque el golpe que espero es insufrible, | Podré con otro luego remediarme.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 13 (R. 17. 54 1 ). — Además con sin."
+            },
+            {
+              "texto_cita": "«Sin la cual [la gracia divina] no puede un hombre, después de caído, levantarse, conócenla y dánle entrada en el alma.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Madg. 2. 14 (R. 27. 321 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salió la mayor parte de la gente forastera y monfíes con los capitanes Girón y el Zamar, sacando las mujeres y niños que pudieron.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 2 (R. 21. 83 2 ). X"
+            },
+            {
+              "texto_cita": "«No consintamos que el premio de nuestros servicios se distribuya por mano de sus ministros y gobernadores, en quien siempre puede más la pasión que la verdad.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 1. 50 (Cl. C. 54. 185)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Impers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las demás cosas del gobierno civil parecen convenientes los consejos medios, por el peligro de las extremidades, y porque importa tomar tales resoluciones, que con menos inconveniente se pueda después (si fuere necesario) venir a uno de los dos extremos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 85 (R. 25. 228 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Con las preps. con, en o para, Tener influjo, dominio, fuerza o superioridad sobre alguien o algo ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues el amor que con tanto puede, sin duda tiene gran fuerza.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3. 2 (3. 345)."
+            },
+            {
+              "texto_cita": "«Todo lo hacía pedazos [el endemoniado] y se soltaba, sin haber cosa que pudiese con él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2. 20 (3. 324 1 )."
+            },
+            {
+              "texto_cita": "«¿Quién podrá con el bando lautarino | Viendo que su opinión tanto crecía, | Y la fortuna próspera el camino | En nuestro daño y su provecho abría?»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 8 (R. 17. 31 1 )."
+            },
+            {
+              "texto_cita": "«Por la carta le ruega se acuerde de la amistad antigua que entre ellos había ---; ponga en olvido los disgustos... | pues puede y alcanza tanto con el Rey Moro.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 5 (1. 694 1 )."
+            },
+            {
+              "texto_cita": "«Gózome, Señora mía, de que podáis tanto con Dios.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 2. 5 (1. 276)."
+            },
+            {
+              "texto_cita": "«Los pies no podían con la carga, sin aumentar sus heridas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4. 48 (2. 602)."
+            },
+            {
+              "texto_cita": "«Tanto pueden con nuestra voluntad prendas postreras de lo que se quiso bien.»",
+              "autor": "",
+              "referencia_obra": "Camp. Teatro, (4. 136)."
+            },
+            {
+              "texto_cita": "«Quiso ocultarme su dolor inmenso; | Pero tan grave era, que no pudo | Con él su corazón.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo, 4. 3 (2. 2791)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en,",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos echamos de ver lo que las eficaces palabras del pastor habían podido en él.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro, 1 (p. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con para y una prop. infinitiva, que expresa la finalidad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Más puede este Santísimo Manjar para alegrarte, que tus pecados a entristecerte.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 8 (3. 214)."
+            },
+            {
+              "texto_cita": "«Lo cierto es que comunmente puede más en un príncipe un pequeño disgusto para castigar, que grandes y señalados servicios para perdonar.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 27 (R. 21. 26 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Ser posible o presumible ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Será una congoja. | —Puede: | El susto, la lucha misma | De pasiones, la violencia | Que la infeliz sufriría...»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, La niña en casa, 3. 18 (2. 129 2 )."
+            },
+            {
+              "texto_cita": "«Puede que su valor | A cien ducados no ascienda.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelo, 2. 8 (1. 84)."
+            },
+            {
+              "texto_cita": "«Vuela a tu corte, | (Pueda, te importe,) | Ese anillo te lleva veloz.»",
+              "autor": "Saav.",
+              "referencia_obra": "El desengaño en un sueño, 3. 2 (4. 493)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Impers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se puede negociar con todos con un mismo estilo; conveniente es varialle según la naturaleza del sugeto con quien se trata.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 30 (R. 25. 79 2 )."
+            },
+            {
+              "texto_cita": "«Y aunque los príncipes sean injustos..., no puede haber motivo ni razón para negarles la honra.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Pablo. rom. 13. 7. 2 (5. 502)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Tener facilidad, tiempo o lugar de hacer una cosa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y en confirmación de este poder grande de Dios refiere por hermosa manera algunas de las cosas que puede.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 1. 9 (1. 157). — Se omite el infinitivo por estar inmediato al verbo que pertenece."
+            },
+            {
+              "texto_cita": "«Los que son buenos para un ejercicio público, no son siempre buenos para otros; ---, ni los que son hábiles para domar y gobernar con las riendas un caballo, podrán un ejército.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 52 (R. 25. 140 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Impers. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡El enemigo! | —¿Está cerca? | —A la verdad, | Tan cerca, que hasta se puede | Sus capitanes contar.»",
+              "autor": "García Gutiérrez",
+              "referencia_obra": ", Venganza catal. 4 (Cl. C. 65. 142). X"
+            },
+            {
+              "texto_cita": "«Lisboa era la ciudad rica en ilusiones, y por eso la pertenecían todos los billetes que se pudiesen coleccionar.»",
+              "autor": "Gómez de la Serna",
+              "referencia_obra": ", Cab. del hongo gris, p. 103."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Locuciones.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "A más no poder: explica que uno ejecuta una cosa impelido y forzado y sin poder excusarlo ni resistirlo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A los religiosos les pone delante si entraron en religión, no por desprecio del mundo, sino a más no poder por tener segura la costa.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía, 3. 17 ( Míst. 2. 98). X"
+            },
+            {
+              "texto_cita": "«Así que, a no poder más, | Mudo intento: Si pudieres, | Haz lo mismo; que si quieres, | Mujer eres, y podrás.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Examen de maridos, 1. 14 (Cl. C. 146. 138). +"
+            },
+            {
+              "texto_cita": "«Como su situación era violenta y su padre había venido en aquel ajuste a más no poder, la desconfianza de lo dos partidos seguía siendo la misma.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 247 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "No poder ver a uno ni pintado: aborrecerle con tanto extremo, que ofende el verle u oirle. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quizá él mismo ha olvidado las razones de nuestro matrimonio... — ¿Y Qué te dicen tus orejas? —Que el viejo don Pizarro no lo puede ver a usted ni pintado. —Eso ya lo sé, Y dicen las orejas que va a aprovecharse del alboroto de hoy domingo para desquitarse...»",
+              "autor": "Fuentes",
+              "referencia_obra": ", Obr. complet. p. 1178."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "No poder con: sentir repugnancia hacia una persona o cosa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No puedo con esa gente tan estirada.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "No poder más: estar sumamente fatigado o rendido. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llevo toda la tarde de compras y no puedo más.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "No poderse tener: explica la debilidad o flaqueza de una persona o cosa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de su larga enfermedad estuvo una semana que no se podía tener.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "No poderse valer: estar imposibilitado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Si serán desalmados! ¡Meterse con un pobre anciano que no se puede valer!»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "s. m.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dominio, imperio, facultad y jurisdicción que uno tiene para mandar o ejecutar una cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y es ingrato, | Pues usa en afrenta mía | Del poder que yo le he dado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La amistad castigada , 3. 18 (R. 20. 300 1 ). X"
+            },
+            {
+              "texto_cita": "«El laurel | Del imperio sacrosanto | También se ha de dividir, | Que con esto estoy mostrando | Que hay un poder en los dos. | ¿Tantas honras a un esclavo?»",
+              "autor": "",
+              "referencia_obra": "M. de Amescua, Ejemplo mayor de la desdicha , 2 (Cl. C. 82. 237). X"
+            },
+            {
+              "texto_cita": "«Y si le hubieran dado barro a mano, ira de Dios! ni todo el poder de los Demonios le haría callar, porque en mi vida he visto semejante fluxo.»",
+              "autor": "Torres Villarroel",
+              "referencia_obra": ", Pronósticos, 2 (1. 295). X"
+            },
+            {
+              "texto_cita": "«Oro era todo para don Estanislao López, bajo cuya ala se había levantado Rosas, y éste en Oro acataba simplemente al poder que esperaba ocasión de avasallar.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Prov. p. 66. X"
+            },
+            {
+              "texto_cita": "«Era Córdoba, entonces, el centro de luces y de las bellas artes coloniales. Brillaban su Universidad y sus aulas; estaban poblados de centenares de monjes sus varios conventos; las pompas religiosas daban animado espectáculo a la ciudad, brillo al culto, autoridad al clero, y prestigio y poder a sus obispos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 73. X"
+            },
+            {
+              "texto_cita": "«Fuera, pues, lamentable desvarío, en el estado actual de las sociedades, que un poder, combatido como lo están hoy todos los poderes; que un rey, intranquilo y azarado como lo están hoy todos los reyes, intentase lograr como justo y fácil lo que encontraron indebido e imposible Constantino, Carlomagno, Cárlos V y Napoleón.»",
+              "autor": "Catalina",
+              "referencia_obra": ", Roma, p. 194. X"
+            },
+            {
+              "texto_cita": "«Concluyeron éstas por real mandato pero el espíritu de la institución perduró en adelante y constituyó una suerte de poder incontrastado ejercido en detrimento de los colonos.»",
+              "autor": "Valencia",
+              "referencia_obra": ", Discursos, 1 (p. 116). X"
+            },
+            {
+              "texto_cita": "«Ningún otro funcionario público debiera ser retribuído y cuidado por los altos poderes como estos trascendentales directores del alma humana, cuando ésta es todavía maleable y prodigiosamente apta para ser fecundada por todas las semillas.»",
+              "autor": "Marañón",
+              "referencia_obra": ", Tiempo viejo, p. 82. X"
+            },
+            {
+              "texto_cita": "«No volvían de un lugar determinado, según sus ojos; volvían de haber estado en ninguna parte, en una soledad absoluta y engañosamente poblada por símbolos: la ambición, la seguridad, el tiempo, el poder.»",
+              "autor": "Onetti",
+              "referencia_obra": ", Astillero, p. 86."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se exalta y vigoriza la conciencia nacional y se la templa para nuevos conflictos, que ojalá no sobrevengan nunca; y al mismo tiempo se vindican los fueros eternos e imprescriptibles de la resistencia contra el invasor injusto, sea cual fuere el manto de gloria y poder con que quiera encubrirse la violación del derecho.»",
+              "autor": "Menéndez y Pelayo",
+              "referencia_obra": ", Discursos (Cl. C. 140. 87)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No estavan ya las cosas para más dilatarlo, y era este acuerdo el último remedio, y por el consiguiente, bastantíssima causa para poder guiarlo desta suerte el gran poder y fuerça de sus contrarios y el dinero y riqueza con que atropellavan el pleito y supeditavan la justicia.»",
+              "autor": "Césp.",
+              "referencia_obra": "y Men. Sold. Pínd. 2 (Cl. C. 203. 157). X"
+            },
+            {
+              "texto_cita": "«Al fin la ha visto, Esperanza, | Que el poder de un Rey alcanza | Los pensamientos que mide; | Los suyos del tiempo espero, | Y de tu ingenio divino.»",
+              "autor": "Guev.",
+              "referencia_obra": "El diablo está en Cantillana, 2 (Cl. C. 132. 138). X"
+            },
+            {
+              "texto_cita": "«Tomada la ciudad, ya no hay que pensar en Echagüe, en López y en Aldao: el poder de Rosas es Rosas mismo: la República es Buenos Aires: deshagámonos de Rosas; tomemos posesión de la ciudad, y no hay guerra, señor Martigny, o si la hay, será insignificante y por corto tiempo.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 3 (p. 246). X"
+            },
+            {
+              "texto_cita": "«Alguno, casi siempre, que tenía que tomar la lancha hacia Santa María, por razones de salud, por alguna enfermedad sin misterio situada más allá del poder de don Alves, el curandero.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero, p. 123."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para y una prop. infinitiva, que expresa la finalidad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aun cuando yo pudiera salvarla de los insultos de la Mazorca, o de una medida torpe del tirano, yo no tendría poder para libertarla de los rigores de su propia organización, si te acaeciera una desgracia.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 3 (p. 329)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mal haces, | Que soy temible enemigo. | —Mas ya invulnerable soy. | —No conoces mi poder. | —Pues di: ¿me puedo ya ver más bajo de lo que estoy? | Aparta, digo.»",
+              "autor": "García Gutiérrez",
+              "referencia_obra": ", Juan Lorenzo (Cl. C. 65. 261). X"
+            },
+            {
+              "texto_cita": "«Tragose el olvido, uno a uno a muchos de los hombres que combatiste sin temor y sin tregua; disipado por siempre su efímero poder con el polvo de sus huesos, tus obras resplandecen perennes con la frescura matinal de lo que fue destinado a la inmortalidad.»",
+              "autor": "Valencia",
+              "referencia_obra": ", Discursos, 1 (p. 269). X"
+            },
+            {
+              "texto_cita": "«¡Señor! seguirás creciendo | Por los siglos, mientras llega | El día en que ya no exista | Ni espacio que te contenga, | Ni tiempo que te limite, | Ni cielo que no dé muestras | De tu poder, ni universo | Que a tus voces no obedezca, | Ni abismo que al paso tuyo | No se encienda y se estremezca ---.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poétic. 4 (p. 250). — Además con sobre. X"
+            },
+            {
+              "texto_cita": "«Durante la vida terrenal, la relativa felicidad que nos es dispensada asóciase indisolublemente a la conciencia del esfuerzo fecundo y a la de nuestro poder sobre los hombres y las cosas.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 11 (p. 252)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Fuerza, vigor.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cayó en la cuenta de los suyos el ciego de don Gregorio luego que oyó el doto sermón; y acordándose también de lo mucho que acerca del celestial poder del rosario le avía dicho diversas vezes su doña Luysa, --- le pareció que, arrimándose a la freqüentación de tan soberano rezo, hallaría en él braço que le sacasse del cieno de sus torpezas.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 6. 19 (Cl. C. 175. 142). X"
+            },
+            {
+              "texto_cita": "«Era una estrecha porción de tierra todo lo que habitaban las doce tribus, pero el número de gente copiosísimo, su poder militar muy grande.»",
+              "autor": "Feijóo",
+              "referencia_obra": ", Teatro crít . 3 (Cl. C. 67. 226). X"
+            },
+            {
+              "texto_cita": "«Señor; | Aunque la fiera borrasca | Que ha excitado en mis sentidos | Un burlado amor, no calma; | Y aunque estos dulces umbrales | Exasperan más la llaga | De mi corazón, con todo, | La amistad que nos enlaza | Tiene en mí tanto poder | Que a costa de muchas ansias | Vengo a cumplir...»",
+              "autor": "",
+              "referencia_obra": "Gonz. del Castillo, La madre hipócr. (Cl. Esp. 3. 127). X"
+            },
+            {
+              "texto_cita": "«Aun podréis aspirar a una palma, como nuestros próceres. No es mártir sólo el que rinde la vida al poder de los suplicios, ni libertador únicamente el que aparta los grillos del pie del hombre, o el yugo de la cerviz de los pueblos.»",
+              "autor": "S. Pérez",
+              "referencia_obra": ", Selec. escr. disc. p. 191. X"
+            },
+            {
+              "texto_cita": "«Esa pugna, tantas veces renovada, surgió con la aparición de la figura blanca de Jesús, personificación divina del misterioso poder que existe más allá de las fuerzas humanas.»",
+              "autor": "Valencia",
+              "referencia_obra": ", Discursos, 3 (p. 291). X"
+            },
+            {
+              "texto_cita": "«La voz se hizo cavernosa y lenta, rebasó el corro de ocho negros en cuclillas que la oían y voló, llena de pavoroso poder, por el aire azul, bajo los árboles bañados de viento, sobre toda la colina.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas, 1 (p. 13). X"
+            },
+            {
+              "texto_cita": "«Era tal el poder de su presencia, que desde la primera vez que se le vio en la iglesia todo el mundo dio por sentado que entre él y Remedios, la bella, se había establecido un duelo callado y tenso, un pacto secreto, un desafío irrevocable cuya culminación no podría ser solamente el amor sino también la muerte.»",
+              "autor": "García Márquez",
+              "referencia_obra": ", Cien años de soledad, p. 182."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas en el interim, aviendo el cielo permitido que pareciesse el paje que el difunto don Luis avía echo ausentar, entendido de su madre y Teodora, le uvieron a las manos; pero advirtiendo que no se avía de dar lugar a su declaración, por el mucho poder con que era atropellada su justicia, hallándose en los bosques de Acequia el Rey nuestro señor, se fueron a sus pies.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 1. 4 (Cl. C. 202. 52)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya conozco su grandeza, | Que es ciudad divina y santa, | Que a las del mundo adelanta | En valor, trato y nobleza. | —¿Pues cómo decís aquí | Que no os tenéis de atrever, | Conociendo su poder?»",
+              "autor": "Rojas",
+              "referencia_obra": "Villandrando, Viaje entrefenido, p. 86."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Loc. A poder de: a fuerza de, o con repetición de actos, con copia, con abundancia de una cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le quería su padre poner a que estudiase leyes, él con ser de harto poca edad, sentía tanto, que a poder de lágrimas acabó con él que le dejase oír Teología.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund. 23 (2. 376)."
+            },
+            {
+              "texto_cita": "«Otros hay que los hacen ir por fuerza, [a comulgar] y los constriñen a poder de penas y escomuniones.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 15 (4. 89)."
+            },
+            {
+              "texto_cita": "«Se había de levantar presto en aquella tierra una grave persecución contra los Cristianos, para que a poder de tormentos negasen la fe.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 19 (4. 253). X"
+            },
+            {
+              "texto_cita": "«A poder, pues, déste vine, y en su poder estuve con don Diego; la noche que llegamos nos señaló nuestro aposento, y nos hizo una plática corta, que, aun por no gastar tiempo, no duró más.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 3 (Cl. C. 5. 37). X"
+            },
+            {
+              "texto_cita": "«Y todos, a poder de brazo y viento, | A izquierda tuercen. Súbita oleada | Acércanos, erguida, al firmamento, | Y luego a los abismos, aplanada.»",
+              "autor": "Caro",
+              "referencia_obra": ", Obr. de Virgilio, p. 142."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Capacidad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ¿qué deidad me pudiera | Inclinar a que te amara, | Que ese poder no tomara | Para sí, si le tuviera?»",
+              "autor": "Quev.",
+              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 165). X"
+            },
+            {
+              "texto_cita": "«El rasgo fundamental, la diferencia específica, de la criatura humana, es el poder de transformarse y renovarse, superando, por los avisos de su inteligencia y las reacciones de su voluntad, las fuerzas que conspiren a retenerla en un estado inferior.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 272. X"
+            },
+            {
+              "texto_cita": "«Sabido es el poder que Weber tenía para contener o acelerar por el esfuerzo consciente, las palpitaciones de su corazón.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 275. X"
+            },
+            {
+              "texto_cita": "«Porque ni el sentimiento, ni la inteligencia, ni la voluntad crean, sino que se ejercen sobre la materia dada ya, sobre materia dada por la fe. La fe es el poder creador del hombre.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Del sen. trág. de la vida, 9 (p. 155)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sentimiento de patria conservará siempre su poder dinamógeno y continuará siendo el gran excitador de las competencias científicas e industriales.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos de la voluntad, 3 (p. 69)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Influencia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aquí cabría investigar qué poder y alcance tiene el uso en una lengua perfeccionada ya de ese modo por los autores clásicos.»",
+              "autor": "Caro",
+              "referencia_obra": ", Del uso, p. 84."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con sobre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y aunque tal idea o pasión permanezcan, como suelen, fuera de la luz de la conciencia, y tú no sepas cuál es la fuerza ideal que tiene mayor poder sobre ti.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 194."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Posesión o tenencia de una cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues ¿cómo os veo en poder de los demonios, leones ferocísimos? Volved, volved, alma, sobre vos, volvéos a mí, que ese tirano no os tratará sino como a esclava.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. 3. 26 (Cl. C. 105. 281). X"
+            },
+            {
+              "texto_cita": "«Suplícoos, señora, que toméis otra resolución en vuestros honrados pensamientos, pues yo la pienso tomar en los míos, acomodándoos a esperar mejor fortuna; que yo os juro por la fe de caballero y de cristiano de no desampararos hasta veros en poder de don Fernando.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 29 (Cl. C. 8. 82). X"
+            },
+            {
+              "texto_cita": "«¿Por qué le quieres hallar? | —Porque en poder de mi miedo | Triste y solo sin él quedo, | Mas tú cuyos ecos sigo, | ¿Por qué a lo lejos conmigo | Hablas sin dejarte ver?»",
+              "autor": "Cald.",
+              "referencia_obra": "Autos, 2 (Cl. C. 74. 152). X"
+            },
+            {
+              "texto_cita": "«¿Y lo vencieron? — Al momento. — Y Quedarían en poder del vencedor... —Todas las cartas. — ¡Gran destrozo! ¡Memorable jornada! ¿Vendrá a Madrid, después de esa victoria?»",
+              "autor": "Larra",
+              "referencia_obra": ", Art. polít. y soc. (Cl. C. 77. 66). X"
+            },
+            {
+              "texto_cita": "«Así como el comercio y la banca cayeron en poder de genoveses, flamencos y franceses, el cultivo mismo de la tierra (es decir, lo poco de ella cultivado) vino a manos de braceros extranjeros.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos, 10 (p. 202). X"
+            },
+            {
+              "texto_cita": "«A los quince días obraban ya en poder de mi acaudalado cliente dos voluminosos manuscritos sobre el tema: uno, atiborrado de datos, estadísticos, minuciosas descripciones y consideraciones críticas presuntuosas; y otro mucho más conciso, pero harto más discreto, y verosímil.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 11 (p. 275). X"
+            },
+            {
+              "texto_cita": "«El cacique, cuando vio su ranchería reducida a escombros, maldijo el palmar de modo que en él sólo encontraran ruina y desgracia el invasor y sus descendientes, víctimas del rayo, vaticinando, al mismo tiempo, que volvería al poder de los yaruros cuando uno de éstos sacara de la tierra la piedra de centella de la maldición.»",
+              "autor": "Gallegos",
+              "referencia_obra": ", Doña Bárbara, p. 99. X"
+            },
+            {
+              "texto_cita": "«Cuando al medio día, | De la torre al suelo, | Caían las doce | Miradas del tiempo, | El barrio quedaba | Tranquilo y desierto, | Con sus cuatro esquinas | En poder del viento.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poétic. 4 (p. 240)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tomóle los dineros y hacienda con ocasión de entregarse de mucha, que había entrado en su poder de diezmos y quintos.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 214). X"
+            },
+            {
+              "texto_cita": "«Señor y padre mío, que así te puedo llamar: señor por estar en tu poder y padre por las obras que de tal me haces.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán, 1. 1. 8 (Cl. C. 73. 194). X"
+            },
+            {
+              "texto_cita": "«Así es como tú dices —dijo don Quijote—; porque el librillo de memoria donde yo la escribí le hallé en mi poder a cabo de dos días de tu partida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 30 (Cl. C. 8. 129). X"
+            },
+            {
+              "texto_cita": "«Pasó primero de esta vida mi dueño, que me dejó con hacienda, y en ella mayor daño, porque el miedo de que en mi poder, siendo una mujer sola, no se perdiese, me hizo apresurar las bodas.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", El sagaz Estacio, 2 (Cl. C. 57. 180). X"
+            },
+            {
+              "texto_cita": "«Hoy Ceuta está en tu poder: | Si cautivo te confiesas, | Si me confiesas por dueño, | ¿Por qué no me das a Ceuta?»",
+              "autor": "Calderón",
+              "referencia_obra": ", Príncipe constante, 2 (Cl. C. 204. 66). X"
+            },
+            {
+              "texto_cita": "«Fue con su ejército a Valencia, tratando de conservar la ciudad en su poder, sobre lo cual poseemos ahora nuevos datos.»",
+              "autor": "Mndz. Pidal",
+              "referencia_obra": ", Miscelánea hist.-lit. p. 100."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Der. Acto o instrumento en que consta la facultad que uno da a otro para que en lugar suyo y representándole pueda ejecutar una cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cargáronme al momento de grillos, y mientras se bolvió el alguacil a averiguar la causa, temiendo lo que al fin sucedió, y aconsejado de algunos presos viejos, dí poder a un buen procurador, dineros y orden, para que provasse mi iglesia.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. 2 (Cl. C. 203. 93)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un posesivo. Además con para, que expresa la finalidad. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Embiaron [el frayle y su hermano] su poder para cobrar los bienes del muerto.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag. 1. 4 (1. 50)."
+            },
+            {
+              "texto_cita": "«Sus principales jefes eran, por parte del Rey Luis el cardenal de Arrás, y por la del duque de Guiana el conde de Boloña que traía sus poderes para desposarse en su nombre.»",
+              "autor": "Acad.",
+              "referencia_obra": "Hist. llustr. 2 (6. 97)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Loc. Por poder: con intervención de un apoderado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dime, bárbaro, simple, desdichado: | ¿Que porque tienes cuatro mil de renta | Te casas por poder con una dama | Que te dijeron que era muy discreta, | Muy noble, bien nacida y muy honrada?»",
+              "autor": "Rojas",
+              "referencia_obra": "Villandrando, Viaje entretenido, p. 449."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Oh bienaventurado cordón, que tanto poder y merescimiento tuviste de ceñir aquel cuerpo que no soy digno de servir.»",
+          "autor": "Celest.",
+          "referencia_obra": "4 (R. 3. 30 2 ). X"
+        },
+        {
+          "texto_cita": "«Y por tanto, señor, no quiero que resciba vuestra merced este engaño; porque haués de saber que cuando houiere fecho lo último de mi poder por os seruir, certifico a vuestra merced todo ello valga bien poco.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 30 (Cl. C. 99. 147). X"
+        },
+        {
+          "texto_cita": "«Pues vos no sabés dar la materia, menos puedo yo facer los sermones: así que vos por no saber, y yo por no poder, se queda la carta sin escreuir.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 27 (Cl. C. 99. 139). X"
+        },
+        {
+          "texto_cita": "«Y el apóstol dice a los romanos, que toda ánima sea súbdita a su mayor, porque todo poder es dado por Dios, y quien resiste a su mayor, resiste a Dios.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 23 (Cl. C. 99. 118). X"
+        },
+        {
+          "texto_cita": "«Otros dizen en esta otra manera: que cuando los reyes de Castilla e de León cobrauan la tierra de poder de los moros, muchos estrangeros de diuersas naçiones, por seruiçio de Dios e por nobleça de cavallería, venían a la conquista.»",
+          "autor": "Pz. de Guzmán",
+          "referencia_obra": ", Gener. (Cl. C. 61. 47). X"
+        },
+        {
+          "texto_cita": "«Quien de gran linage viene | Tiene falta de muger, | Y el que buena muger tiene | Porque de otra parte pene | No puede hijos auer.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Despr. de fortuna (Cl. C. 133. 246). X"
+        },
+        {
+          "texto_cita": "«Si se vsasse la verdad, | Podríe con gran grandeza | Ser señora la pobreza | Y sierua prosperidad.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (Cl. C. 133. 241). X"
+        },
+        {
+          "texto_cita": "«Pues el otro, su heredero, | Don Anrique, ¡qué poderes | Alcançaua! | ¡Quánd blando, quánd alagero, | El mundo con sus plazeres | Se le daua!»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Canc. (Cl. C. 94. 97). X"
+        },
+        {
+          "texto_cita": "«Si tú los pudieres ver, | Mucho me los encomienda; | Mas cata que no lo entienda | La que los tiene en poder.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (Cl. C. 94. 52). X"
+        },
+        {
+          "texto_cita": "«E sobre todos el llanto que fazían los pobres non ha omne a quien no quebrantasen el coraçón; ca dezían assí: Señor, pues de tí somos desanparados, agora nos podemos llamar verdaderamente pobres e mesquinos; ca contigo non sentíamos pobreza.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Vida de S. Ildef. 17 (Cl. C. 134. 60). X"
+        },
+        {
+          "texto_cita": "«E veyan quc tanto plazía a la madre del bien spiritual del fijo, de las santas palabras que le dezía su madre que non se podía partir el uno del otro.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 6 (Cl. C. 134. 30). X"
+        },
+        {
+          "texto_cita": "«La sentencia rigurosa, | Causada por la muger | En favor de Luzifer, | Tornó de ser a non ser; | ¿Quál otro pudo fazer | Obra tan maravillosa?»",
+          "autor": "Santill.",
+          "referencia_obra": "Canc. y decires (Cl. C. 18. 133). +"
+        },
+        {
+          "texto_cita": "«En las villas que avían tutores, los que mas podían apremiaban a los otros.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 40 (p. 78). +"
+        },
+        {
+          "texto_cita": "«Los poderes el Rey al Condestable se enderesçaban.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 19 (p. 73). — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«A los perdidos malos, que dexó en tu poder, | En el fuego enfernal los fases tú arder.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1565 (Cl. C. 17. 252). X"
+        },
+        {
+          "texto_cita": "«Con las sus caçurrías el león fue sanudo: | Quiso abrirle todo; alcançar non le pudo. | Su atanbor taniendo fuese, más y non estudo: | Sentióse por escarnido el león del orejudo.»",
+          "autor": "",
+          "referencia_obra": "Id. 895 (Cl. C. 17. 8). X"
+        },
+        {
+          "texto_cita": "«Fijo, el mejor cobro de quantos vos avedes, | Es olvidar la cosa que aver non podedes.»",
+          "autor": "",
+          "referencia_obra": "Id. 782 (Cl. C. 14. 269). X"
+        },
+        {
+          "texto_cita": "«Locura e braueza es atreuerse ome acometer a quien mas puede quel.»",
+          "autor": "Zifar",
+          "referencia_obra": ", 167 (p. 366). X"
+        },
+        {
+          "texto_cita": "«El que ha poder de fazer bien e non lo faze, es mengua del e desplaze a Dios.»",
+          "autor": "",
+          "referencia_obra": "Ib. 164 (p. 356). X"
+        },
+        {
+          "texto_cita": "«Sacaron [Los jóvenes] a su padre e a otros tres que eran con el de poder de los ladrones.»",
+          "autor": "",
+          "referencia_obra": "Ib. 89 (p. 179). X"
+        },
+        {
+          "texto_cita": "«El diablo non ha ningunt poder sobre aquel quien a Dios se acomienda, e porende non me veredes en vuestro poder.»",
+          "autor": "",
+          "referencia_obra": "Ib. 67 (p. 146). X"
+        },
+        {
+          "texto_cita": "«Dixo el cauallero, mientre que ouire paçiençia e alegría bien abre poder en mi; e crey que aquel non es poderoso el que non ha poder en sy.»",
+          "autor": "",
+          "referencia_obra": "Ib. 54 (p. 1). X"
+        },
+        {
+          "texto_cita": "«El se espedio de la señora de la villa luego e la su muger esso mesmo, llorando la señora de la villa muy fuertemente por que non podía con el que fincase.»",
+          "autor": "",
+          "referencia_obra": "Ib. 38 (p. 84). X"
+        },
+        {
+          "texto_cita": "«Todo es en poder de Dios, del rico fazer pobre e del pobre rico.»",
+          "autor": "",
+          "referencia_obra": "Ib. 9 (p. 35). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«Non pudieron ellos estonces con sos enemigos.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", General estoria, p. 133. +"
+        },
+        {
+          "texto_cita": "«Pues que los de Israel fueron creciendo e podiendo mas, conquirieron a los cananeos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. p. 81. X"
+        },
+        {
+          "texto_cita": "«Dubdaron [los de Israel] de yr a ellos --- temiendo que non podríen con ellos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. p. 70. +"
+        },
+        {
+          "texto_cita": "«Santa Iglesia es llamada el ayuntamiento de los fieles de Dios que creen la fee de Ihesu Cristo su fiio, e en esta Iglesia ha dos poderes: vno, spiritual; e otro, tenporal.»",
+          "autor": "",
+          "referencia_obra": "Id. Seten. ley 38 (p. 69)."
+        },
+        {
+          "texto_cita": "«Et otrosí non pueden dispensar [los perlados] con aquellos que fuesen mal enfermados por algunt fecho desaguisado.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 5. 64 (1. 248). X"
+        },
+        {
+          "texto_cita": "«Fueron se pora Burgos quanto yr se podieron, | Luego que llegaron grandes bodas fezieron, | Non alongaron plazo, bendiçiones prendieron, | Todos grrandes e chycos muy grrand gozo ovieron.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 28 (Cl. C. 128. 204). X"
+        },
+        {
+          "texto_cita": "«Duenna syn pyedat e syn buen conosçer, | De fazer byen o mal tu tyenes el poder.»",
+          "autor": "",
+          "referencia_obra": "Ib. 17 (Cl. C. 128. 183). X"
+        },
+        {
+          "texto_cita": "«Ovyeron sus poderes sobre mi d´ayuntar, | Vnos veníen por tierra, otros veníen por mar, | Querríen me, sy podiessen, deste syglo sacar, | Quesystem´tu, Sennor, valer e ayudar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 17 (Cl. C. 128. 121). X"
+        },
+        {
+          "texto_cita": "«E dixo el persiano: Después que yo digo la palabra estó en su poder, e mientra non la digo está ella en el mío.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", p. 169. X"
+        },
+        {
+          "texto_cita": "«Cosa fea es, que podemos de nuestras viñas la rama seca, a non podemos de nuestras almas la superfluidat de las cobdicias.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 81. X"
+        },
+        {
+          "texto_cita": "«El que quiere estorcer de los engaños del diablo, non obdesca a la muger; ca las mugeres son escalera parada, que non ha el diablo poder, si non en el que subiere en ella.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 63. X"
+        },
+        {
+          "texto_cita": "«E por soffrir la su nescedat e las sus malas maneras, podríe otrossí soffrir la nescedat de los omes comunalmente.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 45. X"
+        },
+        {
+          "texto_cita": "«Cuando fue peonciello que se podié mandar, | Mandólo ir el padre las ovejas guardar. | Obedeció el fijo ca non querié pecar; | lxo con su ganado pensólo de guiar.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. (Cl. Castal. 49. 63). X"
+        },
+        {
+          "texto_cita": "«Otro si muy grand vicio de comer e beber | Puedeme castidat ayuno corronper | Puelo perder mi fama e a Dios ofender | Los buenos que me honrran pueden maborrecer.»",
+          "autor": "S. Ildef.",
+          "referencia_obra": "(ICC. 36. 194). — Siglo XII: X"
+        },
+        {
+          "texto_cita": "«Ya primas, las mis primas, don Elvira e doña Sol, | Mal se ensayaron ifantes de Carrión! | A Dios plega que dent prendan ellos mal galardón! | Valas tornando a ellas amas a dos; 1 Tanto son de traspuestas que nada dezír non puoden.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2780 (Cl. C. 24. 252). X"
+        },
+        {
+          "texto_cita": "«ld pora Medina quanto lo pudiéredes far, | Mi mugier e mis fijas con Minaya Albar Fáñez, | Así commo a mí dixieron, hi los podredes fallar; | Con grand ondra aduzídmelas delant.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1465 (Cl. C. 24. 188). X"
+        },
+        {
+          "texto_cita": "«Tierras de Valençia remanidas en paz, | Adeliñó pora Castiella Minaya Albar Fáñez. | Dexarévos las posadas, non las quiero contar. Demandó por Alfonsso, do lo podríe fallar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1308 (Cl. C. 24. 180). X"
+        },
+        {
+          "texto_cita": "«Sonrrisós el caboso, que non lo pudo endurar: | Ya cavalleros, dezir vos he la verdad: | Qui en un logar mora siempre, lo so puede menguar; | Eras a la mañana penssemos de cavalgar, | Dexat estas posadas e iremos adelant.»",
+          "autor": "",
+          "referencia_obra": "Ib. 946 (Cl. C. 24. 159). X"
+        },
+        {
+          "texto_cita": "«¿ldes vos, Minaya, a Castiella la gentil? A nuestros amigos bien les podedes dezir: Dios nos valió e vençiemos la lid.»",
+          "autor": "",
+          "referencia_obra": "Ib . 829 (Cl. C. 24. 152)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. vulgar potére que sustituyó al lat. clásico posse. Cat. y port. poder, it. potere, fr. pouvoir .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Presenta las siguientes formas irregulares: puedo, -es, -e, -en; pude, -iste, -o, -imos, -isteis, -ieron; pueda, -as, -a, -an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

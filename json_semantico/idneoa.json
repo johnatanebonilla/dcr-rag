@@ -1,0 +1,46 @@
+{
+  "lema": "IDÓNEO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj. Adecuado, apto. — α ) «A cada cual [de los santos] hizo idóneo ministro del ministerio para que los quiso.» Gran. serm. Inmac. Concepc. (R. 11. 35 1 ). X «Persona de conciencia, hábil e idónea e suficiente.» L. C. López , Puebla (Boyd-Bowman, Léxico ). «Juzgose que para esta culpa no se hallaría juez que fuese idóneo.» Navarrete, Ben. de Séneca, 3. 8 (p. 59 2 ). — α α ) En grado comparativo. «No se pueden excusar por la ignorancia del confesor, los que tenían a mano el conocidamente más idóneo.» Gran. Doctr. crist. 3. 11, §6 (R. 11. 158 1 ). «Quisieron --- que se valiese de aquellas personas que creyese más idóneas, y que le pudiesen ayudar al logro del fin que se deseaba.» Scío , Biblia, advert. (1. xii). — β ) Con a . «Le abona | Tu elección por idóneo a esta corona.» Jáur. Fars. 15 ( Fern. 8. 93). — Siendo el término una prop. infinitiva. «Y examinados por varones doctos, | Halláronlos dispuestos dignamente | Y a recibir el agua santa idóneos.» A. Saav. Moro expós. 12 (2. 440). — γ ) Con de. «A Ricardo ayudaba mucho la semejanza de la lengua --- además del parentesco que entre sí tenían, para que le juzgasen por idóneo y digno del imperio.» Mariana , Hist. Esp. 13. 10 (R. 30. 384 2 ). — δ ) Con para. + «La perfección de los objetos idóneos para las artes no es precisamente la misma que la de los objetos naturales.» Arteaga , Belleza ideal, 4 (Cl. C. 122. 55). — Siendo el término una prop. infinitiva. «Y considerando que pasaban de mil doscientas y veinte y seis iglesias las que tenía a su cargo, y la necesidad que tenía de ministros idóneos para curarlas, procuró con gran brevedad fundar en aquella ciudad un colegio de los padres de la Compañía.» Gran. Vida de B. de los Márt. 7 (R. 11. 441 1 ). «La ingratitud no se tuvo por cosa poco idónea para citarla ante el juez.» Navarr. Ben. de Séneca, 3. 8 (p. 59 2 ). — α α ) En superlativo relativo. «Escoged entre vosotros el más ducho, el más idóneo para el caso, un hombre bien nacido y de carácter, que no sea ningún chisgarabís.» Mor. Derr. de los pedantes (R. 2. 572 1 ). — β β ) En grado comparativo. «Aun para pedir ayuda y socorro esté casi inhábil, cuánto menos idóneo estará para sacar fuerzas de flaqueza ayudarse por sí.» Venegas , Agonía, 3. 14 ( Míst. 86). «Mientras más fuere entrando en edad Sancho, con la experiencia que dan los años estará más idóneo y más hábil para ser gobernador, que no está ahora.» Cerv. Quij. 2. 3 (R. 1. 410 2 ). — ε ) En lenguaje forense forma la expresión testigo idóneo: el que reúne todas las circunstancias de la ley. Cfr. Barcia, Dicc.",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "SigloXV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "« Potens: es copioso grande donde viene potentia, que es suya vno en sí o a solas en lo que le es lícito tener facultad en las cosas ydóneas y es poderío de conseruar lo suyo y de tener lo de otri.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. Vocab. 375b, sb. voc. potentia. X"
+        },
+        {
+          "texto_cita": "« Idoneus: ... es perpetuo y querido y adoptado y para prouecho y idóneo se dize el amigo que bien conseia y idóneo el sieruo que aprouecha a su amo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 201d. X"
+        },
+        {
+          "texto_cita": "« Armamentum... linaje de ganado ydónea para exercitar las armas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 32b. — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Dévelo leer públicamente ante dos notarios públicos, o ante tres omnes buenos ydóneos.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 14. 16 ( O. L 1. 463)."
+        },
+        {
+          "texto_cita": "«Item establecemos que en cada eglesia cathedral sean escogidos dos varones los maes idóneos et maes letrados que hi fueren, para predicar la palabra de Dios.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1228 ( Esp. sagr. 36. 217)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. idoneus , ‘adecuado, apropiado, capaz’. Cultismo que sigue siendo ajeno a la lengua hablada. Cfr. Corominas , DCELC. It. idoneo, cat. idoneu. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,417 @@
+{
+  "lema": "EMPEORAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer que lo malo se vuelva peor ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conoce que [estos bienes y gloria terrena] son bienes caducos y que están fuera del hombre, y que no solamente no le hacen bueno, mas muchas veces le empeoran y dañan.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Brazo (3. 142)."
+            },
+            {
+              "texto_cita": "«La suerte, que no sabré decir si mis cosas empeoraba o mejoraba, ordenó que en ninguna parte donde pensé hallar a doña Estefanía, la hallase.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 11 (R. 1. 225 1 )."
+            },
+            {
+              "texto_cita": "«Pocas veces está dispuesta la voluntad del enfermo a recibir con gusto lo que le ha de acarrear la salud, apeteciendo todo aquello que se la ha de empeorar.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de monarq . 31 (R. 25. 515 2 )."
+            },
+            {
+              "texto_cita": "«Ni soles, oh tahur, lunas ni auroras | Te han visto soñolientas las pestañas; | Tu estado espira; al sucesor engañas, | Pues tu fe y su esperanza le empeoras.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. que principia así (R. 42. 320 1 )."
+            },
+            {
+              "texto_cita": "«El aire de sus palabras enciende la ira y atiza a la crueldad: el que los oye, se aventura; el que los cree los empeora; el que los premia es solamente peor que ellos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 2. 7 (R. 23. 55 1 )."
+            },
+            {
+              "texto_cita": "«¿Por qué se resolvería Bermúdez a tan grave mudanza?... No tiene duda que con ella empeoró la exposición del drama, haciéndola menos natural e interesante.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp . (2. 46)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar la causa u ocasión de la mudanza de malo en peor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Enséñame a corregir con espíritu de blandura, para que cure los males con la mansedumbre, y no los empeore con mi indignación.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 4. 5 (2. 391)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . Volverse o ponerse peor",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allende de que este oficio [de reprehender al prójimo] no es suyo, hallará por experiencia que antes se empeora el corregido, que no que se enmienda.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar . 13 (3. 404)."
+            },
+            {
+              "texto_cita": "«Mientras más a menudo lo reciben, más se ciegan [estas ánimas], y endurecen y empeoran: no por causa del sacramento, sino por su mal aparejo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 3. 1 (R. 8. 243 1 )."
+            },
+            {
+              "texto_cita": "«Las cosas de los cristianos en la Tierra Santa parecían empeorarse.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 10. 20 (R. 30. 307 2 )."
+            },
+            {
+              "texto_cita": "«Muchas veces por la culpa del pastor se empeoran las costumbres del pueblo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 2. 1 (R. 60. 412 2 )."
+            },
+            {
+              "texto_cita": "«Supo que las cosas de Galípoli y de los catalanes se iban empeorando.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 24 (R. 21. 23 2 )."
+            },
+            {
+              "texto_cita": "«Viendo que la fortuna se empeora, | Con temor el ejército levanta.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 12 (R. 17. 623 1 )."
+            },
+            {
+              "texto_cita": "«Yo temo que desa suerte | Se empeore este suceso.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El desdichado en fingir , 1. 18 (R. 20. 144 2 )."
+            },
+            {
+              "texto_cita": "«Mi mal por todas partes se empeora.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 9 (191)."
+            },
+            {
+              "texto_cita": "«Cuando viste | Que el príncipe se divierte | Con tus donaires, de suerte | Que por ti su mal resiste | ¿Faltar quieres, y en un mal | Que por puntos se empeora?»",
+              "autor": "Mto.",
+              "referencia_obra": "Antíoco y Seleuco , 2. 1 (R. 39. 44 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar la causa u ocasión de la mudanza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchas veces con las buenas obras que hago, me empeoro: porque tomando demasiado contentamiento dellas, vanamente me aseguro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 7 (R. 8. 451 2 )."
+            },
+            {
+              "texto_cita": "«El hacer y dar leyes es muchas veces ocasión de que se quebranten las leyes, y de que, como dice San Pablo, se peque más gravemente, y de que se empeoren los hombres con la ley que se ordenó e inventó para mejorarlos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Rey (3. 185)."
+            },
+            {
+              "texto_cita": "«Volvamos a Sertorio cuyo partido comenzó a empeorarse con la venida de Lucio Lolio, gobernador de la Galia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 3. 13 (R. 30. 74 1 )."
+            },
+            {
+              "texto_cita": "«Con la vida se enmiendan y mejoran las malas suertes, y con la muerte desesperada, no sólo no se acaban y se mejoran, pero se empeoran y comienzan de nuevo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2. 14 (R. 1. 610 2 )."
+            },
+            {
+              "texto_cita": "«Raras veces los soldados ni los ejércitos se empeoran con el trabajo.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 2 (R. 28. 16 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En el mismo sentido que la construcción refl. se usa como intrans .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es cosa muy al revés hacer de la medicina ponzoña, y tomar achaque de empeorar de lo que Dios para mejorar envía.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 36 (6. 207)."
+            },
+            {
+              "texto_cita": "«Mira cómo empeora | Y crece mi dolor más cada punto.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, Virgen , que el sol más pura (4. 336)."
+            },
+            {
+              "texto_cita": "«Fue causa [la llegada de los ginoveses] que el partido de los griegos se mejorase y empeorase el de los catalanes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 15. 14 (R. 30. 449 1 )."
+            },
+            {
+              "texto_cita": "«Este placer --- turbó y casi deshizo la desgracia del conde, que por momentos iba empeorando.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 3. 9 (R. 1. 640 1 )."
+            },
+            {
+              "texto_cita": "«No durando en cosa [los inconstantes], todas las acaban en sus principios; y proponiéndose por instantes nuevas empresas, empeoran siempre en lo presente con la vana persuasión de mejorarse en lo futuro.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 1. 1 (14)."
+            },
+            {
+              "texto_cita": "«Por instantes empeora | Este accidente mortal.»",
+              "autor": "Mto.",
+              "referencia_obra": "Lo que puede la aprehensión , 3. 8 (R. 39. 183 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desta manera los miserables, como les falta el gobernalle de la virtud, vienen a dar al través al tiempo de la tormenta --- endureciéndose con el castigo y empeorando con la medicina.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 22. § 1 (R. 6. 83 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué esperanza se puede tener del enfermo que con los remedios empeora?»",
+              "autor": "Doctr.",
+              "referencia_obra": "crist . 2. 4 (R. 11. 100 2 )."
+            },
+            {
+              "texto_cita": "«Es la viva mi deudora, | Y la pintada me paga; | De manera que empeora | Con el remedio mi llaga.»",
+              "autor": "Mend.",
+              "referencia_obra": "carta El que es tuyo (R. 32. 92 2 )."
+            },
+            {
+              "texto_cita": "«El pobre y miserable no teme los vaivenes y mudanzas de la fortuna, ni empeora su suerte con los accidentes de las monarquías.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de monarq . 19. (R. 25. 489 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , a semejanza de mejorar , para expresar aquello que origina y constituye la peoría.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si le tomara de vos, | Aunque empeorara de dueño, | Mejorara de primores.»",
+              "autor": "Cald.",
+              "referencia_obra": "¿Cuál es mayor perfección? 1. 5 (R. 7. 72 2 )."
+            },
+            {
+              "texto_cita": "«Consídera cuál es tu miseria y desventura, que de donde tu prójimo se mejora, tú empeoras.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 2. 17 (R. 11. 126 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar el campo o materia en que algo aparece peor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conozco algunos de los ricos deste siglo, que después de graves enfermedades recobraron la salud del cuerpo y empeoraron en la del ánima.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 26, § 1 (R. 6. 96 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Halló con su ausencia empeorado mucho el estado de las cosas.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 1 (R. 28. 13 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "A veces denota no el concepto de ir de mal a peor, sino el de pasar de bueno a menos bueno o malo; cosa análoga se observa en desmelorar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La prisión de Orestes, que Eurípides puso en relación, Cañizares, con la gracia que tenía de empeorarlo todo, la pone en el teatro.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 3, p. 155."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquellos artistas gozaban de una grande reputación en Italia, que no supieron conservar entre nosotros, como sucede a ciertas plantas indígenas, de un suelo, que trasplantadas a otro, se debilitan y empeoran, producen frutos de poco gusto, y acaban perdiendo la virtud de germinar y producir.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de las bellas artes (R. 46. 353 1 )."
+            },
+            {
+              "texto_cita": "«Dicen que el estilo se debilita y empeora en la vejez.»",
+              "autor": "",
+              "referencia_obra": "Id. Corresp. con Posada (R. 50. 252 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por espacio de ocho o diez millas, hermosos campos, como todos los que rodean a Bolonia; buen camino. Después el camino y el campo empeoran.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 440."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La cual [moneda de oro puro], siendo puesta a examen de fuego, no se empeoraria en ninguna manera, ni se perderia nada de la perfecion suya.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 2 (R. 36. 344 2 )."
+        },
+        {
+          "texto_cita": "«E non mejora | Mi mal, júrovos a Dios, | Mas empeora.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 445."
+        },
+        {
+          "texto_cita": "«E ya mi servir es syn esperança | Porquel mi mal cada dia enpeora.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 491."
+        },
+        {
+          "texto_cita": "«Quien más sirviendo empeora, | Es muy gran pena sofrir.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 333. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Fallaron a don Enrique con su dolencia muy grande, e empeoraba de cada dia.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 11 (R. 66. 131 2 )."
+        },
+        {
+          "texto_cita": "«Et trayendo su facienda de esta guisa, ante de poco tiempo llegó su fecho a tal lugar, que también en las maneras y costumbres de su cuerpo como en la su facienda era todo empeorado.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 18 (R. 51. 388 2 )."
+        },
+        {
+          "texto_cita": "«Conviene que non juzguedes a ninguno sinon --- por como vierdes que mejora o empeora su facienda.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 12 (R. 51. 421 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Et debe usar della [de la casa] a buena fe guardándola et non la empeorando nin la confondiendo por su culpa.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 31. 27 (2. 769)."
+        },
+        {
+          "texto_cita": "«La segunda [razón] es quando la cosa sobre que es la contienda es mueble, et el demandado es persona sospechosa et témese dél que la transporná o que la empeorará o la malmeterá.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 9. 1 (2. 461)."
+        },
+        {
+          "texto_cita": "«Nin fagan [los abogados] engaño en ninguna manera que seer pueda, por que la parte que en ellos se fia et cuyos abogados son, pierda su pleyto o se le empeore.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 6. 9 (2. 438)."
+        },
+        {
+          "texto_cita": "«Caerá por ende en la pena a que se obligó, fueras ende si pudiere probar quel ficieran algunt engaño en el pleyto, o que se le empeorara por mengua dél o de su abogado.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 4. 25 (2. 410)."
+        },
+        {
+          "texto_cita": "«Mas si por aventura el demandado mostrase la cosa mueble en juicio empeorada o dañada, pero que non fuese mudada de todo ---»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 2. 19 (2. 364)."
+        },
+        {
+          "texto_cita": "«Si algunt monesterio se dañase o se empeorase por maldat de los monges ---»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 12. 3 (1. 377)."
+        },
+        {
+          "texto_cita": "«Mandamos que sufra el daño que por él le viniere, si por su razon el pleito le empeorare.»",
+          "autor": "Fuero",
+          "referencia_obra": "real , 1. 11. 17 ( O. L. 2. 28)."
+        },
+        {
+          "texto_cita": "«Pero podrie seer que non serie la cosa mudada de todo, e serie enpeorada, asi como a ome siervo quel feziese perder algun mienbro, o a bestia o ave quel feziese alguna cosa porque fuese desconoscida o enpeorada, o si era vaso, e lo demostró machucado, o dotra guisa enpeorado.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 343)."
+        },
+        {
+          "texto_cita": "«Quando enpeora el tiempo son despresciadas las bondades e son presciadas las vilesas.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 12 (Knust, 224)."
+        },
+        {
+          "texto_cita": "«El uenino las uenas que pudo alcanzar, | En lugar de guarir fizolas enpeorar.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2452 (R. 57. 222 2 )."
+        },
+        {
+          "texto_cita": "«Fue las cosas del sieglo el buen omne asmando, | Entendió commo yban todas empeyorando.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 50 (R. 57. 41 1 )."
+        },
+        {
+          "texto_cita": "«Fincaria nuestro pleito mucho empeorado.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 796 (R. 57. 127 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de en , que denota reducción a cierto estado, y peor . Port. empeorar , empeiorar ; cat. empijorar , empitjorar ; fr. empirer .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "En las inflexiones que acentúan la raíz, es forzoso hacer dos sílabas de eo : empe-óra ; no así en las inflexiones que acentúan la terminación: empeo-rára . De uno y otro hay ejemplos arriba. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

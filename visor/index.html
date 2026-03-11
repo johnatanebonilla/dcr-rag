@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diccionario de Construcción y Régimen - Visor Digital</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="estilos_semanticos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:ital,wght@0,400;0,600;1,400&family=Roboto+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>DCR Digital</h2>
+                <p>Estructura Lexicográfica Cuervo</p>
+                
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Buscar palabra..." autocomplete="off">
+                </div>
+                
+                <div class="alphabet-nav" id="alphabetNav">
+                    <!-- Dinámico -->
+                </div>
+            </div>
+            
+            <div class="list-container" id="lemaList">
+                <div class="loading">Cargando léxico...</div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-area">
+            <div id="welcomeScreen" class="welcome-screen">
+                <div class="welcome-card">
+                    <h1>Diccionario de Construcción y Régimen</h1>
+                    <p>Reconstrucción estructural desde la Base de Datos JSON</p>
+                    <div class="stats" id="viewerStats"></div>
+                </div>
+            </div>
+
+            <div id="viewerContent" class="viewer-content hidden">
+                <div class="toolbar">
+                    <div class="toggle-group">
+                        <label class="toggle">
+                            <input type="checkbox" id="checkDef" checked>
+                            <span class="label-text">Acepciones</span>
+                        </label>
+                        <label class="toggle">
+                            <input type="checkbox" id="checkSub" checked>
+                            <span class="label-text">Sub-acepciones</span>
+                        </label>
+                        <label class="toggle">
+                            <input type="checkbox" id="checkEje" checked>
+                            <span class="label-text">Ejemplos</span>
+                        </label>
+                    </div>
+                    <button id="viewRawJson" class="btn-text">Ver JSON</button>
+                </div>
+
+                <article class="entry-card">
+                    <header class="entry-header">
+                        <div class="lema-row">
+                            <h1 id="outLema"></h1>
+                            <span id="outCat" class="badge"></span>
+                        </div>
+                    </header>
+
+                    <div id="outIntro" class="entry-body intro-box"></div>
+                    
+                    <div id="outAcepciones" class="acepciones-list"></div>
+
+                    <div id="outEtim" class="etim-box"></div>
+                </article>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal para JSON Raw -->
+    <div id="jsonModal" class="modal hidden">
+        <div class="modal-content">
+            <header>
+                <h3>JSON Original</h3>
+                <button id="closeModal">&times;</button>
+            </header>
+            <pre id="jsonRaw"></pre>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

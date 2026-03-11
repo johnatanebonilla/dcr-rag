@@ -1,0 +1,524 @@
+{
+  "lema": "DEMANDAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Pedir, rogar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Te demando que me digas ¿cuál loable cosa hay hoy en el mundo, por buena que sea, que el uso della no pueda en mal ser convertida?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 59 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si os cobran afición, | Luego sin comedimiento, | Os demandan casamiento, | Y os meten en tentación.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2, Condic. de las muj. (R. 32. 189 2 )."
+            },
+            {
+              "texto_cita": "«Cuando usa y aprovecha de los vocablos griegos en el mesmo libro que vos habéis dicho y alegado, no cura de demandar perdón.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 105)."
+            },
+            {
+              "texto_cita": "«Sabe que estáis obligada á mirar más y más cuánto vuestro Esposo es mayor, y cuánto más cosas son las que él os demanda.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 104 (2. 175)."
+            },
+            {
+              "texto_cita": "«Si demanda nuestra voluntad es para dárnosla después en el cielo.»",
+              "autor": "",
+              "referencia_obra": "Id. Cartas sueltas (5. 399)."
+            },
+            {
+              "texto_cita": "«Finalmente pon los ojos en todo este mundo, que todo él se hizo por amor para ti, y todo él y cuantas cosas hay en él predican amor, y demandan amor, y significan amor.»",
+              "autor": "",
+              "referencia_obra": "Id. Eucar . 1 (3. 4)."
+            },
+            {
+              "texto_cita": "«Llegó cortés á demandar posada.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 7 (R. 17. 212 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por y un pred.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Demandóla por esposa | Y no salió con su intento.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La gran sultana , 1 ( Com . 2. 61)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Con suj. de cosa, Pedir, requerir ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y con ser tan graves los negocios de los reyes, y que tanto tiempo demandan, no por eso se excusaba el santo rey de tomar tanta parte del mejor tiempo del día para vacar á Dios.»",
+          "autor": "Gran.",
+          "referencia_obra": "Mem. vida crist . 5. 3, § 2 (R. 8. 304 1 )."
+        },
+        {
+          "texto_cita": "«Desde mitad del siglo pasado se dedicaron los gobiernos á extinguir abusos y á plantear reformas que el espíritu del siglo demandaba.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp. del siglo , 1. 5 (5. 17)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "For. En especial, Deducir en juicio ó exponer el actor su acción ó derecho ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de la cosa que se pide.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si demandare castillo, villa, aldea ú otro lugar señalado, bastará nombrarlo diciendo que le corresponde con todas sus pertenencias.»",
+              "autor": "",
+              "referencia_obra": "Febr. novís . 3. 2. 5. 5 (3. 151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si fuere cosa de peso ó medida la demandada, bastará afirmar con juramento que no se acuerda con certeza á cuánto asciende, protestando que en el progreso del pleito lo declarará.»",
+              "autor": "",
+              "referencia_obra": "Febr. novís . 3. 2. 5. 5 (3. 151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con acus. de la persona á quien se hace parecer en juicio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hijo de familias que estuviere en poder de su padre ó abuelo legítimo ó adoptivo, no le puede demandar en juicio, sino es negando serlo ó por alimentos ó mal tratamiento que le haga.»",
+              "autor": "Bolaños",
+              "referencia_obra": ", Cur. filíp . 1. 10. 4 (53)."
+            },
+            {
+              "texto_cita": "«El actor debe seguir regularmente el fuero del reo, y demandarle ante el juez de su domicilio como competente.»",
+              "autor": "",
+              "referencia_obra": "Febr. novís . 3. 2. 5. 6 (3. 151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part . Se usa á menudo como sust. por la persona á quien se pide algo en juicio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si dos demandan á uno por una misma cosa ó por más, está obligado el demandado á responder al que primero le demandó.»",
+              "autor": "",
+              "referencia_obra": "Febr. novís . 3. 2. 5. 17 (3. 155)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Litigantes son los que contienden en juicio: uno es actor, que es el que demanda --- y otro reo, que es el demandado.»",
+              "autor": "Bolaños",
+              "referencia_obra": ", Cur. filíp . 1. 10. 1 (53)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de , en la frase demandar de calumnia , como afianzar de calumnia .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si no lo hice delante de un tribunal demandando de calumnia á sus autores, fue por parecerme villanía atacar judicialmente á personas que estaban sufriendo un proceso criminal por los tales escritos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 256."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Hacer cargo de una cosa ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dios me lo demande, si en ayunas la topases, si aquel día pudieses comer de asco.»",
+          "autor": "",
+          "referencia_obra": "Celest . 9 (R. 3. 41 2 )."
+        },
+        {
+          "texto_cita": "«Si en ello vivo engañado, | Mal os lo demande Dios.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 1 (R. 32. 118 1 )."
+        },
+        {
+          "texto_cita": "«Mal se lo demande Dios | A persona tan errada, | Atrevida y malcriada, | Que á una reina como vos | Vistió de ropa alquilada.»",
+          "autor": "",
+          "referencia_obra": "Id. 1 (R. 32. 126 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Preguntar ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le demandaremos su parecer acerca de los libros que están escritos en castellano.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 16)."
+            },
+            {
+              "texto_cita": "«Le suplicaba ansímesmo que no la mandase quitar su antifaz, ni la demandase cosa de su facienda, fasta que la hubiese fecho derecho de aquel mal caballero.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 26 (R. 1. 319 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans . Con dat. de pers. y por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ten lástima de mí; tenla á lo menos | De aquellas inocentes!... Ahora mismo | Por su padre infeliz me demandaban.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Edipo , 5. 3 (3. 284)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las inflexiones demandudieron , demandudieres formadas sobre las correspondientes de andar .) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Lo qual está asaz copiosamente dicho, si la natura humana inclinada á mal se contentase, y como estómago fastidioso non demandase manjares nuevos que le despierten el apetito para la doctrina.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Glosa de Mingo Revulgo. pról . (Con este ejemplo comprueba el Dicc. Autor. la acepción de Apetecer, desear)."
+        },
+        {
+          "texto_cita": "«Demandaban dádivas á los señores por escrebir semejantes fechos.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 10 (201)."
+        },
+        {
+          "texto_cita": "«E los procuradores demandaron á la reyna é al infante que jurasen que esto no se despendiese salvo en la guerra de los moros.»",
+          "autor": "",
+          "referencia_obra": "Cron. Juan II , 4. 6 (R. 68. 336 1 )."
+        },
+        {
+          "texto_cita": "«Demandóles que le dixesen qué les parescia que debiesse facer. »",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 24 (82)."
+        },
+        {
+          "texto_cita": "«El rey afincadamente demandaba por don Álvaro, tanto que ovo de venir.»",
+          "autor": "",
+          "referencia_obra": "lb . 7 (22)."
+        },
+        {
+          "texto_cita": "«¿Cómo irá á demandar enxemplo de magnanimidad en los Scipiones ó Metellos?»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb . (2)."
+        },
+        {
+          "texto_cita": "«De sus grandes e notables hechos no demandaron premio in gualardon ni riquezas, salvo el renombre ó título de aquella provincia que vencían é conquistaban.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Gener. 1 (R. 68. 697 2 )."
+        },
+        {
+          "texto_cita": "«Demandando el sacramento | Que es manjar de aquella via | Que á los christianos guía | Camino de salvacion.»",
+          "autor": "",
+          "referencia_obra": "Id. Clar. var . 311 ( Rim. inéd . 318)."
+        },
+        {
+          "texto_cita": "«Fue demandada por el rey Hiarba al segundo matrimonio.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 80."
+        },
+        {
+          "texto_cita": "«Nunca yo te demandé cosa que tú non cumpliesses.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 147."
+        },
+        {
+          "texto_cita": "«Tristes males ¿fasta quando | Vos plaze de perseguir | Mis bienes sin recebir | La muerte que vos demando?»",
+          "autor": "Mena",
+          "referencia_obra": ", coplas Al hijo muy claro ( Lab . 104 1 )."
+        },
+        {
+          "texto_cita": "«Implorar es demandar hombre a otro mayor.»",
+          "autor": "",
+          "referencia_obra": "Id. Coron . 50 (22 1 )."
+        },
+        {
+          "texto_cita": "«Demandas causas de la voluntad de Dios et de sus secretos; no pertenesce á mi te lo declarar.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 1 (R. 36. 342 3 )."
+        },
+        {
+          "texto_cita": "«Sy con la fortuna demandé orilla | Por la aspereza del fuerte camino, | Yo pido mercet á Villa Sandino | Que non lo tenga por grant maravilla.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 90. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«La oraçion acabada, | Por las armas demandaron.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI , 784 (R. 57. 501 1 )."
+        },
+        {
+          "texto_cita": "«Sy la demanda fuere rreal, que sea el demandador puesto en la tenencia de la cosa que demanda, et que sea tenudo el demandado de venir purgar la rrebeldia fasta dos meses desde el día que fuer fecho el asentamiento.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Alcalá , año 1348 ( C. de L. y C . 1. 505)."
+        },
+        {
+          "texto_cita": "«Mucho me semeja este omne aquel que nos demandamos.»",
+          "autor": "",
+          "referencia_obra": "Placidas (Knust, 144)."
+        },
+        {
+          "texto_cita": "«El diablo te guerreará por la enbidia e por el pesar que ha de ty porque lo dexaste, e demandará arte e enganno por que te pueda tentar.»",
+          "autor": "",
+          "referencia_obra": "lb . (Knust, 131)."
+        },
+        {
+          "texto_cita": "«Dis: a qui habras casamiento qual tu demanduieres.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 976 (R. 57. 257 2 )."
+        },
+        {
+          "texto_cita": "«Et cuando le aquejaba la fambre, iba demandando por las puertas.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . (R. 51. 424 2 )."
+        },
+        {
+          "texto_cita": "«Dijo que viniera por demandarle una de sus fijas para con que casarse.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 5 (R. 51. 397 1 )."
+        },
+        {
+          "texto_cita": "«Enviaron á decir al conde cuántos fijos de reyes et otros grandes homes la demandaban por casamiento.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 6 (R. 51. 392 1 )."
+        },
+        {
+          "texto_cita": "«Puede demandar á los enfermos tan grant cuantía por los guarescer, que les seria mayor daño que la dolencia que hobieren.»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. de los est . 1. 96 (R. 51. 340 1 )."
+        },
+        {
+          "texto_cita": "«Demandat al prior provincial de los fraires predicadores et á la orden que vos dé confesor tal fraire cual entendieren que cumple para andar en vuestra casa.»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. infin . 1 (R. 51. 266 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Demandáronle á su fija doña Sancha, que gela diese por mujer.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 43 (R. 51. 168 2 )."
+        },
+        {
+          "texto_cita": "«Estonces demandó el conde por Bandoval.»",
+          "autor": "",
+          "referencia_obra": "Conq. de Ultr . 1. 60 (R. 44. 33 1 )."
+        },
+        {
+          "texto_cita": "«Et ssi mandar ffincar los conçeios depues que los llamar que les non demande ffonsadera nin otro pecho ninguno por ello.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Palencia , año 1286 ( C. de L. y C . 1. 96)."
+        },
+        {
+          "texto_cita": "«Nol demandudieron.»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«E desi sopo que era de buen logar, e demandola a su padre e a su madre para casamiento.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 3. 20 (254 1 )."
+        },
+        {
+          "texto_cita": "«Querella habiendo el señor de su siervo nol puede demandar en juicio, mas debe tomar derecho dél castigandol de palabras ó de feridas de manera que non le mate nin le lisie. Mas si aquel siervo fuere de otri, bien puede demandar á su señor por razon dél, et él es tenudo de responder.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 2. 8 (2. 357)."
+        },
+        {
+          "texto_cita": "«Catando todas estas cosas el demandador sabrá mostrar et demandar su derecho como debe ante aquellos que han poderio de facer la justicia dello.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 2, preámb . (2. 352)."
+        },
+        {
+          "texto_cita": "«Otrosi mandamos que si alguna cosa fuere furtada, e alguno la toviere ascondida, non se pueda defender por tiempo que non responda a su dueño cuando quier que ge la demande.»",
+          "autor": "Fuero",
+          "referencia_obra": "real , 2. 11. 2 ( O. L. 2. 54)."
+        },
+        {
+          "texto_cita": "«Escomenzó de dar muy grandes voces, é demandar acorro.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 33 1 )."
+        },
+        {
+          "texto_cita": "«Et de aquel que se trabajare de demandar el saber perfectamente ---»",
+          "autor": "",
+          "referencia_obra": "lb . (R. 51. 11 2 )."
+        },
+        {
+          "texto_cita": "«Haver de demandar algo a los omnes es la muerte pequenna.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 13 (Knust, 260)."
+        },
+        {
+          "texto_cita": "«Los omnes son de dos maneras; o demandador que non falla lo que demanda, o fallador que non cunple lo que falla.»",
+          "autor": "",
+          "referencia_obra": "lb . 2 ( ib . 101)."
+        },
+        {
+          "texto_cita": "«Quando vieres el sabio ó el [filosofo] que fuye de los omnes demandal´ e siguel´, e quando vieres que demanda el a los omnes e los sigue, fuye del.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "( ib . 26)."
+        },
+        {
+          "texto_cita": "«E si algun omne matar el siervo con tuerto, ó si el iuez lo fiziere tormentar, ó matar con tuerto, el sennor quando tornare ge lo puede demandar. »",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 8. 1. 8 (135)."
+        },
+        {
+          "texto_cita": "«E si algun omne, pues que comenzare el pleyto antel rey, ó ante su mandado, non quisiere traer el pleyto é fiziere alguna abenencia con el otra parte, así el que demanda cuemo aquel á quien él demandava, deve pechar cada uno al rey tanto quanto era la demanda.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 2. 5 (26)."
+        },
+        {
+          "texto_cita": "«El iuez, si alguno le demanda razon de lo que judgó antel sennor de la cibdad, ó ante otro iuez ante qui mandare el rey, dévele responder.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 1. 29 (22)."
+        },
+        {
+          "texto_cita": "«Demandó por su monie, don Pelayo llamado.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 389 (R. 57. 401 1 )."
+        },
+        {
+          "texto_cita": "«El rey Alexandre á Poro demandando | Metiós per las azes. »",
+          "autor": "",
+          "referencia_obra": "Alex . 1892 (R. 57. 205 2 )."
+        },
+        {
+          "texto_cita": "«Demandó por el ombre que leuó el mandado.»",
+          "autor": "",
+          "referencia_obra": "lb . 934 (R. 57. 176 1 )."
+        },
+        {
+          "texto_cita": "«Fue don Achilles por todas las terras buscado, | Nunca fincó logal que non fues demandado.»",
+          "autor": "",
+          "referencia_obra": "lb . 388 (R. 57. 159 2 )."
+        },
+        {
+          "texto_cita": "«Demandó que esta cuyta por quera hi venida.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 43 (R. 57. 284 2 )."
+        },
+        {
+          "texto_cita": "«Dixo: non deues, rey, tal cosa demanar, | Que a todos aduze uerguença e pesar.»",
+          "autor": "",
+          "referencia_obra": "lb . 24 (R. 57. 284 1 )."
+        },
+        {
+          "texto_cita": "«Padre, dixo la ninna, en merçed te lo pido, | Esto que te demando luego sea complido.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 324 (R. 57. 50 1 )."
+        },
+        {
+          "texto_cita": "«Commo la ley manda, baptismo demandaron.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 4 (R. 57. 65 1 )."
+        },
+        {
+          "texto_cita": "«Myo Çid por sos yernos demandó e no los falló.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2304 (R. 57. 25 2 )."
+        },
+        {
+          "texto_cita": "«Las puertas de Myo Çid andaualas demandando.»",
+          "autor": "",
+          "referencia_obra": "lb . 1292 (R. 57. 16 1 )."
+        },
+        {
+          "texto_cita": "«Todos demandan por Myo Çid el Canpeador. »",
+          "autor": "",
+          "referencia_obra": "Ib . 292 (R. 57. 5 1 )."
+        },
+        {
+          "texto_cita": "«Por Rachel e Vidas apriessa demandaua.»",
+          "autor": "",
+          "referencia_obra": "lb . 99 (R. 57. 2 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. demandar ; cat. demanar (forma que se halla en el Appoll .); prov. demandar ; fr. demander ; it. demandare , domandare : del lat. demandare . Este verbo, que en el idioma clásico significó Confiar, encargar, se usó en la baja latinidad como sinónimo de mandare en el sentido de Hacer saber el deseo ó voluntad, acepción que construída con subj. , equivale á Pedir, rogar. Verbos declarativos como decir , escribir pasan del sentido de pedir al de preguntar , según la construcción:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le dice que venga»",
+          "autor": "",
+          "referencia_obra": "="
+        },
+        {
+          "texto_cita": "«le pide»",
+          "autor": "",
+          "referencia_obra": ";"
+        },
+        {
+          "texto_cita": "«Le dice que qué tiene»",
+          "autor": "",
+          "referencia_obra": "="
+        },
+        {
+          "texto_cita": "«le pregunta»",
+          "autor": "",
+          "referencia_obra": ". \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

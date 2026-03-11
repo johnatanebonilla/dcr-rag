@@ -1,0 +1,374 @@
+{
+  "lema": "CONSTREÑIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Med. Apretar y cerrar, como oprimiendo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Constreñir las tripas, el vientre.»",
+              "autor": "",
+              "referencia_obra": "Dicc. Autor ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuantas veces se constriñe y aprieta el agua con el demasiado frío, sobreviniendo el calor del sol, se disuelve y desata.»",
+              "autor": "Scío",
+              "referencia_obra": ", Exodo , 4, 21, nota ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Poner en la necesidad de hacer ó dejar de hacer ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al principio á los nuevos amonestan que oren, mas no los constriñen.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4. 12, § 3 (R. 6. 504 2 )."
+            },
+            {
+              "texto_cita": "«Si así os constriñe el amor que nos tenéis, que no queráis alargar el plazo de vuestra venida ---»",
+              "autor": "",
+              "referencia_obra": "Id. Mem . vida crist. 7. 2. 1, § 11, consid . 3 (R. 8. 409 2 )."
+            },
+            {
+              "texto_cita": "«Nunca sus lugares eran grandes, y los mudaban frecuentemente de un sitio á otro, según la necesidad ó el peligro los constreñía.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 285 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nunca más comió carne, si no fue en enfermedad grave, y entonces constreñida por obediencia.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 39 ( Míst . 1. 289)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar lo que por necesidad ha de hacerse.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gran reverencia se le debe á un niño; | En los principios su salud consiste: | Por esto á su observancia le constriño.»",
+              "autor": "",
+              "referencia_obra": "B. Argens. epíst. Dícesme , Nuño (R. 42. 307 1 ). — Pas ."
+            },
+            {
+              "texto_cita": "«Los que están á la guerra dedicados | No son á otro servicio constreñidos.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 1 (R. 17. 5 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por ventura murió algún rey en nuestros reinos, que en su testamento vos dejase por herederos, para que con aquel título nos constriñésedes á ser vuestros vasallos?»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 59)."
+            },
+            {
+              "texto_cita": "«Robarla quiere, y que esto la constriña, | Con gusto acedo ó voluntad sabrosa, | A serle torpe amiga ó dulce esposa.»",
+              "autor": "",
+              "referencia_obra": "VaIb. Bern . 5 (R. 17. 189 2 )."
+            },
+            {
+              "texto_cita": "«Calló por algún tiempo á los comuneros, y aun los constriñó á mezclar sus voces en el coro de alabanzas tributadas á los ministros.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 415. — Pas ."
+            },
+            {
+              "texto_cita": "«Y sin haber cumplido con el sueño, seas constreñido á te levantar.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 6 ( Míst . 3. 138). — Part ."
+            },
+            {
+              "texto_cita": "«Todos ellos dispersos y obligados á huír, los unos por los campos convecinos, los otros constreñidos á encerrarse con Barbarroja en Túnez.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr . inéd . p. 131."
+            },
+            {
+              "texto_cita": "«A veces se ha visto constreñido el poeta á desleír sus pensamientos.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, Trag. esp . (2. 109)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cómo había de permitir que el papa Dámaso le constriñese á que se encargase de algún título, amando tanto su líbertad?»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 3. 6 (197)."
+            },
+            {
+              "texto_cita": "«Los cuales, como fuesen presos y los constriñesen á que sacrificasen, dijeron ---»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 18, § 1 (R. 6. 329 1 ). — Alguna vez omitían los antiguos la prep. ; cosa hoy inadmisible."
+            },
+            {
+              "texto_cita": "«Notoria cosa es cómo esta ave saca sus hijos al sol y los constriñe que miren con los ojos en hito hacia él.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab. 14 (6 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque no hubiese infierno que amenazase, ni paraíso que convidase, ni mandamiento que constriñese, obraría el justo por solo el amor de Dios lo que obra.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 50 ( Míst . 3. 227)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En sentido material se halla usado por Estrechar, contener, forzar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los afectos oprimidos --- dan en desesperaciones, como en rayos las exhalaciones constreñidas entre las nubes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 2 (R. 25. 14 2 )."
+            },
+            {
+              "texto_cita": "«Como lebrel de Irlanda generoso, | Que el jabalí cerdoso y fiero mira, | Rebátase, sospira, fuerza y riñe, | Y apenas le constriñe el atadura.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 2 (R. 32. 19 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es domado | El olmo para cama, y constreñido | Recibe forma en sí de corvo arado.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, Geórg . 1 (4. 446)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Constriñó á los moros que le diesen parias algunos años porque no les ficiese guerra.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 1 (12)."
+        },
+        {
+          "texto_cita": "«La vergüenza que padescia por falta de lo necesario le constriñó salir de su tierra.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 23 (131)."
+        },
+        {
+          "texto_cita": "«El rey Nabucodonosor constriñó á sus mágicos que le dixesen el sueño é le mostrasen la soltura.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 27 (287)."
+        },
+        {
+          "texto_cita": "«Costriñeron al condestable salir de la corte.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 34 (R. 68. 718 2 )."
+        },
+        {
+          "texto_cita": "«No habiendo maestre para ello, ni alguno le costriñendo á aprender, antes defendiéndogelo el marques ---»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 28 (R. 68. 710 2 )."
+        },
+        {
+          "texto_cita": "«¡Tanto las tribulaciones | De guerras los costreñían!»",
+          "autor": "",
+          "referencia_obra": "Id. Clar. var . 174 ( Rim. inéd . 298)."
+        },
+        {
+          "texto_cita": "«Este rey fue costreñido | A fazer renunciacion | Del reyno.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 158 ( Rim. inéd . 295)."
+        },
+        {
+          "texto_cita": "«La fee, la verdad é fortaleza del mundo era constreñida en ti sola.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 485."
+        },
+        {
+          "texto_cita": "«Non le constriñe por que él peresciesse.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 575. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Les mandamos que costriniesen a algunos omnes de los mas rricos del lugar.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Alcalá , año 1348 ( C. de L. y C . 1. 602)."
+        },
+        {
+          "texto_cita": "«Le pedía por merced que le contriñiese que guardase el pleito.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 14 (R. 66. 149 1 )."
+        },
+        {
+          "texto_cita": "«Que mande e costringa que vengan tales alçadas de cada vno destos dichos logares a aquellas ciudades e villas a que ssolian venir.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid , año 1325 ( C. de L. y C . 1. 382)."
+        },
+        {
+          "texto_cita": "«Que los costringan en quanto les ffallaren fasta que lo pechen assi commo dicho es.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid , año 1307 (C. de L. y C . 1. 188). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Constringua»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Començó de constreñir la tierra et fazer mucho mal.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 3. 9 (222 2 )"
+        },
+        {
+          "texto_cita": "«Debe mandar escrebir las preguntas que ficieron antél, et enviarlas seelladas con su seello al otro judgador --- rogandol que costringa al señor del pleyto et le faga venir ante sí.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 5. 22 (2. 430)."
+        },
+        {
+          "texto_cita": "«Ante decimos que debe costreñir al demandado que responda llanamente sí ó non á la demanda quel facen.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 3. 10 (2. 389)."
+        },
+        {
+          "texto_cita": "«Debe rogar al obispo ó al perlado que hobiere, que él de su oficio los costringa que guarden aquella buena costumbre.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 19. 9 (1. 451)."
+        },
+        {
+          "texto_cita": "«Costreñir puede el obispo algunas vegadas, si quisiere, á los clérigos de su obispado que reciban órdenes.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 6. 30 (1. 273)."
+        },
+        {
+          "texto_cita": "«Et si non se quisieren avenir en dos omes bonos, que resciban la prueba de la sospecha, aquellos alcalles mismos costringanles fasta que se avengan en ellos.»",
+          "autor": "Fuero",
+          "referencia_obra": "real , 1. 7. 9 ( O. L. 2. 20)."
+        },
+        {
+          "texto_cita": "«El judgador lo deve costrenir dende adelante que obedesca a su juyzio sin alçada.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 467)."
+        },
+        {
+          "texto_cita": "«El cuydado e la quexedumbre costrinnen los coraçones assi como otras enfermedades de los cuerpos.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 17)."
+        },
+        {
+          "texto_cita": "«Et constrínganlo aquellos pesquesidores fata que lo peche.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Molina , año 1152 ( Llor. Prov. Vasc . 4. 133)."
+        },
+        {
+          "texto_cita": "«Nos nos membramos que, con bien é con derecho, en otro tiempo nos constrinnestes que ficiesemos pleyto et escripto por mandado del rey Cintilla.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 2. 16 (183)."
+        },
+        {
+          "texto_cita": "«El enganno de algunos nos constrinne muchas vezes que fagamos nueva ley.»",
+          "autor": "",
+          "referencia_obra": "Ib . 7. 5. 7 (130)."
+        },
+        {
+          "texto_cita": "«Nenguno non sea costrenido por vender su siervo, si non quisiere.»",
+          "autor": "",
+          "referencia_obra": "Ib . 5. 4. 18 (88)."
+        },
+        {
+          "texto_cita": "«En tal manera que el príncipe por fuerza é por voluntad constringa el pueblo de guardar las leyes.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 1. 2 (8)."
+        },
+        {
+          "texto_cita": "«La nuestra companna ye costrenida por derecho de facer tar cosa, que respondamos á bien facer del rey.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb . 17 (XIII)."
+        },
+        {
+          "texto_cita": "«Por emendar estas cosas non nos costrinne razon solamientre.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 4 (V; *costrenne, constringe, constrenge)."
+        },
+        {
+          "texto_cita": "«Sea costregnido de pechar el doblo de aquella cosa mal tomada á aquella eglesia.»",
+          "autor": "León",
+          "referencia_obra": ", año 1208 ( C. de L. y C . 1. 49)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. costringir , constranger ; cat. constringir , constrenyer ; prov. costreigner , contranher , contrenger , contraigner ; fr. contraindre ; it. constringere , costringere , constrignere , costrignere : del lat. constringere , compuesto de cum , con, intensivo, y stringere , apretar, estrechar. El siguiente pasaje comprueba la existencia de constringir en el siglo XVI:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pero como Egipto constringiese por fuerza al dicho Dánao para que le diese sus hijas para que casasen con sus hijos, y no pudiese ál hacer ---»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ", Lab . 63 (24 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: constriñ-o , es , e , en ; constriñ-ó , eron ; constriñ-a , as , a , amos , áis , an ; constriñ-ese , eses , ese , ésemos , eseis , esen ; constriñ-era , eras , era , éramos , erais , eran ; constriñ-ere , eres , ere , éremos , ereis , eren ; constriñe tú ; constriñendo . Nótese que las terminaciones que en partir empiezan con i no acentuada ( part-ió , part-iera ), en constreñir la pierden, por hallarse embebida en la ñ . El subj. constringa , usado por nuestros mayores, debe explicarse más bien como forma tradicional, representante del lat. constringam ( cp. crezca , conozca ), que como formación nueva en que la g hubiera nacido de la palatal, según lo parece en tenga = port. tenha , = * tenya = lat. teneam ; valga = valla = *valya = lat. valeam . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

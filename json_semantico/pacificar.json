@@ -1,0 +1,299 @@
+{
+  "lema": "PACIFICAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Restablecer el orden alterado en un país ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empero Tirante, como virtuoso capitán, pacificó todo el campo y quiso que el despojo fuesse nuestro.»",
+              "autor": "",
+              "referencia_obra": "Tirante el Blanco, 2 (Cl. C. 189. 277). X"
+            },
+            {
+              "texto_cita": "«Era sobrino hijo de hermano de Gasca obispo de Sigüenza, que venció en una batalla a los Pizarros y pacificó el reino del Perú.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. (Cl. Castal. 22. 164). X"
+            },
+            {
+              "texto_cita": "«Que Apolo te ha dicho a ti | Y mandado publicar, | Que para pacificar | El campo Andronio y a mí | Hagan sacrificio luego.»",
+              "autor": "Lope",
+              "referencia_obra": ", La amistad pagada , p. 127 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«No viene assí don García, | Ni plata intenta buscar, | Que viene a pacificar | Su bárbara rebeldía.»",
+              "autor": "Fdz. Gómez",
+              "referencia_obra": ", Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«Llegó [el general Mina a Cataluña]; organizó y disciplinó su ejército, pacificó la provincia.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .). X"
+            },
+            {
+              "texto_cita": "«Respondiole respetuosamente el Duque que la vida de S. A. era harto preciosa para exponerla en aquella empresa: que él iba delante sólo para pacificar los Estados, a fin de que pudiera luego S. A. asentar allí los pies en terreno firme.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Jeromín , 2. 8 (p. 197). X"
+            },
+            {
+              "texto_cita": "«Pedrarias envió a Francisco Hernández de Córdoba | \"Al Estrecho Dudoso\" | Con caballos ballesteros, a conquistar y pacificar I | Las tierras de Nicaragua, y descubrir otras... | Luque, Pizarro y Almagro pagaron los barcos.»",
+              "autor": "Cardenal",
+              "referencia_obra": ", Estrecho dudoso , 9 (p. 75)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en , para indicar el lugar. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su nombre solo fue vitoria en cuanto | Reina la luna en el mayor turbante; | Pacificó motines en Brabante: | Que su grandeza sola pudo tanto.»",
+              "autor": "Quev.",
+              "referencia_obra": "Poemas escogidos (Cl. Castal. 60. 143)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hecha con poca detención esta diligencia, pasó de el ejército a Guastepeque, lugar populoso que dejó pacificado Gonzalo de Sandoval.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Dio el mando de la esquadra, y de las naves francesas que había mandado juntar del Poitou, Santoña y las demás provincias pacificadas a D. Bruto el mozo, con orden de marchar a Vannes quanto antes, y él tomó también con el resto de la infantería la vuelta de la misma ciudad.»",
+              "autor": "Valbuena",
+              "referencia_obra": ", tr. Los coment. de Julio César , p. 106. X"
+            },
+            {
+              "texto_cita": "«Se anunció por el monarca a sus pueblos que los escándalos estaban ya atajados y suprimidos, pacificados los reinos, y todas las cosas seguras en la manera que cumplía al servicio de Dios y del rey.»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el siguiente ejemplo, Pedir paz. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con señales de cohortes en las unas manos y las otras hacia arriba, como quien se rinde a pacificar.»",
+              "autor": "",
+              "referencia_obra": "A. Agustín, Diál. de Medit . pl. 102 (Dicc. Autor )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Reconciliar a los que están discordes o enemistados ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La voluntad sancta los pacifica y sossiega, y cresce ella cada día más en vigor, y cresciendo siempre entrañándose de contino en ella más los buenos y justos desseos.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Príncipe (Cl. C. 33. 184). X"
+            },
+            {
+              "texto_cita": "«Valor de tu piedad, señora, ha sido | Pacificar aquestos dos extremos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Al pasar del arroyo, p. 270 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«Nada se pierde con esto, y en cambio se gana un resultado infinitamente apreciable y provechoso, pacificando a la sociedad y cegando una fuente de odios y disensiones.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños, 1 (p. 222)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es [Jesús] Príncipe de la paz, pacificándonos con Dios y con los hombres.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 2. 21 (1. 360)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando el fuego de adentro es grande, por recio que sea el corazón distila, como hace un alquitara, y bien entenderéis cuando vienen las lágrimas de aquí, que son más confortadoras y pacifican, que no alborotadoras, y pocas veces hacen mal.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 6. 6 (Cl. C. 1. 169)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Con a, para indicar la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Señor —dijo María, | En tanto que el Apóstol compañero | Contemplaba el afán de una colmena | Debajo del alero—: | Señor, a tu presencia | Mi ser se pacifica, como un valle | Bajo la tarde; tu mirada mansa | Sólo me dice que contemple y calle.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poétic. 1. (p. 94)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ansí en llegando a este punto el sentido sirve a la razón y se pacifica con ella.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3. 1 (3. 324). X"
+            },
+            {
+              "texto_cita": "«Se pacifica luego el alma con Dios y cessa la renzilla que antes desto avía entre el entender y el querer.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (Cl. C. 33. 190)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque luego, como convencidas de cuanto les es útil y hermosa la paz, se comiençan ellas a pacificar en sí mismas y a poner a cada una de sus partes en orden.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. (3. 153)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Prnl. Con dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando [Dios] se nos pacifica, y de enemigo se amista, y se desenoja y ablanda, no se muda El, ni tiene otro parecer o querer de aquel que tuvo desde toda la eternidad sin principio.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2. 3 (3. 210)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Sosegarse o aquietarse lo que está alterado ( prnl .). X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si no se pacifican los vientos, no podremos salir a la mar.»",
+          "autor": "Dicc. Planeta",
+          "referencia_obra": "."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pacificar la tierra por armas: paco, -as. »",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. X"
+        },
+        {
+          "texto_cita": "«Pacificar al sañudo: placo, -as, -aui. »",
+          "autor": "",
+          "referencia_obra": "Id. ib. X"
+        },
+        {
+          "texto_cita": "«Pacificar, hacer paz: pacifico, -as, -aui. »",
+          "autor": "",
+          "referencia_obra": "Id. ib. X"
+        },
+        {
+          "texto_cita": "« Pacisci fazer entera paz y pacificar: primero se comiença el tracto del pacificar y después se concluye la paz.»",
+          "autor": "Pal.",
+          "referencia_obra": "Univ. vocab. 334b. X"
+        },
+        {
+          "texto_cita": "«Pacificar es el que pacifica y es árbitro y medianero en poner concordia entre los litigantes o contendientes.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 334b. sb. voc. pacificador. X"
+        },
+        {
+          "texto_cita": "« Fedus --- foedus se dixo porque quando se pacificaua la guerra matauan vn animal para sacrificar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 156d. X"
+        },
+        {
+          "texto_cita": "« Compescere es pacificar y costriñir y arredrar y tener en vn mismo pasto.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 87d. X"
+        },
+        {
+          "texto_cita": "«A Leriano mandole el rey que no entrase por estonces en la corte hasta que pacificase a él y a los parientes de Persio, lo que recibió a graueza porque no podría ver a Laureola.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Cárcel de amor (Cl. C. 133. 184). X"
+        },
+        {
+          "texto_cita": "«E puestos en las verdaderas [vfías] que deuían lleuar, les amansó, e pacificó los escándalos que estauan aparejados a la destruición de la tierra.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 23 (Cl. C. 49. 132). X"
+        },
+        {
+          "texto_cita": "«Seyendo moço, el marqués su padre le enbió a la su casa de la Vega por pacificar la tierra de las Asturias de Santillana e la librar de algunos tiranos que gela ocupauan.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 9 (Cl. C. 49. 79). +"
+        },
+        {
+          "texto_cita": "«Si para se pacificar era necesario que los de la una parte e de la otra se iuntasen en algún logar para platicar en las diferencias que tenían, siempre se confiaua la saluaguarda --- a este caballero.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 3 (Cl. C. 49. 32). X"
+        },
+        {
+          "texto_cita": "«E para pacificar estas diferencias se trataron vistas entre él y el rey don Lois de Prancia, que como árbitro se interpuso a las pacificar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1 (Cl. C. 49. 16). X"
+        },
+        {
+          "texto_cita": "«Porque cosa es digna de loor vencer con fortaleza e pacificar con humanidad.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras, 26 (Cl. C. 99. 135). X"
+        },
+        {
+          "texto_cita": "«Vimos sin armas a Otaviano, | Que ovo los tienpos assí triunfales | E tanto pacificó el mundo de males, | Que tovo çerradas las puertas de Jano.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. (Cl. C. 119. 112)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. pacificare ‘tratar de la paz, concluir, restablecer la paz’ compuesto de pacem y facere. Cat. y port. pacificar, fr. pacifier, it. pacificare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Cambia la c en qu ante e: pacifique, pacifiquemos, pacifiquéis. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

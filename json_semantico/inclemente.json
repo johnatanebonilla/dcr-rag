@@ -1,0 +1,124 @@
+{
+  "lema": "INCLEMENTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Riguroso, duro, insensible a la compasión.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por ventura sus bocas inclementes | Nos devorarán vivos, | O nos llevarán a morir cautivos.»",
+              "autor": "Lope",
+              "referencia_obra": ", salmo 123 ( Obr. suelt . 1. 367)."
+            },
+            {
+              "texto_cita": "«Venía como despechado y enfurecido, afeando con el ceño de la ira la misma fiereza del ídolo inclemente, y traía sobre sus adornos ceñida una soga de esparto.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 8 (R. 28. 277 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estáis a mis tormentos inclemente, | Ingrata, esquiva, dura, desdeñosa.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, e l eg . 4 (R. 32. 264 2 )."
+            },
+            {
+              "texto_cita": "«A injusta empresa el cielo es inclemente.»",
+              "autor": "",
+              "referencia_obra": "Id. 2, son . 99 (R. 32. 325 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y así consigo mismo es inclemente | Pues de su gloria, que es lo más, se olvida.»",
+              "autor": "Herr.",
+              "referencia_obra": "son. El lamentable (R. 42. 277 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con contra . En comparativo, con valor ponderativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Debiste ser del hado, | Ya contra ti tan inclemente y fiero, | Delicia dulce y el amor primero.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A la exped. españ. para propagar la vacuna (R. 19. 4 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dicho de los elementos naturales, Hosco, duro, desagradable.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cazador --- | Sufre el cierzo inclemente, | La nieve endurecida.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "canc. Alivia sus fatigas (R. 42. 260 1 )."
+            },
+            {
+              "texto_cita": "«Así en el yerto risco peñascoso | Del inclemente Cáucaso se extiende | A roer el pecho el escultor curioso | El buitre horrible que sobre él desciende.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 12 (R. 17. 276 1 )."
+            },
+            {
+              "texto_cita": "«Si de una parte la furia de aquel elemento amenaza a todas horas las poblaciones que se le acercan, por otra los altos precipicios y las playas inclementes que le rodean --- dificultan su comunicación.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 3ª clase (R. 50. 130 2 )."
+            },
+            {
+              "texto_cita": "«Buscando van el Pórtico, el Liceo, | Entre malvas y zarzas inclementes.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell . (R. 63. 424 2 )."
+            },
+            {
+              "texto_cita": "«No hay perdón al rendido: a hierro y fuego | Destrúyense las haces inclementes.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Zaragoza (1. 83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En comparativo, con valor ponderativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gutierre sin duda es | El cruel que anoche hizo | Una acción tan inclemente.»",
+              "autor": "Cald.",
+              "referencia_obra": "El médico de su honra , 3. 18 (R. 7. 364 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. inclemens , -entis . Del privativo in y clemens , -entis ‘suave, apacible, sosegado’. Cat. fr. y prov. inclement , it. inclemente. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

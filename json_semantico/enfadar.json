@@ -1,0 +1,437 @@
+{
+  "lema": "ENFADAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Molestar, causar disgusto o tedio ( trans .). Puede llevar sujeto de persona o cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A las veces, lo que mucho apetecemos nos enfada.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 18. 16 (R. 30. 29 1 )."
+            },
+            {
+              "texto_cita": "«Él va encantado en esta carreta, no por sus culpas y pecados, sino por la mala intención de aquellos a quien la virtud enfada y la valentía enoja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 47 (R. 1. 388 1 )."
+            },
+            {
+              "texto_cita": "«Merecía [vuestra merced] la misma pena que vuestra merced dice que da a los libros cuando los lee y le enfadan.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 49 (R. 1. 393 2 )."
+            },
+            {
+              "texto_cita": "«Buenos señores, cuan encarecidamente puedo, os suplico que no interrumpáis un razonamiento que quiero haceros, hasta que veáis que os disgusta y enfada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 27 (R. 1. 463 1 )."
+            },
+            {
+              "texto_cita": "«Enfadóme la vida estrecha de la aldea y el desamorado trato de mi madrastra: dejé mi pueblo.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 3 (R. 1. 135 1 )."
+            },
+            {
+              "texto_cita": "«Por vida de vuesa merced, madre mía, que me dé compañera que me entretenga y no enfade.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6 (R. 1. 171 1 )."
+            },
+            {
+              "texto_cita": "«Ni el andar a pie le cansaba, ni el frío le ofendía, ni el calor le enfadaba.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8 (R. 1. 183 1 ). +"
+            },
+            {
+              "texto_cita": "«Estudien, lean, aprendan algo de virtud; que no ha de ser todo congraciarse con el señor, derribando al uno, desacreditando al otro, y amenazando a aquel, y enfadando a todos.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 1 (Cl. C. 43. 133). +"
+            },
+            {
+              "texto_cita": "«Sabe Dios cuántas veces me pesó de haber dejado la compañía del hablador, cuando hablara mucho y me enfadara, mas al fin no me pusiera en el peligro en que estuve.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 20 (Cl. C. 43. 246) ."
+            },
+            {
+              "texto_cita": "«Callad, que vive Dios que ya me enfada | Tan cansada y tan vil descortesía.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El rey D. Pedro en Madrid, 1. 6 (R. 5. 594 3 )."
+            },
+            {
+              "texto_cita": "«Jamás el oro enfadó a nadie ni dio disgusto.»",
+              "autor": "Quev.",
+              "referencia_obra": "Casa de locos (R. 23. 355 1 )."
+            },
+            {
+              "texto_cita": "«De día me agrada esta celosía, y de noche me enfada.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 3. 5 ( Obr. suelt. 7. 217) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el instrumento. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que enfada con sus visitas a un sano ¿qué hará a un enfermo?»",
+              "autor": "",
+              "referencia_obra": "Feijoo , Teatro crít. (ed. 1739, t. 7, p. 272)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Siendo sujeto de una prop. infinit.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eso haré yo de gana, respondió Dorotea, si es que no os enfada oír lástimas y desgracias. No enfadará, señora mía, respondió D. Quijote.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 30 (R. 1. 333 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su dulzor [ de este fruto] nunca enfada.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 39 (2. 287)."
+            },
+            {
+              "texto_cita": "«Me ha dado gusto que el autor de la historia haya hablado de mí de manera que no enfadan las cosas que de mí se cuentan.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 3 (R. 1. 411 2 )."
+            },
+            {
+              "texto_cita": "«Yo me recuesto, dijo el alférez, en esta silla, en tanto que vuesa merced lee, si quiere, estos sueños o disparates, que no tienen otra cosa de bueno, si no es el poderlos dejar cuando enfadan.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 11 (R. 1. 226 2 )."
+            },
+            {
+              "texto_cita": "«Un manjar a la contina | Enfada, y un solo objeto | A los ojos del discreto | Da disgusto y amohina.»",
+              "autor": "",
+              "referencia_obra": "Id. Pedro de Urdemalas, 3 ( Com . 2. 285)."
+            },
+            {
+              "texto_cita": "«Suele decirse: la traición contenta, pero el traidor enfada.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. 1. 14 (R. 1. 580 1 ). +"
+            },
+            {
+              "texto_cita": "«Profesaste que el truhán | No ha de enfadar, y tú enfadas.»",
+              "autor": "Lope",
+              "referencia_obra": ", La inocente Laura, 3. 3 (R. 52. 491 2 )."
+            },
+            {
+              "texto_cita": "«Díjole el viejo con una voz muy honrada: Idos a enfadar a otra parte, que luego vendréis.»",
+              "autor": "Quev.",
+              "referencia_obra": "Visita (R. 23. 342 1 ). +"
+            },
+            {
+              "texto_cita": "«Tiene [la pupusa ] un profundo olor que a veces enfada.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 4. 65 (R. 91. 190 1 ). +"
+            },
+            {
+              "texto_cita": "«La chuquicanlla es una yerba --- que se levanta del suelo como cuatro dedos y echa de sí un olor que no enfada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 4. 73 (R. 91. 191 2 )."
+            },
+            {
+              "texto_cita": "«Por más que Apolo se me muestre amigo, | Si no salgo de mieses y gavillas, | Ha de enfadar en su barbecho el trigo.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro, 2 (51). — Con la prep. con , para indicar la causa."
+            },
+            {
+              "texto_cita": "«Señor caballero, si tiene algo que darnos, dénoslo ya, y vaya con Dios, que ya enfada con tanto querer saber vidas ajenas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 22 (R. 1. 304 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sí señora, y ya me tiene enfadada y aburrida.»",
+              "autor": "Torres Villarroel",
+              "referencia_obra": ", Sueños morales (en Obras, ed. 1794, t. 9, p. 312)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con el sentido intrans. de Sentir disgusto, tedio o aburrimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se ponen [estas siete oraciones], para que con este número de siete pueda el hombre cumplir, si quisiere, con los siete días de la semana, teniendo para cada día su oración, por no enfadarse rezando una mesma oración cada día.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 7. 2. 1, § 11 (R. 8. 399 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un compl. precedido por de o con , para indicar el objeto que produce el disgusto o tedio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchas veces, deseando mucho una cosa, cuando la tienen en la mano, fingen enfadarse de ella y que no la quieren.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares, 5. 4 (4. 85)."
+            },
+            {
+              "texto_cita": "«Creo se enfadará vuesa merced de la larga relación que he dado deste monasterlo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 36 (R. 53. 113 1 )."
+            },
+            {
+              "texto_cita": "«Ansí como se pagan presto de lo que ven, ansí se enfadan de ello con facilidad.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 5 (1. 78)."
+            },
+            {
+              "texto_cita": "«¿Qué hizo? ¿Enfadóse por aventura de un negocio tan enredado, y apartó su cuidado de él enfadándose?»",
+              "autor": "",
+              "referencia_obra": "Id. Nomb. 2, Brazo (3. 155)."
+            },
+            {
+              "texto_cita": "«Los israelitas se enfadaron del maná, con ser suavísimo, por ser siempre el mismo.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. introd. 9 (1. 35)."
+            },
+            {
+              "texto_cita": "«Porque podría ser que, al tiempo que ellos llegasen, estuviese ella rastrillando lino o trillando en las eras, y ellos se corriesen de verla, y ella se riese y enfadase del presente.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 25 (R. 1. 315 2 )."
+            },
+            {
+              "texto_cita": "«Y en esto de las cortesías no tenemos de que enfadarnos.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 17 (R. 18. 413 2 )."
+            },
+            {
+              "texto_cita": "«Se introdujo --- para que descansasen los cantores y músicos de su continua fatiga y los oyentes no viniesen a enfadarse de tan largo canto.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Poét. 3. 9 (2. 149). x"
+            },
+            {
+              "texto_cita": "«Sería desgracia que esta ave nocturna, volando por los caminos de la sabana y enfadándose con las claridades del amanecer, se topara de repente con aquella mole de canastas que ya sabemos.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 227). — Con de seguida de una prop. infinit."
+            },
+            {
+              "texto_cita": "«¿Cuál será aquella hermosura que este Señor ab eterno siempre está mirando y eternalmente mirará, sin jamás enfadarse de miralla, sino antes recebiendo con esto tan incomprehensible alegría, que todo cuanto hay criado y puede criar es nada en comparación della?»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2, 14, consid. 2 (R. 8. 480 2 )."
+            },
+            {
+              "texto_cita": "«Dejemos esto por Dios, que ya rne enfado de impugnar necedades.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Epíst. crít. parenét. (6. 360). — Con de + prop. subj."
+            },
+            {
+              "texto_cita": "«Dale a entender que se enfada | De que siga tal empresa.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1 , Serm. amor. (R. 32. 150 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. Con un compl. precedido por de, para indicar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuentan algunos que, enfadada [el águila ] del trabajo de la criación dellos [de sus hijos ] , despide uno del nido.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 1. 17 (R. 6. 226 2 )."
+            },
+            {
+              "texto_cita": "«Mas, hecho el cortesano a diferente | Pasto, de estos manjares enfadado, | Los fue probando con soberbio diente.»",
+              "autor": "Fern.",
+              "referencia_obra": "3. 177). +"
+            },
+            {
+              "texto_cita": "«Pagó por nosotros, y salimos del pueblo para el puerto, enfadados del término del ermitaño y de ver que no habíamos podido quitarle el dinero.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 10 (Cl. C. 5. 136). — Con de + infinitivo. RAE"
+            },
+            {
+              "texto_cita": "«¡Oh Señor, y qué cansado y enfadado estoy de vivir!»",
+              "autor": "J. de los Ángeles",
+              "referencia_obra": ", Obr. míst. (NBAE. 20. 337 1 ). x"
+            },
+            {
+              "texto_cita": "«Así continuó el diálogo: el señor Malespina soltando unas bolas como templos, y mi amo oyéndolas con santa calma, pareciendo unas veces enfadado y otras complacido de escuchar.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar, 7 (p. 70)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Irritar, enojar, enfurecer ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este morir viviendo noche y día ansí me enfada ya, que sin respeto | Las riendas soltaré a la lengua mía.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 10 (1. 181). +"
+            },
+            {
+              "texto_cita": "«Y la mujer, recelando una gran pesadumbre, se llegó a él, y le enfadó tanto, que dijo ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 17 (Cl. C. 5. 204)."
+            },
+            {
+              "texto_cita": "«Ya has visto | Que lo sé todo, y que es fuerza, | No siendo yo ningún tonto, | Que esto me enfade y, me duela.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña, 3. 15 (R. 2. 354 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En lo que ha dicho no hallo motivos de enfadarme, sino de reír.»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos, 1. 1 (R. 2. 445 2 ). +"
+            },
+            {
+              "texto_cita": "«¿Promete usted secreto | Sobre el paso que ahora doy, | Y no enfadarse, aunque voy a hablar muy claro?»",
+              "autor": "Bretón",
+              "referencia_obra": ", El pelo de la dehesa, 4. 8 (Cl. C. 92. 213)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No ha un instante que conmigo se enfadó, sobre querer | Ensalzar, siendo mujer, | Nuestro mayor enemigo.»",
+              "autor": "Lope",
+              "referencia_obra": ", La vengadora de las mujeres, 2 . 4 (R. 41. 515 3 )."
+            },
+            {
+              "texto_cita": "«Hernán Cortés se enfadó con él, dejándose llevar del celo de la religión, y le volvió las espaldas con algún desabrimiento.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Mej. 2. 12 (R. 28. 247 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Enfadóse de la réplica; llegaron a descomponerse y aun a las manos.»",
+              "autor": "",
+              "referencia_obra": "Barrionuevo, Avisos (EE. CC. 95. 42)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El otro, que ignora lo que ha sucedido, no sabe qué decirle, ni halla manera de justificarse; enfádanse los dos, y se sacuden una gran paliza.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. catál. 108 (R. 2. 204 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Y a todas estas, ni una sonrisa, ni un salto, ni una monada ---, ni fingirse enfadada para reírse después, ni una disputilla, ni siquiera un pescozón con su blanda manecita!»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar, 5 (p. 51)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el objeto del enojo. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo qual nos dexó aduertido Persio en sus Sátyras, pues, enfadado con estos necios presumidos de copete ---, dixo ---.»",
+              "autor": "",
+              "referencia_obra": "Ximénez Patón, Disc. Tufos, fol. 1 vº."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de + prop . infinit.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi amo, enfadado de oírme, con un grueso palo me amenazó, que, si no callaba, me maltrataría.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 2 (R. 1. 123 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En superlativo. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«José había llamado varias veces por teléfono para preguntar por su hermanita, y parecía muy enfadado.»",
+              "autor": "Laforet",
+              "referencia_obra": ", Isla demonios, p. 236."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la forma enhadar. ). Siglo. XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Enhadar es lo mesmo que enhastiar.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. — Siglo XIV: RAE"
+        },
+        {
+          "texto_cita": "«Do no ay salud, si todas las cosas aya en abundancia, et los bienes sobren y las riquezas excedan, todo es poco, todo enoja y en fada.»",
+          "autor": "",
+          "referencia_obra": "Sevillana medicina de J. Aviñón (ed. 1545, fol. 2 vº). — Siglo XIII: RAE"
+        },
+        {
+          "texto_cita": "«En dubda era si se enfadaríe el rey Minos e se yríe.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Gen. estoria, 2ª pte. 1 (ed. 1947, p. 410 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Posiblemente, como nota Corominas (DCEC sb. voc. ), se trata de un gallego-portuguesismo derivado de in y fat ( u ) us , 'soso', 'insípido'. Ello parece demostrarlo, en primer lugar, la conservación de la f (la forma enhadar , que hallamos en Nebr., no sería más que una castellanización), y, por otro lado, la mayor frecuencia de empleo en portugués medieval frente al castellano de esa época. Gall. y port. enfadar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

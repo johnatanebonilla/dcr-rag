@@ -1,0 +1,26 @@
+{
+  "lema": "INFESTO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj. Infectado. — α ) «Funesta peste eternamente sopla | Dentro de la infeliz Constantinopla --- | Óyense por las calles los profundos | Suspiros de los míseros infestos.» Arriaza , epíst. 3 (R. 67. 74 2 ). — β ) Poét. Dañoso, perjudicial (poco usual). X «Ni de otra luz se valían los ministerios náuticos que del infesto resplandor de los ardientes relámpagos.» Pellic. Argen . 2 (1. 1). «La hermana del hermano | Bebe el hálito infesto, y al sepulcro | Abrazados descienden.» M. de la Rosa , Zaragoza (1. 86). — α α ) En grado superlativo. «Sólo diré que su ignorante testa, | Animada de torpe y brutal mente, | Al mundo racional le es muy infesta.» J. Pitillas , sát. 1 (R. 61. 93 1 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estimaríamos según lo que antes de agora vos habemos escrito, que manifiesta vos fuese nuestra voluntad e propósito en lo que entendemos facer, e seguir para el beneficio e reparo de vuestros trabajos, e pacificación, e reposo de los infestos, e crudos actos de guerra en que érades puestos.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1457 (R. 19. 484 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. infestus ‘dañoso’. It. infesto. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

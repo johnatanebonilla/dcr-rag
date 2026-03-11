@@ -1,0 +1,399 @@
+{
+  "lema": "AFINAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer fino, sutil ó delicado ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Corona en puntas la dorada esfera | Do el pájaro real su vista afina.»",
+          "autor": "Góng.",
+          "referencia_obra": "son . 64 (R. 32. 434 2 )."
+        },
+        {
+          "texto_cita": "«Esta diferencia de pastos produjo la trashumación, natural é insensiblemente establecida, no para afinar las lanas, sino para conservar y multiplicar los ganados.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Ley agraria, 1ª clase (R. 50. 97 2 )."
+        },
+        {
+          "texto_cita": "«Decía que luégo que fuese leída [la carta], sin dilación ni aun para afinar á la segur el filo, me cortasen la cabeza.»",
+          "autor": "Mor.",
+          "referencia_obra": "Hamlet, 5. 4 (R. 2. 545)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á lo moral.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Afinar la razón, el juicio, la experiencia.»",
+          "autor": "Terreros",
+          "referencia_obra": ", Dicc ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Pulir, civilizar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El trato con gente principal no había afinado mucho sus modales [de Mina] ni corregido su lenguaje.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 463."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Así es como se adquieren el gusto y tino en las artes, --- el buen tono en la conversación, ajeno de aquella rusticidad escolástica y pedante que suelen tener los estudios cuando se siguen en pueblos no suficientemente concurridos ni afinados.»",
+              "autor": "Quint.",
+              "referencia_obra": "Disc. en la Univ. Central, nota 1 (R. 19. 198 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Refl. Despabilarse, avivarse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Allí me afiné con los otros ministros y sirvientes de casa.»",
+          "autor": "Alemán",
+          "referencia_obra": ", Guzmán, 1. 2. 6 (R. 3. 227 2 )."
+        },
+        {
+          "texto_cita": "«Los necios se afinan con las burlas que se les hacen.»",
+          "autor": "Terreros",
+          "referencia_obra": ", Dicc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Purificar ( trans .). — Refl.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Deste primer seno [ó ventrículo del corazón] va al segundo, donde aun más se afina, y de sangre venal se hace sangre arterial.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 1. 26, § 2 (R. 6. 251 2 )."
+        },
+        {
+          "texto_cita": "«Una ampolla de vidrio cristalina | Que el perfecto barniz guarde, distinta | De otra do se conserva y do se afina | Olio con que más cómodo se pinta.»",
+          "autor": "",
+          "referencia_obra": "Céspedes, Pintur. 1 (R. 32. 363 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, tratándose de los metales, Purificarlos separando la escoria ó mezcla en el crisol ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El macizo metal con arte extraño | Fundía otra cuadrilla y le afinaba.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd. (R. 46. 32 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En Hornachos solía fundirse y afinarse el material que se hurtaba en las minas del rey.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 2, p. 29."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Granos y terrones deste metal se hallaban por los campos, no afinados con el el crisol y con el fuego, sino como nacían.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 8 (R. 30. 8 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Tomado de la aplicación anterior.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para afinar de todo punto el oro de la vida de la gloriosa Paula, quiso nuestro Señor darle una larga enfermedad con que la feneciese, donde se viese su paciencia.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 5. 10 (507)."
+            },
+            {
+              "texto_cita": "«Es fuego amor que el metal | Del entendimiento afina.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El desdichado en fingir, 2. 7 (R. 20. 148 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Semejantes ocasiones | Son el crisol destos tiempos, | Donde se afinan y apuran | Los amigos verdaderos.»",
+              "autor": "Lope",
+              "referencia_obra": ", La porfía hasta el temor, 1. 6 (R. 34. 313 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me parece sino que sale el alma del crisol, como el oro, más afinada, y glorificada para ver en sí al Señor.»",
+              "autor": "",
+              "referencia_obra": "Sta Ter. Vida , 30 (R. 53. 92 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, á semejanza de limpiar, purificar, para expresar lo que se representa como escoria ó impureza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ánimo encendido ensalce el vuelo | A la profunda claridad hermosa; | Y allí se afine de aquel torpe velo | Que en sí trajo opreso.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 13 (R. 32. 332 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Perfeccionar, dar el último punto á una cosa ( trans .). Es una extensión del uso metafórico que acaba de verse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué no hará por afinar el amor de Cristo en nosotros, quien es padre de Cristo?»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Amado (R. 37. 193 2 )."
+            },
+            {
+              "texto_cita": "«Aquí se trata de la paciencia que acicala y afina las virtudes.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 1 (R. 18. 380 1 )."
+            },
+            {
+              "texto_cita": "«Rico puesto á do solo amor espira, | Dichoso en las eternas luces bellas, | Y sus llamas afina, y tiempla en ellas | Siempre fiero y cruel, la aguda vira.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, son . 55 (R. 32. 314 1 )."
+            },
+            {
+              "texto_cita": "«Aquí es la rica Arabia y el dichoso | Nido en que tu inmortal fénix enciende | El fuego que en ti afina su belleza.»",
+              "autor": "",
+              "referencia_obra": "Id. 2, son. 119 (R. 32. 332 1 )."
+            },
+            {
+              "texto_cita": "«Aunque el peligro afina lo perfeto, | Aquel que dél se aparta es el discreto.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 13 (R. 17. 52 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El fruto de aquesta unión es afinarse en ser uno, y el abrazarse es para más abrazarse.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Esposo (R. 37. 154 1 )."
+            },
+            {
+              "texto_cita": "«El hombre con las tribulaciones se perfecciona y afina.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. Al lector (R. 60. 360)."
+            },
+            {
+              "texto_cita": "«i Oh vida do se afina | En soledad el gusto acompañado!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 54 1 )."
+            },
+            {
+              "texto_cita": "«En este punto acabé de conocer cómo la potencia y sabiduría de amor en todas las partes de la tierra se extiende, y que donde más se afina y se apura es en los pastorales pechos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 (R. 1. 61 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Templar con perfección los instrumentos así de aire como de cuerda ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo recorrido los trastes de la vihuela y afinándola lo mejor que supo--- cantó el siguiente romance.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 46 (11. 1. 499 2 )."
+            },
+            {
+              "texto_cita": "«Sólo no tengo de música el excusarme: dáme aquella arpa, Celia, --- Perdonad el afinarla.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 2. 5 ( Obr. suelt . 7. 130)."
+            },
+            {
+              "texto_cita": "«Por quererla afinar | Se suele quebrar la cuerda.»",
+              "autor": "Mto.",
+              "referencia_obra": "De fuera vendrá... 1. 10 (R. 39. 62 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recorrida pues y afinada la arpa, Altisidora dio principio á este romance.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 44 (R. 1. 496 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Estar bien templado ( intrans .). Comp. el Dicc. portugués de Vieira, sb. voc.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El que empieza á tocar un instrumento, | Con algunos preludios examina | Si andan los dedos, si la cuerda afina.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", epíst. 6 (R. 63. 31 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Acordar perfectamente la voz ó los instrumentos á las notas musicales. Acad. Dicc . Véase Melcior , Dicc. Música, sb. voc. afinación.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "Entre encuadernadores y libreros, Hacer que la cubierta del libro sobresalga igualmente por todas partes. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mejor e mas delicada es la tierra de la muela del baruero, en que amuelan las navajas, e despues, linpiados de la tierra, pasallos [los cuchillos] por correa de cuero de puerco que los afina mucho.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 4 (34)."
+        },
+        {
+          "texto_cita": "«Desque el flueco [de las alcachofas] paresca, quitenlo con el gañiuete e afinar la cabeça, sy alguna duresa de las conchas en ella quedó.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 10 (81)."
+        },
+        {
+          "texto_cita": "«Si su juysio é saber afina | Qual quiera que muere de la pestilençia, | [digan] Qual es la causa de tal dolençia.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 339. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Sy fuese el fablar | De plata figurado, | Deue ser el callar | De oro afynado.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ". 555 (R. 57. 365 1 )."
+        },
+        {
+          "texto_cita": "«Ha mester que guarde, que desquel hobiere fecho buen can de puerco, que nunca le muestre ciervo. E otrosí, para facerlo mas atinado, que desde quel hobiere fecho buen can de oso, que nunca le muestre puerco nin ciervo.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 32 ( Bibl. venat. 1. 100)."
+        },
+        {
+          "texto_cita": "«Rezas muy bien las oras con garzones folguynes, | Cum his qui oderunt paçem fasta que eI salterio afines | Diçes ecce quam bonum con sonajas et baçines.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 364 (R. 57. 238 2 )."
+        },
+        {
+          "texto_cita": "«Que lo affinen en logares ciertos con orebses ciertos.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Burgos , año 1303 (C. de L. y C . 1. 166). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Mandamos que--- [ciertas monedas] nin se affinen nin se trabuquen nin se fundan.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 104)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y fino . Port. prov. afinar; fr. affiner ; it. affinare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

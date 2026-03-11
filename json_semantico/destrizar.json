@@ -1,0 +1,83 @@
+{
+  "lema": "DESTRIZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer trizas ó pedazos ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Destricemos sus ataduras, y sacudamos de nosotros su yugo.»",
+              "autor": "Scío",
+              "referencia_obra": ", Salmos , 2. 3."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lampordo sobre el yelmo le da zurra | Tal, que á no ser de cascos encantado, | Allí le desmenuza y le chuchurra. | Saltó el yelmo dos leguas destrizado; | Quedó con la cabeza descubierta, | Y un bosque apareció de greña yerta.»",
+              "autor": "Quev.",
+              "referencia_obra": "Nec. de Orl . 2 (R. 69. 295 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Refl . Consumirse, deshacerse, por un enfado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El francés se carcomía de rabía y el monseñor se destrizaba de cólera.»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos , 40 (R. 23. 421 2 ; *destrozaba)."
+            },
+            {
+              "texto_cita": "«Me deshago y me destrizo | En escribir de mi mano.»",
+              "autor": "Solórzano",
+              "referencia_obra": ", Donaires del Parnaso , f. 375 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Destrizarse á gritos, de un enfado.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo des , que da la idea de separación, y triza .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe c : destricé , destricemos . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

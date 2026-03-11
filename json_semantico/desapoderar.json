@@ -1,0 +1,253 @@
+{
+  "lema": "DESAPODERAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Desposeer á uno de lo que le pertenece ó hacerle dejar aquello de que se había apoderado ( trans. ). Con de, en el sentido de separación, alejamiento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Doña Catalina alegó los derechos de madre, á quien á la verdad parecía duro desapoderar de su hijo.»",
+          "autor": "",
+          "referencia_obra": "Quint . D. Álv. de Luna (R. 19. 375 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me voy desapoderando de todo lo que poseo, y imagino que soy un pobre del Hospital del rey.»",
+              "autor": "Palma",
+              "referencia_obra": ", Vida de G. de la Palm., p. 89."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Part.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Que no es dueño de sí, que no puede contenerse, precipitado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Unos corrían desapoderados á las puertas, otros viendo atajado el camino, saltaban por los reparos.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Crón. 6. 2 (1. 13)."
+            },
+            {
+              "texto_cita": "«Del primer acometimiento desbarataron una legión entera, y la hicieron huír muy desapoderada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6. 38 (1. 187)."
+            },
+            {
+              "texto_cita": "«Hiende el caballo desapoderado | Por la canalla bárbara enemiga.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 5 (R. 17. 23 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Aplicado á lo moral, Que no sabe contenerse, desenfrenado, violento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eran [los normandos] de condición soberbia y desapoderada.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 14 (R. 30. 263 1 )."
+            },
+            {
+              "texto_cita": "«¡Cuán desapoderado y perjudicial es el apetito de reinar y la ambición!»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 12. 4 (R. 30. 345 2 ). En general, Violento."
+            },
+            {
+              "texto_cita": "«Dijo á los marineros que se aparejasen y estuviesen alerta porque les sobrevendría una brava y cruel tempestad; la cual luégo se levantó tan desapoderada y deshecha, que todos se tuvieron por perdidos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. S. Nicolás, Obispo ( Dicc. Autor .) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Ocultar a uno el poder que para el desempeño de un encargo ó una administración se le había dado ( trans. ). Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Conosció el manifiesto daño e desservicio que al rey su señor se seguia en que su alteza se desapoderase del castillo de Burgos.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 86 (227)."
+        },
+        {
+          "texto_cita": "«E la reyna siempre estaba a miedo que avia de ser desapoderada del rey su fijo.»",
+          "autor": "",
+          "referencia_obra": "Crón. P. Niño , p. 188. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Fue luego preso e depuesto e desapoderado del maestrazgo de Calatrava.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I , 5. 1 (R. 66. 440 2 )."
+        },
+        {
+          "texto_cita": "«E desque el rey ovo oido este pleito, fabló con la reina su madre, é ella entendiólo todo muy bien, é que lo facian todos por ser unos contra el rey, é que por esta manera desapoderaban al rey.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 15 (R. 66. 154 1 )."
+        },
+        {
+          "texto_cita": "«Por esta manera era él desapoderado de la guarda é del poder de los reinos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 9 (R. 66. 123 1 )."
+        },
+        {
+          "texto_cita": "«Así commo los reyes los apoderaron é los honraron, ellos pugnaron en los desapoderar é en los deshonrar.»",
+          "autor": "",
+          "referencia_obra": "Crón. Alf. X , 52 (R. 66. 39 1 )."
+        },
+        {
+          "texto_cita": "«Qui se desapodera, non es seguro de tornar á su poder cuando quisiere.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . (R. 51. 429 1 )."
+        },
+        {
+          "texto_cita": "«El toro abajó mucho el su poder et la su honra, pero siempre el leon fincó tan desapoderado de allí adelante, que nunca pudo enseñorearse de las otras bestias.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 38 (R. 51. 390 1 )."
+        },
+        {
+          "texto_cita": "«Otrosi --- que los prelados e abbades e las ordenes que estan dasapoderados e forçados de sus sennorios e de sus logares e de sus derechos e de sus bienes, que sean apoderados e restituydos sin alongamiento.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 396)."
+        },
+        {
+          "texto_cita": "«Me pidieron merced que los omes bonos de las villas que sson poblados a ffuero, que non ffaessen pressos nin desapoderados de las cosas que touieren de juro e de poder.»",
+          "autor": "Zamora",
+          "referencia_obra": ", año 1301 ( C. de L. y C . 1. 157). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«El home dice: Non soy poderoso. Responde Séneca: Gózate, porque non serás sin poder, nin te desapoderará ninguno.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 45 (R. 66. 172 1 )."
+        },
+        {
+          "texto_cita": "«Que desapoderado era»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Los del linage de Amaya desapoderaron a los de Benabet.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 5 (218 1 )."
+        },
+        {
+          "texto_cita": "«Destajaronle [el río] por munchas acequias e esparcieronlo por ellas de manera que todo lo desapoderaron.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 88 (48 1 )."
+        },
+        {
+          "texto_cita": "«Como ome desapoderado fuyo solo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 36 (17 2 )."
+        },
+        {
+          "texto_cita": "«Desapodérase del juro et de la tenencia de aquella cosa.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 18. 66 (2. 589)."
+        },
+        {
+          "texto_cita": "«Non debe seer oido para cobrar la tenencia de aquella cosa de que le desapoderaron.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 2. 29 (2. 371)."
+        },
+        {
+          "texto_cita": "«Quando caen en cativo en poder de los enemigos --- son desapoderados de la libertad.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 29, preámb. (2. 326)."
+        },
+        {
+          "texto_cita": "«Como por la muerte le tira el nombre del regno et lo deshereda dél, otrosi por la prisión te desapodera deshonradamente.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 13. 6 (2.107)."
+        },
+        {
+          "texto_cita": "«Si los parientes fueren en tenencia de algunas cosas de las del clérigo, non los deben desapoderar dellas.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 21. 5 (1. 472)."
+        },
+        {
+          "texto_cita": "«Familiares ó cofrades son llamados los que toman señal de hábito de alguna orden, et moran en sus casas seyendo señores de lo suyo, et non se desapoderando dello.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 13. 7 (1. 386)."
+        },
+        {
+          "texto_cita": "«Otrosi mandamos que si alguno echare a otro de su casa por fuerza, así quel desapoderare de las cosas que y toviere, por el echamiento peche XXX maravedis.»",
+          "autor": "Fuero",
+          "referencia_obra": "real , 4. 4. 12 ( O. L. 2. 123)."
+        },
+        {
+          "texto_cita": "«Se an de querellar sobre que son desapoderados de la tenencia.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 7. 2 ( O. L. 1. 339)."
+        },
+        {
+          "texto_cita": "«El tenedor non seya desapoderado de la prenda.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 291)."
+        },
+        {
+          "texto_cita": "«El que ensenna a la mala alma es commo el que doma fuerte caballo, que si un poco se le suelta la rienda desapoderase del.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro, 11 (Knust, 167; * un poco suelta)."
+        },
+        {
+          "texto_cita": "«Que sea [la buena del judio que denostó la sancta Trinidad] cuya el rey mandare, por siempre, que non sea desapoderado della nunqua.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 2 (189)."
+        },
+        {
+          "texto_cita": "«Salva esta mezquina, esti cuerpo lazdrado, | Cuerpo que de sos piedes es desapoderado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill. 146 (R. 57. 69 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Assecuro et afirmo istis militibus qui tenebunt Lucronium --- quod nullo modo dictos milites de Lucronio et dictis castris desapoderem.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1179 ( Llor. Prov. Vasc. 4. 236)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo ó privativo des y apoderar. Port., cat. desapoderar ; prov. dezapoderar , debilitar, quitar la fuerza. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

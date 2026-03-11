@@ -1,0 +1,624 @@
+{
+  "lema": "ADOBAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Preparar convenientemente, componer ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Allí supe adobar la cebada con agua caliente, que creciese un tercio.»",
+          "autor": "Alemán",
+          "referencia_obra": ", Guzmán , 1. 2. 1 (R. 3. 219¹)."
+        },
+        {
+          "texto_cita": "«Ni á aquel gavilán Garnacha, | Archibufón de la legua | Perdones, que anda adobando | Sus navajas y lanceta.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Nueva relación (R. 46. 15²)."
+        },
+        {
+          "texto_cita": "«Pondré la lista de los personajes para divertir la curiosidad de los apasionados en tanto que Baus dispone las máquinas, y adoba las garruchas.»",
+          "autor": "Mor.",
+          "referencia_obra": "Auto de fe, nota 55 (R. 2. 629¹)."
+        },
+        {
+          "texto_cita": "«Y las lámparas baja y las adoba.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Moro expós. 10 (2. 379)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Tratándose de manjares, Preparar aderezar, guisar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Arrojamos los manjares y lo que hemos de comer á nuestros cocineros, para que lo adoben.»",
+          "autor": "Gracián",
+          "referencia_obra": ", Morales de Plut. fol. 136 ( Dicc. Autor .). —"
+        },
+        {
+          "texto_cita": "«La sal y el aceite suelen adobar los guisados.»",
+          "autor": "Gran.",
+          "referencia_obra": "Esc. espir. 29 (R. 11. 372²)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En especial, tratándose de las carnes y otras cosas, Ponerlas ó echarlas en adobo para conservarlas y darles sazón. — Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De allí [de Sevilla] se llevan aceitunas adobadas, muy gruesas, de muy buen sabor, á todas las demás partes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 7 (R. 30. 378²)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Aplicado á los vinos. — Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú te huelgas con las bebidas de los vinos adobados y dulces; á ellas les es más sabrosa una poca de agua fría.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 4. 8 (318)."
+            },
+            {
+              "texto_cita": "«Padre, coma | Y beba de este vino, | Que está adobado de precioso aroma.»",
+              "autor": "Lope",
+              "referencia_obra": ", San Diego de Alcalá , 2 (R. 52. 525³)."
+            },
+            {
+              "texto_cita": "«¿Y la costumbre que, según dicen, tienen algunos monasterios de servir en las grandes festividades vinos adobados con miel y especias?»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 10, nota (2. 393)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Tratándose de pieles, Curtirlas y componerlas para varios usos ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quiero adobar para ti | Unos guantes y un coleto.»",
+          "autor": "Lope",
+          "referencia_obra": ", Santiago el verde, 1. 14 (R. 34. 197²)."
+        },
+        {
+          "texto_cita": "«Aun el rey como para mostrar la constancia con que pensaba resistir allí, mandó adobar los cueros para zapatos.»",
+          "autor": "Quint.",
+          "referencia_obra": "D. Álv. de Luna (R. 19. 379²)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "Tratándose de las tierras, Cuartar ó arar la cuarta vez. Terreros , Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Reparar, componer ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Adoba tu paño, y pasarás tu año:»",
+              "autor": "",
+              "referencia_obra": "refr. en que se recomienda la economía. Se halla ya entre los del M. de Santillana."
+            },
+            {
+              "texto_cita": "«Quien no adoba gotera, adoba casa entera.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": "."
+            },
+            {
+              "texto_cita": "«Llegóse acaso á mi puerta un calderero, el cual yo creo que fue un ángel enviado á mí por mano de Dios en aquel hábito: preguntóme si tenía algo que adobar.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill. 2 (R. 3. 82¹)."
+            },
+            {
+              "texto_cita": "«Símbolo dicen que son | De las mujeres las manos; | Que quien las quiere tener | Buenas, y adobarlas trata, | Como lo deje de hacer | Dos días, la mano ingrata | Se vuelve á echar á perder.»",
+              "autor": "Lope",
+              "referencia_obra": ", Santiago el verde, 1. 6 (R. 34. 195²)"
+            },
+            {
+              "texto_cita": "«Adoba cuerpos como adoba sillas, | Botica de ojos, bocas, pantorillas.»",
+              "autor": "Quev.",
+              "referencia_obra": "La ropavejera (R . 69. 279¹)."
+            },
+            {
+              "texto_cita": "«No alcanzan lo que pretenden, que es adobar el mal sonido; porque, si bien lo consideráis, peor suena ad aquel que á aquel .»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. (Mayans, 57)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para que el enemigo no le siguiese en aquella retirada, rompió primero una parte de la puente. Don Fernando --- adobado el puente, en que se gastó mucho tiempo, á la hora dio orden á Alvaro de Mendoza que con trescientos caballos ligeros picase la retaguardia de los enemigos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 24. 10 (R. 31. 192¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el daño que se repara (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La bacía de barbero, que á su cuenta era el yelmo de Mambrino, llevaba colgada del arzón delantero, hasta adobarla del mal tratamiento que la hicieron los galeotes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 30 (R. 1. 333¹)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á lo inmaterial, Reparar, enmendar, mejorar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Debe procurar [el desdeñado] con continuos servicios, con amorosas razones, con la no importuna presencia, con las ejercitadas virtudes, adobar y enmendar en él la falta que naturaleza hizo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 3 (R. 1. 45 1 )."
+            },
+            {
+              "texto_cita": "«A eso puedo decir, dijo D. Quijote, que Dulcinea es hija de sus obras, y que las virtudes adoban la sangre.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 32 (R. 1. 473²)."
+            },
+            {
+              "texto_cita": "«Los oficios y cargos graves ó adoban ó entorpecen los entendimientos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 49 (R. 1. 505²)."
+            },
+            {
+              "texto_cita": "«Si él [el libro] no es bueno, no le adobará la dirección, aunque sea hecha al prior de Guadalupe.»",
+              "autor": "",
+              "referencia_obra": "Id. Adjunta (R. 1. 702²)."
+            },
+            {
+              "texto_cita": "«En las reliquias de la canasta habrá en quien adobe su hambre.»",
+              "autor": "",
+              "referencia_obra": "Id. La cueva de Salamanca (Así Arrieta, 10, 387; Nasarre lee adore, Com. 2. 307: la construcción con en y el nombre reliquias, que precede, hacen plausible esta lección)."
+            },
+            {
+              "texto_cita": "«La memoria | Tenéis dada á adobar, á lo que entiendo, | O reducida á voluntad no buena: | ¿No os acordáis que os vi?»",
+              "autor": "",
+              "referencia_obra": "Id. La gran sultana, 1 ( Com . 2. 68)."
+            },
+            {
+              "texto_cita": "«Replicó Basilio que en ninguna manera se confesaría, si primero Quiteria no le daba la mano de ser su esposa, que aquel contento le adobaría la voluntad y le daría aliento para confesarse.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 21 (R. 1. 448 1 )."
+            },
+            {
+              "texto_cita": "«Suplíquele que adobe la voluntad, que con los temores que el diablo le pone, la tiene dañada.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 3. 13 ( Míst. 3. 81)."
+            },
+            {
+              "texto_cita": "«Sea que amaestrado por la adversidad no quisiese enojar á aquellos en cuyo poder se hallaba todavía, sea que el gusto de irse á ver libre y á mandar absolutamente le adobase la voluntad, --- él se chanceaba al hablarles.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 9 (R. 19. 583 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si mi Dulcinea del Toboso saliese de los [trabajos] que ahora padece, mejorándose mi ventura y adobándoseme el juicio, podría ser que encaminase mis pasos por mejor camino.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 58 (R. 1. 525 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6.",
+      "definicion": "Mar. Carenar ( ant. según el Dicc. Marít. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Volando á sus riberas te avecina, | Y manda que te lleven una carga | De clavos, pez, estopas y resina; | Adoba el seno de la barca larga, | Adonde tanta máquina camina,»",
+          "autor": "Villav.",
+          "referencia_obra": "Mosq . 8 (R. 17. 600 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Es muy común la acepción Reparar, restaurar, y aparecen además las de Ajustar, pactar, componer, y Aparejar, vestir, armar.) — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El rey mandó adovar los cueros para zapatos.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 37 (R. 68. 394 2 )."
+        },
+        {
+          "texto_cita": "«Mandó embiar luego á Sevilla por madera para adobar las escalas.»",
+          "autor": "",
+          "referencia_obra": "lb . 4. 17 (R. 68. 323 1 )."
+        },
+        {
+          "texto_cita": "«El maestro que hizo la bastida está mal herido de un pasador, é no la puede adobar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 51 (R. 68. 298 2 )."
+        },
+        {
+          "texto_cita": "«Tenga cargo de hacer cortar la madera --- que menester hubiere para adobar las carretas que se quebraren.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 37 (R. 68. 293 1 )."
+        },
+        {
+          "texto_cita": "«Allí fueron las salas muy ricamente aparejadas, é las tablas muy ordenadas, cada unos en su lugar. Las vagillas muy grandes é muy ricas de oro é de plata: manjares adovados muchos, é de diversas maneras.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 130."
+        },
+        {
+          "texto_cita": "«Desque la fiesta fue fecha, adovaron luego las galeras, é aparejáronlas de quanto ovieron, menester.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 97."
+        },
+        {
+          "texto_cita": "«Sy alguno de los cuchillos o instrumentos se aportellare, quebrare o torciere, luego lo faga adobar e reparar a persona fiel.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 5 (42)."
+        },
+        {
+          "texto_cita": "«Quando alguno dellos [de los cuchillos] non fuese para cortar con él, por las raçones dichas o otra, que pueda [el cortador] tomar de la otra vayna, mientra aquel se repara e adoba o se de nueuo fase.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 4 (28)."
+        },
+        {
+          "texto_cita": "«Traenlo [el alxofar] a este lugar de Ormus á foradar é adobar, e mercaderes moros e christianos dicen que non saben agora en estas partidas onde se forade nin adobe alxofar.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav. p. 115."
+        },
+        {
+          "texto_cita": "«Esa noche les fizo el señor de aquella ciudad enviar mucha vianda cocida é adobada é mucha fruta, é pan é vino.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 91."
+        },
+        {
+          "texto_cita": "«Ovieron de afletar, e tomar sobre sí una galeota, de que era patron un genovés que se llamaba Micer Nicolo Socato, é ficieron la adobar de marineros, é de las cosas que ovieron menester.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 72."
+        },
+        {
+          "texto_cita": "«Ovieron su acuerdo de ir a la isla de Metellin por adobar allí sus velas, é tomar algun piloto, que non llevaban ninguno.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 43."
+        },
+        {
+          "texto_cita": "«Lo que demando | Non es thessoro sobejo, | Salvo algunt poquillejo | Con que me vaya adobando.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 194. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Los prinçipes que deurian tal caso adobar | Con sus buenas maneras que pudieran tomar, | Tomaron luego vandos e fuéronse armar.»",
+          "autor": "Pal.",
+          "referencia_obra": "204 (R. 57. 431 2 )."
+        },
+        {
+          "texto_cita": "«Las pihuelas que sean de buen cuero delgado et bien adovado, et que le non aprete el zanco.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 8 ( Bibl. venat. 3. 189)."
+        },
+        {
+          "texto_cita": "«Dicenlos así [los cueros] porque los monjes de las abadías dicen que los adoban para sus zapatos et para sus botas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 47 ( Bibl. venat. 3. 340)"
+        },
+        {
+          "texto_cita": "«Las galeas fiso adobar.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI , 2044 (R. 57. 538 2 )."
+        },
+        {
+          "texto_cita": "«El rey mandó levar aquella galea á Sevilla para que la adobasen.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 207 (R. 66. 306 2 )."
+        },
+        {
+          "texto_cita": "«Fizo adobar et reparar los portiellos que los moros avian fecho.»",
+          "autor": "",
+          "referencia_obra": "Ib. 198 (R. 66. 299 1 )."
+        },
+        {
+          "texto_cita": "«Nin avian logar donde podiesen aver leña, et avian della muy grand mengua para cocer el pan et para adobar las otras viandas.»",
+          "autor": "",
+          "referencia_obra": "Ib. 123 (R. 66. 255 1 )."
+        },
+        {
+          "texto_cita": "«Desque él vio que non pudo y adobar otra cosa de su pro, venose para Valledolit.»",
+          "autor": "",
+          "referencia_obra": "Ib. 19 (R. 66. 187 2 )."
+        },
+        {
+          "texto_cita": "«Mandó adobar de comer muy de mañana.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 17 (R. 66. 166 2 )."
+        },
+        {
+          "texto_cita": "«Ese dia mesmo teniendo adobado de comer, non quiso entrar á la villa.»",
+          "autor": "",
+          "referencia_obra": "Ib . 15 (R. 66. 156 2 )."
+        },
+        {
+          "texto_cita": "«Era ya hora de visperas, é non tenia guisada ninguna cosa de comer, é atendieron fasta que fue adobado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1 (R. 66. 101 1 )."
+        },
+        {
+          "texto_cita": "«De allí fue á Sevilla, é desque y llegó, mandó facer e adobar muy grand flota, que fueron ochenta galeas e veinte é cuatro naves.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 69 (R. 66. 54 1 )."
+        },
+        {
+          "texto_cita": "«El segundo adoba e repara carrales.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1270 (R. 57. 267 1 )."
+        },
+        {
+          "texto_cita": "«Los moros han por costumbre que adoban de cenar á los novios, et pónenles la mesa, et dejanlos en su casa fasta en otro dia.»",
+          "autor": "",
+          "referencia_obra": "J. Man . C. Luc . 45 (R. 51. 405 2 )."
+        },
+        {
+          "texto_cita": "«Catad que non me despierte cras ninguno, et tenedme bien adobado de comer.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 45 (R. 51. 406 1 )."
+        },
+        {
+          "texto_cita": "«Maguer las puentes de algunos logares non sean adobadas et esten foradadas, et algun viandante reciba daño en la puente en sus cosas, non son tenudos los del lugar al daño.»",
+          "autor": "Leyes del est.",
+          "referencia_obra": "227 ( O. L. 2. 328). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Vete á buena ventura, é non hayas mas que adobar comigo, nin yo contigo.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 27 (R. 51. 142 2 )"
+        },
+        {
+          "texto_cita": "«Al otro maestro de labrar cal o piedra manpuesta o carpentero de faser casas o de adobar cubas denle un sueldo de dineros alfonsis cada dia por jornal.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez , año 1268 ( C. de L. y C . 1. 78)."
+        },
+        {
+          "texto_cita": "«Nin saquen cabrunas, nin carnerunas, nin cabritunas nin otra coranbre ninguna por adobar.»",
+          "autor": "",
+          "referencia_obra": "Ib . ( ib . 1. 71)"
+        },
+        {
+          "texto_cita": "«Debe catar el alcayde que sean [los ballesteros] atales que sepan bien facer su meester, et que haya hi dellos que sepan adobar las ballestas et las saetas.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 18. 9 (2. 157)."
+        },
+        {
+          "texto_cita": "«Maguer los físicos de que fablamos metiesen toda su voluntad en guardarle [al rey], non lo podrían facer si el que le adoba de comer nol quisiese guardar.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 9. 11 (2. 68)."
+        },
+        {
+          "texto_cita": "«Lo que comen et beben cada una lo falla segunt que le es mester, de guisa que non han de buscar quien gelo adobe.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 1. 7 (2. 9)."
+        },
+        {
+          "texto_cita": "«Comeres de grandes misiones non deben demandar los perlados que les adoben quando visitaren las eglesias, mas cosas que sean guisadas et con mesura.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 22. 2 (1. 476)."
+        },
+        {
+          "texto_cita": "«Si cayese alguna partida della [la eglesia], ó la fuesen derribando poco á poco para refacerla, en tal razon non han por que lo demandar al obispo si non quisieren, ca ellos mismos lo pueden adobar.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 9. 1 (1. 358)"
+        },
+        {
+          "texto_cita": "«Que se non adobe el duenno del pleyto con su contendor quando quisiere.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año 1258 ( C. de L. y C . 1. 62)."
+        },
+        {
+          "texto_cita": "«Si el querelloso ficiere algun adobo contra esto, peche al rey la caloña doblada, e el adobo non vala e tornen al juicio, así como si non fuese adobado.»",
+          "autor": "Fuero",
+          "referencia_obra": "real, 1. 7. 5 ( O. L. 2. 18)."
+        },
+        {
+          "texto_cita": "«Esto serie como si alguno prestase a otro bestia, o otra cosa, o diese a cualquier maestro alguna cosa de quel feziese labor o que gela adobase, e él la perdiese por su culpa.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 13. 19 ( O. L. 1. 439)."
+        },
+        {
+          "texto_cita": "«Si los muros fuesen derribados, o las villas non oviesen puertas, deven lo fazer adobar de las rendas que fueren senaladas para ello. E si non las y oviere, deven lo fazer saber al rey, que lo mande adobar.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 159)."
+        },
+        {
+          "texto_cita": "«Si el alcayde algun dano oviese fecho en el castiello--- deve lo fazer adobar ante que el castiello dexe.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 39)."
+        },
+        {
+          "texto_cita": "«Si menester ouier de sobir canales o maderas para aquellas casas adovar, develas sobir por las casas que fueren mas cerca de aquellas que son de adovar.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 4. 5. 2 (114)."
+        },
+        {
+          "texto_cita": "«Adubar de comer.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 8. 2. 3 * (137)."
+        },
+        {
+          "texto_cita": "«La ley adobada ella adoba los trasgreymientos y los yerros de los omnes, así como la errada et la dubdosa ella nuzie al comun.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. *19 (XVI)."
+        },
+        {
+          "texto_cita": "«Vio hun omne bueno que andaua pescando, | Cabo de huna pinaça sus redes adobando.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 121 (R. 57. 287 2 )."
+        },
+        {
+          "texto_cita": "«Mandó comprar conduchos, ençender las fogueras, | --- Adobar los comeres de diuersas maneras.»",
+          "autor": "",
+          "referencia_obra": "Ib. 64 (R. 57. 285 2 )."
+        },
+        {
+          "texto_cita": "«Fu ante de medio dia el comer adobado.»",
+          "autor": "Alex.",
+          "referencia_obra": "2444 (R. 57. 222 1 ).» Cuemo era el carro ricamient adobado.» lb . 1609 (R. 57. 196 2 )."
+        },
+        {
+          "texto_cita": "«El dicho de don Nestor fue tan bien adouado | Quel feruor mato fue todo amansado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 408 (R. 57. 160 1 )."
+        },
+        {
+          "texto_cita": "«Adobauan grandes comeres e fazien missiones.»",
+          "autor": "",
+          "referencia_obra": "Ib . 273 (R. 57. 156 1 )."
+        },
+        {
+          "texto_cita": "«Assas traya companas todas bien adobadas, | Mas fueron con linfante todas mal aquexadas.»",
+          "autor": "",
+          "referencia_obra": "lb . 158 (R. 57. 152 1 )."
+        },
+        {
+          "texto_cita": "«Los pueblos de la villa pauperes e potentes | Façien grant alegría todos con instrumentes, | Adovaban convivios, daban a non aventes.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 698 (R. 57. 125 1 )."
+        },
+        {
+          "texto_cita": "«Sedie el arzobispo un leal coronado | En medio de la missa sobrel altar sagrado, | Udiéndola gran pueblo, pueblo bien adovado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 414 (R. 57. 116 1 )."
+        },
+        {
+          "texto_cita": "«Padre, el tu conseio a muchos governaba, | Pora cuerpos e almas el tu sen adobaba.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Dom . 519 (R. 57. 56 2 )."
+        },
+        {
+          "texto_cita": "«Fasta que la paz sea adobada. Et la paz adobada, tornen en todo aquel debdo que dicho es de suso.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1206 ( Esp. sagr. 36. cxxxv)."
+        },
+        {
+          "texto_cita": "«Mucho vienen bien adobados de cauallos e de guarnizones.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3538 (R. 57. 36 1 )."
+        },
+        {
+          "texto_cita": "«Penssaron de adobar essora el palacio.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2205 (R. 57. 24 2 )."
+        },
+        {
+          "texto_cita": "«Trayo-uos xx palafrés, estos bien adobados.»",
+          "autor": "",
+          "referencia_obra": "lb . 2144 (R. 57. 24 1 )."
+        },
+        {
+          "texto_cita": "«El Campeador a los sos lo mandó | Que adobassen cozina pora quantos que y son.»",
+          "autor": "",
+          "referencia_obra": "lb . 2064 (R. 57. 23 2 )."
+        },
+        {
+          "texto_cita": "«Non lo detardan, a Myo Cid se tornauan. | Della part e della pora las vistas se adobauan.»",
+          "autor": "",
+          "referencia_obra": "lb . 1965 (R. 57. 22 1 )."
+        },
+        {
+          "texto_cita": "«Nos detardan de adobasse esas yentes christianas.»",
+          "autor": "",
+          "referencia_obra": "lb . 1700 (R. 57. 20 1 )."
+        },
+        {
+          "texto_cita": "«Prestas son las mesnadas de las yentes christianas; | Adoban-se de coraçon e dan salto de la villa.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1675 (R. 57. 19 2 )."
+        },
+        {
+          "texto_cita": "«Vayamos posar, ca la çena es adobada.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1531 (R. 57. 18 2 )."
+        },
+        {
+          "texto_cita": "«E a las otras duennas que la siruen delant, | El bueno de Minaya pensolas de adobar | De los meiores guarnimientos.»",
+          "autor": "",
+          "referencia_obra": "lb . 1426 (R. 57. 17 2 )."
+        },
+        {
+          "texto_cita": "«Pues esto an fablado pienssan-se de adobar, | Ciento omnes le dio Myo Cid a Albar Fanez por seruir-le en la carrera.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1283 (R. 57. 16 1 )."
+        },
+        {
+          "texto_cita": "«A myo Cid don Rodrigo grant cozinal adobauan.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1017 (R. 57. 13 2 )."
+        },
+        {
+          "texto_cita": "«Todos son adobados: quando Myo Cid esto ouo fablado, | Las armas auien prisas e sedien sobre los cauallos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1000 (R. 57. 13 1 )."
+        },
+        {
+          "texto_cita": "«El dia é la noche pienssan-se de adobar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 681 (R. 57. 9 2 )."
+        },
+        {
+          "texto_cita": "«Yo adobare conducho pora mi e pora mis vassallos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 249 (R. 57. 4 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port . adubar; cat. , val., mall. adobar; prov. mod. adouba, douba, adobar, adouba 'n chivaliè, armar á un caballero de punta en blanco; prov. ant. adobar, adobar a cavallier , armar caballero; fr. : a douber, remendar, y en lo antiguo armar (Bartsch, Chrest. ) , aduber a chevalier, armar caballero; valón, adobé, que ha recibido un gran golpe; anglosajón, dubban, herir, golpear, y dubban to ridere, armar caballero; isIandés, dubba, herir, dubba til riddara, armar caballero; pues",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Todo el toque de quedar armado caballero consistía en la pescozada y en el espaldarazo, según él tenía noticia del ceremonial de la orden.»",
+          "autor": "Sousa",
+          "referencia_obra": ", pues ésta es acepción del todo secundaria, que nace de la de componer, aderezar; así como ésta no es más que la aplicación á cosas, del concepto de ensalzar á una dignidad (véase Webster), hacer caballero. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,341 @@
+{
+  "lema": "CONTRARIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Ser contrario, obrar en contra, oponer obstáculos.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Agora en placer, agora en tristeza: ¿qué planeta hubo que tan presto contrarió su operación?»",
+              "autor": "",
+              "referencia_obra": "Celest . 19 (R. 3. 70 2 )."
+            },
+            {
+              "texto_cita": "«Tomando aquí por pretexto la seguridad pública, y allá la conveniencia privada, contrariaba [la envidia] á todas horas y en todas partes los designios que este gran ingenio formaba.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog de V. Rodr. (R. 46. 372 2 )."
+            },
+            {
+              "texto_cita": "«Hallóse al llegar con nuevas dificultades que contrariaban harto desgraciadamente los designios de los dos descubridores.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 304 2 )."
+            },
+            {
+              "texto_cita": "«La tendencia natural de las cosas --- en asuntos de riqueza pública contraria siempre y neutraliza hasta cierto punto los errores de la autoridad.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ilustr . 11 ( Mem. Acad. Hist . 6. 303)."
+            },
+            {
+              "texto_cita": "«¿Quién no recuerda las ponderaciones de las prerrogativas de la potestad real, cuando se trataba de la expulsión de los jesuítas, y de contrariar la autoridad pontificia?»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 52 (3. 287)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quiso el cielo, no quieren | Las opuestas condiciones | Que en los dos se contrarían, | Que suerte tan feliz goce.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del enemigo el primer consejo , 1. 1 (R. 5. 653 2 )."
+            },
+            {
+              "texto_cita": "«La misma voz que evoca los siglos y los sucesos dispone estos últimos de manera que se contraríen sin destruírse, de modo que de su misma contrariedad resulte el orden.»",
+              "autor": "Ochoa",
+              "referencia_obra": "( Míst . 1. IX)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nuestra voluntad es que la nuestra justicia florezca y aquélla no sea contrariada.»",
+              "autor": "Orden. reales",
+              "referencia_obra": ", 3. 12. 2; Cortes de Briviesca, año 1387: C. de L. y C . 2. 371)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si ella se hallara presente en aquel debate de la manzana con las tres diosas, nunca sobrenombre de discordia le pusieran, porque sin contrariar ninguna, todas concedieran y vieran conformes en que la llevara Melibea.»",
+              "autor": "",
+              "referencia_obra": "Celest . 6 (R. 3. 31 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á, como la frase ser contrario .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las faltas ajenas sufra mansamente; pero las que contrariaren á la honra de Dios, procure con diligencia enmendarlas amigablemente.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 4, 2ª. pte . 2, § 7 (R. 8. 282 1 )."
+            },
+            {
+              "texto_cita": "«Conviene no perder nunca de vista que la gramática general versa sobre un hecho dado, y que por consiguiente nunca deben las teorías contrariar á la observación.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem . Gram. 1 (227)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con con , por semejanza de estar en contradicción (raro y no merece imitarse).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hechas [las confesiones de Dorotea] delante de un auditorio numeroso, contrarían singularmente con el pudor que era propio de una doncella encogida y sensible.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 3, p. 98."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Contradecir, oponer obstáculos á los propósitos ó intenciones de otro ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya que la guerra nos contrarie opuesta, | Buscamos en la paz honor más cierto.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 5 (7. 139)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Despechados de verse todavía contrariados con las intrigas de don Álvaro, le hicieron retraer de su propósito á fuerza de reconvenciones y de quejas.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 407 1 )"
+            },
+            {
+              "texto_cita": "«Siempre que el dinero sóbre, | La ostentación justifico, | Pues sé que el lujo del rico | Enciende el hogar del pobre. | Pero hoy, á decir verdad, | Tan contrariado me veo, | Que se opone á mi deseo | La dura necesidad.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Quien debe, paga , 1. 4 (117)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Hoy se emplea con frecuencia, por galicismo, para significar el disgusto ó enfado que nos causa lo que sucede contra nuestros deseos o esperanzas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recibió por respuesta que la señora no recibía --- Esto le contrarió.»",
+              "autor": "",
+              "referencia_obra": "F. Caball. Clemencia , 3. 9 (2. 202)."
+            },
+            {
+              "texto_cita": "«Pensé, chico, no encontrarte, | Y me hubiera contrariado | Tu ausencia.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Quien debe, paga , 1. 5 (119)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ay, niña Costanza! exclamó doña Araceli, casi con lágrimas en los ojos, muy contrariada y atribulada.»",
+              "autor": "Valera",
+              "referencia_obra": ", Las ilusiones del Dr. Faustino, p. 229."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Era muy común contrallar ). Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No sé como la infelicidad debe ser loada, ni qué loor puede conseguir aquel que repugna la natura y contraría la razón.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 3 (27). —"
+        },
+        {
+          "texto_cita": "«Entró en el campo Lope de Aller por defensor, é con calentura, é muy contra la voluntad de Suero de Quiñones, que le non quiso contrallar.»",
+          "autor": "",
+          "referencia_obra": "Passo honroso , 63 (54 1 )."
+        },
+        {
+          "texto_cita": "«Mi ventura es tan esquiva | Que falle quien la contralle.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 56. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Çierto contrariamos a Dios e a la su ordenaçion, | Quando nos esfórçamos ya contra la dispusicion | De aquello quel, ordena contra la tal opinion.»",
+          "autor": "Pal.",
+          "referencia_obra": "1537 (R. 57. 474 2 ). —"
+        },
+        {
+          "texto_cita": "«Sacaron muy grand presa de vacas, et de yeguas, et de ovejas, et de moros et de moras cativos, et non fallaron quien ge lo contrallase ninguna cosa.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 101 (R. 66. 366 2 )."
+        },
+        {
+          "texto_cita": "«Et nunca en toda su vida contralló cosa en que entendiese que á él placia.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 5 (R. 51. 397 2 )."
+        },
+        {
+          "texto_cita": "«E no la destoruedes [la justiçia] nin contralledes en ninguna cosa por que los mios merynos e los mios offiçiales non la pudieren ffazer.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 208). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Contrariauanme»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Al enemigo fuerte é valiente non ha cosa en este mundo con que le contrarie home su fuerza mejor como sometérsele.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 50 2 )."
+        },
+        {
+          "texto_cita": "«Si --- quiser contrariar los fillos del rey, ó osmar dellos facer mal, ó dampno en alguna cosa, sea departido de la companna de los christianos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, preámb . 15 (XIII; * contrareare)."
+        },
+        {
+          "texto_cita": "«Se omme de la vila quisier ir morar á regalengo, venda sus heredade, et leve suo aver, et nenguno no lo contrarie.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Villavicencio , año 1221 ( Muñoz , F . 181). —"
+        },
+        {
+          "texto_cita": "«Amigos, quiero yo responder a Gonzalo Diaz e contrallar todo quanto el ha dicho.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 3. 18 (241 1 )."
+        },
+        {
+          "texto_cita": "«Desterraua todos quantos le contrallauan la eregia.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 150 (144 2 )."
+        },
+        {
+          "texto_cita": "«Non contrallaron a los romanos lo que fazian e resçibieronlo por emperador.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 111 (83 1 )."
+        },
+        {
+          "texto_cita": "«Non fallaron quien los contrallase e ganaron la tierra.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 15 (10 1 )."
+        },
+        {
+          "texto_cita": "«Eso mismo serie si alguno toviese viga metida en pared de su vecino --- ol contrallase que non alzase su casa porquel non tollese la lumbre.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 31. 15 (2. 762)."
+        },
+        {
+          "texto_cita": "«Et otrosi prometió de ampararle esta cosa quel dio de todo home que gela quisiese contrallar.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 18. 67 (2. 591)."
+        },
+        {
+          "texto_cita": "«Onde mandamos que ninguno non sea osado del embargar nin del contrallar por ello.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 18. 11 (2. 553)."
+        },
+        {
+          "texto_cita": "«Otrosi los honrados homes et poderosos que por su poderio ó por su honra quisiesen contrallar de facer estas pagas pasados los plazos, deben pagar doblado aquello que deben.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 26. 32 (2. 303)."
+        },
+        {
+          "texto_cita": "«La guerra se debie facer --- por acrescentar los pueblos su fe, et para destroir los que la quisieren contrallar.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 23. 2 (2. 228)."
+        },
+        {
+          "texto_cita": "«Et aun si el marido --- gelo contrallase, tenuda es ella de obedecer mandamiento de su marido.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 8. 8 (1. 324)."
+        },
+        {
+          "texto_cita": "«Son tenudos --- de defenderla [la Iglesia] por razón verdadera et derecha de los hereges et de todos aquellos que la quisiesen contrallar.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 1 (194)."
+        },
+        {
+          "texto_cita": "«Pues el rey tenudo es, e poder a de fazer merced, que ninguno non gelo contralle nin gela embargue.»",
+          "autor": "Espéc.",
+          "referencia_obra": "4. 6. 8 ( O. L. 1. 179)."
+        },
+        {
+          "texto_cita": "«La tercera [manera de palabras desaguisadas] es la que contralla la verdat.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 20)."
+        },
+        {
+          "texto_cita": "«El que contralla al rey muere ante de su tiempo e el rey que non contralla a los viles pierde su honrra.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 13 (Knust, 259)."
+        },
+        {
+          "texto_cita": "«Quando contrallares algunt tu enemigo, non obedescas á la tu yra.»",
+          "autor": "",
+          "referencia_obra": "lb . 12 (Knust, 222)."
+        },
+        {
+          "texto_cita": "«La nescedad del omne es conoscida por tres cosas, por non haver cuydado de enderesçar a si mesmo, e por non contrallar su cobdicia e por guiarse por su muger.»",
+          "autor": "",
+          "referencia_obra": "Ib. 11 (191)."
+        },
+        {
+          "texto_cita": "«En vida del suo marido non la puede contrallar, nin le puede demandar.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 5. 1. 8 (122)."
+        },
+        {
+          "texto_cita": "«Nin seya osado de la contrallar [la fee], nin nengund omne non ose despreciar los evangelios.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 2. 2 (177; * contrariar)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. contrariar ; fr. contrarier ; it. contrariare : del lat. bajo contrariare , derivado de contrarius , contrario.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "Se acentúa contrarío, contraríen , apartándose el verbo de la norma del adjetivo. Esta pronunciación es antigua como aparece de la selva de consonantes de Rengifo y del pasaje de Tirso citado arriba; es de creerse que en ella se apoya el sustantivo contraría ( Alex. 797), contrarea . Por lo que hace al contrárie de Jáuregui, no sabemos si es pronunciación caprichosa ó si más bien se funda en variedad del uso por esos tiempos. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

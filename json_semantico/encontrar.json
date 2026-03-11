@@ -1,0 +1,2087 @@
+{
+  "lema": "ENCONTRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Parece que el sentido fundamental es Convergir o confluir en un punto, de donde la idea de ‘coincidencia’ por una parte, y de ‘oposición’ por otra; el sentido de ‘hallazgo’ o ‘descubrimiento’ hay que derivarlo sin duda de la idea de ‘choque’ ( comp. chocar, topar, tropezar, etc., verbos en los que también surge el sentido de ‘hallazgo’); la idea de ‘estado’, por lo demás, surge de la de ‘hallazgo’. Las acepciones se reparten, pues, de la siguiente manera: — 1 , con idea de coincidencia: a ) sentido factitivo de hacer coincidir; b ) coincidir dos personas, reunirse, pasar una persona junto a otra, llegar hasta un sitio, llegar hasta donde está alguien y percibir su estado; c ) con idea de unión o contacto; d ) met. , coincidir en gustos, afectos, etc. — 2, con idea de oposición: a ) chocar o tropezar en sentido material; b ) tropezar o topar con una dificultad o peligro; c ) enfrentarse o batirse en lucha, afrentar o menoscabar ( met. ); d ) enemistar; e ) met. , estar en desacuerdo. — 3, con idea de hallazgo o percepción: a) hallar lo que se busca; b) hallar o tener delante por casualidad; c ) descubrir lo desconocido u oculto; d ) percibir u observar, formar una opinión o juicio sentirse o notarse. — 4, con idea de estado a ) estar; b ) existir o haber; c ) no encontrarse ‘estar descentrado’. Desde el punto de vista sintáctico, este verbo se construye como transitivo e intransitivo, pudiendo adopta en ambos casos la forma pronominal (reflexiva); así, Encontrar a alguien ® Encontrarse a alguien, Encontrar con alguie n ® Encontrarse con alguien. La diferencia, entre la construcción transitiva e intransitiva radica en que el objeto del encuentro es compl. directo en la primera, y circunstancial con la prep. con en la segunda. Consideramos solamente como construcciones reflexivas propiamente dichas las que se encuentran en las aceps. 3, d , δ y 4 , ya que no admiten un compl. directo al lado del pron. reflexivo; caso dudoso es el que presentan algunas construcciones pronominales (así, 2 , d y 2 , e ), pues al existir la posibilidad Encontrar a una persona con otra ‘enemistar’, el se de Encontrarse con alguien ‘enemistarse', ‘oponerse’ podría interpretarse lógicamente como compl. directo; preferimos, sin embargo, dada la identidad morfológica de estas construcciones con las que aparecen en la mayor parte de las aceps., considerarlas como intransitivas pronominales (o reflexivas). En cuanto a las construcciones recíprocas, no hay duda de que ofrecen tal carácter las que siguen el esquema A y B se encontraron; ahora bien, siguiendo a Cuervo (véase Pról. p. VI ), podrían juzgarse como tales las construcciones intransitivas pronominales cuando el objeto del encuentro es una persona ( comp. Encontrarse con alguien y Abrazarse con alguien, que es el ej. dado por Cuervo ); mas, teniendo en cuenta que el verbo encontrar posee como régimen propio un compl. circunstancial con la prep. , con, nos parece aventurada tal interpretación, y solo en aquellos casos en que exista una participación del sujeto y objeto morfológicos en la acción expresada por el verbo, hablamos de construcción recíproca (vr. gra. La vanguardia del uno con la retaguardia del otro se encontraron ) .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Convergir en un punto.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer que dos o más personas coincidan en determinado lugar (raro) ( trans. ). Con la prep. con.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pasaba siempre la ida y la vuelta por la casa de Anselmo, por ver si su fortuna le encontraba tal vez con el criado dicho.»",
+          "autor": "Césp. y Men.",
+          "referencia_obra": "Sold. Pínd. 2. 17 (R. 18. 353 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Coincidir con una persona o cosa en un sitio.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans . x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El lector me tendría por exagerado si yo le pintara lo que adelanté en ese año escolar, no en el conocimiento de las materias que los profesores me explicaban, sino en el de otras cosas infinitamente menos difíciles que el latín, que me comunicaban gratuitamente los compañeros que por todas partes encontraba.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 2 (p. 13). x"
+            },
+            {
+              "texto_cita": "«¿No sería acaso en este paraje, junto a este camino, donde Don Quijote encontró a Juan Haldudo, el vecino de Quintanar?»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 7 (p. 361). x"
+            },
+            {
+              "texto_cita": "«Mi padre no lo puede ver [a don Jerónimo] desde que lo tiene metido en un pleito por linderos y no sé qué más. El día que lo encuentra tenemos que ponerle por la noche fomentos de hierba mora y darle friegas de aguardiente con malambo.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 60. X"
+            },
+            {
+              "texto_cita": "«Tránsito, Lucia y Braulio estuvieron aquí esta tarde, y sintieron mucho no encontrarte.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 166."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un compl. de lugar en donde precedido por en. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Y cuánta casta de pintorescos tipos, de gentes varias, de sujetos miserables y altos no debió de encontrar Cervantes en esta venta de Puerto Lápiche en las veces innumerables que en ella se detuvo!»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 8 (p. 366). x"
+            },
+            {
+              "texto_cita": "«Cuando llegué a las haciendas en la mañana del día siguiente, encontré en la casa de habitación al médico que reemplazaba a Mayn en la asistencia de Feliciana.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 168."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En forma refl. Con un compl. de lugar con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Avínole bien al duque de Arcos --- el encontrarse en Castelnovo gran número de señores y caballeros.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 7 (R. 102. 145 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Recípr. Con en. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nos encontramos todos los días en el. ascensor.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. sb. voc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aún no eran dadas las ocho cuando con vuestra merced encontré.»",
+              "autor": "Lazar.",
+              "referencia_obra": "3 (R. 3. 84 2 ). +"
+            },
+            {
+              "texto_cita": "«Tiberio ---, encontrando una vez con Galba, le dijo que había de ser emperador.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist . 11. 18 (R. 162. 361 2 )."
+            },
+            {
+              "texto_cita": "«Fui allá, y la primera persona con quien encontré fue con su padre.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 41 (R. 1. 369 1 ). +"
+            },
+            {
+              "texto_cita": "«Yo encontré acaso ayer con él [con el capitán], y me pareció verdaderamente relucir en su persona ---.»",
+              "autor": "F. de Mena",
+              "referencia_obra": ", Teágenes y Cariclea, 2 (p. 109)."
+            },
+            {
+              "texto_cita": "«Encontró [el lobo flaco] con un perro tan relleno, | Tan lucio, sano y bueno, | Que le dijo ---.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb. 5. 25 (R. 61. 378 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En forma refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ponderaré la caridad y providencia de Cristo nuestro Señor en venir a Naín en tal coyuntura que se encontrase con este difunto, pues no fue acaso, sino sabiéndolo.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 40 (2. 245). x"
+            },
+            {
+              "texto_cita": "«Con el primero que me encontré anoche fue con mi amigo Justino, cuyos afectos y modos de pensar, tan sinceros los unos como acertados los otros, me son conocidos hace muchos años.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 147). — Con en."
+            },
+            {
+              "texto_cita": "«En mala coyuntura y en peor sazón y en aciago día bajó vuesa merced, caro patrón mío, al otro mundo, y en mal punto se encontró con el señor Montesinos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 23 (R. 1. 454 1 )."
+            },
+            {
+              "texto_cita": "«La primera vez que Casas se encontró con él fue en palacio y delante del secretario.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 447 2 ). — Con por . x"
+            },
+            {
+              "texto_cita": "«Me encontré, pues, con Justino por los lados de las estatuas, como dice la gente para denominar el sitio donde están puestas las de Colón y de la reina Isabel.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 147)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En particular, Reunirse, juntarse con una persona, o cosa personificada, en determinado lugar.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Trans. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A poco rato se me llamó al comedor y no tardé en acudir, porque allí esperaba encontrar a María, pero me engañé.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 63. x"
+            },
+            {
+              "texto_cita": "«Me apresuro a dirigirle esta carta con el objeto de anunciarle que el 30 del próximo enero estaré en Cali, donde espero encontrar a Efraín para que nos pongamos en marcha hacia el Puerto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 161."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Recípr. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh felices días! ¿Dónde volveremos a encontrarnos sino en el nativo campo?»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Andanzas y Visiones esp. p. 30 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Intrans. Con un compl. precedido por con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No he perdido la esperanza, | Supuesto que a Madrid va, | De encontrar con él allá.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La villana de Vallecas, 1. 10 (R. 5. 49 3 ). — En forma refl. x"
+            },
+            {
+              "texto_cita": "«Ojalá no tuviera que ir a ninguna parte: a ver a Emigdio, quien se queja de mi inconstancia en todos los tonos, siempre que me encuentro con él.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 51."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Pasar junto a un objeto o persona, cruzarse con él, alcanzarlo, o rebasarlo.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Trans. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Apenas había salido de su aposento, cuando encontré a Cariclea.»",
+              "autor": "F. de Mena",
+              "referencia_obra": ", Teágenes y Cariclea, 4 (p. 161)."
+            },
+            {
+              "texto_cita": "«Que mil veces lo he encontrado | Paseando por aquí.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El desdichado en fingir, 1. 18 (R. 20. 2 ). x"
+            },
+            {
+              "texto_cita": "«A las siete de la mañana lo he encontrado de camino, aforrado con un pañuelo, de modo que no se le veía sino un ojo, y con paraguas.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 61. — Con en."
+            },
+            {
+              "texto_cita": "«Habiéndolos encontrado en el camino, nos rogaron y persuadieron que viniésemos con ellos hasta el Andalucía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 36 (R. 1.355 1 ). x"
+            },
+            {
+              "texto_cita": "«Ya en el camino hemos encontrado a don Luis.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote , 5 (p. 352). x"
+            },
+            {
+              "texto_cita": "«Según me dijo ese muchacho a quien encontramos en la Puerta,debe toldar esta noche en Santa Ana.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María , p. 263. — Con por ."
+            },
+            {
+              "texto_cita": "«Sí encontraba poetas por las calles, | Me ponía a pensar ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje, 6 (R. 1. 699 2 ). — En forma refl. Con en. x"
+            },
+            {
+              "texto_cita": "«Enanticos que fui a buscar la yegua me encontré a la vieja en el guayabal, que iba para casa.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 210."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con cuatro amigos suyos --- bajaba por la misma cuesta que el hidalgo subía. Encontráronse los dos escuadrones, el de las ovejas con el de los lobos; y con deshonesta desenvoltura Rodolfo y sus camaradas, cubiertos los rostros, miraron los de la madre, y de la hija, y de la criada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 6 (R. 1. 166 1 ). — Part. Aplicado a objetos que se mueven en direcciones opuestas y paralelas."
+            },
+            {
+              "texto_cita": "«En lo interior cerraban [las hojas] dos enormes | Encontrados cerrojos.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 12 (1. 375)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Intrans. El acus . pasa a compl. con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salgo después de aquel lugar atónito; y, encontrando con al gunos hombres, pongo los ojos en ellos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1 , miérc. en la noche (R. 8. 40 2 )."
+            },
+            {
+              "texto_cita": "«El caminante dijo que aquella madrugada habían encontrado con aquellos pastores.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 13 (R. 1. 278 1 )."
+            },
+            {
+              "texto_cita": "«Poco trecho se había alongado D. Quijote del lugar de D. Diego, cuando encontró con dos como clérigos o como estudiantes, y con dos labradores.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 19 (R. 1. 442 2 )."
+            },
+            {
+              "texto_cita": "«Entró en Madrid, y a pocas calles andadas, encontró con el paje.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 1 (R. 1. 106 1 )."
+            },
+            {
+              "texto_cita": "«Volviéndose a su posada, en la mitad del camino encontró con don Antonio de Isunza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 10 (R. 1. 212 2 )."
+            },
+            {
+              "texto_cita": "«Con esto la dejó Periandro, y, al salir de la estancia, encontró con Clodio y Rutilio.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. 2. 7 (R. 1. 600 2 )."
+            },
+            {
+              "texto_cita": "«Hoy el marqués a visitarte entraba: | Y, encontrando conmigo, | Que sola acaso el corredor pasaba, | Entre tiernas razones | Comenzó a encarecerme sus pasiones.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse, 2. 10 (R. 20. 110 1 )."
+            },
+            {
+              "texto_cita": "«Al acercarse encontró con algunos hombres que huían espantados, y de ellos supo que la sierpe, no lejos de allí, reñía con un león.»",
+              "autor": "Quint.",
+              "referencia_obra": "Guzmán el Bueno (R. 19. 479 1 ). — met. +"
+            },
+            {
+              "texto_cita": "«¡Si vuestra merced se atreviese a andar un poco más ligero por el camino de Dios ---! Creo encontraría vuestra merced con tales cosas, que dejaría el cántaro, como la Samaritana por mejor gozar del agua viva que Cristo da.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst. 1. 10 (1. 307)."
+            },
+            {
+              "texto_cita": "«Al caminar por la duda | Encontró con la evidencia.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Entre bobos anda el juego, 3 (R. 54. 33 3 ). — Con en. +"
+            },
+            {
+              "texto_cita": "«Yo me iba entreteniendo por el camino, considerando en estas cosas, cuando, en pasando Torote, encontré con un hombre en un macho de albarda, hablando entre sí con gran priesa.»",
+              "autor": "",
+              "referencia_obra": "Quev . Buscón, 8 (Cl. C. 5. 99) . — En forma refl."
+            },
+            {
+              "texto_cita": "«Fue [Sancho] a escuras adonde estaba el ventero, y, encontrándose con el cuadrillero, que estaba escuchando en qué paraba su enemigo, le dijo ---.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 17 (R. 1. 288 2 )."
+            },
+            {
+              "texto_cita": "«Sale de su casa [este agorero], encuéntrase con un fraile de la orden del bienaventurado san Francisco, y, como si hubiera encontrado con un grifo, vuelve las espaldas y vuélvese a su casa.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 58 (R. 1. 525 2 ). +"
+            },
+            {
+              "texto_cita": "«Saliendo de Ciudad Real, me encontré con un mozo de muy bien talle, que parecía extranjero.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 13 (Cl. C. 43. 175) ."
+            },
+            {
+              "texto_cita": "«Habiéndose encontrado con los que huían, hizo con ellos no menor matanza.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 8. 5 (R. 30. 226 1 ). x"
+            },
+            {
+              "texto_cita": "«Andando por las carreteras de la sabana, no es raro divisar a larga distancia un bulto amarillento del altor de una casa que se mueve en vaivenes tenues y regulares. Adelantando, notamos que avanza hacia nosotros, y al fin, encontrándonos con la mole, advertimos que es un montón muy grande y entrelazado de canastas vacías.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 185). — met."
+            },
+            {
+              "texto_cita": "«El té, viniendo del imperio chino, | Se encontró con la salvia en el camino.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb. 40 (1. 62)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Llegar hasta donde está una persona o cosa ( intrans. ) . Con un compl. precedido de con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando fue por Cornelia, encontró con Sulpiçia, su doncella, de quien supo que Cornelia no había una hora que había parido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 10 (R. 1. 218 2 )."
+            },
+            {
+              "texto_cita": "«Nunca me ha visto la cara [ el Duque ], | Y, deseoso de verla, | Entró y encontró conmigo | Preguntóme que quién era.»",
+              "autor": "Mto.",
+              "referencia_obra": "Lo que puede la aprehensión, 2. 4 (R. 39. 175 2 )."
+            },
+            {
+              "texto_cita": "«Corrió [Ojeda] la costa abajo hasta encontrar con el puerto y pueblo de Chirivichí.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 450 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No acaban los hombres de despreciar estos bienes falsos y perecederos, y abrazar el sumo Bien, habiendo tan poco camino que andar hasta encontrar con él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 1, 1ª pte. § 2 (R. 8. 167 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Llegar adonde está una persona o cosa y percibir su estado. Este sentido es muy similar al de la acep. 3, d ; pero, a diferencia de ésta, se da aquí una idea de movimiento, de convergencia en un lugar.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Trans. Con predicado nominal concertado con el acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Prosiguiendo su camino, encontró recostado a la sombra de un sauce a Manilio.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis, 3 (163)."
+            },
+            {
+              "texto_cita": "«No entregados al sueño y al reposo | A los fuertes caudillos encontraron, | Que en vela estaban todos y con armas.»",
+              "autor": "",
+              "referencia_obra": ". Hermosilla, Iliada. 10 (1. 289). x"
+            },
+            {
+              "texto_cita": "«Al llegar al altar de Nuestra Señora, la encontró allí sana y salva arrodillada.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Andanzas y visiones esp. p. 117. x"
+            },
+            {
+              "texto_cita": "«Cerré los ojos, fui a su casa, la encontré acompañada de gente extraña, y salí por lo pronto del aprieto.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 9 (p. 82). x"
+            },
+            {
+              "texto_cita": "«Salí, y al regresar con algunos papeles que debían ponerse en los baúles, encontré a María recostada en la bada del corredor.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 201."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Intrans. El acus. pasa a compl. circunstancial precedido por con. En forma refl. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En fin, que, a los quince días, fui a hacer una de mis visitas de regla y me encontré con Peregil, muy repantigado y muy a gusto al lado de Magdalena y bien unido con ella.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 18 (p. 198)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Unirse dos objetos, Ponerse en contacto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Recípr. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El punto en que han de encontrarse los dos tramos del túnel.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. s. v ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. Con en . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volteadas [las bóvedas] en torno entre muros circulares y concéntricos, y sostenidas en grandes, pero estrechas y muy resaltadas fajas octágonas, que representan arcos encontrados y cruzados en lo alto, es visto de cuán gracioso y extraño efecto serán.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. del castillo de Bellver (R. 46. 393 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Dicho de las manos, dedos, etc., Tocar un objeto, entrar en contacto con él ( intrans. ) . Con la prep. con . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las puntas de los dedos son las que primero encuentran con las cosas.»",
+              "autor": "",
+              "referencia_obra": "J. de Pineda, Agr. crist . 8. 23 (R. 162. 196 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En forma refl. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi brazo oprimió suavemente el suyo, desnudo de la muselina y encajes de la manga; su mano rodó poco a poco hasta encontrarse con la mía.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 125."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Tratándose de los ojos, la vista, etc., Unirse, confluir las miradas de dos personas.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Solamente María y yo podíamos suponer la causa, y nuestras miradas se encontraron para decirla.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 146. x"
+            },
+            {
+              "texto_cita": "«Largo tiempo debió correr desde que mi mano asió en el sofá la de María, y nuestros ojos se encontraron para no cesar de mirarse.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 168."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Intrans. Con un compl. precedido por con o, rara vez, en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus ojos en los míos se encontraron, | Y con la fuerza de su fuego el pecho | Sintió la aguda vira en las entrañas.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son. 81 (R. 32. 274 1 ). x"
+            },
+            {
+              "texto_cita": "«María me ocultaba sus ojos tenazmente; pero pude admirar en ellos la brillantez y hermosura de los de las mujeresde su raza en dos o tres veces que, a su pesar, se encontraron de lleno con los míos.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 14. x"
+            },
+            {
+              "texto_cita": "«Sus miradas, al encontrarse con las mías, no tendrían ya nada que ocultarme.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 33 ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Coincidir en los gustos, afectos, pensamientos, etc.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Recípr. El sust. que indica el gusto, afecto o pensamiento va precedido por en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Rara casualidad por cierto que el P. Villanueva y yo nos hayamos encontrado en nuestras investigaciones!»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 253 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. En forma refl. Con las preps. con y, a veces, en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay cosa más cierta que en las cosas súbitas encontrarse la lengua con lo que está en el corazón.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana, 1 (38)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con sentido recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es tan rica y tan copiosa [esta materia], que hay para hacer muchos tratados della, sin encontrarse uno con otro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 16 (R. 6. 58 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Los gustos, pensamientos o afectos pasan a desempeñar la función de sujeto.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He procurado que sea nueva la invención, y no sé si lo habré conseguido, siendo muchos los ingenios que han pensado en este estudio y fácil encontrarse los pensamientos, como me ha sucedido, inventando algunas empresas, que después hallé ser ajenas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. advert. (R. 25. 3)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Intrans. Con la prep. con y en forma refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bien conoció que amor con la ventura | Pocas veces se encuentra y menos dura.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 6 (R. 17. 207 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Chocar, tropezar, tocarse más o menos violentamente dos cuerpos.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque un ciego en una calle | O en un aposento que entre | Al que tiene vista encuentre, | No puede nadie culpalle.»",
+              "autor": "Lope",
+              "referencia_obra": ", La inocente Laura, 1. 1 (R. 52. 476 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El sol se escurece, el velo del templo se rompe, las piedras se encuentran, los muertos resucitan.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro, 4. 147)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Unos con otros los peñascos duros | Y las menudas piedras se encontraron, | Y a golpes sacudidas se partieron: | Tanto la muerte de su Dios sintieron.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 12 (R. 17. 500 1 ). — Intrans."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con , para indicar el objeto con que se choca.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Furioso por la sala se pasea, | Hasta que fue a encontrar con una esquina; | Adonde dio a entender con tal suceso | Que no está loco quien descubre el seso.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. 2 (R. 17. 580 2 )."
+            },
+            {
+              "texto_cita": "«Al sentir que iba a abrir [ don Félix ], | Por retirarme encontré | Con los vidrios, que quebré.»",
+              "autor": "Cald.",
+              "referencia_obra": "¿Cuál es mayor perfección?, 3. 8 (R. 7. 87 1 )."
+            },
+            {
+              "texto_cita": "«Aquí entramos; | A oscuras el cuarto hallamos, | Y acaso encontró con vos | Porque él se arrojó delante.»",
+              "autor": "Mto.",
+              "referencia_obra": "La fuerza de la ley, 2 . 17 (R. 39. 93 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con un compl. precedido de en, para indicar lo mismo que en el caso anterior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Fuera acierto conocido, | Para excusar que un espejo — No se quiebre, junto a él mismo | Poner piedras en que encuentre?»",
+              "autor": "Cald.",
+              "referencia_obra": "El mayor monstruo los celos , 1. 13 (R. 7. 486 2 ) — Puede construirse además con otro compl. precedido por con, para indicar la parte corporal afectada por el choque."
+            },
+            {
+              "texto_cita": "«Dio un grito, y, las velas muertas, | Me obligó a salir aprisa; | Y con el miedo y la pena, | En un pilar de la casa, | Pensando que era la puerta, | Encontré con las narices | Por reservar la cabeza.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mejor mozo de España, 2. 14 (R. 41. 622 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Tropezar con una dificultad, peligro u obstáculo, sea de orden material o inmaterial; en este último caso adquiere un valor met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans . x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Habrá alguien que encuentre inconveniente alguno en creer que el abuelo de Cervantes era del pueblo del Toboso?»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 14 (p. 390). x"
+            },
+            {
+              "texto_cita": "«Vivir es no encontrar limitación alguna; por tanto, abandonarse tranquilamente a sí mismo.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas, 7 (p. 118). x"
+            },
+            {
+              "texto_cita": "«Yo me complacía en la dificultad que ella encontraba para preguntarme si había hablado de nuestro amor a Carlos.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 116 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. El acus. pasa a compl. circunstancial precedido por con . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ponga sus ojos en quien la sacó, que Él la defenderá --- para que no encuentre con malos encuentros.»",
+              "autor": "Ávila",
+              "referencia_obra": "Epist. 2. 90 (1. 644)."
+            },
+            {
+              "texto_cita": "«Navegamos por más de ocho millas por hora, sin llevar otro temor alguno sino el de encontrar con bajel que de corso fuese.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 41 (R. 1. 371 2 )."
+            },
+            {
+              "texto_cita": "«Estaré esperando también suspensa, cuál fue la primera hazaña que hicisteis y la aventura primera con que encontrasteis.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 2. 13 (R. 1. 609 2 )."
+            },
+            {
+              "texto_cita": "«Este escuadrón encontró acaso con un gran número de caballería enemiga que le rodeó por todas partes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp, 10. 15 (R. 30. 299 1 ). +"
+            },
+            {
+              "texto_cita": "«Permitió Dios que Pedro de Albarado, a quien iba apartando de su compañero la misma senda que seguía, encontrase con unos pantanos que le obligaron a torcer el camino.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 18 (R. 28. 227 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la desdicha mayor | Con otra mayor encuentro.»",
+              "autor": "Rojas",
+              "referencia_obra": ", La traición busca el castigo , 2 (R. 54. 246 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "De la idea de chocar se pasa a la de Enfrentarse o batirse con el enemigo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«D. Quijote volvió las riendas a Rocinante para tomar lo que convenía del campo para volver a encontrar a su contrario, y lo mismo hizo el de los Espejos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 14 (R. 1. 432 2 ). +"
+            },
+            {
+              "texto_cita": "«Salió [el arzobispo de Toledo] con un ejército a encontrar al enemigo.»",
+              "autor": "Quint.",
+              "referencia_obra": "Guzmán el Bueno (R. 19. 211 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un compl. precedido de con , para indicar el modo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encontró [D. Quijote] al de los Espejos con tanta fuerza, que mal de su grado le hizo venir al suelo por las ancas del caballo.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 14 (R. 1. 433 1 )."
+            },
+            {
+              "texto_cita": "«Llegó [el de la Blanca Luna] a D. Quijote a dos tercios andados de la carrera, y allí le encontró con tan poderosa fuerza, sin tocarle con la lanza, que la levantó al parecer de propósito, que dio con Rocinante y con D. Quijote por el suelo una peligrosa caída.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 64 (R. 1. 542 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Recípr . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acudieron de una y otra parte valedores y amigos, estando ya los ánimos prevenidos y alterados como sospechosos, y con esto las fuerzas de entrambas naciones se encontraron para su total ruina y perdición.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. de cat. y arag . 8 (R. 21. 9 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tocóse arma con grande confusión, y la vanguardia del uno con la retaguardia del otro se encontraron.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. de cat. y arag. 52 (R. 21. 50 1 ). — Con la prep. con, para indicar el modo. +"
+            },
+            {
+              "texto_cita": "«Llegaron al campo, diose la señal, y se encontraron unos con otros con tal ímpetu, que las lanzas se les quebraron.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitán (R. 19. 264 2 ). — met."
+            },
+            {
+              "texto_cita": "«Luchando entonces | Las ondas con las ondas se encontraron.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Al mar (R. 19. 20 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En esta aventura se deben de haber encontrado dos valientes encantadores, y el uno estorba lo que el otro intenta.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 29 (R. 1. 467 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la voz de sus labios inmortales | Temblaron los dos polos encontrados; | Paróse el cielo, retumbó la tierra, | Y el infierno temió segunda guerra.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 2 (R. 17. 412 1 ). +"
+            },
+            {
+              "texto_cita": "«Llamando [don Francisco Toraldo] ante sí a Annese y a Panarella, los obligó a hacer las paces --- y dejar las armas a las encontradas turbas que capitaneaban.»",
+              "autor": "Saav.",
+              "referencia_obra": "Masan. 2. 8 (R. 102. 216 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. Con un compl. precedido por la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vuelan, movidas de rencor, las naves, | Con naves a encontrar.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Trafalgar (R. 19. 17 2 ). +"
+            },
+            {
+              "texto_cita": "«Hecho esto, volvió a subir a su galera, puso con ligereza increíble la escuadra en orden de batalla, y partió furiosamente a encontrar con la enemiga.»",
+              "autor": "",
+              "referencia_obra": "Id. R. de Lauria (R. 19. 220 2 ). +"
+            },
+            {
+              "texto_cita": "«Su vanguardia encontró tan furiosamente con la del Rey, que, aunque compuesta de sus mejores batallones, le fue forzoso ciar.»",
+              "autor": "Viana",
+              "referencia_obra": "(R. 19. 237 2 )."
+            },
+            {
+              "texto_cita": "«Sale él mismo al frente de sus tropas a encontrar con los franceses.»",
+              "autor": "",
+              "referencia_obra": "Id. Gran Capitán (R. 19. 269 1 )."
+            },
+            {
+              "texto_cita": "«Un día al fin más afortunados, encontrando con oficiales menos diestros o esforzados, arrollaron la guardia de la orilla opuesta.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (R. 19. 269 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se dirige al campo del rey su tío, que iba ya a encontrar con el ejército francés en el paso de los Pirineos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Introd. a la Musa ép. (R. 19. 171 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En forma refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Huía de encontrarse con el enemigo, y no quería ponello todo al trance de una batalla.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 14. 7 (R. 30. 411 2 ). — Absol."
+            },
+            {
+              "texto_cita": "«Suplico a vuestra merced, señor mío, que, antes que vuelva a encontrarse, me ayude a subir sobre aquel alcornoque, de donde podré ver más a mi sabor, mejor que desde el suelo, el gallardo encuentro que vuesa merced ha de hacer con este caballero.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 14 (R. 1. 432 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met. En los siguientes textos, Afrentar, menoscabar o debilitar ( trans. ) .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues ¿quién será tan ciego que en tal manera de vida piense que se podrá hallar bienaventuranza, donde tanta infinidad de miserias hay que la agüen y encuentren?»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 3, § 1 (R. 6. 290 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué gravedad no encuentras? | ¿Qué hermosura no asustas? ¿Qué clausura | Sacrílega no entras?»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 4. 3 ( Obr. suelt . 19. 326) ."
+            },
+            {
+              "texto_cita": "«Justificaba [el conde-duque] la causa de los alojamientos y cuarteles en Cataluña; negaba que fuesen en forma de encontrar sus fueros.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 480 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Enemistar, enfrentar ( trans .). Con la prep. con.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tiene atajadas y como cortadas cuasi todas las ocasiones, y cuanto es de su parte sin duda todas las que le pueden encontrar con los hombres.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Príncipe (3. 212)."
+            },
+            {
+              "texto_cita": "«Creerá infaliblemente el mundo que quien encuentra a tan soberano hijo con tan esclarecida madre, habrá sido ocasión de la diferencia de los cuñados.»",
+              "autor": "Quev.",
+              "referencia_obra": "Carta a Luis XIII (R. 23. 415 2 )."
+            },
+            {
+              "texto_cita": "«No sólo los encontró [san Pablo a los judíos] unos con otros, sino que obligó a que le defendiese la parte que en la república de los judíos era de mayor crédito y autoridad.»",
+              "autor": "",
+              "referencia_obra": "Id. Vida de S. Pablo (R. 48. 40 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Recípr. Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y a la verdad el neutral, pensando excusar un enemigo, gana dos, porque ninguno de los príncipes encontrados tiene dél entera satisfacción, antes un odio encubierto, que es peor que enemistad declarada.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gobern. críst. 2. 25 (312; Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«Estaban encontrados los ánimos del rey de Castilla, don Fernando el Grande, y don García, rey de Navarra.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 51 (R. 25. 138 1 )."
+            },
+            {
+              "texto_cita": "«Si los reinos estuvieren divididos en bandos de encontradas familias, es prudente consejo prohibir tales apellidos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 73 (R. 25. 200 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. En forma refl. y con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que endereza sus pasos conforme a Cristo, no se encuentra con nadie, a todos les da ventaja, no se opone a sus pretensiones.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Camino (3. 55)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por mañas del bando contrario, estaba ya encontrada [la reina] con el infante don Pedro.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 12 (R. 30. 446 2 )."
+            },
+            {
+              "texto_cita": "«Vivió infinitos años encontrado | Con otro sabio, y nunca había podido | Vengar en él el corazón airado.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, sát. (R. 69. 235 2 )."
+            },
+            {
+              "texto_cita": "«Aunque muy encontrado con don Rodrigo Ponce, marqués de Cádiz, le socorrió cuando le tenían cercado los moros en Alhama.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 9 (R. 25. 31 2 ). -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Contradecir, estar en desacuerdo u oposición.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como haya dos maneras de servicios de Dios, unos voluntarios y otros obligatorios, cuando éstos acaeciere encontrarse, siempre han de preceder los obligatorios a los voluntarios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 17, § 5 (R. 6. 155 2 )."
+            },
+            {
+              "texto_cita": "«Imposible parece que no se encuentren las órdenes y los dictámenes de dos gobernadores.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 70 (R. 25. 193 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la enfermedad los humores y todas las partes del cuerpo, roto el concierto y la armonía con que componen su misma salud, cada uno va por su parte, y encuéntranse unos con otros, y contradícense, y peleando destrúyense, a costa de dolor del que padece.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 33 (2. 166)."
+            },
+            {
+              "texto_cita": "«No pareciera mal que algunas de las iglesias catedrales y algunos conventos que se hallan con suficientes dotaciones de capellanías y aniversarios, en cuyo cumplimiento se ofrecen cada día mil dificultades por ser muchas en número y encontrarse unas con otras, desecharan algunas.»",
+              "autor": "",
+              "referencia_obra": "Navarrete, Conserv. de monarq. 45 (R. 25. 541 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con entre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hace que se encuentren el entendimiento y la voluntad entre sí, de donde se enciende en nosotros mismos una guerra mortal de contradicción.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Rey (3. 186)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Es imposible servir a dos señores que son de encontrados pareceres.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 2. 13 (R. 11. 118 1 )."
+            },
+            {
+              "texto_cita": "«Ninguna cosa se pudo efectuar, por estar tan alteradas las voluntades y tan encontradas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 18. 15 (R. 31. 27 1 )."
+            },
+            {
+              "texto_cita": "«Y si no estaba bien con ellos, y viere encontrados el poder temporal y el espiritual, se desmandará y atreverá contra la religión.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 27 (R. 25. 72 2 )."
+            },
+            {
+              "texto_cita": "«Las provisiones y despachos que venían de la corte se hallaban tan encontradas, ahora hablando en muchos ejércitos, ahora con diferentes generales, que apenas entre las dudas se podía atinar con la resolución.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 3 (R. 21. 495 2 )."
+            },
+            {
+              "texto_cita": "«Siendo Horacio un poeta bastante obscuro, y tan encontradas las opiniones de los doctos sobre la inteligencia de algunos textos, acaso no siempre habré acertado a elegir la mejor.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Donde las dan las toman (6. 33)."
+            },
+            {
+              "texto_cita": "«Aun aquellas dos potestades, a quienes siempre ha dividido, más que la diferencia de sus objetos, los encontrados intereses de sus depositarlos, se vieron concurrir desde entonces unidas y conformes al arreglo de los negocios públicos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la legisl. y la hist. (R. 46. 290 2 )."
+            },
+            {
+              "texto_cita": "«Solo con determinar su significación [de la palabra soberanía ] se conciliarían los pareceres más encontrados sobre la idea que enuncia.»",
+              "autor": "",
+              "referencia_obra": "Id. Def. de la Junta Central, apénd. nota 1 (R. 46. 619 1 ). +"
+            },
+            {
+              "texto_cita": "«Estas [fuertes conmociones] nacen de la incertiumbre, de la alternativa de temor y de esperanza, del flujo y reflujo de sentimientos encontrados.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. a la Poét. 5. 13 (1. 233). x"
+            },
+            {
+              "texto_cita": "«Si se cumpliera la profecía de Polión, si llegaran a amigarse las aspiraciones y necesidades más encontradas, dejaría de haber notas específicas.»",
+              "autor": "Pulgar",
+              "referencia_obra": ", 1 (p. 226) . — Con en, para indicar el lugar."
+            },
+            {
+              "texto_cita": "«Se comienza a pacificar el reino del alma y a concertar lo que en ella estaba encontrado.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Príncipe (3. 220). — Con en, para indicar la materia en que se centra la oposición."
+            },
+            {
+              "texto_cita": "«Los más encontrados en voluntad y opinión concuerdan en las alabanzas del P. M. Fray Luis de Granada.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 3. 6 (193). —Con en , para indicar lo mismo que en el caso anterior, y entre ."
+            },
+            {
+              "texto_cita": "«Encontrados entre sí los árabes, egipcios y caldeos, así en el número de los cielos como en sus movimientos, orbes diferentes, ecuantes y epiciclos, presuponiéndolos cada uno según su modo de entender, sin saber si están así ---.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep. (R. 25. 407 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. En forma refl. y con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nos pide este Señor --- que no tengamos ley con padre ni madre, ni con otra cosa criada, cuando se encontrare con lo que manda Dios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 9 (R. 6. 39 1 )."
+            },
+            {
+              "texto_cita": "«El que no rompiere con el mundo y del todo le perdiere el respeto en las cosas que se encuentra[n] con la ley de Dios ---.»",
+              "autor": "Doctr.",
+              "referencia_obra": "crist . 2. 13 (R. 11. 118 1 )."
+            },
+            {
+              "texto_cita": "«De donde tenemos eficacísimo ejemplo para no hacer caso de razones y prudencias de mundo, cuando se encontraren con la palabra de Dios y con la lumbre del Evangelio.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 7 (R. 8. 520 2 )."
+            },
+            {
+              "texto_cita": "«Porque el celo de la honra y gloria que a Dios se debe, todas estas obligaciones ha de poner debajo de los pies, cuando se encuentran con esta grande obligación.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 5. 2. 4, § 1 (R. 6. 619 1 )."
+            },
+            {
+              "texto_cita": "«Puede haber paz en él por tres diferentes maneras: una, si estuviere bien concertado con Dios; otra, si él dentro de sí mismo viviere en concierto; y la tercera, si no se atravesare y encontrare con otros.»",
+              "autor": "",
+              "referencia_obra": "Id. Nomb. 2, Príncipe (3. 206)."
+            },
+            {
+              "texto_cita": "«No cuidará de la abundancia quien tiene su interés y logro en la carestía, ni dará consejos generosos si se encuentra con sus ganancias.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 53 (R. 25. 142 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para indicar la materia en que se centra la oposición.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El odio dice: Nunca Dios quiera que tú ames a quien en todas las cosas se encuentra contigo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 13, § 1 ( R. 6. 141 1 )."
+            },
+            {
+              "texto_cita": "«Dios no oprime a nadie en manera, ni se guía en cosa alguna por todo en lo cual se encontraría por una parte con su providencia, que endereza a buen fin todas las cosas, y por otra con su bondad infinita.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 10 (1. 174)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Actuando como sujeto una prop. subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se encuentra con la paciencia que el puesto en desventura y herido sienta lo que le duele y publique lo que siente con palabras y señas.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 3 (1. 34)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part . Con sobre , para indicar la materia en que se centra la oposición. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asistía en Granada por Capitán General el Marqués de Mondéjar --- sobre precedencia encontrado con las justicias.»",
+              "autor": "Fuenmayor",
+              "referencia_obra": ", Vida de S. Pío V, 4 (p. 141)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hallar, o alcanzar con los sentidos o el entendimiento aquello tras lo que se anda ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo tragado [el envidioso] algunos cuartillos de agua, salió hacia arriba, y lo primero que encontró con que asirse fue la pierna mía.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 21 (Cl. C. 43. 254). x"
+            },
+            {
+              "texto_cita": "«Sueño florido lleva el manso viento; | Bulle la savia joven en las nuevas ramas; | Tiemblan alas y frondas | Y la mirada sagital del águila | No encuentra presa.»",
+              "autor": "Machado",
+              "referencia_obra": ", Poesías completas, p. 50. x"
+            },
+            {
+              "texto_cita": "«¿No oyes que Juan me llama y llora porque no me encuentra?»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 66 . x"
+            },
+            {
+              "texto_cita": "«Había revisado mi padre las firmas de algunas cartas de las que contenía el paquete y encontrando por fin lo que deseaba, me dijo ---.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 130 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hoy la Granja son ruinas. Lo único que permanece igual es el verde florido valle, el convento de las resignadas encinas que abrigan a los pajarillos, que sin cesar cantan la gloria del Señor, y cantándola le buscan y le encuentran.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Andanzas y visiones esp. p. 13 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas. refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para ser verdadero el amor y que dure la amistad, hanse de encontrar las condiciones, y la del Señor ya se sabe que no puede tener falta.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 8 (R. 53. 39 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. El acus. pasa a compl. circunstancial precedido por con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por el rastro conocen las pisadas de cualquiera fiera o persona, y con tanta presteza que no se detienen a conjeturar, resolviendo por señales, a juicio de quien las mira livianas, mas al suyo tan ciertas, que, cuando han encontrado con lo que buscan, parece maravilla o embaimiento.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granada, 2 (R. 21. 86 1 )."
+            },
+            {
+              "texto_cita": "«Iba con cuidado de encontrar con algo que le diese motivo para trabar plática y cuestión de letras santas.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 5. 11 (523)."
+            },
+            {
+              "texto_cita": "«Entró en el monasterio en busca de su hijo; andúvole todo, mas no pudo encontrar con él.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 6. 10 (R. 30. 163 2 )."
+            },
+            {
+              "texto_cita": "«Ciego estoy: ¿qué puedo hacer? | Con la puerta no he encontrado. | Este es sin duda el portal.»",
+              "autor": "Cald.",
+              "referencia_obra": "Peor está que estaba, 2. 15 (R. 7. 102 2 )."
+            },
+            {
+              "texto_cita": "«Los padres se adelantan, y una a una | Los troncos reconocen con prolijo, | Afán, hasta encontrar con el del hijo.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 3 ( Fern. 7. 71)."
+            },
+            {
+              "texto_cita": "«Otro auriga | Se encaminó a buscar. Ni largo tiempo | De guía carecieron los bridones, | Porque pronto encontró con el valiente Arqueptólemo.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 8 (1. 226)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni el temor encontraba con la fuga, ni la turbación las apartaba [las piraguas] del peligro.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 22 (R. 28. 380 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En forma refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deseaba [Aquiles] | Encontrarse con Héctor, e impaciente | Estaba por matarle.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 20 (2. 260)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Llegar a tener delante una persona o cosa, que, por lo general, aparece inesperadamente o por casualidad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans. En forma refl. y con un predicado nominal concertado con el acus. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin que yo hubiera aún contraído compromiso formal alguno, de la noche a la mañana me encontré ya formada The Isthmus of Panama Land and agricultural Company, Limited. »",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 20 (p. 227) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. El acus. pasa a compl. circunstancial precedido por con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vos habéis topado con vuestra buena suerte en haber encontrado conmigo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 112 2 ). +"
+            },
+            {
+              "texto_cita": "«Perdónerne V., Señoría Ilustrísima, si la canso con estas niñerías que me pasaron con este médico, que las digo porque quizá encontrará con ellas alguno a quien aprovechen.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 4 (Cl. C. 43. 84)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En forma refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquello que como óleo nada sobre otros licores y, cuando se encuentra con cualquiera otra cosa, la sobrepuja y tiene debajo ---»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Purific. ( Vida de la Virgen, 161). x"
+            },
+            {
+              "texto_cita": "«Una tarde, al dirigirse el interesado a la imprenta donde le estampaban la defensa, se encontró con un aviso fijado en las esquinas.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 176). x"
+            },
+            {
+              "texto_cita": "«Al encontrarse ahora este ensayo con lectores que no estaban previstos, temo que padezca su contenido algunas malas interpretaciones.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Esp. invertebr. p.2 . — Con un compl. de lugar con en."
+            },
+            {
+              "texto_cita": "«Cuando con él te encuentres en las lides, | Lejos te aparta, si bajar no quieres | Antes de tiempo a la región oscura.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 20 (2. 272). — Con un compl. de lugar con por."
+            },
+            {
+              "texto_cita": "«Si yo por malos de mis pecados o por mi buena suerte, me encuentro por ahí con algún gigante, como de ordinario les acontece a los caballeros andantes ---.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 1 (R. 1. 258 1 ). — met. Aplicado al mundo abstracto. x"
+            },
+            {
+              "texto_cita": "«A mayor abundamiento, enfermé, y cuando, terminado el año escolar, vino mi padre, se encontró con la decisión de los médicos, que ordenaban que, para evitar mayores males, yo mudase de temperamento.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 5 (p. 41)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Descubrir, dar con una cosa oculta o desconocida ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Puede llevar un compl. de lugar con en. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y en cuanto al accidente Juan y José Pinzones, dice nuestro compañero que ha encontrado un caso en la Historia general de España --- y algunos en la Historia pontifical.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 213). x"
+            },
+            {
+              "texto_cita": "«Los versos de esta canción habían sido compuestos por mí. Emma, que los había encontrado en mi escritorio, les adaptó la música de otros que estaban de moda.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 89 . x"
+            },
+            {
+              "texto_cita": "«¿Te gustaría encontrar en cada carta mía que recibas un pedacito de las azucenas que dé?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 196."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. de persona o cosa precedido por a o para respectivamente. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue detenida --- una falúa sospechosa que venía --- con seis marineros y cuatro hombres armados, y, como encontraron a uno de ellos un paquete de cartas, condujeron a todos maniatados a presencia del pescadero.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 15 (R. 102. 171 2 ). x"
+            },
+            {
+              "texto_cita": "«Veamos el remedio que usted ha encontrado para el mal, porque ya voy creyendo que es cosa grave.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 210."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El acus. pasa a compl. precedido por con. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué impedimento tuvo Colón para no encontrar con los huertos de las Hespérides?»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 8. 9 (R. 162. 167 2 )."
+            },
+            {
+              "texto_cita": "«Guardaos, compadre; no encuentren con vuestro título los frailes de la redención de cautivos, que os le llevarán por mostrenco.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 5 (R. 1. 163 2 )."
+            },
+            {
+              "texto_cita": "«Y hay quien lo refiera [e dicho de aquel loco] como vaticinio ---. Dejemos a los filósofos el discurrir sobre si cabe el acierto de las cosas futuras entre los errores de la imaginación, o si es posible a la destemplanza del juicio el encontrar con la adivinación.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 1. 10 (R 28. 217 2 )."
+            },
+            {
+              "texto_cita": "«Los lleva paso a paso de una verdad conocida a otra desconocida, hasta encontrar con el fin como consecuencia necesaria de una serie de proposiciones.»",
+              "autor": "",
+              "referencia_obra": "Jovell Human. castell. Retor. (R. 46. 136 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en, en lugar de con . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si, estando ella [la Hidra] durmiendo, pasaba alguno por el campo y ella encontraba en el rastro, con resolgar en él mataba a cuyo era.»",
+              "autor": "J. de Pineda",
+              "referencia_obra": ", Agr. crist. 7. 9 (R. 162. 103 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En forma refl. Con la prep. con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hombre, a más del ser de su conciencia o, como se dice ahora, del yo , encuentra un ser distinto, una cosa que no es él, un no yo , luego los simples fenómenos del alma nos cercioran de que no hay una sola sustancia, pues, cuando menos, nos encontramos con dos: el yo y el no yo .»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Teod. 10. 3 (343). x"
+            },
+            {
+              "texto_cita": "«Yendo [Colón] en busca de una cosa, se encontró con otra que no buscaba, y se murió sin saber a ciencia cierta lo que había encontrado.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Andanzas y visiones esp. p. 64. — Con dentro de. x"
+            },
+            {
+              "texto_cita": "«El hombre medio se encuentra con ‘ideas’ dentro de sí, pero carece de la función de idear.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas, 8 (p. 130)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. En particular, Conocer una persona, descubrir en ella alguna de sus cualidades. Con la prep. con . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh qué bien hablas!— dijo nuestro amo — y ¡cómo he gustado de encontrar contigo para que seas maestro de mi hijo!»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 2. 8 (Cl. C. 51. 65)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Percibir, notar u observar con los sentidos o el entendimiento",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí [en la soledad] restituido a sí mismo y al estudio y a la contemplación que hacen su delicia, encuentra aquel inocente placer, cuya inefable dulzura solo es dado sentir y gozar a los amantes de las letras.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de la liter. y las ciencias (R. 46. 333 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un compl. de lugar en donde , precedido de prep., el cual, a veces, puede cambiarse en dat. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fui a casa de Magdalena esperando que algo repugnante que encontrara en ella me decidiese a resolver la cuestión.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 18 (p. 192). x"
+            },
+            {
+              "texto_cita": "«El marido había encontrado bajo la seductora corteza, que por un momento me había hechizado a mí, todos los amargores que yo había temido encontrar si en ella hincaba el diente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 20 (p. 232). x"
+            },
+            {
+              "texto_cita": "«Yo —dice el andaluz— no he encontrado en Madrid el calor.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote , 2 (p. 340). x"
+            },
+            {
+              "texto_cita": "«¿Cómo, por qué misterio encontráis este espíritu aristocrático bajo las ropas y atavíos del campesino?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6 (p. 356). x"
+            },
+            {
+              "texto_cita": "«Todos estamos en torno de una mesa cubierta de un mantel de damasco ---; hay sobre ella tazas de porcelana, finas tazas que os maravilla encontrar en el pueblo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 14 (p. 387). x"
+            },
+            {
+              "texto_cita": "«No es un espíritu excepcional este poeta. Pero en él encontramos, con toda su falta de consistencia y de hondura, el encanto de esas viejas estampas de revistas olvidadas, el atractivo inexplicable que nos produce este señor aquí dibujado, bajo las arcadas de un patio solitario.»",
+              "autor": "",
+              "referencia_obra": "Id. El paisaje de España, 1 (p. 406). x"
+            },
+            {
+              "texto_cita": "«Y ahora, el silencio, el maravilloso silencio que encontró Don Quijote en la casa del Caballero del Verde Gabán.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 9 (p. 454). x"
+            },
+            {
+              "texto_cita": "«Pero si os place amar vuestro poeta, | Que vive en la canción, no en el retrato, | ¿No encontraréis en su perfil beato | Conjuro de esa fúnebre careta?»",
+              "autor": "Machado",
+              "referencia_obra": ", Poesías completas, p. 230. x"
+            },
+            {
+              "texto_cita": "«Procuré no mostrarme impresionado; y haciendo todo esfuerzo para que la conversación fuera amena, hablé con entusiasmo de todas las mejoras que había encontrado en las fincas que acabábamos de visitar.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 25. x"
+            },
+            {
+              "texto_cita": "«Ella, tan cristiana y tan llena de fe, se regocijaba al encontrar bellezas por ella presentidas en el culto católico.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. p. 35. x"
+            },
+            {
+              "texto_cita": "«Mi padre, enternecido tal vez por sus lágrimas y acaso también por la resolución que en mí encontraba, conociendo que la voz iba a faltarle, dejó por unos instantes de hablar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 45. x"
+            },
+            {
+              "texto_cita": "«Las gentes porteñas le parecían cada día más alegres, comunicativas y despreocupadas; pero no encontraría grave mal en ello, puesto que, después de algunos meses de permanencia en la costa, él mismo se había contagiado convenientemente de aquella despreocupación.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 245. — Pas. refl. Con un compl. de tiempo con desde. x"
+            },
+            {
+              "texto_cita": "«Al Reglamento provisional empezaron a encontrársele tachas desde la segunda sesión.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil , 6 (p. 50)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con una prop. indic. como compl. directo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fermín era rubio y blanco ---, pero encuentro que la que más se parece a ti es Paca.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , 2 (1. 134) . — Pas. refl. Eliminada la conjunción. +"
+            },
+            {
+              "texto_cita": "«Aun los que el mundo llama héroes y en los anales se proponen por dechados de imitación, se encontrará distan mucho de la bondad verdadera.»",
+              "autor": "Arteaga",
+              "referencia_obra": ", Belleza ideal, 11 (Cl . C. 122. 148)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con un predicado nominal referido al compl. directo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A don Martín, su buen padre, | Anciano do hidalgo brío, | Encuentra sobresaltado, | Receloso y discursivo.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "La buena ventura, 2 (3. 118). x"
+            },
+            {
+              "texto_cita": "«Yo me les arrimé al Ministro de España y a mis colegas hispanoamericanos, pero los encontré muy desabridos para conmigo.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 20 (p. 224). x"
+            },
+            {
+              "texto_cita": "«Mi padre lo encontró [a Salomón] desfigurado moral y físicamente por el dolor.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 23."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con un compl. de modo precedido por en. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El encontrar a Feliciana en tan desesperante estado no podía menos de conmoverme.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 169."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "En forma refl. y con una prop. indic. como compl. directo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se reunieron un domingo los habitantes [de Schiavoni] para hacer también su insurrección. Y como se encontrasen que eran todos parientes y amigos, que no había autoridad contra quien rebelarse, ni riquezas que saquear ---, quedaron muy desconcertados y mohinos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Masan. 2. 1 (R. 102. 194 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. El acus. pasa a compl. precedido por con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El descanso y la seguridad la acompaña adonde quiera que endereza sus pasos, y a cualquiera parte que mira encuentra con el alegría y con el gozo.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. introd. (3. 426)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans. En particular, Formar una opinión sobre algo que se examina. Con un predicado del compl. directo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llegó ya el caso de que te diga lo que me parece de tu manuscrito ---. La prosa en general la encuentro castiza, fácil, numerosa, enérgica.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 2, p. 114. x"
+            },
+            {
+              "texto_cita": "«Voy a expresar a usted, me dijo, una idea que acaso encontrará discorde con otras ideas mías que nada tienen de absolutas.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 142). x"
+            },
+            {
+              "texto_cita": "«Él afirma que todas cuantas veces come de ellos, siempre encuentra mejores los que se halla comiendo cuando los come.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 6 (p. 359)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "δ )",
+          "definicion": "Refl. Sentirse, notarse. El significado, como puede observarse, se halla muy cercano a ‘estar’ (cfr. acep. 4, a ); pero en este caso se da una idea de ‘percibirse a sí mismo’, de ‘notar el propio estado o situación’, circunstancias éstas que se expresan mediante un predicado nominal, adverbio o frase adverbial equivalente. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí ramoneaban algunos caballejos molenderos rapados de crin y cola, correteaban potros y meditaban burros viejos, tan lacrados y mutilados por el carguío de leña y la crueldad de sus arrieros, que Buffón se hubiera encontrado perplejo al tener que clasificarlos entre los cuadrúpedos.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 54 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en seguida de un compl. de lugar. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Castelar no se sentía placentero en el Norte, y se encontraba a sus anchas en Levante.»",
+              "autor": "Azorín",
+              "referencia_obra": ", El paisaje de España, 7 (p. 439)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Estar en un determinado lugar o situación.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nuestra mirada volverá a caer sobre la estampa del claustro de la catedral, con sus malezas y sus cipreses. Allí, contemplando perennemente, mirando sin ver, rígido, enhiesto, se encuentra el soñador de antaño.»",
+              "autor": "Azorín",
+              "referencia_obra": ", El paisaje de España, 1 (p. 406). x"
+            },
+            {
+              "texto_cita": "«En 1858, la reina Isabel hizo un viaje a Alicante. Le presentaron en Alicante las frutas del país, en canastillas, lindas muchachas de la región. Allí se encontraba Campoamor.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 7 (p. 442). x"
+            },
+            {
+              "texto_cita": "«El propósito de este ensayo es corregir la desviación en la puntería del pensamiento político al uso, que busca el mal radical del catalanismo y bizcaitarrismo en Cataluña y en Vizcaya, cuando no es allí donde se encuentra.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Esp. invertebr. p. 48."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un predicado nominal. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La mitad de este patio está cubierto por una galería; la otra mitad se encuentra libre.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 4 (p. 346)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un compl. de lugar en donde precedido por en. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entonces —si estáis en la posada— observáis que en un rincón, casi sumida en la penumbra, se encuentra sentada una muchacha.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 6 (p. 355). x"
+            },
+            {
+              "texto_cita": "«Mas, cuando nos encontramos solos en mi cuarto ---, le conocí que iba a ponerse en la fácil situación que tanto había temido.»",
+              "autor": "Isaacs",
+              "referencia_obra": ", María, p. 104 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con ante + compl. de lugar. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Os encontráis ante un ancho edificio, viejo, agrietado.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, 13 (p. 386)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de, equivaliendo a Estar desempeñando un cargo u oficio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la sazón se encontraba de embajador en París.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 7. 26 (6. 238)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En tan abatido y lastimoso estado se encontraba el reino de Nápoles cuando en el año 1644 entró a ejercer su virreinato el almirante de Castilla.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 1 (5. 31). x"
+            },
+            {
+              "texto_cita": "«Pintábame en ella con negros rasgos la situación en que mi madre y él se encontraban.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 7 (p. 63). x"
+            },
+            {
+              "texto_cita": "«Elisa se encuentra, continuó, en la tribulación más cruel.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 21 (p. 242). x"
+            },
+            {
+              "texto_cita": "«Conque perdonen si me he excedido, y atribuyan no mi falta y sí mi exceso a esta comezón que me acompaña de oír voces de sabiduría en medio de esta confusión y de este aquelarre en que nos encontramos.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 1 (p. 247). x"
+            },
+            {
+              "texto_cita": "«La vida no elige su mundo, sino que vivir es encontrarse, desde luego, en un mundo determinado e incanjeable: en este de ahora.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas, 5 (p. 102)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con entre. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El doctor Dekker se encuentra entre nosotros.»",
+              "autor": "Azorín",
+              "referencia_obra": ", Ruta de D. Quijote, (394)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Con frente a. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ahora, en este instante en que nos encontramos frente a la inmensidad, nos sentimos como envueltos en un ambiente que no hemos sentido jamás.»",
+              "autor": "Azorín",
+              "referencia_obra": ", El paisaje de España, 2 (p. 412) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Existir, haber. +",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A más de las sobredichas formas de argumentar que ocupan el primer lugar entre las demás, se encuentran también otras, que, por ser de valor y agudeza no vulgar, me plugo añadir aquí.»",
+          "autor": "Gran.",
+          "referencia_obra": "De la retórica eclesiástica, 2. 9, § 3 ( R. 11. 517 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Precedido de la negación, esto es, en la frase no encontrarse, Estar descentrado, inacostumbrado o inadaptado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Sin nada que hacer no me encuentro.»",
+              "autor": "Moliner",
+              "referencia_obra": ", Dicc. sb. voc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Con entre. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me encuentro entre gente tan encopetada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. sb. voc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el uso sustantivado de encontrado en algunos pasajes, especialmente de Berceo, en cuyo caso significa Encuentro, visión, aparición: véase Lanchetas, s. v .). Siglo XV: x",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Encontrar, ir al encuentro: obuiam eo. »",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. x"
+        },
+        {
+          "texto_cita": "«Encontrar acaso con otro: obuio; obuiam eo .»",
+          "autor": "",
+          "referencia_obra": "Id. ib. x"
+        },
+        {
+          "texto_cita": "«Encontrarse así: conferre signa. »",
+          "autor": "",
+          "referencia_obra": "Id. ib. x"
+        },
+        {
+          "texto_cita": "«Encontrarse así: confligo, is; congredior, eris. »",
+          "autor": "",
+          "referencia_obra": "Id. ib. x"
+        },
+        {
+          "texto_cita": "«Encontrarse los enemigos: concurro, is. »",
+          "autor": "",
+          "referencia_obra": "Id. ib. x"
+        },
+        {
+          "texto_cita": "«Encontrar en esta manera: incursito, as.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. x"
+        },
+        {
+          "texto_cita": "«Encontrar así a menudo: incurso, as; »",
+          "autor": "",
+          "referencia_obra": "Id. ib. x"
+        },
+        {
+          "texto_cita": "«Encontrar con otro peleando: incurro, is.»",
+          "autor": "",
+          "referencia_obra": "Id. ib."
+        },
+        {
+          "texto_cita": "«Como si el oficio militar sólo en saber bien encontrar con la lanza o ferir con la espada consistiese.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. adic. 1 (303)."
+        },
+        {
+          "texto_cita": "«Si vencieses la sobervia, encontrarías con la ira.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras, 23 (253)."
+        },
+        {
+          "texto_cita": "«Los que andan en el coso --- dellos caen, dellos estropiezan ---, otros se encuentran e se dañan.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 23 (252). +"
+        },
+        {
+          "texto_cita": "«Gonçalo de Quadros encontró a don Áluaro por la vista del yelmo, y el roquete de la lança abrió la vista, e encontróle en la frente.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 8 (29)."
+        },
+        {
+          "texto_cita": "«Tanta era la cobdicia que avían los franceses de encontrar con él, que una vez salieron dos caballeros a par, e amos a dos encontraron con él; e Pero Niño estovo tan firme, que non le removieron, nin fizo mala contenencia.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 130. +"
+        },
+        {
+          "texto_cita": "«La lanza de Ravanal se debía dar por rompida por la fealdad del encuentro de Cavedo, aviendo Ravanal encontrado en pieza de armas.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 43 (37 1 ). +"
+        },
+        {
+          "texto_cita": "«Villalobos también encontró por cerca del pescuezo del caballo de Estúñiga.»",
+          "autor": "",
+          "referencia_obra": "Ib . 33 (28 2 ) +"
+        },
+        {
+          "texto_cita": "«A las veinte e una carreras se encontraron ambos en las arandelas.»",
+          "autor": "",
+          "referencia_obra": "Ib. 23 (19 2 ). +"
+        },
+        {
+          "texto_cita": "«En otras ocho carreras non se encontraron, e en la oncena Nava encontró en la oreja al Caballo de Zayas, e se la rompió.»",
+          "autor": "",
+          "referencia_obra": "Ib. 17 (15 1 )."
+        },
+        {
+          "texto_cita": "«Si qualquier caballero o gentil ome de los que armas fiscieren, encontrare a caballo, si el que corriere con él le encontrare poco o mucho en el arnés, que se cuente la lanza déste por rompida, por la fealdad del encuentro del que al caballo encontrare.»",
+          "autor": "",
+          "referencia_obra": "Ib. 6 (6 1 ). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Cuando vuela bajo [el halcón], encuentra et líjase, quebrantándose ala o pierna.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza, 28 ( Bibl. venat. 3. 273)."
+        },
+        {
+          "texto_cita": "«Tres omes de pie mataron | En el primer encontrado.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1650 (R. 57. 527 1 )."
+        },
+        {
+          "texto_cita": "«E en la mar encontraron | La flota de los castellanos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 981 (R. 57. 506 2 ). +"
+        },
+        {
+          "texto_cita": "«E las flotas encontraron | En Farobillas los puertos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 611 (p. 171)."
+        },
+        {
+          "texto_cita": "«Et cuando se les hincharen los cuerpos et se les ficiere encontrado et les acaesciere mucho esta enfermedat, tomen de la quina et del estorac. »",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2. 2. 41 ( Bibl. venat. 1. 213)."
+        },
+        {
+          "texto_cita": "«Fuese para el logar por do su marido había de venir, et desque encontró con él, dijo ---.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 48 (R. 51. 411 1 )."
+        },
+        {
+          "texto_cita": "«Et iban amos a pie, et encontraron unos homes que venían de aquella villa do ellos iban.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 24 (R. 51. 371 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Plegó la Gloriosa: ¡Dios tan buen encontrado!»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Oria, 122 (R. 57. 141 1 )."
+        },
+        {
+          "texto_cita": "«Et otrosí deben ir apercebidos que, quando se encontraren con cabalgada de los de su parte, que se desvíen del camino los que hobiesen sacado de cativo, que fuesen de la ley de sus enemigos.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 30. 3 (2. 338)."
+        },
+        {
+          "texto_cita": "«Allí cuidó el monge que era devorado, | Ca vidíe por verdat un fiero encontrado.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 474 (R. 57. 118 1 )."
+        },
+        {
+          "texto_cita": "«Ovo un encontrado cabo una carrera, | Mostrábase por bueno, en verdat non lo era.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 186 (R. 57. 109 2 )."
+        },
+        {
+          "texto_cita": "«Pesó a los troianos con l'encontrado del castiello.»",
+          "autor": "Alex.",
+          "referencia_obra": "704 (R. 57. 169 1 )."
+        },
+        {
+          "texto_cita": "«Pesó a los troyanos con el su encontrado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 528 (R. 57. 163 2 )."
+        },
+        {
+          "texto_cita": "«Auían buenos agüeros e buenos encontrados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 274 (R. 57. 156 1 )."
+        },
+        {
+          "texto_cita": "«Después fo ermitanno --- | Vediendo malos gestos, mucho mal encontrado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 255 (R. 57 . 48 1 )."
+        },
+        {
+          "texto_cita": "«E por ventura, quando se encontrauan, | Huno a otro non se fablauan.»",
+          "autor": "S. M. Egipc.",
+          "referencia_obra": "(R. 57. 314 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. * incontrare (M. Pidal, Manual, § 51 1 ) y éste de * incontra, formado de in + contra . Ital. incontrare , friul. inkuintrá , fr. encontrer ( rencontrer ) , cat. y port. encontrar, gall. y ast. alcontrar (con cambio de sufijo).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Presenta las siguientes formas irregulares: encuentr-o, as-, a, an; encuentr-e, es, e, en; encuentr-a (tú).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans.: en general. — Intrans.: 1, b , γ - 1, β , δ , γ γ - 1, b , ε , γ γ - 1, b , ζ - 1, β , η , β β - 1, c , β - 1, χ , γ , β β - 1, d , β - 1, δ , γ , β β - 2, b , β - 2, χ , γ - 2, δ , γ - 2, ε , β - 3, α , β - 3, β , β - 3, χ , β - 3, χ , γ - 3, δ , β . — Refl.: 3, d , γ - 4 . — Pas. refl. 3, a , α , β β - 3, d , α , α α - 3, d , α , β β . — Recípr.: 1, b , β - 1, β , δ , β β - 1, b , ε , β β - 1, c , α - 1, χ , γ , α α - 1, d , α - 1, δ , β , α α - 1, d , γ , α α - 2, a , β - 2, χ , β - 2, δ , β - 2, ε , α . — Part. : 1, b , ε - 1, χ , α , α α - 2, c , β , γ γ - 2, d , β - 2, δ , γ , α α - 2, e , α , γ γ - 2, e , β , γ γ . — Con a o para: 3, c , α , α α . — Con ante: 4, a , γ . — Con la prep. con: 1, a - 1, b , ε , γ γ - 1, b , ζ - 1, β , η , β β - 1, c , β - 1, δ , β - 1, δ , γ , β β - 2, a , β , α α - 2, b , β - 2, χ , α , α α - 2, c , β , α α - 2, c , γ - 2, δ - 2, ε , α , α α - 2, e , β - 3, α , β - 3, β , β - 3, χ , β , α α - 3, c , β , γ γ - 3, c , γ - 3, δ , β . — Con de: 4, a , δ . — Con dentro de: 3, c , β , γ γ . — Con en: 1, b , α , β β - 1, b , β - 1, β , γ , α α - 1, b , ε , α α - 1, b , ε , γ γ - 1, c , α , α α - 1, d , β - 2, β , β , α α - 2, c , β , β β - 2, c , γ , α α - 2, e , α , γ γ - 2, e , β , α α - 3, c , α - 3, χ , β , β β - 3, d , α , δ δ - 3, d , γ , α α - 4, a , β , α α - 4, a , ε . — Con desde: 3, d , α , α α . — Con entre: 2, e , α , β β - 2, e , α , γ γ - 4, a , ζ - 4, χ , α . — Con frente a: 4, a , η . — Con por: 1, b , γ , α α - 1, b , ε , α α - 3, b , β , α α . — Con sobre: 2, e , β , γ γ . — Con dat. : 3, c , α , α α - 3, d , α , α α . — Con un predicado nominal referido al sujeto: 4, a , β . — Con un predicado nominal referido al compl. directo: 3, d , α , γ γ - 3, d, γ . — - Con una prop. subj. como sujeto: 2, e , β , β β . — Con una prop. indic. como compl. directo: 3, d, α , β β - 3, d, α , ε ε . \u0000"
+}

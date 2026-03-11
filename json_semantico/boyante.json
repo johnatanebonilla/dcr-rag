@@ -1,0 +1,79 @@
+{
+  "lema": "BOYANTE",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que boya. Se dice de la embarcación que vuelve á mantenerse sobre el agua después de haber estado en seco.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aliviar la quilla | Tienta en el fondo con veloz destreza; | Libra el bajel boyante, alza la vela, | Zarpa en las costas, en las ondas vuela.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars. 10 ( Fern. 7. 281)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "mar. Se dice del buque que no está calado hasta la línea de agua que le corresponde. Dicc. Marít .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Se dice del navío que navega con viento favorable.» Impelen la boyante flota | Vientos del cauro por el ancho Jonio.» Jáur. Fars . 5 ( Fern. 7. 111).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Se dice de lo que crece y adelanta con toda prosperidad; feliz, afortunado.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aunque, alejada la escuadra francesa, estaba verdaderamente perdida la rebelión napolitana, nunca en apariencia se vio más boyante, ni había contado con tan grandes ventajas.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Masan . 2. 23 (5. 280)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Boyante en los negocios.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tomé tierra en Guadante | En una fusta boyante | Mostrando ledo semblante.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 182. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«E con vna naue boyante | Que Dios ouo enbiada, | Presso fue el almirante.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 612 (R. 57. 495 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de boyar , volver la embarcación á mantenerse sobre el agua después de haber estado en seco; denominativo de boya . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

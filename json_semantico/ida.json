@@ -1,0 +1,331 @@
+{
+  "lema": "IDA.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Acción de ir de un lugar a otro, salida, partida. a ) X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Apartándole a unos álamos le dijo que era mujer, que en aquel hábito había pasado a Italia con su esposo, en cuya vuelta había el mar cobrado el pasaje que perdonó a la ida.»",
+          "autor": "Lope",
+          "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 89)."
+        },
+        {
+          "texto_cita": "«No hahía podido satisfacerla a la ida, y había prometido visitarla cuando volviese»",
+          "autor": "Quint.",
+          "referencia_obra": "Pizarro (R. 19. 310 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, para señalar el destino. Además con un posesivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esperó respuesta desta y la resolución de mi ida a la corte.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 52 (R. 1. 515 2 )."
+            },
+            {
+              "texto_cita": "«Preguntó al doctor Alano qué le parecía de aquella su ida a Inglaterra, y el fruto que della se podía esperar.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 2. 32 (R. 60. 269 1 ). — Además con de sujetivo."
+            },
+            {
+              "texto_cita": "«Creyó que la ida del duque de Guisa a Nápoles era la ocurrencia más favorable en la situación en que se encontraba aquel reino.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 2. 19 (5. 257)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de, para indicar el origen.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó a ir apercibiendo la ida de Francia con particular cuidado.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerra de los Est. Bajos, 4 (R. 28. 51 1 )."
+            },
+            {
+              "texto_cita": "«La ida de Ferrara no se excusa, ni el dejar de ayudar yo a vuestro hermano.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Señora Cornelia (R. 1. 216 2 ). — Además con un posesivo."
+            },
+            {
+              "texto_cita": "«Descubrioles sus justas sospechas, para que pidiesen a Roger que suspendiese su ida de Andrinópoli para visitar a Miguel Paleólogo.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 26 (R. 21. 25 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con un posesivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estando con harta pena de su ida, me dijo el Señor que me consolase y no la tuviese, que bien guiado iba.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 33 (R. 53. 101 2 )."
+            },
+            {
+              "texto_cita": "«Para asistir al gobierno partió de su casa. Con su ida se levantó en Sevilla una grande revuelta.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 18. 16 (R. 30. 28 2 )."
+            },
+            {
+              "texto_cita": "«Y perecen los hospitales, y con mi ida se remediará todo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El retablo de las maravillas ( Com. 2. 295)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En el siguiente ejemplo, Huída, escapada. Con a , para indicar el destino. Además con de sujetivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ordenó Dios esta ida de su benditísimo Hijo a Egipto para que se cumpliese lo que había dicho el profeta Oseas.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de Cristo, p. 27."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En los siguientes ejemplos, Visita, frecuencia en asistir en alguna casa o lugar distinto del propio domicilio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Comenzó Lotario a descuidarse con cuidado de las idas en casa de Anselmo, por parecerle a él, como es razón que parezca a todos los que fueren discretos, que no se han de visitar ni continuar las casas de los amigos casados de la misma manera que cuando eran solteros.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 33 (R. 1. 340 2 )."
+            },
+            {
+              "texto_cita": "«Apartámonos yo y el licenciado a hablar de la ida en casa de la dicha.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 15 (R. 23. 512 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Locuciones.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "De ida y vuelta, hablando de viajes, de recorrido completo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo segundo porque siendo Tarsis nuestra España, como hemos probado en toda esta Disertación, no podían hacer su navegación de ida y vuelta desde el Mar Roxo en menos de tres años.»",
+              "autor": "Rdgz. Mohedano",
+              "referencia_obra": ", Hist. lit. esp. disert. 5 , 1 (p. 399)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Idas y venidas: actividad de una persona que gestiona una cosa que implica muchos pasos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta ruina tardó mucho en repararse, sin duda porque la guerra encendida de muy atrás entre claustrales y observantes, y que se prolongó por el siguiente siglo, quitó a los primeros la gana de reedificar una obra, de cuya posesión temían ser expelidos, como efectivamente lo fueron por los segundos. Aun éstos establecidos en ella después de muchas idas y venidas en 1567, tardaron todavía en poderlo hacer.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. de los conv. de S. Dom. y S. Franc. (R. 46. 435 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "La ida del humo: ida definitiva, sin regreso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allá darás, rayo, en casa de Ana Díaz; vayas, y no vuelvas; la ida del humo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La cueva de Salam . ( Com. 2. 306)."
+            },
+            {
+              "texto_cita": "«Vamos. —La ida del humo, | O del cuervo, plegue a Dios.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Averígüelo Vargas, 1. 1 (R. 5. 671 1 ). X"
+            },
+            {
+              "texto_cita": "«Que no volverán presumo, | Porque según se rastrea, | Fueron por la chimenea, | Y harán la ida del humo.»",
+              "autor": "León",
+              "referencia_obra": ", Obr. poética, pl. 139 ( Dicc. Autor. ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "El refrán Ida y venida por la casa de mi tía: reprende las falsas razones con que algunos cohonestan sus extravíos particulares. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Tú también, Geralda! ¿No te parece que vengo de donde digo? —Ida y venida por casa de mi tía.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, fol. 170 ( Dicc. Autor. )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ímpetu, prontitud o acción inconsiderada. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tiene fulano unas idas notables.»",
+          "autor": "",
+          "referencia_obra": "Dicc. Autor."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Esgrima. Acometimiento que hace uno de los competidores al otro después de presentar la espada.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Juegan con espadas negras, | Y a dos idas y venidas, | Si señalan las heridas | Y con el juego te alegras ---.»",
+          "autor": "Tirso",
+          "referencia_obra": ", La villana de Vallecas, 2. 1 (R. 5. 51 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "En juegos de trucos, Salida de la bola del que juega.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo confieso que mi vida | Es una mesa de trucos, | Zarandajas, golpes, idas, | Y malogrados apuntos.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 6, 4 rom. 98 (R. 23 234 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Adviértase el sentido de Señal o rastro que con los pies hace la caza). Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Excusada es la ida vuestra a Córdova a tratar paz con la reina.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Letras, 6 (p. 174)."
+        },
+        {
+          "texto_cita": "«No habia llevado licencia por más de quarenta días por ida e venida y estada.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II, 14. 6 (R. 68. 382 2 )."
+        },
+        {
+          "texto_cita": "«E esta ciudad era ya en el camino que los embajadores llevaron a la ida.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 200. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«E quiso Dios asy que de aquella yda entró en la tierra do era su mugier.»",
+          "autor": "Plácidas",
+          "referencia_obra": ", p. 147."
+        },
+        {
+          "texto_cita": "«Nyn lo pierde franquesa | Quando es de venida, | Nin lo guarda escasesa | Quando está de yda.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 243 (R. 57. 346 2 )."
+        },
+        {
+          "texto_cita": "«Mandole que dejase la ida de Galicia e que le fuese esperar en Toledo.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 20 (R. 66. 15 2 )."
+        },
+        {
+          "texto_cita": "«Et otro día martes enviamos monteros que diesen traviesas para fallar la ida dél [del oso].»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 3. 22 ( Bibl. venat. 2. 309)."
+        },
+        {
+          "texto_cita": "«Et si fallare la ida del venado del aquell can en la ida, et tanga rastro, et corredura, et pida por canes.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 6 ( Bibl. venat. 1. 25)."
+        },
+        {
+          "texto_cita": "«Et la mala suelta puede acaescer --- por soltar en la ida, cuando sale el venado a la cena.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 6 ( Bibl. venat. 1. 23)."
+        },
+        {
+          "texto_cita": "«Pare mientes al cabo que viere las puntas de las ramas acorvadas, entienda que allí llieva el rastro el venado, et por aquella ida vaya.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 2 ( Bibl. venat. 1. 18)."
+        },
+        {
+          "texto_cita": "«Et porque va la ida del venado sobre aquel rocío ---.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 2 ( Bibl. venat. 1. 15)."
+        },
+        {
+          "texto_cita": "«Que vayan ssaluos e sseguros de yda e de venida e de estada.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 258)."
+        },
+        {
+          "texto_cita": "«Que vayan et vengan seguros ellos et los que tragieren de venida et de morada et de yda desde que salieron de sus casas fasta que tornen.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 175). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Podríe acaescer que por culpa de la su ida dellos, non irie el rey a la batalla.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 19. 9 (2. 188)."
+        },
+        {
+          "texto_cita": "«Pero esto [el irse el alcaide] non debe facer en tiempo que entendiese que el castiello se podiese perder por su ida.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 18. 7 (2. 155)."
+        },
+        {
+          "texto_cita": "«Pues alegratvos con la mi yda, et aparejatvos de seguir todos míos buenos fechos.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 40)."
+        },
+        {
+          "texto_cita": "«Plorauan con él todos, dolíen se de su yda.»",
+          "autor": "Appoll.",
+          "referencia_obra": "105 (R. 57. 287 1 )."
+        },
+        {
+          "texto_cita": "«Fijo, non vos podemos nos estorbar la ida.»",
+          "autor": "Berc.",
+          "referencia_obra": "Duelo, 105 (R. 57. 134 2 ). — Siglo XII:"
+        },
+        {
+          "texto_cita": "«Yo lo veo que estades uos en yda.»",
+          "autor": "Cid",
+          "referencia_obra": ", 271 (R. 57. 4 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Et si nullus homo in ita vel in venita de isto mercato tres dies in ire vel in venire ulla contraria fecerit pectet mille solidos ad regeru.»",
+          "autor": "Fuero",
+          "referencia_obra": "del Burgo, año 1114 ( Muñoz , F. 254)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. itus, forma de itum, supino de ire ‘ir’. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

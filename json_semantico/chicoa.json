@@ -1,0 +1,545 @@
+{
+  "lema": "CHICO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aplicado á cosas, De tamaño ó dimensiones reducidas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Chico se usa más que pequeño al hablar de la latitud y de la capacidad, y así es más común decir una sala chica, un vaso chico, que una sala pequeña, un vaso pequeño.»",
+          "autor": "Mora",
+          "referencia_obra": ", Sinón. p. 54. Es notable el número de diminutivos que tiene este adjetivo: chicuelo ; chiquillo , chiquito , chiquitico , chiquitillo , chiquitito , chiquitín , chiquirritín , chiquirritico , chiquirritillo , chiquirritito ; chicorrotico , chicorrotillo , chicorrotito , chicorrotín . Esta abundancia proviene sin duda de la frecuencia con que se usa este adjetivo en el trato familiar, y sobre todo aplicado á los niños."
+        },
+        {
+          "texto_cita": "«Cuando vino á trazar el monasterio, hízosele a la santa la casa muy chica, y tanto que le parecía imposible que hubiese capacidad para hacer un monasterio, por pequeño que fuese.»",
+          "autor": "Yepes",
+          "referencia_obra": ", Vida de. Sta. Ter . 2. 4 . ( Míst. 1. 119)."
+        },
+        {
+          "texto_cita": "«Que no se puede andar mucho en un paso | Ni encerrar gran materia en chico vaso.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 27 (R. 17. 101 2 )."
+        },
+        {
+          "texto_cita": "«Igualar su tesoro á los de Craso | Es comparar la mar á un chico vaso. »",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 13 (R. 17. 280 2 )."
+        },
+        {
+          "texto_cita": "«Pueblos chicos y cortos, todo es brega, | Chisme, murmuración conseja, cuento.»",
+          "autor": "",
+          "referencia_obra": "Id. Grand. mej. 4 (48)."
+        },
+        {
+          "texto_cita": "«Y doy fe de que en todo el infierno no hay árbol chico ni grande. »",
+          "autor": "Quev.",
+          "referencia_obra": "Zahurdas (R. 23. 311 2 ). — Dimim."
+        },
+        {
+          "texto_cita": "«¿Cuál es aquel poder y saber que pudo fabricar dos ojos con tanto artificio en tan chiquita cabeza como es la de una hormiga?»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 1. 18, § 1 (R. 6. 231 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si nuestro entendimiento pudiera entender toda el alteza de Dios, fuera chico Dios, y por eso no fuera Dios, pues no lo puede ser si no fuera infinito, y lo infinito incomprehensible es de la cosa finita.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Audi , 39 ( Míst . 3. 202)."
+        },
+        {
+          "texto_cita": "«Mil torres en tu servicio | Armo sobre esto cimiento; | Harto chico fundamento | Para tan grande servicio.»",
+          "autor": "Mend.",
+          "referencia_obra": "carta Amor, Amor, que consientes (R. 32. 74 2 )."
+        },
+        {
+          "texto_cita": "«Con el más chico revés, | Ninguna gloria me queda.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 1 (R. 32. 109 1 )."
+        },
+        {
+          "texto_cita": "«Y si mi pluma á este furor se aplica, | Y deja tu alabanza, es que se siente | Corta á tal vuelo, á tal grandeza chica.»",
+          "autor": "Valb.",
+          "referencia_obra": "Grand. mej . 1 (22)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Corto, no completo (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desde Burgos á Madrid | Hay cuarenta leguas chicas.»",
+          "autor": "Mto.",
+          "referencia_obra": "El lindo D. Diego , 2. 10 (R. 39. 362 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Chico con grande : sin tener en cuenta el tamaño ó la calidad; y metafóricamtente, sin excluír ni exceptuar cosa alguna.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No sino dormíos, y no tengáis ingenio ni habilidad para disponer de las cosas, y para vender treinta ó diez mil vasallos en dácame esas pajas; par Dios que los he de volar chico con grande, ó como pudiere, y que por negros que sean los he de volver blancos ó amarillos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij , 1. 29 (R. 1. 331 1 )."
+        },
+        {
+          "texto_cita": "«¿Y son? — Don Luis y Berrío. | — Y vienen como perdices, | Chico con grande.»",
+          "autor": "Tirso",
+          "referencia_obra": ", Desde Toledo á Madrid , 3. 2 (R. 5. 495 1 )."
+        },
+        {
+          "texto_cita": "«Una con otra [las tonadillas], chica con grande, á doblón se pagaba.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 1, p. 100."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Andarse en chiquitas ( fam. ): usar de contemplaciones, pretextos, subterfugios ó rodeos para esquivar ó diferir ya una medida, ya una obligación. Por lo común se usa con negación.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Lisuarte no se anduvo en chiquitas: sacó la espada, y de un tajo le derribó un brazo al descortés raballero.»",
+          "autor": "Clem.",
+          "referencia_obra": "Coment . 2, p. 219."
+        },
+        {
+          "texto_cita": "«A las primeras palabras | La Lucrecia no se anduvo | En chiquitas: vuelve grupas | Y no pára hasta el Refugio.»",
+          "autor": "Bretón",
+          "referencia_obra": ", Un tercero en discordia , 3. 5 (1. 332)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "s. m. En lenguaje vulgar, medida de capacidad para el vino, igual á un tercio de cuartillo ó á 1’6806 decilitros.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aplicado á personas, De estatura poco elevada. En este caso se usan más bien los diminutivos, sobre todo tratándose de personas pequeñas por causa de su poca edad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No es menos proprio de los hijos, mayormente cuando son chiquitos, pedir á sus padres pan.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 7. 2ª. pte. 1, consid. 3 (R. 8. 409 1 )."
+            },
+            {
+              "texto_cita": "«Era justo --- que el hombre conociese que aquel Niño que parecía tan chiquito, tan tierno y tan flaco á los ojos de la carne, era Dios verdadero y rey eterno.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Vida de Cristo (18)."
+            },
+            {
+              "texto_cita": "«Tenía su aposento, donde sola ella entraba (y algunas veces yo, que como chiquito podía) todo rodeado de calaveras.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 1 (R. 23. 486 2 )."
+            },
+            {
+              "texto_cita": "«Ves qué atento, | Qué entendido, qué buen mozo. | Quien le conoció chicuelo | Y ahora le ve...»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña , 2. 7 (R. 2. 347 1 )."
+            },
+            {
+              "texto_cita": "«¿No to acuerdas de que siendo | Chiquitita me llamabas | El otro papá?»",
+              "autor": "",
+              "referencia_obra": "Id. El barón , 2. 5 (R. 2. 385 1 )."
+            },
+            {
+              "texto_cita": "«Puesto que el hombre no es bueno, | Lo prefiero chiquitín.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Marcela, 1. (1. 242)."
+            },
+            {
+              "texto_cita": "«Era el hombre --- calvo, algo tiñoso, chiquirritillo y contrahecho.»",
+              "autor": "Mor.",
+              "referencia_obra": "Derr. de los pedantes (R. 2. 565 1 )."
+            },
+            {
+              "texto_cita": "«Cuando era ella chiquirritita, tal vez cuando ella nació, estaba usted en Lima.»",
+              "autor": "Valera",
+              "referencia_obra": ", Comend. Mendoza , 8 (60)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Chico de cuerpo.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Chiquitico era de cuerpo, | Y grande en el corazón.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 5, baile 1 (R. 69. 115 2 , * en el cuerpo)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sancho Panza es aqueste, en cuerpo chico, | Pero grande en valor.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 52 (R. 1. 401 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Niño. Se usa también como sust.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Salía la dama con un chiquillo de la mano, y ella y el chico rabiaban de hambre.»",
+          "autor": "Mor.",
+          "referencia_obra": "La comedia nueva , 2. 7 (R. 2. 370 1 )."
+        },
+        {
+          "texto_cita": "«Su madre | Es una pobre aldeana | Y no sabe más de mando | Que los chiquillos que maman.»",
+          "autor": "",
+          "referencia_obra": "Id. El barón , 2. 4 (R. 2. 384 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En este sentido es muy común chiquirritín para designar familiarmente al niño ó niña que no ha salido de la infancia.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Muchacho. Se usa como sust.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De aquellos chicos que él enseña ha de salir el cuerpo de la ciudad.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Epist. 4, instr. para jueces , § 5 (7. 260)."
+        },
+        {
+          "texto_cita": "«Hay en Burdeos un buen establecimiento en que se da muy buena crianza á los chicos; y si no son díscolos ni estúpidos, se los vuelven á sus padres instruídos y españoles.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 2, p. 436."
+        },
+        {
+          "texto_cita": "«Acuden los aguadores, | Las pasiegas... ¡qué barullo! | Los chicos de la candela | Los vecinos... todo el mundo.»",
+          "autor": "Bretón",
+          "referencia_obra": ", Un tercero en discordia, 3. 5 (1. 332)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "s. m. y f. En el trato de confianza llaman así á personas de cierta edad.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A la verdad que mi chico | Está en el día muy cerca | De tomar estado, y debe | Portarse con gran cautela.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", El señorito mimado , 2. 7 (4. 224)."
+        },
+        {
+          "texto_cita": "«Chico, le dijo un día Ramón, bien podías venirte, no á desenfrailar, sino á enfrailar conmigo á Carmona estas vacaciones. — No me digas chico, ni uses esa voz grosera y chabacana, no hija de la confianza de la amistad sino del mal tono en el trato; voz común y vulgar: dime Alfonso, como yo te digo Ramón.»",
+          "autor": "",
+          "referencia_obra": "F. Caball. Las dos Gracias ( Obras , 1. 149)."
+        },
+        {
+          "texto_cita": "«Ya es cuestión de suma y resta, | Chico, y la cuenta no sale | Entre lo poco que vale | Y lo mucho que me cuesta. | Tú no puedes comprender | El extremo á que he llegado.»",
+          "autor": "Núñez",
+          "referencia_obra": "de Arce, Quien debe paga, 1. 1 (104)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Empléase también familiarmente con calificativos encomiásticos de las buenas prendas que tiene la mujer ó el hombre de que se trata.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es un buen chico; es una chica hacendosa.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. De poca representación, suposición ó valimiento; humilde, bajo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con gusto general son leídos y celebrados de los grandes y de los chicos, de los pobres y de los ricos, de los letrados é ignorantes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 50 (R. 1. 394 2 )."
+            },
+            {
+              "texto_cita": "«Chicos y grandes, altos y bajos, perfectos y imperfectos, tienen cada cual su manjar proporcionado en este sagrado árbol.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb, 3. 21 (R. 6. 436 1 ). —"
+            },
+            {
+              "texto_cita": "«Y la más chiquita, cuando esto entendiese alguna vez en esta casa, clame á su Majestad.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 2 (R. 53. 320 1 )."
+            },
+            {
+              "texto_cita": "«Cuando se encuentra | Un gran señor sin dinero, | ¡Qué chiquito que se queda!»",
+              "autor": "Mor.",
+              "referencia_obra": "El barón, 1. 9 (R. 2. 381 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Poco es y momentáneo lo que se padece; y á quien grande parece, es porque él es chico en el amor y tiene pesos falsos.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 1. 30 (6. 168)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Chicos y grandes: todos sin excepción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tanto era el amor que le tenían chicos y grandes.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 6 (R. 30. 254 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Hacerse el chiquito : disimular uno lo que puede ó sabe.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Ay! amigo mío | ¡Qué feliz sois! — ¿Por qué? [ sic ] — | No hay que haceros el chiquito. | Todo se sabe.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Cuidado con las novias , 3. 1 (12)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Allí los ricos caudales, | Allí los otros medianos | Y más chicos | Allegados son iguales.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 45)."
+        },
+        {
+          "texto_cita": "«Son pequeños los estados | Del chico e monudo imperio; | Reyezillos son llamados.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var. 244 ( Rim. inéd. 308)."
+        },
+        {
+          "texto_cita": "«Tornósele el coraçon | Mas chico que de un pardal.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p. 288."
+        },
+        {
+          "texto_cita": "«Señores, sostiene quistion e rensilla | El muy sabio grande de Villasandino... | Comigo, Baena, persona chiquilla.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 423."
+        },
+        {
+          "texto_cita": "«Que da chica pena é grant galardon.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 577. — Siglo XlV:"
+        },
+        {
+          "texto_cita": "«Conviene que tomen de la sal amarga et de las veneruelas chiquiellas de la mar, et quémenlas.»",
+          "autor": "",
+          "referencia_obra": "Mont Alf. Xl , 2. 2. 20 ( Bibl. venat. 1. 188)."
+        },
+        {
+          "texto_cita": "«Chica es la calandria et chico el ruysennor.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1588 (R. 57. 277 1 )."
+        },
+        {
+          "texto_cita": "«Como en chica rosa está mucho color.»",
+          "autor": "",
+          "referencia_obra": "Id. 1586 (R. 57. 277 1 )."
+        },
+        {
+          "texto_cita": "«A veses de chica fabla viene mucha folgura.»",
+          "autor": "",
+          "referencia_obra": "Id. 626 (R. 57. 246 2 )."
+        },
+        {
+          "texto_cita": "«Si algunt bien ficieres, que chico asaz fuere, | Fazlo granado, que el bien nunca muere.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 1 (edic. vulg. R. 51. 410 2 :"
+        },
+        {
+          "texto_cita": "«que muy grande non fuere, | Faz otro granado.»",
+          "autor": "",
+          "referencia_obra": "). — Siglo XlII:"
+        },
+        {
+          "texto_cita": "«E estando alli Santa Maria, tenie el niño chiquito en su regazo.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 31 (R. 51. 145 2 )."
+        },
+        {
+          "texto_cita": "«A grandes e a chicos e a todos somejaua que era cruel por natura.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 1. 110 (78 1 )."
+        },
+        {
+          "texto_cita": "«Fueras ende si fuesen fechas [las donaciones] de chicas cosas et menudas.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 14. 5 (1. 394)."
+        },
+        {
+          "texto_cita": "«Non fincará chico nin grande, nin torres, nin adarves, nin casa, nin ninguna cosa que todo non sea somido.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 84 (1. 149)."
+        },
+        {
+          "texto_cita": "«Et todo home que entrare en aquel sacramento, sea así tornado como niño chiquiello que naciese otra vez.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 4. 17 (1. 67)."
+        },
+        {
+          "texto_cita": "«El fuerte viento non quebranta las chicas pajas, mas desraiga los grandes árboles.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 23 1 )."
+        },
+        {
+          "texto_cita": "«Oyó de su maestro Aristotiles que de la tristicia se desfaze el coraçon, e que lo faze muy chico.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 36)."
+        },
+        {
+          "texto_cita": "«Ningund niño chico, nin ninguna niña chica... non ayan poder de vender, nin de empeñar.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 5. 4. 3 (135)."
+        },
+        {
+          "texto_cita": "«Si algunos omes an casa de consuno e alguno dellos a chica suerte, si quisier echar pared, que non abra por ella, metiendo y aquellas cosas con que a ome de vivir.»",
+          "autor": "",
+          "referencia_obra": "lb . 4. 3. 2 (109)."
+        },
+        {
+          "texto_cita": "«Chyco era de corpo, magar tan grant andaua.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2028 (R. 57. 209 2 )."
+        },
+        {
+          "texto_cita": "«Abriendo e tirando las redes rasgaredes, | Por mis chiquillos dientes vos hoy escaparedes.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1406 (R. 57. 271 2 )."
+        },
+        {
+          "texto_cita": "«Dan por ella grant preçio magar ques chiqueia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1316 (R. 57. 188 1 )."
+        },
+        {
+          "texto_cita": "«La vna es mayor, las otras dos mas chiquas.»",
+          "autor": "",
+          "referencia_obra": "Ib. 255 (R. 57. 155 1 )."
+        },
+        {
+          "texto_cita": "«Mas non te metrás es dia en tan chico forado, | Que destos moços locos non seas bien buscado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 123 (R. 57. 151 1 )."
+        },
+        {
+          "texto_cita": "«Avia en si el infante atal comparación | Cuemo suele auer el chiquelle leon.»",
+          "autor": "",
+          "referencia_obra": "Ib. 28 (R. 57. 148 1 )"
+        },
+        {
+          "texto_cita": "«De grandes e de chicos era mucho amado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 11 (R. 57. 39 2 )."
+        },
+        {
+          "texto_cita": "«Los grandes e los chicos fuera salto dan.»",
+          "autor": "Cid",
+          "referencia_obra": ", 591 (R. 57. 8 2 )."
+        },
+        {
+          "texto_cita": "«Ffem ante uos yo e uuestras ffijas: ynffantes son e de dias chicas.»",
+          "autor": "",
+          "referencia_obra": "Ib. 269 (R. 57. 4 2 )"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Val. gich; cat. xich; fr. chiche , escaso, miserable; it. cica , una pequeñez, una nonada, cigolo, pequeño: del lat. ciccus , la película que divide en compartimentos el interior de la granada, y metafóricamente, una nonada, como si dijéramos un bledo, un comino. Por lo que hace á la forma, compara Diez el vál. mic , pequeno, de mica , migaja. La ch es semejante á la de chícharo de cicer . El juego de las vocales en el antiguo diminutivo chequito, comparado con chico , es el mismo que tenemos en escrebir , decir , escribo , digo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y chequitos podestarán en ellos»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Yo envolviéndote chequito; | Yo escondiéndote en Egipto.»",
+          "autor": "T. Naharro",
+          "referencia_obra": ", Propal . (1. 91)."
+        },
+        {
+          "texto_cita": "«Andube cuando chequito | Quince dias all igreja.»",
+          "autor": "",
+          "referencia_obra": "Id. Trofea, 4 (1. 268). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

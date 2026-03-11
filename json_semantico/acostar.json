@@ -1,0 +1,709 @@
+{
+  "lema": "ACOSTAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v . El sentido fundamental es poner, acercar el lado, ó al lado, y de aquí arrimar, inclinar.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "mar. Atracar ( ant. según el Dicc. Marít. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acosta, acosta, no vayas | Tan aprisa; dá la vuelta.»",
+              "autor": "Lope",
+              "referencia_obra": ", Por la puente, Juana, 3. 14 (R. 34. 554 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« A costa, moro, el batel.»",
+              "autor": "Lope",
+              "referencia_obra": ", El arenal de Sevilla, 1 . 14 (R. 41. 531 2 )."
+            },
+            {
+              "texto_cita": "«Acosta de presto | La barca, acosta la barca: | Sálvese la infanta en ella.»",
+              "autor": "",
+              "referencia_obra": "Id. Lo que ha de ser , 1. 2 (R. 34. 507 3 )."
+            },
+            {
+              "texto_cita": "«Acosta la barca; apresta | Un cabo.»",
+              "autor": "",
+              "referencia_obra": "Id. Virtud, pobreza y mujer, 3. 18 (R. 52. 231 2 )."
+            },
+            {
+              "texto_cita": "«Acosta, acosta la barca, | Carlos Quinto desembarca.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los amantes de Teruel, 2 (R. 51. 697 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á, para expresar el lugar ú objeto á que se aproxima la embarcación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Puso el torno en orden, y acostando su segundo bajel á la gran nave, con maravillosa presteza y con fuerza de fortísimos cabestrantes pasaron la artillería del pequeño bajel á la mayor nave.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 4 (R. 1. 149 2 )."
+            },
+            {
+              "texto_cita": "«Díjele que por él venía, y luégo | El barco á tierra acostan.»",
+              "autor": "Lope",
+              "referencia_obra": ", El duque de Viseo, 3. 28 (R. 41. 441 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Aproximarse á la costa la embarción ó en la embarcación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mira que el barco se acosta.»",
+              "autor": "Lope",
+              "referencia_obra": ", La obediencia laureada, 2. 16 (R. 52. 179 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo reposado un tanto, dentro de dos horas descubrimos las islas Baleares, Mallorca, y Menorca, Ibiza y otras islas pequeñas; pero no nos acostamos á Mallorca.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 2. 14 (R. 18. 444 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Refl. Aproximarse una embarcación ó en una embarcacion á otra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viendo Roger que ni se rendía [la capitana] ni era posible entrarla, mandó que la desfondasen: y como ni aun esto pudiese ejecutarse, determinó que se acostase una galera y la pegase fuego.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 233 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo puesto | En orden las galeras y la gente, | A la suya real se acostó presto.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 24 (R. 17 . 90 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Refl. Arrimarse y acumularse las arenas contra un muelle ú otra obra hidráulica . Dicc. Marít.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Arrimarse (Hoy no tiene uso).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La muerte nos sigue y rodea, de la cual somos vecinos, y hacia su banidera nos acostamos según natura.»",
+          "autor": "Celest.",
+          "referencia_obra": "16 (R . 3. 63 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se usó en igual sentido como intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijeron sea la mujer una planta que en ojos, frente, cabellos, manos y vestidos tenía raíces como de hiedra para prender doquiera que acostase.»",
+              "autor": "",
+              "referencia_obra": "Píc. Justina, 4. 4 (R . 3. 162 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Inclinar, ladear ( trans. ) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No igual en el confín del Macedonio | Fue la fortuna á César; fuele opuesta | En Salonique, estancia que á favonio | El seno y rocas de su puerto acuesta.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars. 8 ( Fern. 7. 207)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Ladearse, inclinarse hacia un lado ó costado. Dícese principalmente de los edificios.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Primero que caiga del todo dará señal, como casa que se acuesta.»",
+              "autor": "Celest.",
+              "referencia_obra": "3 (R. 3. 18 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hanlas de coger con tiempo [las aceitunas] y amontonarlas en un cabo limpio; y es bien que esté ladrillado y acostado algo, porque corra de allí el alpechín á otra parte.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 3. 35 (2. 343)."
+            },
+            {
+              "texto_cita": "«Siempre los establos ó majadas sean acostadas y en ladera, porque la orina ó agua, si lloviere, no pare.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 13 (3. 358)."
+            },
+            {
+              "texto_cita": "«No perdería mucho el edificio que se hace en una ladera, ya que no puede ir por nivel derecho, que fuese más acostado hacia arriba que hacia abajo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1. 9, § 4 (R. 8. 18 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "mar. Recostarse ó tumbar demasiado el buque por el esfuerzo de la mar ó del viento. Dicc. Marít .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. met. Inclinarse, adherirse (raro hoy).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La costumbre depravada de los hombres puede tanto, que siempre acontece donde se inclina el favor de la fortuna acostarse allí el de los hombres.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ", Lab . 257 (88 2 )."
+        },
+        {
+          "texto_cita": "«Como la voluntad tenga este señorío sobre todo el hombre, y el amor lo tenga sobre la voluntad (porque adonde se inclina el amor, allí se inclina ella), síguese que adonde se acostare el amor, allí se acostará la voluntad, y eso abrazará todo el hombre.»",
+          "autor": "Gran.",
+          "referencia_obra": "Adic. Al Mem . 1. 1, § 7 (R. 8. 422 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Unas [personas hay] que se acuestan más á lo interior, sin hacer tanto caso de lo exterior, y otras que se inclinan más á lo exterior, sin tener tanta cuenta con lo interior.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 2, § 3 (R. 6. 164 2 )."
+            },
+            {
+              "texto_cita": "«Nadie se engañe consigo mesmo. Y si á alguna parte se hubiere de acostar, más sea contra sí que por sí.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. 2. 9 (R. 8. 453 1 )."
+            },
+            {
+              "texto_cita": "«a ser las fuerzas y las lanzas iguales, fácil fuera con pequeño socorro acostarse á la una parte y prevalecer contra la otra.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 11 (R. 8. 454 2 )."
+            },
+            {
+              "texto_cita": "«El crédito de Rugier Lauria era grande, mucho lo que ayudaba á la parte de Francia; que parece llevaba consigo la victoria y buena andanza á la parte que se acostaba y allegaba.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 2 (R. 30. 432 1 )"
+            },
+            {
+              "texto_cita": "«Prohibe y establece [la costumbre] como poderoso príncipe, y consecutivamente á la parte que se acuesta.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 2. 3. 7 (R. 3. 351 1 )."
+            },
+            {
+              "texto_cita": "«Nos acostamos á la opinión de que mangorrero es un calificativo del cuchillo que carece de mango.»",
+              "autor": "Sbarbi",
+              "referencia_obra": ", Refr. gen. 1 , p. 30 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α )",
+          "definicion": "En igual sentido se usó como intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viendo estas contiendas, estos disonos y varios juicios, miré adónde la mayor parte acostaba.»",
+              "autor": "Celest.",
+              "referencia_obra": "pról. (R. 3. 4)."
+            },
+            {
+              "texto_cita": "«Y si acuesta | A ser cortés y modesta, | Dejando la gravedad, | Da muestras de liviandad | Con risa menos honesta.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2 (R. 32. 203 1 )."
+            },
+            {
+              "texto_cita": "«La cual [la virtud de la verdad] tiene tanta fuerza | Do quiera que acuesta y mira, | Que destuerce la mentira, | Por mucho que ella se tuerza.»",
+              "autor": "",
+              "referencia_obra": "Id. 3 (R. 32. 237 2 )."
+            },
+            {
+              "texto_cita": "«Dejada la amistad de España, á quien padre y hermano habían servido, por promesas del cardenal, acostó á la parte de Francia.»",
+              "autor": "Fuenmayor",
+              "referencia_obra": ", Vida de S. Pío V, fol . 34 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Recostar (raro).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ¿cuántas veces cansado, | Por descansar de su mal, | Acostó en el duro umbral | El siniestro y tierno lado?»",
+              "autor": "Mend.",
+              "referencia_obra": "redond. Amor, amor (R. 32. 74 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al bordo cada cual se acuesta y carga | De su fragata, y al contrario bando | El brazo y mano rigurosa alarga.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42 . 112 2 : Stat quisque suae de robore puppis | Pronus in adversos ictus, Luc . 3. 370-1)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asaz veces retraído en mi cámara, acostado sobre mi propia mano, --- me venía á la memoria no sólo la necesidad que nuestra común patria tiene de la presente obra, --- pero aun en particular vuestra misma persona.»",
+              "autor": "Celest.",
+              "referencia_obra": "dedic. (R. 3. 1)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner en la cama ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pidió luégo Anselmo que le acostasen y que le diesen aderezo de escribir.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 35 (R. 1. 354 1 )."
+            },
+            {
+              "texto_cita": "«Tendré por gloria las penas de mi cárcel, y por alivio estas cadenas que me ciñen, y no por duro campo de batalla este lecho en que me acuestan, sino por cama blanda y tálamo dichoso.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 46 (R. 1. 386 2 )."
+            },
+            {
+              "texto_cita": "«En fin, en hombros la llevo | A la venta, y en la cama | De la huéspeda la acuesto.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Por el sótano y el torno, 1. 14 (R. 5. 233 1 )."
+            },
+            {
+              "texto_cita": "«Allí en tu cama le acuestan, | Donde al tiempo que el letargo | Haya perdido la fuerza, | como á ti mismo, señor, | Le sirvan.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño, 2. 1 (R. 7. 6 3 ). —"
+            },
+            {
+              "texto_cita": "«En pluma y blandos cabezales | Acuesta el cuerpo.»",
+              "autor": "Esquil.",
+              "referencia_obra": "Náp. recup. 7 (R. 29. 324 1 ). —"
+            },
+            {
+              "texto_cita": "«Su camarero es el sol, | Que mide á su curso el sueño, | Pues, poniéndose, le acuesta, | Y le levanta naciendo.»",
+              "autor": "Mto.",
+              "referencia_obra": "La misma conciencia acusa , 2. 3 (R. 39. 109 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fuéronse á acostar todos, quedó toda la casa sepultada en silencio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 7 (R. 1. 172 2 )."
+            },
+            {
+              "texto_cita": "«Se fue á acostar en el lecho desocupado.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 9 (R. 1. 200 1 )."
+            },
+            {
+              "texto_cita": "«Venga vuesa merced, y cenemos, y acostaráse temprano.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 44 (R. 1. 495 2 )."
+            },
+            {
+              "texto_cita": "«Despechado y pesaroso como si le hubiera acontecido alguna gran desgracia, se acostó en su lecho.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 41 (R. 1. 497 1 )."
+            },
+            {
+              "texto_cita": "«Cuando me acuesto, digo: Ya es llegado | Mi fin: no hay levantar.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 3 , Job , 7 (R. 37. 61 1 )."
+            },
+            {
+              "texto_cita": "«Fuímonos á acostar, y en toda la noche yo ni don Diego pudimos dormir.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 3 (R. 23. 490 1 )."
+            },
+            {
+              "texto_cita": "«Todo lo saben; ¿qué mucho, | Si hay vecino que por ver | Lo que pasa en una noche, | No se acuesta en todo un mes?»",
+              "autor": "Cald.",
+              "referencia_obra": "El astrólogo fingido, 1. 2 (R. 7. 575 1 )."
+            },
+            {
+              "texto_cita": "«Acostábanse sanos y amanecían unos hinchados, otros tullidos, algunos muertos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 315 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Colocar con la misma posición que se tiene en la cama.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo envolvió en pobres pañales y acostó en un pesebre.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 6. 5, § 3 (R. 8. 338 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y serás más feliz puesto á su lado, | Que en la falda de Venus acostado.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Cantos lír . 2 (R. 67. 91 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Predomina la acepción de Arrimar, que posteriormente casi no aparece fuera del lenguaje náutico.) — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El rey, oidas aquellas razones --- acostóse al partido que el arzobispo de Sevilla y el mayordomo Andres de Cabrera le movieron.»",
+          "autor": "",
+          "referencia_obra": "Crón. Reyes Cat . 1. 2 (R. 70. 232 2 )."
+        },
+        {
+          "texto_cita": "«Como casa envejecida | Cuyo cimiento se acuesta, | Amenaza y amonesta | Con señales su caida.»",
+          "autor": "Mena",
+          "referencia_obra": ", Vicios y virt . ( Cor . 23 1 )."
+        },
+        {
+          "texto_cita": "«Ca algunos se hallan ser virtuosos --- pero muy pocos delante aquellos que á los vicios de este transitorio siglo se acuestan.»",
+          "autor": "",
+          "referencia_obra": "Id. Coron . 2 (3 2 )."
+        },
+        {
+          "texto_cita": "«El caballero caido, él se acostó tanto con el peso de las armas, é tiró las riendas del caballo tanto, que el caballo é el caballero ovieron de caer.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 180."
+        },
+        {
+          "texto_cita": "«Maguer faze, cursso tan subitamente, | A parte adverssa jamas non acuesta.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 88."
+        },
+        {
+          "texto_cita": "«Acostosse la rueda de mala manera.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 120."
+        },
+        {
+          "texto_cita": "«Quando se acuesta el peso, | La una parte peresçe.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 416."
+        },
+        {
+          "texto_cita": "«Sostiene el çielo que non se acuesta, | A parte ninguna que pueda caer.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 514. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Luego cata el priuado a quel [qual] cabo se acuesta | La voluntad del rey e va por esa cuesta.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 272 (R. 57. 433 2 )."
+        },
+        {
+          "texto_cita": "«Los moros acostáronse todos á defender aquella parte do era la puebla.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 58 (R. 66. 208 2 )."
+        },
+        {
+          "texto_cita": "«Los que eran de vína tierra | Acostauanse á vna parte.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1546 (R. 57. 524 1 )."
+        },
+        {
+          "texto_cita": "«De todas las ordenes que Dios fizo, es la mas alta la caballería, et de todas las cazas del mundo non ha mas acostada á la caballeria que esta.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1, pról. ( Bibl. venat. 1. 8)."
+        },
+        {
+          "texto_cita": "«El omen mucho cabando la grand penna acuesta.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 587 (R. 57. 245 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Mas Boymonte é aquellos que con él iban madrugaron ante del dia é comenzáronse á ir; é desque esto supo Zuleman, fuese acostando á ellos.»",
+          "autor": "",
+          "referencia_obra": "Conq. de Ultr. 2. 5 (R. 44. 136 1 )."
+        },
+        {
+          "texto_cita": "«Acostándose á los que le aconsejaban.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. pte. 4 , cap. 6 ( Dicc. Autor. )."
+        },
+        {
+          "texto_cita": "«E tales golpes facia que los otros no se osaban á él acostar.»",
+          "autor": "",
+          "referencia_obra": "Ib. pte. 2 , cap. 5 ( Dicc. Autor. )"
+        },
+        {
+          "texto_cita": "«Si aquellos que jugaren en las tafurerias tovieren contienda sobre el dado que estoviere acostado, devenlo juzgar los otros que jugaren al tablero.»",
+          "autor": "Orden. de tafur.",
+          "referencia_obra": "34 ( O. L. 2. 226) ."
+        },
+        {
+          "texto_cita": "«Quando algunos se quisieren acostar a ellos [los consejeros] por saber las poridades del rey, que las sepan bien encerrar et guardar.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 9. 5 (2. 62)."
+        },
+        {
+          "texto_cita": "«Maguer esto non es religion, es cosa que se acuesta a ella.»",
+          "autor": "Part.",
+          "referencia_obra": "1 . 8 , preámb. (1 . 318) ."
+        },
+        {
+          "texto_cita": "«Aquellos que ovieren las heredades daquella parte ô se mas acostare, la deven aver.»",
+          "autor": "",
+          "referencia_obra": "Espéc . 5. 8. 10 (O . L. 1. 363)."
+        },
+        {
+          "texto_cita": "«Esto es si el rio se va acostando poco a poco al un cabo, e dexa la madre por ô solia correr.»",
+          "autor": "O. L.",
+          "referencia_obra": "1 . 362)."
+        },
+        {
+          "texto_cita": "«Deve catar [el juez] quales son mas e mas onrados, o meiores en vida o en costumbres, o quales dellos se acuestan mas sus dichos a la verdat.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 210)."
+        },
+        {
+          "texto_cita": "«Conoció [mi alma] el menosprecio de aquellas cosas á que se acostaba.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 15 2 )."
+        },
+        {
+          "texto_cita": "«Si casa ovier un ome e fuer acostada, devela adovar porque las otras casas de cerca della non resciban daño.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 4. 5. 2 (114)."
+        },
+        {
+          "texto_cita": "«Fuelos de vna lid el conde acuytando, | Yvanse contra la tyenda de Almoçore acostando.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 261 (R. 57 . 397 1 )."
+        },
+        {
+          "texto_cita": "«Vio un olmo uieio cerca dessi estar | --- Fuese de las espaldas á elle acostar.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2068 (R. 57. 210 2 )."
+        },
+        {
+          "texto_cita": "«Fuesse a la diestra parte Poro acostando.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1892 (R. 57. 205 2 )."
+        },
+        {
+          "texto_cita": "«Parmenio el caboso no lo pudo sofrir, | Acostós al rey e fuegelo dezir.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1099 (R. 57. 181 1 )."
+        },
+        {
+          "texto_cita": "«Acostos al rey, cuedól dar grant golpada.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1077 (R. 57. 180 2 )."
+        },
+        {
+          "texto_cita": "«Fues Ector a diestro un poco acostando.»",
+          "autor": "",
+          "referencia_obra": "Ib. 653 (R. 57. 167 2 )."
+        },
+        {
+          "texto_cita": "«Andaba á Menelao siempre acostado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 458 (R. 57. 161 2 )."
+        },
+        {
+          "texto_cita": "«Quando él esta uengança ssobre nos la acuesta, | Cumplanos el su ruego, non le demos decuesta.»",
+          "autor": "Appoll.",
+          "referencia_obra": "566 (R. 57. 302 1 )."
+        },
+        {
+          "texto_cita": "«Falsedat e cobdiçia eran fechos un vando, | Otras muchas nemigas a ellas acostando.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 50 (R. 57. 41 1 )."
+        },
+        {
+          "texto_cita": "«Por ent a los discipulos dio signo especial | Que non se acostassen a es hospital»",
+          "autor": "",
+          "referencia_obra": "Id. Sacr . 50 (R. 57. 82 1 )."
+        },
+        {
+          "texto_cita": "«Dio ley a judios, en ella diez mandados, | Los quales seran oy commo creo contados: | Otros decretos ovo a esos acostados.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores, 87 (R. 57. 96 1 )."
+        },
+        {
+          "texto_cita": "«Non quiero por los piedes la cabeza desar, | A la Madre gloriosa me quiero acostar.»",
+          "autor": "",
+          "referencia_obra": "Id . Mil. 764 (R. 57. 126 2 )."
+        },
+        {
+          "texto_cita": "«Aves torpes nin roncas hi non se acostaban.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 8 (R. 57. 103 2 )."
+        },
+        {
+          "texto_cita": "«Avia mucho velado, Oria era cansada, | Acostose un poco flaca e muy lazrada.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 117 (R. 57. 141 1 )."
+        },
+        {
+          "texto_cita": "«Tanta cuerda de tienda y veriedes quebrar, | Arancar-se las estacas e acostar-se a todas partes los tendales.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1142 (R. 57. 14 2 )."
+        },
+        {
+          "texto_cita": "«Violo Myo Cid Ruy Diaz el castelano, | Acostos a vn aguazil que tenie buen cauallo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 749 (R. 57. 10 2 ). — El participio tenía estas acepciones:"
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Allegado, cercano en parentesco ó amistad.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Favorecido, paniaguado.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Que tiene acostamiento ó estipendio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eso mismo mandamos de los que son acostados dotre que tovieren tierra o maravedis por esta razon.»",
+              "autor": "Fuero",
+              "referencia_obra": "real, 4. 19. 1 ( O. L. 2. 151)."
+            },
+            {
+              "texto_cita": "«E esto mismo mandamos de los que llaman acostados, que tienen tierra o mrs. dalgunos, non siendo sus vasallos.»",
+              "autor": "Espéc.",
+              "referencia_obra": "3. 5. 5 ( O. L. 1. 86)."
+            },
+            {
+              "texto_cita": "«¡Ay, que maldito sea quien fia en los reyes! que non ha en ellos verdat nin lealtad, é mal face quien se trabaja por los servir, que non son para amigo nin para vasallo nin para acostado.»",
+              "autor": "",
+              "referencia_obra": "Cal. é Dymna (R. 51 . 59 1 )."
+            },
+            {
+              "texto_cita": "«Seyan en su companna del rey auenturado | Muchos uasallos bonos, mucho bon acostado, | Muchos bonos amigos, mucho bon criado.»",
+              "autor": "Alex.",
+              "referencia_obra": "1866 (R. 57.204 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., val., mall., prov. acostar, acercar; fr. accoster, ponerse el lado, abocarse; it. accostare, acercar: latín bajo accostare , juntar, lindar, de ad , á, y costa , costilla, lado. En prov. se usa costa como prep. significando cerca de, lo mismo que en fr. ant. lez , lado, y también en prov. latz .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: acuest-o, as, a, an; acuest-e, es, e, en; acuesta tú . Se halla usado como regular en el sentido de Acercarse á la costa, por parecer inmediatamente sacado de este nombre; pero ésta es una aplicación secundaria de la significación primordial Arrimar. Los gramáticos nada dicen sobre el particular. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

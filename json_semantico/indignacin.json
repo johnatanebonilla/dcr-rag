@@ -1,0 +1,66 @@
+{
+  "lema": "INDIGNACIÓN.",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "--> s. m. Enojo, ira, enfado vehemente. — α ) X «Y hame quedado tristeza, | Vejez, cansancio, flaqueza, | Indignación y amargura, | Quexa, dolor, desventura.» Castillejo , Obr. morales, (Cl. C. 88. 66). «Y los ánimos de los moriscos [estaban] con la misma indignación que los de la Alpujarra.» Mend. Guerra de Granad. 4 (R. 21. 116 1 ). «Sabida la muerte de Sertorio y los causadores della, grandes fueron los sollozos de su gente, grande la indignación que se levantó contra Perpena.» Mariana , Hist. Esp. 3. 15 (R. 30. 76 1 ). «Movidos de la debida indignación a tan lamentable suceso, hicieron pedazos al fraile.» Coloma , Guerras de los Est. Bajos, 2 (R. 21. 23 2 ). «La Europa vio con asombro y aun con indignación ir las mismas armas y el mismo general a arrojar de Nápoles a aquel príncipe, que tres años antes había sido reconocido y amparado por el rey de España su tío.» Quint. Gran Capitán (R. 19. 258 2 ). X «¿Qué es eso, padre? ¿Cuál es | De esa indignación la causa? ¿Con quién tenéis el enojo? | ¿Es conmigo?» García Gutiérrez , Venganza catal. 2 (Cl. C. 65. 67). X «Los caballeros, despreciando el regaño de sus esposas, concurrían a los saraos para divertirse en grande. ¡Las matronas ardían de indignación!» Alegría , El mundo es ancho y ajeno, 3 (p. 106). — α α ) Por sinécdoque se expresa el continente por el contenido. X «Los comentarios de los estudiantes se escribían sobre hojas de indignación.» Arciniegas , Estud. mesa redonda, 1 (p. 22). — β β ) Con de sujetivo. X «Si algo su ser quebranta | No es el dolor sino la rabia austera, | Aquella indignación tres veces santa | De un alma de injusticia prisionera.» Núñez , Poes. p. 242. — γ γ ) Con hacia, en el sentido de Para con. «Es triste, por otra parte, ver que no salgan jamás [los Argensolas] de aquel tono desabrido y desengañado que una vez toman, sin que la indignación hacia el vicio los exalte, ni la amistad o admiración les arranque un sentimiento ni un aplauso.» Quint. Introd. a la Poét. 4 (R. 19. 137 1 ). — β ) Personificación «Suele la indignación componer versos;| Pero si el indignado es algún tonto, | Ellos tendrán su todo de perverso.» Cerv. Viaje, 4 (R. 1. 687 2 ). «Si la naturaleza me lo niega, | La misma indignación me hará hacer versos.» J. Pitillas , sát. (R. 61. 94 2 ). X «Y esa indignación crecía al calor de otras consideraciones. Los estudiantes veían oscurecerse los horizontes de su ambición.» Arciniegas , Estud. mesa redonda, 1 (p. 22). X «Atizada, se propagaba, ganaba terreno la indignación, en lucha contra la inerte curiosidad.» Yáñez, Tierras flacas, 3 (p. 158).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ovo [el rey] alguna indignación contra el rey de Aragón.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 6 (p. 54)."
+        },
+        {
+          "texto_cita": "«E por esta causa estubo algún tiempo en la indignación del rey.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 3 (p. 25)."
+        },
+        {
+          "texto_cita": "«Quando tuviéredes indignación e acordares prender a alguno, juntamente ha de ser la indignación con la execución.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras, 23 (p. 258)."
+        },
+        {
+          "texto_cita": "«A los quales los buenos e principales debrían por cierto con diligencia reprehender e castigar, por huir la indignación de Dios.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 14 (p. 220)."
+        },
+        {
+          "texto_cita": "«¿Agora tan sin cabsa alguna tomar su alteza tal indignación contra mí.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 122 (p. 344)."
+        },
+        {
+          "texto_cita": "«Si a nuestro Señor no provocaran a indignación los pecados de Castilla ---.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Gener. 33 (R. 68. 712 2 )."
+        },
+        {
+          "texto_cita": "«Fue ansí apartado del rey e puesto en gran indignación suya, que fue fuerza de perder el estado e la persona.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 5 (R. 68. 702 2 )."
+        },
+        {
+          "texto_cita": "«Poniendo aparte su indygnaçión | Por vuestra sentençia buenas las llamades.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", 2 (p. 251)."
+        },
+        {
+          "texto_cita": "«Me dises tú que non puede varón | A la sanna de Dios nin a la su yndinaçión | Resistir.»",
+          "autor": "Pal.",
+          "referencia_obra": "1477 (R. 57. 472 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. indignatio, - onis ‘enojo, enfado’. Cat. indignació, fr. indignation, it. indignazione o indignatione, port. indignaçâo, \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

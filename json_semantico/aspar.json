@@ -1,0 +1,203 @@
+{
+  "lema": "ASPAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ". Recoger el hilo en el aspa haciéndolo madeja ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Te mando que dejes la gobernación del imperio y te subas al telar á do tejen mis doncellas tocas, y allí las ayudarás á aspar mazorcas.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. famil. 1. 47 (R. 13. 147 2 )."
+            },
+            {
+              "texto_cita": "«De los labios no tengo qué decir, porque son tan sutiles y delicados que si se usaran aspar labios, pudieran hacer dellos una madeja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 47 (R. 1. 502 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si el hilado es tal, serte ha bien pagado. — ---Hilado todo por estos pulgares, aspado y aderezado.»",
+              "autor": "Celest.",
+              "referencia_obra": "4 (R. 3. 21 2 )."
+            },
+            {
+              "texto_cita": "«Su rastrillado, torcido y aspado hilo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 28 (R. 1. 324 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Crucificar en cruz de forma de aspa. Tomase á veces en general por Crucificar ( trans .). — α .)",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A otros arrastraban y despedazaban á las colas de los caballos; á otros aspaban en unos maderos, y allí rasgaban sus carnes con garfios de hierro.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 2. 17, § 1 (R. 6. 326 1 )."
+        },
+        {
+          "texto_cita": "«¿Qué hacéis, corderito mudo? | ¿Prevenís por dicha el ara, | Que desde aquí se prepara | Para ser sangriento jaspe, | Cuando el mundo injusto os aspe, | En dos leños con tres clavos?»",
+          "autor": "Lope",
+          "referencia_obra": ", Rim. de Burg. égl 2 (Obras suelt. 19. 281 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí fue espiritualmente apedreado con san Esteban, crucificado con san Pedro, aspado con san Andrés.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 4. 22 (2. 478)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Se usa por manera de hipérbole.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si comprendo una palabra, | Que me aspen.»",
+              "autor": "Bretón",
+              "referencia_obra": ", La redacción de un periódico, 5 . 20 (2. 109)."
+            },
+            {
+              "texto_cita": "«Y diga usted á Fernando | Que he resuelto asparle vivo.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Justicía providencial , 3. 13 (378)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Tú piensas | Pescarlo para marido? | Primero aspada me vea.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelvo , 2. 9 (1. 85)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Atormentar, dar que sentir ( trans .) ( fam. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vaya, basta de tramoya, | Que es para aspar á cualquiera...»",
+          "autor": "Bretón",
+          "referencia_obra": ", Marcela , 2. 8 (1. 256)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Refl . Mostrar con quejidos y contorsiones enojo excesivo ó dolor vehemente. En este sentido se dice Asparse á gritos. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con por , para expresar lo que causa el tormento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asparse por alguna cosa.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Asparse por conseguir.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Por extensión:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tenía los brazos aspados y atados con unas vendas á los balaústres de la cabecera del lecho, como que le querían estorbar el moverlos á ninguna parte.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers . 3. 20 (R. 1. 658 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Part . Dícese del que por penitencia, que más comúnmente se hacía en semana santa, llevaba los brazos extendidos en forma de cruz, atados por las espaldas á una barra de hierro, espadas, madero ú otra cosa. Acad . Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met. Dícese del que no puede manejar con facilidad los brazos, por oprimirle el vestido ó por no estar acostumbrado á él ( fam. ). Acad . Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XIII:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tornó --- | Rogar a Ihesu Christo que por nos fue aspado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 393 (R. 57. 52 2 )."
+        },
+        {
+          "texto_cita": "«Assi suvo aspado por nuestra redempçion.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacrif. 178 (R. 57. 86 1 )."
+        },
+        {
+          "texto_cita": "«Ende fue la cruz fecha en que él fue aspado.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 32 (R. 57. 132 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de aspa . Port. aspar . El sentido primitivo de aspa es el de instrumento para hacer madejas ( fr. aspe ; it. aspo ; isl. hespa : dan. haspe ; ant. al. haspil , hoy haspel , devanadera; verbo: haspe , haspeln , devanar); por analogía significa la cruz. Las dos acepciones de nuestro verbo proceden paralelamente de estas significaciones. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

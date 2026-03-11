@@ -1,0 +1,158 @@
+{
+  "lema": "ASIMILAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer semejante ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar aquello con que viene á haber semejanza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ved aquí el más sublime de los dones con que plugo al Altísimo enriquecer al hombre --- su alma --- inmortal, que anima y esclarece la parte corpórea y perecedera de su sér, y encaramándola sobre toda la naturaleza visible, la acerca y asimila á las supremas inteligencias.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Or. sobre el est. de las ciencias nat . (R. 46. 341 2 )."
+            },
+            {
+              "texto_cita": "«Si á tan pura conducta es comparable la de los hombres indignos que manchan sus manos en la sustancia de los pueblos, díganlo, si pueden, de buena fe los que con tanta impudencia nos asimilaron á ellos.»",
+              "autor": "",
+              "referencia_obra": "Id. Def. de la Junta Central , 2. 3 (R. 46. 562 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Había asimilado al hombre con los jumentos en el fin del cuerpo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 186 2 )."
+            },
+            {
+              "texto_cita": "«No es justo asimilar | Con un marido vulgar | A un marido de gran tono.»",
+              "autor": "Bretón",
+              "referencia_obra": ", La escuela del matrimonio , 2. 6 (Baudry, 2. 367)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya suele naturaleza | Dar muestras de su destreza, | Mediante el poder de Dios, | Asimilándose en dos, | En fe de su sutileza.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La ventura con el nombre , 2. 1 (R. 5. 526 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Representar con completa semejanza ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El bando alado de la mosca fuerte | Salió con un furor tan temerario, | Que no hay aquí comparación que acierte | A asimilar su brío extraordinario.»",
+          "autor": "Villav.",
+          "referencia_obra": "Mosq . 12 (R. 17. 620 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl . Parecerse, asemejarse. Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Son versos de cinco sílabas; pero no son adónicos por faltarles la medida que en castellano se asimila al dáctilo.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos , 2, p. 7."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Ser semejante ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En medio deste cuadro está una barca | De pequeñuelas piedras guarnecida, | Que entre las aguas asimila al arca | De las iras del cielo defendida.»",
+          "autor": "Lope",
+          "referencia_obra": ", Descr. del Abadía ( Obr. suelt . 4. 349)."
+        },
+        {
+          "texto_cita": "«Tu caída república socorre | Antes que con la muerte le asimiles [á Sardanapalo], | Y abras camino con tu propia lanza | Para que salga el alma por tu panza.»",
+          "autor": "Villav.",
+          "referencia_obra": "Mosq . 2 (R. 17. 579 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "La Academia apoya este uso intransitivo con el pasaje de Lope que queda copiado; en el de Villaciosa, el le puede ser acus. , como pocos versos antes lo es, cuando dice el autor",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«le imitas,»",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«le imites.»",
+              "autor": "",
+              "referencia_obra": "Si se supone que en el primer pasaje la preposición se halla empleada con el acus. de cosa en obsequio de la claridad, resultará que ambos ejemplos pueden corresponder al sentido explicado en b. Tal uso intrans. no aparece en lat. ni en otras lenguas romances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Apropiarse los órganos las sustancias necesarias para su conservación ó desarrollo ( trans .). A menudo con un dat. refl. Los animales se asimilan muchas substancias vegetales.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El occidente vivificado y robustecido por la unidad católica ha tenido el secreto de asimilarse y apropiarse lo que no ha podido rechazar.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Protest . 11 (3. 54)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Milit. Declarar que un individuo goza de las preeminencias correspondientes al grado de otro que pertenece al ejército activo. El capellán castrense está asimilado á capitán.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. assimilar; it. assimilare; fr. assimiler: del lat. assimilare , comp. de ad , á, y similis , semejante. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

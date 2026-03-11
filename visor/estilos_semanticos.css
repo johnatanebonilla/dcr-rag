@@ -1,0 +1,109 @@
+/* Estilos Semánticos para el Diccionario Cuervo */
+/* Estos estilos mapean directamente a las propiedades del archivo JSON semántico */
+
+/* Estilos de la fuente base */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* 1. Lema: "lema" */
+.dcr-lema {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #800080; /* Conservando el color morado original de Herder si es deseado */
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+}
+
+/* 2. Categoría Gramatical: "categoria_gramatical" */
+.dcr-categoria {
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 0.5em;
+}
+
+/* 3. Etiqueta abreviaturas (si se quiere destacar algo específico) */
+.dcr-abreviatura {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/* 4. Autor: "autor" en la sección de citas */
+.dcr-autor {
+    color: #FF0000; /* Originalmente rojo en la versión CD-ROM */
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/* 5. Referencia de la Obra: "referencia_obra" en citas */
+.dcr-referencia {
+    font-style: italic;
+    color: #000; /* O el color que se decida para las referencias */
+}
+
+/* 6. Texto de la Cita: "texto_cita" */
+.dcr-cita-texto {
+    color: #000080; /* Azul oscuro original para denotar que es una cita */
+}
+
+/* Contenedor general de una cita (agrupando texto, autor, referencia) */
+.dcr-cita-contenedor {
+    margin-bottom: 0.8em;
+    padding-left: 20px; /* Sangría ligera para diferenciarla de la definición */
+}
+
+/* 7. Definición principal de una acepción: "definicion" */
+.dcr-definicion {
+    color: #000;
+}
+
+/* 8. ID de acepción (ej. "a)", "— α )") */
+.dcr-marcador-acepcion {
+    font-weight: bold;
+    color: #800080;
+    margin-right: 0.5em;
+}
+
+/* 8.1. Estructura y Sangrías (Indentación) */
+.dcr-acepciones-lista {
+    margin-top: 1.5em; /* Separación con la introducción */
+}
+
+.dcr-acepcion-item {
+    margin-bottom: 2em;
+}
+
+.dcr-subacepciones-lista {
+    margin-left: 40px; /* Sangría de sangría para subacepciones */
+    border-left: 1px dashed #ccc; /* Hilo visual opcional para guía */
+    padding-left: 20px;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.dcr-subacepcion-item {
+    margin-bottom: 1.5em;
+}
+
+/* 9. Introducción general de la palabra antes de las acepciones */
+.dcr-introduccion {
+    text-align: justify;
+    margin-bottom: 1.5em;
+    line-height: 1.8;
+}
+
+/* 10. Etimología al final de la entrada */
+.dcr-etimologia {
+    margin-top: 1.5em;
+    padding-top: 1em;
+    border-top: 1px solid #ccc;
+    font-size: 0.9em;
+}
+
+.dcr-etimologia::before {
+    content: "Etimología: ";
+    font-weight: bold;
+    color: #0000ff; /* Etiqueta en azul como en el original */
+}

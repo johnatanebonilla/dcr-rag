@@ -1,0 +1,183 @@
+{
+  "lema": "APELACIÓN.",
+  "categoria_gramatical": "s. f.",
+  "introduccion": "--> s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "For. El acto de apelar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Diciendo que no los conocía por sus jueces, apeló al Papa dellos; pero no queriendo ellos admitir la apelación, --- el día siguiente, después que se sentaron los legados en su tribunal, la reina vino, y habiendo tornado á hacer su excepción y apelación, dijo las causas que tenía para apelar al Papa.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Cisma , 1. 13 (R. 60. 199 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "El compl. con de puede tomarse sujetiva ú objetivamente:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Señalando la persona que apeIa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El Papa, sabiendo lo que pasaba, admitió la apelación justísima de la reina, y avocó á sí la causa, mandando á los legados que no tratasen más della y que se viese en la Rota.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 15 (R. 60. 201 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Señalando el auto apelado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De las apelaciones de las sentencias definitivas de cuantía de veinte mil maravedís y de menos cantidad, que fueren dadas en las ciudades y lugares de estos reinos por las justicias de ellos, conozcan los ayuntamientos en los lugares y partes donde acostumbran conocer de las dichas apelaciones.»",
+              "autor": "",
+              "referencia_obra": "Nov. Recop. 11. 20. 10 (4. 431)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el juez ó tribunal ante el cual se apela.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De dos en dos años vienen doce diputados de los cantones, á tomar residencia al capitán, admiten las quejas á que haya dado lugar su administración, y le castigan si ha delinquido: del juicio de estos doce hay apelación á los cantones en los casos extraordinarios.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 306."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "For. Dar por desierta la apelación: declarar el juez ser pasado el término en que el apelante debió llevar la causa al tribunal superior, conforme á la ley. Acad. Dicc .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "For. Desamparar la apelación: no seguir uno la que interpuso. Acad. Dicc .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "For. Interponer apelación: apelar. Acad. Dicc.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La reina instaba que los jueces admitiesen la apelación que ella había interpuesto.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 13 (R. 60. 199 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "For. Mejorar la apelación: acudir el litigante á un juez ó tribunal, sosteniendo la apelación que para ante él le fue admitida por otro juez ó tribunal inferior, y tratando de demostrar el agravio que, á su juicio, le hace la sentencia de que se alza. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El público, como juez único y supremo, aprobará, condenará sin apelación ó tal vez disimulará los yerros y descuidos del autor.»",
+          "autor": "Quint.",
+          "referencia_obra": "Vidas , pról . (R. 19. 201)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Recurso, remedio.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No trueques á dinero la nobleza; | Que ésa ha de ser en un hidalgo pecho | Ultima apelación de la pobreza.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", La industria y la suerte , 2. 13 (R. 20. 35 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "No haber ó no tener apelación : no haber remedio ó recurso en alguna dificultad ó aprieto ( fam. ).",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los hechos é negocios é pleytos que á la audiencia é chancillería pertenescen, como apellaciones é suplicaciones.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 1. 19 (R. 68. 285 2 )."
+        },
+        {
+          "texto_cita": "«Mando que non haya, nin pueda aver dello, nin de cosa alguna nin parte dello apelacion.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes . 16 (26 2 )."
+        },
+        {
+          "texto_cita": "«Non seguiste la apelacion | En tienpo devido qu' el derecho manda.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p.526. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Desta cruel sentencia non ouo apellación.»",
+          "autor": "Pal.",
+          "referencia_obra": "1424 (R. 57. 471 1 )."
+        },
+        {
+          "texto_cita": "«E por ende el consejo desta tal ordenaçion | Es que la su voluntad sea a nos satisfaçion | De quanto él ordenare syn auer apelaçion.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 555)."
+        },
+        {
+          "texto_cita": "«Prometióle de dar la mula pora seguir la apelaçion.»",
+          "autor": "",
+          "referencia_obra": "Ib . 333 (R. 57. 435 2 )."
+        },
+        {
+          "texto_cita": "«Desque todo el proceso vieron, é de commo el pleito fincara en razon de la jura, é que apelara don Diego antel Papa, por esta razon acordaron todos los más que Don Diego non podia facer esta apelación.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV, 13 (R. 66. 139 2 )."
+        },
+        {
+          "texto_cita": "«E fizo luego el infante don Sancho por sí é por los de la tierra una apelacion para otro Papa primero que viniese, ó para ante el primero concilio que se ficiese, ó para ante Dios deste agraviamiento que el Papa facia á la su tierra.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 77 (R. 66. 65 1 )."
+        },
+        {
+          "texto_cita": "«Fesieron luego de mano buenas apelaciones.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1681 (R. 57. 281 1 )."
+        },
+        {
+          "texto_cita": "«Las partes que apellan toman sus apelaciones, et las vnas partes van antel rey et las otras paresçien ante nos en manera que sobre las dichas alçadas van unas cartas contra otras.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 314). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Lleuaron [los judíos] cartas de la mi chançelleria que ouiesen apelaciones contra los christianos, e los christianos que las non ouiesen contra ellos.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 144)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. appellationem , appellatio , deriv. de appellare , apelar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

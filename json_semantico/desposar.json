@@ -1,0 +1,304 @@
+{
+  "lema": "DESPOSAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Prometer dar por marido ó mujer ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Agasajó á don Gabriel | Mi padre, y con nuevo empeño | Quiso hacerle en casa dueño, | desposándome con él.»",
+          "autor": "",
+          "referencia_obra": "Lo que hace un manto en Madrid (R. 5. 713 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Contraer esposales.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como acontece á algunos hombres que se desposan con mujeres muy niñas, y que para casarse con ellas aguardan á que lleguen á legítima edad.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Esposo (3. 262)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sentí que la llamaban apriesa, porque el desposado aguardaba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 27 (R. 1. 322 2 )."
+            },
+            {
+              "texto_cita": "«El desposado se llama Camacho el rico.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 19 (R. 1. 443 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. En sentido espiritual.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A otras [ánimas] que | están desposadas con él por estar en su gracia, les añadirá más gracia para que el desposorio sea firme.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 13 (3. 427)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. Contraer matrimonio.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desposarse por poderes.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Se hicieron las amonestaciones y al cuarto día nos desposamos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 11 (R. 1. 223 1 )."
+            },
+            {
+              "texto_cita": "«Quiso que las fiestas pasasen adelante, como si realmente se desposara.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 21 (R. 1. 449 1 )."
+            },
+            {
+              "texto_cita": "«Supe ayer que olvidado de lo que me debía se casaba con otra, y que esta mañana iba á desposarse.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 60 (R. 1. 531 2 )."
+            },
+            {
+              "texto_cita": "«Vuestra hermana se desposa | ¡Y vos no habéis parecido | Por allá!»",
+              "autor": "Hartz.",
+              "referencia_obra": "Alfonso el Casto, 2. 8 ( 66)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. Recién casado. Se sustantiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por alegrar la fiesta del desposorio y honrar al nuevo desposado, de aquella manera hacia la aldea se encaminaban.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 (R. 1. 32 2 )."
+            },
+            {
+              "texto_cita": "«Grandes fueron y muchos los regalos que los desposados hicieron á D. Quijote.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 22 (R. 1. 449 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con y un nombre de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es [su oficio] agradar, y servir, y alegrar y audar en los trabajos de la vida y en la conservación de la hacienda á aquel con quien se desposa.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 4 (3. 442)."
+            },
+            {
+              "texto_cita": "«Determiné de desposaréme con Leopersia, ó á lo menos desposarme mañana.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 4 (R. 1. 49 1 )."
+            },
+            {
+              "texto_cita": "«La noche que D. Fernando se desposó con Luscinda, después de haber ella dado el sí de ser su esposa, le había tomado un recio desmayo.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 28 (R. 1. 328 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La infanta Ana vendrá, reina de España, | Con el rey don Felipe desposada.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 18 (R. 17. 71 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Colocar en el estado de matrimonio ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desposo una hija mía. | — ¿A Laura? — A Laura, señora. | — ¿Y con quién? — Con un garzón | Que ha dos años que la adora.»",
+          "autor": "Lope",
+          "referencia_obra": ", El molino, 3. 11 (R. 24. 38 3 )."
+        },
+        {
+          "texto_cita": "«Las doncellas | Guarda, cerrando puertas y ventanas; | Ni la dejes salir á ver las calles | Antes que la desposes.»",
+          "autor": "Quev.",
+          "referencia_obra": "Focil . (R. 69. 411 1 ; acaso ha de leerse:"
+        },
+        {
+          "texto_cita": "«la doncella;»",
+          "autor": "",
+          "referencia_obra": "el original: B\"D2,<4iZ<"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Autorizar el párroco el matrimonio ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hizo la ceremonia y desposólos el Cardenal Albigense.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 23. 15 (R. 31. 172 2 )."
+        },
+        {
+          "texto_cita": "«El corregidor dijo Señor tiniente cura, este gitano y esta gitana son los que vuesa merced ha de desposar.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov. 1 (R. 1. 118 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E la reyna entrá á un retrete de su cámara adonde tenia á doña Costanza Barba é á su madre á fin de los desposar luego alli.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 7 (21). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Antes que se desposase con ella se avia desposado por palabras de presente con doña Maria de Padilla.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 13. 7 (R. 66. 519 2 )."
+        },
+        {
+          "texto_cita": "«Desposáronle con una fija de don Pero Ponce.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 9 (R. 66. 407 2 )."
+        },
+        {
+          "texto_cita": "«Primeramente a los desspossorios quando algunos sse desspossaren, que non den pannos nin joyas a la esposa.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 622)."
+        },
+        {
+          "texto_cita": "«Con este muy noble infante | Esta infante desposaron.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI , 517 (R. 57. 493 1 )."
+        },
+        {
+          "texto_cita": "«E desposaron á la infanta doña Leonor, que era de tres años, con el infante don Jaimes.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 19 (R. 66. 169 1 )."
+        },
+        {
+          "texto_cita": "«Dixo el un ladron dellos: ya yo so desposado | Con la forca, que por furto ando desorejado, | Si mas yo so con furto del merino tomado, | El me frá con la forca ser del todo casado.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1429 (R. 57. 272 1 )."
+        },
+        {
+          "texto_cita": "«Les debedes mostrar ---, por qué nasció de Santa Maria et non de otra mujer; et por qué seyendo virgen et desposada et non casada nin virgen solamente nin viuda.»",
+          "autor": "",
+          "referencia_obra": ". J. Man. Libro de los est. 2. 8 (R. 51. 351 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E desposaron á don Hernando con doña Sancha la infanta.»",
+          "autor": "",
+          "referencia_obra": "Cast. e docúm . 43 (R. 51. 170 1 )."
+        },
+        {
+          "texto_cita": "«Trajieronle tina doncella muy fermosa sin tiento, que habian captivada, desponsada con el príncipe de una cibdat.»",
+          "autor": "",
+          "referencia_obra": "Ib . 23 (R. 51. 140 1 )."
+        },
+        {
+          "texto_cita": "«Establecemos que lles defiendan amenudo en suas eglesias, que ninguno non se espose nen se case fata que per tres fiestas despues del evangelio for pregonado en la eglesia.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1267 ( Esp. sagr. 36. 238)."
+        },
+        {
+          "texto_cita": "«Que los padres non pueden desposar sus fijos non estando ellos delante ó non lo otorgando.»",
+          "autor": "Part.",
+          "referencia_obra": "4. 1. 10 (3. 9)."
+        },
+        {
+          "texto_cita": "«Desposarse pueden también los varones como las mugeres desque hobieren siete años.»",
+          "autor": "",
+          "referencia_obra": "Part . 4.1. 6 (3. 6)."
+        },
+        {
+          "texto_cita": "«Si la esposa fiziere adulterio, ó se desposare ó casare con otro marido ---»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 3. 4. 2 (55)."
+        },
+        {
+          "texto_cita": "«E desde el dia de las esposaias fastal dia de las bodas non deve esperar el uno al otro mas de dos annos, si non de voluntad de los padres é de los parientes ó de los esposados, si fueren de edad complida.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 1. 4 (47)."
+        },
+        {
+          "texto_cita": "«Si alguno desposar la manceba de voluntad de su padre, é la manceba contra voluntad de su padre quisiere casar con otro.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 1. 2 (46; * se desposare con la manceba)."
+        },
+        {
+          "texto_cita": "«Sean dados [los parientes] --- con todas sus cosas en poder de aquel que la avie antes desposada.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 1. 2 (46)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. desposar , esposar ; cat. esposar ; prov. espozar ; fr. épouser ; it. sposare : del lat. sponsare , intensivo de spondere , prometer; sponsus , esposo. Es sin duda galicismo crudo el empleo de nuestro verbo en los siguientes pasajes, pues no cabe suponer que sean imitación del Fuero Juzgo:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Abraham desposó á Agar, que era esclava --- Desposó después también a Cetura.»",
+          "autor": "Scío",
+          "referencia_obra": ", Gén. 25. 1, nota ."
+        },
+        {
+          "texto_cita": "«Y haciendo Inés que Martínez | Los sagrados pies tocase, | Preguntóle: Diego, ¿juras | A tu vuelta desposarme? | Contestó el mozo: Sí juro.»",
+          "autor": "Zorrilla",
+          "referencia_obra": ", A buen juez mejor testigo (1. 72)."
+        },
+        {
+          "texto_cita": "«¿Juráis ser cierto que un día | A vuestras divinas plantas | Juro á Inés Diego Martínez | Por su mujer desposarla?»",
+          "autor": "",
+          "referencia_obra": "Id. ib. (1. 76). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

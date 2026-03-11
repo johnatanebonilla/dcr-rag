@@ -1,0 +1,89 @@
+{
+  "lema": "ATRAGANTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Tragar, pasar con dificultad ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sintió de tal suerte mi antigua compañera este desprecio, que atragantaba podre por la boca, y vertía ponzoña por los ojos.»",
+          "autor": "",
+          "referencia_obra": "Esteb. Gonz . 10 (R. 33. 345 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . No poder pasar ó tragar algo que se atraviesa ó atora en la garganta.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Detén, señor, el cuchillo, | Deténle que mi gaznate | Nunca ha tomado el acero, | Y temo que me atragante.»",
+              "autor": "Solís",
+              "referencia_obra": ", Poes . p. 102."
+            },
+            {
+              "texto_cita": "«El arca de Noé les viniera escasa, si les dieran un asador á mano, y vinillo aloque para atragantarse.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1. 5 (4. 211)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar lo que se queda detenido en la garganta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Atragantarse con una espina»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin duda alguna que se hubiera ahogado | Un lobo con un hueso atragantado, | Si á la sazón no pasa una cigüeña.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb. 2. 6 (R. 61. 363 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl . met. Cortarse ó turbarse en la conversación (fam). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Habiendo dominado en el verbo el concepto de Detener, ha venido alguna vez á tomarse por Atajar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si de antuvión te embistiere un pedidor de avenida y repentino, con la misma priesa has de decir: Estaba ahora pensando en pedir á vuesa merced me socorriese con esa cantidad, para una necesidad de honra. Esto se llama atragantar embelecos.»",
+          "autor": "Quev.",
+          "referencia_obra": "Cart. del Cab. de la Tenaza (R. 23. 454 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de tragar , mediante el participio presente. Vista la significación de otros verbos de igual formación, como amamantar, acrecentar, ahuyentar, etc., es de creerse que primeramente valdría Hacer tragar, y de ahí, por una especie de metonimia, Tragar con dificultad. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

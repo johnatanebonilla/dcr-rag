@@ -1,0 +1,265 @@
+{
+  "lema": "ACTUAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Filos. Reducir de la potencia al acto ( in actum redigere ) ( trans .)",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": ".",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La materia existe [según Aristóteles], mas no sola, sino en cuanto está unida á la forma que le da el acto, y junto con ella constituye la naturaleza. La forma es lo que actúa á la materia, la que uniéndose á ella la hace ser, y ser tal cosa.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Hist . 18 (503)."
+            },
+            {
+              "texto_cita": "«De allí en adelante toda el alma y todo el cuerpo quedarán sujetos perdurablemente á la gracia, la cual, así como será señora entera del alma, así mismo hará que el alma se enseñoree del todo del cuerpo. Y como ella, infundida hasta lo mas íntimo de la voluntad y razón y embebida por todo su sér y virtud, le dará sér de Dios, y la transformará cuasi en Dios, así también hará que, lanzándose el alma por todo el cuerpo y actuándole perfectísimamente, le dé condiciones de espíritu y cuasi le transforme en espíritu.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 6. 2, Rey (R. 37. 135 2 ). (Recuérdese que, según la filosofía escolástica, el alma se une al cuerpo como forma, y que, mediante el alma, pasa el cuerpo de ente en potencia á ente en acto.)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los argumentos que se fundan en que el entendimiento es una especie de materia ó potencia que debe ser actuada por la idea como por una forma, --- suponen lo mismo que se busca.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Ideol . 3 (178)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Entre los místicos, Poner en ejercicio, hacer efectivo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se ha de considerar las grandezas de este Señor que está encerrado en este santo sacramento, actuando con viveza la fe de todas, así las que le convienen en cuanto Dios, como las que tiene en cuanto hombre.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 1. 33 (1. 223)."
+            },
+            {
+              "texto_cita": "«La vista [del alma] es la lumbre de la fe, con la cual vemos, aunque por espejo y con oscuridad, lo que Dios a revelado en cada misterio, actuándola en creerlo con admiración y pausa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 26 (1. 386)."
+            },
+            {
+              "texto_cita": "«Actuando esta fe, cautivaré mi entendimiento á que crea esto.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 6. 44 (3. 513)."
+            },
+            {
+              "texto_cita": "«Actuar y avivar la fe.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 4. 13 (2. 430)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . en sentido deponente. Ejercitado.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como estaba tan actuado en estos pensamientos y ejercicios toda la vida, en este último trance fueron más intensos.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Gran. 2.15 (146)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es digno de gran reparo que si en caso repentino un varón tan santo, tan actuado á clamar y amar á Dios, así se perturbó que no atendió á más que escaparse del peligro ---»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 2. 5 (97)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Hacer entender, enterar bien ( trans .). Esta acepción (lo mismo que la correspondiente de informar ) tiene su origen en la filosofía escolástica, la cual explicaría el hacer entender diciendo que para ello se actúa ó reduce al acto el entendimiento posible.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Actuar en los negocios.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Instruírse bien, enterarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la meditación nos hemos de actuar muy bien en la verdad del misterio que la fe nos enseña, procurando creerle y entenderle como pasó verdaderamente, y como está revelado.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. introd . 1. 28)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Actuarse de los negocios.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose de los alimentos y remedios, Hacer obrar, digerir ( trans .) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fue muy conveniente, y, conforme á la suave orden de Dios, necesario, que el reparador se avecinase á lo que reparaba y que se proporcionase con ello, y que la medicina que se ordenaba fuese tal que la pudiese actuar el enfermo.»",
+          "autor": "León",
+          "referencia_obra": ", Nomb. 3, Jesús (R. 37. 208 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para que las medicinas aprovechen, es menester que sean primero actuadas y digeridas en el estómago con el calor natural.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y c onsid. pról. (R. 8. 1)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Tratándose de la consideración y meditación de la verdad, Acogerla y hacerla fructificar en sí mismo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Leer continuamente libros de espíritu y documentos santos con gran juicio y atención, y digiriendo y actuando aquellas verdades y doctrinas sólidas en que se está cebando su entendimiento, aficionando su voluntad, disponiéndolas, dictándolas, escribiéndolas, era muy buena oración.»",
+          "autor": "Muñoz",
+          "referencia_obra": ", Vida de Gran . 2. 4 (92)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "Dictar ó proceder en ejercicio de una autoridad. Es de particular uso en lo forense.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans .",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El resto de todo lo que se había actuado en la oficina suprimida [la secretaría de la Junta Central] se trasladó desde un navío, donde se hallaba, á la casa de la aduana.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 196."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los papeles actuados en la Junta, respectivos á Cortes, habían corrido bajo la custodia de los archiveros.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd. p. 199."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su cumplimiento no se puso por ante el escribano de la intendencia, sino por el del gobierno, que actúa en todos los negocios de esta clase.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre extracción de aceites (R. 50. 2 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6.",
+      "definicion": "En las universidades,",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Practicar los ejercicios orales de una oposición.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Defender conclusiones públicas. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Figurar, hacer algún papel.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Semejantes embriones oficiales ú oficiosos no pertenecen á Talía, ni á Melpómene, ni á Terpsícore, ni á ninguna de las otras cinco hermanas, ora actúen en ellos los númenes mitológicos, ora figuras alegóricas ad libitum --- »",
+          "autor": "Bretón",
+          "referencia_obra": ", Obras, pról . (1. XII)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. bajo actuare, de actus , acto; port . actuar; it . attuare, ing. actuate. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

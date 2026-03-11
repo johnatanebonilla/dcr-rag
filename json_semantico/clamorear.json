@@ -1,0 +1,130 @@
+{
+  "lema": "CLAMOREAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ". Clamar con impertinencia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No pudiendo imitar las excelentes dotes de los antiguos dramáticos, clamoreaban a grito herido defendiendo el desarreglo y la licencia.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. esp . 5 (2. 221)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con por , para denotar el objeto del clamor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desaprobé el deseo de aquellos que clamoreaban por una nueva constitución.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , apénd. nota 1 (R. 46. 621 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por si acaso la fama vocinglera no ha clamoreado bastante la infausta noticia de su fallecimiento, mandan hacer un grande escudo de armas, propias, ó usurpadas ó inventadas ad libitum; y éstas son las más bonitas.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 227."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Anunciar la muerte de alguno tocando las campanas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Clamorear á muerto las campanas.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Las campanas clamorean. | ¡Plega á Dios que por mí sean!»",
+              "autor": "Lope",
+              "referencia_obra": ", La campana de Aragón , 1 (R. 41. 43 1 )."
+            },
+            {
+              "texto_cita": "«Pueden enterrallo | Y clamorear á pino.»",
+              "autor": "",
+              "referencia_obra": "Id. Los ramilletes de Madrid , 2. 6 (R. 52. 312 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué escucho? Sordamente clamorea | Una y otra campana.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La infanticida (413). —"
+            },
+            {
+              "texto_cita": "«Sus palabras militaron en el prendimiento. En su muerte el aire clamoreó con suspiros.»",
+              "autor": "Quev.",
+              "referencia_obra": "Peste 2 (R. 48. 107 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por , para denotar la persona cuya muerte se anuncia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Pucheros? | Mira que soy sevillano. | Declárate porque luégo | Clamoreen por el hombre.»",
+              "autor": "Lope",
+              "referencia_obra": ", El desprecio agradecido , 3. 11 (R. 34. 265 2 ). —"
+            },
+            {
+              "texto_cita": "«Al fin mujer. | ¡Ah cielos! — Ya habrá su olvido | Clamoreado por ti.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los balcones de Madrid , 1. 9 (R. 5. 558 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans . Siendo acus. el nombre de la persona cuya muerte se anuncia (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eso es bueno | Para un hombre condenado --- | Y para el que está metido | Por la Sala en la capilla, | De la vulgar campanilla | Clamoreado y pedido.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los milagros del desprecio , 3. 7 (R. 34. 246 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part . Por extensión, Semejante al clamoreo de las campanas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con tono clamoreado, | Que la ausencia me compuso, | Lloré los versos siguientes, | Más renegados que cultos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 6, rom . 89 (R. 69. 224 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de clamor . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

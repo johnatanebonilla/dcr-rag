@@ -1,0 +1,127 @@
+{
+  "lema": "DESPECHAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Causar despecho ó pesar con cólera ó indignación ( trans. ) . — α ) «Por una parte os convida, | Y por muchas os despecha.» Castillejo , 2 , Condic. de las mujeres (R. 32. 202 2 ). «Apenas, dijo, mi piedad se atreve | A proferir el vaticinio infausto, | Que aun despechar á los celestes debe.» Jáur. Fars. 2 ( Fern. 7. 53). — «Y temo alguna violencia, | Que puede la resistencia | Despechar el sufrimiento.» Alarcón , Todo es ventura, 3. 13 (R. 20. 135 1 ). — β ) Refl. «Valeroso caballero, no os despechéis ni tengáis á siniestra fortuna ésta en que os hallais.» Cerv. Quij. 2. 60 (R. 1. 531 1 ). «Si la causa te he callado | Desta pendencia, señor, | Ha sido porque mi hermana | No se despeche, sabiendo | Que no solo yo la entiendo.» Alarcón , El desdichado en fingir, 2. 9 (R. 20. 150 2 ). «Miró también á lo que importaba detenerlos, porque no se despechase Motezuma con la noticia de su resolución y tratase de ponerse en defensa.» Solís , Conq. de Méj. 3. 2 (R. 28. 266 1 ). — α α ) Con de, para expresar el origen del despecho ó indignación. «No os despechéis, señor caballero de la Triste Figura, de las sandeces que vuestro buen escudero ha dicho.» Cerv. Quij. 1. 46 (R. 1. 385 2 ). — γ ) Con á , para expresar el extremo á que lleva el despecho. «Yo soy Tíamis, señora, | A quien injurias crueles | De un padre injusto, una patria | Ingrata, un hermano aleve | Le despecharon á ser --- | Horror, escándalo y muerte | De cuantos á sus umbrales --- | Airada arrojó su suerte.» Cald. Los hijos de la fortuna, 3. 5 (R. 12. 105 3 ). — δ ) Part. «Vivo yo el más despechado y el más desabrido hombre de todo el universo mundo.» Cerv. Quij. 1. 33 (R. 1. 341 2 ). «Quedó D. Quijote acribado el rostro y no muy sanas las narices, aunque muy despechado porque no le habían dejado fenecer la batalla que tan trabada tenía con aquel malandrín encantador.» Id. ib. 2. 46 (R. 1. 500 1 ). «Ninguna de las cosas referidas, ni otras muchas que he dejado de referir, ha de hacer más memorables estas bodas, sino las que imagino que hará en ellas el despechado Basilio.» Id. ib. 2. 19 (R. 1. 443 1 ). «Miren vuesas mercedes también cómo el emperador vuelve las espaldas y deja despechado á don Gaiferos.» Id. ib. 2. 26 (R. 1. 459 2 ). «Yo vine despechado tras él, y con buenas y corteses palabras le he pedido que me diese siquiera ocho reales.» Id. ib. 2. 49 (R. 1. 506 1 ). «En pie quedéme, | Despechado, colérico y marchito.» Id. Viaje, 3 (R. 1. 687 2 ). «Volvió en sí dentro de breve rato, pero tan impaciente y despechado, que fue necesario detenerle para que no se quitase la vida.» Solís , Conq. de Méj. 4. 14 (R. 28. 328 1 ). «El que llega á estar cercado | De ejército numeroso, | A los que huyó temeroso, | Acomete despechado.» Alarcón , La amistad castigada, 1. 6 (R. 20. 287 2 ). — α α ) Sup. «Batallas pintarás á cada paso | Entre despechadísimos guerreros.» Mor. Lección poétic. (R. 2. 578 2 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tened en paz e justiçia | Los pueblos que despechays.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr . 1, p. 334. — Siglo XlII:"
+        },
+        {
+          "texto_cita": "«Pesol de corazon, fo ende despechada.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 384 (R. 57. 115 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. despeitar; cat . despitar; prov. despechar, despeytar, despreciar; fr. dépiter; it. dispettare, despreciar, dispettarsi, despecharse: del lat. despectare, mirar de arriba abajo, despreciar. Despechar, derivado de pecho = pectus significa Destetar, y de pecho = pactum, Sacar tributos excesivos, despojar; en este sentido era comunísimo en el período anteclásico:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E tornanse, dejando la gente muerta, é los otros malcontentos; ellos ricos, é el reyno despechado é disfamado.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 94."
+        },
+        {
+          "texto_cita": "«Si se atreven con algund lugar, cercanle, é non dejan ir ome á labrar, fasta que se despechan, segund que es el lugar.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 74."
+        },
+        {
+          "texto_cita": "«Castilla fue despechada | E en grand trebuto metida. »",
+          "autor": "",
+          "referencia_obra": "Alf. Xl, 2244 (R. 57. 544 2 )."
+        },
+        {
+          "texto_cita": "«Les avria á dar las soldadas, porque avrian á despechar la tierra.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 16 (R. 66. 162 1 )."
+        },
+        {
+          "texto_cita": "«Prendían los judíos del rey en los caminos é despechábanlos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2 (R. 66. 105 2 )."
+        },
+        {
+          "texto_cita": "«Así commo ficiera el rey don Sancho su padre é el rey don Alfonso su abuelo, que los despechara é los matara sin fuero é sin razon é sin derecho.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1 (R. 66. 99 1 )."
+        },
+        {
+          "texto_cita": "«--- Que toviesen esta carrera é esta voz para pedir merced al rey su padre, que los non desaforase, nin los tomase, nin los despechase.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 76 (R. 66. 61 1 )."
+        },
+        {
+          "texto_cita": "«Que non ssean muertos nin lisiados nin despechados nin tomado ninguna cosa de lo ssuyo, fasta que sean ante oydos.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 374)."
+        },
+        {
+          "texto_cita": "«Nin maten nin espechen a ningunt vezino de la villa a menos que sea julgado.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Palencia, año 1313 ( ib. 1. 232)."
+        },
+        {
+          "texto_cita": "«Nin otrossi el adelantado que non mate nin mande matar nin ssoltar nin despechar nin tormentar omne ninguno por justiçia ssino por juyçio de los alcalles.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año 1312 ( ib. 1. 212)."
+        },
+        {
+          "texto_cita": "«Se astragauan los pueblos e los despechauan e los desaforauan.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año 1307 ( ib . 1. 190)."
+        },
+        {
+          "texto_cita": "«Ninguno non sea muerto nin despechado sin ser oydo.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año 1299 (ib. 1. 140)."
+        },
+        {
+          "texto_cita": "«Otrosi se querellaron los personeros de la iglesia, que los del concejo los prindaban e los espechaban los yugueros.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1269 ( Esp. sagr. 35. 437)."
+        },
+        {
+          "texto_cita": "«Con la grand cobdiçia que en sy auie, daspechaua mucho las tierras.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 1. 108 (74 3 )."
+        },
+        {
+          "texto_cita": "«Fyncauan conoscidamente por vençidos e por sieruos e despechados de quanto auie.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 36 (17 1 )."
+        },
+        {
+          "texto_cita": "«Consiente Dios que sea la tierra despechada de aquellos que son señores della.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 20. 21 (1. 466)."
+        },
+        {
+          "texto_cita": "«Por la pobreza en que él [el obispo] está ha de despechar los clérigos.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 5. 29 (1. 215)."
+        },
+        {
+          "texto_cita": "«Nengun judio --- non sea osado de se apoderar, ó mandar, ó apremiar, ó despechar --- a nengun cristiano.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 17 (199)."
+        },
+        {
+          "texto_cita": "«Et si homo de Palençiola voltam fecerit in mercado non sit captus, ni despeiado.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Palenszuela, año 1074 ( Muñoz , F. 276). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

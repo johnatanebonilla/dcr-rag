@@ -1,0 +1,126 @@
+{
+  "lema": "DERRUMBAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Precipitar, despeñar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De un cerro le derrumbaron, | De donde el Ventura vino | A dar á un lago.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La ventura con el nombre , 3. 2 (R. 5. 533 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Venirse abajo rodando ó dando tumbos. Con de ó desde.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Derrúmbanse del monte abajo cuantos | Presumieron subir por la ladera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Viaje , 7 (R. 1. 697 1 ). —"
+            },
+            {
+              "texto_cita": "«Bien notas, escudero fiel y legal --- el temeroso ruido de aquella agua, en cuya busca venimos, que parece que se despeña y derrumba desde los altos montes de la luna.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 20 (R. 1. 296 1 )."
+            },
+            {
+              "texto_cita": "«Los precipicios de donde se derrumba espumoso el Tajo, el desierto hórrido de Bolarque --- todo acaloraba su fantasía y ejercitaba su talento.»",
+              "autor": "Mor.",
+              "referencia_obra": "Vida de N. Mor . (R. 2. XIX )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo es inútil: los nuestros caen ó muertos, ó heridos ó derrumbados.»",
+              "autor": "Quint.",
+              "referencia_obra": "Gran Capitan (R. 19. 260 1 )."
+            },
+            {
+              "texto_cita": "«El caos tembló cuando al mayor lucero | Oyó entre la rebelde muchedumbre | Derrumbado caer de la alta cumbre.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", Inoc. perd. 1 (R. 29. 509 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En lo hondo de sus cañadas aparecen á trechos capas de piedras angulosas de diferentes materias y tamaños que parecen venidas ó derrumbadas de lo alto. »",
+              "autor": "",
+              "referencia_obra": "Jovell . Descr. del castillo de Bellver (R. 46. 399 1 )."
+            },
+            {
+              "texto_cita": "«Y como en el invierno dos torrentes, | Saliendo de abundosos manantiales | Y de altísima sierra derrumbados.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 4 (1. 120)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. En especial, Desmoronarse, derruírse, caerse ó rodarse las partes que forman un edificio ó una altura.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Bajaban gatos | --- Como bajan despeñados | Fragmentos de edificio que derriban, | Que de su mismo asiento se derrumba.»",
+          "autor": "Lope",
+          "referencia_obra": ", Gatom . 7 ( Obr. suelt . 19. 259)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la siniestra mano, hacia el poniente | Estaban dos caminos mal usados: | Estos debían de ser antiguamente | Por do al agua bajaban los venados; | Digo en tiempos pasados, que al presente | Por mil partes estaban derrumbados.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 6 (R. 17. 27 1 )."
+            },
+            {
+              "texto_cita": "«Ya por la áspera cuesta derrumbada | Venían cuerpos y peñas volteando.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 28 (R. 17. 107 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No pudieron pues nunca derrumbar á sus adversarios de la altura en que estaban puestos, y donde los mantenía la reputación que habían adquirido con sus antiguos servicios.»",
+          "autor": "Quint.",
+          "referencia_obra": "Cartas á L. Holland , 7 (R. 19. 566 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., gall. derrubar; it . dirupare , del lat. rupes , roca, formación análoga á la de derrocar , desriscar , derribar; en prov . hay deruben , derrumbadero, fr. ant. desrube , desrubant. En cast. tenemos también derrubiar, desmoronar el agua las riberas ó tapias. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

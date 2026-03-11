@@ -1,0 +1,129 @@
+{
+  "lema": "BALAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Formar su voz natural la oveja, el carnero y el cordero ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El cordero también, con ser animal no menos simple que su madre, cuando entre toda la manada la pierde de vista, anda por toda ella balando.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 1. 14 (R. 6. 215 1 )."
+        },
+        {
+          "texto_cita": "«Dejándose llevar como una oveja al matadero, y como un cordero que no bala delante del que le tresquila.»",
+          "autor": "",
+          "referencia_obra": "Id. Orac. y consid. 1, dom. por la mañ. (R. 8. 94 1 )."
+        },
+        {
+          "texto_cita": "«Fui subiendo á penas, | Sustentándome ansí, donde balaban | Las ovejas que llevas por el monte.»",
+          "autor": "Lope",
+          "referencia_obra": ", D. Juan de Castro , 2ª. pte . 2. 26 (R. 52. 409 3 )."
+        },
+        {
+          "texto_cita": "«Como las corderillas temerosas, | De las queridas madres apartadas, | Balando van tras ellas presurosas | Haciendo en poco espacio mil paradas ---»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 7 (R. 17. 28 1 )."
+        },
+        {
+          "texto_cita": "«Oí balar un cordero, | Cordero que fue león.»",
+          "autor": "Góng.",
+          "referencia_obra": "rom . 84 (R. 32. 537 1 )."
+        },
+        {
+          "texto_cita": "«Bala el ganado; al mísero balido | Nocturno el lobo de las selvas nace.»",
+          "autor": "",
+          "referencia_obra": "Id. Polif . (R. 32. 460 2 ). —"
+        },
+        {
+          "texto_cita": "«Oh pacientísimo Cordero, ¿qué haces rodeado de tantos lobos y leones tan feroces? ¿cómo no balas ni abres tu boca contra ellos?»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 4. 25 (2. 489)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Balar de hambre.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Se usa también para expresar la voz de la cabra ( cp. lat. balatus ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Bala el cabrito y á su madre llama.»",
+          "autor": "Hojeda",
+          "referencia_obra": ", Crist . 2 (R. 17. 415 1 )."
+        },
+        {
+          "texto_cita": "«Solo escuché un cabritillo | Que parece que balaba.»",
+          "autor": "Mto.",
+          "referencia_obra": "S. Franco de Sena , 3. 7 (R. 39. 138 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Desear con ansia. Con por",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Balar por alguna cosa.»",
+          "autor": "Terreros",
+          "referencia_obra": "."
+        },
+        {
+          "texto_cita": "«Balar por dinero.»",
+          "autor": "Salvá",
+          "referencia_obra": ", Gram. Andar balando por alguna cosa."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mas a ty, bos de cabrita, | Que balas commo cabrito ---»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 165. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Vienen de redor della balando mucha oveja.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1188 (R. 57. 264 2 )."
+        },
+        {
+          "texto_cita": "«Comenzó de aullar; | Los cabrones e las cabras en alta vos balar.»",
+          "autor": "",
+          "referencia_obra": "Id. 746 (R. 57. 250 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Balauan cuemo oueias que iazen en corral.»",
+          "autor": "",
+          "referencia_obra": "Alex . 209 (R. 57.154 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. balar ; prov. , cat. , val., mall. belar; fr . beler; it. belare: del lat. balare , belare. Es una suavización de la raíz onomatópica bla , que, acrecida con diversas consonantes, aparece en muchas de las lenguas de nuestra familia: gr. blhc£omai ; ant. al. blazan , anglosaj. blaetan (hol . bleeten , ing. bleat ); al. mod. blöcken; ant. escl. blekati, bljejati (ruso bleiati ) . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

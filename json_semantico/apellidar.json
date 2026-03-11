@@ -1,0 +1,468 @@
+{
+  "lema": "APELLIDAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Gritar convocando, excitando ó proclamando ( trans. ). Se usa como acus. el grito mismo con que se convoca ó el nombre del objeto á que se excita ó que se proclama.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tomando alfanjes de los muertos, saltaron en crujía, y apellidando libertad, libertad, y ayudados de las buenas boyas, cristianos griegos, con facilidad y sin recebir herida los degollaron á todos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 2 (R. 1. 132 1 )."
+            },
+            {
+              "texto_cita": "«Uno dellos nos preguntó si éramos nosotros acaso la ocasión por que un pastor había apellidado arma.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 41 (R. 1. 373 2 . Anteriormente había dicho que el pastor"
+            },
+            {
+              "texto_cita": "«comenzó á dar los mayores gritos del mundo diciendo: Moros, moros hay en la sierra; moros, moros, arma, arma»",
+              "autor": "",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Volvieron las espaldas, y entre huyendo y esperando á grandes voces apellidaron: Aquí de la Santa Hermandad.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. 3. 4 (R. 1. 630 2 )."
+            },
+            {
+              "texto_cita": "«Todos por saber la lengua castellana apellidaban Castilla: ardid que les valió para que la matanza fuese menor.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 4 (R. 30. 465 2 )."
+            },
+            {
+              "texto_cita": "«Al alba del día se levantó un estruendo y vocería de soldados que con clamores y voces apellidaban el nombre del rey Filipo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 15. 6 (R. 30. 437 1 )."
+            },
+            {
+              "texto_cita": "«Roto el puente levadizo y la puerta, entraron hasta la plaza apellidando vitoria.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 7 (R. 28. 95 2 )."
+            },
+            {
+              "texto_cita": "«Cerró con los indios apellidando á voces el nombre de san Pedro.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 2. 17 (R. 28. 256 1 )."
+            },
+            {
+              "texto_cita": "«Todo vuestro reino viene | Marchando de partes varias | Contra vos apellidando | El nombre de vuestra hermana.»",
+              "autor": "Mto.",
+              "referencia_obra": "Industrias contra finezas , 3. 8 (R. 39. 284 3 )."
+            },
+            {
+              "texto_cita": "«Divisando entre la obscuridad la barca y los cristianos, comenzaron á apellidar auxilio con tal estruendo y algazara que el patrón tuvo á bien retirarse y hacerse á la mar por no ser descubierto.»",
+              "autor": "V. de los Ríos",
+              "referencia_obra": ", Vida de Cerv. § 15."
+            },
+            {
+              "texto_cita": "«Pisa, Florencia --- y otras ciudades apellidaron libertad, y las sostuvieron con varia fortuna.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. disc. hist . (R. 2. 152)."
+            },
+            {
+              "texto_cita": "«Padilla, seguido de los más esforzados capitanes, repitiendo su nombre y apellidando libertad, se arroja á los enemigos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Guerra de las Comunidades (3. 45)."
+            },
+            {
+              "texto_cita": "«Propio proceder de la plebe feroz por su ignorancia y cruel, sea cual fuere la voz que apellida ó la bandera que sigue.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 541."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su hombre apellidado ha valido por ejército, donde á los gloriosos antecesores de vuestra Majestad faltó la gente.»",
+              "autor": "Quev.",
+              "referencia_obra": "Mem. por el patron. de Santiago (R. 23. 226 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Finalmente á esto nos llaman y obligan todas las cosas que en el libro precedente habemos tratado; porque todas ellas apellidan virtud, y declaran la grandeza de su valor.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 2. 1 (R. 6. 122 1 )."
+        },
+        {
+          "texto_cita": "«¿También vos, | Como Blanca con mi amo, | Apellidáis casamiento?»",
+          "autor": "Alarcón",
+          "referencia_obra": ", La prueba de las promesas , 2 (R. 20. 441 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión, Llamar en auxilio.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Viéndose maltratar así de su criada, comenzó á dar grandes alaridos y voces apellidando á la justicia.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Tía fing. (R. 1. 250 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Llamar á las armas, convocar para alguna expedición de guerra ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si allí los dejaban, apellidarían luégo la tierra y alborotarían la ciudad, y serían causa que saliesen á buscarnos con algunas fragatas ligeras.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 41 (R. 1. 371 1 )."
+            },
+            {
+              "texto_cita": "«Movido del peligro y daño, y encendido en deseo de tomar emienda de lo pasado y de vengarse, apellidó todo el reino. Mandó que todos los que fuesen de edad acudiesen á las banderas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 6. 23 (R. 30. 181 2 )."
+            },
+            {
+              "texto_cita": "«Los moros volvieron á rehacerse y apellidar toda la comarca, y vinieron segunda vez á dar sobre los cristianos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 29, § 9 (R. 6. 370 2 )."
+            },
+            {
+              "texto_cita": "«Por pronto que los moros apellidaron la tierra desde sus torres y atalayas, ya habían asolado los cristianos el campo á la redonda.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", H. P. del Pulgar (4. 28)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr. y refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entendida la voluntad del rey, se apellidaron unos á otros, y junto buen golpe de gente, rompieron por el reino de Valencia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 12. 11 (R. 30. 356 1 )."
+            },
+            {
+              "texto_cita": "«Los godos que no se hallaron en esta batalla, se apellidaron de nuevo y se atrevieron á probar ventura en la comarca de Burdeos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 6 (R. 30. 130 1 )."
+            },
+            {
+              "texto_cita": "«Con deseo de libertad y con la ocasión que les daba la revuelta de los tiempos se apellidaron en gran número y tomaron las armas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (R. 30. 199 2 )."
+            },
+            {
+              "texto_cita": "«Apellidáronse los de la comarca, encontraron los contrarios cerca de Villanueva, desbaratáronlos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 4. (R. 30. 466 2 )."
+            },
+            {
+              "texto_cita": "«No osó --- detenerse mucho en aquella comarca porque tenía aviso que las ciudades vecinas se apellidaban contra él.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 10 (R. 30. 475 1 )."
+            },
+            {
+              "texto_cita": "«Sabido esto por los caballeros de la ciudad de Jaén y de los pueblos de su comarca, se apellidaron contra ellos, y les quitaron toda la presa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 17. 5 (R. 30. 503 2 )."
+            },
+            {
+              "texto_cita": "«La gente de la tierra se apellidaba para hacelles rostro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 10. 18 (R. 30. 305 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El cielo, la tierra, y la mar, y el aire, y el fuego, y todos los elementos se arman contra el hombre --- todas las criaturas se conjuran y apellidan contra él.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Trib. 1. 2 (R. 60. 363 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "En general, Convocar, llamar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Y los alumnos de Sofía en tanto | A risa y juego se darán tan sólo, | Mientras de Apolo y de Minerva el grito | Los apellida?»",
+          "autor": "Jovell.",
+          "referencia_obra": "Oda sáfica (R. 46. 23 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Levantar la voz por alguno, aclamar con repetidas voces ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El vasallo que, teniendo emperador, apellida á otro no sólo agravia á su príncipe, pero pesadamente ofende al que apellida.»",
+              "autor": "",
+              "referencia_obra": "Manero, Apol. cap. 34 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un pred. que expresa el título ó nombre con que se aclama.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con grande alarido que todos levantaron, le apellidaron Augusto y emperador.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 4. 3 (R. 30. 91 1 )."
+            },
+            {
+              "texto_cita": "«El vulgo le apellida señor --- llegando á las nubes la voz general que repite: Laertes será nuestro rey, ¡viva Laertes!»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet , 4. 15 (R. 2. 532)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Este pred. va á menudo con por .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como se hobiesen fortificado en lo más alto de la ciudad, apellidaron por rey á D. Alonso de la Cerda.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 13 (R. 30. 422 1 )."
+            },
+            {
+              "texto_cita": "«Luégo que murió el rey D. Alonso, su hijo D. Pedro, habido en su legítima mujer, como era razón fue en los mismos reales apellidado por rey.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 16 (R. 30. 483 2 )."
+            },
+            {
+              "texto_cita": "«Temo pues que si pasase | Adelante lo que agora | Vemos, después por señora | El pueblo la apellidase.»",
+              "autor": "Cald.",
+              "referencia_obra": "La gran Cenobia , 1. 5 (R. 7. 189 3 ). —"
+            },
+            {
+              "texto_cita": "«Las aves por su reina me apellidan.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poes. Fant. noct. (1. 41)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Nombrar á alguno por su apellido ó por su nombre. De ordinario se usa como refl.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cristiano, caballero eres, Guzmán te apellidas, Bravo te llaman.»",
+          "autor": "Lope",
+          "referencia_obra": ", Guzmán el Bravo ( Obr. suelt. 8. 203)."
+        },
+        {
+          "texto_cita": "«Jerónimo me apellido; | Desde Roma vengo aquí.»",
+          "autor": "Lope",
+          "referencia_obra": ", El cardenal de Belén , 1 (R. 41. 493 2 )."
+        },
+        {
+          "texto_cita": "«Don Sancho de Guevara me apellido.»",
+          "autor": "",
+          "referencia_obra": "Id. La hermosura aborrecida , 1. 4 (R. 34. 96 3 ). —"
+        },
+        {
+          "texto_cita": "«Este mar que de Atlante se apellida.»",
+          "autor": "Rioja",
+          "referencia_obra": ", son. mor. 8 (R. 32. 379 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Nombrar, llamar. Con un nombre que se refiere como pred. al acus.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No vendrá el día en que la adusta guerra | Tengan en odio, y bárbaro apelliden | Y enemigo común al que atizare | De nuevo su furor?»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. á Mor. (R. 46. 47 1 )."
+            },
+            {
+              "texto_cita": "«Doma el Asia Alejandro, | Y de Júpiter hijo se proclama; | Mas con él muere el orgulloso nombre. | Perdona Tito y hace bien: la fama | Delicias de los hombres le apellida, | Y el nombre no se olvida,»",
+              "autor": "Reinoso",
+              "referencia_obra": ", oda 11 (R. 67. 220 1 )."
+            },
+            {
+              "texto_cita": "«Apellidaban inicua é inhumana la sentencia dada contra él.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 331 2 ). —"
+            },
+            {
+              "texto_cita": "«El teatro español se hallaba todavía realmente sin crear, cuando apareció Lope de Rueda, que es á quien debe apellidarse su verdadero padre.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór. p. 278."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues Dios de las venganzas te apellidas, | Baja al tirano débil encumbrado.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2, son . 76 (R. 69. 28 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No eran --- los de la sociedad ni los apellidados exaltados los más furiosos en aquellos días.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 374."
+            },
+            {
+              "texto_cita": "«Fue el elegido el oficial de la marina D. Olegario de los Cuetos, á quien ha visto la generación presente figurar, al cabo, en primer término en el partido apellidado progresista.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 389."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El pred. puede reempIazarse por un adv. ó compl. reproductivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Ignoraban acaso que este derecho de insurrección, si así quieren apellidarle, le tiene el pueblo español por las leyes fundamentales de su constitución?.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central , 1. 1 (R. 46. 509 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV: E los moros de la tierra, como sintieron la entrada de los christianos, apellidáronse todos, é fueron siguiendo á los christianos.» Crón. Juan II , 1. 30 (R. 68. 289 2 ). — Siglo XIV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La tierra de Córdoba, et de Sevilla, et del Andalucía se apellidaba toda contra ellos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 276 (R. 66. 350 2 )."
+        },
+        {
+          "texto_cita": "«Apellidó muchas gentes que pasaron con él.»",
+          "autor": "",
+          "referencia_obra": "Ib . 252 (R. 66. 329 1 )."
+        },
+        {
+          "texto_cita": "«Rescelóse que, pues los de Córdoba eran allí llegados, et estaban en Espejo, que era apellidada la tierra de la frontera.»",
+          "autor": "",
+          "referencia_obra": "lb . 108 (R. 66. 243 1 )."
+        },
+        {
+          "texto_cita": "«Apellidó gentes de Vizcaya, et en Castiella todos sus vasallos et sus amigos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 32 (R. 66.195 2 )."
+        },
+        {
+          "texto_cita": "«Si ayuda menester fuese para alguna cosa, que apellidaria toda la tierra.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 11 (R. 66. 131 2 )."
+        },
+        {
+          "texto_cita": "«Envió por todos sus vasallos que avia, é mandó apellidar toda la tierra.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6 (R. 66. 115 2 )."
+        },
+        {
+          "texto_cita": "«Sopieron que se apellidaba toda la tierra é ayuntábanse muy grandes gentes de moros para venir allí por mar é por tierra.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 19 (R. 66. 14 1 )."
+        },
+        {
+          "texto_cita": "«Creóselos el neçio, comenzó de aullar, | Los cabrones e las cabras en alta vos balar, | Oyéronlo los pastores aquel grand apellidar.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 746 (R. 57. 250 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Guisó mui bien su gente é desí envió por sus omes buenos é apellidó su tierra.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. fol . 203 ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Apellidóse Francia con gentes en derredor; | Apellidóse Lombardia, asy como el agua corre.»",
+          "autor": "",
+          "referencia_obra": "Crón. rim. 790 (R. 16. 659 1 )."
+        },
+        {
+          "texto_cita": "«Apellydat vuestros reynos desde los puertos de Aspa fasta en Santiago.»",
+          "autor": "",
+          "referencia_obra": "Ib . 755 (R. 16. 658 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de apellido . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

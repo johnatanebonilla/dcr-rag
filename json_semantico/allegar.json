@@ -1,0 +1,753 @@
+{
+  "lema": "ALLEGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer llegar, acercar, arrimar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar el objeto hacia el cual se verifica la aproximación, y que puede ser ó la persona misma que habla ó un objeto diferente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No habéis visto algunas madres, Sabino, que, teniendo con sus dos manos las dos de sus niños, hacen que sobre sus pies dellas pongan ellos sus pies, y ansí los van allegando á sí y los abrazan?»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Camino (R. 37. 85 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Acercarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde allí á algunos días salió al camino á uno de nuestros pastores, y sin decille nada se allegó á él y le dio muchas puñadas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 23 (R. 1. 308 2 ). —"
+            },
+            {
+              "texto_cita": "«Así las dos armadas pues venían | En tal manera y orden navegando, | Que dos espesos bosques parecían | Que poco á poco se iban allegando.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 24 (R. 17. 90 1 )."
+            },
+            {
+              "texto_cita": "«Apártale de sí [Progne á Itis] toda furiosa; | El niño más se allega y más la mira.»",
+              "autor": "Lope",
+              "referencia_obra": ", Filom . 3 ( Obr. suelt . 2. 419)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Trasladando al tiempo, Hacer llegar, hacer que algo se verifique ( trans .) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ansí vivas en paz cierto y seguro | De que la hija de la sacra Ceres | Corresponde á tu amor con amor puro, | Que todo aquello que en provecho vieres | Venir del pueblo triste que te invoca | Lo allegues cual se espera de quien eres.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Numancia , 2 (Arrieta, 10. 40)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Con á .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Paréceme ahora á mi que cuando una persona, allegándola Dios á claro conocimiento de lo que es el mundo ---»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 6 (R. 53. 326 2 ; *ha llegádola Dios)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El primer paso que el ánima ha de dar allegándose á Dios, ha de ser la penitencia de sus pecados.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 71 ( Míst . 3. 269)."
+            },
+            {
+              "texto_cita": "«Mucho se allega á su divinidad quien sabe callar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 11 (R. 25. 35 1 )."
+            },
+            {
+              "texto_cita": "«Luciano, de los autores griegos que yo he leído, es el que más se allega al hablar ordinario.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 22)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con hacia .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El paso y la obra que en Cristo no estriba y cuyo fundamento no es él, no se adelanta ni se allega hacia el cielo.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Camino (R. 37. 85 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Refl . Adherirse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Todas estas opiniones son inciertas --- Yo me allego á los que sospechan, y es muy probable, que este decreto se hizo primero en el concilio de Braga.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 5. 9 (R. 30. 137 1 )."
+        },
+        {
+          "texto_cita": "«Salió de la obediencia de la iglesia romana, y no quiso allegarse á ninguna secta antigua, ni á las modernas de Lutero y de Zuinglio.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Cisma , argum . (R. 60. 186)."
+        },
+        {
+          "texto_cita": "«A este parecer se allegó el condestable.»",
+          "autor": "Quint.",
+          "referencia_obra": "D. Álv. de Luna (R. 19. 402 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Atraer, cautivar ( trans .) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La hermosura allega y convida á sí, y la suciedad aparta y ahuyenta.»",
+          "autor": "León",
+          "referencia_obra": ", Perf. cas . 13 (R. 37. 230 1 )."
+        },
+        {
+          "texto_cita": "«Comúnmente toda majestad y grandeza en los corazones bajos no engendra afición sino admiración y espanto, y más retira que allega.»",
+          "autor": "Muñoz",
+          "referencia_obra": ", Vida de Gran . 2. 2 (84)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Part . Cercano, próximo. Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No está la vestidura tan allegada al cuerpo del que la viste ---»",
+          "autor": "León",
+          "referencia_obra": ", Nomb . 1, Pastor (R. 37. 92 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Pues ya no sabéis, hermanas, que la vida del buen religioso y del que quiere ser de los allegados amigos de Dios, es un largo martirio?»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 12 (R. 53. 333 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivamente, Pariente, parcial, familiar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La salutación que el mejor Maestro de la tierra y del cielo enseñó á sus allegados y favorecidos fue decirles que cuando entrasen en alguna casa dijesen: Paz sea en esta casa.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 37 (R. 1. 360 2 )."
+            },
+            {
+              "texto_cita": "«Con mis tíos --- y otros parientes y allegados pasamos á Berbería.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 63 (R. 1. 540 1 )."
+            },
+            {
+              "texto_cita": "«Había salido con sus amigos, deudos y allegados á entrar en el reino de Almería.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 2 (R. 21. 81 2 )."
+            },
+            {
+              "texto_cita": "« S alieron de retaguardia de todos el duque de Feria, y á sus lados don Iñigo de Mendoza y don Diego de Ibarra, ellos y cosa de ochenta entre criados y allegados, con muy buenas armas.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerra de los Est. Bajos , 7 (R. 28. 90 2 )."
+            },
+            {
+              "texto_cita": "«Familias numerosas con sus amigos y allegados, trincando, corriendo, riendo y gritando pasaban alegremente la tarde, y á veces todo el día.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Descr. del castillo de Bellver (R. 46. 401 1 ). —"
+            },
+            {
+              "texto_cita": "«La agricultura, madre de la inocencia y del honesto trabajo, y, como decía Columela, parienta y allegada de la sabiduría.»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria , 2ª clase (R. 50. 120 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Agregar ( trans .). Con á ó un dat. pron.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A la prudencia de la edad madura allegaba la fama de sus juveniles proezas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 29 (4. 386)."
+            },
+            {
+              "texto_cita": "«Aumenta [la generación presente] el caudal de su entendimiento y discurso, allegándole los tesoros de la experiencia.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 156."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A los caracteres mal escogidos allegábase por desgracia la falta de nervio y energía con que están expresados los sentimientos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp . (2. 101)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ninguna virtud se cuenta dél, ninguna empresa, ninguna provincia sujetada por guerra allegada á su señorío.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 8. 5 (R. 30. 225 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Juntar, reunir ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Levantará su bandera entre las naciones y allegará los fugitivos de Israel y los esparcidos de Judá de las cuatro partes de mundo.»",
+          "autor": "León",
+          "referencia_obra": ", Nomb . 2, Brazo (R. 37. 114 2 )."
+        },
+        {
+          "texto_cita": "«Entendió el español del indio cuanto | El bárbaro enemigo determina, | Y cómo allega gentes entre tanto | Que el oportuno tiempo se avecina.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 12 (R. 17. 50 1 )."
+        },
+        {
+          "texto_cita": "«Allegó de aquel reino brevemente | La riqueza, poder, la fuerza y gente.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 37 (R. 17. 135 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial se dice del dinero, las riquezas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He de allegar ducientos ducados que tengo prometidos á Montoya el canónigo.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 1. 48 (R. 55. 214 2 ; *llegar)"
+            },
+            {
+              "texto_cita": "«Busca el manjar porque le atormenta la hambre; allega riquezas por salir de pobreza.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Esposo (R. 37. 155 2 )."
+            },
+            {
+              "texto_cita": "«Hijo, no trabajes mucho por allegar riquezas: porque si fueres rico, no estarás libre de pecado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4, diál . 5, § 2 (R. 6. 558 1 )."
+            },
+            {
+              "texto_cita": "«No desperdicio nada y allego mucho.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 11 (R. 1. 223 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol . Atesorar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El avariento cuya felicidad es ver el dinero en sus cofres, y allegar.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist . 2. 8 (R. 11. 109 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De aquí --- aquella hambre que tuvo nuestro padre Elías de la honra de su Dios, y tuvo santo Domingo y san Francisco de allegar almas para que fuese alabado.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor . 7. 4 (R. 53. 488 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En especial, entre labradores, Recoger la parva en montones después de trillada. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl . Juntarse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allégate á los buenos, y serás uno de ellos:»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ") en que se pondera la benéfica influencia de las buenas compañías."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sucedió después que esta doncella se allegó con otras mujeres beatas, las cuales dieron en tales disparates y desatinos, que las prendió y castigó la santa Inquisición»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 20 ( Míst . 1. 194)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Llegar ( intrans .) ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A buen tiempo vengo, que ninguno de los que quedaron de venir han allegado.»",
+              "autor": "L. de Rueda",
+              "referencia_obra": ", Eufemia , 2. 1 (R. 2. 250 2 )."
+            },
+            {
+              "texto_cita": "«Solo faltaba el infante D. Carlos, hijo del rey de Navarra, que se decía allegaría muy en breve acompañado de mucha y muy buena gente.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 18. 9 (R. 31. 14 1 )."
+            },
+            {
+              "texto_cita": "«Cuando vemos que algunos muchachos están jugando y traveseando, y que allega un hombre y ase de las orejas á uno dellos y le castiga, luégo entendemos que aquél es su padre.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 5 (R. 60. 367 1: dice llega ; la edic. de Valencia , 1831: allega )."
+            },
+            {
+              "texto_cita": "«Allega, y da reposo | Al inmortal cuidado, y entretanto | Conocerás curioso | Mil historias que canto.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1, No te engañe el dorado (R. 37. 6 2 ). —"
+            },
+            {
+              "texto_cita": "«No penséis por fuerza vuestra ni diligencia allegar aquí, que es por demás; antes si teníades devoción, quedaréis frías.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 32 (R. 53. 360 2 *llegar)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el punto adonde se llega.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En allegando á la marina, vieron muchas espadas fuera de las vainas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 206 1 )."
+            },
+            {
+              "texto_cita": "«Las máscaras se quitaron | En allegando al zaguán.»",
+              "autor": "Lope",
+              "referencia_obra": ", La viuda valenciana , 1. 16 (R. 24. 74 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , para expresar el fin ú objeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No es empresa de humilde peregrino | Allegar con sus votos á ofrecer | Al principal sagrario de contino.»",
+              "autor": "Mend.",
+              "referencia_obra": "carta 6 (R. 32. 60 2 )."
+            },
+            {
+              "texto_cita": "«Esto lo digo por dar | Ocasión á que con ella | Allegásedes á hablar.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las flores de D. Juan , 1. 19 (R. 24. 416 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Intentar aquello con que no podemos salir, y á lo que no allegan nuestras fuerzas, no es otra cosa sino una temeridad y locura.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 17. 7 (R. 30. 509 1 )."
+        },
+        {
+          "texto_cita": "«Podría de alguno ser aquí una cosa | Que parece sin término notada, | Y es que --- | No hubiese una cabeza señalada | A quien tocase el mando y regimiento | Sin allegar á tanto rompimiento.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 2 (R. 17. 9 2 )."
+        },
+        {
+          "texto_cita": "«¿Qué no será, ó cuáles quilates le faltarán, ó á qué fineza no allegará el amor que Dios en el hombre hace, y que enciende con el soplo de su espíritu propio?»",
+          "autor": "León",
+          "referencia_obra": ", Nomb . 3, Amado (R. 37. 193 1 ). —"
+        },
+        {
+          "texto_cita": "«¡Oh Lícida! Por nuestro mal destino | Habemos á ver vivos allegado | Lo que en el pensamiento nunca vino.»",
+          "autor": "",
+          "referencia_obra": "Id. Poes . 2, égl . 9 (R. 37. 26 2 )."
+        },
+        {
+          "texto_cita": "«Destas cosillas yo os digo, hijas, que cuando eso allegare á alcanzar el demonio, que no tenga hecho poco.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Conc . 2 (R. 53. 391 2 : dice llegar: ¿la otra forma se deberá á Fr. Luis de León , que la usa con frecuencia? La misma observación se aplica á otros pasajes de la Santa copiados aquí)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese la forma aplegar y estas acepciones:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Acoger;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Solicitar, procurar;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "γ )",
+          "definicion": "refl . Conocer carnalmente). — Siglo XV:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Partimos cuando nascemos, | Andamos mientras vivimos | Y allegamos | Al tiempo que fenescemos.»",
+              "autor": "J. Manr.",
+              "referencia_obra": "Coplas ( Fern. 16. 46)."
+            },
+            {
+              "texto_cita": "«Habia alcanzado al rey poco antes que allegase á la barca.»",
+              "autor": "Crón. Juan II",
+              "referencia_obra": ", 14. 46 (R. 68. 397 2 )."
+            },
+            {
+              "texto_cita": "«Como el emperador allegó, el papa se levantó de su silla.»",
+              "autor": "",
+              "referencia_obra": "Ib. 9. 15 (R. 68. 366 2 )."
+            },
+            {
+              "texto_cita": "«Partió ese dia viernes, é allegó al rio de las Yeguas.»",
+              "autor": "",
+              "referencia_obra": "Ib . 4. 2 (R. 68. 317 1 )."
+            },
+            {
+              "texto_cita": "«Yo bien me allegaria á creer esta opinion.»",
+              "autor": "P. de Guzmán",
+              "referencia_obra": ", Gener . 34 (R. 68. 717 1 )."
+            },
+            {
+              "texto_cita": "«El allegaba bien los parientes quando los habia menester, é despues los olvidaba.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 24 (R. 68. 708 2 )."
+            },
+            {
+              "texto_cita": "«Mas dexemos ya las estorias antiguas, para allegarnos mas cerca de los nuestros tiempos.»",
+              "autor": "Santill.",
+              "referencia_obra": "p. 6 (*llegarnos)."
+            },
+            {
+              "texto_cita": "«Casa á casa ¡guay de mi! | E campo á campo allegué.»",
+              "autor": "",
+              "referencia_obra": "Id. p. 222."
+            },
+            {
+              "texto_cita": "«El tiempo se allegaba en que las galeras debian partir.»",
+              "autor": "",
+              "referencia_obra": "Crón. P. Niño , p. 137."
+            },
+            {
+              "texto_cita": "«El rey lo honrró, encomendándole ofiçio de tanta fiança e allegó á su seruicio.»",
+              "autor": "Villena",
+              "referencia_obra": ", Arte cis . 15 (100)."
+            },
+            {
+              "texto_cita": "«Des que [esté la vianda] en la mesa, puesta ya en ssu poder, que ninguno non allegue a ella o lance cosa sospechosa sobrella.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3 (20)."
+            },
+            {
+              "texto_cita": "«Qui á verde arbol se aplega | De su dulcor se le allega.»",
+              "autor": "",
+              "referencia_obra": "Canc. de Baena , p. 643. — Siglo XIV :"
+            },
+            {
+              "texto_cita": "«Pues si por los enemigos de rogar somos encargados, | Mucho mas por amigos e nuestros allegados.»",
+              "autor": "",
+              "referencia_obra": "Rim. de Pal . 1442 (R. 57. 471 2 )."
+            },
+            {
+              "texto_cita": "«Por algos allegar | Falsando y rrobando, | Y la verdad negar, | Sobre ella perjurando.»",
+              "autor": "Sem Tob",
+              "referencia_obra": ", 296 (R. 57. 350 1 )."
+            },
+            {
+              "texto_cita": "«Coydaron que venia allí toda la flota del rey, et allegaron á tierra todas las sus galeas.»",
+              "autor": "Alf. XI",
+              "referencia_obra": ", 317 (R. 66. 376 1 )."
+            },
+            {
+              "texto_cita": "«Las espuelas allegó | Al su cauallo Balençia.»",
+              "autor": "Alf. XI",
+              "referencia_obra": ", 1685 (R. 57. 528 1 )."
+            },
+            {
+              "texto_cita": "«Non se alleguen los monteros mucho, nin les fablen muy de cerca.»",
+              "autor": "Alf. XI",
+              "referencia_obra": ", 1. 16 ( Bibl. venat. 1. 57)."
+            },
+            {
+              "texto_cita": "«El raposo et el carnero eran más allegados á la privanza del leon et del toro que las otras animalias.»",
+              "autor": "J. Man.",
+              "referencia_obra": "C. Luc . 38 (R. 51. 389 2 )."
+            },
+            {
+              "texto_cita": "«Como quier que el tesoro, como desuso es dicho, es bueno que lo alleguedes, guardat dos cosas ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib .15 (R. 51. 383 1 ). — Siglo XIII:"
+            },
+            {
+              "texto_cita": "«Deben ellos otrosi jurar que sean leales en fecho de los cativos, allegando su pro et arredrando su daño quanto ellos pudieren.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 30. 2 (2. 337)."
+            },
+            {
+              "texto_cita": "«Esto fue que el marido non se allegase á la mujer en tal sazon que por culpa del padre ó por enfermedat de la madre nasciesen los fijos ocasionados.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 20. 2 (2. 191)."
+            },
+            {
+              "texto_cita": "«Maguer haya allegadas muchas dellas [de riquezas], nol cumplen, ante desea todavia de haber mas.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 5. 14 (2. 35)."
+            },
+            {
+              "texto_cita": "«Se allegan los cristianos á oir las horas et rogar á Dios.»",
+              "autor": "",
+              "referencia_obra": "Part . 1. 9. 1 (1. 358)."
+            },
+            {
+              "texto_cita": "«Allegan haber de las rentas de aquellos lugares, et desamparan sus monasterios.»",
+              "autor": "",
+              "referencia_obra": "Part . 1. 7. 31 (1. 317)."
+            },
+            {
+              "texto_cita": "«Et en todas las otras [maneras] que sopiere, su pro que lo allegue, e su danno que lo desvie.»",
+              "autor": "O. L.",
+              "referencia_obra": "2. 173)."
+            },
+            {
+              "texto_cita": "«Allégate al home entendudo é guíate por su consejo.»",
+              "autor": "",
+              "referencia_obra": "Cal. é Dymna (R. 51. 33 2 )."
+            },
+            {
+              "texto_cita": "«Si se me va este ladron con el trigo, allegárseme ha mayor pobreza é fambre, que nunca estas dos cosas se allegaron á home que non lo llegasen á punto de muerte.»",
+              "autor": "",
+              "referencia_obra": "Ib . (R. 51. 12 2 )"
+            },
+            {
+              "texto_cita": "«Aquella eredat comprada que la aya aquel que mas propinquo e mas allegado fuer del linage onde la eredat viene.»",
+              "autor": "Fuero",
+              "referencia_obra": "viejo , 1. 10. 3 (56)."
+            },
+            {
+              "texto_cita": "«Si el fiio mata el padre, ó el padre mata el fiio --- ó otros omnes qualesquier de so linage, ó que son allegados á so linage: el que mata luego deve morir.»",
+              "autor": "Fuero",
+              "referencia_obra": "Juzgo , 6. 5. 18 (117)."
+            },
+            {
+              "texto_cita": "«¿Cuemo será contado en os bivos al qual fue mas allegada la muerte que la vida?»",
+              "autor": "",
+              "referencia_obra": "Ib . 4. 2. 18 (72; *legada, axegada)."
+            },
+            {
+              "texto_cita": "«Non quieren allegar el casamiento que prometioron.»",
+              "autor": "",
+              "referencia_obra": "Ib . 3. 1. 3 (46; *axegar, ayegar al, alegar al, allegar al)."
+            },
+            {
+              "texto_cita": "«Nen por nengun enganno por forcia de seer rey, non traga otros consigo, nen él non se alegue á otro sobre tal cosa.»",
+              "autor": "",
+              "referencia_obra": "Ib . preámb . 7 ( VII ; *allegue, ayegue)."
+            },
+            {
+              "texto_cita": "«Por ende establecemos en esti degredo, que todo omne, que --- faz á otri forcia de aver el regno, viviendo el príncipe, ó que allega los omnes á sí, por dicer que lo ha de haber, sea escomungado.»",
+              "autor": "",
+              "referencia_obra": "Ib. preámb . 6 ( VII )."
+            },
+            {
+              "texto_cita": "«Querie a todas guisas á Dário allegar.»",
+              "autor": "",
+              "referencia_obra": "Alex , 960 (R. 57. 177 1 )."
+            },
+            {
+              "texto_cita": "«Ante que fuessen a Dário las cartas allegadas | Fueron por toda Yndia las nouas arramadas.»",
+              "autor": "",
+              "referencia_obra": "Ib . 132 (R. 57. 151 2 )."
+            },
+            {
+              "texto_cita": "«Mandó que se aplegassen el su sancto conviento.»",
+              "autor": "Berc.",
+              "referencia_obra": "S. Dom . 493 (R. 57. 55 2 )."
+            },
+            {
+              "texto_cita": "«De toda la ganancia, con toda su mission, | Apenas aplegaran la media redemption.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 358 (R. 57. 51 1 ; *allegaron)."
+            },
+            {
+              "texto_cita": "«Deque a esta casa viva es allegada, | Sennor, merçet te clamo, que torne meiorada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 302 (R. 57. 49 2 )."
+            },
+            {
+              "texto_cita": "«Aplegó su conviento, tractaron esta cosa, | Vidieron que non era apuesta nin fermosa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 115 (R. 57. 43 2 )."
+            },
+            {
+              "texto_cita": "«Fueron con estas nuevas ante de pocos dias | Aplegados los pueblos e las caballerias.»",
+              "autor": "",
+              "referencia_obra": "Id. S. Mill . 409 (R. 57. 77 2 )."
+            },
+            {
+              "texto_cita": "«Esto van diziendo e las yentes se alegando.»",
+              "autor": "Cid",
+              "referencia_obra": ", 2344 (R. 57. 26 1 )."
+            },
+            {
+              "texto_cita": "«Vio los sos commos van alegando.»",
+              "autor": "",
+              "referencia_obra": "Ib . 791 (R. 57. 11 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., gall. achegar ; sicil. agghicari : del lat. applicare , aplicar, arrimar, acercar, arribar. Ejemplos latino-hispanos:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Rex vero Ordonius omnem exercitum ad civitatem applicavit. »",
+          "autor": "",
+          "referencia_obra": "Sebastiani chronicon , año 883 ( Esp. sagr . 13. 491)."
+        },
+        {
+          "texto_cita": "«Et ex alia parte quomodo cadit ribo de Petra in trueba, et exit ad illa cobiella, et aplicat ad Busco de Corteças.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1011 ( Muñoz , F . 56)."
+        },
+        {
+          "texto_cita": "«Videntes autem principes et duces et omnis populus Agarenorum multiplicata mala, et imperatorem et principes ejus per singulos annos applicare ad fines eorum --- congregati sunt in plateis et in acubitis civitatum.»",
+          "autor": "Crón. Alf. VII",
+          "referencia_obra": "( Esp. sagr . 21. 392). De aqui la forma aplegar , que aparece todavia en el Canc. de Baena , y usual hoy en Aragón por Arrimar ó llegar una cosa á otra."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Se escribe gu antes de e: allegué , alleguéis .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans.: en general. — Intrans .: 4 . — Refl.: 1, a , α , α α - 1, c , α , α α - 1, d - 2, α , α α - 3, d . — Part .: 1, f - 2, α , β β . — Con i : 1, a , α - 1, χ - 1, φ - 2 - 3, δ - 4, α , β , γ - 4, b . — Con: 3, d , β . — Hacia : 1, c , β . — Con dat. : 2 . \u0000"
+}

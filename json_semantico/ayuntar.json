@@ -1,0 +1,337 @@
+{
+  "lema": "AYUNTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Juntar ( trans .). Hoy no tiene uso; en los pasajes de Jovellanos y M. De la Rosa es un puro arcaísmo. Algunas veces se halla escrito ajuntar , y así, pronunciando la j á lo moderno, lo usa á veces el vulgo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si en el cuerpo de Cristo se descubre y reluce tanto la figura divina, ¿cuánto más expresa imagen suya será su santísima ánima, la cual verdaderamente ansí por la perfección de su naturaleza, como por los tesoros de sobrenaturales riquezas que Dios en ella ayuntó, se asemeja a Dios y le retrata más vecina y acabadamente que otra criatura ninguna?»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 1, Faces (R. 37. 83 1 )."
+            },
+            {
+              "texto_cita": "«Tiene [la virtud del ayuno] otra cosa allende de ésta, que es ser amiga y compañera perpetua de la oración --- por donde Escritura divina muchas veces ayunta en uno estas dos virtudes.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 3. 2. 1, § 2 (R. 8. 180 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el vientre purísimo y santísimo de donde aqueste fruto nació, anduvo solamente la virtud y obra de Dios, sin ayuntarse varón.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Pimpollo (R. 37. 78 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tenía Dios determinado que se ayuntasen en matrimonio y heredasen los reinos de Castilla.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 17. 2 (R. 30. 498 2 )."
+            },
+            {
+              "texto_cita": "«Jamás desde su infancia el mundo | Viera ejército tal, ni comparados | Con él los mas famosos, parecieran | Otro que cual la enana infantería | Que lidia con las grullas, aunque á un tiempo | Se ayuntasen la prole gigantea | De Flegra y los heroicos escuadrones | Que lidiaron en Teba.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd . (R. 46. 31 1 )."
+            },
+            {
+              "texto_cita": "«Ayuntáronse á la callada, amparados de la noche, llegando uno tras otro al lugar señalado.»",
+              "autor": "Solís",
+              "referencia_obra": ", 1. 24 (4. 266)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cantaba en qué manera, en el tendido | Vacío descendiendo derramadas, | Las menudas simientes habían sido | Por acertado caso en sí ayuntadas.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl . 6 (R. 37.23 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después desto viene á concluir que mucho mayor número de hombres ha sido destruído por otros hombres, que por todas las maneras de calamidades ayuntadas en uno.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1, martes en la noche (R. 8. 32 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , que expresa la aproximación ó contacto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sólo el verbo divino por sí, mas también la mesma carne que él ayuntó á sí, participa esa mesma virtud.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 2. 13, consid . 7 (R. 8. 470 1 )."
+            },
+            {
+              "texto_cita": "«Verdad es que la vida y ejercicio | Común, y el amistad que á ti me ayunta, | Mandan que complacerte sea mi oficio.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 2 (R. 32. 7 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sea todo su negocio parlar poco y amar mucho, y dar lugar á la voluntad para que se ayunte con todas sus fuerzas á Dios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1. 8, § 2 (R. 8. 16 2 )."
+            },
+            {
+              "texto_cita": "«El que se ayunta á Dios, hácese un mismo espíritu con Dios.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 2, Esposo (R. 37. 150 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Porque ayuntado á este bien, y hecho morador de esta casa, ni amará la muchedumbre del mundo, ni estimará la majestad que hace estado.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job ,39 (2.287)"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Este compl. era convertible en dat. pron.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuanto al número de los que se le ayuntan [á Dios], clara cosa es que en los bienes de naturaleza todas las criaturas se avecinan á Dios, y solas, y no todas, las que tienen entendimiento, en los bienes de gracia.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 1, Pimpollo (R. 37. 77 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si los aficionados que tiene entre los hombres son tantos, ¿qué será si ayuntamos con ellos á todos los santos ángeles, que son también suyos en amor, y en fidelidad y en servicio?»",
+              "autor": "León",
+              "referencia_obra": ", Nomb . 3, Amado (R. 37. 192 1 )."
+            },
+            {
+              "texto_cita": "«Ella [la oración] es la que señaladamente nos dispone para alcanzar la gracia, y la que nos ayunta con Dios y nos hace participantes dél.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 3. 1. 1, § 4 (R. 8. 170 1 )."
+            },
+            {
+              "texto_cita": "«Con la comodidad de la vida política y sociable ayuntó el ejercicio de las artes y de la industria.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 13 (R. 30. 16 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quedó D. Quijote consolado con la escuchada profecía, porque luégo coligió de todo en todo la significación della, y vio que le prometían el verse ayuntado en santo y debido matrimonio con su querida Dulcinea del Toboso.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 46 (R. 1. 386 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Añadir ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Este es el principal argumento que con el favor de nuestro Señor pretendo tratar en este libro, ayuntando á esto los avisos é reglas que debe el hombre seguir para ser virtuoso.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , pról . (R. 6. 11)"
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(En la construcción refl. admitía el sentido con que aparece, por ejemplo, en la Part . 4. 8. 5). Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El rey de Granada ayuntaba todo su poder para le venir á dar batalla.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 4. 25 (R. 68. 327 1 )."
+        },
+        {
+          "texto_cita": "«E vino á Toledo, é allí mandó ajuntar todas sus gentes, é hizo cortes para haber dineros.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 2 (R. 68. 700 1 )."
+        },
+        {
+          "texto_cita": "«Johan Bocaçio [escrivió] el libro que Ninfal se intitula, aunque ayuntó á él prosas de grand eloqüencia.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 8."
+        },
+        {
+          "texto_cita": "«Non se allegará nin se ayuntará gente de armas de pie, nin de caballo.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes . 27 (39 2 )."
+        },
+        {
+          "texto_cita": "«En la hueste avia gran bollicio, ca todos se ayuntaban en uno, é ayuntaban sus ganados.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 205. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«El rey de Castilla mandó ayuntar sus cortes en la cibdad de Soria.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan I , 2. 3 (R. 68. 68 1 )."
+        },
+        {
+          "texto_cita": "«Avia [el rey] muy grant voluntat de ayuntar la pelea con los moros.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 326 (R. 66. 381 2 )."
+        },
+        {
+          "texto_cita": "«Díjoles --- que se ayuntasen todos los de la tierra en un lugar.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 2 (R. 66. 107 1 )."
+        },
+        {
+          "texto_cita": "«Desque los sus parientes la su muerte barruntan, | Por lo heredar todo amenudo se ayuntan.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1510 (R. 57. 274 2 )."
+        },
+        {
+          "texto_cita": "«A mí dicen que unos mis vecinos que son mas poderosos que yo, andan ayuntando et faciendo muchas maestrías et artes con que me puedan engañar.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 27 (R. 51. 376 1 )."
+        },
+        {
+          "texto_cita": "«Aquel mi enemigo enviame a decir que nos avisemos --- ca si amos fuéremos ayuntados, cierto es que nos podriamos defender de él.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 9 (R. 51. 377 2 )."
+        },
+        {
+          "texto_cita": "«Guardat dos cosas: la una, que el tesoro que ayuntardes que sea de buena parte ---»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 15 (R. 51. 383 1 )."
+        },
+        {
+          "texto_cita": "«Desque fueron ayuntados, hubo entre ellos gran contienda.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2 (R. 51. 383 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«De arzobispo e obispos ajunctó grand convento.»",
+          "autor": "",
+          "referencia_obra": "S. Ildef . (R. 57. 328 2 )."
+        },
+        {
+          "texto_cita": "«Quando oyó lo que los moros fazien por toda la tierra de sant Esteuan, ayuntó todas las gentes que él pudo auer.»",
+          "autor": "",
+          "referencia_obra": "C rón. gen . 4. 3 (302)."
+        },
+        {
+          "texto_cita": "«Si alguno dellos quisiese entrar en orden ante que se ayuntasen puédelo facer, maguer que el otro lo contradixiese.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 7. 13 (1. 304)."
+        },
+        {
+          "texto_cita": "«A gobernamiento de las gentes pertenescen las leyes que ayuntan los corazones de los homes por amor.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 1. 7 (1. 16)."
+        },
+        {
+          "texto_cita": "«Ca maguer ellos sean muchos, por derecha natura que el rey es uno, an todos ajuntarse a seer unos con el.»",
+          "autor": "O. L.",
+          "referencia_obra": "1.13)."
+        },
+        {
+          "texto_cita": "«Et fuese dende para la posada de Calila, et ayuntó cuanto en la casa falló, é trájolo á Dymna.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 39 2 )."
+        },
+        {
+          "texto_cita": "«E deve a cada bestia --- dar paja --- cada ves quanto podier tomar en las manos ayuntadas con los braços ayuntados fasta los codos.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 1. 8. 5 (44)."
+        },
+        {
+          "texto_cita": "«E si le preguntaren porque les prende, develes decir porque no se quisieron ayuntar en conceio.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 8. 2 (40)."
+        },
+        {
+          "texto_cita": "«En todos los logares o fueren los siervos fuidos, todos los omnes que fueren en aquel logar se ayunten, e pesquiran.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 9. 1. 21 (156)."
+        },
+        {
+          "texto_cita": "«Si algun omne aiunta omnes por fazer muerte ó ferida, ó quien faze, aiuntar pora otro omne ferir--- mandelo prender, é fagalo sennatar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 8. 1. 3 (133)."
+        },
+        {
+          "texto_cita": "«Si despues de cabo se ayuntaren, mándelos el juez prender é presentar ante sí.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 2. 3 (50)."
+        },
+        {
+          "texto_cita": "«Todos los homes que los fijos hobiere [n] casados legítimamientre ayuntados, el padre nin la madre non responda por ellos mas.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Molina , año 1152 ( Llor. Prov. Vasc . 4. 123)."
+        },
+        {
+          "texto_cita": "«Enna presencia del rey don Alfonso ye de sua mullier doña Elvira, ayuntamonos en Leon enna see de Santa María todos los obispos, é abades e arçobispos del rey de Yspaña.»",
+          "autor": "León",
+          "referencia_obra": ", año 1020 ( Muñoz , F . 74)."
+        },
+        {
+          "texto_cita": "«De todas partes los sos se aiuntaron.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1015 (R. 57. 13 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "El prado de toia sedeat defesado desde la fonte del manzano, quomodo se adiunctan los arroyos de los ualles, inde, adiuso, usque ad fondon delos ortos.» Fuero de Madrid , año 1202 ( Mem. Acad. Hist . 8. 40).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. ajuntar: comp. de á y junto, conservándose la pronunciación suave de la j . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

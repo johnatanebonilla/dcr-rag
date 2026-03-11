@@ -1,0 +1,265 @@
+{
+  "lema": "AVANZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Adelantar, mover ó prolongar hacia adelante ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Andrea Polito entre tanto apretó el castillo de Santelmo, y avanzó la mina.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Masan. 2. 5 (5. 182)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. En especial, Adelantar hacia el enemigo, acometer, embestir. Con las preposiciones que señalan la dirección ó el término del movimiento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Salió | De emboscada el enemigo. | Avanzámonos á él, | Y en el encuentro, preciso | Fue el quedar yo prisionero.»",
+          "autor": "Cald.",
+          "referencia_obra": "No hay cosa como callar, 2. 18 (R. 7. 563 3 )."
+        },
+        {
+          "texto_cita": "«El condestable fue á asentar su campo en Jadraque --- después se avanzó á Cogolludo, y acampó á legua y media del sitio en que ellos estaban.»",
+          "autor": "Quint.",
+          "referencia_obra": "D. Álv. de Luna (R. 19. 390 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se usa más comúnmente como intrans. Cp. adelantar, al zar, arrimar , etc .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Avanzar á, hacia, hasta las líneas enemigas.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc."
+            },
+            {
+              "texto_cita": "«La retaguardia, gobernada del Xeli, avanzó todo lo posible, y fue al amanecer sobre Villaseca.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 4 (R. 21. 513 2 )."
+            },
+            {
+              "texto_cita": "«Avanzó poco á poco el ejército por la calle principal, dejando en el cuartel la guardia que pareció necesaria.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 7 (R. 28. 274 2 )."
+            },
+            {
+              "texto_cita": "«Hicieron poco después la señal de acometer sus atabales y bocinas; avanzaron todos á un tiempo con igual precipitación.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4. 13 (R. 28. 324 2 )."
+            },
+            {
+              "texto_cita": "«Avanzando entonces con ánimo de hacer algunos prisioneros para tomar lengua, descubrió un ejército de innumerable muchedumbre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4. 12 (R. 28. 324 1 )."
+            },
+            {
+              "texto_cita": "«Y apellidando, como solía, unas veces á Santiago y otras á san Pedro, avanzó prolongada la frente del escuadrón para que fuese unido el cuerpo del ejército con las alas de la caballería.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 4. 20 (R. 28. 339 2 )."
+            },
+            {
+              "texto_cita": "«Se halló abierta y desarmada la ciudad. Avanzaron algunas tropas á ocupar las puertas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 10 (R. 28. 359 2 )."
+            },
+            {
+              "texto_cita": "«Pero en este tiempo avanzan | Don Francisco de Velasco | Y el de Humanes con su escuadra.»",
+              "autor": "Mto.",
+              "referencia_obra": "De fuera vendrá. .. 1. 2 (R. 39. 58 3 )."
+            },
+            {
+              "texto_cita": "«El gobernador avanzó por la tarde hasta otra fortaleza que estaba más adelante.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 322 1 )."
+            },
+            {
+              "texto_cita": "«Avanzan á encontrar á los armados.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 7 (2. 237)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . Situado hacia la parte en que se encuentra el enemigo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Determinó pasar con parte de sus fuerzas á la ciudad de Iztacpalapa, puesto avanzado seis leguas adelante.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5 . 10 (R. 28. 361 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En general, Moverse hacia adelante ( intrans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Avanza algunos pasos, y descubre | Casi á su frente, y á distancia corta, | Un edificio.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Moro expós. 10 (2. 364)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Progresar, acercarse al término deseado ( intrans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Notando los españoles que avanzaban los trabajos de los sitiadores, se dispusieron el 31 á hacer una salida.»",
+          "autor": "Toreno",
+          "referencia_obra": ", Hist. 7 (R. 64. 168 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Trasladado á denotar tiempo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Refl. Acercarse á su fin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A medida que se avanzaba el tiempo, crecían la priesa y muchedumbre de nuestras atenciones.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central, 2. 2 (R. 46. 555 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Hoy se usa más á menudo como intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las razones no se dieron para esta resolución inesperada eran, que la estación avanzaba, que el país estaba todo agostado ---»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 402 1 )."
+            },
+            {
+              "texto_cita": "«La noche avanzaba, y ofrecía la extensa Nápoles un aspecto espantoso.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 6 (5. 63)."
+            },
+            {
+              "texto_cita": "«Avanzaba el día sin arreglarse nada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 13 (5. 104)."
+            },
+            {
+              "texto_cita": "«La noche avanza. Su inquietud se aumenta, | No parece el garzón, quiere buscarlo.»",
+              "autor": "",
+              "referencia_obra": "Id. Moro expós . 3 (2. 77)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recuerdan á la imaginación aquellas escenas, aquellas vistas risueñas de la naturaleza, que son las delicias de nuestra infancia y juventud, y á las cuales volvernos con gusto la vista en edad más avanzada.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. Poét. (R. 46. 141 2 )."
+            },
+            {
+              "texto_cita": "«Trató Masanielo, ya avanzada la noche, de retirarse á descansar de las fatigas de aquel día.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 14 (5. 114)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese de las personas con respecto á la edad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Avanzar de edad, en edad.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            },
+            {
+              "texto_cita": "«Conforme avanzaba en edad se agravaban [sus achaques] á porfía.»",
+              "autor": "Quint.",
+              "referencia_obra": "Meléndez (R. 19. 119 2 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Avanzado de edad, en edad.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Entre mercaderes y tratantes, Sobrar de las cuentas alguna cantidad ( intrans. ) ( ant. ). Covarrubias, que no registra sino esta acepción, la da por tomada, como es patente, del italiano.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si mengua quien queda atras, | Sobra quien mucho se avanza.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var. 337 ( Rim. inéd. 321). — Es indudable que en la copla 207 de los Proverbios de Sem Tob (R. 57. 344 2 ), en que se halla avanza, el texto está viciado."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Está en la misma relación con el adv. antiguo avante, que el port. avança r con avante, el prov. avanzar y el fr. avancer con avant, y el it. avanzare con a vanti; y supone un tipo abantiare, como alzar, altiare. Sin embargo, nuestros vocablos son más recientes que los provenzales, franceses é italianos, y según toda probabilidad los debemos á la lengua francesa.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "La z se cambia en c antes de e: avance, avancemos. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

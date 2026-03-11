@@ -1,0 +1,606 @@
+{
+  "lema": "APAREJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Preparar y disponer convenientemente ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Timbrio mi señor y nuestro amigo nos quiere dejar y partirse esta noche, y no me ha dicho dónde, sino que lo apareje no sé qué dineros y que á nadie diga que se parte.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 (R. 1. 31 2 )."
+            },
+            {
+              "texto_cita": "«Publica la guerra y avisa antes de comenzarla, y como dice el Profeta, alza la espada, flecha el arco, apareja las saetas, y muy de espacio se pone á punto de guerra.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 2. 13 (R. 60. 431 1 )."
+            },
+            {
+              "texto_cita": "«Ya el verdugo el cuchillo aparejaba.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 13 (R. 17. 281 1 )."
+            },
+            {
+              "texto_cita": "«Parecióme declarároslas [las palabras del Audi filia ] invocando primero el favor del Espíritu Santo, para que rija mi pluma y apareje vuestro corazón.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 1 ( Míst. 3. 128)."
+            },
+            {
+              "texto_cita": "«Por lo cual dijo el Eclesiástico: antes de la oración apareja tu alma.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 2 (R. 8. 10 2 )."
+            },
+            {
+              "texto_cita": "«Mira, ruégote, en qué tiempo se puso el Señor á aparejarnos este bocado de tanta suavidad.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 6. 6, § 4 (R. 8. 358 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como á los antiguos capitanes y emperadores en premio de sus trabajos fatigas les eran --- aparejados triunfos, así á los amantes les están guardados muchedumbre de placeres y contentos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 4 (R. 1. 60 2 )."
+            },
+            {
+              "texto_cita": "«Aguarda pues que allí se te apareje | Albergue á tu fiereza.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 134 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí son las verdaderas revelaciones en este éxtasi, y las grandes mercedes y visiones, y todo aprovecha para humillar y fortalecer el alma, y que tenga en menos las cosas desta vida y conozca más claro las grandezas del premio que el Señor tiene aparejado á los que le sirven.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 21 (R. 53. 69 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con para , que denota el objeto al cual se procura adaptar ó hacer corresponder lo que se prepara.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vén, Dios mío, y aparéjame para ti con la riqueza de tus dones y misericordias.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del crist. 12 (R. 11. 189 1 )."
+            },
+            {
+              "texto_cita": "«Ruégote, Señor, quieras aparejar mi corazón para tu morada.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 5. 5, orac. 1 (R. 8. 305 2 )."
+            },
+            {
+              "texto_cita": "«Antes que entremos en la oración es necesario aparejar el corazón para aquel santo ejercicio, que es como quien templa la vihuela para tañer.»",
+              "autor": "",
+              "referencia_obra": "Id. Orac. y consid. 1. 2 (R. 8. 10 2 )."
+            },
+            {
+              "texto_cita": "«El fin para que nuestro Señor edificó y aparejó este lugar, es para manifestación de su gloria.»",
+              "autor": "",
+              "referencia_obra": "Id. Guía , 1. 9 (R. 6. 38 1 ). —"
+            },
+            {
+              "texto_cita": "«Con esta experiencia que tienen del socorro y favor que da nuestro Señor á los atribulados cuando le llaman con humildad y confianza, se disponen ellos más, y aparejan el corazón para recibir el divino amor.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 9 (R. 60. 375 1 )."
+            },
+            {
+              "texto_cita": "«Ella sólo tenía cuidado de aparejar su alma con esclarecidos actos de virtud, para servir mejor á su Hijo.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 2. 15 (1. 335). ---"
+            },
+            {
+              "texto_cita": "«Hijo, cuando te llegares á servir á Dios, vive con temor, y apareja tu ánima para la tentación.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 2. 2 (R. 6. 122 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aparejado ya todo lo necesario para el convite, envió á llamar los convidados.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 3. 4, § 2 (R. 8. 248 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Preparado convenientemente; y de ahí, Acomodado, apto, idóneo. Acad. Dicc.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hasta que Melibea con aparejada oportunidad que haya lo compre.»",
+              "autor": "Celest.",
+              "referencia_obra": "3 (R. 3. 20 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Disponer y trazar previamente ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la misma noche de su pasión, cuando al Señor le estaban aparejando los mayores trabajos y dolores del mundo, él nos aparejó este suavísimo y divino bocado.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Vida de Cristo (59)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mira, ruégote, en qué tiempo se puso el Señor á aparejarnos este bocado de tanta suavidad, cuando á él se le estaban aparejando los mayores trabajos y dolores del mundo. De manera que, cuando á él se le aparejaban los dolores, nos aparejaba él estos sabores; cuando á él se le aparejaba la hiel, nos aparejaba él esta miel.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 6. 6, § 4 (R. 8. 358 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Tratándose de cosas que están por venir, Prepararse, aguardar, amenazar, estar reservado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«España estaba toda llena de alboroto y de llanto, no sólo por la pena y cuita del mal presente, sino también por el miedo de lo que para adelante se apareaba.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 6. 24 (R. 30. 183 1 )."
+            },
+            {
+              "texto_cita": "«Sólo con esta embajada quería justificar su causa con todo el mundo, vencer en modestia, y que todos entendiesen eran muy fuera de su voluntad las muertes, destruición y pérdidas que se aparejaban.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 9. 4 (R. 30. 250 2 )."
+            },
+            {
+              "texto_cita": "«¿A quién volveré los ojos | En el mal que se apareja, | Si cuando mi bien se aleja, | Se acercan más mis enojos?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 74 2 ). —"
+            },
+            {
+              "texto_cita": "«Cuerpo de tal, dijo el ventero, que aquí está el señor maese Pedro: buena noche se nos apareja.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 2. 25 (R. 1. 457 2 )."
+            },
+            {
+              "texto_cita": "«Estando muy contenta de no me hallar en aquel ruido, díjome el Señor que en ninguna manera deje de ir, que, pues deseo cruz, que buena se me apareja, que no la deseche.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 35 (R. 53. 107 2 )."
+            },
+            {
+              "texto_cita": "«Grande tela --- me parece, Juliano, que urdís, y, si no me engaño, maravillosas cosas se nos aparejan.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Hijo (R. 37. 107 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni oyen las voces é inspiraciones de Dios, ni ven los grandes males que les están aparejados.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 5, § 1 (R.6. 27 2 )."
+            },
+            {
+              "texto_cita": "«Le quedaban aparejadas muchas prisiones y peligros en Jerusalén.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios, 1. 17 (R. 23. 32 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. Disponerse y prepararse convenientemente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encomiéndeme á Sanchica su hija, y dígala de mi parte que se apareje, que la tengo de casar altamente cuando menos lo piense.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 50 (R. 1. 509 2 )."
+            },
+            {
+              "texto_cita": "«El que hoy no se apareja, más pereza tendrá mañana que hoy.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 2. 7 ( Míst. 3. 22)."
+            },
+            {
+              "texto_cita": "«Cuando llegan al Santísimo Sacramento, en si se aparejan bien ó no, se les va el tiempo que habían de recibir mercedes.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf. 39 (R. 53. 370 1 ; * si me dispuse bien)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el objeto con que se hace la preparación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Movido por estas cosas el senado cartaginés determinó aparejarse á la resistencia.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 20 (R. 30. 25 1 )."
+            },
+            {
+              "texto_cita": "«Aparéjese á la persecución, que está cierta en los tiempos de ahora, cuando de alguna persona quiere el Señor se entienda que le hace semejantes mercedes.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 31 (R. 53. 91 1 ). —"
+            },
+            {
+              "texto_cita": "«Suene Marsilio su zampoña, y aparejaos á oír lo que jamás pensé que mi lengua tuviera ocasión de decirlo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 78 1 )."
+            },
+            {
+              "texto_cita": "«Dejad luégo al punto las princesas que en ese coche lleváis forzadas; si no, aparejaos á recebir presta muerte por justo castigo de vuestras malas obras.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 8 (R. 1. 270 2 )."
+            },
+            {
+              "texto_cita": "«Aparéjese á echarme su bendición, que luégo pienso partirme.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 25 (R. 1. 316 2 )."
+            },
+            {
+              "texto_cita": "«No responden en los servicios conforme á tan gran merced, ni tornan á aparejarse á recibirla.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Camp. perf. 31 (R. 53. 358 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sosiega el pecho, lastimado pastor, que el que aquí viene trae el suyo aparejado á lo que mandarle quisieres.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 7 1 )."
+            },
+            {
+              "texto_cita": "«Aparejado está mi corazón: conviene saber, aparejado á volar por el cielo, y aparejado á andar por los agujeros de la tierra; aparejado para reposar con vos, y aparejado para trabajar con el prójimo; aparejado para gozar de vuestras consolaciones, y aparejado á llorar las miserias de mis hermanos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic . al Mem. 2. 10 (R. 8. 454 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con para , que á menudo se emplea para denotar una preparación material ó un plazo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se aparejaron luégo para la profesión, y la recibieron todas con grande contento y confianza en el Señor.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 30 ( Míst. 1. 242)."
+            },
+            {
+              "texto_cita": "«¿Por qué no bastarán estas amenazas, pues son de Dios, para hacerte temer un tan gran peligro aparejarte para esta hora con tiempo?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 26, § 3 (R. 6. 98 2 ). —"
+            },
+            {
+              "texto_cita": "«Aparejándose para orar con ayunos y abstinencia, hizo una oración devotísima y muy larga.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 4. 19, § 1 (R. 6. 531 1 )."
+            },
+            {
+              "texto_cita": "«Ya se aparejaba Erastro para seguir adelante en su canto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 1 (R. 1. 5 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aparejados estamos para subir al lugar de que ha hablado el Señor.»",
+              "autor": "Scío",
+              "referencia_obra": ", Núm. 14. 40."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "En especial,",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Poner los aparejos á las mulas y caballos de paso y bestias de carga ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con todo este trabajo, aparejó su asno.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 15 (R. 1. 285 1 )."
+        },
+        {
+          "texto_cita": "«Ensilla, Sancho, á Rocinante, y apareja tu jumento y el palafrén de la reina.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 46 (R. 1. 385 1 )."
+        },
+        {
+          "texto_cita": "«Le ruego que á los caballos [del Sol] | Les hurte al aparejallos | Mercurio sillas y frenos.»",
+          "autor": "Tirso",
+          "referencia_obra": ", El pretendiente al revés , 1. 6 (R. 5. 23 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "mar. Guarnecer, vestir un buque de todos los palos, vergas, jarcias y velas, colocando cada cosa en su lugar y según arte, para que esté apto para navegar. Dícese también en particular de un palo, verga, mastelero, etc.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met. Refl. Vestirse con esmero, acicalarse, ponerse la mejor ropa. Dicc. Marít.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Pint. Preparar con la imprimación el lienzo ó tabla que se ha de pintar. Terreros, Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Entre doradores, Dar las manos de cola, yeso y bol á la pieza que se ha de dorar. Acad. Dicc. — Terreros agrega: Dar con albayalde á la parte que se ha ensuciado con el color amarillo, y que se quiere conservar blanqueada.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "En la carpintería, cantería y otros oficios, Labrar y disponer las piezas que han de servir para alguna obra. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas aparellar, aparelar, apreiar, pareiar .) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se fueron á sus tierras para se aparejar de guerra.»",
+          "autor": "",
+          "referencia_obra": "C rón. Juan II , 14. 6 (R. 68. 383 1 )."
+        },
+        {
+          "texto_cita": "«Conoció que todas estas cosas eran dilaciones, é mandó aparejar para su partida.»",
+          "autor": "",
+          "referencia_obra": "lb . 9. 25 (R. 68. 368 2 )."
+        },
+        {
+          "texto_cita": "«Embió decir al infante que mandase aparejar sus gentes, que los moros iban á pelear con él.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 8 (R. 68. 319 1 )."
+        },
+        {
+          "texto_cita": "«Fiço aparejar muy noblemente de cenar, é fíçole aposentar en la cámara.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 74."
+        },
+        {
+          "texto_cita": "«A unos por cobdiçiosos | Aparejas la cayda.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 171."
+        },
+        {
+          "texto_cita": "«La buena vida del hombre virtuoso --- apareja preciosa corona de la gloria de la buena fama.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron. 49 (21 2 )."
+        },
+        {
+          "texto_cita": "«Esa noche los marineros aparejaron todas sus cosas que eran menester para navegar.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 94."
+        },
+        {
+          "texto_cita": "«Durante el buen tiempo se apareja [el marinero] para el malo.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 30."
+        },
+        {
+          "texto_cita": "«Fueronse para Pera doiade tenian aparejado donde posasen.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 50."
+        },
+        {
+          "texto_cita": "«Digo que aparejar | Se puede el omne en sy proponiendo | De se emendar.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 562."
+        },
+        {
+          "texto_cita": "«E ante pechos el escudo tiene, | Por se escudar quando el golpe viene, | De qualquiera parte muy aparejada.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 250. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Estovo y aquel invierno lo que fincaba deste año, aparejando su flota con la mayor acucia que pudo.»",
+          "autor": "",
+          "referencia_obra": "C rón. Pedro I , 9. 11 (R. 66. 486 2 )."
+        },
+        {
+          "texto_cita": "«Esto fizo el rey porque pudiese mejor aparejar todo su fecho para lo prender ó matar aquel dia.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV , 17 (R. 66. 166 1 )."
+        },
+        {
+          "texto_cita": "«La flota del rey fue toda aparejada de gentes é de armas, é de todas las otras cosas que fueron menester.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 59 (R. 66. 54 1 )."
+        },
+        {
+          "texto_cita": "«Desque vio la pelea teníe mal aparejada, | Dexós de amenasar.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 53 (R. 57. 228 2 )."
+        },
+        {
+          "texto_cita": "«Cuanto los mozos son mas sutiles de entendimiento, tanto son mas aparejados para facer grandes yerros para sus faciendas.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 24 (R. 51. 371 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Aparellados somos»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«En el tiempo de paz se deben aparejar et antever todas las cosas que les son menester para en tiempo de guerra.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 1. 4 (2. 6)."
+        },
+        {
+          "texto_cita": "«Maguer que Dios está apareiado siempre para facer bien, embargaseles a las veces a los homes por sus maldades que gelo non faga.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 20. 21 (1. 466)."
+        },
+        {
+          "texto_cita": "«La [uncion] de somo de la cabeza facen porque sea aparejado de dar razon de la fe á todo home que gela demande.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 14. 15 (1. 96*)."
+        },
+        {
+          "texto_cita": "«Deven venir --- apareiados en todas cosas para conprir aquello que han de fazer segunt que el rey les mandare.»",
+          "autor": "Espéc.",
+          "referencia_obra": "3. 1. 3 ( O. L. 1. 76)."
+        },
+        {
+          "texto_cita": "«Dile que nos emiende el tuerto que nos fizo; é si lo ficiere, bien; donde non, aparejarnos hemos para lidiar con él.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 31 2 )."
+        },
+        {
+          "texto_cita": "«Habia fecho un caño desde su casa fasta la calle, cerca del pozo do tienen el agua, et aparejó una puerta al caño.»",
+          "autor": "",
+          "referencia_obra": "Ib. (R. 51. 16 2 )."
+        },
+        {
+          "texto_cita": "«Aparejadvos e guisatvos pora quando ovierdes de yr al logar do yo vo.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 43)."
+        },
+        {
+          "texto_cita": "«Aparejatvos de seguir todos mios buenos fechos.»",
+          "autor": "",
+          "referencia_obra": "Ib . ( ib . 40)."
+        },
+        {
+          "texto_cita": "«Partid vos de mí, malditos, é it vos en fuego perdurable, el qual es dado y aparellado al diablo é á sus amigos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo (197*)."
+        },
+        {
+          "texto_cita": "«E quando el ninno a la tierra por heredad é las cosas celestiales que son apareiadas, sus herederos ayan las terrenales.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 2. 18 (72)."
+        },
+        {
+          "texto_cita": "«Onde los reys daquí adelantre por esta nuestra lee mandamos que --- sean aparellados por aver mercet.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 4 ( VI ; * apareiados, aparelados)."
+        },
+        {
+          "texto_cita": "«Fue ante de mediodia el comer adobado, | El palacio bien rico, ricament pareiado.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2444 (R. 57. 222 1 )."
+        },
+        {
+          "texto_cita": "«Fizo apareiar toda la clerizia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1092 (R. 57. 181 1 )."
+        },
+        {
+          "texto_cita": "«De fazer quanto mandares somos apareiados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 727 (R. 57. 170 1 )."
+        },
+        {
+          "texto_cita": "«Porque es tan fremosa la rueda del paon, | Fue a mi appareiada por esta razon.»",
+          "autor": "",
+          "referencia_obra": "Ib. 344 (R. 57. 158 1 )."
+        },
+        {
+          "texto_cita": "«Fueron luego las naues prestas e apreiadas.»",
+          "autor": "Appoll.",
+          "referencia_obra": "258 (R. 57. 292 1 )."
+        },
+        {
+          "texto_cita": "«Tenian su conducho todo apareiado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 508 (R. 57. 56 1 )."
+        },
+        {
+          "texto_cita": "«Sennor Sancto Domingo, confesor tan onrrado, | Debe a San Martino seer apareiado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 252 (R. 57. 48 1 )."
+        },
+        {
+          "texto_cita": "«Por resçebir la gracia estaban apareiados.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores, 154 (R. 57. 98 1 )."
+        },
+        {
+          "texto_cita": "«Conduchos largos el rey enbiar mandaua | A las aguas del Taio, o las uistas son apareiadas.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1973 (R. 57. 22 2 )."
+        },
+        {
+          "texto_cita": "«Passe la noche é venga la mannana: | Apareiados me sed a cauallos e armas.»",
+          "autor": "",
+          "referencia_obra": "lb . 1123 (R. 57. 14 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. apparelhar ; gall., cat. aparellar ; prov. aparelhar, apareillar; fr. appareiller; it. apparecchiare ( vál. parechiez ): comp. de a , ad , que denota reducción á cierto estado, y parejo (en su sentido etimológico de igual, semejante), parelh, pareil, parecchio ; del sentido de Igualar, asemejar (conocido en prov. y aun en cast. ant. , según aparece del pasaje de Berc. S. Dom. 252) se pasó al de Adaptar, adecuar, y de ahí al de Preparar. Cp. lat . par , igual, y parare , preparar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

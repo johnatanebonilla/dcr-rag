@@ -1,0 +1,608 @@
+{
+  "lema": "ABREVIAR",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacer breve, reducir á menor extensión. Generalmente denota una reducción proporcionada de las partes, de suerte que resulte un conjunto armónico ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así como el objeto de la precisión es la cosa que se dice, el de la concisión es el modo con que se dice. La primera simplifica el concepto, la segunda abrevia su expresión.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. 2, concisión (182)."
+            },
+            {
+              "texto_cita": "«Este monte de Jovis es el que está cabe la ciudad de Barcelona, que agora comúnmente los catalanes, como suelen abreviar las palabras, por decir Monte de Jovis, le llaman Monjuí.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab. 47 (19 1 )."
+            },
+            {
+              "texto_cita": "«Muchas veces de tres nombres, quitando sílabas de en medio, los abrevian y hacen uno.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 5. 4 (421)."
+            },
+            {
+              "texto_cita": "«¿Quién le perdonará la osadía de omitir en su versión pasajes enteros, abreviarlos ó dilatarlos, alterar algunas escenas ---?»",
+              "autor": "Mor.",
+              "referencia_obra": "La escuela de los maridos, advert. (R. 2. 442)."
+            },
+            {
+              "texto_cita": "«Horacio, por ejemplo, hubiera aconsejado á Lupercio que abreviase la entrada de su sátira á la Marquesilla, y otros muchos pasajes prolijos que hay en ella.»",
+              "autor": "Quint.",
+              "referencia_obra": "Introd. al Parn. esp. 4 (R. 19. 136 2 )."
+            },
+            {
+              "texto_cita": "«La que dulcemente abrevia | En los orbes de sus ojos | Soles con flechas de luz, | Cupidos con rayos de oro.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 100 (R. 32. 541 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oh majestad infinita, | ¿Cómo os abreviastes tanto?»",
+              "autor": "Lope",
+              "referencia_obra": ", Rim. de Burg. égl. 2 ( Obr. suelt. 19. 282)."
+            },
+            {
+              "texto_cita": "«Y cuanto mas el curso sube al cielo, | El mundo tanto más se va abreviando.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 15 (R. 17. 303 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta tan incomprensible gracia teníades ab æterno determinada de hacer al hombre, y no al hombre solo, sino á todo el mundo en el hombre, pues él es un mundo abreviado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2. 14, § 6 (R. 8. 478 2 )."
+            },
+            {
+              "texto_cita": "«¿Por qué se ha de desdeñar el príncipe de ver en un libro, abreviado el cuerpo de su imperio?»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 57 (R. 25. 155 2 )."
+            },
+            {
+              "texto_cita": "«Los brazos altos y altas las espadas, | De un bélico furor dejan llevarse, | Y las valientes fuerzas abreviadas, | De un golpe quieren por igual vengarse.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 4 (R. 17. 184 1 )."
+            },
+            {
+              "texto_cita": "«¡Oh región de placer! no eres llamada | Jardin del mundo, en vano, ó paraíso | Ni en vano hacer de ti copia abreviada | De su vario poder natura quiso.»",
+              "autor": "Arriaza",
+              "referencia_obra": ", Cant. lír. 11 (R. 67. 112 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Limitar, coartar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus misericordias no tienen límite, ni las abrevian ni impiden los pecados de los hombres.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 74 (R. 1. 556 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y dónde se hallará esa unión y correspondencia? — En muchas, que no se abrevió la mano de la naturaleza en Dorotea.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea , 3. 1 ( Obr. suelt. 7. 180)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y [serás] ejemplo verdadero | De cómo Dios tan bien se comunica | Debajo de la púrpura preciosa, | Como debajo de áspero vestido, | Que no son abreviadas, no, sus manos.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "canc. En estas santas ( R. 42. 281 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "definicion": ". Decir en pocas palabras, compendiar, resumir.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Halléle á punto de muerte, y por abreviar razones en muy breves me dijo cómo al tiempo que murió su señora le dijo todo lo que conmigo le había sucedido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 8 (R. 1. 197 2 )."
+            },
+            {
+              "texto_cita": "«Este pues, por abreviar el cuento de mi desventura, te diré en breves palabras la que me ha causado.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 60 (R. 1. 531 2 )."
+            },
+            {
+              "texto_cita": "«Advertido ya de que algunos se cansaban de su larga plática, determinó de proseguirla abreviándola y siguiéndola en las menos palabras que pudiese.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers . 2. 16 (R. 1. 614 2 )."
+            },
+            {
+              "texto_cita": "«Y cuando le conviniere hablar, abrevie cuanto pudiere sus razones, y hable con cautela y discreción.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 4. 2, § 5 (R. 8. 281 1 )."
+            },
+            {
+              "texto_cita": "«Así el leonés Gundémaro la historia | De sus prolijos males abreviaba.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 7 (R. 17. 209 2 )."
+            },
+            {
+              "texto_cita": "«El cadí es el juez competente de todas las causas, que las abrevia en la uña y las sentencia en un soplo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 2 (R. 1. 124 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En solo un punto el rigor | Suyo se abrevia y resume; | Y es que puedes ya contar | A Marcela por casada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La entretenida, 2 ( Com . 2. 206)."
+            },
+            {
+              "texto_cita": "«El derecho de los monarcas se abrevia en viva quien vence.»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos (R. 23. 400 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esto hace que, aunque quisiera abreviar, y bastaba para el entendimiento bueno de quien me mandó escribir estas cosas de oración solo tocarlas, mi torpeza no da lugar á decir y á dar á entender en pocas palabras cosa que tanto importa de declararla bien.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Vida, 13 (R. 53. 49 2 )."
+            },
+            {
+              "texto_cita": "«Aunque había que decir mucho, según la materia se ofrece, iré abreviando lo más que pudiere.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 25 ( Míst . 1. 220)."
+            },
+            {
+              "texto_cita": "«Y se perdió el rey Rodrigo | Y otros ciento, | Que por abreviar no cuento.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Diál. entre verdad y lisonja (R. 32. 239 2 )."
+            },
+            {
+              "texto_cita": "«Por no haber caso en esto señalado, | Abrevio con decir que se partieron, | Y al cuarto día con animo esforzado | Sobre el campo enemigo amanecieron.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 11 (R. 17. 44 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans . Con de, que realza el concepto de cercenar, recortar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues si alguno dice: toma, | Con dinero, | Luégo me vuelvo ligero, | Por abreviar de razones.»",
+              "autor": "Timoneda",
+              "referencia_obra": ", Los ciegos y el mozo (R. 2. 289 2 )."
+            },
+            {
+              "texto_cita": "«Abreviemos de razones | Sin hablar, sin preguntar | Causas justas ni ocasiones.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los embustes de Celauro, 2. 20 (R. 24. 103 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "definicion": ". Escribir con supresión de letras ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De la propia manera [conv te .] se pueden abreviar cualesquiera otras voces en ente ó iente .»",
+          "autor": "Acad.",
+          "referencia_obra": "Gram . p. 377 (edic. 1874)."
+        },
+        {
+          "texto_cita": "«Necio, ¿no ves que esa letra [M], | Quiere decir majestad, | Que es cifra con que se abrevia, | Si lo has visto en algún libro?»",
+          "autor": "Lope",
+          "referencia_obra": ", La mayor virtud de un rey, 1. 11 (R. 41. 82 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aplicado al tiempo, Hacer que algo dure menos, acortar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensando [los muy solícitos de su salud] mantenerla con variedad de medicinas, la gastan, y abrevian la vida.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 50 (R. 25. 132 2 )."
+            },
+            {
+              "texto_cita": "«Habiendo dicho que estaría en el corazón de la tierra tres días y tres noches, --- abrevió este tiempo todo lo posible.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 5. 2 (3. 17)."
+            },
+            {
+              "texto_cita": "«Me pones en tal rigor, | Que ruegues será mejor | Que abrevie el cielo mis años.»",
+              "autor": "Lope",
+              "referencia_obra": ", El ausente en el lugar , 3. 9 (R. 24. 269 1 )."
+            },
+            {
+              "texto_cita": "«Es terrible locura | Vida que tan poco dura | Querer abrevialla un hombre.»",
+              "autor": "",
+              "referencia_obra": "Id. El hijo de los leones, 1. 1 (R. 34. 218 1 )."
+            },
+            {
+              "texto_cita": "«Su vida abrevian, y en la negra tumba | Su error, su afrenta y su despecho esconden.»",
+              "autor": "Jovell.",
+              "referencia_obra": "sát . 1 (R. 46. 33 2 )."
+            },
+            {
+              "texto_cita": "«El había muerto para sí y para nosotros muchos días antes: el trabajo que abrevió sus días quiso señalar al término de ellos un plazo de dolorosa inacción.»",
+              "autor": "",
+              "referencia_obra": "Id. Corresp. con Posada (R. 50. 260 1 )."
+            },
+            {
+              "texto_cita": "«Pudo el rey, quejoso ó prevenido, quitar la vida á su privado; pero la falta del privado abrevió sin duda los días del rey, y el muerto se le llevó á la huesa consigo.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 431 1 ). —"
+            },
+            {
+              "texto_cita": "«Fatigado de este pensamiento, abrevió su venteril y limitada cena.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 3 (R. 1. 260 2 )."
+            },
+            {
+              "texto_cita": "«Comenzad diciendo el credo, | Y abreviadle.»",
+              "autor": "Mto.",
+              "referencia_obra": "El lindo don Diego 3. 2 (R. 39. 366 3 )."
+            },
+            {
+              "texto_cita": "«Una posta buscó luégo | Por abreviar el camino.»",
+              "autor": "Tirso",
+              "referencia_obra": ", No hay peor sordo, 3. 5 (R. 5. 280 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con éstos [los trabajos] se alarga la vida, con los deleites se abrevia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 3 (R. 25. 14 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el término á que queda reducida la duración que se acorta.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cinco veces les apareció el mesmo día que resucitó, y los tres días del sepulcro abrevió en cuarenta horas, contando dende que espiró en la cruz, que aun no hacen dos días naturales.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 6. 6, § 14 (R. 8. 368 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans . Con de, que realza el concepto de cercenar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y abreviando de tiempo y dilaciones, | A jugar comenzó la artillería.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 10 (R. 17. 251 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Hacer que alguna cosa parezca breve.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pues ¿quién abrevia, sino el rudo canto, | Los lentos días al pastor que yace | Entre sombríos árboles, en tanto | Que su rebaño quietamente pace?»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Mús . 4 (1. 266)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "Acelerar, apresurar, poner prontamente en ejecución.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todas estas dádivas y promesas aprovecharon con el cadí no más de ponerle en la voluntad que abreviase su partida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 2 (R. 1. 130 2 )."
+            },
+            {
+              "texto_cita": "«Mira, Sancho, cuándo quieres comenzar la disciplina, que porque la abrevies te añado cien reales.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 71 (R. 1. 552 2 )."
+            },
+            {
+              "texto_cita": "«Soy de parecer --- que tú misma con tu discreción y aviso solicites nuestra partida, que en esto solicitarás y abreviarás nuestra vuelta.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. 2. 8 (R. 1. 601 1 )."
+            },
+            {
+              "texto_cita": "«Pedimos que la divina Majestad abrevie la conversión de todo el mundo, porque se nos llegue la posesión del cielo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 3. 4, § 3 (R. 11. 141 2 )."
+            },
+            {
+              "texto_cita": "«El mismo Señor le dio prisa, y le dijo que abreviase su ida.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 18 ( Míst . 1. 183)."
+            },
+            {
+              "texto_cita": "«Vuestro casamiento os pido | Que abreviéis.»",
+              "autor": "Lope",
+              "referencia_obra": ", La porfía hasta el temor, 3. 12 (R. 34. 324 3 )."
+            },
+            {
+              "texto_cita": "«Lo que importa es abreviar | Con el rey el casamiento.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 14 (R. 34. 315 2 )."
+            },
+            {
+              "texto_cita": "«Petreyo abrevia su infeliz jornada.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 7 ( Fern. 7. 189)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol. Darse prisa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No le parecieron bien al ventero las burlas de su huésped, y determinó abreviar y darle la negra orden de caballería luégo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 3 (R. 1. 261 2 )."
+            },
+            {
+              "texto_cita": "«Señora Hortigosa, abrevie y váyase, y no se esté agora juzgando almas ajenas.»",
+              "autor": "",
+              "referencia_obra": "Id. El viejo celoso ( Com . 2. 323)."
+            },
+            {
+              "texto_cita": "«Alterado él con esta nueva, como era razón, pretendía recompensar la tardanza pasada con abreviar.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 13. 22 (R. 30. 397 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. Con con , para expresar la cosa que ha de ejecutarse prontamente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Determinaron de abreviar con la partida, y llamando aparte al ventero, le ordenaron que ensillase á Rocinante y enalbardase el jumento de Sancho.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 47 (R. 1. 387 1 )."
+            },
+            {
+              "texto_cita": "«Abrevia con esta ausencia, | Que, si vuelves tarde, es cierto | Hallarme sin seso ó muerto.»",
+              "autor": "Lope",
+              "referencia_obra": ", El dómine Lucas, 2. 19 (R. 24. 58 1 )."
+            },
+            {
+              "texto_cita": "«Quiero abreviar con el intento largo.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 1 (R. 17. 576 1 )."
+            },
+            {
+              "texto_cita": "«Yo me holgaría que abreviase con su despedida.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 468 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Intrans. Con en y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Marcelo, ya vistes á Gerardo cómo estaba hablando conmigo sobre el casamieno de mi hija Lelia; por eso abrevia en ir por ella porque se efectúe.»",
+              "autor": "Lope",
+              "referencia_obra": "de Rueda, Los engaños, 1. 3 (R. 2. 268 2 )."
+            },
+            {
+              "texto_cita": "«Por ser san Juan el domingo, he abreviado en irme.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas, 2. 79 (R. 55. 67 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Intrans. Con para , que expresa el objeto de la prisa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nuevas formas y maneras | Busca para despedirse; | Abrevia para partirse | Con palabras lisonjeras.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1, Sermón de amores (R. 32. 149 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tanto quanto en Avila quisieron abreviar con ellos, tanto en Olmedo quisieron alargar.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 16 (R. 68. 386 2 )."
+        },
+        {
+          "texto_cita": "«El infante determinó en todo caso de se partir con la gente que tenia, creyendo que los que venian á le servir abreviarian mas presto su venida.»",
+          "autor": "",
+          "referencia_obra": "Ib. 4. 2 (R. 68. 317 1 )."
+        },
+        {
+          "texto_cita": "«El emperador Justiniano abrevió los derechos, é los reduzió á buena forma.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Claros varones, 330 ( Rim. inéd. 320)."
+        },
+        {
+          "texto_cita": "«Fizo tan largo proceso, | Que lo menos aqui expreso | Por lo ir abreviando.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 73 (282)."
+        },
+        {
+          "texto_cita": "«A las armas me dispuse | Guerreando; | E diré cómo abreviando, | Porque dilacion s'excuse.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 199."
+        },
+        {
+          "texto_cita": "«A mayores é menores | Abreviat los benefiçios.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 233."
+        },
+        {
+          "texto_cita": "«En espacio abreuiado | Poco mas de veynte añyos | Vi tunbos muy estranyos | Al mundo desvariado.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": "p. 642."
+        },
+        {
+          "texto_cita": "«Por vos lynda, esmerada | Ssea çedo visitado | Un vestro leal provado | Con lymosna abreviada.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 63. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Pero non vos enojedes si el pleyto se alongare, | Ca non podrian los terminos menos se abreviare.»",
+          "autor": "Pal.",
+          "referencia_obra": "319 (R. 57. 435 1 )."
+        },
+        {
+          "texto_cita": "«Quiero vos abreviar la predicaçion, | Que siempre me pagué de pequenno sermon.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1580 (R. 57. 277 1 )."
+        },
+        {
+          "texto_cita": "«Esta fue su respuesta; su dicho abreviado.»",
+          "autor": "",
+          "referencia_obra": "Id. 1273 (R. 57. 267 1 )."
+        },
+        {
+          "texto_cita": "«Don Juan fizo escrevir estos versos en que está abreviada toda la sentencia deste exemplo.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 24 (R. 51. 372 2 *abreviadamente). — SigloXIII:"
+        },
+        {
+          "texto_cita": "«Et quando nos paramos mientes que esto así era, non pudiemos abreviar aquellas qüestiones erradas.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, p. XVI 2 ."
+        },
+        {
+          "texto_cita": "«Por toller el enganno de estos atales, conviniemos de abreviar las cosas.»",
+          "autor": "",
+          "referencia_obra": "Ib. 10. 1. 18 (167 1 )."
+        },
+        {
+          "texto_cita": "«Por confortar los omnes el anviso varon, | Abrevio, non quiso fer luenga oraçion.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 304 (R. 57. 49 2 )."
+        },
+        {
+          "texto_cita": "«Contarvos mi facienda serie luenga tardanza, --- | Abreviarlo quiero, e non fer alonganza.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 133 (R. 57. 44 1 )."
+        },
+        {
+          "texto_cita": "«Oró al cuerpo sancto oracion breviada, | Dixo palabras pocas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 98 (R. 57. 42 2 )."
+        },
+        {
+          "texto_cita": "«Mostrolis el pater noster sermon abreviado.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacrif. 253 (R. 57. 88 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. bajo abbreviare, compuesto de ad , que expresa la reducción á cierto estado, y brevis, breve. Port., cat., mall., prov. abreviar; val. : abreviar y abreujar; fr. abréger; it. abbreviare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. : en general. — Refl.: 1, a, α , α α - 1, b, α , α α . — Absol.: 2, β - 5, β . — Intrans.: 2, γ - 5, γ , δ , ε . — Part. : 1, a, α , β β - 1, b, α , β β . — Con con : 5, γ . — De: 2, γ - 4, α, γ . — En: 4, a - 5, δ . — Para: 5, ε . \u0000"
+}

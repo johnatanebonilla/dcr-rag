@@ -1,0 +1,252 @@
+{
+  "lema": "MARTIRIZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Atormentar, quitar la vida con torturas por causas religiosas ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A quien poco antes que los martirizasen confesó y dio el Santísimo Sacramento el venerable Padre Fr. Juan de los Ángeles.»",
+              "autor": "Lope",
+              "referencia_obra": ", Japón , 184 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«A Diego Beltrán, mocito de edad de catorce años, martirizaron dos herejes.»",
+              "autor": "L. Mármol",
+              "referencia_obra": ", Rebel . 4. 20 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Pocos días antes que le martirizasen, escribió a ciertos amigos suyos una carta, en que entre otras razones dice ---.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma 2. 33 ( Dicc. Autor .)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Maltratar, molestar, afligir ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Martirizando a mis padres, cansando a mis amigos, y importunando a mis deudos, acudía a la conservación deste amor, que casi siempre es el dinero.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino , 2 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Mar ¡ay! que mi admiración se aumenta, | Y con ella el dolor que martiriza | Un alma que de penas se alimenta.»",
+              "autor": "Vaca",
+              "referencia_obra": ", Poes . (R. 61. 301 1 ). X"
+            },
+            {
+              "texto_cita": "«Lo frívolo de los que se llaman respetos humanos, de los quales se dexó arrastrar, y de la nada de todas las grandezas humanas, son otras tantas furias que despedazan, que martirizan el corazón de un infeliz condenado.»",
+              "autor": "Isla",
+              "referencia_obra": ", Año christ . 26 (p. 398). X"
+            },
+            {
+              "texto_cita": "«Las tres manifestaban horrible crueldad en martirizarla. No podemos explicarnos esto. ¿Era tal vez efecto de la reconcentración y sequedad de espíritu producidas por la falta de amor y de los goces de la vida?»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", La fontana de oro , 16 (p. 158). X"
+            },
+            {
+              "texto_cita": "«Un vientecillo insensato, | Infligiendo a las ramas patibularios quiebros, | Resulta sobre manera grato | A nuestros estallados cerebros. | Y el amor se desvela martirizando un gato.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. poética complet , p. 172. X"
+            },
+            {
+              "texto_cita": "«Aun no sabes soñar. Te martiriza | El solo pensamiento del combate.»",
+              "autor": "J. Lozano",
+              "referencia_obra": ", Son . p. 72. X"
+            },
+            {
+              "texto_cita": "«El molinero, estuvo inquieto durante la fiesta. No sabía qué hacer. Tomaba cerveza y pisco con uno y con otro; no se detenía a conversar con nadie; y en el camino de vuelta fue retrasándose, con su viejo caballo. Y no lo martirizó, no le hincó las espuelas en las viejas y supurantes heridas que la bestia tenía en los costados.»",
+              "autor": "Arguedas",
+              "referencia_obra": ", Diamantes ( Cuentos , p. 227)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tengo tan turbada | La imaginación, que dudo, | Resuelvo, temo, contrarias | Ideas a un tiempo mismo | Me martirizan el alma.»",
+              "autor": "Mor.",
+              "referencia_obra": "( Pagés , Dicc .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con a , para señalar el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y a ésta martirizo a celos, | Y, por no dormir con ella, | En cenando, que he cenado, | Armo luego una pendencia.»",
+              "autor": "Rojas",
+              "referencia_obra": "(NBAE. 18. 379). X"
+            },
+            {
+              "texto_cita": "«Doña Melchora, la tonta, | En estar celosa ha dado | Dél; y el modo de vengar | Este mantillesco agravio, | Ha sido martirizarle | A pellizcos y a porrazos.»",
+              "autor": "Cañizares",
+              "referencia_obra": ", El dómine Lucas , 2 (p. 514)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con la prep. con , para indicar el medio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que por no martirizarme con ellos, ni verme en los tragos en que ponen a quien los sigue, he tenido por mejor y más seguro, abrazarme con la pobreza, que abrazarme con la esperanza.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 5 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Monsieur Trebouchet, con un guiño de franchute petulante, martiriza al profesor de solfeo.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Viva mi dueño , 1. 15 (p. 25). X"
+            },
+            {
+              "texto_cita": "«Los hombres nos humillan con sus pies acorazados, las mujeres nos insultan con sus necios temores, los chicos nos martirizan con sus juegos.»",
+              "autor": "Marechal",
+              "referencia_obra": ", Adán Buenosayres , 3. 1 (p. 221). X"
+            },
+            {
+              "texto_cita": "«Su conciencia culposa ---, le recuerda sin cesar sus obligaciones funcionarias, lo martiriza con la evocación de la inquietud de su mujer.»",
+              "autor": "Rama",
+              "referencia_obra": ", Nuevo narrador , ( Salvador Garmendia , p. 17)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Muestra las rayas de tigre! Durante un rato prosiguió el atroz suplicio; y no deseo que los niños que me oyen vean martirizar de este modo a ser alguno.»",
+              "autor": "Quiroga",
+              "referencia_obra": ", Juan Darién ( Cuentos , p. 33)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con la expresión delante de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al anochecer, cuando los alervos se reunían para rezar el Ave María, en el corredor de la casa-hacienda, a esa hora, el patrón martirizaba siempre al pongo delante de toda la servidumbre; lo sacudía como a un trozo de pellejo.»",
+              "autor": "Arguedas",
+              "referencia_obra": ", El sueño ( Cuentos , p. 258)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ ζ )",
+          "definicion": "Con para y una prop. subjuntiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ignara Pitonisa, | La humanidad no acierta | A comprender que Dios la martiriza | Para que viva a su misión despierta.»",
+              "autor": "Núñez",
+              "referencia_obra": ", Poes . p. 176."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Martirizábase toda | Con mudas nazeistes y aguas, | Y por momentos tenía | Todo el gran turco en la cara.»",
+              "autor": "Lope",
+              "referencia_obra": ", El llegar en ocasión , 205 Vº ( Fdz. Gómez , Vocab. de Lope )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con por . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues ¿no es cosa dichosa, que pueda yo regalarme con obediencia y gane más que martirizándome por mi voluntad?»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Venga el Monarca Español, | Y halle martirizados | Sus Alemanes amados.»",
+              "autor": "Lope",
+              "referencia_obra": ", El cerco de Viena , 27 ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«Aquella noche, Villaamil no estaba para lecciones, lo que agradeció mucho el pequeño, quien por el bien parecer empezó a desdoblar las hojas del martirizado texto, planchándolas con la palma de la mano.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Miau , 4 (p. 42)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿A dónde podrá ir una dueña con barbas? ¿Qué padre o qué madre se dolerá della? ¿Quién la dará ayuda? pues aun cuando tiene la tez lisa, y el rostro martirizado con mil suertes de menjurjes y mudas, apenas halla quien bien la quiera, ¿qué hará cuando descubra hecho un bosque su rostro?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 39 (R. 1. 486 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con de . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No podemos vivir sin tener los coraçones crucificados de cuidados, y los cuerpos martirizados de trabajos.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst . 2. 12 (Cl. Esp. 12. 173)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con por , para señalar: — la causa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pequeñuelo comenzó a llorar, martirizado por el hambre y el frío de la mañana.»",
+              "autor": "",
+              "referencia_obra": "Blasco Ibáñez, Cañas y barro , 8 (p. 198). — El modo. X"
+            },
+            {
+              "texto_cita": "«Y no eran sus adornos [de las zagalas de la edad dorada) de los que ahora se usan, a quien la púrpura de Tiro y la por tantos modos martirizada seda encarecen, sino de algunas hojas de verdes lampazos y hiedra, entretejidas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 11 (R. 1. 275 1 ; Cl. C. 4. 252)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del bajo lat. martyrizare y éste de martyr del gr. μαρτυζ . Cat. martiritzar , fr. martyriser , it, martirizzare , port. martirizar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

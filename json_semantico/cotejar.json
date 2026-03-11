@@ -1,0 +1,342 @@
+{
+  "lema": "COTEJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Examinar un objeto para estimar el grado de sus cualidades ó las circunstancias que lo constituyen mejor o peor que otro ( trans .) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Qué perro es éste, que tiene señales de ser bueno? Bien lo puede vuesa merced creer, respondió el pastor, que yo le he cotejado bien, y no hay señal en él que no muestre y prometa que ha de ser un gran perro.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Col . (R. 1. 228 2 )."
+        },
+        {
+          "texto_cita": "«Pareceráles que no se compadecen con nuestra edad y vida acciones tan heroicas, porque la impiedad de sus ánimos no les deja ahondar más profundos cimientos: son los suyos de arena, y como deleznables, cotejan y regulan por sí mismos los efetos ajenos.»",
+          "autor": "Césp. y Men.",
+          "referencia_obra": "Sold. Pínd . 1. 21 (R. 18. 317 1 )."
+        },
+        {
+          "texto_cita": "«Con una modestia excesiva dio [el duque de Guisa] en cotejar á su tío y en temer ser rey.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos , 6 (R. 28. 74 2 )."
+        },
+        {
+          "texto_cita": "«Cotejad ahora brevemente esta diferencia; ¿quién somos, señores, y contra quién nos armamos?»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal . 3 (R. 21. 488 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Comparar y confrontar una cosa con otra teniéndolas a la vista. Se dice de lo material, y por extensión de lo inmaterial ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Aparece como acus. uno de los objetos comparados, y el otro lleva con , cual si fuese la medida, el tipo que se emplea para la estimación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como hacen los mercaderes, cotejando unas piezas de púrpura con otras, para que lo subido desta descubra lo bajo de aquélla, y se haga estimación cierta de ambas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 16 (R. 25. 44 2 )."
+            },
+            {
+              "texto_cita": "«A cada palabra que leía ponía los ojos en D. Quijote, y iba cotejando las señas, del mandamiento con el rostro de D. Quijote, y halló que sin duda alguna era el que el mandamiento rezaba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 45 (R. 1. 383 2 )."
+            },
+            {
+              "texto_cita": "«Este libro de Valcavado habían traído agora aqui a León para cotejarlo con estotro de san Isidoro, y así yo lo vi.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Viaje, p. 52."
+            },
+            {
+              "texto_cita": "«No solamente he trabajado en verlos [aquellos libros] y examinarlos, que es lo que el Consejo mandó, sino también en cotejarlos con los originales mismos que estuvieron en mi poder muchos días.»",
+              "autor": "León",
+              "referencia_obra": ", dedic. Obr. Sta. Ter. (4. 210)."
+            },
+            {
+              "texto_cita": "«Por tanto, todos han de procurar, y principalmente los sacerdotes, aplicarse á las ]enguas orientales, para no llegar á interpretar cosa alguna sin haberla bien antes examinado y cotejado con las fuentes orininales y lugares paralelos, valiéndose para esto de las concordancias y otros subsidios.»",
+              "autor": "Scío",
+              "referencia_obra": ", Biblia, disert. prel. 2, § 4. —"
+            },
+            {
+              "texto_cita": "«Aunque en esto decía verdad [el fariseo], cotejaba su justicia con las obras exteriores pasadas del publicano; por lo cual salió condenado por presumir de justo.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 272)."
+            },
+            {
+              "texto_cita": "«Es inclinado [nuestro entendimiento] á cotejar unas cosas con otras, discurriendo por ellas.»",
+              "autor": "León",
+              "referencia_obra": "Nomb. 2, Brazo (3. 146)."
+            },
+            {
+              "texto_cita": "«Quien considera lo que deben ser las mujeres y lo que ellas mismas se hacen y quien mira la alteza de su naturaleza y la ba jeza en que ellas se ponen por su mala costumbre, y coteja con lo uno lo otro, poco dice en llamarlas ansí.»",
+              "autor": "",
+              "referencia_obra": "Id. Perf. cas. 9 (3. 461)."
+            },
+            {
+              "texto_cita": "«Lastímame mi vida, Señor, cuando la cotejo con la suya., Sta. Ter. Fund. 4 (R. 53. 187 1 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Cotejando con su experiencia la lección del Eclesiastes, viendo como era todo uno --- trocó totalmente la vida.»",
+              "autor": "",
+              "referencia_obra": "Sig . Vida de S. Jer . 4. 6 (296)."
+            },
+            {
+              "texto_cita": "«Este fue el fin de la santa reina doña Catalina --- Veamos el fin de Ana Bolena, que le sucedió en el reino, y cotejemos linaje con linaje, vida con vida y muerte con muerte.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 33 (R. 60. 218 2 )."
+            },
+            {
+              "texto_cita": "«Quien le leyere [aquel decreto] y cotejare bien lo que en él se dice con lo que en verdad pasa, verá claramente que se hizo sin tener noticia de la verdad.»",
+              "autor": "",
+              "referencia_obra": "Id . Vida de S. Ign. 4. 11 (R. 60. 108 2 )."
+            },
+            {
+              "texto_cita": "«Cotejaban los méritos con las mercedes.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 1 (R. 21. 465 2 )."
+            },
+            {
+              "texto_cita": "«Otros dicen que cotejándole con su instrucción secreta, juzgó ser éste el uno de los casos en que se le ordenaba la retirada.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 4 (R. 21. 515 1 )."
+            },
+            {
+              "texto_cita": "«Cuando el espectador ve representar al vivo lo que oyó contar desde su infancia, siente un placer sumamente grato; coteja con gusto sus vagos recuerdos con los sucesos que ve ante sus ojos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Moraima , advert. (3. 191)."
+            },
+            {
+              "texto_cita": "«No basta, repito, hacer, una enumeración prolija de lo que hicieron los gobiernos, si no cotejarlo con las necesidades de los pueblos, y volver la vista á lo que dejaron de hacer.»",
+              "autor": "",
+              "referencia_obra": "Id . Esp. del siglo, 1. 5 (5. 17)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué locura y liviandad | Es querer tú en dignidad 1 Cotejarte aquí conmigo?»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, diál. entre Mem. y Olv. (R. 32. 213 3 )."
+            },
+            {
+              "texto_cita": "«Nunca dejemos de examinarnos y juzgarnos, ni de poner los ojos en las vidas y costumbres de aquellos clarísimos padres que resplandecieron como lumbre del cielo, examinándonos y cotejándonos con ellos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir. 22 (R. 11. 342 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parece que dan muestra de edificio más nuevo, si se cotejan aquellas murallas, mayormente las dichas torres, con la parte de los muros de Toledo que edificó el rey Wamba.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 4. 14 (R. 30. 106 1 )"
+            },
+            {
+              "texto_cita": "«En dos epístolas escritas á Dámaso está repartida esta disposición, en que San Jeronimo, hizo prueba de su ingenio. Cotéjense con lo más erudito de toda Iglesia griega, y latina si se hallará cosa mas grave ni mas cabal, para que se en tienda que en lo que Jerónimo probó la mano y donde comenzó su ingenio, es donde podemos decir que acabaron los muy aventajados padres de la Iglesia»",
+              "autor": "",
+              "referencia_obra": "Sig . Vida de S. Jer. 3. 4 (167)."
+            },
+            {
+              "texto_cita": "«¿No sería regular que, cotejándose los defectos del sistema antiguo con las ventajas del moderno, se abrazase éste?»",
+              "autor": "T. Iriarte",
+              "referencia_obra": "Liter. en cuaresma (7. 37)."
+            },
+            {
+              "texto_cita": "«Cotéjense sus composiciones [de Mena] con las de los poetas coetáneos suyos, y se conocerá fácilmente esta intención.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos, 2, p. 18."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ellos, cotejado el un tiempo con el otro, juzgaron les estaba más a cuento y mejor obedecer á su príncipe con seguridád, que la contumacia con peligro y daño.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 22 (R. 30. 398 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué proporción puede haber del tiempo breve á la eternidad, con la cual cotejados diez mil años no son más que una gota de agua respecto de la inmensidad del mar?»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 8 (R. 60. 373 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , á semejanza de comparar (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya que de estas cosas se entienda, no quiere que se tengan en poco en sí mismas, sino cotejadas á otras mayores.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 76 (2. 24)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aparece como acus. el conjunto de los objetos comparados.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cotejar después los unos y los otros ejemplares, que era menester á cada paso, [era] trabajo incomportable.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 4. 4 (255)."
+            },
+            {
+              "texto_cita": "«Las sepulturas --- tienen todas sus epitafios en latín, en verso algunas y otras en prosa, y tiénenlos muy fielmente sacados los canónigos en una tabla, que yo los cotejé y los llevo.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Viaje , p. 42."
+            },
+            {
+              "texto_cita": "«De allí sacaba la azucena y rosa, | Y la llegaba á su purpúreo rostro | Y á su cándido cuello, cotejando | Las colores, y luégo muy ufana | De la victoria, un tanto se lo reía, | Como diciendo: Yo en efeto os venzo.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 2 (R. 42. 138 2 )."
+            },
+            {
+              "texto_cita": "«El primero [el Fuero Real] quedó en vigor en todo lo que no fuese contrario; y quien cotejare los dos códigos hallará que la derogación pudo alcanzar a pocos y señalados artículos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "carta al Dr. San Miguel (R. 50. 151 1 )."
+            },
+            {
+              "texto_cita": "«Cotejando entrambas obras, me parece que se descubre en la, portuguesa el verdadero original.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp . (2. 46)."
+            },
+            {
+              "texto_cita": "«Y así cotejando las suertes de estos dos hombres [Lázaro y el rico], tengo de escoger para mí la de Lázaro.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 24 (2. 172)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con un compl. recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No solamente haga vuestra alteza esta comparación de sus virtudes y acciones, sino también coteje entre, sí las de sus antepasados. Poniendo juntas las púrpuras de unos manchadas con sus vicios, y las de otros resplandecientes con sus acciones heroicas porque nunca mueven más los ejemplos que al lado de otros opuestos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 16 (R. 25. 45 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cotejáronse luégo los trozos de la cadena, y hallaron ser las señas verdaderas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 8 (R. 1. 197 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cola fue de notar la gran diversidad que tenían estas gentes, así de figuras y semblantes, como de sus armas y traje: tanto que, cotejados entre sí, no parecían hombres los unos á comparación. de los otros.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón . 5. 34 (2. 534)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Admite un compl. con en para expresar el punto á que se refiere la comparación, como el campo donde se colocan los objetos para el cotejo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si se coteja[San Pedro le Roma_], ya en las proporciones ya en los ornatos, con las pocas que ha perdonado el tiempo y que nos acuerdan la feliz época de las artes en la antigua Roma, se halla por cierto que es muy inferior á aquellos modelos admirables.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 422."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Falta á veces uno de los términos de la comparación por sugerirlo el contexto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se dice en él [en el manuscrito] de dónde se sacó la copia, pero se ven señales de la escrupulosidad con que se hizo en las enmiendas meramente ortográficas que se encuentran entre líneas, é indican que su dueño la cotejó después de escrita con la mayor y mas exquisita diligencia.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is .la Cat. ilustr. 13 ( Mem. Acad. Hist . 6. 354)."
+            },
+            {
+              "texto_cita": "«El que deseare ver hasta qué punto puede llegar nuestra lengua á competir con la italiana, coteje la traducción del Aminta hecha por Jáuregui luchando con un poeta tan esclarecido como Tasso.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. de la Poét. 2. 16 (1. 140)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«i Que cosa tan d’escusar | Vender miel al colmenero --- | E con blanca flor de lis | Cotejar symientes prietas ¡»",
+          "autor": "Santill.",
+          "referencia_obra": "CXXII)."
+        },
+        {
+          "texto_cita": "«Coteja con los ajenos | Mi pecado, y fallarás | Quanto es en fama mas | Tanto ser en culpa menos.»",
+          "autor": "Mena",
+          "referencia_obra": "( Canc. de G. Manr. 1. 273)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. cotejar . En it . quotare es poner por su orden, señalar el lugar que por su orden corresponde á algo; en prov. quotar, fr. coter , marcar por su orden; en cat. cotar , tasar, medir; en val. cot , regla, medida ó tasa, que es nuestro coto por postura, tasa y por la medida que consta de los cuatro dedos de la mano cerrada ésta y levantado sobre ella el pulgar. Todas estas voces proceden del lat. quotus , cuál por su orden, cuál en la serie (correspondiente á los ordinales primus, secundus, etc.). El sufijo.de nuestro verbo es etimológicamente el mismo que car ( lat. icare ) en cuartear, prorratear (véase Diez, Gram . 2. 366 sgs.). Así que Covarrubias anduvo acertado diciendo que se dijo de quotus, a, um ,",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«porque apreciamos cada una cosa en lo que vale y se puede estimar.»",
+          "autor": "",
+          "referencia_obra": "En APODAR notamos cómo del sentido de Calcular, estimar, se pasa al de Comparar, tomándose una cosa como medida de otra. Agregaremos el ejemplo no menos curioso de asmar = estimare, que de Apreciar pasó á significar Comparar:"
+        },
+        {
+          "texto_cita": "«Si él podiese probar manifiestamente quel fue fecha fuerza, o robo ó engaño, maguer non podiese averíguar quantas cosas perdió por aquela razon, nin quanto valien, debe et puede el judgador asmar et apreciar segunt su alvedrio aquellas cosas que dice que perdió.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 11. 2 (2. 471)."
+        },
+        {
+          "texto_cita": "«El juzgador debe catar quales la persona de aquel que lo aprecia et otros la del muerto á quien ficieron la deshonra, et si viere que es mucho aquello que, demanda, asmadas estas cosas débelo estimar segunt su alvedrio.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 13. 14 (1. 390)."
+        },
+        {
+          "texto_cita": "«El judgador deve catar estas cosas, e asmando las unas con las otras, si fallare que son eguales, deve judgar asi como dixiemos en el comienzo desta ley.»",
+          "autor": "",
+          "referencia_obra": "Espéc . 4. 7. 33 (0. L. 1. 213)."
+        },
+        {
+          "texto_cita": "«Non fables ante ningun omne fasta que oyas sus palabras, e asmarás la tu sapiencia con la suya.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust. 59). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

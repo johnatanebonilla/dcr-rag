@@ -1,0 +1,459 @@
+{
+  "lema": "ÁL.",
+  "categoria_gramatical": "",
+  "introduccion": "ÁL. Otro, otra cosa. Este vocablo, comunísimo en el período anteclásico, vino á desaparecer del uso corriente en el siglo XVII; ya en la primera mitad del XVI escribía Valdés : «No digo ál adonde tengo de decir otra cosa ; aunque se dice: So el sayal hay ál, y En ál va el engaño.» Diál . (Mayans, 82). Hoy no se conserva, según la Academia, sino en las montañas de Burgos. Sus aplicaciones en los siglos XVI y XVII eran las siguientes:",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Como adj. sustantivado y acompañado del artículo neutro lo : Demás.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En nuestra edad se ablandan los naturales y enflaquecen con la abundancia de deleites y con el aparejo que hay de todo gusto y regalo de todas maneras en comida y en vestido en todo lo ál.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 1. 6 (R. 30. 7 1 )."
+        },
+        {
+          "texto_cita": "«Se decretó la guerra contra los moros, y para ella en todo el reino se hizo mucha gente y se proveyeron armas, lanzas, caballos, bastimentos, dineros y todo lo ál necesario.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 16. 15 (R. 30. 482 1 )."
+        },
+        {
+          "texto_cita": "«Toda la vida y todos los sentidos emplea en tratar dél, olvidado de sí y de todo lo ál.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 1. 19, § 2 (R. 6. 72 1 )."
+        },
+        {
+          "texto_cita": "«Y si para aquel tiempo pudiesen ayudar en algo las cosas desta vida, como ayudan para todo lo ál, menos mal sería.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 24 (R. 6. 87 1 )."
+        },
+        {
+          "texto_cita": "«Sobrepuja [Dios] todos los sentidos y entendimientos y se diferencia y aventaja infinitamente de todo lo ál.»",
+          "autor": "",
+          "referencia_obra": "Id. Símb . 1. 38, § 10 (R. 6. 282 2 )."
+        },
+        {
+          "texto_cita": "«Si la astuta serpiente sabe poner todo el cuerpo á peligro por asegurar la cabeza --- ¿cuánto más debíamos nosotros poner á riesgo todo lo ál por asegurar á Cristo, nuestra cabeza?»",
+          "autor": "",
+          "referencia_obra": "Id. Adic. al Mem. med . 9, § 1 (R. 8. 526 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Como sust. neutro: Otra cosa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al, madrina, que eso yo me lo sabía.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ","
+        },
+        {
+          "texto_cita": "«Tango vos el mi pandero, | Tango vos, y pienso en ál.»",
+          "autor": "Covarr.",
+          "referencia_obra": "sb. voc."
+        },
+        {
+          "texto_cita": "«Ellas [las hacas] que, á lo que pareció, debían de tener más gana de pacer que de ál, recibiéronle con las herraduras y con los dientes.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 15 (R. 1. 283 2 )."
+        },
+        {
+          "texto_cita": "«No pienses que me descuido | Del remedio de tu mal; | Antes en él tanto cuido, | Que casi no pienso en ál.»",
+          "autor": "",
+          "referencia_obra": "Id. Pedro de Urdemalas , 1 ( Com . 2. 253)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Aplicando el refr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Debajo del sayal hay ál,»",
+              "autor": "Cerv.",
+              "referencia_obra": ":"
+            },
+            {
+              "texto_cita": "«Pues sepa que este sayal | Tiene encubierto algún ál | Que puede honrar un linaje.»",
+              "autor": "",
+              "referencia_obra": "El gallardo español , 2 ( Com . 1. 26)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Usábase con el que comparativo, lo mismo que otro .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De ál me vengue Dios, que del pastor, agua y nieve.»",
+              "autor": "",
+              "referencia_obra": "Refr. en Mallara, 1. 38."
+            },
+            {
+              "texto_cita": "«El no poder saltar las bardas del corral ni apearse del caballo, en ál estuvo que en encantamentos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 18 (R. 1. 290 2 )."
+            },
+            {
+              "texto_cita": "«Non vos lo digo porque os acuitedes ni mostredes mal talante, que el mío non es de ál que de serviros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 2 (R. 1. 259 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "—α α )",
+          "definicion": "Remedando á Cervantes lo ha usado Clemencín en esta forma; pero fuera de una obra como el Comentario , se miraría como censurable afectación de arcaísmo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La hermosura y atractivos de las andaluzas en ál consisten que en lo blanco de la tez y en lo rubio de los cabellos.»",
+              "autor": "",
+              "referencia_obra": "Coment . 2, p. 392."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con sino .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por este desierto se ha de entender este mundo, que no es ál sino un gran desierto poblado de mucha gente.»",
+              "autor": "",
+              "referencia_obra": "Commend. Griego Lat . 16 (6 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Al tanto se usaba de dos maneras:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Como frase sustantiva: Otro tanto, igual cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encargaos de la tenencia desta villa y fortaleza, y ved lo que se da de tenencia con el más principal de la frontera, que ál tanto y más vos mandaremos pagar con ésta.»",
+              "autor": "Pulgar",
+              "referencia_obra": ", Hazañas del Gran Capitán (M de la Rosa, 4. 86)."
+            },
+            {
+              "texto_cita": "«Estos soldados ganaron de camino á Monzón, castillo asentado no lejos de Palencia; ál tanto hicieron de otros pueblos por aquella comarca.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 8. 12 (R. 30. 241 2 )."
+            },
+            {
+              "texto_cita": "«Como entretenimiento | Fue para mí la Mosquea , | Ojalá que acepta sea, | Sin que murmures su canto; | Que yo ofrezco hacer ál tanto | Siempre que las tuyas vea.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. pról . (R. 17. 572 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": ". Como frase adverbial: Igualmente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con esta disimulación quedó Hanón más orgulloso; resolvióse de tomar las armas al descubierto, y para matar los principales y apoderarse de la ciudad armó sus esclavos, que eran valientes y en gran número. Fue ál tanto descubierta esta prática.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 4 (R. 30. 32 2 )."
+            },
+            {
+              "texto_cita": "«Convencido del delito, le despeñaron del monte Tarpeyo; la hija ál tanto fue muerta.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 1 (R. 30. 88 2 )."
+            },
+            {
+              "texto_cita": "«Su codicia ál tanto le hizo muy odioso.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 4 (R. 30. 94 1 )."
+            },
+            {
+              "texto_cita": "«Bolea, que es un pueblo á la raya de Navarra --- se ganó de los moros. Al tanto Monzón, villa fuerte en aquella comarca.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 10. 2 (R. 30. 277 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Usábase á veces con significacion de plural. Nótense las construcciones si ál que non = si otra cosa no, non ál sino ó salvo ). — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Lo qual parecia muy grave á todos los que lo veian é mucho mas al infante en cuyo corazon no habia al, salvo toda bondad é limpieza.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ",1. 2 (R. 68. 278 2 )."
+        },
+        {
+          "texto_cita": "«El qual [Salomón] habiendo mandamiento de Dios que pidiese lo que quisiese, no demandó al, salvo seso para regir y governar su pueblo.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener . 33 (R. 68. 713 1 )."
+        },
+        {
+          "texto_cita": "«El honor | Es prea del honrador: | Errará quien al dixiere.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 204."
+        },
+        {
+          "texto_cita": "«Esta membrança non es al saluo de las penas del infierno, que en quanto hombre piensa en ellas abstienese del pecar.»",
+          "autor": "Mena",
+          "referencia_obra": ", Cor . 26 (14 2 )"
+        },
+        {
+          "texto_cita": "«Algunos caballeros, veyendo la sinrazon que tenia, avian fablado con él contestandole su razon, é que non levaba buena via; mas el deciales uno, é tenia ál en la voluntad, é facia ál quando podia.»",
+          "autor": "",
+          "referencia_obra": "Crón . P. Niño , p. 215."
+        },
+        {
+          "texto_cita": "«Todos son aventureros: ponense á la una parte diez, ó veinte, ó treinta, ó mas; é al tantos de la otra.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 130."
+        },
+        {
+          "texto_cita": "«Ved el poder de Dios tan grande, que muchas veces acaesce ir una nao de España en Jerusalén, é tornar en al tanto tiempo.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 128."
+        },
+        {
+          "texto_cita": "«El duque de Orliens envió por él é le dixo, que non afincase aquel fecho tanto porque ellos tenian grandes negocios é muchos de librar --- e al tanto le dixo el duque de Borgoña por su parte.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 119."
+        },
+        {
+          "texto_cita": "«Siembran [los alárabes] su pan é sus semillas en una tierra, é dejanlo, é vanse á otra tierra, é facen al tanto; é despues al tiempo vuelven á coger lo que dexaron sembrado.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 74."
+        },
+        {
+          "texto_cita": "«Lo peor es que bondat | Pocas veses seguir quieres, | E si alguno [á alguno? alguna?] bien fesieres, | Es enfinta é al non.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 520."
+        },
+        {
+          "texto_cita": "«A vos muy sin condicion | Ofresco mi atavio, --- | Vestro sea de buen grado: | Al non quiero nin porfio.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 160. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Todos le obedesçen, non es quien diga al; Sy yo al dixiese, çierto diria mal.»",
+          "autor": "",
+          "referencia_obra": "Rim. de Pal . 1150 (R. 57. 463 1 )."
+        },
+        {
+          "texto_cita": "«E non fagades ende al so pena de la nuestra merced.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1378 ( Esp. sagr . 39. 252)."
+        },
+        {
+          "texto_cita": "«Tomen un pedazo de la piedra del alumbre, et un pedazo de terrazo, et del escoria de la plata al tanto, et quémenlo, et muélanlo.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 2. 28 ( Bibl. venat. 1. 197)."
+        },
+        {
+          "texto_cita": "«Aqui vos fablaré uno, allí vos fablaré al.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 642 (R. 57. 247 1 )."
+        },
+        {
+          "texto_cita": "«Comia yerbas montesas, como buey, paja et al.»",
+          "autor": "",
+          "referencia_obra": "Id. 296 (R. 57. 236 2 )."
+        },
+        {
+          "texto_cita": "«Ellas [las hormigas] meten cuanto pueden haber en sus casas, et non captan por ál sinon por traer cuanto fallan.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc . 36 (R. 51. 390 2 )."
+        },
+        {
+          "texto_cita": "«En esto faredes muchos bienes. Lo primero que faredes servicio a Dios; et lo al faredes vuestra honra.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 21 (R. 51. 404 1 )."
+        },
+        {
+          "texto_cita": "«Al dean pesó mucho con estas nuevas; lo uno por la dolencia de su tio, lo al por recelo que habria á dejar su estudio tan aína.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 13 (R 51. 379 2 )."
+        },
+        {
+          "texto_cita": "«Díjole --- que andaria con él a caza et le faria cuanto servicio pudiese en aquello et en ál.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 6 (R. 51. 394 1 )."
+        },
+        {
+          "texto_cita": "«Non pudo creer por ninguna guisa que don Alvarfañez pudiese errar nin pudiese ser verdad ál sino lo que él decia.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 5 (R. 51. 398 2 )."
+        },
+        {
+          "texto_cita": "«Faciendo esto podedes dejar todo lo ál, et estar siempre en servicio de Dios, et acabar así vuestra vida.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 4 (R. 51. 374 1 )."
+        },
+        {
+          "texto_cita": "«Vernávos ende mucho bien: lo uno que haberedes de vuestra parte a Dios --- et lo al, que todas las gentes ternán que facedes derecho en lo que facedes.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2 (R. 51. 384 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Et uos nin ellos non fagades ende al por ninguna manera.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid , año 1299 ( C. de L. y C. 1. 145)."
+        },
+        {
+          "texto_cita": "«Et si non hobiere de que lo pechar, sirva tanto tiempo fasta quel rey sea entregado de lo que le tomó con al tanto.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 17. 1 (2. 146*)."
+        },
+        {
+          "texto_cita": "«La lealtad les fará guardar de yerro, et la firmedumbre que non sean movidos de uno á al, que es cosa que non conviene á los defendedores.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 21. 22 (2. 215)."
+        },
+        {
+          "texto_cita": "«Pruébase por la vieja ley en que camiaban una cosa por otra en las premicias que habian de ofrecer, que las redemian en otra manera dando al por al.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 8. 4 (1. 320)."
+        },
+        {
+          "texto_cita": "«Si el demandado non quisiere responder alla demanda quel face su contendor, que asienten al que demanda en la buena de su contendor por mingua de respuesta, en al tanto quanto es la demanda.»",
+          "autor": "Leyes nuevas",
+          "referencia_obra": ", 9 ( O. L. 2. 186)."
+        },
+        {
+          "texto_cita": "«Aun y a al, que en el alzada que es fecha sobre el juyzio afinado, qualquier de las partes que sea vencida, deve pechar las costas a la otra.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 430)."
+        },
+        {
+          "texto_cita": "«La nobleza de su corazon non quiere ál salvo parecerse é mostrarse.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 21 2 )."
+        },
+        {
+          "texto_cita": "«Al tanto es el amor quanto lo que te a mester.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, Mitth . 6)."
+        },
+        {
+          "texto_cita": "«Deve adocir la credat a particion, e la ropa, e el vaso de plata, e si non lo trogier, devese entregar cada uno de los ermanos en sendos al tanto, si ovier de que.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 5. 3 (130)."
+        },
+        {
+          "texto_cita": "«E si le dier fiador, devela apear aquella eredat quel da, en que pueda auer derecho del por al tal.»",
+          "autor": "",
+          "referencia_obra": "lb . 3. 7. 2 (100)."
+        },
+        {
+          "texto_cita": "«Puede demandar al otro que fiador, si quisier, quel peche al tanta eredat como aquella, quel´ ganó en juicio.»",
+          "autor": "",
+          "referencia_obra": "lb . 3. 6. 7 (99)."
+        },
+        {
+          "texto_cita": "«El guespet de la casa devel´ dar una presa de paja, quanto podria tomar en amas manos, quando fueren al agua, e al tanto quando quisier dar cebada.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 8. 1 (36)."
+        },
+        {
+          "texto_cita": "«Pierda lo que demanda, y entregue al tanto á aquel que fue forzado.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 8. 1. 2. (133)."
+        },
+        {
+          "texto_cita": "«Despues quel acusado saliere sin culpa, el iuez constringa el acusador, fata quel presente aquel, quien le fiziera entender el furto, é si lo non pudiere presentar, si al que non, diga el nombre antel iuez.»",
+          "autor": "",
+          "referencia_obra": "Ib . 7. 1. 1 (119)."
+        },
+        {
+          "texto_cita": "«Dexen, si al que non, de fazer mal con miedo de pena lo que farian muchas vezes por su grado o pudiesen.»",
+          "autor": "",
+          "referencia_obra": "lb . 6. 5. 16 (117)."
+        },
+        {
+          "texto_cita": "«De la quinta parte daquello quel dio el marido puede fazer lo que quisiere, é despues de su muerte todo lo al finque á sus fiios.»",
+          "autor": "",
+          "referencia_obra": "lb . 5. 2. 4 (83)."
+        },
+        {
+          "texto_cita": "«Si el muerto non puede usar las cosas terrenales, derecho es que, si al que non, que pueda ganar las cosas celestiales.»",
+          "autor": "",
+          "referencia_obra": "lb . 4. 2. 18 (72)."
+        },
+        {
+          "texto_cita": "«Nengun omne non deve seer recibido en testimonia por carta, mas deve seer presente, é dezir la verdad que sopiere, é non diga al, si non lo que vio.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 4. 5 (34)."
+        },
+        {
+          "texto_cita": "«Por ende facemos esta sentencia tan cruel, que aquel que non teme sua morte, si al que non, tema la morte de sos fillos et de sua generacion.»",
+          "autor": "",
+          "referencia_obra": "lb. preámb . 12 ( XII )."
+        },
+        {
+          "texto_cita": "«Los vnos queryen lo vno, los otros queryen lo al.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 653 (R. 57. 409 1 )."
+        },
+        {
+          "texto_cita": "«Que avie muchos males de diversos colores, | Unos de gravedat, al de graves dolores.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 349 (R. 57. 51 1 )."
+        },
+        {
+          "texto_cita": "«Diçia entre sos dientes con una voz cansada: | Monte Olivete, monte Olivete ca non diçia al nada.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 147 (R. 57. 142 1 )."
+        },
+        {
+          "texto_cita": "«Dexemos lo al todo, a la siella tornemos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 89 (R. 57. 140 2 )."
+        },
+        {
+          "texto_cita": "«Rescibe este conseio, la mi fixa querida, | Guarda esta palomba, todo lo al olvida.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 37 (R. 57. 138 2 )."
+        },
+        {
+          "texto_cita": "«El cometer fue malo, que lo al nos enpeçó.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3542 (R. 57. 36 1 )."
+        },
+        {
+          "texto_cita": "«Mas quando esto ouo acabado penssaron luego dal.»",
+          "autor": "",
+          "referencia_obra": "lb . 3252 (R. 57. 34 1 )."
+        },
+        {
+          "texto_cita": "«Hyo tomé el casamiento, mas non osé dezir al.»",
+          "autor": "",
+          "referencia_obra": "lb . 2891 (R. 57. 30 2 )."
+        },
+        {
+          "texto_cita": "«Al sabor del prender de lo al non pienssan nada.»",
+          "autor": "",
+          "referencia_obra": "Ib . 592 (R. 57. 9 2 )."
+        },
+        {
+          "texto_cita": "«Lo al, todo lo del molino es nostro enteramientre.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1173 ( Berg. Antigüed. 2. 461)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. ant. al ; val. y cat. ant. als (Ausías March, Cants d'amor , 6); prov. al , als , como sust. y como adj. ; fr. ant. al , que se conserva en autant = ál tanto : todos del lat. alius , alia , aliud , otro; gr. – λλοV ; gót. alis ; al. ant. alles , elles , de otro modo, forma genitiva, lo mismo que el anglosajón elles , en ing. else ; — irl. ant. aile , otro. Es discutible la identidad con el sans. anyas ( Curtius 4 , Griech. Etym . 310, 359; Corssen, Krit. Beitr. 295; etc.). \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

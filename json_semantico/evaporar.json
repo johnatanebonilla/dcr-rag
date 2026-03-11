@@ -1,0 +1,412 @@
+{
+  "lema": "EVAPORAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Propiamente, Convertir en vapor una cosa, por lo general un líquido ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ráfagas estivales entreabren su camisa, | Y el sudor empeñoso que evapora la brisa | En rocío de fuerza brota sobre su pecho.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. poética complet. p. 824."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Evaporóse aquel sudor llevando el dolor de pensar a las esferas en que sufriendo el pobre pensamiento, buscando a Dios sin encontrarlo, vuela.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Andanzas y visiones esp. p. 180. X"
+            },
+            {
+              "texto_cita": "«Cuando empieza a evaporarse bajo el fuego del sol que ya sabemos, la poca sangre derramada, don Pánfilo está desarmado y prisionero.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 94). X"
+            },
+            {
+              "texto_cita": "«Aturdido por la noticia, José Arcadio Buendía permaneció inmóvil, tratando de sobreponerse a la aflicción, hasta que el grupo se dispersó reclamado por otros artificios y el charco del armenio taciturno se evaporó por completo.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Cien años de soledad (ed. 1977, p. 21)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, para indicar el objeto que causa la evaporación. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«O al sol se evapora | Su espuma delgada, | Del astro que adora | De amor abrasada.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes. (Cl. C. 95. 12). X"
+            },
+            {
+              "texto_cita": "«¡Ay de la flor si de la luz al beso | Se evapora esa perla! [una gota de rocío].»",
+              "autor": "Bécquer",
+              "referencia_obra": ", Rimas, p. 131. — met. X"
+            },
+            {
+              "texto_cita": "«Después de esa época el arte se hace niebla y las últimas gotas de la sobriedad clásica se evaporan al calor de un nuevo foco artificial y extraño.»",
+              "autor": "Herr.",
+              "referencia_obra": "Reissig, Poes. y prosa, p. 286."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. Con el mismo sentido que en la constr. reflexiva.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desnuda el brazo, el pecho descubierto, | Entre templada nieve | Evaporar contempla un fuego helado.»",
+              "autor": "Góng.",
+              "referencia_obra": "canc. amor. 3 (R. 32. 451 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me voy de ti con tus mismos alientos; | Como humedad de tu cuerpo evaporo.»",
+              "autor": "Mistral",
+              "referencia_obra": ", Antología, p. 99."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Oye mi canto desacorde y vago, | Onda de un casi evaporado lago | Que llora al pie de la temprana flor.»",
+              "autor": "Núñez",
+              "referencia_obra": ", Poesías, p. 289."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Convertirse en algo volátil. Con en.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya miro en polvareda | Radiosa evaporarse | Aquellas escamadas | Corazas centellantes.»",
+              "autor": "Martí",
+              "referencia_obra": ", Páginas escogidas, p. 12. X"
+            },
+            {
+              "texto_cita": "«Y hermosa y sonreída | En un rayo de luz se evaporó, | Dormida virgen que al primer ensueño, | Tocó el destino su preciosa frente.»",
+              "autor": "A. Montes del Valle",
+              "referencia_obra": ", Poesías (1. 81). X"
+            },
+            {
+              "texto_cita": "«Es éste un mirar toledano, el de quien a la puesta del sol, o la claridad de la luna, ve cómo la ciudad se evapora y se transforma en luz.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 50."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. Con aplicación a lo inmaterial.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas el dolor de su madre | Ni se pierde entre palabras, | Ni en suspiros se evapora, | Ni en lágrimas se desata.»",
+              "autor": "Lista",
+              "referencia_obra": ", rom. El puente de la viuda, 4 (R. 67. 376 1 ). X"
+            },
+            {
+              "texto_cita": "«El Greco era un pintor de gerundios: de cuerpos transformándose en almas, de colores descomponiéndose en luces, de líneas evaporándose en conceptos.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 51. X"
+            },
+            {
+              "texto_cita": "«La historia, cuando llega a Toledo, se evapora en leyenda.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 57."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Part. adj. Vano, ligero, de poco peso.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Conozco lo maI que hago en no seguir puntualmente lo que manda la moda; en no proponerme por modelo a los mocitos evaporados, casquivanos y pisaverdes.»",
+          "autor": "Mor.",
+          "referencia_obra": "La escuela de maridos, 1. 1 (R. 2. 444 1 )."
+        },
+        {
+          "texto_cita": "«Pero si esto hiciera, ¿cómo podría lucirlo en las conversaciones un joven evaporado y leve, que escapó a toda prisa del colegio?»",
+          "autor": "",
+          "referencia_obra": "Id. Obr. póst. 1, p. 157."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Salir al exterior de un cuerpo algo a modo de vapor (raro). Con de . met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Imagen etérea, semejante a las que decía Epicuro que se evaporan de los cuerpos.»",
+          "autor": "Forner",
+          "referencia_obra": ", Exequias de la leng. castell. (R. 63. 400 2 ; Cl. C. 66. 165)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Extenderse, divulgarse un secreto. Se trata asimismo de una acep. rara.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al contrario, bajo un régimen absoluto --- sus planes [de los conspiradores] son más profundos, sus miras más osadas, sus designios no se evaporan en las plazas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo , 1. 13 (5. 50)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans . Con el sentido factitivo de Hacer que se extienda o divulgue un secreto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A poco tiempo de escrita pasó confidencialmente [esta comedia] a las manos de un amigo del autor, y muy luego a la noticia de otros muchos, por una de aquellas casualidades que suelen evaporar los secretos de literatura más bien guardados.»",
+              "autor": "Jovell.",
+              "referencia_obra": "El delincuente honrado , advers. (R. 46. 77)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Disiparse, desvanecerse, ir perdiendo consistencia, densidad o perceptibilidad hasta desaparecer.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como si nos halláramos sometidos a la influencia de un encanto, parece que los cimientos se adelgazan, se evaporan, y que el soberbio edificio queda flotando en el aire.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. fund. (BAC. 37. 9). X"
+            },
+            {
+              "texto_cita": "«Tal vez su amor cautiva | Con vibración sonora | La nota fugitiva, | Que salta y se evapora | Con vaga lentitud.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes. (Cl. C. 95. 25). X"
+            },
+            {
+              "texto_cita": "«En el Museo del Prado se exhibe la figura de un San Francisco tan adelgazada y luminosa, que ya comienza a evaporarse, si no prefiere el espectador convenir en que es un espíritu al borde de condensarse en colores.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 48. X"
+            },
+            {
+              "texto_cita": "«A Sevilla no ha habido poeta en el mundo capaz de cantarla, con ser tantos y tan insignes los que intentaron hacerlo. Su aroma se evapora en el Parque de María Luisa cuando sopla el viento del Guadalquivir. La ciudad se escapa y huye de las manos del escritor cuando trata de atraparla en el aire.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 291."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y la presión de su mano, y el rayo enamorado de su ternísima mirada, le dijeron a Eduardo que la nube se había evaporado.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 5 (p. 604). X"
+            },
+            {
+              "texto_cita": "«¡Cuánto mejor es que vuestro amor, apenas contaminado y apenas impurificado, se pierda y se evapore ahora, subiendo al cielo como nube de incienso!»",
+              "autor": "Valera",
+              "referencia_obra": ", Pepita Jiménez, p. 96. X"
+            },
+            {
+              "texto_cita": "«Pero su nostalgia, que es hija de los espectáculos rústicos y de las reminiscencias sentimentales, se evapora en cuanto el soplo de los refinamientos de la vida elegante llega hasta ella.»",
+              "autor": "Gómez Carrillo",
+              "referencia_obra": ", Whitman, p. 40."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ilusión..., ideal de nuestra infancia, | De lo infinito una primer fragancia, | Que miramos después evaporar.»",
+              "autor": "Núñez",
+              "referencia_obra": ", Poesías, p. 61."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al abrir un paquete de libertad, un bote de tolerancia o una cajita de reciprocidad en algunos de esos almacenes, hallo alterado o evaporado el contenido.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 2 (p. 286)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Perderse, desaparecer una cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ofensa de la honra --- las más veces se evapora con el tiempo, como aquella que no tiene otro fundamento que la opinión.»",
+              "autor": "Quev.",
+              "referencia_obra": "Rómulo (R. 23. 116 1 )."
+            },
+            {
+              "texto_cita": "«El odio reconcentrado ama el silencio, mas el que sale a los labios se desahoga y evapora.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 6, p. 406. X"
+            },
+            {
+              "texto_cita": "«Pero, instantáneo, rápido como el pensamiento, ese relámpago de su alma se evaporó.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 2 (p. 178). X"
+            },
+            {
+              "texto_cita": "«Al terminar esta rápida reseña de los actos que constituyen mi vida pública, siento que el interés de estas páginas se ha evaporado ya.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Provincia, p. 159. X"
+            },
+            {
+              "texto_cita": "«Todos los ingresos fiscales de aquellos cuarenta meses, estimados en 80 millones, se evaporaron y desaparecieron.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños de L. Pulgar , 3 (p. 72). X"
+            },
+            {
+              "texto_cita": "«El resto de espíritu tradicional se ha evaporado.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas, 3 (p. 90). X"
+            },
+            {
+              "texto_cita": "«Pero no tiene conciencia de que es una creación humana inventada por ciertos hombres y sostenida por ciertas virtudes y supuestos que hubo ayer en los hombres y que puede evaporarse mañana.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13 (p. 182). X"
+            },
+            {
+              "texto_cita": "«Y he aquí que hoy, estos ideales, tan gratos, pero tan frágiles, se empiezan a evaporar.»",
+              "autor": "Marañón",
+              "referencia_obra": ", Tiempo viejo, p. 50. X"
+            },
+            {
+              "texto_cita": "«Luego el espíritu de las ciudades, su personalidad intransferible, su ambiente imposible de reconstruir una vez que se ha evaporado con el tiempo, son consecuencia de sus errores, sus defectos y sus limitaciones.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 138."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans. Con el sentido factitivo de Hacer desaparecer. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando al encuentro del placer salimos, | Cuando sentimos el primer amor, | Entusiasmados de placer cantamos | Y evaporamos | Nuestra dicna al compás de una canción.»",
+              "autor": "G. Gutiérrez",
+              "referencia_obra": "G. Obr. complet. p. 269."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Dicho de personas, Fugarse, marcharse sin ser notado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ave María, chico, no me acompañas nada. Estás un ratito, por punto, y en cuanto pillas una ocasión te evaporas...»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 385). X"
+            },
+            {
+              "texto_cita": "«Se firma un armisticio. Los patriotas se evaporan. Los españoles se insolentan.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 4. 23 (p. 381)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Particularmente, Desaparecer sin dejar rastro. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ciertos datos vagos e incompletos que pude recoger en la Plaza del Mercado acerca del paradero de aquellos dos hermanos que parecían haberse evaporado, me tenían resuelto a emprender una excursión por el Valle de Tensa.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil, 22 (p. 248)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "constr. reflexiva. «Desnuda el brazo, el pecho descubierto, | Entre templada nieve | Evaporar contempla un fuego helado.» Góng. canc. amor. 3 (R. 32. 451 1 ). — α α ) met. X «Me voy de ti con tus mismos alientos; | Como humedad de tu cuerpo evaporo.» G. Mistral , Antología, p. 99. — δ ) Part. X «Oye mi canto desacorde y vago, | Onda de un casi evaporado lago | Que llora al pie de la temprana flor.» R. Núñez , Poesías, p. 289. b) Refl. Convertirse en algo volátil. Con en. — α ) X «Ya miro en polvareda | Radiosa evaporarse | Aquellas escamadas | Corazas centellantes.» J. Martí , Páginas escogidas, p. 12. X «Y hermosa y sonreída | En un rayo de luz se evaporó, | Dormida virgen que al primer ensueño, | Tocó el destino su preciosa frente.» A. Montes del Valle , Poesías (1. 81). X «Es éste un mirar toledano, el de quien a la puesta del sol, o la claridad de la luna, ve cómo la ciudad se evapora y se transforma en luz.» Caballero Calderón , Ancha es Castilla, p. 50. — β ) met. Con aplicación a lo inmaterial. «Mas el dolor de su madre | Ni se pierde entre palabras, | Ni en suspiros se evapora, | Ni en lágrimas se desata.» Lista , rom. El puente de la viuda, 4 (R. 67. 376 1 ). X «El Greco era un pintor de gerundios: de cuerpos transformándose en almas, de colores descomponiéndose en luces, de líneas evaporándose en conceptos.» Caballero Calderón , Ancha es Castilla, p. 51. X «La historia, cuando llega a Toledo, se evapora en leyenda.» Id. ib. p. 57. c) met. Part. adj. Vano, ligero, de poco peso. «Conozco lo maI que hago en no seguir puntualmente lo que manda la moda; en no proponerme por modelo a los mocitos evaporados, casquivanos y pisaverdes.» Mor. La escuela de maridos, 1. 1 (R. 2. 444 1 ). «Pero si esto hiciera, ¿cómo podría lucirlo en las conversaciones un joven evaporado y leve, que escapó a toda prisa del colegio?» Id. Obr. póst. 1, p. 157. 2. Refl. a) Salir al exterior de un cuerpo algo a modo de vapor (raro). Con de . met. «Imagen etérea, semejante a las que decía Epicuro que se evaporan de los cuerpos.» Forner , Exequias de la leng. castell. (R. 63. 400 2 ; Cl. C. 66. 165). b) met. Extenderse, divulgarse un secreto. Se trata asimismo de una acep. rara. — α ) «Al contrario, bajo un régimen absoluto --- sus planes [de los conspiradores] son más profundos, sus miras más osadas, sus designios no se evaporan en las plazas.» M. de la Rosa , Esp. del siglo , 1. 13 (5. 50). — β ) Trans . Con el sentido factitivo de Hacer que se extienda o divulgue un secreto. «A poco tiempo de escrita pasó confidencialmente [esta comedia] a las manos de un amigo del autor, y muy luego a la noticia de otros muchos, por una de aquellas casualidades que suelen evaporar los secretos de literatura más bien guardados.» Jovell. El delincuente honrado , advers. (R. 46. 77). 3. Refl. a) Disiparse, desvanecerse, ir perdiendo consistencia, densidad o perceptibilidad hasta desaparecer. — α ) X «Como si nos halláramos sometidos a la influencia de un encanto, parece que los cimientos se adelgazan, se evaporan, y que el soberbio edificio queda flotando en el aire.» Balmes , Filosof. fund. (BAC. 37. 9). X «Tal vez su amor cautiva | Con vibración sonora | La nota fugitiva, | Que salta y se evapora | Con vaga lentitud.» P. Arolas , Poes. (Cl. C. 95. 25). X «En el Museo del Prado se exhibe la figura de un San Francisco tan adelgazada y luminosa, que ya comienza a evaporarse, si no prefiere el espectador convenir en que es un espíritu al borde de condensarse en colores.» Caballero Calderón , Ancha es Castilla, p. 48. X «A Sevilla no ha habido poeta en el mundo capaz de cantarla, con ser tantos y tan insignes los que intentaron hacerlo. Su aroma se evapora en el Parque de María Luisa cuando sopla el viento del Guadalquivir. La ciudad se escapa y huye de las manos del escritor cuando trata de atraparla en el aire.» Id. ib. p. 291. — α α ) met. X «Y la presión de su mano, y el rayo enamorado de su ternísima mirada, le dijeron a Eduardo que la nube se había evaporado.» J. Mármol , Amalia, 5 (p. 604). X «¡Cuánto mejor es que vuestro amor, apenas contaminado y apenas impurificado, se pierda y se evapore ahora, subiendo al cielo como nube de incienso!» Valera , Pepita Jiménez, p. 96. X «Pero su nostalgia, que es hija de los espectáculos rústicos y de las reminiscencias sentimentales, se evapora en cuanto el soplo de los refinamientos de la vida elegante llega hasta ella.» Gómez Carrillo , Whitman, p. 40. — β ) Intrans. met. X «Ilusión..., ideal de nuestra infancia, | De lo infinito una primer fragancia, | Que miramos después evaporar.» R. Núñez , Poesías, p. 61. — γ ) Part. met. X «Al abrir un paquete de libertad, un bote de tolerancia o una cajita de reciprocidad en algunos de esos almacenes, hallo alterado o evaporado el contenido.» M. F. Suárez , Sueños de L. Pulgar , 2 (p. 286). b) met. Perderse, desaparecer una cosa. — α ) «La ofensa de la honra --- las más veces se evapora con el tiempo, como aquella que no tiene otro fundamento que la opinión.» Quev. Rómulo (R. 23. 116 1 ). «El odio reconcentrado ama el silencio, mas el que sale a los labios se desahoga y evapora.» Clem. Coment. 6, p. 406. X «Pero, instantáneo, rápido como el pensamiento, ese relámpago de su alma se evaporó.» J. Mármol , Amalia, 2 (p. 178). X «Al terminar esta rápida reseña de los actos que constituyen mi vida pública, siento que el interés de estas páginas se ha evaporado ya.» D. F. Sarmiento , Recuerdos de Provincia, p. 159. X «Todos los ingresos fiscales de aquellos cuarenta meses, estimados en 80 millones, se evaporaron y desaparecieron.» M. F. Suárez , Sueños de L. Pulgar , 3 (p. 72). X «El resto de espíritu tradicional se ha evaporado.» Ortega y Gasset , Rebel. de las masas, 3 (p. 90). X «Pero no tiene conciencia de que es una creación humana inventada por ciertos hombres y sostenida por ciertas virtudes y supuestos que hubo ayer en los hombres y que puede evaporarse mañana.» Id. ib. 13 (p. 182). X «Y he aquí que hoy, estos ideales, tan gratos, pero tan frágiles, se empiezan a evaporar.» G. Marañón , Tiempo viejo, p. 50. X «Luego el espíritu de las ciudades, su personalidad intransferible, su ambiente imposible de reconstruir una vez que se ha evaporado con el tiempo, son consecuencia de sus errores, sus defectos y sus limitaciones.» Caballero Calderón , Ancha es Castilla, p. 138. — β ) Trans. Con el sentido factitivo de Hacer desaparecer. X «Cuando al encuentro del placer salimos, | Cuando sentimos el primer amor, | Entusiasmados de placer cantamos | Y evaporamos | Nuestra dicna al compás de una canción.» G. Gutiérrez G. Obr. complet. p. 269. c) met. Dicho de personas, Fugarse, marcharse sin ser notado. — α ) X «Ave María, chico, no me acompañas nada. Estás un ratito, por punto, y en cuanto pillas una ocasión te evaporas...» P. Galdós , Lo prohibido (Cl. Castal. 34. 385). X «Se firma un armisticio. Los patriotas se evaporan. Los españoles se insolentan.» Arciniegas , Biogr. del Caribe, 4. 23 (p. 381). — β ) Particularmente, Desaparecer sin dejar rastro. X «Ciertos datos vagos e incompletos que pude recoger en la Plaza del Mercado acerca del paradero de aquellos dos hermanos que parecían haberse evaporado, me tenían resuelto a emprender una excursión por el Valle de Tensa.» Marroquín , Blas Gil, 22 (p. 248). Etim. Cultismo derivado del lat. evaporare con idéntico significado. En la Edad Media existía la forma vaporar, como lo demuestra el siguiente pasaje: X «Como se abriese el luzillo del doctor de las Españas, bienauenturado Ysidoro, baporó de sus huessos olor bálssamo y derramósse por los omes y árboles que estauan en derredor.» Tuy , Crón. Esp. 4. 55 (p. 356). \u0000"
+}

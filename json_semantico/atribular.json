@@ -1,0 +1,61 @@
+{
+  "lema": "ATRIBULAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Afligir con tribulación, acongojar grandemente ( trans .). — α ) «Otras veces suele el demonio hacer desmayar trayendo pensamientos contra la fe, ó muy sucios y abominables contra las cosas de Dios, y hace entender al que los tiene que salen de él, y que él los quiere. Y con esto atribúlale de tal manera que le quita toda la alegría del ánima.» Ávila , Audi , 25 ( Míst . 3.175). «Atribúlame, Señor, aquí: aquí mata, aquí corta, aquí abrasa, porque allí me pongas á tu mano derecha.» Gran. Orac. y c onsid. 1, jueves en la noche (R. 8. 46 1 ). «Pues es cosa tan justa, que ni éstos que os atribulan queden sin castigo, ni vosotros, que sois los atribulados, sin galardón.» Id. Símb . 5. 2. 29, § 1 (R. 6. 671 1 ). «Siendo nuestro Señor tan dulce y piadoso padre para con nosotros como es, y habiendo muerto en una cruz por darnos vida, parece cosa digna de admiración que aflija y atribule á sus hijos con tantas, tan varias y extrañas maneras de penas como vemos cada día en el mundo.» Rivad. Trib. 1. 5 (R. 60 366 2 ). «Ya en esto amanecía, y si los muertos los habían espantado, no menos los atribularon más de cuarenta bandoleros vivos, que de improviso les rodearon.» Cerv. Quij. 2. 60 (R. 1. 531 1 ). «¿No os vais? por Dios que dé gritos | Que mis ojos no acostumbran | A ver visiones, aunque éstas | Más alegran que atribulan.» Id. El laberinto de amor, 3 ( Com. 2. 167). «Solo el salvarse les parece incierto | Y esto los atribula y atormenta.» Erc. Arauc . 34 (R. 17. 128 1 ). «Solo tu amor me estimula. | — Eso y mi buena opinión | Me congoja y atribula.» Lope , El maestro de danzar, 2. 10 (R. 34. 84 1 ). «Cenas matan los hombres: yo no ceno; | Ni ladrón, ni heredero me atribula.» Quev. Musa 6, son. 76 (R. 69. 143 2 ). «No me atormentes ni angusties, | No me sobresaltes, no | Me aflijas y me atribules.» Cald. auto Primero y segundo Isaac (1. 327). — α α ) Part. «No hay en todo lo criado cosa más preciosa que en el cielo el amor glorioso de las bienaventurados, y en la tierra el amor atribulado de los justos.» Gran. Orac. y consid. 1 , sáb. por la mañ. ( R. 8 . 85 2 ). «Si atribulado llego | A pedirte socorro, con amante | Benignidad me escucha.» Carvajal , salmo 101 (263). — β ) Refl. Padecer tribulación, acongojarse grandemente. — α α ) «Atribularse con, en, por los trabajos.» Acad. Gram. «¿Tercera vez te atribulas?» Cald. auto La vida es sueño (4. 24). «Sólo en considerarte me atribulo | Echando mis simplezas á malicia.» Quev. Musa 7, terc. (R. 69. 272 2 ). «Aconseja que los sufra con buen ánimo, y que no se aflija ni atribule por ello.» Gracián , Morales de Plutarco, fol. 130 ( Dicc. Autor .). «A tales gritos | Consternado Velázquez se atribula.» A. Saav. Moro expós. 11 (2. 412). — β β ) Con de, para expresar el origen de la tribulación. «De dama que se atribula | De comer huevos sin bula --- | Dios me libre.» Góng . letr. 44 (R. 32. 500 1 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Se usaba también el simple tribular. ) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fueron de tal manera atribulados, que no podiendo sufrir señorio real, propusieron de se libertar del conde.»",
+          "autor": "",
+          "referencia_obra": "Crón. Reyes Catól. 2. 52 (R. 70. 305 2 )."
+        },
+        {
+          "texto_cita": "«De dias non demediado | Este rey, que atribuló | A su padre et afligió --- | En la tierra non vivió | Longevo nin antiguado.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var. 347 ( Rim. inéd. 323)."
+        },
+        {
+          "texto_cita": "«El rey Pelayo, partido | Desta vida atribulada | ---La silla real pasada | Fue en otro rey.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 123 ( Rim. inéd. 290)."
+        },
+        {
+          "texto_cita": "«. E por çierto presumia | Que yo fuesse atribulado | Sentiéndome por culpado | De lo que allí s'entendia.»",
+          "autor": "Santill.",
+          "referencia_obra": "p . 392."
+        },
+        {
+          "texto_cita": "«i 0 sol que sanas toda vista tribulada!»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 255."
+        },
+        {
+          "texto_cita": "«Grant feryda en el tovillo | Da dolor entrybulado.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 109. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Con la consolacion del amigo sostiénese el corazon del tribulado, et non puede caer.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , pról. ( Bibl. venat. 3. 142)."
+        },
+        {
+          "texto_cita": "«Virgen muy santa yo paso tribulado | Pena atanta con dolor atormentado.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1652 (R. 57. 280 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y tribular: lat. tribulare , trillar, quebrantar ó desmenuzar con el trillo; de aquí en los escritores eclesiásticos, afligir, acongojar. Port. atribular , tribular ; prov. tribolar , trebolar; fr. ant. tribouler; it . tribolare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

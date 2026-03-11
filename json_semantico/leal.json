@@ -1,0 +1,730 @@
+{
+  "lema": "LEAL.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que guarda a personas o cosas la debida fidelidad y reconocimiento.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A mí me parece, agradecido, bueno, caballero, dadivoso, enamorado, firme, gallardo, honrado, ilustre, leal, mozo, noble.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 34 (Cl. C. 8. 229). X"
+            },
+            {
+              "texto_cita": "«¿Y no echáis de ver vosotros, | Si es que os preciáis de leales, | Que con la corona y cetro, | Que es mío quieren alzarse?»",
+              "autor": "Rojas",
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 96). X"
+            },
+            {
+              "texto_cita": "«Correspondo a tu afición | Entrega sin dilación | A hombre leal y de seso | El escrito que te doy.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Los amantes de Teruel (C. 113. 52). X"
+            },
+            {
+              "texto_cita": "«No se responda, porque ya lo sé, que contamos con un ejército leal, que contamos con las autoridades de las provincias, que contamos con las Corporaciones populares.»",
+              "autor": "Donoso",
+              "referencia_obra": "Cortés, Disc. parlament. p. 42. X"
+            },
+            {
+              "texto_cita": "«Al ver la decisión de aquel hombre leal que arriesgaba la vida por mí, sobrecogime de remordimiento, quise confesarle lo sucedido en La Maporita, para que me matara.»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine, 1 (p. 75). — En grado superlativo. X"
+            },
+            {
+              "texto_cita": "«Leal, soy muy leal... Nada hay que temer de mí.»",
+              "autor": "",
+              "referencia_obra": "P. Galdós, Miau , 19 (p. 147). — En grado comparativo. X"
+            },
+            {
+              "texto_cita": "«Es más fiel el menos obediente, | Y más leal el que es menos sumiso.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Raquel (Cl. Castal. 28. 134). X"
+            },
+            {
+              "texto_cita": "«A servidores de la causa, tan leales y tan decididos como éste, no hay que desairarlos.»",
+              "autor": "Marroquín",
+              "referencia_obra": ", Blas Gil , 19 (p. 205). — Con valor ponderativo. X"
+            },
+            {
+              "texto_cita": "«Entre amigos tan leales, puedo declarar mi flaqueza, y les garanto que el corazón se me desgarraba al firmar los fusilamientos de Zamalpoa.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Tirano Banderas, 1. 1. 5 (p. 16)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo nuestro bien en serle leales está.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 14 (6. 61)."
+            },
+            {
+              "texto_cita": "«Por ser leales al amor del Señor, en ninguna cosa os queréis aquí consolar.»",
+              "autor": "",
+              "referencia_obra": "Id. Festiv. 11 (5. 305)."
+            },
+            {
+              "texto_cita": "«Llegado pues el Salvador a Egipto, no te sea grave juntarte con esta santa compañía en aquel destierro que sufrieron por tu causa, prometiendo serles siempre leal compañero.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 6. 5, §7 (R. 8. 343 1 )."
+            },
+            {
+              "texto_cita": "«Porque ser leal a quien | No la ha guardado [lealtad] en su vida, | Es necedad conocida.»",
+              "autor": "Lope",
+              "referencia_obra": ", El acero de Madrid, 1. 12 (R. 24. 368 3 )."
+            },
+            {
+              "texto_cita": "«Es verdad, yo lo confieso, | Que leal a mi patria y a mi vida, | Di a tu esposo la muerte.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La ventura con el nombre , 3. 1 (R. 5. 531 2 )."
+            },
+            {
+              "texto_cita": "«Si fue leal a mi persona el conde ---.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Alf. el Casto , 3. 5 (p. 77). X"
+            },
+            {
+              "texto_cita": "«Hay que ser leal a nuestros propios prejuicios.»",
+              "autor": "Fuentes",
+              "referencia_obra": ", La reg. más transp. ( Obr. 1. 306) . — En grado superlativo."
+            },
+            {
+              "texto_cita": "«Conviene, Señor, ser muy leal a nuestro Señor Jesucristo, para darle toda la gloria del bien que tenemos.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 3. 20 (7. 98). — En comparativo, con valor ponderativo."
+            },
+            {
+              "texto_cita": "«Como los viejos no pudiesen huir, hubo algunos hijos tan leales a sus padres, que tomándolos sobre sus hombros, huían con ellos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 36, §1 (R. 6. 269 2 ). — Además con en."
+            },
+            {
+              "texto_cita": "«Muchos tormentos por esta causa les dieron --- siendo en lo uno leales a Dios, y en lo otro a sus prójimos y hermanos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 2. 23 (R. 6. 655 2 )."
+            },
+            {
+              "texto_cita": "«Leales en esto a su Dios, por cuya fe murieron; y leales a sus prójimos, pues siendo tan cruelmente atormentados, nunca los descubrieron.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5. 2. 23, §3 (R. 6. 658 2 ). — El término es una prop. infinitiva."
+            },
+            {
+              "texto_cita": "«Así como ellos fueron leales a Dios en estar tan constantes en la confesión de su nombre, así él lo será mucho más en la grandeza del galardón que les dará.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 16, §2 (R. 6. 321 2 ). — Por analogía, se aplica a Dios."
+            },
+            {
+              "texto_cita": "«Considera también cuán fiel es Dios, y cuán leal a aquellos que esperan en él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 2. 3, §6 (R. 8. 118 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con a y una prop. infinitiva. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empresa con rescate de amor fiel, que vuestra presencia me ha dado, seré siempre leal a conservarlo.»",
+              "autor": "Delicado",
+              "referencia_obra": ", La Lozana (Cl. Castal. 13. 96). — En grado superlativo. X"
+            },
+            {
+              "texto_cita": "«Los moradores eran gente muy esforzada y muy leal y aparejados a ponerse cualquier riesgo por defenderse de cualquiera que los quisiese acometer.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . (Cl. Ebro, 3. 68)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con para . En grado superlativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hánsele muchos mostrado | Muy leales | Amigos para sus males, | Compadesciéndose dél.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Obr. de amores (Cl. C. 79. 27)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas curaldas de manera, | Pues que sobran de hermosas, | Qu ’ el que lo merece muera, | Y el leal qu ’ en vos espera | Las sienta muy piadosas.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Obr. de amores (Cl. C. 79. 38). X"
+            },
+            {
+              "texto_cita": "«Arrimado está a una reja, | Que hace más fuerte la cárcel, | Pena un tiempo de traidores | Castigo ya de leales.»",
+              "autor": "Lope",
+              "referencia_obra": ", Poes. lír . (Cl. C. 68. 56). X"
+            },
+            {
+              "texto_cita": "«Seré más liberal | Si en esta ocasión que sigo | De un contrario hago un amigo | Y de un traidor un leal.»",
+              "autor": "M. de Amescua",
+              "referencia_obra": ", El ejemplo mayor de la desdicha , 1 (Cl. C. 82. 154). X"
+            },
+            {
+              "texto_cita": "«Ved que el pueblo en que estáis es un pueblo de valientes y de leales.»",
+              "autor": "Tam. y Baus",
+              "referencia_obra": ", La locura de amor , p. 120. X"
+            },
+            {
+              "texto_cita": "«Pero cumple su deber | El leal diciendo lo cierto | Y por lo tanto te advierto | Que hemos de cantar los dos | Dejando en la paz de Dios | Las almas de los que han muerto.»",
+              "autor": "J. Hernández",
+              "referencia_obra": ", Martín Fierro , 2. 30 (p. 476)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Visten en pompa de cerúleos paños | Su manto de Andes tus espaldas nobles, | Y sobre ellas encumbran tus Cien Años | Su fresca fuerza de leales robles.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. poética complet . p. 423."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En particular, dicho del súbdito hacia su soberano y del inferior para con su superior. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los quales, [caballeros] como buenos y leales vasallos, avían peleado todo el día, determinados de morir todos antes que la ciudad se tomasse.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo (Cl. C. 196. 91). X"
+            },
+            {
+              "texto_cita": "«Esto me has de decir sin añadir al bien ni quitar al mal cosa alguna; que de los vasallos leales es decir la verdad a sus señores en su ser y figura propia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 2 (Cl. C. 13. 57)."
+            },
+            {
+              "texto_cita": "«Dejan la fuga los vasallos leales | Y por en medio del contrario hienden.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 11 (R. 17. 618 1 ). X"
+            },
+            {
+              "texto_cita": "«¡Oh, nunca tanto os costara | Defender del Condestable | Contra todos la privanza! | Sé que me sirve leal.»",
+              "autor": "Cañizares",
+              "referencia_obra": ", El picarillo en Esp . 1 (R. 49. 530 1 ). X"
+            },
+            {
+              "texto_cita": "«Entonces aquel insigne varón, que había derramado su sangre en cien combates gloriosos, sin que por esto se desdeñara de tratar confiadamente a su leal criado, sonrió ante mí.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar , 2 (p. 23). — En superlativo absol. X"
+            },
+            {
+              "texto_cita": "«A fe —dijo un noble, ya el canto acabado— | Que son muy leales esclavos de amor | Los bravos guerreros del templo sagrado, | Según en sus versos pintó el trovador.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poes . 1 (Cl. C. 147. 282). — En superlativo relativo. X"
+            },
+            {
+              "texto_cita": "«Raquel soy, ¿qué dudáis?, a quien Alfonso | Sustituye en su mando, a quien él mismo | En su solio Real ha colocado, | Con quien todo el poder ha dividido, | A quien ya sus vasallos más leales | Tributan los obsequios más rendidos. | Soy quien traidores castigar pretende.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Raquel (Cl. Castal. 28. 131). X"
+            },
+            {
+              "texto_cita": "«Y yo también he de beber, aunque sea atrevimiento. Por este día grande entre todos que juntó al más alto poeta, al más valiente capitán, al más noble señor y al más leal criado.»",
+              "autor": "Benavente",
+              "referencia_obra": ", Intereses creados , 1. 1. 4 (p. 60). — En comparativo. X"
+            },
+            {
+              "texto_cita": "«Yo tengo por cierto que se mostrarán tan valientes y leales como siempre se han mostrado y no querrán ser desagradecidos del bien que reciben en tener un Príncipe que en tanta paz y justicia los mantiene.»",
+              "autor": "A. de Valdés",
+              "referencia_obra": ", Diál. de Merc . y Carón , 1 (Cl. C. 96. 174). —Con valor ponderativo. X"
+            },
+            {
+              "texto_cita": "«¡Qué vasallos tan leales!»",
+              "autor": "Lope",
+              "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10. 128). X"
+            },
+            {
+              "texto_cita": "«¿Y no sabéis | Dónde la daga perdisteis? | —No, señor. / —Yo sí pues fue | Adonde fuera posible | Mancharse con sangre vuestra, | A no ser el que la rige | Tan notable y leal vasallo.»",
+              "autor": "Cald.",
+              "referencia_obra": "El médico de su honra , 3 (Cl. C. 142. 95)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se apoderaron de las ciudades, villas y castillos de toda la isla, excepto de Sacer y Caller, que siempre fueron leales a los aragoneses y se tuvieron por ellos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 16. 19 (R. 30. 490 1 ). X"
+            },
+            {
+              "texto_cita": "«Yo (¡desdichado de mí!) quise tener lástima dél; atrevime a ser leal al tirano.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obr. sát. y festiv . (Cl. C. 56. 208)."
+            },
+            {
+              "texto_cita": "«A besar de Alfonso las reales | Manos venid los que le sois leales.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La crueldad por el honor , 1. 14 (R. 20. 456 1 )."
+            },
+            {
+              "texto_cita": "«Leal te fuera a ser vasallo tuyo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El huérfano de la China , 3. 3 (5. 235). X"
+            },
+            {
+              "texto_cita": "«Sancho, como el Ribaldo, formula su filosofía en proverbios; como él, es interesado y codicioso a la vez que leal y adicto a su señor.»",
+              "autor": "",
+              "referencia_obra": "Menéndez y Pelayo, Discursos (Cl. C. 140. 163)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De reyes, como el rey, soy descendiente, | Y tan leal con él como agraviado.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 1 (R. 17. 147 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Sustantivado. Con un posesivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asoma de improviso la soberbia castellana, tras la ojiva de una torre, y así dice a sus leales! ---.»",
+              "autor": "Nervo",
+              "referencia_obra": ", Poes . ( Obr. complet. 2. 1325)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Dicho de las acciones o las palabras.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No des tan mala vejez a mis padres, pues no lo merecen los leales servicios que como buenos vasallos a los tuyos siempre han hecho.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 36 (R. 1. 356 1 )."
+            },
+            {
+              "texto_cita": "«Correspondiendo a los leales y señalados servicios que de sus escuderos habían recebido, les hicieron notables muercedes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 50 (R. 1. 395 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En comparativo, con valor ponderativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En cuyo tiempo, en premio de tantos y tan leales servicios, y en recompensa de tantos socorros y hazañas victoriosas, le envió Su Real Majestad la merced y título del ducado de Amalfi.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz. 8 (Cl. C. 109. 74)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Por analogía, dicho de algunos animales como el perro y el caballo, Fiel. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asió [don Quijote] con la otra [mano] las riendas de Rocinante, que nunca se había movido de junto a su amo (tal era de leal y bien acondicionado), y fuese adonde su escudero estaba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 16 (Cl. C. 6. 94). X"
+            },
+            {
+              "texto_cita": "«Los gatos y los alanos de su casa ya no arañaban apretados ni mordían rabiosos, sino que, reconociendo leales su gran dueño, besaban sus generosas plantas.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón , 1. 8 (Cl. C. 165. 120). X"
+            },
+            {
+              "texto_cita": "«Arrugó el ceño y agachó la cabeza como un perro gruñón y leal.»",
+              "autor": "León",
+              "referencia_obra": ", Amor de los amores , 1. 1 (p. 57). X"
+            },
+            {
+              "texto_cita": "« “ Ya basta “ . “ No quiero más toros; me dan angustia ” . — “ ¿Cómo podré ya gozar viendo al caballo, leal y sumiso, pisarse sus propias entrañas ” ?»",
+              "autor": "Azorín",
+              "referencia_obra": ", Castilla , p. 52."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En comparativo, con valor ponderativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vio también aquel excelentísimo capitán Pirro, rey de los epirotas, aquel que por tantos prisioneros romanos no quiso rescate alguno, y cuyo perro fue tan leal, que cuando hacían las exequias de su muerte se arrojó en su fuego.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 329)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Se aplica a la persona que es constante y fiel con su pareja.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desque Amadís vio los escudos mucho dudó aquella aventura, pues que tales caballeros no la acabaron; e salieron del palacio e fueron al arco de los leales amadores.»",
+              "autor": "Am. de Gaula",
+              "referencia_obra": "(Cl. Ebro, 62. 84). X"
+            },
+            {
+              "texto_cita": "«Los dos amantes leales, | No habiendo mucho dormido, | Vuelven al lugar sabido | A comunicar sus males.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Obr. de amores (Cl. C. 79. 189). X"
+            },
+            {
+              "texto_cita": "«Alzó los ojos al cielo | Temiendo que se le cae | Y dijo: Siempre padezco | Por leal y por amante.»",
+              "autor": "Lope",
+              "referencia_obra": ", Poes. lír . (Cl. C. 68. 56)."
+            },
+            {
+              "texto_cita": "«Vio de cadenas sin piedad ceñido | El joven infeliz, oyó sus voces, | Y el ruego y llanto de doliente esposa, | Y supo ser leal.»",
+              "autor": "Mor.",
+              "referencia_obra": "epíst. 3 (R. 2. 582 1 ). — En superlativo relativo."
+            },
+            {
+              "texto_cita": "«Ninguna la escuchara que no la tomara por la más lastimada y leal doncella del mundo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 34 (R. 1. 350 1 ). X"
+            },
+            {
+              "texto_cita": "«Dicen dél que es el más firme y más leal enamorado que se sabe, y que su dama es una tal Dulcinea del Toboso.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 58 (Cl. C. 22. 67)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Verás si te trato mal. | —Soy a mi ausente leal.»",
+              "autor": "Lope",
+              "referencia_obra": ", La campana de Aragón , 3 (R. 41. 53 2 ). X"
+            },
+            {
+              "texto_cita": "«No eres tú el llamado a echármelo en cara; ¡tú, el único hombre a quien he sido fiel y leal; tú, a quien he querido y quiero todavía con toda mi alma.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El escándalo , 2 (Cl. C. 178. 131)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si soy contigo leal, | He de ser traidor con él; | Ingrato seré contigo, | Si con él me juzgo fiel.»",
+              "autor": "Cald.",
+              "referencia_obra": "Príncipe constante , 2 (Cl. C. 204. 83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Sustantivado. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Este es el amante, el fino, --- | El firme, el enamorado, | El apacible, el bienquisto, | El verdadero, el leal? | La fama mintió; mal hizo llamarle falso, ingrato, | Desleal, desconocido, | Para que yo no le amara.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Morir pensando matar (Cl C. 153. 64)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por extensión, dicho de los sentimientos y sus manifestaciones, Sincero, honesto, verdadero. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No estáis, Alethio, en lo cierto, | Porque muchas de esas tales [mujeres] | Vierten lágrimas leales, | Sin dejar nada encubierto | Ni fingido | En su secreto sentido, | Publicando con amor | El verdadero dolor | Que tienen por su marido.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", Diál. de mujeres (Cl. C. 72. 181). X"
+            },
+            {
+              "texto_cita": "«Quiçá con uer que uas tan voluntaria | A pedirle perdón se yrá ablandando; | Aquel amor leal que tu le tienes | Sepa que eres constante assí en buscarlo; | Conosca que pagar quieres la culpa.»",
+              "autor": "Mal-Lara",
+              "referencia_obra": ", Psyche , p. 20. X"
+            },
+            {
+              "texto_cita": "«Así tu lira por el orbe suene, | Así los tiernos lazos de Climene | Paguen finezas de tu amor leales; | Llene tu numen, llene | El simple conversar de mis zagales.»",
+              "autor": "Vaca",
+              "referencia_obra": ", Poes. oda (R. 61. 292 2 ). X"
+            },
+            {
+              "texto_cita": "«Con fe leal y corazón sencillo | Toda la gloria que me das te ofrezco, | Y ante tu aplauso popular me humillo.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Poes . (Cl. C. 63. 150). X"
+            },
+            {
+              "texto_cita": "«Él continuaba riendo, de un modo franco y leal, que por esta misma cualidad me era más odioso.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 292). X"
+            },
+            {
+              "texto_cita": "«Insisto, pues, con leal pesadumbre en hacer ver que este hombre lleno de tendencias inciviles, que este novísimo bárbaro es un producto automático de la civilización moderna.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas, 11 (p. 161)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado comparativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta evidencia última actúa lo mismo en el comunista europeo que en el fascista, por muchos gestos que hagan para convencernos y convencerse de lo contrario, como actúa. --- en el católico que presta más leal adhesión al Syllabus.»",
+              "autor": "Ortega y Gasset",
+              "referencia_obra": ", Rebel. de las masas , 11 (p. 164). — Con valor ponderativo. X"
+            },
+            {
+              "texto_cita": "«Es mi amor tan leal | Que, haciendo gala del mal, | Cuando se vio desdeñado | Pudo a costa del cuidado | Introducirse a inmortal.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Morir pensando matar (Cl. C. 153. 39)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En el siguiente ejemplo, Limpio. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al son del religioso cántico los dos hombres defienden su derecho, y en leal pelea se acometen y se estrechan.»",
+              "autor": "Larra",
+              "referencia_obra": ", Artíc. polít. y soc . (Cl. C. 77. 243)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Noble, señorial, ilustre.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Referido a personas. En superlativo relativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algún tanto fueron consolados con una hija de pequeña edad que la reina dexava, llamada Olivia, la qual ansí floresció en hermosura que meresció ser amada del más leal cavallero del mundo.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo , 1 (Cl. C. 193. 98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Referido a ciudades y pueblos. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alabo que lleves, Albo, los pulidos guantes que da la leal ciudad de Murcia.»",
+              "autor": "Cascales",
+              "referencia_obra": ", Cartas filológ . 2. 10 (Cl. C. 117. 232)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En grado superlativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tal era, --- la hacienda de Cañasgordas, que pertenecía al muy noble y rico señor don Manuel de Caicedo y Tenorio, Coronel de milicias disciplinadas, Alférez Real y Regidor Perpetuo de la muy noble y leal ciudad de Santiago de Cali.»",
+              "autor": "Palacios",
+              "referencia_obra": ", El Alférez real , 2 (p. 24). X"
+            },
+            {
+              "texto_cita": "«Tomaban cuerpo las muy nobles y leales villas y ciudades.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda , 7 (p. 117)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Exacto, puntual. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hay dos prosas diferentes: | Poética y historial. | La historial, lisa y leal, | Cuenta verdades patentes, | Con frase y términos claros; | La poética es hermosa, | Varia, culta, licenciosa, | Y escura aun a ingenios raros.»",
+          "autor": "Lope",
+          "referencia_obra": ", La dama boba , 1 (Cl. C. 59. 155). X"
+        },
+        {
+          "texto_cita": "«¿Cómo recordar --- los orígenes confusos y manchados de sangre de nuestra América, aunque al recuerdo leal, y hoy más que nunca necesario, le pueda poner la tacha de vejez inoportuna?»",
+          "autor": "Martí",
+          "referencia_obra": ", Sus mejores páginas , p. 160."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el sentido Perteneciente a la ley o conforme a ella. Obsérvese además la forma leyal , siglo XIII). Siglo XV : X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Del amor viene el cuidado | Y del cuidado el penar, | De la pena el sospirar | Del leal enamorado.»",
+          "autor": "Encina",
+          "referencia_obra": ", Poes. lír . (Cl. Castal. 62. 86). X"
+        },
+        {
+          "texto_cita": "«Acabose esta obra intitulada Cárcel de amor, en la muy noble e muy leal cibdad de Seuilla, a tres días de março, año de 1492, por quatro conpañeros alemanes.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Cárcel de amor (Cl. C. 133. 212)."
+        },
+        {
+          "texto_cita": "«Sus deudos e amigos le fueron gradecidos, e sus criados e servidores le fueron leales.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 2 (p. 22). X Tú adelantaste los reynos al rey, | Seyéndole siervo leal e criado.» Mena , Lab . (Cl. C. 119. 101). X"
+        },
+        {
+          "texto_cita": "«Ca yo vos juro, señora, | Quanto más vos soy absente, | Más vos amor ciertamente, | Y deseo toda ora. | Esto façe la afición, | Sin compañía de los ojos, | Mas del leal coraçón.»",
+          "autor": "Santill.",
+          "referencia_obra": "(Cl. C. 18. 196). X"
+        },
+        {
+          "texto_cita": "«Sy syn error puedo dezir | Esta canción, | Leal seruir a ty, amor, | Es perdiçión.»",
+          "autor": "J. Rodríguez",
+          "referencia_obra": ", Siervo libre de amor (Cl. Castal. 66. 70). X"
+        },
+        {
+          "texto_cita": "«Yo siempre ffuy leal a todos en comunal.»",
+          "autor": "Villasandino",
+          "referencia_obra": ", Canc. Cast . (NBAE. 22. 417 2 ). — Siglo XIV : X"
+        },
+        {
+          "texto_cita": "«Servímosle muy byen, fuémosle sinpre leales; | Demás que sabe el rrey que todos somos carnales: | ¡Creed se ha adolesçer de aquestos nuestros males!»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1697 (Cl. C. 17. 281). X"
+        },
+        {
+          "texto_cita": "«Diz': Omíllome, señor, yo, el tu leal syervo, | Por te fazer servicio ¿non fuy por ende syervo?»",
+          "autor": "",
+          "referencia_obra": "Id. 1089 (Cl. C. 17. 84)."
+        },
+        {
+          "texto_cita": "«Bien sabía él que el rey le había criado et le había fecho mucho bien, et que lo fallara siempre muy leal.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C . Luc . 23 (R. 51. 370 1 ). — Siglo XIII : X"
+        },
+        {
+          "texto_cita": "«Todos le obedecieron e lo tomaron por rey e por señor, e juraron que le serían leales e verdaderos, e que harían todo lo que él mandasse.»",
+          "autor": "",
+          "referencia_obra": "Conq. de Ultr . (ICC. 51. 24). X"
+        },
+        {
+          "texto_cita": "«Tres guardas deben haber et poner los amigos entre sí porque la amistad dure entrellos et non se pueda mudar: la primera es que siempre deben seer leales el uno al otro en sus corazones.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", Antol . p. 175."
+        },
+        {
+          "texto_cita": "«Creíe que era leal mensagero, et él fizo como desleal.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 11. 27 (2. 491). X"
+        },
+        {
+          "texto_cita": "«En Toledo la buena, essa villa real | Que iaze sobre Taio, essa agua cabdal, | Ovo un arzobispo, coronado leal, | Que fue de la Gloriosa amigo natural.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 1 (Cl. C. 44. 13). X"
+        },
+        {
+          "texto_cita": "«Pensemos de las almas, fraires e compañeros, | A Dios e a los omnes seamos verdaderos, | Si fuéremos leales a Dios, e derecheros, | Ganaremos coronas que val más que dineros.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Dom . (Cl. Castal. 49. 109)."
+        },
+        {
+          "texto_cita": "«Et membrose de cómo era enviso e leal con él.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 34 2 ). X"
+        },
+        {
+          "texto_cita": "«Fabla la reyna a su fijo leal | Así como si fuere su fijo natural.»",
+          "autor": "",
+          "referencia_obra": "Vida de S. Ildef (ICC. 36. 240)."
+        },
+        {
+          "texto_cita": "«Et maguer le sea provado o sea judgado por alevoso, el rey le puede dar por quito e por leal, si tanta merced le quisiere facer.»",
+          "autor": "Fuero",
+          "referencia_obra": "real, 4. 25. 5 ( O. L . 2. 163)."
+        },
+        {
+          "texto_cita": "«Yo non dix nenguna cosa dellas por arte del mundo, nin por enganno, mas dixlo con la más leal conocencia.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 15 (p. 198)."
+        },
+        {
+          "texto_cita": "«Dixo el rey: bien sepas mío leyal amigo | Que non drya ha otro esto que a ti digo.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 38 (R. 57. 284 2 )."
+        },
+        {
+          "texto_cita": "«Commo perdió la fija, e la muger capdal, | Commo las cobró amas, ca les fue muy leyal.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2 (R. 57. 283 1 ). — Siglo XII"
+        },
+        {
+          "texto_cita": "«El Criador uos uala Çid Campeador leal.»",
+          "autor": "Cid",
+          "referencia_obra": ", 706 (R. 57. 10 1 )."
+        },
+        {
+          "texto_cita": "«Y xiendos ua de tierra el Canpeador leal.»",
+          "autor": "",
+          "referencia_obra": "Ib . 396 (R. 51. 6 1 ). X"
+        },
+        {
+          "texto_cita": "«Dixo Martín Antolínez, el Burgalés leal: | Veré a la mugier a todo mio solaz, | Castigar los he commo abrán a far.»",
+          "autor": "",
+          "referencia_obra": "lb . 227 (Cl. C. 24. 118)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Et si --- non potuerit firmare con duos teste leales vicinos de villa, qui habeant sus casas et suas hereditates in villa ---.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Navarrete, año 1195 ( Llor. Prov. Vasc . 4. 336)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. legalis ‘ legal, perteneciente a la ley o conforme a ella ’ , y éste de lex , legis ‘ la ley ’ . Cat. lleial, fr. loyal , it. leale , oc, leial. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

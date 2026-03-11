@@ -1,0 +1,103 @@
+{
+  "lema": "BALANCEAR",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar ó hacer balances ( intrans .). Se dice especialmente del buque cuando toma un movimiento de oscilación hacia uno y otro de sus costados. Dicc. Marít .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al frondoso | Bosque no da [el viento] descanso, | Y su penacho umbroso | Balancea con silbo sonoroso.»",
+          "autor": "Arriaza",
+          "referencia_obra": ", oda 5 (R. 67. 65 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "También se usa como refl . Acad. Dicc . La nave se balancea.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Balancear en la duda.»",
+          "autor": "Acad.",
+          "referencia_obra": "Gram."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Vacilar, dudar, estar perplejo ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al oír estas palabras responde sin balancear, como fiel observador de la ley de Dios.»",
+          "autor": "Scío",
+          "referencia_obra": ", S. Mateo , 26. 64, nota ."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Balancear en asegurar.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Igualar ó poner en equilibrio ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Contrapesar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desde la primera vez que le vio se agradó de él lo bastante para balancear su antiguo cariño á don Juan de Sosa.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos , 2, p. 178."
+        },
+        {
+          "texto_cita": "«Trató de contemporizar y de procurar --- balancear y entorpecer los osados proyectos de su rival.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Masan . 2. 13 (5. 228)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de balanza. Port. balancear ; cat. balansejar , balansegar . A la forma balanzar ( bilanzar , R. 23 397 1 , es acaso italianismo) corresponden el port. balançar , prov. balansar , fr. balancer , it. bilanciare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,388 @@
+{
+  "lema": "DESCABEZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Quitar ó cortar la cabeza ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Concertábamos irnos á tierra de moros, pidiendo por amor de Dios, para que allá nos descabezasen.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 1 (R. 53. 24 1 )."
+            },
+            {
+              "texto_cita": "«Hizo descabezar en la prisión á un caballero que era su repostero mayor.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 4 (R. 30. 501 1 )."
+            },
+            {
+              "texto_cita": "«Murió confortando al hermano, que descabezaron.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 1 (R. 21. 78 1 )."
+            },
+            {
+              "texto_cita": "«Dorotea consoló á Sancho Panza diciéndole, que cada y cuando que pareciese haber sido verdad que su amo hubiese descabezado al gigante, le prometía, en viéndose pacífica en su reino, de darle el mejor condado que en él hubiese.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 35 (R. 1. 353 1 )."
+            },
+            {
+              "texto_cita": "«Me es á mí más fácil imitarle en esto, que no en hender gigantes, descabezar serpientes, matar endriagos, desbaratar ejércitos ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 25 (R. 1. 313 2 )."
+            },
+            {
+              "texto_cita": "«Comenzó [D. Quijote] á llover cuchilladas sobre la titerera morisma, derribando á unos, descabezando á otros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 26 (R. 1. 460 2 )."
+            },
+            {
+              "texto_cita": "«A éste barrena, á esotro descabeza, | Y al otro lo desmiembra pieza a pieza.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 10 (R. 17. 247 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nos cuentan los escritores | Verdaderos | De muy altos consejeros | Y riquísimos privados, | Que por sólo seis dineros | Han sido descabezados.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 225 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sempronio y Parmeno quedan descabezados en la plaza como públicos malhechores.»",
+              "autor": "Celest.",
+              "referencia_obra": "13 (R. 3. 57 1 )."
+            },
+            {
+              "texto_cita": "«El cuerpo de san Dionisio, después de asado y descabezado, tomó su propria cabeza en los brazos, y la llevó al lugar donde agora está sepultado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 2. 19, § 1 (R. 6. 611 2 )."
+            },
+            {
+              "texto_cita": "«Los de Puna viéndose atropellados de este modo por los extraños, insultados por sus enemigos naturales, preso su señor y descabezados sus caciques, acudieron á las armas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 316 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De este arte le descabezas | La libertad cuando empiezas, | Y lo dejas atajado, | Dándole mate ahogado | Entre medias de sus piezas.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3 (R. 32. 210 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Quitar la parte superior ó la punta ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Descabezar un árbol, un madero, una aguja.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descubriéronle desde lejos que con una hoz en la mano iba descabezando vides.»",
+              "autor": "Gracián",
+              "referencia_obra": ", Heroe , 6 (1. 658. Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mira aquel preciado de lindo ó aquel lindo de los más preciados, cómo duerme con bigoteras, torcidas de papel en las guedejas y el copete, sebillo en las manos y guantes descabezados.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo Coj. 2 (R. 33. 23 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . En especial, Desgranarse las espigas de las mieses. Acad. Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Hacer el principio de una cosa, salir de él ( trans. ) ( fam. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se dice de los perezosos é indevotos que dejan descabezar la misa para oírla.»",
+              "autor": "",
+              "referencia_obra": "Dicc. Autor ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Descabezar el sueño : dormir un breve rato el que tiene mucho sueño.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta mujer desvariando está; espera un poco hasta que descabece un sueño, que ella ciertamente despierta está soñando.»",
+              "autor": "Villalobos",
+              "referencia_obra": ", Anfitrión (R. 36. 473 1 )."
+            },
+            {
+              "texto_cita": "«Ya no hay quien sin sacar los pies de los estribos, arrimado á su lanza, sólo procure descabezar, como dicen, el sueño, como lo hacen los caballeros andantes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 1 (R. 1. 407 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Hablando de malos asos, Vencerlos, generalmente rodeando hasta pasar por el punto en que comienzan ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y para descabezar los tales pasos se veían en muchos trabajos.»",
+          "autor": "Garcil.",
+          "referencia_obra": "Hist. de la Flor. 2. 2. 17 ( Dicc. Autor. )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Milit. Vencer ó salvar un obstáculo un puente, un desfiladero, teniendo la cabeza de la columna al otro lado ( trans. ). Almirante , Dicc. milit.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Milit. Poner las primeras hileras, al preparar una marcha de flanco, en la nueva dirección á vanguardia ó retaguardia ( trans. ). Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "g)",
+      "definicion": "met. Tocar la cabeza ó extremo de una cosa en otra; dícese de las hazas ó tierras que terminan en otra ó se extienden hasta ella ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con con , para expresar la tierra con que otra confina.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al levante viene á descabezar con la tierra que llaman de los Bacallaos.»",
+              "autor": "Garcil.",
+              "referencia_obra": "Hist. de la Flor . 1. 2 ( Dicc. Autor. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descabezar un terreno en otro.»",
+              "autor": "Terreros",
+              "referencia_obra": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met. Refl. Perder la cabeza, calentarse la cabeza en averiguar algo sin lograrlo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Descabezarse con, en una dificultad.»",
+          "autor": "Acad.",
+          "referencia_obra": "Gram."
+        },
+        {
+          "texto_cita": "«Descabezarse en acertar.»",
+          "autor": "Salvá",
+          "referencia_obra": ", Gram."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Deshacer el encabezamiento que han hecho los pueblos ( trans. ). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si hovieren de dar una pieza de oro, ú dos ó tres, ó cinco ó diez, que puedan dar entre ellas una quebrada, ó soldada, ú descabezada de las de Segovia.»",
+          "autor": "",
+          "referencia_obra": "Recop. 5. 18. 2, año 1491 ( Dicc. Autor . Según Cantos Benítez en su Escrutinio , 15. 17, citado por Clemencín, descabezada vale recortada .)."
+        },
+        {
+          "texto_cita": "«Mucha morisma vi descabeçada.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 149 (60 2 )."
+        },
+        {
+          "texto_cita": "«Des cabeçó a su padre por amores del rey Minos de Creta.»",
+          "autor": "",
+          "referencia_obra": "Id. Coron. 11 (9 2 )."
+        },
+        {
+          "texto_cita": "«La su buena adarga toda era ya cortada, é fecha piezas, é la espiga de la espada dorada á hora de quebrar é descabezar.»",
+          "autor": "",
+          "referencia_obra": "Crón. P. Niño , p. 41. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Et descabezó de estos almohades los que pudo aver.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 214 (R. 66. 310 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Fueron presos de los espartanos, é los tenian encerrados para los escabezar.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 77 (R. 51. 209 1 )."
+        },
+        {
+          "texto_cita": "«El rey Herodes mandó descabezar á Santiago, hermano de S. Juan Evangelista, en Jerusalem.»",
+          "autor": "",
+          "referencia_obra": "Anales toledanos ( Esp. sagr. 23. 382)."
+        },
+        {
+          "texto_cita": "«Descabezó»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Escabezados»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«E a dellos embió allen la mar e fizolos descabeçar alla.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 3 (212 3 )."
+        },
+        {
+          "texto_cita": "«E sy non se querien tornar a la su seta descabeçaualos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 39 (174 1 )."
+        },
+        {
+          "texto_cita": "«Mandólos todos descabezar porque con el su auer non ayudasen a sus enemigos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 35 (17 1 )."
+        },
+        {
+          "texto_cita": "«Salió [Remus] de la cibdat sobre los muros, et descabezólo por ende sobre ellos.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 28. 16 (2. 716)."
+        },
+        {
+          "texto_cita": "«Ves lo que me fizo, esta mujer --- liévala et descabézala.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 63 2 )."
+        },
+        {
+          "texto_cita": "«E al que embarga el tu rreynado descabeçalo.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 2 (Knust, 108)."
+        },
+        {
+          "texto_cita": "«Su acusar falsamientre de tal cosa que semeie, que devia seer descabeszado ---»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 5. 7. 10 (96)."
+        },
+        {
+          "texto_cita": "«Hy el siervo que se ayunta con la mugier que levó por fuerza, deve seer descabezado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 3. 8 (54)."
+        },
+        {
+          "texto_cita": "«Si fuesses sabidor, | Faries descabezar luego el traedor.»",
+          "autor": "Alex.",
+          "referencia_obra": "2329 (R. 57. 218 2 )."
+        },
+        {
+          "texto_cita": "«Derranchó pora el, quisol descabezar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 552 (R. 57. 164 2 )."
+        },
+        {
+          "texto_cita": "«Que si se levantasse, que serie mal maiado, | O por escarmentar otros serie descabezado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 711 (R. 57. 62 2 )."
+        },
+        {
+          "texto_cita": "«Se tenien por muertos e por descabezados.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 205 (R. 57. 71 1 )."
+        },
+        {
+          "texto_cita": "«Mandó --- | Que lo descabezassen, non pasassen por al.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Laur. 45 (R. 57. 91 2 )."
+        },
+        {
+          "texto_cita": "«Quantos ninyos fallar podredes, | Todos los descabeçedes.»",
+          "autor": "",
+          "referencia_obra": "Reyes de or. (R. 57. 319 2 )."
+        },
+        {
+          "texto_cita": "«Los moros e las moras vendenr non los podremos: Que los descabeçemos nada non ganaremos.»",
+          "autor": "Cid",
+          "referencia_obra": ", 620 (R. 57. 9 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo privativo des y cabeza. Port. descabeçar ; cat. escapsar ; prov. escabessar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe c : descabecen, descabecéis. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

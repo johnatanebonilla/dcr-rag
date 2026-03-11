@@ -1,0 +1,489 @@
+{
+  "lema": "NADIE.",
+  "categoria_gramatical": "pron",
+  "introduccion": "--> pron .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Ninguna persona.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con valor negativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si nadie te defiende, todos te culpan.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 1. 5 (1. 77)."
+            },
+            {
+              "texto_cita": "«Por Él mismo afirma y certifica, que mientras respirare y viviere, será poderoso nadie a que hable o sienta, ni contra Dios, ni contra sí.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 27 (2. 67)."
+            },
+            {
+              "texto_cita": "«¿Todo te callará? ¿tú solo haciendo | Burla, serás de nadie escarnecido?»",
+              "autor": "Fern.",
+              "referencia_obra": "10. 327)."
+            },
+            {
+              "texto_cita": "«A esto hemos de encaminarnos con diligencia, aunque lo sepan pocos, aunque lo vea nadie.»",
+              "autor": "Quev.",
+              "referencia_obra": "Carta (5. 377)."
+            },
+            {
+              "texto_cita": "«Empieza [el Letradillo] a darle de puñados, diciendo en altas voces, que qué bellaquería era dar su caballo a nadie.»",
+              "autor": "",
+              "referencia_obra": "Id. Buscón , 20 (1. 295)."
+            },
+            {
+              "texto_cita": "«Él, casi desmayado, | Me dijo que merced recibiría, | Si un poco le escuchase | En parte donde nadie nos notase.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Lab. de amor , 2 ( Com . 2. 152)."
+            },
+            {
+              "texto_cita": "«El valor y las partes loables en nadie se aborrecen.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 66 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién le ha dado a usted licencia para entrar aquí? —¿A mí? Nadie.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Los dos sobrinos , 4. 11 (1. 41). X"
+            },
+            {
+              "texto_cita": "«Los hechos hablen, si es que son los hechos | Lo que acrisola generosos pechos | Nadie al mundo purgó de monstruo tanto; | No Hércules, no Cadmo, no Teseo.»",
+              "autor": "Bello",
+              "referencia_obra": ", Poes . p. 453. X"
+            },
+            {
+              "texto_cita": "«Nadie estudia para millonario, Eliacim, como nadie estudia para poeta.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell , p. 53."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El valor negativo se toma de su aparición en oraciones de carácter negativo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es cosa muy cierta, en no haviendo menester a nadie, tener muchos amigos.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 2 (1. 404)."
+            },
+            {
+              "texto_cita": "«No quiere [Dios] estorvo de nadie, ni de potencias, ni de sentidos.»",
+              "autor": "",
+              "referencia_obra": "Ead. Mor . 6. 4 (2. 121)."
+            },
+            {
+              "texto_cita": "«Parece que quiere nuestro Señor, que todos entiendan, que aquel alma es suya, que no ha de tocar nadie en ella.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib . 6. 4 (2. 124). X"
+            },
+            {
+              "texto_cita": "«Señor —respondió Sancho—, si va a decir la verdad, la carta no me la trasladó nadie, porque yo no llevé carta alguna.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 30 (Cl. C. 8. 129)."
+            },
+            {
+              "texto_cita": "«Pues mirad, que no digas --- | A nadie, que yo le he abierto.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Progne y Filomena , 2 (R. 54. 48 2 )."
+            },
+            {
+              "texto_cita": "«No ha de escaparse | Una filáziga humana | De vosotros, ni de nadie | De cuantos al paso encuentre.»",
+              "autor": "",
+              "referencia_obra": "Id. El más impropio verdugo , 1 (R. 54. 169 1 )."
+            },
+            {
+              "texto_cita": "«Ni los oficiales hacían sus oficios, ni persona hablaba una con otra..., y más priesa de confesar que nunca fue en semana santa: y todo esto sin amonestación de nayde.»",
+              "autor": "Acad.",
+              "referencia_obra": "Hist. ilustr . 13 (6. 357)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Forma la expresión reiterativa nadie no . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quando el vergantín quería partir, el Rey hizo muestra que se yva con el vergantín, y encerrose en una cámara que se yva con el vergantín, y encerróse en una cámara que nadi no le vio, y echaron fama que yva a Roma por hablar con el Papa.»",
+              "autor": "",
+              "referencia_obra": "Tirante el Blanco , 2 (Cl. C. 189. 30). X"
+            },
+            {
+              "texto_cita": "«Estamos aquí donde nadi no nos oye.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. de las cosas (Cl. C. 89. 11). X"
+            },
+            {
+              "texto_cita": "«Y pues la vida es passaje | Que tan presto pasa y va | Aunque nadie no lo ataje | Passar bien este viaje | En el governalle está.»",
+              "autor": "Guev.",
+              "referencia_obra": "Canc. cast . (NBAE. 22. 509 2 )."
+            },
+            {
+              "texto_cita": "«No solo nadie no muere, | Pero ni enferma de amor.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse , 1. 6 (R. 20. 103 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En el siguiente texto, la doble negación que se presenta no se resuelve como una afirmación sino como un refuerzo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y crees, Helena, que hay alguien, hombre o mujer, que pueda quererme? —No hay nadie que no pueda encontrar quien le quiera.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Abel Sánchez , 6 (p. 38)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Alguien.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Nótese su uso con valor positivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuánto menos razón tendrá nadie de cargarme que defienda el lugar en que sin yo pretendelle Dios y los hombres me han puesto?»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 22 (1. 679 2 )."
+            },
+            {
+              "texto_cita": "«¿Mas qué daño podrá nadie hacerme, | Que tu valor no pueda defenderme?»",
+              "autor": "Lope",
+              "referencia_obra": ", Epíst . 15 ( Obr. suelt . 1. 458). X"
+            },
+            {
+              "texto_cita": "«¿Por qué ha de hacer extrañeza a nadie que este villano estudioso tenga a su padre respeto, si por imagen de Dios le tiene ya conocido?»",
+              "autor": "Zabaleta",
+              "referencia_obra": ", Errores celebr . (Cl. C. 169. 30)."
+            },
+            {
+              "texto_cita": "«¿Para qué se encargará Raimundo de traer aquí a nadie?»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria , 1. 2 (p. 261). X"
+            },
+            {
+              "texto_cita": "«¡Escudero fiel de vuestro hermano! ¿Qué mal hizo a nadie? ¿Quién podía malquerer a ese montañés limpio como la plata?»",
+              "autor": "Pemán",
+              "referencia_obra": ", Felipe II , 2. 12 (p. 178)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "También se puede encontrar con valor positivo en textos negativos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mire el cristiano, que pues el mundo despreció al bendito Hijo de Dios, que es eterna verdad y bien sumo, no hay porqué nadie en nada le tenga ni en nada le crea.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 3 ( Míst. 2. 132). X"
+            },
+            {
+              "texto_cita": "«Con esto, a más que medianas jornadas, llegaron a Acuapendente, lugar cercano a Roma, a la entrada de la cual villa, adelantándose un poco Periandro y Auristela de los demás, sin temor que nadie los escuchase ni oyese, Periandro habló a Auristela desta manera.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 4. 1 (Cl. Castal. 12. 413). X"
+            },
+            {
+              "texto_cita": "«No me arguyas de maldiciente, porque digo mal de los que hay en él, pues no es posible que haya dentro nadie que bueno sea.»",
+              "autor": "Quev.",
+              "referencia_obra": "Sueños , 1 (Cl. C. 31. 93)."
+            },
+            {
+              "texto_cita": "«Y os ruego que aquí os quedéis; | Que no soy mujer que puedo | Ir de nadie acompañada.»",
+              "autor": "Mto.",
+              "referencia_obra": "El parecido en la corte , 1. 4 (R. 39. 314 1 ). X"
+            },
+            {
+              "texto_cita": "«No había nadie más sentado a las mesas del negocio: era seguro que cuando lus mujeres salieran pasarían a su lado, y lo mirarían.»",
+              "autor": "Onetti",
+              "referencia_obra": ", El astillero , p. 25."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Forma la expresión mejor que nadie .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Él sabía mejor lo que había que hacer que nadie.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón , 10 (1. 211). X"
+            },
+            {
+              "texto_cita": "«Nadie mejor que él sabe sostener en la conversación aquel tono zumbón y ligero que tanto la sazona.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Cartas (Cl. C. 129). X"
+            },
+            {
+              "texto_cita": "«Es este género de pesimismo que representa mejor que nadie Larra.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo , p. 144. X"
+            },
+            {
+              "texto_cita": "«Lo supo acaso mejor que nadie Quevedo.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Abel Sánchez , pról . (p. 11). X"
+            },
+            {
+              "texto_cita": "«A él [a Wilson] le vendría mejor que a nadie concluir este negocio iniciado por su probidad y aplazado por el senado norteamericano.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños , 3 (p. 160)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Usado como calificativo, Persona insignificante, de poco carácter o de poca importancia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un joven oscuro, un nadie, a quien mi bondad había dado entrada en mi casa, se atreve a poner los ojos --- ¿lo sabías, Carolina?»",
+              "autor": "Pagés",
+              "referencia_obra": ", Dicc .). X"
+            },
+            {
+              "texto_cita": "«Cuando Enrique VIII trata de presentarse al remate de votos para comprar la corona de Alemania, una rápida ojeada de su comisionado prueba que Enrique no es nadie para competir con sus parientes el rey de Francia y el de España.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe , 1. 8 (p. 128). X"
+            },
+            {
+              "texto_cita": "«Él no es nadie para darte consejos.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En el siguiente ejemplo, Persona de quien no se conoce su identidad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cómo quiere que sepamos quién es? ¡No es nadie!»",
+              "autor": "Buero Vallejo",
+              "referencia_obra": ", El tragaluz (Cl. Castal. 35. 230)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Forma las expresiones:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Hijo(a) de nadie: hijo de padre desconocido o anónimo. met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vos sois lo mejor del mundo, | Y el mundo, por vuestra cara, | Parece, que ya no puede | Ser enemigo del alma. | Ya amor no es hijo de nadie.»",
+              "autor": "Solís",
+              "referencia_obra": ", Varias poes . (Cl. Esp. 16. 332)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Don nadie: persona de poca valía. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿De dónde ha salido este Balboa? Balboa es el perfecto don Nadie. No es ni siquiera músico ni maromero. Mucho menos cosmógrafo, ni tinterillo.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe , 1. 4 (p. 69)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Nota.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "El complemento partitivo exige regularmente singular.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ella no ha querido hablar | A nadie de la familia.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Primero yo , 4. 3 (p. 113). Y no admite plural; por tal razón, Cuervo decía:"
+            },
+            {
+              "texto_cita": "«Tampoco debe decirse \"nadie de nosotros\", \"alguien de ustedes\"; sino \"ninguno de nosotros\", \"alguno de ustedes\"»",
+              "autor": "Cuervo",
+              "referencia_obra": ", no faltan ejemplos antiguos y modernos en contra. X"
+            },
+            {
+              "texto_cita": "«Hera por que él estaba tomado por padrino, como ya está dicho, contra el quebrantador de las pazes de Noyon, y quería deçir que nadie de los dos las quebrantase (porque quando las bistas de que en este capítulo se haze minçión an no estaban quebradas.»",
+              "autor": "Jmz. de Quesada",
+              "referencia_obra": "El Antijovio (ICC. 10. 49). X"
+            },
+            {
+              "texto_cita": "«Cierran las puertas para que nadie de los ciudadanos pudiese tener habla con los cristianos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. de Esp. 25. 10 ( Cuervo , Apuntaciones , §347). X"
+            },
+            {
+              "texto_cita": "«Nadie de nosotros adolece del vicio que pintas.»",
+              "autor": "Mor.",
+              "referencia_obra": "Pról. a las comedias ( Cuervo , Apuntaciones , §374). X"
+            },
+            {
+              "texto_cita": "«Has dado voces tan extrañas | Toda esta noche entera, no dejando | Que la durmiese nadie de nosotros.»",
+              "autor": "Cuervo",
+              "referencia_obra": ", Apuntaciones , §374)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En la lengua vulgar nadie se transforma en naide por metátesis, y aparece frecuentemente en forma plural pero con sentido singular. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Supo todo el Comendante | Y me llamó el otro día, | Diciéndome que quería | Averiguar bien las cosas— | Que no era el tiempo de Rosas, | Que aura a naides se debía.»",
+              "autor": "J. Hernández",
+              "referencia_obra": ", Martín Fierro , p. 189. X"
+            },
+            {
+              "texto_cita": "«Esto podía haberle costao una rebenqueada, pero él sabía esconderse de modo que naides maliciara de su picardía.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra , 12 (p. 74). — También se registra la forma naiden . X"
+            },
+            {
+              "texto_cita": "«¡Marcelina está gorda y está gorda! Pero naiden me lo quería creer.»",
+              "autor": "Azuela",
+              "referencia_obra": ", Los de abajo (Archivos, 5. 30)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sufro la muerte doblada | En pensar que si yo muero | De nadie seréis amada.»",
+          "autor": "Encina",
+          "referencia_obra": ", Poes. lír . (Cl. Castal. 62. 127). X"
+        },
+        {
+          "texto_cita": "«Y con mis ojos llorosos | Un triste llanto hazía | Con sospiros congoxosos | Y nadie no parecía.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (Cl. Castal. 62. 97). X"
+        },
+        {
+          "texto_cita": "«Non creas tú que nadi tal diga, en especial sabiendo que las ansias de amores la virtud del esfuerço acrecientan.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Tract. de amores (Cl. C. 133. 94). X"
+        },
+        {
+          "texto_cita": "«Non ay nadi que mis dolores contenplar pudiesse, sinon aquel que la esperança dellos maestro fizo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (Cl. C. 133. 40). X"
+        },
+        {
+          "texto_cita": "«Y en esto más alargar | Es cosa demasiada, | Pues es cierto sin dubdar, | Que nadie podrá llegar | Al cabo desta jornada.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (Cl. C. 133. 16)."
+        },
+        {
+          "texto_cita": "«Nunca nadie fue herido | De fiera llaga mortal, | Que tan bien fuese guarido, | Que le quedase en olvido | De todo punto su mal.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 41). — Siglo XIV: X"
+        },
+        {
+          "texto_cita": "«Todos dél eran pagados | E desían con plaser, | Que en bbuen día fueron nades | Para tan buen sennor auer.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 90 (R. 57. 480 1 ). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«Non aya nadi dubda entre su corazón, | Nin diga esta cosa podríe seer o non.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil . 7 (Cl. C. 44. 47). X"
+        },
+        {
+          "texto_cita": "«Sóvose muy quedado, sópose encobrir, | Su voluntad non quiso a nade descobrir, | Atendíe esta cosa a que podríe exir, | Pero él non cessaba al Criador servir.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Dom . (R. 57. 45 1 ). X"
+        },
+        {
+          "texto_cita": "«Avrán el quinto gozo que de todos más val, | Que serán bien seguros de nunca aver mal; | Sennor que a sus siervos da gualardón atal, | Essi es verdadero, nadi non crea al.»",
+          "autor": "",
+          "referencia_obra": "Id. Signos (Cl. Castal. 96. 145). X"
+        },
+        {
+          "texto_cita": "«Tanto auía el rey echado grant pauor | Que non osaua nadi pararge fiador.»",
+          "autor": "Alex.",
+          "referencia_obra": "222 (R. 57. 154 1 ). — Siglo XII: X"
+        },
+        {
+          "texto_cita": "«Quando tal ondra me an dada ifantes de carrión; | Par aquesta barba que nadi non messo, | Non la lograrán ifantes de Carrión.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2832 ( Mndz. Pidal , p. 1132). X"
+        },
+        {
+          "texto_cita": "«Ante que anochesca pienssan de cavalgar, | Por tal lo faze mío Çid que no lo ventasse nadi.»",
+          "autor": "",
+          "referencia_obra": "Ib . 433 (Cl. C. 24. 129). X"
+        },
+        {
+          "texto_cita": "«Así commo legó ala puerta, falola bien çerrada, | Por miedo del rey Alfonso, que assí lo auien parado | Que si non la quebrantas por fuerca, que non gela abriese nadi.»",
+          "autor": "Mndz. Pidal",
+          "referencia_obra": ", p. 910). X"
+        },
+        {
+          "texto_cita": "«Antes de la noche en Burgos dél su carta, | Con grand recabdo e fuertemientre sellada: | Que a Mío Çid Ruy Díaz que nadi nol diessen posada, | E aquel que gela diesse sopiesse una palbra, | Que perderíe los aueres e más los oios de la cara.»",
+          "autor": "",
+          "referencia_obra": "Ib . 27 (R. 1. 1 2 ). X"
+        },
+        {
+          "texto_cita": "«Con grand recabdo y fuerte mientre sellada: | Que a myo Çid Ruy Díaz, que nadi nol diessen posada.»",
+          "autor": "Mndz. Pidal",
+          "referencia_obra": ", p. 910)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. natus , que aparece en la forma homine natus . Tomó la i irradiada de qui a varios determinativos. La antigua forma nadi se hizo nade , como otri se hizo otre . De la competencia de nadi y nade surgió el moderno nadie hecho naide en la lengua vulgar por metátesis de i . En los siguientes ejemplos obsérvese la forma omne nado . X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Non viene a la pueent, ca por el agua apassado, | Que gelo non ventanssen de Burgos Omne nado.»",
+          "autor": "Cid",
+          "referencia_obra": ", 151 ( Mndz. Pidal , p. 913). X"
+        },
+        {
+          "texto_cita": "«Donna Endrina es nuestra, e fará mi mandado, | Non quiere ella casarse con otro omne nado.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 772 (R. 57. 251 1 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

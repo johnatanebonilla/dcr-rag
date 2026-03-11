@@ -1,0 +1,221 @@
+{
+  "lema": "ASAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Preparar una vianda exponiéndola á la acción del fuego ó del aire caldeado de un horno ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estábamos en Escalona, villa del duque della, en un mesón, y diome un pedazo de longaniza que le asase.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill . 1 (R. 3. 80 1 )."
+            },
+            {
+              "texto_cita": "«Pues mande el señor huésped, dijo Sancho, asar una polla que sea tierna.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 59 (R. 1. 528 2 )."
+            },
+            {
+              "texto_cita": "«Degolló á su hijo y sin tardanza le puso sobre el fuego, y le asó.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4. 16, § 3 (R. 6. 518 1 )."
+            },
+            {
+              "texto_cita": "«Capón y perdices asa, | Y pon el pavo á lo fresco.»",
+              "autor": "Lope",
+              "referencia_obra": ". Los embustes de Celauro , 1. 10 (R. 24. 92 3 )."
+            },
+            {
+              "texto_cita": "« Basta, que eres como pavo, | Que te asan entre papeles.»",
+              "autor": "",
+              "referencia_obra": "Id. Amar sin saber á quién , 2. 4 (R. 34. 451 2 )."
+            },
+            {
+              "texto_cita": "«Al peregrino que sus tierras pasa, | Vivo le come, le persigue y asa.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 4 (R. 17. 587 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo primero que se le ofreció á la vista de Sancho fue, espetado en un asador de un olmo entero, un entero novillo; y en el fuego donde se había de asar, ardía un mediano monte de leña.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 20 (R. 1. 445 2 )."
+            },
+            {
+              "texto_cita": "«Amor dicen que es tocino, | Que se asa aquí, y el vecino | Le huele como en la mano.»",
+              "autor": "Lope",
+              "referencia_obra": ", El amigo hasta la muerte , 1. 3 (R. 52. 324 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desa manera, aquel plato de perdices que están allí asadas, y á mi parecer bien sazonadas, no me harán algún daño.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 47 (R. 1. 500 2 )."
+            },
+            {
+              "texto_cita": "«De la parte de esta enramada, si no me engaño, sale un tufo y olor harto más de torreznos asados, que de juncos y tomillos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 20 (R. 1. 445 1 )."
+            },
+            {
+              "texto_cita": "«Asadas [las castañas] se ablandan mucho, y pierden aquella malicia que tienen.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen . 3. 20 (2. 175)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asar á la lumbre.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Asar en el horno.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            },
+            {
+              "texto_cita": "«Asar al horno,»",
+              "autor": "",
+              "referencia_obra": "que también se dice, parece menos propio, pues ni se trata de exposición, como en el ejemplo de la Academia, ni de mera situación, cercanía ó contacto."
+            },
+            {
+              "texto_cita": "«Poco á poco | Se asa al sol.»",
+              "autor": "Cald.",
+              "referencia_obra": "El mejor amigo el muerto , 2. 6 (R. 14. 477 2 )."
+            },
+            {
+              "texto_cita": "«Y en aquella noche comerán las carnes asadas al fuego, y panes ázimos con lechugas silvestres. No comeréis de él nada crudo, ni cocido en agua, sino sólo asado al fuego.»",
+              "autor": "Scío",
+              "referencia_obra": ", Ex . 12. 8, 9."
+            },
+            {
+              "texto_cita": "«Calabazas asadas al horno.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 201."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Refl . Sentir excesivo calor. Dícese también asarse vivo .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En la diligencia, como no tiene esa ventilación, se asa uno cuando le toca un día de chicharrero como el que tendremos hoy.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Un viaje en galera (353)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , que denota la causa ú origen.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asarse de calor.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aun no asamos y ya empringamos : refr. con que se reprende lo que se hace antes de llegar el tiempo oportuno.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cocho se come [el puerco montesino] e avn despues, asado.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 8 (60)."
+        },
+        {
+          "texto_cita": "«E troxieron muchos carneros que cocieron é adobaron, é un caballo que asaron.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 148."
+        },
+        {
+          "texto_cita": "«Señor, lo segundo que yo vos consejo, | Es que vos comades muy buenas viandas, | Capones assados, gallinas muy blandas.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ". p. 494. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "« Comia nueses primeras e asaba las castannas.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 1247 (R. 57. 266 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Fieruen sobre los fuegos otras tantas calderas | En que assan e cuezen las almas fornagueras.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2210 (R. 57. 215 1 )."
+        },
+        {
+          "texto_cita": "«Uenien cansados, | Ca los que del mar yexen, cochos son e assados.»",
+          "autor": "",
+          "referencia_obra": "Ib . 274 (R. 57. 156 1 )."
+        },
+        {
+          "texto_cita": "«Mandóles Moyses --- | Assado lo comiessen, non cocho el annel.»",
+          "autor": "Berc.",
+          "referencia_obra": "Sacrif . 149 (R. 57. 85 1 )."
+        },
+        {
+          "texto_cita": "«Pensat, diz Laurençio, tornar del otro lado, | Buscat buena peyrada, ca assaz so assado.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Laur . 104 (R. 57. 93 2 )."
+        },
+        {
+          "texto_cita": "«Si ante me oviessedes muerta o soterrada, | O en fuego metida --- | Non serie tan cocha oi, nin tan asada.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 59 (R. 57. 133 1 )."
+        },
+        {
+          "texto_cita": "«Sant Lorente el que Cesar ovo despues asado.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 82 (R. 57. 140 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., prov. assar : del lat. assare , denominativo de assus por arsus , asado, seco, cognado de arere , estar seco. Véase ARDER . ( Vanicek , Griech. lat. etym. Wörterb .) \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

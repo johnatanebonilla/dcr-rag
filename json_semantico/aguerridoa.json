@@ -1,0 +1,75 @@
+{
+  "lema": "AGUERRIDO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Ejercitado en la guerra, hecho á la guerra.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El guerrero que tenía contra sí estaba también acostumbrado á pelear, mandaba soldados aguerridos, y sobre todo no sabía ceder.»",
+          "autor": "Quint.",
+          "referencia_obra": "R. de Lauria (R. 19. 230 2 )."
+        },
+        {
+          "texto_cita": "«Quería con la fuerza de la armada poner en brida ciento cincuenta mil hombres aguerridos y ya en rebelión abierta.»",
+          "autor": "Saav.",
+          "referencia_obra": "Masan. 2. 10 (5. 208)."
+        },
+        {
+          "texto_cita": "«Vence al ejército sardo, el más aguerrido de Italia.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp . del siglo , 6 . 5 (6 . 17)."
+        },
+        {
+          "texto_cita": "«Los mal disciplinados paisanos fueron fácilmente arrollados por las tropas aguerridas del enemigo.»",
+          "autor": "Toreno",
+          "referencia_obra": ", Hist. 4 (R. 64. 91 2 )."
+        },
+        {
+          "texto_cita": "«Penetró, pues, en España al frente de un aguerrido ejército.»",
+          "autor": "Mesonero",
+          "referencia_obra": ", Mem. de un setentón , 1 . 3 (61)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Admite un compl. con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aguerrido en combates.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Aguerrido en las batallas.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Dícese del que está ejercitado en alguna faena ó labor dura, comparable á la guerra.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vos que sois joven, tened impreso siempre en la memoria este consejo de un hombre aguerrido y veterano en la ocupación de escribir.»",
+          "autor": "Forner",
+          "referencia_obra": ", Exequias de la lengua castell . (R. 63. 387 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Fr. aguerri , part. de aguerrir , ejercitar en la guerra. La Academia, Gram . p. 154 (año 1880), trae ya el infin. aguerrir . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

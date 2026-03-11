@@ -1,0 +1,711 @@
+{
+  "lema": "CULPAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Con acus. de pers. Declarar que alguno ha cometido culpa; atribuír la culpa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me espanto le parezca desatino todo; basta decirlo yo para quedar disculpado, ni yo culparé a quien lo dijere.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 26 (R. 53. 81 1 )."
+            },
+            {
+              "texto_cita": "«Mirad cómo respondió el Señor por la Madalena en casa del Fariseo, y cuando su hermana la culpaba.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cam. perf `. 15 (R. 53. 336 2 )."
+            },
+            {
+              "texto_cita": "«No culpó Job á los ladrones ni á sí: la mujer le tentó para que culpase á Dios.»",
+              "autor": "Quev.",
+              "referencia_obra": "Doctr. estoica (R. 69. 414, 415)."
+            },
+            {
+              "texto_cita": "«No hay razón para culpalles levemente, cuanto más para ofendelles con palabras tan descompuestas.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 45 (R. 21. 43 1 )."
+            },
+            {
+              "texto_cita": "«Nadie culpa á otro, porque ne se iguala al valor de aquel con quien no tiene parentesco.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 17 (R. 25. 46 1 )."
+            },
+            {
+              "texto_cita": "«Esta lucha violenta, este duro contraste nos interesa á favor de Fedra, á quien culpamos y compadecemos al mismo tiempo.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot . á la Poét. 5. 16 (1. 238)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Anda como quien desea arrojarse a decir que tuvo en estas conversaciones algún peligro de pecado mortal, pero, la verdad no le da lugar a este deseo de culparse determinadamente.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 1. 8 ( Míst . 1. 28)."
+            },
+            {
+              "texto_cita": "«Huír quiero: mas no; que esto es culparme.»",
+              "autor": "Rojas",
+              "referencia_obra": ", El más impropio verdugo, 2 (R. 54. 178 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando se cumplen las fuertes leves del gusto, como en ello no intervenga pecado, no debe de ser culpado el que las sigue.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 36 (11. 1. 357 1 ). — Con de , para expresar la culpa."
+            },
+            {
+              "texto_cita": "«Fuera de razón van todos aquellos que de sus penas y de la muerte de Grisóstomo me culpan.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 14 (R. 1. 282)."
+            },
+            {
+              "texto_cita": "«Amenazados del grande armamento que se hacía contra ellos en Brindis, empezaron á culpar de esta situación al almirante.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 224 1 )."
+            },
+            {
+              "texto_cita": "«Y atizando el odio contra la nobleza, á quien culpaba de todas las miserias del país ---»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1 . 6 (5. 64)."
+            },
+            {
+              "texto_cita": "«Ni puede culparse enteramente á Felipe III de falta de energía.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos, 1, p. 162. —"
+            },
+            {
+              "texto_cita": "«Sospecho — Que con enojo le escribes, | Y del que en esto recibes | Culpo mi inocente pecho.»",
+              "autor": "Lope",
+              "referencia_obra": ", La hermosa fea, 1 - 8 (R. 34. 352 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Culpábase á solas de su desatino, llamábase mal amigo y aun mal cristiano.»",
+              "autor": "",
+              "referencia_obra": "Cerv . Quij . 1. 33 (R. 1. 346 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de y un predicado expresivo de la culpa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Culpábale de mal sufrido en las palabras y obras.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granada, 3 (R. 21. 98 2 )."
+            },
+            {
+              "texto_cita": "«Todos culpan á Otavio de insolente.»",
+              "autor": "Lope",
+              "referencia_obra": ", Castelvines y Monteses, 2 . 15 (R. 52. 12 1 )."
+            },
+            {
+              "texto_cita": "«Culparéisme de ingrato | Porque palabras dadas os dilato, | Y no os doy á Leonora.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por razón de estado, 3. 4 (R. 5. 178 2 )."
+            },
+            {
+              "texto_cita": "«¡Múdase tal varón en un instante!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los favores del mundo, 2 . 15 (R. 20.13 2 )."
+            },
+            {
+              "texto_cita": "«Salí, y pensando que hablaba Contiyo, hablé con Enrique, | ¿Qué me culpas de liviana?»",
+              "autor": "",
+              "referencia_obra": "Id. La prueba de las promesas, 3 (R. 20. 448 1 )."
+            },
+            {
+              "texto_cita": "«Ya culpándole está de negligente.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 8 (R. 17. 230 1 )."
+            },
+            {
+              "texto_cita": "«Culparíamos de ambicioso al que intentase mejorarle [á Garcilaso Inga].»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Mej. 1 . 2 (R. 28. 209 1 )."
+            },
+            {
+              "texto_cita": "«Le culpa [Gómara] en esto de pusilánime.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 8 (R. 28. 215 1 )."
+            },
+            {
+              "texto_cita": "«Culpaban él y los de su opinión á Hernán Cortes de obstinado en aquella conquista.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 5. 19 (R. 28. 374 1 )."
+            },
+            {
+              "texto_cita": "«Que dando solos con él, le culpan de excesivamente débil.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. catál. 129 (R. 2. 209 1 )."
+            },
+            {
+              "texto_cita": "«Podrá Luciano, podrá | Culparme de veleidoso.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Primero yo, 2. 4 (99). —"
+            },
+            {
+              "texto_cita": "«Y culpando á su pecho de remiso, | La jornada mudó.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 5 (R. 17. 197 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Rara vez va este pred. sin prep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nos mirábamos los dos --- | Yo culpándote remiso, | Tú temiéndome soberbia; | Yo intentando que me hablaras, | Tú intentando que te oyera.»",
+              "autor": "Rojas",
+              "referencia_obra": ", Progne y Filomena, 1 (R. 54. 39 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de y un infin. ó una prop. indic. ó subj.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchos | Me estaban siempre culpando | De tener los intereses | De mi casa abandonados.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El señorito mimado , 1. 6 (4. 169)."
+            },
+            {
+              "texto_cita": "«Han pretendido culparlos [á los judíos] de haber introducido un texto supuesto del antiguo Testamento.»",
+              "autor": "Scío",
+              "referencia_obra": ", Biblia, disert. 2, § 1 (1. XXXVII)."
+            },
+            {
+              "texto_cita": "«Nos culparon de no haber celebrado nuestras sesiones en público.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junla Central , 2. 2 (R. 46. 540 1 ). —"
+            },
+            {
+              "texto_cita": "«Pues no me podrá culpar | De que no me supe honrar | En su ausencia.»",
+              "autor": "Cald.",
+              "referencia_obra": "Peor está que estaba , 3. 4 (R. 7. 104 2 )."
+            },
+            {
+              "texto_cita": "«Tal vez es ésta, señor, la primera vez en que se culpa á un escritor de que ame fuertemente á su patria.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd. p. 78."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con por , que expresa propiamente la causa de la inculpación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Culpar á otro por lo que hace.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Culpar por haber faltado.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con en y un nombre de cosa significaiivo de aquello en que consiste la culpa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si me culpara en haberlo dejado, le preguntara yo ---»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 22 (R. 18. 421 1 )."
+            },
+            {
+              "texto_cita": "«Solo en esto la culpo, que no me advirtió deste daño.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 3 (R. 1. 39 1 )."
+            },
+            {
+              "texto_cita": "«A lo que dijo el duque: Sancho está muy en lo cierto, y no hay que culparle en nada.»",
+              "autor": "",
+              "referencia_obra": "Id . Quij . 2. 31 (R. 1. 469 2 )."
+            },
+            {
+              "texto_cita": "«Cúlpote en una cosa, | Y es, que adornarte quieres y pulirte, | Creyendo ser hermosa.»",
+              "autor": "Jáur.",
+              "referencia_obra": "canc. Cuando tus huesos miro (R. 42. 120 1 )."
+            },
+            {
+              "texto_cita": "«No solamente le culpan en los negocios que pasan por su mano, sino en los ajenos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 50 (R. 25. 129 1 )."
+            },
+            {
+              "texto_cita": "«Le dijo que ya quedaban condenados á muerte Cualpopoca y los demás delincuentes por haber confesado su delito y ser dignos de semejante demostración; pero que le habían culpado en él, diciendo afirmativamente que lo cometieron de su orden.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 20 (R. 28. 299 1 )."
+            },
+            {
+              "texto_cita": "«Sarai culpa á Abram en lo que ella misma es culpable.»",
+              "autor": "Scío",
+              "referencia_obra": ", Gén . 16. 5, nota ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Part . Que ha cometido culpa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ne querría que se os acordase, sino que holgásedes de quedar por culpadas.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf . 15 (R. 53. 336 2. En las ediciones vulgares falta el por .)."
+            },
+            {
+              "texto_cita": "«Si quisiere mostrarme inocente, él mostrará que soy culpado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 37 (R. 6. 272 1 )."
+            },
+            {
+              "texto_cita": "«La pena no hace al hombre culpado, sino la causa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 27, § 7 (R. 6. 449 2 )."
+            },
+            {
+              "texto_cita": "«Mientra mayores dolores padecía por los pecados --- más copiosamente redemía al hombre culpado.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 6. 6, § 1 (R. 8. 352 2 )."
+            },
+            {
+              "texto_cita": "«Estando para decir misa de pontifical, y comenzándose á vestir una dignidad para decir el Evangelio, la cual estaba en la tierra algo infamada, le mandó que no se vistiese con él, por no honrar la culpa honrando la persona culpada.»",
+              "autor": "",
+              "referencia_obra": "Id. Vida de B. de los Márt. 7 (R. 11. 440 1 )."
+            },
+            {
+              "texto_cita": "«Si eres culpado, determina de emendarte de buena gana.»",
+              "autor": "",
+              "referencia_obra": "Id. Imit . 3. 51 (R. 11. 413 2 )."
+            },
+            {
+              "texto_cita": "«No porque todos fuésemos cuipados, que algunos había cristianos firmes y verdaderos; pero eran tan pocos, que no se podían oponer á los que no lo eran.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 54 (R. 1. 518 1 )."
+            },
+            {
+              "texto_cita": "«Culpada estáis: indicio es manifiesto | Tu lengua muda, tu inclinado gesto.»",
+              "autor": "",
+              "referencia_obra": "Id. El laberinto de amor, 1 ( Com . 2. 119)."
+            },
+            {
+              "texto_cita": "«A don Francisco Ventimilla salvó, aunque más culpado que todos, su mucha nobleza y pocos años.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 27 1 )."
+            },
+            {
+              "texto_cita": "«Culpado, Ismael, está | Quien sin ocasión se excusa.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La prudencia en la mujer, 2. 3 (R. 5. 293 3 )."
+            },
+            {
+              "texto_cita": "«Estoy confiado que al fin ha de librarme | Mi inocencia; y ausentarme | Es confesarme culpado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Ganar amigos, 3. 18 (R. 20. 357 2 )."
+            },
+            {
+              "texto_cita": "«Debían [los reyes] imitar en algo á los reos cuando se hallaban culpados y trataban de satisfacer á la justicia del cielo.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 20 (R. 28. 299 1 )."
+            },
+            {
+              "texto_cita": "«Mas si se sabe | La causa, ni ella es culpada, | Ni en su decoro hay ultraje.»",
+              "autor": "",
+              "referencia_obra": "Mto . Trampa adelante, 3. 19 (R. 39. 165 2 )."
+            },
+            {
+              "texto_cita": "«Sólo se valen de una especie de instinto que les queda para hacer daño á todos cuantos se les presenten, ya sea amigo o enemigo, débil ó fuerte, inocente ó culpado.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr . 58 (2. 236)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en para expresar aquello en que consiste la culpa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Señor, si en nada de esto estás culpado, | No es bien que te congoje nada de esto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El lab rinto de amor, 1 ( Com . 2. 130)."
+            },
+            {
+              "texto_cita": "«Como en las culpas de Enrico | No me hallaron culpado, Luégo --- | Me echaron la puerta afuera.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El condenado por desconfiado, 3. 21 (R. 5. 202 2 )."
+            },
+            {
+              "texto_cita": "«Aunque no estés | Culpado en esta traición, | La autoridad, la opinion | Común en tu daño es.»",
+              "autor": "Cald.",
+              "referencia_obra": "Argenis y Poliarco, 1. 7 (R. 7. 440 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dice el culpado al juez Señor, yo concedo y confieso que he pecado mucho.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 21 ( Míst. 3. 166)."
+            },
+            {
+              "texto_cita": "«Sosegó y ordenó las cosas del reino y castigó á los culpados.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 7. 17 (R. 30. 213 1 )."
+            },
+            {
+              "texto_cita": "«El castigo de los culpados fue menor que el de Toledo\": ahorcó trescientos de ellos á la ribera del río.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 7. 12 (R. 30. 206 2 )."
+            },
+            {
+              "texto_cita": "«Los culpados fueron castigados; los que no tenían culpa quedaron libres.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 15. 11 (R. 30. 444 2 )."
+            },
+            {
+              "texto_cita": "«Por amor de Dios [le suplicaron] lo hiciese, pues ellos veían clara la culpa del culpado.»",
+              "autor": "Lazar.",
+              "referencia_obra": "5 (R. 3. 89 1 )."
+            },
+            {
+              "texto_cita": "«Privados del refugio de los lugares de señorío, donde los culpados, puesto que por accidentes ó por venganzas (ésta es la causa entre ellos mas justificada), se aseguran.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 1 (R. 21. 72 2 )."
+            },
+            {
+              "texto_cita": "«Castigó los culpados como convenía.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4 (R. 21. 118 2 )."
+            },
+            {
+              "texto_cita": "«El número de los castigados [por la Inquisición] en todos estos cien años no sé si llegaría á mil ó dos mil culpados que padeciesen.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 2. 21 (R. 6. 652 1 )."
+            },
+            {
+              "texto_cita": "«A la justicia [pertenece] castigar severamente lós delitos del culpado.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist . 6. 6, § 1 (R. 8. 354 1 )."
+            },
+            {
+              "texto_cita": "«Una manera de abstinencia pertenece á los inocentes, y otra á los culpados.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. espir. 14 (R. 11. 326 2 )."
+            },
+            {
+              "texto_cita": "«Averiguad la verdad | Y castigad los culpados.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La industria y la suerte, 3. 17 (R. 30. 413)."
+            },
+            {
+              "texto_cita": "«Llegaban, cuando mucho, a decirle castigase los culpados sin excepción de dignidad ó fuero.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 1 (R. 21. 467 1 )."
+            },
+            {
+              "texto_cita": "«Su terrible acento conturbaría á cuantos le oyesen, llenaría de desesperación al culpado, de temor al inocente, al ignorante de confusión.»",
+              "autor": "",
+              "referencia_obra": "Mor . Hamlet, 12. 11 (R. 2. 506)."
+            },
+            {
+              "texto_cita": "«No pertenece menos al oficio de la juslicia la protección y defensa del inocente que el castigo del culpado.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog . de Is. la Cat. ilustr . 8 ( Mem. Acad. Hist . 6. 205)."
+            },
+            {
+              "texto_cita": "«¿Por qué tan injustamente | Habéis de mí sospechado | Que puedo con el culpado | Confundir al inocente?»",
+              "autor": "Hartz.",
+              "referencia_obra": "La madre de Pelayo , 1. 5 (194)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Impropiamente se ha usado por culpable .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No es mi traición tan culpada: | Tened la ira vengativa.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La prudenoia en la mujer , 2. 2 (R. 5. 293 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Con acus. de cosa. Tomar como culpa, juzgar culpable ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo lo culpa é interpreta siniestramente el odio.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 38 (11. 25. 97 2 )."
+            },
+            {
+              "texto_cita": "«El hombre ha de culpar la vida ajena | No con su entendimiento, con su ejemplo.»",
+              "autor": "Lope",
+              "referencia_obra": ", son . 13 ( Obr. suelt . 1. 384)."
+            },
+            {
+              "texto_cita": "«Yo culpé, yo resistí | Que guerra á su sangre hiciera: | Me mandó que le siguiera, | Y entonces obedecí.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La jura en Santa Gadea , 1. 1 (161)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para señalar la persona en quien se ve la culpa |",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Julio César alaba los clamores de sus soldados, culpando el silencio en los de Pompeyo.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. 1. 19 (R. 28. 228 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con dat. de la persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Calla, calla, Filomena. | — ¿La voz culpas á mi lábio, | Y á mi lengua pones freno?»",
+              "autor": "Rojas",
+              "referencia_obra": ", Progne y Filomena , 1 (R. 54. 44 2 )."
+            },
+            {
+              "texto_cita": "«Que vuestro prometí ser | Me habéis llegado á culpar.»",
+              "autor": "",
+              "referencia_obra": "Id . Obligadosy ofendidos , 1 (R. 54. 62 3 ):"
+            },
+            {
+              "texto_cita": "«Verás como | La furia del tirano despreciando, | Le culpo su perfidia.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Pelayo, 1. 1 (R. 46. 54 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En el síguiente lugar está puesto impropiamente el verbo en lugar de atribuír, imputar .» Envió diligentes emisarios por todas partes á calmar los amotinados grupos, culpando la carestía del pan á los panaderos.» A. Saav. Masan. 1. 20 (5. 153).",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En este otro parece que al autor se hubiera ofrecido al tiempo de usar el verbo la frase echar la culpa ; sin esto probablemente no hubiera empleado la prep . á.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo supe que Isabel | Sangre de Enrique tenía | Cuando era ya esposa mía: | Culpe á sus misterios él.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Isabel y Gonzalo , 2 (40.1)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Con suj. de cosa. Hacer culpable ( trans .) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Amé, en fin, ya está supuesto, | Que no culpa ser amante.»",
+          "autor": "Rojas",
+          "referencia_obra": ", El más impropio verdugo , 2 (R. 54. 181 2 )."
+        },
+        {
+          "texto_cita": "«Os culpan de falsedad | Palabras que son mentira | Y acciones que son verdad.»",
+          "autor": "Hartz.",
+          "referencia_obra": "Alfonso el Casto , 2. 15 (71)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Cometer culpa, delitiquir ( intrans .). Esta acepción se usó en la baja latinidad y se conserva en ital. En cast. se halla hasta el siglo XVII el verbal culpante por culpado , lo cual comprueba la legitimidad de esta acepción, por otra parte rarísima.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y ¿qué merecen los muertos | En lo que hicieron los vivos? | Y ¿qué han culpado en Zamora | Calles, plazas, edificios?»",
+          "autor": "G. de Castro",
+          "referencia_obra": ", Las mocedades del Cid , 2ª. pte. 2 (R. 43. 270 2 ). —"
+        },
+        {
+          "texto_cita": "«Los legos que en esto fueren culpantes en cualquier manera --- incurran en pena de muerte y perdimiento de bienes.»",
+          "autor": "",
+          "referencia_obra": "Nov. Recop. 1 . 13. 1, año de 1543 (1. 102)."
+        },
+        {
+          "texto_cita": "«Aunque yo solo culpante | En las locuras de amante, | ¿De quién me puedo quejar | Si me dejé aconsejar | De un hombre tan ignorante?»",
+          "autor": "Lope",
+          "referencia_obra": ", Los milagros del desprecio, 2. 13 (R. 34. 244 1 )."
+        },
+        {
+          "texto_cita": "«En ninguna cosa he sido culpante de la culpa en que los de mí nación han caído.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 63 (R. 1. 540 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Es mejor que sean ellos culpados por no venir, que nosotros por no esperar.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 13 (95)."
+        },
+        {
+          "texto_cita": "«Mandó facer justicia de aquellos que falló culpados, é los mandó degollar.»",
+          "autor": "",
+          "referencia_obra": "Cron. Álv. de Luna, 36 (112). —"
+        },
+        {
+          "texto_cita": "«Se han hallado muy culpantes en los dichos crimenes y delitos .»",
+          "autor": "",
+          "referencia_obra": "Nov. Recop. 12. 1. 3, año 1492 (4. 518)."
+        },
+        {
+          "texto_cita": "«Ellos no querían ser culpantes en este caso.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II, 2. 5 (R. 68. 306 2 )."
+        },
+        {
+          "texto_cita": "«Mandó hacer la pesquisa é dar pena á los principales que en esto halló culpantes.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 54 (R. 68. 300 2 )."
+        },
+        {
+          "texto_cita": "«Non fue culpante dello nin fue cabsa dello nin lo quiso.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1439 ( Santill. CXXXVIII )."
+        },
+        {
+          "texto_cita": "«Apiado la ignorancia | Del culpante y del ignaro.»",
+          "autor": "Mena",
+          "referencia_obra": ", Santa paz , santo misterio (198: Madrid, 1804)."
+        },
+        {
+          "texto_cita": "«E sy en caso de otros menores señores esto acaesçiere, de menores castigos los culpantes corregidos sean.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cís. 17 (106). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Non puede desuiar | Que non, entropieçe en caso de culpar.»",
+          "autor": "Pal.",
+          "referencia_obra": "682 (R. 57. 446 2 )."
+        },
+        {
+          "texto_cita": "«Yo tomé guerra muy mala, | Connoscome por culpado.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 576 (R. 57. 494 2 )."
+        },
+        {
+          "texto_cita": "«Porque me mantuve siempre et usé estado de caballería, tengo non so de culpar si á estas cosas non vos puedo responder tan complidamente como seria mester.»",
+          "autor": "",
+          "referencia_obra": "J. Man . Caball. é escud. 35 (R. 51. 242 2 )."
+        },
+        {
+          "texto_cita": "«Si por la pesquisa lo fallasen culpado --- debenlo prender.»",
+          "autor": "O. L.",
+          "referencia_obra": "2. 290). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Las debdas que deviere d'ante que sea dado por culpado, que se paguen de lo suyo.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 126)."
+        },
+        {
+          "texto_cita": "«El home culpado non puede castigar bien a ninguno.»",
+          "autor": "",
+          "referencia_obra": "1992). Cast. é docum . 70 (R. 51. 199 2 )."
+        },
+        {
+          "texto_cita": "«La cual pena cae sobre los culpados é sobre su generacion.»",
+          "autor": "",
+          "referencia_obra": "Ib . 10 (R. 51. 111 1 )."
+        },
+        {
+          "texto_cita": "«El amor de la grand fermosura de la dueña gelo fiziera fazer, e non era mucho de culpar.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 108 (74 1 )."
+        },
+        {
+          "texto_cita": "«Culpado es mucho el senor quando face contra el vasallo cosa por que le ha de emplazar el castiello que tiene dél.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 18. 23 (2. 170)."
+        },
+        {
+          "texto_cita": "«Sopo que si --- oyese su respuesta á su excusacion, que le non culparia nin creeria cosa de lo que Dymna le hobiese dicho.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 27 2 )."
+        },
+        {
+          "texto_cita": "«Falló que habia el ladron llevado cuanto tenia, et entonce comenzó el home bueno á culparse é maltraerse.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51.12 1 )."
+        },
+        {
+          "texto_cita": "«El juez que justicia el omne de muerte, que non era enculpado, deve morir tal muerte qual él dio al otro que non era culpado.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 7. 4. 5 (127)."
+        },
+        {
+          "texto_cita": "«Si algun omne es culpado de muchas debdas ó de muchas culpas, aquel omne que prí meramientre ge lo demandare -- á aquel deve primerani i entre fazer paga.»",
+          "autor": "",
+          "referencia_obra": "Ib . 5. 6. 5 (93). —"
+        },
+        {
+          "texto_cita": "«Será culpante»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. culpar ; prov. colpar ; fr. ant. colper; it. colpare : del lat. culpare , denominativo de culpa , voz sobre cuyo orígen se han hecho multitud de conjeturas. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

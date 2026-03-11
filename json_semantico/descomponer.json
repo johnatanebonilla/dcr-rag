@@ -1,0 +1,756 @@
+{
+  "lema": "DESCOMPONER",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Quitar el orden, buena disposición ú ornato con que estaba arreglada alguna cosa, desordenar, desbaratar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El toro, huído del altar, descompuso el aparato del sacrificio.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Tác. Hist . 3. 56 (190)."
+            },
+            {
+              "texto_cita": "«Hizo luégo descomponer el altar y descolgar todo lo que se había puesto en la iglesia.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta . Ter. ». 2. 25 ( Míst . 1. 217)."
+            },
+            {
+              "texto_cita": "«No quieres moverte á defenderle por no poner á riesgo de descomponer la afeitada compostura de tu galán vestido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2 (R. 1. 121 2 )."
+            },
+            {
+              "texto_cita": "«Tened la espada, | No os apretéis el sombrero | Ni descompongáis la capa.»",
+              "autor": "Lope",
+              "referencia_obra": ", Más pueden celos que amor , 3. 13 (R. 34. 188 1 )."
+            },
+            {
+              "texto_cita": "«Ya no se dan coronas | Cívicas ni murales; | El tiempo las marchita y descompone.»",
+              "autor": "",
+              "referencia_obra": "Id. Arcadia , 3 ( Obr. suelt . 6. 238)."
+            },
+            {
+              "texto_cita": "«Tanta belleza y varios resplandores | Un día mesmo adorna, descompone.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 15 (R. 32. 338 1 )."
+            },
+            {
+              "texto_cita": "«Allá brama alterada la gran plaza, | Si el toro descompone á algún jinete.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Para ver acosar (R. 42. 303 1 )."
+            },
+            {
+              "texto_cita": "«Su infausta luz contra los cetros vibre, | Y como deje en paz mi arrobamiento, | Vierta discordia y descomponga al mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. son. Mírame con piedad (R. 42. 296 2 )."
+            },
+            {
+              "texto_cita": "«El príncipe prudente temple las cuerdas así como están; y no las mude, si ya el tiempo y los accidentes no las descompusieren.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 61 (R. 25. 169 1 )."
+            },
+            {
+              "texto_cita": "«El lenguaje poético es tan diferente del de la prosa, que aun descomponiéndolo y deshaciendo los versos, debe conservar aquella calidad.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 2. 7 (1. 131)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α)",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que cuando el huésped se muda, | Descompónese la casa.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El pretendiente al revés , 3. 7 (R. 5. 38 3 )."
+            },
+            {
+              "texto_cita": "«Presto se descompondría todo, si aborreciesen [los elementos] á la naturaleza, princesa dellos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 38 (R. 25. 96 1 )."
+            },
+            {
+              "texto_cita": "«Se descomponia el enemigo al acometer de los caballos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 20 (R. 28. 339 2 )."
+            },
+            {
+              "texto_cita": "«Dieron y recibieron las primeras cargas sin descomponerse ni precipitarse.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 13 (R. 28. 326 1 )."
+            },
+            {
+              "texto_cita": "«0 por nuevo se descompone [un reino], ó por antiguo se deshace.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 61 (R. 25. 169 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Miróse al fin descompuesta, mas con todo se satisfizo, porque aunque descompuesta, se vio hermosa.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", Amarilis , 2 (141)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado á lo inmaterial ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Necia de amor y de celos, | Con Blanca ha de procurar | Descomponer mis intentos.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La industria y la suerte , 2. 4 (R. 20. 30 3 )."
+            },
+            {
+              "texto_cita": "«¿Qué de imposibles se oponen | A nuestros buenos deseos | ¡Qué miedos, qué devaneos | Nuestra intención descomponen!»",
+              "autor": "Cerv.",
+              "referencia_obra": "El laberinto de amor , 1 ( Com . 2. 125)."
+            },
+            {
+              "texto_cita": "«Si alguno le descompuso [el equilibrio] pasándose á la facción contraria, causó la perturbación y ruina de Italia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 95 (R. 25. 248 2 )."
+            },
+            {
+              "texto_cita": "«Accidentes que no se pudieron prevenir, ó alguna aprensión siniestra descomponen la gracia entre el príncipe y los súbditos, sin que pueda volver á cobralla.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 38 (R. 25. 98 1 )."
+            },
+            {
+              "texto_cita": "«La cual acción se puede muy bien quitar sin dejar vacío y sin descomponer la unión de la fábula y de sus demás partes.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Poct . 3. 9 (2. 159)."
+            },
+            {
+              "texto_cita": "«¡Ay, señora de mi alma! | Que don Luis nos descompone | Nuestro plan.»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojigata , 3. 1 (R. 2. 407 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cebada una vez la cudicia en los bienes públicos, pasa á cebarse en los particulares; con que se descompone el fin principal de la compañía política, que consiste en la conservación de los bienes de cada uno.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 53 (R. 25. 141 2 )."
+            },
+            {
+              "texto_cita": "«Las obligaciones de vasallaje y los mayores vínculos de amistad y sangre se descomponen y rompen por conservar el culto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 60 (R. 25. 166 1 )."
+            },
+            {
+              "texto_cita": "«Si me desespero y me confundo, es por ver que todo se me descompone, que he perdido mi tiempo, que la comedia no vale un cuarto.»",
+              "autor": "Mor.",
+              "referencia_obra": "La comedia nueva , 2. 8 (R. 2. 371 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Desazonar, quitar al cuerpo la buena disposición del estado de sanidad ( trans . ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dije que en Valencia | Muchas hacen diligencia | Para poderte engañar; | Mas que tú, de puro honesto, | Resistes á su afición, | Y una dellas con pasión | Te ha hechizado y descompuesto; | Mas que un remedio te dan: | Bendecirte una doncella.»",
+              "autor": "Lope",
+              "referencia_obra": ", El bobo del colegio , 1. 4 (R. 28. 183 1 )."
+            },
+            {
+              "texto_cita": "«La apretaban á veces algunos dolores tan recios y agudos, que la descomponian lo interior y exterior.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 1. 12 ( Míst . 1. 50)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Desazonarse, perder el cuerpo la buena disposición del estado de sanidad.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part. El deshielo me ha dejado muy descompuesto. —",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me dejastes con recelo | En esta calle, por iros | Con el rostro descompuesto.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante , 2. 17 (R. 39. 157 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. En un sentido análogo se dice con respecto á lo moral.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí comenzó el demonio á descomponer mi alma, aunque Dios sacó dello harto bien.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 5 (R. 53. 30 1 )."
+            },
+            {
+              "texto_cita": "«No extraño yo que á la primera ausencia, | Señora, os descomponga el sentimiento; | Porque tanto es más áspero un tormento, | Cuanto socorre menos la experiencia.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. que principia así (R. 42. 356 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La música compone los ánimos descompuestos, y alivia los trabajos que nacen del espíritu.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 28 (R. 1. 326 1 )."
+            },
+            {
+              "texto_cita": "«Asistía de ordinario á los divinos oficios y á los sermones --- con tanta atención y reverencia, que la ponía en los más descompuestos.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 3. 6 (139)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Indisponer, hacer perder la amistad, confianza ó buena correspondencia ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Sirve de acus. un nombre en plur. que representa las personas ó voluntades que se indisponen.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Que tanto descompuso la pendencia | Dos voluntades que el amor tenía | En tan estrechos lazos obligadas?»",
+              "autor": "Lope",
+              "referencia_obra": ", Los embustes de Celauro , 2. 1 (R. 24. 96 3 )."
+            },
+            {
+              "texto_cita": "«Viendo pues que no tuvieron | Mis penas remedio nunca, | Pretendo descomponerlos | Y dar principio á las suyas.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib. 1. 16 (R. 24. 94 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Alguna trama | Discurriremos también | Para que hermano y hermana | Vuelvan á descomponerse.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", La señorita malcriada , 1. 7 (7. 160)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eran no más que apariencias [de buena armonía]: los dos hermanos estaban ya descompuestos.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 389 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Sirve de acus. uno solo de los individuos á quienes se indispone.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No era aquel tiempo tan turbio á propósito para descomponer á nadie, y menos al marqués de Villena, si le despojaban de aquella dignidad.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 18. 15 (R. 31. 27 1 )."
+            },
+            {
+              "texto_cita": "«Con esto no habrá sospecha | Acerca de mi opinión, | Que á descomponerme venga.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La villana de Vallecas , 3. 1 (R. 5. 60 1 )."
+            },
+            {
+              "texto_cita": "«Si alguno le parece que se le va entrando al señor en la voluntad, por mil caminos le descompone.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 8 (R. 18. 395 2 )."
+            },
+            {
+              "texto_cita": "«Era del rey privado este que digo, | Y como mi enemigo | Me descompuso su intención de suerte, | Que recelé la muerte.»",
+              "autor": "Rojas",
+              "referencia_obra": ", S. Isabel , reina de Portugal , 2 (R. 54. 260 1 )."
+            },
+            {
+              "texto_cita": "«Habiendo ganado [Hispón] la gracia de Tiberio César, y apoderádose de la monarquía mediante la privanza, intentó descomponer todos los hombres principales de Roma, al principio con disimulación y después desvergonzadamente.»",
+              "autor": "Márquez",
+              "referencia_obra": ", Gob. crist . 1. 3 (20: Pamplona, 1615)."
+            },
+            {
+              "texto_cita": "«Nadie ha de pensar que puede mudar el curso de los negocios ni descomponer los ministros.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 76 (R. 25. 208 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con para expresar el otro individuo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que me habían descompuesto con él, temiendo que yo, desobligado, le advirtiese --- me prendieron y desterraron.»",
+              "autor": "Quev.",
+              "referencia_obra": "Grandes anales (R. 23. 202 2 )."
+            },
+            {
+              "texto_cita": "«Envidiosos de sus buenos sucesos, le descompusieron con su maestre, haciéndole cargo que ---»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 3 (R. 21. 5 1 )."
+            },
+            {
+              "texto_cita": "«Témome que ocasionáis | Que algún traidor se desmande | Contra mí y descomponerme | Con vuestra alteza procure.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La prudencia en la mujer , 2. 9 (R. 5. 296 2 )."
+            },
+            {
+              "texto_cita": "«Con Laura me ha descompuesto | Doña Petronila.»",
+              "autor": "Fernández",
+              "referencia_obra": ", 3. 5 (R. 5. 646 1 )."
+            },
+            {
+              "texto_cita": "«Veré si alguna de aquellas fermosas damas --- muestra algunas señales de verdadero amor --- para que desta manera siendo envidiado de muchos caballeros de los del tusón, procuren todos por varios caminos descomponerme con el rey.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 3 (R. 18. 10 1 )."
+            },
+            {
+              "texto_cita": "«Las asechanzas, malicias y chismes con que nuestros antiguos émulos nos iban desacreditando y descomponiendo con su tío don Gutierre.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold . Pínd . 1. 15 (R. 18. 307 1 )."
+            },
+            {
+              "texto_cita": "«Destas artes usaba Seyano para descomponer con Tiberio á Germánico.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 46 (R. 25. 116 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Hacer perder la serenidad ó circunspección habitual ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni nos desvanezcan las redes tiradas á la orilla con el colmo de nuestros intentos, ni nos descompongan las que salieren vacías.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 2 9 (R. 25. 77 1 )."
+            },
+            {
+              "texto_cita": "«Si tuviera por ofensa que otro le descompusiese el manto real, tenga por reputación que ninguno le descomponga el ánimo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 8 (R. 25. 26 1 )."
+            },
+            {
+              "texto_cita": "«Suspenso un rato el grave rey se pone, | Con la grandeza de ánimo enseñando | Que no le alegra, mueve y descompone | El bien que pudo enloquecer á Orlando.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 18 ( Obr. suelt . 2. 288)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue menester para que volviese en sí [Ester], que reducido por Dios á mansedumbre su espíritu descompuesto [de Asuero], le hiciese tocar el cetro.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 39 (R. 25. 100 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á , para expresar aquello á que se llega al perder la calma.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cesad, | Señora, que esa razón | Puede sólo á vuestros ojos | Descomponerme al furor.»",
+              "autor": "Mto.",
+              "referencia_obra": "Primero es la honra , 3. 1 (R. 39. 243 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Perder, hablando ú obrando, la serenidad ó circunspección habitual.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Les es menester [á los embajadores] estar | Como dueñas encerrados --- | Por no se descomponer | Y guardar su autoridad.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 223 3 )."
+            },
+            {
+              "texto_cita": "«No halla la comida aderezada, descompónese y ofende á Dios.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Ven. Esp. Santo , 1 (2. 226)."
+            },
+            {
+              "texto_cita": "«Ríome --- | De la sujeción tan grande | Con que los señores viven, | Pues por no descomponerse | A duras penas se ríen.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 114 (R. 32. 549 2 )."
+            },
+            {
+              "texto_cita": "«De suerte amor me provoca, | Mi bien, á descomponerme, | Que pienso que has de tenerme | Por atrevida ó por loca.»",
+              "autor": "Lope",
+              "referencia_obra": ", La ley ejecutada , 1. 8 (R. 41. 183 3 )."
+            },
+            {
+              "texto_cita": "«Aunque con riguridad | Responderos fuera bien, | No quiero descomponerme.»",
+              "autor": "",
+              "referencia_obra": "Id. La buena guarda , 1 (R. 41. 328 3 )."
+            },
+            {
+              "texto_cita": "«Ténganse, digo; si no, por Dios que me descomponga de modo que pese á alguno.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La guarda cuidadosa ( Com . 1. 230)."
+            },
+            {
+              "texto_cita": "«Tratábame mal mi hermano; | Sufríle mil desatinos, | Por ser menor y más pobre; | Mas como no es infinito | El sufrimiento en un hombre, | Acabóse en fin el mío. | Descompúsose una vez | Demasïado: reñimos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El castigo del penseque , 2. 11 (R. 5. 82 2 )."
+            },
+            {
+              "texto_cita": "«Debe de desengañarla | El duque; mas es discreto | Don Guillén, y cortesano, | Y no es bien que en este puesto | La obligue á descomponerse.»",
+              "autor": "",
+              "referencia_obra": "Id. El amor y el amistad , 2. 13 (R. 5. 338 1 )."
+            },
+            {
+              "texto_cita": "«Su andar muy de espacio; si se descomponía algo, sonaban los huesos como tablillas de san Lázaro.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 3 (R. 23. 489 1 )."
+            },
+            {
+              "texto_cita": "«Habita la ira en las orejas, o por lo menos está casi siempre asomada á ellas; éstas debe cautelar el príncipe, para que no le obliguen siniestras relaciones á descomponerse con ella ligeramente.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 8 (R. 25. 27 1 )."
+            },
+            {
+              "texto_cita": "«Tened, no os descompongáis, | Don Pedro.»",
+              "autor": "Mto.",
+              "referencia_obra": "No puede ser , 1. 2 (R. 39. 190 3 )"
+            },
+            {
+              "texto_cita": "«Pues ¿qué malicia, atrevida? | Ea, entraos allá dentro, | No me hagáis descomponer.»",
+              "autor": "",
+              "referencia_obra": "Id. De fuera vendrá , 2. 4 (R. 39. 66 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con , para expresar la persona á quien se falta al respeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tuvo envidia de lo que la santa virgen había hecho en ayunar toda la semana, y se descompuso con ella diciéndole que era ambición é hipocresía.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS . 27 de febr ."
+            },
+            {
+              "texto_cita": "«Mi enojo experimentaras--- | Tanto, que otra vez no osaras | Descomponerte conmigo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El celoso prudente , 2. 8 (R. 5. 622 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En igual sentido se usa un dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se ejercitaba en remediar mujeres de mal vivir, y los hombrecillos que las traían se le descomponían por esta causa.»",
+              "autor": "Palma",
+              "referencia_obra": ", Vida de G. de la Palm. , p. 11."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tanto me encendí, que casi me descompuse á querer decir algunas libertades de que después me pesara.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 2. 9 (R. 3. 236 1 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Descomponerse en palabras.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Que se altera faltando al respeto ó á los miramientos debidos, atrevido, descortés.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh bellaco villano, mal mirado, descompuesto é ignorante!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 46 (R. 1. 385 2 )."
+            },
+            {
+              "texto_cita": "«Entre científicas personas --- | Suele mezclarse vulgo descompuesto, | A toda acción de libertad dispuesto.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo , silva 9 ( Obr. suelt . 1. 188)."
+            },
+            {
+              "texto_cita": "«Este hombre te ha de matar, | Atrevido y descompuesto.»",
+              "autor": "",
+              "referencia_obra": "Id. El mejor alcalde el rey , 2. 7 (R. 24. 483 1 )."
+            },
+            {
+              "texto_cita": "«¡A mí me habláis descompuesto!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovia , 1ª. pte . 1. 6 (R. 5. 396 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Se dice de las cosas en que alguien muestra falta de moderación, respeto ó miramiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh válame Dios, y cuán grande fue el enojo que recebió D. Quijote, oyendo las descompuestas palabras de su escudero!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 46 (R. 1. 385 2 )."
+            },
+            {
+              "texto_cita": "«Que por la cruz de mi espada, | Que palabra descompuesta, | Cuanto más obra, no ha sido | De su honor ni el tuyo ofensa.»",
+              "autor": "Lope",
+              "referencia_obra": ", El mayor imposible , 3. 25 (R. 34. 485 3 )."
+            },
+            {
+              "texto_cita": "«Palabras descompuestas causan justa indignación aun en los más humildes.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 64 (R. 21. 59 1 )."
+            },
+            {
+              "texto_cita": "«Consiguióse [la ejecución de los reos] á vista de innumerable pueblo, sin que se oyese una voz descompuesta.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 3. 20 (R. 28. 299 1 )."
+            },
+            {
+              "texto_cita": "«Llamado de voces descompuestas y tirado porfiadamente del manteo, volví la cabeza.»",
+              "autor": "Quev.",
+              "referencia_obra": "El mundo por de dentro (R. 23. 326 1 )."
+            },
+            {
+              "texto_cita": "«El furor descompuesto y la locura | Infama, no acredita los valientes.»",
+              "autor": "",
+              "referencia_obra": "Id. Nec. de Orl . 1 (R. 69. 291 1 )."
+            },
+            {
+              "texto_cita": "«Unos con otros voceaban, encendidos los rostros y descompuestas las manos.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep . (R. 25. 397 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Part . Que falta á la modestia ó compostura.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre las damas había dos de gusto pícaro y burlonas, y con ser muy honestas eran algo descompuestas por dar lugar que las burlas alegrasen sin enfado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 62 (R. 1. 536 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Aplicado á cosas, Inmodesto, indecente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Puso gravísimas penas á los que cantasen cantares lascivos y descompuestos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 51 (R. 1. 513 2 )."
+            },
+            {
+              "texto_cita": "«Le dijo le dijese si Tomás Pedro el mozo de la cebada le había dicho algún requiebro ó alguna palabra descompuesta ó que diese indicio de tenerla afición.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 8 (R. 1. 191 2 )."
+            },
+            {
+              "texto_cita": "«Ninguno sea osado --- | La hoz [meter] en las espigas, si primero | De encima coronado no dijere | A Ceres su cantar, y placentero | Con saltos descompuestos la sírviere.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2, Geórg . 1 (4. 456)."
+            },
+            {
+              "texto_cita": "«Penetrando los secretos | De tu descompuesto amor, | Tus desvelos ha advertido.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por razón de estado , 3. 2 (R. 5. 177 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Reducir un cuerpo á sus partes simples ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Franklin estudiaba el fuego para apoderarse del rayo, y Priestley descomponía el aire para conocer su varia índole y su fuerza portentosa.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de las ciencias nat . (R. 46. 336 2 )."
+            },
+            {
+              "texto_cita": "«Las percepciones de nuestra alma son obra de un instante; mas su expresión exige todo el tiempo necesario para descomponerlas.»",
+              "autor": "",
+              "referencia_obra": "Id. Trat. del anál . (R. 46. 154 2 )."
+            },
+            {
+              "texto_cita": "«¿Son tan torpes y necias las ondinas y las sílfides que se dejen aprisionar por el químico para que al descomponer el agua y el aire, haga su análisis en retortas y alambiques?»",
+              "autor": "Valera",
+              "referencia_obra": ", Las ilusiones del Dr. Faustino , p. 40."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar las partes ó componentes.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El químico puede descomponer las cosas en sus elementos y componerlas á su arbitrio bajo ciertas leyes, pero no crear elementos nuevos.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos , 1, p. 19."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . Corromperse, podrirse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El único facultativo del pueblo se hallaba fuera y no podía venir bastante á tiempo para proceder á la autopsia antes que el cadáver comenzara á descomponerse.»",
+          "autor": "Ochoa",
+          "referencia_obra": ", Apuntes , 2, p. 437."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Qué diligencia tan viva | Tuviéramos toda hora, | Y tan presta, | En componer la captiva, | Dexandonos la señora | Descompuesta?»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 50)."
+        },
+        {
+          "texto_cita": "«A todos escripvo la mi grant querella, | Dolor é quebranto é descompuesto.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 43. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«La su naris es luenga, esto le descompon.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1460 (R. 57. 273 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E si es malo ó perezoso, ó por aventura sucio é descompuesto, desprécialo Dios.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 63 (R. 51. 190 1 )."
+        },
+        {
+          "texto_cita": "«Al su mal enjienplo [del rey] se desordenan é se descomponen todos los homes.»",
+          "autor": "",
+          "referencia_obra": "Ib. 61 (R. 51. 189 1 )."
+        },
+        {
+          "texto_cita": "«La deshonestidat mucho descompone las nobles personas é desapuesta los convites.»",
+          "autor": "",
+          "referencia_obra": "Ib . 56 (R. 51. 183 1 )."
+        },
+        {
+          "texto_cita": "«Diçes con la grant ira palabras descompuestas. »",
+          "autor": "",
+          "referencia_obra": "Bere. S. Dom . 148 (R. 51. 44 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y componer . Port. descompôr ; cat. descompondrer ; it. discomporre .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Sigue en un todo la de componer , poner . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

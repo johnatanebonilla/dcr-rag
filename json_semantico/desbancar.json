@@ -1,0 +1,133 @@
+{
+  "lema": "DESBANCAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Quitar los bancos, como se hacía en las galeras para dejarlas desembarazadas ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Don Juan, para hacer mayor plaza en que pelear, desbancó su galera.»",
+          "autor": "Fuenmayor",
+          "referencia_obra": ", Vida de S. Pío Quinto , f. 137 ( Dicc. Autor. )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En el juego de la banca y otros de apunte, Ganar al batiquero todo el fondo de dinero que puso de contado ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sólo dos tallas tiré. | ¡Jamás hubiera tirado! | Pues sin blanca y desbancado, ¡Queridos primos, quedé.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Tanto vales cuanto tienes , 1. 11 (4. 26)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Hacer perder á uno el puesto que tiene en el cariño, amistad ó estimación de otro, ganándole para sí ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El día que se me antoje haré dichoso con mi rnano á uno de mis infinitos pretendientes, y mientras tanto me divertiré en desbancar á todas las que pasan por bonitas en Zaragoza.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A la vejez viruelas , 3. 15 (1. 20)."
+            },
+            {
+              "texto_cita": "«Como me quisiera usted, | Dejaría á diez muchachas | Que están perdidas de amores | Por mí. — La fineza es rara. | Fuerza es que yo valga mucho | Para desbancar á tantas.»",
+              "autor": "",
+              "referencia_obra": "Id. Los dos sobrinos , 2. 1 (1. 27)."
+            },
+            {
+              "texto_cita": "«Malas lenguas | Dicen que el otro compadre | Gusta también de la niña, | Y si puede desbancarle...»",
+              "autor": "",
+              "referencia_obra": "Id. Muérete y verás , 1. 1 (2. 158)."
+            },
+            {
+              "texto_cita": "«En un solo mes de visitas | Desbanco á un don Luis Osorio, | Futuro de la muchacha.»",
+              "autor": "",
+              "referencia_obra": "Id. La falsa ilustración , 1. 1 (1. 212)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar aquello de que se priva á alguno.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desbancar á uno del favor del rey.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Vencer en cualquiera competencia ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las ventajas que llevan las fábricas extranjeras á las españolas, son tantas, que no cabe que éstas desbanquen a aquéllas.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr. 41 (2. 181)."
+            },
+            {
+              "texto_cita": "«Otros [ daban sus ideas] para que las fábricas de España desbancasen á todas las de Europa...»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 74 (2. 301). —"
+            },
+            {
+              "texto_cita": "«Aquel caballero que come y calla, acaba de hacer á este plato una doble paz de pároli con tanto acierto, que nos ha desbancado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 75 (2. 306)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desbanquéle de este impertinente parapeto, haciéndole demostración de que por párroco, por súbdito suyo, y por su mismo decreto, de ninguno era más propia dicha obra.»",
+              "autor": "Isla",
+              "referencia_obra": ", Cart. famil. 1. 105 (R. 15. 463 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo privativo des y banco y banca . Port. desbancar ; fr. débanquer; it. sbancare .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de e se escribe qu : desbanque , desbanquemos . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

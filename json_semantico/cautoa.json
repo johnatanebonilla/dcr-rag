@@ -1,0 +1,112 @@
+{
+  "lema": "CAUTO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que considera atenta ó sagazmente al intentar algo los daños ó riesgos que pueden sobrevenir, con el fin de evitarlos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El pecho magnánimo prevenga disimulado y cauto, y resista valeroso y fuerte los peligros.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 45 (R. 25. 114 1 )."
+        },
+        {
+          "texto_cita": "«Y haces que los pecados den ocasión á que el hombre sea humilde, cauto y diligente.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Audi , 34 ( Míst. 3. 174)."
+        },
+        {
+          "texto_cita": "«Los mesmos males --- los hace materia de bienes, cuando con ellos se hacen más cautos, más humildes, y más agradecidos á quien los sacó de tales peligros y les perdonó tantos pecados.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 1. 12 (R. 6. 50 1 )."
+        },
+        {
+          "texto_cita": "«De sus tribulaciones escapan despojados de vicios, arreados de virtudes --- finalmente escaparon cautos de la tormenta, y salieron del horno sin escoria.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 2. 88). —"
+        },
+        {
+          "texto_cita": "«¿Será que de este sueño se recuerde? | ¿Será que pueda ver que me desvío | De la vida viviendo, y que está unida | La cauta muerte al simple vivir mío?»",
+          "autor": "",
+          "referencia_obra": "Epíst. moral (R. 32. 388 1 ; * me recuerde)."
+        },
+        {
+          "texto_cita": "«La imaginación ardiente del poeta [Cienfuegos], no siempre cauta y comedida, le hace incurrir en hinchazón.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Trag. esp. (2. 123)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en , que expresa el campo donde se muestra la cautela.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay cosa que á la mujer dé mayor honra en la república, que ser cauta en el hablar y ser reposada en el andar.»",
+              "autor": "Guev.",
+              "referencia_obra": "Vida de M. Aurelio , 2. 9 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«Era muy cauto en afirmar, y examinaba con calma y detenimiento las opiniones opuestas.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Hist. 17 (494)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Con sentido análogo se aplica á cosas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quieren ser maestros de todos y creídos de todos, y ellos á ninguno creer; y á la discreción cauta de los experimentados llaman tibieza y temor, y á los desenfrenados fervores y novedades llenas de singularidad ó causadoras de alborotos llaman libertad del espíritu y fortaleza de Dios.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Audi , 53 ( Míst. 3. 232)."
+        },
+        {
+          "texto_cita": "«Obrando y atreviéndose creció la república romana, no con aquellos consejos perezosos que llaman cautos los tímidos.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 64 (R. 25. 176 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Las adversidades dan al hombre mejor doctrina para ser cauto, que las prosperidades para ser templado.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 3 (25)."
+        },
+        {
+          "texto_cita": "«De todo lo qual ó de parte alguna de lo que aquí pone, no creas --- que ninguno de los que acá andamos se puede escusar, por vigilante ó cauto que sea.»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 23 (251)."
+        },
+        {
+          "texto_cita": "«Aya vergüenza Lucano, | Natural desta nacion, | Que tan singular mencion | Hizo del cauto romano.»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var. 26 ( Rim. inéd. 275)."
+        },
+        {
+          "texto_cita": "«lo miro á quien nos mira | Con oios baxos muy cautos.»",
+          "autor": "",
+          "referencia_obra": "C anc. de Stúñ. p. 370."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., it. cauto : del lat. cautus , part. de cavere, mirar por sí, tomado en sentido deponente: Que ha mirado por sí. Sobre su aplicación en sentido pasivo, véase ACOTAR. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

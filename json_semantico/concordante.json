@@ -1,0 +1,46 @@
+{
+  "lema": "CONCORDANTE",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj. Que concuerda. «Sería fácil traducirla del francés, y no difícil acotar al pie en lugar de las ordenanzas de Francia, las leyes concordantes del derecho de Castilla.» Jovell. carta al Dr. Prado (R. 50. 148 1 ). — α ) Antiguamente se construyó con á , y así se halla en el pasaje que luégo copiamos de la Ley agraria , según aparece en el tomo quinto de las Memorias de la Sociedad Económica, p. 67, y en las ediciones comunes; Salvá menciona el mismo régimen con referencia á Jovellanos. No obstante, en R. 50. 104 2 no se encuentra en el mismo pasaje á sino con ; la norma de concordar reclama hoy esta construcción, y es indiferente que Jovellanos cometiese aquel arcaísmo ó no, pues su ejemplo no lo abonaría. «Aunque lleno [el Fuero Juzgo] de máximas del derecho romano, y casi concordante á él en el orden de las sucesiones, no presenta la menor idea ni de substituciones ni de fideicomisos.» Jovell. Ley agraria , 1ª. clase (R. 50. 104 2 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E Diana concordante | Quiso ser en vos obrar.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 424."
+        },
+        {
+          "texto_cita": "«Por ende non es animalia mas concordante al caballero que el buen caballo.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 8."
+        },
+        {
+          "texto_cita": "«Ya conté --- de las cosas que se cortan é tajos de aquellas, por cogitada ordenança e artisada doctrina, concordante a los terminos de rrason.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 18 (108)."
+        },
+        {
+          "texto_cita": "«Que muchos comigo estan concordantes, | Teologos altos é grandes doctores.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 292."
+        },
+        {
+          "texto_cita": "«E seys á seys bozes en alto alternando, | Te Deum laudamus todas concordantes.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 199."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. concordantem , concordans , part. activo de concordare , concordar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

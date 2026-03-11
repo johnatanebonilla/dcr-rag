@@ -1,0 +1,242 @@
+{
+  "lema": "PRINGAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Untar, empapar con grasa algún alimento ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le gusta pringar pan en la grasa que suelta el tocino al freírse.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Sustantivado. Rebanada de pan empapada en pringue.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dióme [el ciego] un pedazo de longaniza que le asase. Y ya que la longaniza había pringado, y comídose las pringadas, sacó un maravedí de la bolsa, y mandóme que fuese por él de vino a la tabema.»",
+              "autor": "Lazar.",
+              "referencia_obra": "1 (R. 3. 80 1 ). X"
+            },
+            {
+              "texto_cita": "«Sacó los bigotes de entre una rebanada de pan a manera de pringada.»",
+              "autor": "",
+              "referencia_obra": "Jacint. Pol. 235 ( Dicc. Autor .). X"
+            },
+            {
+              "texto_cita": "«Mas quando llegó el tocino | Huvo grande sentimiento: | Y pringados con pringadas, | Un rato se enternecieron.»",
+              "autor": "Quev.",
+              "referencia_obra": "Mus. 6. 18 ( Dicc. Autor .) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Manchar, ensuciar ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nombre por nombre, apodos, rasgos y recuerdos de la crónica familiar de cada uno iba pronunciando Sigüenza, según reconocía la voz de aquellos gañiles encendidos y roncos que les acusaban de palpar, de enturbiar y pringar el agua, el agua tan amada de Sigüenza y de los suyos.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas, p . 98."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si le dejo preparar alun plato, me pringa todos los cacharros de la cocina.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con de, para expresar el modo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiso arreglar el motor, y sólo consiguió pringarse de arriba abajo.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dije: El perro lo ha sacado, no lo ha metido. Vamos, ¿es que ahora va a resultar que me he pringado en ese pellejo apestoso, dijo la tía a voces.»",
+              "autor": "Delibes",
+              "referencia_obra": ", Diario de un cazador, p. 27."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Loc. ¡La hemos pringado! X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Zacarías llevó la noticia al café de que la mixomatosis también ataca a las liebres. ¡La hemos pringado!»",
+              "autor": "Delibes",
+              "referencia_obra": ", Diario de un cazador, p . 192."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Quemar, castigar o maltratar a alguien ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Imaginad una señora de su cosecha mui noble, que provocada con demasías insufribles y excessos no tolerables, enviste en una esclava, y ella misma por su persona la pringa.»",
+              "autor": "",
+              "referencia_obra": "Fonseca, Vida de Christo, 1. 1. 2 ( Dicc. Autor. ) ."
+            },
+            {
+              "texto_cita": "«Al triste de mi padrastro azotaron y pringaron.»",
+              "autor": "Lazar.",
+              "referencia_obra": "1 (R. 3. 78 2 ). X"
+            },
+            {
+              "texto_cita": "«Al esclavo, si muero, mando que cada día le pringuen tres veces.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 223). X"
+            },
+            {
+              "texto_cita": "«Aquí están ya los Christianos | —Aquí nos pringa, o nos hierra.»",
+              "autor": "Lope",
+              "referencia_obra": ", La doncella Teodor 9 (50. 36). ( Fdz. Gómez , Vocab. de Lope ). X"
+            },
+            {
+              "texto_cita": "«Tu remedio determina, | Que Octavio y su padre, airado | Un hacha encendiendo están | Para pringar a Beltrán.»",
+              "autor": "Fdz. Gómez",
+              "referencia_obra": ", Vocab. de Lope ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, que indica el motivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Digo, que el Gran Señor tiene sus ímpetus, | Como otro cualquier Rey de su tamaño; | Y tuvo, que a cualquiera sancadilla | Quedemos en la danza, ha de pringarnos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "La gran sultana, 3 (R.156. 2782)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con . X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A unos arrastraban atados a las colas de los caballos, a otros pringaban con pez y azeite hirviendo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 3. 19, §4. ( Dicc. Autor ). X"
+            },
+            {
+              "texto_cita": "«i Que digan que hay una pizca | De entendimiento en el mundo, | Cuando en quien mas se fatiga | En hacer que saben, hallan | Dos o tres bachillerías, | Y en llegando a las acciones, | Con mil tizones las pringan!»",
+              "autor": "",
+              "referencia_obra": "Caflizares, El honor da entendimiento, 2 (p. 581)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Pas. Con por. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El Tapir le tomó la cara con una sola mano, obligándolo a abrir la boca, rechazándolo al mismo tiempo con prontitud, como si hubiese sido pringado por un cigarrillo, después de lo cual giró el cuerpo en dirección al fondo de la alcoba.»",
+              "autor": "H. Sánchez",
+              "referencia_obra": ", Los desheredados, p. 240."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Una vez se pringó y le duró el picor tres días y su mamá le dijo a su papá: esta niñita se va a tragar un día cualquier cosa y nos va a dar un susto.»",
+              "autor": "Ángel",
+              "referencia_obra": ", Estaba la pájara pinta , p . 41."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Intrans. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las mentiras son del diablo. —Las fui a tocar y la piedra pringaba porque había hecho sol todo el día.»",
+              "autor": "J. Rojas",
+              "referencia_obra": ", La doncella, 1. 2 (p. 34)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Interesarse uno indebidamente en el caudal, hacienda o negocio que maneja ( prnl .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para obtener tanto dinero de la noche a la mañana habrán tenido que pringarse.»",
+              "autor": "Dicc. Planeta",
+              "referencia_obra": "."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Don Claudio os lo pagará, | Que yo no me pringo en nada.»",
+              "autor": "Mor.",
+              "referencia_obra": "La mojig. ( Obr. 2. 181)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de pringue y éste del lat. pinguis 'gordo, adiposo'. Port. y leon. pingar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

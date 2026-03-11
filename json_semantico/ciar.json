@@ -1,0 +1,147 @@
+{
+  "lema": "CIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "mar. Remar hacia atrás, bogar al revés ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Andar hacia atrás, retroceder ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hirieron en ellos con tal denuedo que los hicieron ciar y los arredraron de la ciudad.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp . 2. 9 (R. 30. 39 2 )."
+        },
+        {
+          "texto_cita": "«Comenzó á ciar [el enemigo], y después puesto en huída se retiró á sus estancias.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 25 (R. 30. 57 1 )."
+        },
+        {
+          "texto_cita": "«Parece querían ciar [los moros] y aun volver las espaldas, cuando don Opas --- con un buen golpe de los suyos se pasó á los enemigos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 6. 23 (R. 30. 182 2 )."
+        },
+        {
+          "texto_cita": "«Nuestros escuadrones algún poco desalojados, parece ciaban y se querían poner en huída.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 11. 24 (R. 30. 338 1 )."
+        },
+        {
+          "texto_cita": "«Procuró detener su escuadrón, que comenzaba á ciar y retirarse.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 17. 10 (R. 30. 514 1 )."
+        },
+        {
+          "texto_cita": "«El primer batallón de los enemigos comenzó á mostrar flaqueza y ciaba.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 18. 9 (R. 31. 15 2 )."
+        },
+        {
+          "texto_cita": "«Ya ciaban [los enemigos], cuando el Cid, caído del caballo, quebrantado y herido, tuvo que ser llevado á su tienda por los suyos, y este accidente restableció el equilibrio.»",
+          "autor": "Quint.",
+          "referencia_obra": "Cid (R. 19. 207 1 )."
+        },
+        {
+          "texto_cita": "«Arremete al enemigo, el cual, no bien ordenado todavía, no puede sostener el ímpetu de los nuestros y comienza á ciar.»",
+          "autor": "",
+          "referencia_obra": "Id. Gran Capitán (R. 19. 269 1 )."
+        },
+        {
+          "texto_cita": "«Previniéndoles que á la primera acometida de los moros, por lo común impetuosa, hiciesen semblante de ciar, para desordenarlos en el alcance y revolver después sobre ellos.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Is. de Solís , 2. 48 (4. 454)."
+        },
+        {
+          "texto_cita": "«Arredráronse los cristianos al contarse tan pocos: comenzaron á remolinarse, á desordenarse, á ciar.»",
+          "autor": "Pulgar",
+          "referencia_obra": "(4. 12)."
+        },
+        {
+          "texto_cita": "«Ciaron los cuerpos de Trujillo y Badajoz de línea y leales de Fernando VII, y aun hubo fugitivos que esparcieron la consternación hasta Oropesa.»",
+          "autor": "Toreno",
+          "referencia_obra": ", Hist . 9 (R. 64. 208 2 )."
+        },
+        {
+          "texto_cita": "«No hay ceder, no hay ciar. De nuevo estalla | Retumbante el metal del anglo fiero.»",
+          "autor": "Gallego",
+          "referencia_obra": ", oda 5 (R. 67. 406 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Cejar, aflojar en un negocio ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Por más promesas que le hicieron, no quiso ciar.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dejad, pues, que cierre mi apuesta... y esperadme. — No: ciad en la apuesta. El buen montero ha de saber perder una pieza mediana cuando le importa alcanzar otra mayor.»",
+              "autor": "Larra",
+              "referencia_obra": ", Doncel , 32 (1. 19)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo, mirando como çio, | Mientra más cuyto la boga | Que se rompe ya la soga | Del mas noble tiempo mio ---»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 124."
+        },
+        {
+          "texto_cita": "«Amigo, sy vos çiays, | O n'os quieren do quereys, | Vos comigo assy fablays, | Que só plático et sé mas | Que iamas nunca sabreys.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 339."
+        },
+        {
+          "texto_cita": "«La mi obra çia, é la vuestra boga | Por los altos mares, con gloria mundana.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 323."
+        },
+        {
+          "texto_cita": "«Mis sentidos reposaron | Como nave, quando çia.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 350."
+        },
+        {
+          "texto_cita": "«Con tanto lastre tu barca | Ciará quando la remes.»",
+          "autor": "Mena",
+          "referencia_obra": ", Vicios y virt . (XXIV 2 )."
+        },
+        {
+          "texto_cita": "«Pero en esta arte ffecunda | Sy mas fonda non se funda, | Çiará por bien que bogue.»",
+          "autor": "",
+          "referencia_obra": "Canc . de Baena , p. 266."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. ciar , cear; cat. ciar; fr. scier; it. sciare ( gr. vulgar σι V ρω ; turco siya , interjectivamente como el veneciano sía ). Jal dice que es voz de origen desconocido. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

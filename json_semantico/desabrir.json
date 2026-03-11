@@ -1,0 +1,535 @@
+{
+  "lema": "DESABRIR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dar mal gusto á los manjares ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con la punta del cuchillo | Toma sal el cortesano, | Porque con toda la mano, | No es templallo, es desabrillo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Celos con celos se curan , 3. 6 (R. 5. 377 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . Que tiene poco, ninguno ó mal sabor.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vemos que el manjar desabrido con la sal se hace sabroso, y con la miel dulce, y con las especies oloroso.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 4, regla 1. 1, § 1 (R. 8. 277 2 )."
+            },
+            {
+              "texto_cita": "«No se precia [Guadiana] de criar en sus aguas peces regalados y de estima, sino burdos y desabridos, bien diferentes de los del Tajo dorado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 23 (R. 1. 452 2 )."
+            },
+            {
+              "texto_cita": "«No tenían --- sino cinco panes, y ésos de cebada, que era el pan más desabrido y más propio de pobres que entonces había.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 3. 17 (2. 126)."
+            },
+            {
+              "texto_cita": "«El manjar de sabor más sazonado, | A quien le falta gusto, es desabrido.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 4 (R. 17. 183 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta es mirra de suavísimo olor ante el acatamiento de Dios, aunque sea muy desabrida y amarga á nuestra carne.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 6. 5, § 5 (R. 8. 340 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suplicó al Padre eterno, que si era posible le librase de aquel cáliz amargo y desabrido.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 14 (R. 60. 386 1 )."
+            },
+            {
+              "texto_cita": "«Y si agora, cuando la justicia anda tan templada con la misericordia, y el cáliz de la ira del Señor se da tan aguado, es tan desabrido: ¿qué hará, cuando se dé puro, y cuando se haga juicio sin misericordia con los que no hubieren usado de misericordia?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 10 (R. 6. 42 1 )."
+            },
+            {
+              "texto_cita": "«Así como el gusto de la carne hace perder el gusto y fuerzas del espíritu, así, gustado el espíritu, es desabrida toda la carne.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 9 ( Míst . 3. 143)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Dícese par extensión de todo lo que es desagradable ó de poco gusto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No debes por eso dejar el ejercicio de la oración acostumbrada, aunque te parezca desabrido.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 4, § 3 (R. 6. 128 1 )."
+            },
+            {
+              "texto_cita": "«Las más veces, las [pláticas] que son largas, aunque sean de importancia, suelen ser desabridas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2. 22 (R. 1. 622 1 )."
+            },
+            {
+              "texto_cita": "«Comenzó á gozar como pudo los frutos del matrimonio, los cuales á Leonora, como no tenía experiencia de otros, ni eran gustosos ni desabridos.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 7 (R. 1. 174 1 )."
+            },
+            {
+              "texto_cita": "«Desabridos placeres | Por cierto, y vida en todo desabrida, | Que si agora te agrada, | Es por, no haber probado otra ninguna.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 1 (R. 42. 133 1 )."
+            },
+            {
+              "texto_cita": "«Seca deja la hierba del ejido | La voz deste pastor: huíd, pastores, | Canto tan duro, són tan desabrido.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 4 (89)."
+            },
+            {
+              "texto_cita": "«Algunos sobresalieron en el áspero y desabrido estudio de las lenguas sabias.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ( Mem. Acad. Hist . 6. 50). — Con á ó un dat. pron."
+            },
+            {
+              "texto_cita": "«Esta [cruz] mejor se ejercita en enfermedades desabridas á la carne, que nunca causaron vanagloria, que en salud, aunque bien empleada.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 36 (6. 206)."
+            },
+            {
+              "texto_cita": "«Al que anda siempre entre ámbares y algalias, le será desabrido el varonil olor de la pólvora.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon. 33 (R. 5. 522 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Aplicado á personas. Con á , ó mediando ser y otros verbos, con un dat. pron.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quieras ser indiscretamente callado, porque no seas desabrido á los otros con la pesadumbre de tu silencio.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 4, § 3 (R. 11. 304 1 )."
+            },
+            {
+              "texto_cita": "«¿Quién hay, por desbaratado que sea, que cuando pide á una persona grave, no lleva pensado cómo le ha de pedir para contentarle, y no serie desabrido?»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter . Cam. perf. 30 (R. 53. 355 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Dicho del tiempo, Destemplado, desigual, desapacible.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desea que hubieran concurrido juntas en aquel día todas las cosas que suelen hacer ásperos y desabridos los días.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 3 (1. 38)."
+            },
+            {
+              "texto_cita": "«Escogió el mes de diciembre, tiempo áspero, desabrido y frío.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de Cristo , p. 13."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Causar sinsabor, disgustar, desazonar ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Decía algunas verdades, que para la condición del arzobispo bastaba á desabrirle, que ya él lo estaba de algunas cosas que le había enviado á decir.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 31 (R. 53. 248 2 )."
+            },
+            {
+              "texto_cita": "«A mi parecer todos los cuidados que he traído en las fundaciones, en parte no me han desabrido ni cansado tanto como éstos.»",
+              "autor": "",
+              "referencia_obra": "Ead. Cartas , 2. 74 (R. 55. 262 2 )."
+            },
+            {
+              "texto_cita": "«Pretendían por aquel camino excluír y desabrir al duque de Benavente.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 18. 15 (R. 31. 27 2 )."
+            },
+            {
+              "texto_cita": "«La serpiente antigua te instigará y desabrirá; mas con la oración huirá.»",
+              "autor": "Gran.",
+              "referencia_obra": "Imit . 3. 13 (R. 11. 402 2 )."
+            },
+            {
+              "texto_cita": "«Festo, deseando dar satisfacción á los judíos y no desabrirlos, y juntamente dejar á Pablo instancia para su defensa, le dijo ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 41 2 )."
+            },
+            {
+              "texto_cita": "«Renunció el arzobispado con humildad tan reconocida, que edificó al emperador en vez de desabrirle.»",
+              "autor": "",
+              "referencia_obra": "Id. Vida de S. Tomás de Villan. 3 (R. 48. 62 1 )."
+            },
+            {
+              "texto_cita": "«Heme determinado á desabrirle, porque quiero más enojarle que ofenderle, y quiero que antes se queje de mi sequedad, que de mi entereza.»",
+              "autor": "",
+              "referencia_obra": "Id. Grandes anales (R. 23. 202 1 )."
+            },
+            {
+              "texto_cita": "«Y cuando el satisfacerlos | Me está bien, por desabrirlos | Me despeño en deservirlos.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del enemigo el primer consejo , 2. 11 (R. 5. 661 2 )."
+            },
+            {
+              "texto_cita": "«Ni la cansaron los antojos de enfermo, ni la enfadaron ascos, ni quejas la desabrieron.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 2. 2 (56)."
+            },
+            {
+              "texto_cita": "«Por no del todo desabriros, absolveré vuestro cuidado en cuanto á mi asistencia en tales partes.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Esp. Ger. 2. 3 (R. 18. 260 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hace reprsentaciones para deshacer la verdadera vision que ha visto el alma, mas ansí la resiste de sí y se alborota, y se desabre é inquieta, que pierde la devoción.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 28 (R. 53. 86 2 )."
+            },
+            {
+              "texto_cita": "«Todo esto no fue bastante para que los godos no se desabriesen, ca llevaban muy mal que con este artificio se heredase la majestad real, que antes se acostumbraba dar por voto de los grandes del reino.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 6. 4 (R. 30. 155 2 )."
+            },
+            {
+              "texto_cita": "«Casi todos juzgaban mal de él, y en particular se desabrieron todos aquellos que eran aficionados á las leyes y costumbres antiguas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 6. 19 (R. 30. 177 2 )."
+            },
+            {
+              "texto_cita": "«Con esta resolución, cuanto fue el amor y benevolencia que ganó con los buenos, tanto se desabrió gran parte del pueblo y de los sacerdotes.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 7. 6 (R. 30. 198 1 )."
+            },
+            {
+              "texto_cita": "«Parecía que sin contradicción le alzarían por rey, y fuera así si no se desabríera, con la soberbia y arrogancia de que comenzó á usar, gran parte de los señores y ricos hombres.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 10. 15 (R. 30. 299 2 )."
+            },
+            {
+              "texto_cita": "«Hizo donación al infante don Pedro del principado de Cataluña, con que la otra parte se desabrió mucho más.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13. 8 (R. 30. 381 2 )."
+            },
+            {
+              "texto_cita": "«Mucha gente principal se desabrió por esta causa.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 14. 9 (R. 30. 416 1 )."
+            },
+            {
+              "texto_cita": "«Estaba la señora poco acostumbrada á semejantes desvelos --- desabríase mucho, comía poco, y mucho menos asistía en mi posada.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Esp. Ger . 1. 2 (R. 18. 166 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Os hizo amargo lo que os era dulce, y os puso gana en lo que antes tan desabrida estábades, obrando en vos obras nuevas.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 66 ( Míst . 3. 256)."
+            },
+            {
+              "texto_cita": "«El estómago de los que por el desierto venían era el desabrido, que no el maná que Dios enviaba, pues contenía en sí todo deleite.»",
+              "autor": "",
+              "referencia_obra": "Id. Epist . 4. 28 (7. 426)."
+            },
+            {
+              "texto_cita": "«Si aun los que tienen todas las cosas que desean, no teniendo á Dios viven tan descontentos y desabridos, ¿qué harán aquellos á quien todas las cosas faltan?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 20, § 1 (R. 6. 77 1 )."
+            },
+            {
+              "texto_cita": "«Quedé yo del caso como pasmado, el autor desabrido, los farsantes alegres y el poeta mohino.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 243 2 )."
+            },
+            {
+              "texto_cita": "«Pues con todas estas partes que suelen ser el todo con que los hombres suelen y pueden vivir contentos, vivo yo el más despechado y el más desabrido hombre de todo el universo mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 33 (R. 1. 341 2 )."
+            },
+            {
+              "texto_cita": "«Que ni la plebe es bien que se despida | Después que te prestó grato silencio, | Si no desesperada, desabrida.»",
+              "autor": "",
+              "referencia_obra": "B. Argens. epíst. Don Juan , ya se me ha puesto (R. 42. 350 1 )."
+            },
+            {
+              "texto_cita": "«Y cuidadoso de su nuevo cargo, | Más triste y desabrido | Que poeta afligido, | Que ha parecido mal comedia suya ----»",
+              "autor": "Lope",
+              "referencia_obra": ", Gatom. 7 ( Obr. suelt . 19. 255)."
+            },
+            {
+              "texto_cita": "«Yo estoy aquí desabrido | Porque me ofende el sereno.»",
+              "autor": "",
+              "referencia_obra": "Mto . No puede ser , 2. 12 (R. 39. 199 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , generalmente en el part. , para expresar la causa ú origen del desabrimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sucediendo infinitas veces --- salir errados en los sucesos los pareceres que al principio iban regulados con razón; de que resulta desabrirse de ellos en los príncipes.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon. 5 (R. 25. 464 1 )."
+            },
+            {
+              "texto_cita": "«El estaba ya desabrido de que ponía inconvenientes, habiéndole mostrado tanta voluntad.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 31 (R. 53. 243 2 )."
+            },
+            {
+              "texto_cita": "«El infante don Fernando, su hermano, se hallaba --- desabrido de que el rey don Fernando, su abuelo, no le dejase en su último testamento nombrado por principal gobernador de estos reinos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 3 (R. 28. 210 1 )."
+            },
+            {
+              "texto_cita": "«Ni disculpa bastó ni fue segura | Al corazón de Gila alborotado, | Más de rabiosos celos desabrida, | Que de ver á su padre sin la vida.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 6 (R. 17. 199 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , para expresar la persona que es objeto del disgusto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y si es parte para que se desabra con las monjas, cierta señal es que no es para gobernarlas.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Modo de visitar (R. 53. 297 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con vos está desabrida, | Más amarga que la hiel; | Al otro dale la miel, | Y con ella le convida.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1, serm. de amores (R. 32. 152 2 )."
+            },
+            {
+              "texto_cita": "«Pedí me perdonase y castigase, y no estuviese desabrido conmigo.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter. Vida , 36 (R. 53. 110 2 )."
+            },
+            {
+              "texto_cita": "«Porque yo ayudaba á esto, le pusieron [al padre general] desabrido conmigo, que fue el mayor trabajo que yo he pasado en estas fundaciones.»",
+              "autor": "",
+              "referencia_obra": "Ead. Fund. 28 (R. 53. 231 1 ). — Sup ."
+            },
+            {
+              "texto_cita": "«Escribí al obispo de Palencia, suplicándole tornase á escribir al arzobispo, que estaba desabridísimo con él.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter . Fund. 31 (R. 53. 248 2 )."
+            },
+            {
+              "texto_cita": "«Disgustado de las escenas de sangre y de destrucción que presenciaba; desabridísimo con el duque de Arcos --- resolvió retirarse.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 2. 13 (5. 224)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "A veces se usa en igual sentido un dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era Sertorio de condición mansa y tratable, si las sospechas no le trocaran; que fue causa de perder por una parte la afición de los romanos, que se le desabrieron porque tomó para guarda de su persona á los celtiberos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 3. 14 (R. 30. 75 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Es muy raro y aun dudoso el uso intrans . por el refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empezaron [los capitanes] á desabrir deseando que se remitiese á las manos aquella disputa.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Mej. 3. 19 (R. 28. 297 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Part . Aspero y desapacible en el trato.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Querría el amante celoso que --- no tenga [su dama] ojos para ver más de lo que él quisiere, ni oídos para oír, ni lengua para hablar; que sea retirada, desabrida, soberbia y mal acondicionada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 3 (R. 1. 45 2 )."
+            },
+            {
+              "texto_cita": "«Te hago saber, Ricardo, que siempre te tuve por desabrido y arrogante.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 2 (R. 1. 129 2 )."
+            },
+            {
+              "texto_cita": "«Que no hay mujer tan dura y desabrida | Que del todo aborrezca si es querida.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 150 1 ). —"
+            },
+            {
+              "texto_cita": "«Pues es ansi que es como el blanco y el fin del bien querer el ser unos los que se quieren; cosa cierta será que todo aquello que fuere contrario ó en alguna forma dañoso á aquesta unidad, será desabrido enemigo para el amor.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Príncipe (3. 234)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con , para expresar la persona á quien se trata con aspereza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Héctor! ya sé que desabrido á veces | Tú conmigo te muestras en las juntas, | Aunque útiles dictámenes proponga.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 12 (1. 362)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en , para expresar aquello en que se deja ver la aspereza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No es desabrido en las palabras ni áspero en el gesto.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Eucar. 18 (4. 214)."
+            },
+            {
+              "texto_cita": "«Nada es más aborrecible á los ojos del pueblo, que un juez duro y desabrido en el trato.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog . del M. de los Llan. (R. 46. 286 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Part . Dícese de la cosa que envuelve ó deja ver desabrimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Murió aborcado Judas: mas del rey ofendido y del maestro entregado no oyó palabra desabrida, ni vio semblante que no le persuadiese misericordia y esperanza.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 1. 3 (R. 23. 14 2 )."
+            },
+            {
+              "texto_cita": "«El hizo ver que el doctor escribía sobre una materia que ignoraba --- por no estar bien instruído en el carácter, calidad y costumbres de aquellos naturales á quien con desabrido pincel retrataba de un modo tan odioso.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 472 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ )",
+          "definicion": "Part . met. Dícese de la ballesta y armas de fuego, como la escopeta, etc., que son fuertes y duras al disparar, de manera que den coz o golpe al tirador. Acad. Dicc .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "« Insipidus , a , um , por cosa dessabrida, sin sal.»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab . — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E las bondades han los comienços desabridos, e las fynes dulces, e las vilesas han el contrario.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 12 (Knust, 238)."
+        },
+        {
+          "texto_cita": "«Toda la universidad de la cristiandad deve tener por grand cosa e por muy desabrida, que la companna de los judios --- se sirvan le siervos cristianos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 3. 12 (193)."
+        },
+        {
+          "texto_cita": "«Ca es para la cara el fuego dessabrido.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 307 (R. 57. 293 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port . desabrir; cat. dessabrir; en cast. tenemos además desaborido: port . dessaborido; cat. dessaborir; it . dissaporito ; prov. desaborir; de suerte que es comp. de des y sabor , pero parece cierto que desaborido , desabrido , es anterior al verbo. Hubo también desaborar ( port. , cat., prov. dessaborar ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mire --- si ha [la vianda] olor malo o fuere desaborada.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 3 (20)."
+        },
+        {
+          "texto_cita": "«Así como el home que fuerza su talante á tomar la melecina desaborada con esperanza de que le fará pro.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 34 2 )."
+        },
+        {
+          "texto_cita": "«Si non porque estaba preso e bien legado, | Farie malos trebeios, iuego desaborado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 628 (R. 57. 60 1 ). — Desaborgado corresponde á saborgar , que supone una forma latina saporicare ."
+        },
+        {
+          "texto_cita": "«Por qual cueta que era vinie desaborgado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 131 (R. 57. 44 1 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,516 @@
+{
+  "lema": "DISPUTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Discurrir sobre una materia alegando y pesando las razones en pro y en contra; ordinariamente se dice cuando esto se hace entre dos personas que sostienen una el pro y otra el contra.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans . Sirve de acus. la materia de que se trata.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deste lugar de san Pablo se nos pone entredicho para disputar semejantes cuestiones.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd . 2. 18 (R. 27. 327 1 )."
+            },
+            {
+              "texto_cita": "«Quien todo lo disputó y tuvo ciencia infusa, hubiera, si fuera posible, alcanzado y obrado este secreto.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 6 (R. 25. 22 2 )."
+            },
+            {
+              "texto_cita": "«No quiero disputar con vos esto.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál . (Mayans, 59)."
+            },
+            {
+              "texto_cita": "«Grande me parece tu error --- Si te place, disputarlo hemos aquí cabe una fuente sentados.»",
+              "autor": "",
+              "referencia_obra": "P. de Oliva, Diál . (R. 65. 386 1 )."
+            },
+            {
+              "texto_cita": "«Otros lo disputan todo, y con la agudeza traspasan los límites.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 30 (R. 25. 79 2 )."
+            },
+            {
+              "texto_cita": "«Los vasallos muy discursistas y científicos aman siempre las novedades, calumnian el gobierno, disputan las resoluciones del príncipe, despiertan el pueblo y le solevan.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 66 (R. 25. 180 2 )."
+            },
+            {
+              "texto_cita": "«Se ve el alma en un junto sabia, y tan declarado el misterio de la santísima Trinidad y de otras cosas muy subidas, que no hay teólogo con quien no se atreviese a disputar la verdad destas grandezas.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 27 (R. 53. 82 2 )."
+            },
+            {
+              "texto_cita": "«A los pleitos y causas que atentamente oían, con grande juicio daban respuestas, disputándolas y decidiéndolas.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 148 2 )."
+            },
+            {
+              "texto_cita": "«Dudas sin cuento en su ignorancia busca, | Y las propone, y las disputa, y piensa | Que la ignorancía que excitarlas supo | Resolverias sabrá.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. á Bermudo (R. 46. 43 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nó puedo dejar de admirarme de ver cómo haya sido posible e en la compañía de las ovejas, en la soledad de los campos, se puedan aprender las ciencias que apenas saben disputarse en las nombradas universidades.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 4 (R. 1. 61 2 )."
+            },
+            {
+              "texto_cita": "«La necesidad del estudio de las lenguas no puede disputarse.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat . de enseñ. Lenguas (R. 46. 248 1 )."
+            },
+            {
+              "texto_cita": "«La comida se paga á escote, y después de ella se leen ó pronuncian discursos, se disputan los puntos en cuestión ---»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr . póst . 1, p. 169."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Reforzó la devoción desta verdad, disputada entre las dos familias de santo Domingo y san Francisco.»",
+              "autor": "",
+              "referencia_obra": "Colmenares, Escrit. segov . p. 699 (Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con una prop. interr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay para qué ponernos á disputar nosotros cómo o por qué hablamos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 227 1 )."
+            },
+            {
+              "texto_cita": "«Los políticos disputan si conviene al príncipe apartarse de la cabeza de su dominio para acudir al remedio de otro miembro.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 2 (R. 21. 477 1 )."
+            },
+            {
+              "texto_cita": "«Llegaron al paraje de Champotón, donde se disputo si convenía salir á tierra, opinión á que se inclinaba Hernán Cortés.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 17 (R. 28. 225 1 )."
+            },
+            {
+              "texto_cita": "«No quiero disputar si es pecado ó no el desear obispados.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de Mon . 28 (R. 25. 507 2 )."
+            },
+            {
+              "texto_cita": "«Se disputa mucho entre los italianos á quién se debió primero la gloria de la restauración de la poesía, si á los provenzales ó á los sicilianos.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Poét . 1. 3 (1. 25). —"
+            },
+            {
+              "texto_cita": "«Si fue el mismo espíritu suyo, ó del ángel de su guarda, ó ángel bueno ó malo, dispútenlo los señores teólogos.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 2, preamb . (R. 18. 426 2 )."
+            },
+            {
+              "texto_cita": "«Si en esto hay encantamento ó no, vuestras mercedes lo disputen allá entre ellos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 50 (R. 1. 510 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con una prop. indic.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Heme aquí con solas estas palabras sosegada, con fortaleza, con ánimo, con seguridad, con una quietud y luz, que en un punto vi mi alma hecha otra, y me parece que con todo el mundo disputara que era Dios.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 25 (R. 53. 79 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En todas las cosas era Adriano muy docto, es á saber, en leer, escribir, cantar, pintar, pelear, cazar, jugar y disputar.»",
+              "autor": "Guev.",
+              "referencia_obra": "Vidas , Adriano , 12 (75)."
+            },
+            {
+              "texto_cita": "«No dejaba de revolver todas las escuelas de los filósofos disputando, y cuando él disputaba, agora por invidia, agora por gana de hablar, acudían á él grandes compañas de filosofantes, que desde lejos é desde cerca le rodeaban y le preguntaban, le contradecían y redargüían y acusaban.»",
+              "autor": "Almazán",
+              "referencia_obra": ", Momo , 1. 6 (52)."
+            },
+            {
+              "texto_cita": "«Carnéades, filósofo doctísimo --- no se desdeñó de disputar en una casa particular en presencia de una sola matrona.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 4. 7 (310)."
+            },
+            {
+              "texto_cita": "«Donde se disputa, me respondió, es fuerza que haya valedores de todas las opiniones por extravagantes que sean.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep . (R. 25. 404 2 )."
+            },
+            {
+              "texto_cita": "«Nunca pudieron convencer al filósofo por su grande habilidad,y viveza, y prontitud en el argüír y disputar.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos. SS. 14 de Diciembre ."
+            },
+            {
+              "texto_cita": "«Cuando conmigo se ha disputado con palabras y razones, yo con unas palabras he respondido á otras palabras, y con unas razones deshecho otras razones.»",
+              "autor": "",
+              "referencia_obra": "Id. ib."
+            },
+            {
+              "texto_cita": "«Con estas y otras razones disputaba con los que eran de contrario parecer.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter . 2. 7 ( Míst . 1. 129)."
+            },
+            {
+              "texto_cita": "«Siendo la lógica la que enseña á discurrir y disputar, parecía cosa ridícula comenzar á aprenderla arguyendo y disputando.»",
+              "autor": "Isla",
+              "referencia_obra": ", Fr. Ger . 2. 1 (R. 15. 99 1 )."
+            },
+            {
+              "texto_cita": "«Sus adversarios, disputando á razones y á sabiduría con él, tenían que darse por vencidos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 469 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para expresar la materia del debate. En el mismo sentido se usa acerca de . Acad. Dicc.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Largamente ha disputado | De arte mágica con él.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La cueva de Salamanca , 3 (R. 20. 95 3 )."
+            },
+            {
+              "texto_cita": "«Para nosotros, señores, tales son los efectos; aquí no disputamos de la causa.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 3 (R. 21. 489 2 )."
+            },
+            {
+              "texto_cita": "«Se disputaba [en este corro] de la precedencia entre la pintura y la escultura.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep . (R. 25. 393 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con sobre , en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No disputamos sobre el acierto de esta costumbre.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 19 (R. 28. 228 2 )."
+            },
+            {
+              "texto_cita": "«Parte oyeron á san Jerónimo la Sagrada Escritura, parte disputaron sobre ella con el mismo, grave y doctamente.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 1. 8 (47)."
+            },
+            {
+              "texto_cita": "«Conversando y disputando sobre leyes y sobre artes ---»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. inéd . p. 228."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en , en sentido análogo ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchas veces se alabada Adriano que jamás se acordaba haber comido solo, sino que siempre comían con él filósofos que disputasen en filosofía, ó capitanes que hablasen en cosas de la guerra.»",
+              "autor": "Guev.",
+              "referencia_obra": "Vidas , Adriano , 13 (77)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ejercitarse los estudiantes discutiendo ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aplíqueme después á la lógica, que me enseñó á discurrir y argumentar sin término. Gustábanme mucho las disputas y detenía á los que encontraba, conocidos ó no conocidos, para proponerles cuestiones y argumentos. Topábame á veces con algunos manteístas que no apetecían otra cosa, y entonces era el oírnos dispular. ¡Qué voces! ¡qué patadas! ¡qué gestos! ¡qué contorsiones! ¡qué espumarajos en las bocas! Más parecíamos energúmenos que filólofos.»",
+          "autor": "",
+          "referencia_obra": "Gil Blas de Santillana , 1. 1."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Discutir con vehemencia, altercar porfiadamente ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo sé lo que digo, señora ama; váyase y no se ponga a disputar conmigo, pues sabe que soy bachiller por Salamanca.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 7 (R. 1. 417 1 )."
+            },
+            {
+              "texto_cita": "«Argüelles leía, hablaba, disputaba, criaba ruiseñores.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr . inéd . p. 228."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de ó sobre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Jamás te pongas a disputar de linajes, á lo menos romparándolos entre sí.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 43 (R. 1. 493 2 )."
+            },
+            {
+              "texto_cita": "«Aquí también se disputa de sangre en el ojo, y se revuelven los abolorios, y se citan los cimenterios para probar el mérito personal.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 185."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , para expresar la causa ú ocasión de la disputa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Disputar por una cosa.»",
+              "autor": "",
+              "referencia_obra": "Acad, Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Algunas veces se usa como trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empezando á disputar entre ellos quién debía ser el elegido, todos querían para si aquel honor.»",
+              "autor": "Mor.",
+              "referencia_obra": "Derr. de los pedantes (R. 2. 572 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con el idiomático las , á semejanza de apostárselas ( fam. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Y que vengan los liberales á disputárselas conmigo!»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Lo que puede un empleo , 2. 5 (3. 19)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Contender con empeño sobre la posesión de algo, material ó inmaterial ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue necesario --- romper diferentes emboscadas y disputar algunos pasos estrechos.»",
+              "autor": "Solís",
+              "referencia_obra": ". Conq. de Méj . 4. 20 (R. 28. 338 1 )."
+            },
+            {
+              "texto_cita": "«Habían roto el puente para disputar la ribera.»",
+              "autor": "",
+              "referencia_obra": "Id, ib. 5. 4 (R. 28. 348 1 )."
+            },
+            {
+              "texto_cita": "«¡Oh príncipe, oh caudillo de las altas | Potestades del cielo, que --- | --- fuiste asombro | Con hechos memorables del Empíreo, | Susto del rey eterno, y disputaste. | La excelsa primacía que á él la fuerza, | El hado ó la fortuna adjudicaron!»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraiso perd . (R. 46. 27 2 )."
+            },
+            {
+              "texto_cita": "«El hombre después de haber disputado con las fieras el dominio de la naturaleza, sujetó las unas á seguir obedientes el imperio de su voz, y obligó a las demás á vivir escondidas en la espesura de los montes.»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria , 2ª. clase (R. 50. 122 1 )."
+            },
+            {
+              "texto_cita": "«Ganan otros el premio de la carrera; mas reconocen que lo deben á que Aquiles no lo ha disputado.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 6. 14 (1. 258)."
+            },
+            {
+              "texto_cita": "«Se negaron á rendirse y disputaron el terreno á palmos.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 10 (R. 64. 217 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entretanto Becerra --- vuelve á España á disputar á su maestro el titulo de restaurador del buen gusto.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de las bellas artes (R. 46. 352 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En sentido recipr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La superstición y la impiedad se disputan [en nuestro siglo] el imperio de la sabiduría.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac. sobre el est. de las ciencias nat . (R. 46. 342 2 )."
+            },
+            {
+              "texto_cita": "«En las estrechas relaciones que había entonces entre las dos naciones que se disputaban el señorío de España, era muy comun ver á los caballeros cristianos irse a servir á los moros.»",
+              "autor": "Quint.",
+              "referencia_obra": "Guzmán el Bueno (R. 19. 211 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dieron lugar á que en su presencia todos los letrados disputasen deféndiendo cada uno su parte.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II , 6. 4 (R. 68. 343 2 )."
+        },
+        {
+          "texto_cita": "«E disputando en el templo | Los vençia.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 310."
+        },
+        {
+          "texto_cita": "«Que mi entinçion es querer disputar.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 552. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Por ende disputar | Ninguno non se atreua, nin mas de porfiar.»",
+          "autor": "",
+          "referencia_obra": "Rim . de Pal . 639 (R. 57. 445 1 )."
+        },
+        {
+          "texto_cita": "«Seyendo puesto el caso é disputada la quistion entre ellos ---»",
+          "autor": "",
+          "referencia_obra": "Crón . Pedro I , 20. 3 (R. 66. 587 2 )."
+        },
+        {
+          "texto_cita": "«So rudo e sin sçiençia --- | Salvo un poquillo que oí disputar.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1107 (R. 57. 262 1 )."
+        },
+        {
+          "texto_cita": "«Ante les convenia con sus sabios disputar.»",
+          "autor": "",
+          "referencia_obra": "Id. 38 (R. 57. 228 1 )."
+        },
+        {
+          "texto_cita": "«Los que disputan catan puntos porque puedan tomar a su contrario por la palabra que dicen.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Libro de los est . 2. 5 (R. 51. 347 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«El nuestro señor Jesucristo, disputando con los judios en las sinagogas, por muchas veces quisiéronle apedrear»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 32 (R. 51. 150 1 )."
+        },
+        {
+          "texto_cita": "«Mientras este disputa contigo, dale buenos azotes, é quebranta su soberbia.»",
+          "autor": "",
+          "referencia_obra": "Ib. 31 (R. 51. 148 2 )."
+        },
+        {
+          "texto_cita": "«Disputó de las cosas así como Salomon.»",
+          "autor": "",
+          "referencia_obra": "Ib. 15(R. 51. 121 2 )."
+        },
+        {
+          "texto_cita": "«Aprendió de el [Mahomad] muchas cosas también de la nueva ley como de la vieja para defenderse contra los judios e los christianos quando con ellos disputasse.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 2. 40 (175 2 )."
+        },
+        {
+          "texto_cita": "«Alleguense los saçerdotes de los judios e los clerigos de los christianos e disputen unos con otros ante nos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 143 (121 1 )."
+        },
+        {
+          "texto_cita": "«Suzia cosa es de se él ensañar, mayormente ome que contendio tantas vezes disputando del mal que viene de la saña.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 119 (93 1 )."
+        },
+        {
+          "texto_cita": "«Et por eso non deben disputar con ellos [con los herejes] concerejamitente delante el pueblo.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 46 (1. 231)."
+        },
+        {
+          "texto_cita": "«E quando disputaren con vos los contrarios de la fe con bravesa e con fuerte palabra ---»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 2 (Knust, 94)."
+        },
+        {
+          "texto_cita": "«E el disputar agusa la agudesa.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 20 (82)."
+        },
+        {
+          "texto_cita": "«Nin lo contienda, nin lo dispute contra ninguno.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 12. 2 (177)."
+        },
+        {
+          "texto_cita": "«Fue el sancto obispo ante el emperador, | Disputó con el lobo commo leal pastor.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Laur . 35 (R. 57. 91 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. disputar ; fr. disputer ; it. disputare : del lat. disputare , verbo de origen comercial: su sentido primitivo es arreglar una cuenta con otro, de dis , que indica divergencia, y putare , calcular. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

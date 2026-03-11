@@ -1,0 +1,815 @@
+{
+  "lema": "ESTRELLAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Aunque los diccionarios, incluido el de la Academia, registran esta forma como representante de un solo verbo, se trata en realidad de dos: uno derivado de estrella, y otro del cruce de * astellar y * estrallar.",
+  "acepciones": [
+    {
+      "id": "(I)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Propiamente, Sembrar de estrellas ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estos disparates eran los puntos rojizos que estrellaban la negra bóveda de mis insomnios.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 432)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde las cinco estaba yo esperando al que enciende los faroles para verle dar luz a los mecheros, corriendo de uno a otro y tocándolos con un palo. Poco a poco se iba estrellando el suelo, formando una constelación, cuyo hormigueo lejano se perdía en la polvorosa soledad del Prado.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 93)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Se usa más bien en esta forma. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es privilegio de viejos, a la hora que se acuestan, preguntar si está el cielo estrellado.»",
+              "autor": "Guev.",
+              "referencia_obra": "Epíst. 1. 2 (p. 341). X"
+            },
+            {
+              "texto_cita": "«Y Rosicler en medio dellos, gozando todos tres de la hermosa vista de los estrellados cielos ---, cerca de sí oyeron muy grandes y apresurados gritos, como de donzella que malamente era tratada.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo (Cl. C. 193. 258). X"
+            },
+            {
+              "texto_cita": "«Nunca llegó deseo ni pensamiento | A descubrir de vista el bien que agora, | Ana real, goza por vos el suelo: | Tanto que el estrellado firmamento | Al suelo invidia.»",
+              "autor": "Aldana",
+              "referencia_obra": ", Poesías (Cl. C. 143. 21). X"
+            },
+            {
+              "texto_cita": "«¡Oh, bienaventurado | El que en su corazón la escala arrima, | Por do de el estrellado | Cielo se alcanza la suprema cima!»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. (Cl. C. 104. 92). X"
+            },
+            {
+              "texto_cita": "«Con su cristal a trechos derramado, | Vn estrellado cielo está formado.»",
+              "autor": "",
+              "referencia_obra": "F. de la Torre, Poes. égl. 2 (Cl. C. 124. 115). X"
+            },
+            {
+              "texto_cita": "«De los hombres el padre y Rey llamaua | A su junta los dioses, por la parte | Que el palacio estrellado al sumo cielo | Se estiende.»",
+              "autor": "",
+              "referencia_obra": "L. Carrillo Sotomayor, Libro erud. poétic. (BALH. 6. 34). X"
+            },
+            {
+              "texto_cita": "«¡Oh tú, mil veces monarca | De cuantas ciudades cubre | Toda la capa estrellada!»",
+              "autor": "Rojas",
+              "referencia_obra": "Villandrando, Viuje entretenido, p. 119. X"
+            },
+            {
+              "texto_cita": "«Mas cuando, amante Júpiter, advierto | Que trocó al suelo la estrellada esfera, | Echo menos en vos el desconcierto.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los pechos privilegiados, 2 (Cl. C. 147. 69). X"
+            },
+            {
+              "texto_cita": "«Verás cómo del término terrestre | Se estienden los confines de tu fama | Al estrellado círculo celeste.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Rimas (Cl. C. 182. 50). +"
+            },
+            {
+              "texto_cita": "«El octavo cielo es el estrellado, al cual se le dio nombre de firmamento.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 1. 7 (R. 91. 26 2 ). X"
+            },
+            {
+              "texto_cita": "«Encima nuestro, el cielo estrellado parecía un ojo inmenso, lleno de luminosas arenas de sueño.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra, 8 (p. 55). X"
+            },
+            {
+              "texto_cita": "«Allá en el fondo un retablo deplorable, con una gran bola azul estrellada y de la que irradian rayos dorados.»",
+              "autor": "Unamuno",
+              "referencia_obra": ", Por tierras de Port. y Esp. p. 90. X"
+            },
+            {
+              "texto_cita": "«Aquella lejana estrella que brilla allí arriba durante la noche se apagará algún día y se hará polvo, y dejará de brillar y de existir. Y como ella, el cielo todo estrellado.»",
+              "autor": "",
+              "referencia_obra": "Id, Del sen. trág. de la vida, 7 (p. 114). X"
+            },
+            {
+              "texto_cita": "«Y así, y no de otro modo, mira al creyente el cielo estrellado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 9 (p. 157). X"
+            },
+            {
+              "texto_cita": "«Y la majestad estrellada de los cielos cae extendiéndose magníficamente sobre la negrura de la tierra.»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno, 19 (p. 649). X"
+            },
+            {
+              "texto_cita": "«Pero en toda mudez se halla cifrada | La clave de la bóveda estrellada.»",
+              "autor": "Maya",
+              "referencia_obra": ", Obra poética, 3 (p. 202). X"
+            },
+            {
+              "texto_cita": "«Algo se fragua en la estrellada altura | Contra nosotros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 (p. 224)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Part. adj. Dicho de la frente de un animal, Que tiene una mancha en forma de estrella. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sus tiernas flores de la frente ufano | Titán desciñe al estrellado Toro.»",
+          "autor": "Reinoso",
+          "referencia_obra": ", La inocencia perdida, p. 24. X"
+        },
+        {
+          "texto_cita": "«Iba el Silencio andando, con su estrellada frente | Oculta todavía tras de lo inmaterial.»",
+          "autor": "Lugones",
+          "referencia_obra": ", El libro de los paisajes, p. 105."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estrellada cosa: stellatus, a, um; stellifer, era, eram.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. X"
+        },
+        {
+          "texto_cita": "«Ebúrneo çeptro mandava su diestra | E rica corona la mano siniestra, | Más prefulgente que el çielo estrellado.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab. (Cl. C. 119. 116). X"
+        },
+        {
+          "texto_cita": "«E dio tan fuerte cabeçada que vesyblemente le pareció que le quebrantara la cabeza e le saltara fuego de los ojos, en tanto que del todo la vista perdió, e pareci[ó]le el mundo todo ser estrellado.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Talavera, Corbacho (Cl. Castal, 24. 266)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De estrellu, y esta del lat. stella con el mismo significado.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(II)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Lanzar o arrojar con violencia a una persona o cosa contra algo, aplastándola o haciéndola pedazos ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Que hasta el río te arrojó? | — Tal cuentan de Hércules griego, | Cuando estrelló al pobre Lucas.»",
+              "autor": "Lope",
+              "referencia_obra": ", com. La Arcadia, 3. 18 (R. 41. 177 1 ). X"
+            },
+            {
+              "texto_cita": "«Brama el ponto y revuélvese; a las naves | Montañas de olas con furor enbisten, | Y a estrellarlas, hundirlas, dispersarlas, | El viento, el mar, el cielo se conjuran.»",
+              "autor": "Sánchez",
+              "referencia_obra": "Barbero, oda (en Poesía del siglo XVIII (Cl. Castal. 65. 311))."
+            },
+            {
+              "texto_cita": "«Calle usted; | Calle usted, o no me acuerdo | De que es mujer, y si vuelve | A alzar el grito, la estrello.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelvo, 3. 9 (1. 92). X"
+            },
+            {
+              "texto_cita": "«Encuentra el enemigo pecho a pecho, | I se lanza a estrellarlo.»",
+              "autor": "E. Mejía",
+              "referencia_obra": ", Obr. complet. p. 317. X"
+            },
+            {
+              "texto_cita": "«Toma el volante, niño, porque estoy viendo que tu papá nos va estrellar a todos.»",
+              "autor": "Machado",
+              "referencia_obra": ", Juan de Mairena (Cl. Castal. 42. 109)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, para indicar el objeto contra el que se lanza o arroja. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El furor del viento proceloso | Ondas con ondas con bramido horrendo | Estrella impetuoso.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poesías (Cl. Castal. 20. 176)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con contra en lugar de con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y un día del Corpus, yo no sé por qué friolera hartó de mojicones a un comisario ordenador, y si no hubiera sido por dos padres del Carmen que se pusieron de por medio, le estrella contra un poste en los portales de Santa Cruz.»",
+              "autor": "Mor.",
+              "referencia_obra": "El sí de las niñas, 3. 11 (R. 2. 440 1 ). X"
+            },
+            {
+              "texto_cita": "«Contra el mármol del sepulcro | La estrelló con furia tanta | Que allí pereció en sus bodas | Y allí yace sepultada.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes. (Cl. C. 95. 260). +"
+            },
+            {
+              "texto_cita": "«Coge una copa de champagne, como con intención de beber; pero de improviso la estrella contra la pared próxima.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Realidad, 5. 2 (p. 376). X"
+            },
+            {
+              "texto_cita": "«Todos los que llevaban objetos pesados o molestos comenzaron a deshacerse de ellos, estrellándolos contra las rocas.»",
+              "autor": "Azuela",
+              "referencia_obra": ", Los de abajo, p. 57. — En los siguientes textos lleva además dat. de persona."
+            },
+            {
+              "texto_cita": "«Él quiso más bien estrellarse la cabeza contra un muro, que sufrir la confusión de parecer a la presencia del monarca ofendido.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 224 2 ). X"
+            },
+            {
+              "texto_cita": "«Su hija, llorando silenciosamente, tenía necesidad de contenerla, de sujetarla, para que no se arrojara sobre el pequeño o se estrellara la cabeza contra la pared.»",
+              "autor": "",
+              "referencia_obra": "Blasco Ibáñez, La barraca, 7 (p. 205)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "En vez de con o contra puede usarse en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volvió de nuevo a temer que enfurecidas las olas le arrebataban para estrellarle en uno de aquellos escollos.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El Criticón, 1. 1 (Cl. C. 165. 11)."
+            },
+            {
+              "texto_cita": "«Yo mismo, yo le vi --- | Con la gran mano asir, y en una peña | Estrellar dos soldados de los nuestros.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida, 3 (3. 241)."
+            },
+            {
+              "texto_cita": "«Una mujer arroja un niño, hijo suyo, desde una altura, y le estrella en unos peñascos a vista del auditorio.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 3, p. 135, X"
+            },
+            {
+              "texto_cita": "«Don Timoteo estalla por fin con el escándalo de Damián, y de las palabras --- pasó a los golpes para quitarle la botella, estrellarla en el suelo y encerrar al borracho.»",
+              "autor": "A. Yáñez",
+              "referencia_obra": ", Al filo del agua, p. 159. — En el siguiente texto lleva además un dat. de persona."
+            },
+            {
+              "texto_cita": "«Y vuelvo a decir que se me vaya Pedro Recio de aquí; si no, tomaré esta silla donde estoy sentado y se la estrellaré en la cabeza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 47 (R. 1. 501 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con sobre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ira y la impaciencia elevaron su cuerpo, lo mantuvieron extrañamente en el aire, recortado contra el cielo, lo estrellaron sobre su presa con violencia.»",
+              "autor": "Vargas Llosa",
+              "referencia_obra": ", El desafío, p. 110. –"
+            }
+          ]
+        },
+        {
+          "id_marcador": "ε ε )",
+          "definicion": "met. Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Rompe [el mar] furioso el diamantino freno, | Y estrellando su frente en roca y roca, | Espumas masca en la fragosa orilla | Y escupe los bajeles de su silla.»",
+              "autor": "Domínguez Camargo",
+              "referencia_obra": ", Obras (ICC. 15. 230). X"
+            },
+            {
+              "texto_cita": "«Yo, le replica el río, | Si revuelve mis olas un chubasco, | Estrello en un peñasco | Todo ese gran poder.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Fábulas, 75 (Cl. C. 179. 96). X"
+            },
+            {
+              "texto_cita": "«Y es un martirio de olas | El martirio de la mar estremecida, | Que en las rocas de la tierra va a estrellar perpetuamente | Las desnudeces benignas | De sus pechos espumosos.»",
+              "autor": "Lugones",
+              "referencia_obra": ", Obr. Poét. compl. p. 84."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Chocar por lo general violentamente, hacerse pedazos. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hierve el mar, de hirviente lava | Son sus encontradas olas | Y en montañas que se estrellan | Asaltan la firme proa.»",
+              "autor": "Arolas",
+              "referencia_obra": ", Poes. (Cl. C. 95. 231). X"
+            },
+            {
+              "texto_cita": "«Que de Angostura las proezas cante, | De libertad inexpugnable asilo, | Donde la tempestad desoladora | Vino a estrellarse.»",
+              "autor": "Bello",
+              "referencia_obra": ", Poesías, p. 51. +"
+            },
+            {
+              "texto_cita": "«Algunos [pájaros] por volar demasiado pronto, se caen y se estrellan.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid . 5 (2. 236). X"
+            },
+            {
+              "texto_cita": "«Si el buque se estrellaba, ¿quién podía salvar el espacio de agua que le separaría de la tierra?»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Trafalgar, 15 (p. 161). X"
+            },
+            {
+              "texto_cita": "«Su golpe me arrojó sobre una mesa cubierta de botellas vacías que se estrellaron al caer.»",
+              "autor": "Carpentier",
+              "referencia_obra": ", Los pasos perdidos, p. 112."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con a, para indicar el objeto o lugar contra el que se produce el choque.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y él [el bajel] va a estrellarse al áspero bajío.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A España (R. 19. 38 2 ). X"
+            },
+            {
+              "texto_cita": "«Y se alza una marea de capas pluviales, sedas, brocados, encajes, que va a estrellarse dulcemente a los pies del joven Carlos.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 5 (p. 81)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con, para indicar lo mismo que en el caso anterior, X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El río, todo cuanto él es, se estrella con este tremendo peñasco.»",
+              "autor": "Gumilla",
+              "referencia_obra": ", Orinoco, 1. 18 (p. 201)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con contra en lugar de con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las olas | Se estrellan contra el límite vedado.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, Poes. disc. moral (1. 40). X"
+            },
+            {
+              "texto_cita": "«El río producía un ruido colérico, que se acentuaba en la noche, cuando se estrellaba contra las piedras.»",
+              "autor": "",
+              "referencia_obra": "J. A. Osorio L. El camino en la sombra, p. 166, X"
+            },
+            {
+              "texto_cita": "«Lo había visto estrellarse contra una puerta como un toro salvaje.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas, 11 (p. 144). X"
+            },
+            {
+              "texto_cita": "«Las olas avanzan hasta el corazón del monte. Ramas desgajadas van a estrellarse contra las casuchas de los españoles.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 1. 2 (p. 38), X"
+            },
+            {
+              "texto_cita": "«Empieza el sitio. Es una larga lucha penosa, en que, si los de Cartagena comen porquerías, los ingleses se estrellan contra las piedras, hasta romperse la cabeza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib, 2. 16 (p. 293)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con en, para indicar lo mismo que en los casos anteriores. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero el suceso fue tan contrario, que el conde y el peregrino se estrellaron en la dura tierra.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. (Cl. Castal. 12. 378). X"
+            },
+            {
+              "texto_cita": "«Un corcovo dio soberbio, | Y a estrellarse ciego vino | En las crestas de un escollo, | Gallo de montes altivo.»",
+              "autor": "",
+              "referencia_obra": "H. Domínguez Camargo, Obras (ICC, 15. 385)."
+            },
+            {
+              "texto_cita": "«Por no estrellarnos en las costas, que la oscuridad no nos dejó descubrir, fue necesario apartarse de ellas.»",
+              "autor": "",
+              "referencia_obra": "Mor, Obr. póst. 2, p. 4. X"
+            },
+            {
+              "texto_cita": "«La nave en una roca | De hielo se estrelló | Y se perdió.»",
+              "autor": "Ferrán",
+              "referencia_obra": ", Obras completas (Cl. C. 164. 117), X"
+            },
+            {
+              "texto_cita": "«Los mares | No se estrellan sombríos en las costas, | Ni rueda el sol por los plomizos cielos.»",
+              "autor": "Querol",
+              "referencia_obra": ", Poesías (Cl. C. 160. 29). X"
+            },
+            {
+              "texto_cita": "«Voló por el espacio sin necesidad de alas, y no paró hasta estrellarse en la pared fronteriza a la torre.»",
+              "autor": "Palma",
+              "referencia_obra": ", Tradiciones peruanas, p. 130. X"
+            },
+            {
+              "texto_cita": "«Sin duda voy a estrellarme en el suelo, en cuyos intersticios quedaré muerta y enterrada.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Charlas de café, 4 (p. 86). X"
+            },
+            {
+              "texto_cita": "«Continuamente, perennemente, las olas se estrellan en las rocas, ya con blandura, ya furiosas.»",
+              "autor": "Azorín",
+              "referencia_obra": ", El paisaje de España, 3 (p. 424). X"
+            },
+            {
+              "texto_cita": "«Algunos se tiran por las murallas al mar, prefiriendo estrellarse en las rocas a quedar cautivos de Morgan.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Biogr. del Caribe, 2. 11 (p. 219)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Con sobre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Enloquecido el animal, disparándolo de nuevo contra los batientes cerrados, vino a estrellarse sobre ellos en una pechada formidable que estremeció todo el edificio y a cuyo golpe la puerta se hundió, totalmente desencajada.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas, 9 (p. 108)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "ζ ζ)",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre dichos escollos debemos caminar siempre, no con la esperanza de no dar jamás en ninguno de ellos, pero sí con la mira, con el deseo, y la esperanza también, de no estrellarnos hasta el punto de perecer.»",
+              "autor": "Balmes",
+              "referencia_obra": ", El Criterio, p. 265. —– Con contra. X"
+            },
+            {
+              "texto_cita": "«Y aunque los sabios se estrellen contra la muralla de lo imposible, renunciando a su ambicioso programa, el hombre, que fue siempre un místico, ¿no habría granjeado un consuelo y una esperanza alentadoras?»",
+              "autor": "",
+              "referencia_obra": "S. Ramón y Cajal, El mundo, 3. 16 (p. 167). X"
+            },
+            {
+              "texto_cita": "«Por olvidarlo, marchan los asuntos humanos a la deriva, hijo mío, a estrellarse contra los acantilados de las guerras y otros castigos de Dios.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell, p. 163. — Con en."
+            },
+            {
+              "texto_cita": "«Y nuestras quejas lúgubres se estrellan | De este albergue funesto en!as murallas.»",
+              "autor": "Quint.",
+              "referencia_obra": "El duque de Viseo, 2. 1 (R. 19. 47 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Contra oculto peñón, estrellada la barca, entreguemos | Nuestros cuerpos al mar, nuestras almas amantes a Dios.»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 192."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No consentiría que su pobre Paquita pasara a manos de un desconocido, y se perdiesen para siempre tantas caricias, tantas lágrimas y tantos suspiros estrellados en las tapias del corral.»",
+              "autor": "Mor.",
+              "referencia_obra": "El sí de las niñns, 1. 8 (R. 2. 424 1 ; Cl. Ebro, 39. 41)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dicho de los huevos, Freírlos sin batir ( trans. ). (cfr. Dicc. Acad. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Part. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los [huevos] estrellados son abominables.»",
+              "autor": "",
+              "referencia_obra": "J. de Pineda, Agr. crist. 6. 32 (R. 162. 64 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "definicion": ". Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Chocar o entrar en combate con el enemigo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con las prep. con , contra o en ,",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tras éstos otra escuadra de repente | En ellos se estrelló desatinada.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 22 (R. 17. 84 1 ). X"
+            },
+            {
+              "texto_cita": "«Hombres con hombres con furor se estrellan.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poes. Pelayo (Cl. C. 47. 27). X"
+            },
+            {
+              "texto_cita": "«Y los llaneros vuelven, porque no iban de fuga, y acometen con más ímpetu, y se estrellan contra los infantes que les oponen la erguida bayoneta.»",
+              "autor": "Montalvo",
+              "referencia_obra": ", Prosas , p. 63. X"
+            },
+            {
+              "texto_cita": "«Los setecientos hombres que condujo Liborio Mejía a estrellarse seguramente en las dos mil bayonetas de los veteranos de Sámano, iban deliberadamente al sacrificio.»",
+              "autor": "Rueda Vargas",
+              "referencia_obra": ", Lentus in umbra , p. 47. X"
+            },
+            {
+              "texto_cita": "«De la fila se destaca otra masa de jinetes a la carrera tendida, y otra y otra. Penetran por todas las calles a un tiempo mismo y vienen a estrellarse contra los parapetos del centro.»",
+              "autor": "Uslar-Pietri",
+              "referencia_obra": ", Lanzas coloradas , 12 (p. 156)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Trans. Con sentido factitivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Será sublime la empresa del general Lavalle, si él viene a estrellar sus escuadrones sobre las calles de Buenos Aires.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia , 3 (p. 311)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las cristianas lanzas recibidas | Fue su improvisa cólera estrellada.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Poesías (Cl. Castal. 20. 118)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Chocar, indisponerse o enemistarse con alguien. Con con o contra .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hube de ceder por no estrellarme con una autoridad que empezaba teniendo en tan poco nuestro carácter y circunstancias.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Def. de la Junta Central , 2. 3 (R. 46. 564 2 ). X"
+        },
+        {
+          "texto_cita": "«Sería, por último, harto cruel que yo me estrellase contra el bueno de don Braulio.»",
+          "autor": "Valera",
+          "referencia_obra": ", Pasarse de listo , 12 (5. 152)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Tropezar con un obstáculo, fracasar. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Gustamos de dejarnos arrebatar en materia de diversión por las impresiones agradables, sin presentarles el acerado escudo de una crítica rigorista donde se estrellen.»",
+          "autor": "Larra",
+          "referencia_obra": ", Crít. Liter. y artíst. (Cl. C. 52. 154). X"
+        },
+        {
+          "texto_cita": "«Hay, sin embargo, que andarse con tiento, porque el dichoso papel de conde Octavio es dificilillo y al más leve tropiezo pudiera uno caer y estrellarse.»",
+          "autor": "Tam. y Baus",
+          "referencia_obra": ", Un drama nuevo , p.159."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con ante , para indicar el obstáculo o dificultad. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero las nuevas provisiones obtenidas venían a estrellarse ante las dilatorias opuestas por el doctor don Victorino Rodríguez, gobernador de Córdoba.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Recuerdos de Provincia , p. 75."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con la prep. con , para indicar lo mismo que en el caso anterior. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con sus resabios de militar, fue pistola en mano; pero se estrelló con la firmeza del señor Cura Robles.»",
+              "autor": "A. Yáñez",
+              "referencia_obra": ", Al filo del agua , p. 163."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pueblo contra cuyo denodado brío se estrelló el poder de Napoleón, era el pueblo proverbialmente católico.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 13 (1. 187)."
+            },
+            {
+              "texto_cita": "«Vemos que eso choca, se estrella contra las costumbres universales, y que un escándalo semejante no podría durar un momento a los ojos de la conciencia pública.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 29 (2. 156)."
+            },
+            {
+              "texto_cita": "«La inteligencia obra sin destruir, la fuerza se estrella contra el obstáculo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 31 (2. 181)."
+            },
+            {
+              "texto_cita": "«Cualquiera ataque directo que diera a la constitución, ya oculto, ya descubierto, había de estrellarse igualmente contra la fuerza de la opinión general.»",
+              "autor": "",
+              "referencia_obra": "Quint, Catsas a L. Holland, 4 (R. 19. 557 2 ). X"
+            },
+            {
+              "texto_cita": "«Por otra parte, las preocupaciones unitarias estorbaron que se adoptasen los verdaderos medios militares y revolucionarios para obrar contra el tirano, yendo a estrellarse los esfuerzos intentados contra elementos que se habían dejado formarse más poderosos.»",
+              "autor": "D. F. Sarmiento",
+              "referencia_obra": ", Facundo, 3. 2 (p. 250). X"
+            },
+            {
+              "texto_cita": "«Mi padre pasó toda su vida en comienzos de especulaciones, cuyos proyectos se disipaban en momentos mal aconsejados; trabajaba con tesón y caía en el desaliento; volvía a ensayar sus fuerzas, y se estrellaba contra algún desencanto.»",
+              "autor": "",
+              "referencia_obra": "Id. Recuerdos de Provincia, p. 101. X"
+            },
+            {
+              "texto_cita": "«Casi nunca convencidos de que el cultivo de la ciencia pura servía para algo, nos estrellábamos contra la indiferencia universal.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", El mundo, 2. 10 (p. 99). X"
+            },
+            {
+              "texto_cita": "«Macario y sus acompañantes también se estrellaron contra la voluntad de aislamiento del enfermo, contra su decisión de permanecer allí hasta el fin.»",
+              "autor": "Roa",
+              "referencia_obra": "Bastos, Hijo de hombre, p. 27. X"
+            },
+            {
+              "texto_cita": "«Los asaltos en masa y al descubierto se estrellaron contra las primeras líneas de la defensa enemiga, sin haber podido localizar siquiera el reducto, escondido en el monte.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 265."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pero todas las demostraciones de enojo y aparato de guera civil se estrellaron en las lentitudes y reservada política del maestre.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cas. ilustr. 2 ( Mem. Acad. Hist. 6. 102)."
+            },
+            {
+              "texto_cita": "«Tropezaron a veces y se estrellaron en los escollos de la preocupación y de la ignorancia.»",
+              "autor": "Acad.",
+              "referencia_obra": "Hist. 6. 426). X"
+            },
+            {
+              "texto_cita": "«Al llegar a ella se estrellan, desgraciadamente, los más de sus cálculos en su virtud (porque aunque la ves tan loca al parecer, en el fondo es virtuosa).»",
+              "autor": "Larra",
+              "referencia_obra": ", Artículos de costumbres (Cl. C. 45. 191)."
+            },
+            {
+              "texto_cita": "«Puso sitio sobre Zamora. Aquí la suerte le tenía guardado el término de su carrera; y el terror de tantos reyes se estrelló en una ciudad defendida por una flaca mujer.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cid . (R. 19. 204 2 )."
+            },
+            {
+              "texto_cita": "«Suposiciones todas que se estrellan en el concepto que se tenía de su capacidad, diligencia y buena fe.»",
+              "autor": "",
+              "referencia_obra": "Id. Cartas a L. Hollaed, 6 (R. 19. 562 2 )."
+            },
+            {
+              "texto_cita": "«Multiplicaron con denuedo y resolución los ataques a aquel punto fortificado, embistiéndolo con maestría suma; pero siempre se estrellaron en el valor de los defensores.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 2. 12 (5. 218)."
+            },
+            {
+              "texto_cita": "«Acometió una empresa que reputó liviana, y en que vinieron a estrellarse su poder y su gloria.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8. 12 (6. 390). +"
+            },
+            {
+              "texto_cita": "«Habiéndose estrellado su plan en la entereza del noble anciano ---, determinó [el duque de Guisa] ganar con las armas ventajas tales, que aumentaran su prestigio.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 2. 23 (R. 102. 258 1 ). X"
+            },
+            {
+              "texto_cita": "«¡Todos tus decantados medios se estrellarán en mi talento y en mi virtud!»",
+              "autor": "Alarcón",
+              "referencia_obra": ". El escándalo (Cl. C. 178. 83). X"
+            },
+            {
+              "texto_cita": "«Don Álvaro, que distinguía mucho al de Agüero, le hizo algunas observaciones que se estrellaron en la inflexible resolución del soldado.»",
+              "autor": "Palma",
+              "referencia_obra": ", Tradiciones peruanas, p. 86. X"
+            },
+            {
+              "texto_cita": "«La caballerosa insistencia de Montoya se estrelló en el inquebrantable concepto que del honor militar abrigaba el de Ayacucho.»",
+              "autor": "Rueda Vargas",
+              "referencia_obra": ", Lentus in umbra, p. 123."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Se trata muy probablemente de un cruce de * astellar ‘hacer astillas’ y * estrallar ‘hacer sonar el látigo o tralla’ del que derivaría estrallido, que se encuentra, por ejemplo, en Alemán ( Guzmán, 1. 2 (Cl. C. 73. 96) ). Véase la etimología de estallar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

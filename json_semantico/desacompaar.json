@@ -1,0 +1,197 @@
+{
+  "lema": "DESACOMPAÑAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dejar de acompañar, separarse de la compañía, dejar solo ( trans .) (raro sino es en el part. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con acus. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No los quiso desacompañar.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part . Privado de compañía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y el que se precia de andar muy acompañado de servidores, y de hinchir la calle por do va de criados, ¿cómo no terná por tormento verse solo y desacompañado?»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 28, § 5 (R. 6. 110 2 )."
+            },
+            {
+              "texto_cita": "«Donde puedes considerar cuán pobre, cuán solo y cuán desacompañado vino el Salvador este camino, pues aun no tenía discípulos que le acompañasen.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida. crist . 6. 13 (R. 8. 345 1 )."
+            },
+            {
+              "texto_cita": "«Notable ventura ha sido | El ir desacompañado.»",
+              "autor": "Lope",
+              "referencia_obra": ", La inocente sangre , 1. 16 (R. 52. 356 1 )."
+            },
+            {
+              "texto_cita": "«César, tu amante, está aquí. | — La primer vez que ha venido | Desacompañado, es ésta. | ¿César sin Carlos? ¡Extraña | Novedad!»",
+              "autor": "Tirso",
+              "referencia_obra": ", Celos con celos se curan , 1. 5 (R. 5. 366 2 ). —"
+            },
+            {
+              "texto_cita": "«Muerta mi hija, ¿quien acompañará mi desacompañada morada?»",
+              "autor": "",
+              "referencia_obra": "Celest . 21 (R. 3. 74 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la persona de cuya compañía carecemos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Jamás está desacompañada de galanes, como buena taberna de borrachos.»",
+              "autor": "",
+              "referencia_obra": "Celest . 17 (R. 3. 65 1 )."
+            },
+            {
+              "texto_cita": "«¡Oh triste de ti, mi corazón, y cómo te veo entre el ayunque y el martillo! conviene á saber, desacompañado de buenos, y arrodeado de malos.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 87)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer que una persona ó cosa no vaya acompañada de algo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Digo, señor, que nunca yerro vino desacompañado, y que un inconveniente es causa y puerta de muchos.»",
+              "autor": "",
+              "referencia_obra": "Celest . 2 (R. 3. 17 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar la cosa de cuya compañía se priva á otra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dedicar el sudor á sola la ambición es diabólico; acompañarle con la utilidad ajena, es humano; desacompañarle de la propia, es divino.»",
+              "autor": "Quev.",
+              "referencia_obra": "Rómulo, advert . (R. 23. 112)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siendo así que san Pablo era muy elocuente y elegante, se desacompañó en sus escritos y predicación de ostentarlas.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 11 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y para que ninguna parte de la vida del Señor estuviese desacompañada de estas virtudes, quiso tener madre á quien se humillase y obedeciese.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Trat. de S. José (5. 82)."
+            },
+            {
+              "texto_cita": "«Menosprecia Dios, dice él, las oraciones leves --- y desacompañadas de buenas obras.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. Vida crist . 5. 2 (R. 8. 296 1 )."
+            },
+            {
+              "texto_cita": "«Si la vida no iguala á las palabras, la mesma doctrina se avergonzará de verse en su boca, desacompañada de vida y ejemplo.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 4. 116)."
+            },
+            {
+              "texto_cita": "«La valentía desacompañada de consejo, viene á tierra, dice Horacio, por su mesmo peso.»",
+              "autor": "",
+              "referencia_obra": "Id. ( ib . 4. 196)."
+            },
+            {
+              "texto_cita": "«Si el poder desacompañado de razón es ley de injusticia y crueldad; el que se gobernare por razón será ley de piedad y clemencia.»",
+              "autor": "",
+              "referencia_obra": "Id. ( ib . 4. 196)."
+            },
+            {
+              "texto_cita": "«Es [la confianza] hija del amor, la cual no nos pueden dar ni las penitencias, ni los ayunos, ni las disciplinas, ni otras ningunas obras desnudas y desacompañadas de él.»",
+              "autor": "J. de los Ángeles",
+              "referencia_obra": ", Conq. del reino de Dios , 7. 13 (280)."
+            },
+            {
+              "texto_cita": "«La elocuencia escrita, por estar desacompañada de acción no necesita menos de la moción que la pronunciada.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. introd . (56)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Veia que no era razon que él quedase desacompañado, estando el infante don Juan tan cerca dél con mucha más gente de la quél tenia.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 45 (R. 68. 397 2 )."
+        },
+        {
+          "texto_cita": "«Y estándose el infante armando, vinieron ende la reyna, su mujer del rey, é la infanta doña Catalina su mujer, á muy gran priesa á pie por los lodos, desacompañadas é mal vestidas.»",
+          "autor": "",
+          "referencia_obra": "Ib . 14. 28 (R. 68. 390 2 )."
+        },
+        {
+          "texto_cita": "«El desciende sin lo tardar, non lo desacompañando los religiosos.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 128 (378)."
+        },
+        {
+          "texto_cita": "«Bien pensaba el buen maestre que tenia su possada mas acompañada de gentes darmas de lo que estaba --- desque la vido tan desacompañada, comenzó de retratar del maleficioso ome secretario é contador suyo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 120 (330)."
+        },
+        {
+          "texto_cita": "«E porque eran parientes muy cercanos, é se amaban mucho, é eran mucho compañeros, nunca el condestable los queria desacompañar nin apartar en la facienda de la guerra.»",
+          "autor": "",
+          "referencia_obra": "lb . 53 (147). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«La sapiencia --- es segurança de los medrosos e solas de los desacompannados.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", preámb . 5 (Knust, 75); item, Buenos proverbios ( ib . 7; *desconpannados)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y acompañar . Port. desacompanhar ; fr. désaccompagner : el it. dice discompagnare , scompagnare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

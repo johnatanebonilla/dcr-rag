@@ -1,0 +1,322 @@
+{
+  "lema": "APLAZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "En general, Señalar plazo y lugar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose de personas, Convocar, citar para tiempo y lugar señalado. El plazo y el lugar se señalan con para .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con esto el rey de Castilla se volvió al Burgo, y hecho allí el alarde de su gente, les mandó ir á sus casas, aplazándolos para el mes de marzo siguiente, en que pensaba hacer la guerra poderosamente al rey de Granada.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 399 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Fijarse un plazo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pidió [el defensor de Catanzaro] treguas de cuarenta días, á condición de rendir la plaza si en ellos no era socorrido. Concediósele este partido, y todos los pueblos de la comarca siguieron el ejemplo de Catanzaro, y se aplazaron del mismo modo.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 228 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues yo te vi | Salir de la casa, infiel, | De un caballero soldado | A quien ya dejo aplazado | Para ir á reñir con él.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante , 3. 6 (R. 39. 160 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Tratándose de alguna reunión, fiesta, combate, etc. Disponer ú ordenar su verificación en tal ó cual tiempo ó lugar.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Carlos con deseo de castigar la insolencia del almugávar, aplazó el desafío, y quiso asistir y ver la batalla.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 7 (R. 21. 8 2 )."
+            },
+            {
+              "texto_cita": "«En públicos carteles de alegría | Fiestas aplaza y les señala día.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 3 (R. 17. 172 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuenta la historia que se llegó el día de la batalla aplazada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 56 (R. 1. 522 1 . Antes se había dicho:"
+            },
+            {
+              "texto_cita": "«El acetaba el tal desafío en nombre de su vasallo, y señalaba el plazo de allí á seis días, y el campo en la plaza de aquel castillo.»",
+              "autor": "",
+              "referencia_obra": "2. 52; p. 514 2 )."
+            },
+            {
+              "texto_cita": "«Ya tendréis en memoria el desafío | Que Rengo y yo tenemos aplazado.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 29 (R. 17. 109 1 )."
+            },
+            {
+              "texto_cita": "«Se fue á la ciudad de Victoria para donde el rey de Inglaterra le tenía aplazadas vistas, y prometido que en breve sería con él para tratar cosas y negocios muy graves.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 16 (R. 30. 393 1 )."
+            },
+            {
+              "texto_cita": "«Se maravilla de tan gran concurso de gente como había acudido á aquel sermón que él tenía ya aplazado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 29, § 4 (R. 6. 363 1 )."
+            },
+            {
+              "texto_cita": "«Habrá otros desafíos aplazados, | Irá otra vez á Troya, conducido | De su virtud, Aquiles, y sus hados.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl . 4 (R. 37. 21 2 )."
+            },
+            {
+              "texto_cita": "«En tanto con las fiestas aplazadas | El francés hinche de alegría la tierra.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 13 (R. 17. 276 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El tiempo ó lugar se señalan con para , rara vez con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No dejó que pasase adelante la fiesta en ningún modo. No le pesó á mi amo del alboroto, porque se quedó con los dineros, y aplazó para otro día y en otro hospital lo que en aquél había faltado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col . (R. 1. 237 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acordaron se aplazasen de nuevo cortes generales del reino para la villa de Madrid.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 19. 1 (R. 31. 33 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De allí fueron á Burgos para asistir en las cortes que tenían aplazadas para aquella ciudad.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 12. 7 (R. 30. 351 2 )."
+            },
+            {
+              "texto_cita": "«En el mes de setiembre fue el rey á las cortes que tenía aplazadas para Madrid.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 6 (R. 30. 469 1 ). —"
+            },
+            {
+              "texto_cita": "«Al venidero mes, que abre las flores, | La fiesta principal está aplazada.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 13 (R. 17. 278 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Tratándose del tiempo ó lugar para el cual se dispone la verificación de un acto, Fijar, determinar con anticipación.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El respondió que quería | Componernos, y aplazamos | Este puesto y este día.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 1. 5 (R. 7. 4 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Adviertan que en tierra mía | Campo aplazarse no puede | Sin mí.»",
+              "autor": "Cald.",
+              "referencia_obra": "El príncipe constante , 3. 4 (R. 7. 257 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue preso por el rey desleal que se halló en el lugar aplazado con gente y con armas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 8. 7 (R. 30. 230 1 )."
+            },
+            {
+              "texto_cita": "«Acudieron allí y se juntaron el día aplazado, á 14 de setiembre del año del Señor de 1279.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 14. 4 (R. 30. 405 1 )."
+            },
+            {
+              "texto_cita": "«El día que tenían aplazado vinieron á hablarse con cada cincuenta hombres de á caballo con armas iguales.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 20 (R. 30. 491 2 )."
+            },
+            {
+              "texto_cita": "«De Alejandro también, obispo de Alejandría se escribe en la historia eclesiástica, que habiéndole señalado los arrianos un día aplazado en que había de recebir á Arrio á la comunión de la Iglesia, el santo varón estuvo toda aquella noche par del altar.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 2. 5, § 15 (R. 8. 154 2 )."
+            },
+            {
+              "texto_cita": "«A las siete de la tarde | Me escribió que me aguardaba | En San Blas --- | Llegué al aplazado sitio.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La verdad sospechosa , 3. 7 (R. 20. 337 3 ). —"
+            },
+            {
+              "texto_cita": "«A 1º de junio, que era el día aplazado para la batalla, el rey D. Carlos, con el escuadrón de sus caballeros, se presentó en Bordeaux.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 14. 6 (R. 30. 411 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Diferir ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los capitanes que habían seguido el pendón real hasta las mismas puertas de Granada, no pudieron sin desabrimiento y pesadumbre volver otra vez las espaldas á ciudad tan famosa y aplazar por un año su anhelada conquista.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", H. P. del Pulgar (4. 39)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Fue tanto aquexada que se ovo de aplazar [la villa], é requirió á su rey que la socorriese, é no habiendo socorro, entregóse.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener . 2 (R. 68. 699 2 )."
+        },
+        {
+          "texto_cita": "«Cercó á Gibraltar, é teniéndola ya aplazada murió sobre ella.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 14. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«En fuerte tiempo me aplazastes la mi villa, ca non sé agora quién por mí la quiera tener.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 1. 3 (R. 66. 405 2 )."
+        },
+        {
+          "texto_cita": "«En gran lid aplasada | Los moros ffueron vencidos.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 191 (R. 57. 483 1 )."
+        },
+        {
+          "texto_cita": "«E que pues don Diego se fuera sin su mandado seyendo aplazado, que le consejaban que fuese por el pleito adelante.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 13 (R. 66. 139 2 )."
+        },
+        {
+          "texto_cita": "«Et si viene el aplazado et se va sin mandado del alcalde ante del pleyto contestado, mandará el alcalde asentar en sus bienes.»",
+          "autor": "O. L.",
+          "referencia_obra": "2. 247). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«La aplasó»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«E dixieron a Socrat: ¿Qual es la cosa que mas acerca es? E dixo el: La cosa que aplazada es.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 25)."
+        },
+        {
+          "texto_cita": "«Deve ser aplaçado aquel de que querellare ante la justicia.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo , 2. 4. 3 (71)."
+        },
+        {
+          "texto_cita": "«El que primero lo fallare, aplacel' nueve días, que paresca ante el rey, doquier que sea, e que faga quantol' mandare.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 9. 3 (56)."
+        },
+        {
+          "texto_cita": "«E quando quier que el siervo fuere fallado en poder del judío, despues destos dias aplazados, salga libre.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 3. 12 (193)."
+        },
+        {
+          "texto_cita": "«Apláçelas el rey, pues que me damnaron, | Que digan la verdad porque me acusaron.»",
+          "autor": "",
+          "referencia_obra": "José , 137 (R. 57. 417 2 )."
+        },
+        {
+          "texto_cita": "«Puesto lo he con ellos, e an me aplazado | Que a pocos de dias prenda su ospedado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 512 (R. 57. 56 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á y plazo . Port. aprazar ; cat. aplassar .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "La z se vuelve c antes de e : aplacé , aplacéis . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

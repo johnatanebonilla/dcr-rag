@@ -1,0 +1,480 @@
+{
+  "lema": "DELIBERAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Considerar atenta y detenidamente el partido que ha de tomarse ó la respuesta ó solución que ha de darse ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los acelerados y súbitos placeres crían alteración, la mucha alteración estorba el deliberar.»",
+              "autor": "Celest.",
+              "referencia_obra": "5 (R. 3. 27 1 )."
+            },
+            {
+              "texto_cita": "«Los que no hacen bien ni obran mal por no poder usar del libre albedrío, ni consultar y deliberar y escojer, como son los insensatos y locos y todos los niños antes que tengan uso de razon.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 1. 26 (R. 60. 409 1 )."
+            },
+            {
+              "texto_cita": "«No estaban deliberando [los profetas] ni pensando las palabras, sino como órganos suyos abrían su boca; y El meneaba la lengua como le placía.»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv. , 3, § 1 (R. 11. 458 1 )."
+            },
+            {
+              "texto_cita": "«Tú sin deliberar aciertas, sin discurrir comprendes, sin preguntar estás cierto.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Hermosura de Dios, Ejerc. 4 (469)."
+            },
+            {
+              "texto_cita": "«Mientras deliberan y traman el plan para perderme, confundamos sus proyectos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Abén Humeya , 3. 4 (3. 357)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el punto en que se ejercita la consideración.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tardanza utilísima es deliberar en lo más útil.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Dict. reales , 7 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«No fue menester deliberar mucho tiempo en la religión que escogería: descubrió fácilmente que en la orden de Santo Domino había que hallar lo que tanto deseaba.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 1. 2 (5)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con sobre ó acerca de , para denotar el punto á que se refiere la resolución que debe tomarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los celtiberos pidieron un día para deliberar sobre esto.»",
+              "autor": "A. Mor.",
+              "referencia_obra": "Crón. 7. 9 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«Este terrible castigo y abandono de Dios se experimenta ordinariamente en aquellos que después de haber conocido claramente la verdad y lo que deben hacer, deliberan nuevamente sobre ello y consultan á Dios en la persona de sus siervos.»",
+              "autor": "Scío",
+              "referencia_obra": ", Núm. 22. 19, nota."
+            },
+            {
+              "texto_cita": "«Los capitanes | Deliberando están sobre si deben | Entregarse á la fuga ó dar batalla.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 10 (1. 296)."
+            },
+            {
+              "texto_cita": "«Hallándose juntos los pares del reino para deliberar acerca de la coronación del príncipe heredero, se presenta Ricardo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 3, p. 176."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , para expresar la reunión formada para decidir un punto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deliberar en junta.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Lidiando [la nobleza] en el campo ó deliberando en las cortes --- fue siempre escudo y apoyo del estado.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 1ª. clase (R. 50. 104 2 )."
+            },
+            {
+              "texto_cita": "«Grato siempre | Te fue lejos de mí y en clandestinas | Juntas deliberar.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 1 (1. 27)."
+            },
+            {
+              "texto_cita": "«En consejo deliberan | Sobre ponerse en fuga, y del terrible | Combate fatigados, ya no quieren | Esta noche velar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 10 (1. 295)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con entre , para expresar las personas que toman parte en la deliberación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deliberar entre amigos.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "A veces se usa como trans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tres cosas se requieren en las resoluciones: prudencia, para deliberallas, destreza para disponellas, y constancia para acaballas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 63 (R. 25. 174 2 )."
+            },
+            {
+              "texto_cita": "«Deliberamos pues, entre nosotros, | Si renovar la sanguinosa guerra | Y los tristes combates deberemos, | O en duradera paz ambas naciones | Y en amistad unir.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada. 4 (1. 99)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Resolver después de atenta consideración ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Deliberé ayudalle como amigo | Con tres manzanas de oro que traía.»",
+              "autor": "Mend.",
+              "referencia_obra": "Adonis (R. 32. 72 1 )."
+            },
+            {
+              "texto_cita": "«Deliberaba a artarse del mundo y de todos sus deleites.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, miérc. en la noche (R. 8. 36 2 )."
+            },
+            {
+              "texto_cita": "«Vuelvo á decir que se considere todo con maduro consejo, y midiendo las esceranzas que abandonamos con los peligros á que nos exponemos, propongáis y deliberéis lo que fuere más conveniente.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2. 19 (R. 28. 259 1 )."
+            },
+            {
+              "texto_cita": "«Conociendo lo poco que podía esperar del rey su hermano, deliberó no contar ya con su voluntad, y atender sólo al bien del estado.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. Cat. (Mem. Acad. Hist. 6. 4)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. dep. Que se ha resuelto después de atenta consideración.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Aplicado á pers. ( ant. ). Con á y un sust. ó de y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A esta triste sentencia viendo la infeliz dama deliberado su más querido esposo, y que ni sus ruegos y lágrimas podían moverle á escuchar sus razones ---»",
+              "autor": "Césp.",
+              "referencia_obra": "y Men. Sold. Pínd. 2. 27 (R. 18. 373 1 )."
+            },
+            {
+              "texto_cita": "«Con loable vergüenza ardiendo en ira, | De recobrar su honor deliberado, | Por una angosta puerta que allí había, | Solo y sin lanza á combatir salía.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 19 (R. 17. 74 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Aplicado al ánimo, la voluntad, la determinación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Voy por estas soledades y despoblados buscando las aventuras con ánimo deliberado de ofrecer mi brazo y mí persona á la más peligrosa que la suerte me depare en ayuda de los flacos y menesterosos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 13 (R. 1. 278 2 )."
+            },
+            {
+              "texto_cita": "«No quiero llamarla [mi desenvoltura] deshonestidad, pues no habrá procedido de deliberada determinación.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 34 (R. 1. 351 1 )."
+            },
+            {
+              "texto_cita": "«Si esto se ejecutase, se excusaría el inconveniente de rendirse los príncipes a los importunos ruegos, quedándoles el arrepentimiento sin deliberada voluntad.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon. 24 (R. 25. 500 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Deliberó de dexarle por heredero universal de todos sus bienes.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 5 (51)."
+        },
+        {
+          "texto_cita": "«También es cierto que recibe alguna pena el que delibera en deliberar tarde.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 3 (29)."
+        },
+        {
+          "texto_cita": "«¿Qué sabemos pues --- si el rey don Enrique cometió en su vida algunos graves pecados por do tenga Dios deliberado en su juicio secreto disponer de sus reynos ---»",
+          "autor": "",
+          "referencia_obra": "Id. Letras , 7 (191)."
+        },
+        {
+          "texto_cita": "«Respondió --- que su deliberada voluntad era de se ir para el rey.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 8 (R. 68. 383 2 )."
+        },
+        {
+          "texto_cita": "«Deliberó sin impedimento alguno de fablar acerca dello con Ruy Diaz de Mendoza.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 109 (288)."
+        },
+        {
+          "texto_cita": "«Mudó su proposito en aquella parte, é deliberó continuar con su alteza.»",
+          "autor": "",
+          "referencia_obra": "Ib . 102 (268)."
+        },
+        {
+          "texto_cita": "«Alli fue deliberado | De comun opinion | Que el fijo de don Remon — | Subcediese en el reynalo.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var. 238 ( Rim. inéd. 307)."
+        },
+        {
+          "texto_cita": "«Escoge los amigos é delibera grand tiempo en los elegir.»",
+          "autor": "Santill.",
+          "referencia_obra": "p 154."
+        },
+        {
+          "texto_cita": "«Deliberó de él mesmo llegarse á la villa de Olmedo.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes . 24 (36 2 )."
+        },
+        {
+          "texto_cita": "«Mi deliberada é final intencion é voluntad es que enteramente sea guardado todo lo susodicho.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3 (5 1 )."
+        },
+        {
+          "texto_cita": "«Y esto ficieron ellos por quanto el viento era contrario, y la nao non podia ir tomar el puerto, y por deliberar aina y aderezar lo que les cumplia para ir su viage.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav. p. 50."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. deliberar ; fr. délibérer ; it. deliberare , diliberare : del lat. deliberare , que según la opinión común es compuesto de de y libra , libra, y significa propiamente Pesar, lo mismo que, nuestro pensar . Esta forma es puramente erudita; en los primeros tiempos de la lengua se dijo delibrar , con el sentido de Resolver, despachar, como una causa, un pleito, y en general Terminar, acabar con una cosa, desembarazarse de ella, matar; acepciones semejantes en su desenvolvimiento á las de despachar . Esta forma sincopada existe con el sentido de deliberar en el port. ant. delivrar y en el it. delivrare ; y es indudable que varios usos del fr. ant. delivrer que se registran en Littré y en Godefroy, se explican mejor por deliberar , como en cast. , que por libertar ; si bien en nuestra misma lengua delibrar (y en época posterior deliberar ) se usaba como compuesto de librar , y con acepciones propias del francés, como Parir, Pronunciar ( ing. to deliver ). Parece pues indudable que se han confundido dos verbos, y aun es posible que en castellano el sentido de Resolver, despachar, junto con la semejanza de la forma, haya dado ocasión para pasar á otros en que no ha podido menos de verse un compuesto de libre . Los pasajes siguientes comprueban lo dicho: Siglo XIII :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A los que alcança valos delibrando.»",
+          "autor": "Cid",
+          "referencia_obra": ", 758 (R. 57. 10 2 Cp."
+        },
+        {
+          "texto_cita": "«Ceste lisse est si fort tirant | Que j'ai paour qu’il ne me delivre.»",
+          "autor": "",
+          "referencia_obra": "Greban, Mist. de la pass. 7756, en Godefroy.)."
+        },
+        {
+          "texto_cita": "«Pero Vermuez compeço de fablar; | Detienes le la lengua, non puede delibrar, | Mas quando enpieça, sabed, nol da vagar.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3307 (R. 57. 34 1 )."
+        },
+        {
+          "texto_cita": "«A Dios sennero debes bendeçir e laudar | Porque de tan grant cueta te dennó delibrar.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 311 (R. 57. 49 2 )."
+        },
+        {
+          "texto_cita": "«Acorro non avredes, esto es delibrado.»",
+          "autor": "",
+          "referencia_obra": "Id. Signos , 32 (R. 57. 102 1 )."
+        },
+        {
+          "texto_cita": "«Avn de la çinta uos quiero recontar, | En pocas de paraulas lo cuedo deliurar.»",
+          "autor": "",
+          "referencia_obra": "Alex . 94 (R. 57. 150 1 )."
+        },
+        {
+          "texto_cita": "«Ferió ennos troyanos --- | Assy los deliuraba cuemo lobo corderos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 488 (R. 57. 162 2 )."
+        },
+        {
+          "texto_cita": "«Fuera, si lo feries, la cosa deliurada.»",
+          "autor": "",
+          "referencia_obra": "Ib. 559 (R. 57. 164 2 )."
+        },
+        {
+          "texto_cita": "«A gual parte que yua todo lo deliuraua.»",
+          "autor": "",
+          "referencia_obra": "Ib . 985 (57. 177 2 )."
+        },
+        {
+          "texto_cita": "«En un ratiello poco todo fue deliurado.»",
+          "autor": "",
+          "referencia_obra": "lb . 1880 (R. 57. 205 1 )."
+        },
+        {
+          "texto_cita": "«Deve oyr los pleytos é delibrarlos sin toda porlonganza.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 2. 1. 18 (17; * librar. Cf."
+        },
+        {
+          "texto_cita": "«Car ung seul ne pourroit entendre ne bien delivrer toutes les causes et les controversies d'ung grant peuple.»",
+          "autor": "",
+          "referencia_obra": "Oresme, Polit. en Godefroy.)"
+        },
+        {
+          "texto_cita": "«Et el obispo con conseyos de omnes buenos delibrele so pleyto.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 1. 28 bis (22*)."
+        },
+        {
+          "texto_cita": "«Estos atales non pueden á las vegadas delibrar por sí todas las contiendas de los homes que vienen á su juicio.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 4. 17 (2. 401)."
+        },
+        {
+          "texto_cita": "«Que los oyan et delibren la contienda que es entre ellos.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 4. 22 (2. 406)."
+        },
+        {
+          "texto_cita": "«Et el mayoral es tenudo de --- darles otros homes bonos de aquel logar que sean sin sospecha, que los oyan et los delibren.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 7. 6 (2. 446)."
+        },
+        {
+          "texto_cita": "«Fecieronse todas prennadas cada una en su sazon, | Cuando vino el delibrar parieron de dos en dos.»",
+          "autor": "",
+          "referencia_obra": "José , 71 (R. 57. 415 2 ). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Nunca otra cosa facen sinon mentir á mi et á todos los otros con quien han de facer ó delibrar alguna cosa.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 42 (R. 51. 395; * de librar)."
+        },
+        {
+          "texto_cita": "«Dixo que se tenia por honrado en le querer tener el príncipe antes preso que delibrarle.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I , 18. 18 (R. 66. 562 2 ). — Siglo XV:"
+        },
+        {
+          "texto_cita": "«La concedió é otorgó, como en ella se contiene, para que assi el virtuoso Suero de Quiñones se pudiesse deliberar de su prision.»",
+          "autor": "",
+          "referencia_obra": "Passo honroso , 5 (3 2 )."
+        },
+        {
+          "texto_cita": "«El rey de armas les pidió sus guantes en quanto algun caballero les delibrasse su cabsa, á lo qual se ofresció Mosen Frances Davio caballero aragones.»",
+          "autor": "",
+          "referencia_obra": "lb . 20 (17 1 )."
+        },
+        {
+          "texto_cita": "«Muchos caballeros competian sobre deliberar los guantes de las dos hermanas.»",
+          "autor": "",
+          "referencia_obra": "Ib . 20 (17 2 )."
+        },
+        {
+          "texto_cita": "«Las dixeron [artes] liberales porque delibran á los omes en las cosas que les son necesarias.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 3."
+        },
+        {
+          "texto_cita": "«Delibrad al que padece injuria de mano del soberbio.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 29."
+        },
+        {
+          "texto_cita": "«El buen caballero viendo --- que a él solo convenia delibrar aquel fecho, peleó tan fuertemente ---»",
+          "autor": "",
+          "referencia_obra": "lb . p. 66."
+        },
+        {
+          "texto_cita": "«Desque fue todo robado mandó poner fuego, é ardió todo el lugar: asi fue todo delibrado en espacio de tres horas.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 98."
+        },
+        {
+          "texto_cita": "«Volvió á su gente el caballo que non podia mas, é él firiendo é delibrándose de los moros.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 170."
+        },
+        {
+          "texto_cita": "«Delibra, moro, delibra, arteron por media libra.»",
+          "autor": "Santill.",
+          "referencia_obra": "(510; * mozo, moza)."
+        },
+        {
+          "texto_cita": "«Oye, e de continente | Jamas libres; | Pero guarda que delibres | Sabiamente.»",
+          "autor": "Santill.",
+          "referencia_obra": "33."
+        },
+        {
+          "texto_cita": "«Delibré de contar su fecho en aquella manera.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 73."
+        },
+        {
+          "texto_cita": "«Delibró de se levantar del sitio, lo qual encontinente puso en obra.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 81."
+        },
+        {
+          "texto_cita": "«Ca non solamente seran delibrados | E restituydos en sus señorias.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 143."
+        },
+        {
+          "texto_cita": "«Cupido é Venus, señores | De los leales amadores, | Delivraron su passaje | Por este espesso selvaje, | Con todos sus servidores.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 367."
+        },
+        {
+          "texto_cita": "«Del sexto me delibrando | Syn perder mi firmesa ---»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 61."
+        },
+        {
+          "texto_cita": "«Era poner en aventura la persona del rey que estaba en mano dellos, antes que deliberarla por aquella manera.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 10 (32)."
+        },
+        {
+          "texto_cita": "«Mucho fue loado é presciado don Álvaro de Luna por todo el regno, é por todas partes de las Españas, quando fue sabido cómo deliberara á su rey, ofresciendose á tanto peligro.»",
+          "autor": "",
+          "referencia_obra": "lb . 12 (39)."
+        },
+        {
+          "texto_cita": "«Saco de la carecel á muchos perdidos, | A otros delibro de pena cuytada.»",
+          "autor": "",
+          "referencia_obra": "D. del Castillo ( Rim. inéd. 374)."
+        },
+        {
+          "texto_cita": "«A mi é á ellos pluguiera de poner las personas é bienes á todo peligro por vos delibrar.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14. 46 (R. 68. 398 1 ). — Aun en el siglo XVI se hallan vestigios de delibrar :"
+        },
+        {
+          "texto_cita": "«Había soltado á Lucio Domicio, el cual prendió en Corfinio, y le delibró y consintió que se fuese, á Pompeyo.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ", Lab. 139 (57 1 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

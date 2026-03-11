@@ -1,0 +1,85 @@
+{
+  "lema": "ASPIRANTE.",
+  "categoria_gramatical": "",
+  "introduccion": "ASPIRANTE.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "adj. Que aspira. En sentido material no se dice sino de la bomba que levanta el agua formando el vacío. Bomba aspirante.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "2",
+      "definicion": ". Que aspira, que pretende algún empleo, dignidad ú otra cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol . Se usa á menudo como sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Organo fue de marfil, | Bien que le faltaba el aire, | Porque enmudeció los soplos | Del viento más aspirante.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 96 (R. 32. 540 3 ). —"
+            },
+            {
+              "texto_cita": "«Oiréis con admiración los varios rumbos que siguieron los aspirantes para conseguir este premio, y el ingenioso afán con que corrieron á él.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Orac . en la Soc. Econ. de Madrid (R. 50. 31 2 )."
+            },
+            {
+              "texto_cita": "«Estableciendo un centro común de oposición y de examen, se asegura mayor concurrencia de aspirantes.»",
+              "autor": "Quint.",
+              "referencia_obra": "Inf. sobre instrucc. públ. (R. 19. 187 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el objeto que se pretende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desvanecido un pelón, | Y aun á título aspirante, | Cera gasta de Levante | Mientras enristra blandón.»",
+              "autor": "Góng.",
+              "referencia_obra": "letr . 38 (R. 32. 498 2 )."
+            },
+            {
+              "texto_cita": "«Los colores de la reina | Vistió galán el clavel, | Príncipe que es de la sangre, | Y aun aspirante á ser rey.»",
+              "autor": "",
+              "referencia_obra": "Id. rom . 30 (R. 32. 514 2 )."
+            },
+            {
+              "texto_cita": "«Los aspirantes al mando ó á la tutela de los reyes pupilos ó imbéciles ponían el estado, con sus bandos y pretensiones ambiciosas, á orilla de su ruina.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la legisi. y la hist . (R. 46. 290 2 ); pasaje repetido en la Def. de la Junta Central, apénd . 12 (R. 46. 599 2 )."
+            },
+            {
+              "texto_cita": "«Aun se creía que al acercarse á Granada se les pasarían muchos, y con ellos un persona muy principal, infante de la casa real de Granada, llamado Benalmao, descontento á la sazón con el monarca reinante, y aspirante á la corona.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 400 1 )."
+            },
+            {
+              "texto_cita": "«Como entonces el peligro estaba muy cerca, como los aspirantes á empleos eran pocos, y como todavía duraba el favor primero que me había dispensado el público, mi elección fue generalmente aplaudida de todos los patriotas.»",
+              "autor": "",
+              "referencia_obra": "Id. Obr. inéd . p. 185."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Sust . Empleado sin sueldo, por lo común, pero con opción á él. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Deriv. de aspirar . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

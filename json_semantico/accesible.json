@@ -1,0 +1,110 @@
+{
+  "lema": "ACCESIBLE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Aplícase al lugar á que se puede llegar, que tiene acceso.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Retira primero el monte, usurpando á una y otra falda todo el terreno necesario para su invención; levanta en él una ancha y majestuosa plaza, accesible por medio de bellas y cómodas escalinatas.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Elog. de V. Rodr. (R. 46. 373 2 )."
+        },
+        {
+          "texto_cita": "«El rellano donde durmió y soñó D. Quijote, y adonde en tiempo de Cervantes se bajaba con sogas, es accesible ahora á pie llano y sirve de asilo á los pastores.»",
+          "autor": "Clem.",
+          "referencia_obra": "Coment. 4, p. 420."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese de la persona que con facilidad se deja tratar, acogiendo con benevolencia á los que se le acercan; que da fácil entrada.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Con á , para expresar el objeto que halla fácil acogida.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Llamó poderosamente hacia este objeto la atención del monarca, ya más accesible con la edad á las sugestiones de responsabilidad y conciencia.»",
+          "autor": "Quint.",
+          "referencia_obra": "Las Casas (R. 19. 459 2 )."
+        },
+        {
+          "texto_cita": "«La expansión del fuego de las pasiones produce, es verdad, lamentables desvanecimientos, tal vez explosiones terribles; pero pasado el calor, el hombre vuelve á entrar en sí mismo, y deja de nuevo accesible su alma á los acentos de la razón y de la virtud.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Protest . 11 (1. 138)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Que está al alcance, que se puede conseguir. Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Este mal abraza al fin así las grandes como las pequeñas propiedades comerciables; aquéllas porque son accesibles al poder de cuerpos y familias opulentas, y éstas porque, siendo mayor el número de los que pueden aspirar á ellas, vendrá á ser más enorme su carestía.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Ley agraria , 1ª clase (R. 50. 99 2 )."
+        },
+        {
+          "texto_cita": "«Los poseedores de riquezas tan grandes apenas podían adquirir con ellas las satisfacciones que en otras partes eran accesibles á la más mediana fortuna.»",
+          "autor": "Quint.",
+          "referencia_obra": "Pizarro (R. 19. 329 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Con respecto al entendimiento ú otras facultades, Que está á su alcance. Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Les parece que porque no están escritas [las Partidas] en árabe ni en griego, sino en un idioma accesible por la mayor parte á su comprensión, pueden ya penetrar hasta sus más recónditos arcanos.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Disc. en la Acad. Esp. (R. 46. 300 1 )."
+        },
+        {
+          "texto_cita": "«Esta divina arte, con el hechizo de sus formas, con la magia de la versificación, con la sublimidad de las ideas, da, por decirlo así, una nueva vida á la verdad, y la hace accesible, no sólo al entendimiento, sino á la fantasía y al corazón.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos, 1, p. 168."
+        },
+        {
+          "texto_cita": "«Todas estas diversas maneras de hablar, conocidas por los retóricos con los nombres griegos de metonimia, sinécdoque, metáfora, hipérbole, ironía, metalepsis, y otras muchas de la misma especie, tienen una misma tendencia, á saber, expresar la idea lo más accesible que pueda ser á la imaginación y á los sentidos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1, p. 54. —"
+        },
+        {
+          "texto_cita": "«Los arcanos del hombre y de la sociedad así como son el objeto más importante de nuestro entendimiento, son también el más arduo, el más trabajoso, el menos accesible á la generalidad de los espíritus.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Protest . 42 (3. 94)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo comencé mi jornada | Façia lo mas acçesible.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 376."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. accessibilis, de accedere, acercarse; esto es, á donde uno puede acercarse ó llegar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

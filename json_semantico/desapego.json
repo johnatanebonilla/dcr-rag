@@ -1,0 +1,70 @@
+{
+  "lema": "DESAPEGO.",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "-->s. m.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Desprendimiento de las cosas ó falta de afecto ó inclinación á las personas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de, sugerida por la fuerza privativa y separativa del prefijo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y manda cosas espirituales, como son el amor de Dios --- y el desalego de todo lo carnal y sensible.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Pablo, Rom. 7. 14, nota."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , tomándose el prefijo como meramente negativo y conservándose el régimen del sust. apego.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empezó [el rey] á no disimular su desapego al ministerio que tenía y al gobierno á cuyo frente estaba.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 4 (R. 19. 550 1 )."
+            },
+            {
+              "texto_cita": "«Tan distante estaba el redactor de esta parte de la [Crónica] General del espíritu autocrático de desapego al héroe favorito de la aristocracia no menos que del pueblo castellano.»",
+              "autor": "",
+              "referencia_obra": "Milá y Fontanals, Poes. heroico-popular castellana, p. 268."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Falta ó desprendimiento y renunciación de los afectos naturales, indiferencia, alejamiento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La santísima costumbre y estilo de esta religión, que es la abstraccion, desapego y extrañeza con los seglares.»",
+          "autor": "",
+          "referencia_obra": "Cornejo, Crón. de S. Franc. 3. 2. 42 ( Dicc. Autor. )."
+        },
+        {
+          "texto_cita": "«A este encogimiento y desapego de los que pedían, ocurría la liberalidad y misericordia de los que daban.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1. 1. 36 ( Dicc. Autor. )."
+        },
+        {
+          "texto_cita": "«Aun se mantiene cierto desapego entre los [españoles] de provincias lejanas.»",
+          "autor": "Cadalso",
+          "referencia_obra": ", Cart. marr . 26 (2. 131)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de desapegarse, ó si se quiere, compuesto del prefijo negativo des y apego . Port., cat. desapego. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

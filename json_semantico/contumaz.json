@@ -1,0 +1,175 @@
+{
+  "lema": "CONTUMAZ.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que mantiene con tenacidad y porfía un error ó una resolución reprensible.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo en lo pasado Eliú avisado á Job que se humille, le amenaza agora, si no lo hace y si persevera en ser contumaz, que no habrá poder, ni intención, ni precio ó redención que le salve.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 36 (2. 226)."
+            },
+            {
+              "texto_cita": "«Y quiso hablarles ansí porque entendió que para los que entre ellos eran y habían de ser buenos y fieles, aquello bastaba, y que á los contumaces perdidos no se les debía más luz.»",
+              "autor": "",
+              "referencia_obra": "Id. Nomb . 2, Brazo (3. 148)."
+            },
+            {
+              "texto_cita": "«El que delicadamente cría su siervo dende su primera edad, después lo hallará rebelde y contumaz.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem . 1. 4, § 1 (R. 8. 431 1 ). Item, Guía , 2. 15, § 6 (R. 6. 148 1 )."
+            },
+            {
+              "texto_cita": "«Quebrantará después con aspereza | Del contumaz rebelde la dureza.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 37 (R. 17. 134 2 )."
+            },
+            {
+              "texto_cita": "«El bárbaro escuadrón parado había; | Solo el contumaz Rengo porfiando | Desistir de la empresa no quería.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 9 (R. 17. 39 1 )."
+            },
+            {
+              "texto_cita": "«Porque no digas que soy contumaz, y que jamás hago lo que me aconsejas, por esta vez quiero tomar tu consejo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 23 (R. 1. 306 1 )."
+            },
+            {
+              "texto_cita": "«Paréceme que yerran aquellos que sospechan que los fielmente dados á la filosofía son contumaces, y enemigos y despreciadores de los magistrados y de los reyes.»",
+              "autor": "Quev.",
+              "referencia_obra": "Doctr. estoica (R. 69. 413)."
+            },
+            {
+              "texto_cita": "«¿Por qué, pues, gente adúltera y malvada, | Cumpliéndose en Jesús las profecías, | Contumaces negáis que es el Mesías?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El Anticristo , 1 (R. 20. 365 3 )."
+            },
+            {
+              "texto_cita": "«¡Oh contumaces, pérfidos, profanos! | Si veis el cetro de Judá perdido, | Ved en Jesús las otras profecías, | Y le tendréis por el común Mesías.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 5. (R. 17. 437 1 )."
+            },
+            {
+              "texto_cita": "«Pidiendo á tus celos paces | Para aplacar su furor, | Que son herejes de amor | Y pecan de contumaces.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El amor y el amistad , 1. 3 (R. 5. 330 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar lo que se mantiene ó continúa con porfía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se mostraba no sólo excesiva, pero contumaz en el ejercicio de las mortificaciones corporales, hasta llegar á no admitir el aviso contrario que san Epifanio su obispo le había dado á este fin.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida dev. 3. 2 (R. 48. 284 1 )."
+            },
+            {
+              "texto_cita": "«Si viciosos [son] al fin, y contumaces | En lujuria y en gula, vengan presto, | Tráelos á la corte, muy bien haces.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Dícesme, Nuño (R. 42. 307 1 )."
+            },
+            {
+              "texto_cita": "«El valor y la virtud se pierden por contumaces en su entereza.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 36 (R. 25. 93 2 )."
+            },
+            {
+              "texto_cita": "«Aconséjele con libertad graciosa --- y sin ambición de parecer celoso, contumaz en su opinión.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 50 (R. 25. 133 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á, por analogía con rebelde , para denotar aquello que se rechaza con porfía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amantes he consultado | Sin dicha y favorecidos; | Y, á consejos prevenidos | Contumaz, desesperado | Me veo morir.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los milagros del desprecio , 1. 2 (R. 34. 235 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á cosas en sentido análogo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Entonces, irritado por la defensa de su ley, con indignación contumaz se arrojó á la persecución de los cristianos.»",
+          "autor": "Quev.",
+          "referencia_obra": "Vida de S. Pablo (R. 48. 12 2 )."
+        },
+        {
+          "texto_cita": "«¡Oh descaminados y contumaces deseos de los hombres, que por el contagio de la culpa os procuráis la pena!»",
+          "autor": "",
+          "referencia_obra": "Id. M. Bruto (R. 23. 137 1 )."
+        },
+        {
+          "texto_cita": "«Los que tenéis en tanto | La vanidad del mundanal rüido, | Cual áspide al encanto | Del mágico temido, | Podréis tapar el contumaz oído.»",
+          "autor": "León",
+          "referencia_obra": ", 1, oda que principia así (4. 356)."
+        },
+        {
+          "texto_cita": "«Y sé que la ignorancia me desdeña, | Como la contumaz sofistería, | Resuelta en sí de que acusando enseña.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "epíst. ¿El título me das (R. 42. 352 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "For. En especial, Rebelde, que no responde ó no comparece en juicio dentro del término de la citación ó del llamamiento hecho por orden del juez.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«So pena de seiscientos maravedís por cada vez que cada uno fuere llamado, y fuere rebelde y contumaz, y no pareciere ante ellos ó cualquier dellos.»",
+          "autor": "",
+          "referencia_obra": "Recop . 3. 16. 1 ( Dicc. Autor. Nov. Recop . 8. 10. 1)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El papa Benedito fue condenado por perjuro, rebelde, é contumaz, é cismático é hereje.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 10. 7 (R. 68. 371 1 )."
+        },
+        {
+          "texto_cita": "«Fuyeron como rrapases, | Dexaron los contumases | El campo á los generosos | Fidalgos é venturosos.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 331. — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Ca si este pleito al concejo pertenescia, et el concejo fuera contumás --- et ellos non quesieran venir ---»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1269 ( Esp. sagr. 35. 443)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. contumaz ; cat. contumas ; prov. contumax ; fr. , it. contumace : del lat. contumacem , contumax , voz de origen oscuro. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

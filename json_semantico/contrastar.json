@@ -1,0 +1,536 @@
+{
+  "lema": "CONTRASTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Ponerse en contra, hacer frente, resistir.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol . (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que si tu diligencia no contrasta, | Mil daños amenazan á la espiga.»",
+              "autor": "León",
+              "referencia_obra": ", 2, Geórg . 1 (4. 447)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans. Con á , para señalar el objeto á que se resiste ó hace frente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasando el mar Leandro el animoso --- | Vencido del trabajo presuroso, | Contrastar á las ondas no pudiendo --- | A las ondas habló desta manera.»",
+              "autor": "Garcil.",
+              "referencia_obra": "son . 29 (R. 32. 35 2 )."
+            },
+            {
+              "texto_cita": "«Muerta la reina, dentro de pocas horas murió también de unas cuartanas dobles el cardenal Polo para que juntamente se acabase la esperanza del remedio, y no hubiese quien resistiese á Isabel, ni piloto experto que pudiese contrastar á los furiosos vientos y á las espantosas olas del mar.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 2. 19 (R. 60. 253 2 )."
+            },
+            {
+              "texto_cita": "«Ardían en deseo de contrastar á los intentos de los cartagineses y desbaratalles sus trazas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 8 (R. 30. 37 2 )."
+            },
+            {
+              "texto_cita": "«Se dio á sí mismo la muerte, sea porque su conciencia le acusaba, sea por no poder contrastar á la rabia del pueblo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4. 1 (R. 30. 88 1 )."
+            },
+            {
+              "texto_cita": "«Era bien aparejar armas, caballos y las demás cosas necesarias para hacer la guerra en Alemaña, y para sujetar á los que contrastasen á sus intentos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 13. 22 (R. 30. 397 2 )."
+            },
+            {
+              "texto_cita": "«Los Pontífices tenían cierta entereza y grandeza de corazón para contrastar á las condiciones desordenadas de los más poderosos reyes y emperadores.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 15. 15 (R. 30. 451 1 )."
+            },
+            {
+              "texto_cita": "«Mucho padecían los navarros, pues en un mismo tiempo eran forzados á sustentar la guerra contra dos reyes muy poderosos, sin ser bastantes para contrastar al uno solo, á su grandeza y poder.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 18. 1 (R. 31. 3 1 )."
+            },
+            {
+              "texto_cita": "«Y así resisten, matan y destruyen | Contrastando al destino, que parece | Que el valor araucano disminuyen, | Y el suyo con difícil prueba crece.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 6 (R. 17. 25 2 )."
+            },
+            {
+              "texto_cita": "«Que yo no puedo ser al fin tan fuerte | Que contraste gran tiempo á tanto daño.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son. 146 (R. 32. 288 2 )."
+            },
+            {
+              "texto_cita": "«Mas aunque el valor vuestro y su grandeza | No admiten de mis versos la rudeza, | Y de Icaro el suceso peligroso | Me vuelva temeroso, | Y el riesgo a que me obligo atento veo, | No puedo contrastar á mi deseo.»",
+              "autor": "",
+              "referencia_obra": "Id. 2, canc . (R. 32. 315 2 )."
+            },
+            {
+              "texto_cita": "«Mas aunque sin igual fue mi osadía, | Y el mal que sufro; por tu fuego juro | Que contrastar no puedo á mi porfía.»",
+              "autor": "",
+              "referencia_obra": "Id. 2, eleg . 8 (R. 32. 321 1 )."
+            },
+            {
+              "texto_cita": "«Y que huyendo asímismo | De la magnesa Hipólita Peleo, | Casi al tartáreo abismo | Lo hundió por contrastar á su deseo.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "canc. 5 ¿Por qué, Asteria, trad. de Hor. od. 3. 7 (R. 42. 359 2 )."
+            },
+            {
+              "texto_cita": "«Ni pueden ser dichosos | Los que no contrastando á la fortuna, | Entregan desvalidos | Al ocio blando todos los sentidos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 43 (R. 1. 377 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo suj. un nombre de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mal podrá un brazo de mar | Contrastar á mis dos brazos.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 55 (R. 32. 524 2 )."
+            },
+            {
+              "texto_cita": "«Desde el vientre de mi madre salí con esta rebelión de mi carne, que contrasta á la rectitud de vuestra ley.»",
+              "autor": "León",
+              "referencia_obra": ", 4. 258)."
+            },
+            {
+              "texto_cita": "«Eso tenía fuera de los cuarteles una gran parte dellos, desamparando sus banderas, salvo los del tercio de don Alonso, en quien la honra contrastaba á la necesidad.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 5 (R. 21. 67 2 )."
+            },
+            {
+              "texto_cita": "«Las diligencias oficiosas | Cuando á los hados contrastar pretenden, | Vienen á ser ridículas y ociosas.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pienso pedir (R. 42. 314 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Trans . El acus. denota también el objeto á que se resiste.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A nuestra ligereza no la impiden grillos, ni la detienen barrancos, ni la contrastan paredes.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 109 2 )."
+            },
+            {
+              "texto_cita": "«Siguióse la vitoria por nuestra parte hasta que del todo se rindió Galera, sin dejar en ella cosa que la contrastase que todo no lo pasasen á cuchillo.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 4 (R. 21. 112 2 )."
+            },
+            {
+              "texto_cita": "«Contrastas con valor su saña ardiente.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son . 79 (R. 32. 273 2 )."
+            },
+            {
+              "texto_cita": "«¡Dichoso quien su miedo venció, y pudo | Contrastar su pasión.»",
+              "autor": "",
+              "referencia_obra": "Id. 1, son . 93 (R. 32. 277 1 )."
+            },
+            {
+              "texto_cita": "«Quien por el contrato empieza, | Se priva, Otavio, del bien | De contrastar un desdén, | De vencer una esquiveza.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse, 2. 1 (R. 20. 107 2 )."
+            },
+            {
+              "texto_cita": "«Dos fustas de Marsella contrastaban | Una de César, y en igual porfía | Por sus costados ambos la acosaban.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42. 113 1 )."
+            },
+            {
+              "texto_cita": "«Peleando desesperados, contrastaban la industria y esfuerzo de los nuestros, y ponían en balanzas la victoria.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria , (R. 19. 221 1 )."
+            },
+            {
+              "texto_cita": "«Y do la iniquidad mis ojos miran | Allí impávido corro á contrastarla.»",
+              "autor": "V. de la Vega",
+              "referencia_obra": ", D. Fernando , 1. 8 (191)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando el piloto advierte que no se pueden contrastar las olas, se deja llevar dellas amainando las velas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 36 (R. 25. 92 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan contrastada inocencia, | Que se hallaba en un momento | Sin saberlo, desdichada, | Y dichosa sin saberlo.»",
+              "autor": "Cald.",
+              "referencia_obra": "El jardín de Falerina , 1. 2 (R. 9. 295 3 )."
+            },
+            {
+              "texto_cita": "«Cargada allá se ve de mercancías | La nao, contrastada | Del instable elemento, | De miedo ir y de codicia llena.»",
+              "autor": "Carvajal",
+              "referencia_obra": ", Salmos , 103 (276)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Siendo persona el objeto á que se resiste, no siempre se puede decidir si el caso es acus. ó dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Temió el no tener fuerzas suficientes para sostener tan gran peso y contrastar á tantos enemigos.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est . Bajos , 6 (R. 21. 74 2 )."
+            },
+            {
+              "texto_cita": "«Después le diste gente | Con armas temporales, | Para que castigase | La que le contrastase.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "canc. Divino patriarca (R. 42. 282 1 )."
+            },
+            {
+              "texto_cita": "«Quedó con ello tan lozano, contento y orgulloso, que el peligro de la batalla que esperaba, por ninguno le tenía, pareciéndole que en ser favorecido de su señora, aun la mesma muerte contrastar no le podría.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 3 (R. 1. 35 2 )."
+            },
+            {
+              "texto_cita": "«Pero si me ayudaras, ¿qué romano | O griego capitán me contrastara, | Que al fin su intento no saliera vano?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3 (R. 1. 35 1 )."
+            },
+            {
+              "texto_cita": "«Lo que os ruego y suplico es, que --- me deis consejo con que pueda huír los peligros que me contrastan.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 9 (R. 1. 201 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Así como luégo veremos que el uso de con determina el significado de contienda, lucha, así también el acus. parece alguna vez realzar el de vencimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiendo visto [Satanás] que no le había contrastado la pérdida de todos sus bienes, y sus hijos --- y que la propria mujer con que había contrastado en Adán su inocencia y todo el género humano, en Job no le había sido de algún efecto, alista con él tres amigos que tenía.»",
+              "autor": "Quev.",
+              "referencia_obra": "Job (R. 48. 229 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Intrans . Con contra, que realza el concepto de oposición, resistencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El impío apóstata Juliano al cabo conoció que no podía contrastar contra Dios y dijo: Vicisti Galilaee .»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 3. 29 (R. 60. 344 1 )."
+            },
+            {
+              "texto_cita": "«Viendo esto Fetala, no quiso contrastar contra la fortuna que tanto le perseguía y así --- se dejó correr por el ancho mar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 2 (R. 1. 123 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué puede contrastar una mozuela | Con la débil carrera ó con los brazos | Contra mí, tan ligero y poderoso?»",
+              "autor": "Jáur.",
+              "referencia_obra": "Aminta , 2 (R. 42. 138 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Intrans. Con con , que determina el concepto de lucha, contienda de igual á igual.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los grandes del reino no se atrevieron á hacerle contradicción, ni contrastar con el que tenía en su poder los soldados viejos y las huestes del reino.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 6. 8 (R. 30. 160 1 )."
+            },
+            {
+              "texto_cita": "«No tenía poder bastante para contrastar con su enemigo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 15. 15 (R. 30. 450 2 )."
+            },
+            {
+              "texto_cita": "«No se atrevió el Cid á contrastar con aquella tempestad.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 9. 11 (R. 30. 261 1 )."
+            },
+            {
+              "texto_cita": "«¿Parecerle ha al conde de Fuentes que puede contrastar con tantas dificultades y ganar por fuerza una ciudad tan grande y tan bien defendida?»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 21. 120 2 )."
+            },
+            {
+              "texto_cita": "«El don Rodrigo, frenético con el lugar que violentaba, no receló de contrastar con todo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Grandes anales (R. 23. 206 2 )."
+            },
+            {
+              "texto_cita": "«Una nueva virtud sentí aquí dentro, | Una fuerza que, igual á mis destinos, | Bastaba sola á contrastar con ellos.»",
+              "autor": "",
+              "referencia_obra": "Quint . El duque de Viseo , 3. 3 (R. 19. 54 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Intrans . En sentido recíproco, Contender tenazmente. Con sobre , para designar el objeto de la contienda (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los catalanes y aragoneses anduvieron alborotados entre sí y contrastaron sobre los términos de cada uno de aquellos estados, porque entrambos pretendían que Lérida era de su jurisdicción.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 13. 3 (R. 30. 375 1 )."
+            },
+            {
+              "texto_cita": "«Tenía por cosa grave y peligrosa, si no fuese con voluntad de la reina contrastar de nuevo con las armas sobre el reino de Nápoles.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 21. 5 (R. 31. 98 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Mostrar notable diferencia, ó condiciones opuestas, dos cosas cuando se comparan una con otra ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recorría en compañía de su esposa las huertas y jardines, que se extienden á la falda de la población, tanto más agradables y amenos cuanto contrastan con las peladas sierras.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 14 (4. 351)."
+            },
+            {
+              "texto_cita": "«Lo que gana el entendimiento en extensión, lo pierde en profundidad, y la brillantez teórica contrasta lastimosamente con la impotencia práctica.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 30 (2. 177)."
+            },
+            {
+              "texto_cita": "«Macdonald trató en un principio de granjearse las voluntades de los habitantes, contrastando su porte con la ferocidad del mariscal Augereau, que había, por decirlo así, guarnecido las orillas de algunos caminos con patíbulos y cadáveres.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist . 12 (R. 64. 275 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Rara vez se halla usado como trans . en este concepto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Don Salterio es un muchacho | Que habla más que una docena, | Y con chillidos contrasta | De su esposa la ronquera.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Poes. var. (R. 63. 61 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Mas á menudo se usa como trans . por Presentar los objetos de modo que resalten sus cualidades opuestas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El primer secreto de las sátiras de Horacio es, no la originalidad de los caracteres, como dijo algún crítico, sino la novedad con que él los coloca en el cuadro, la exactitud con que los dibuja y la habilidad con que los contrasta.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", Hor. sát. 1. 1, nota (3. 18)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El conde don Julián [en la Profecía del Tajo de Fr. L. de León], atento á la venganza no á la fama, único personaje que señala el Tajo en contraposición con Rodrigo, no es figura que pueda sufrir comparación con los dioses y con los héroes señalados por Nereo, y contrastados en su vaticinio con el afeminado troyano.»",
+              "autor": "Quint.",
+              "referencia_obra": "Parn. esp. Fr. de L. León ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Ensayar ó comprobar y fijar la ley, peso y valor de las monedas ó de otros objetos de oro ó plata, y sellar estos últimos con la marca del contraste cuando ejecuta la operación el perito oficial ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Tratándose de pesas y medidas, Comprobar su exactitud por ministerio público, para que estén ajustadas á la ley, y acreditarlo sellándolas ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Por extensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Suplicaban á los presentes que no se moviesen de allí, hasta que llegase el juez del distrito, al que ya habían mandado á llamar para contrastar é inventariar lo que el difunto dejaba.»",
+              "autor": "",
+              "referencia_obra": "F. Caball. La corruptora y la buena maestra ( Obr. 1. 354)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tanto que dan ocasion, | Fablando con vos verdad, | A non poder la razon | Contrastar la voluntad.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr . 1, p. 54."
+        },
+        {
+          "texto_cita": "«Ninguno le contrastando | En el su trono asentado ---»",
+          "autor": "",
+          "referencia_obra": "P. de Guzmán, Clar. var. 327 ( Rim. inéd . 320)."
+        },
+        {
+          "texto_cita": "«El primero movimiento | Al segundo | Nunca pude contrastar.»",
+          "autor": "Canc. de Stúñ.",
+          "referencia_obra": "p. 58."
+        },
+        {
+          "texto_cita": "«Syn tiento pido la muerte --- | Y contrástalo mi suerte, | Que le plase io padesca.»",
+          "autor": "",
+          "referencia_obra": "lb . p. 392."
+        },
+        {
+          "texto_cita": "«E non contrastes las gentes | Mal su grado.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 29."
+        },
+        {
+          "texto_cita": "«E la virtud se contrasta | Que por el linaje cobras, | Sy no responden tus obras | A la tu tan buena casta.»",
+          "autor": "Mena",
+          "referencia_obra": ", Vicios y virtudes ( Canc. de G. Manr . 1. 259)."
+        },
+        {
+          "texto_cita": "«Antes resistiremos de fecho, é contrastaremos é daremos todo favor é ayuda á vos, el dicho conde de Haro, para resistir é contrastar á cualquiera persona.»",
+          "autor": "",
+          "referencia_obra": "Seg. de Tordes . 3 (7 1 ). Item, ib . 33 (49 1 )."
+        },
+        {
+          "texto_cita": "«Non le puedan contrastar | Enemigos de la ley.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 545."
+        },
+        {
+          "texto_cita": "«E porque contrastaron con él, mandóles cortar las cabezas.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 109. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Las maneras para contrastar las sus maestrías son estas.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Lib. de los est. 1. 76 (R. 51. 324 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Si hubiese contrastado al diablo en la tentacion, Nuestro Señor Dios la hubiera confirmado en gracia.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. pról. (R. 51. 87 1 ; dice"
+        },
+        {
+          "texto_cita": "«conformado»",
+          "autor": "",
+          "referencia_obra": "."
+        },
+        {
+          "texto_cita": "«Et si por aventura la otorgasen algunos [la servidmbre en un edificio] et non todos, aquellos que la posiesen non la pueden despues contrastar que la non haya aquel á qui la otorgaron.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 31. 10 (2. 760)."
+        },
+        {
+          "texto_cita": "«Una de las cosas del mundo de que mas se deben trabajar los reyes --- es de contrastar á la malicia de los homes de manera que el derecho non pueda seer embargado por ellos.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 8. 15 (2. 452)."
+        },
+        {
+          "texto_cita": "«Et quien los quiere contrastar [á los reyes] face contra el ordenamiento de Dios.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 13. 15 (2. 114)."
+        },
+        {
+          "texto_cita": "«Van los homes en salvo et alegremente á sus logares con lo suyo, et dende adelante non gelo puede ninguno contrastar.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 9. 8 (2. 84)."
+        },
+        {
+          "texto_cita": "«Ca luego que el rey dize estas palabras es asentado el demandador por derecho en tenencia de aquella cosa, e el demandado non gela deve contrastar nin forzarle della.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 3. 1 ( O. L. 1. 302)."
+        },
+        {
+          "texto_cita": "«Nos devemos a contrastar por nuestra iusticia á la maldad de los malos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 2. 5. 8 (40)."
+        },
+        {
+          "texto_cita": "«Pueden ir contra los enemigos, é contrastallos.»",
+          "autor": "",
+          "referencia_obra": "lb . 1. 2. 6 (5)."
+        },
+        {
+          "texto_cita": "«Ca el poderio non vien sinon de Dios, et quien quier contrastar á so mayor quier contrastar á lo que Dios mandó.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 9 (X)."
+        },
+        {
+          "texto_cita": "«Non es omne naçido quel pueda contrastar.»",
+          "autor": "Alex.",
+          "referencia_obra": "2267 (R. 57. 216 2 )."
+        },
+        {
+          "texto_cita": "«Omne en todol mundo contrastar non podria.»",
+          "autor": "",
+          "referencia_obra": "lb . 788 (R. 57. 171 2 )."
+        },
+        {
+          "texto_cita": "«Por amor si la as de la tu dulçe amiga, | Que cantes una laude --- | Non quiso Apolonio la duenya contrastar, | Priso huna viuela.»",
+          "autor": "Appoll.",
+          "referencia_obra": "185 (R. 57. 289 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. contrastar ; fr. contraster , ant. contrester ; it. contrastare : lat. bajo contrastare , compuesto de contra y stare , estar, ponerse en contra. Aplicado á los metales preciosos y á las pesas, es indudable que nace inmediatamente del sustantivo contraste . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

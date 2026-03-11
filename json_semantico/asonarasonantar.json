@@ -1,0 +1,217 @@
+{
+  "lema": "ASONAR (ASONANTAR).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Convenir un sonido con otro ( intrans .) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Alfonso, vuestro noble y grave canto, | Con quien de eternos giros la armonía | Asuena, celebrar de la Luz mía | Debiera la belleza que honro y canto.»",
+          "autor": "Herr.",
+          "referencia_obra": "1, son . 66 (R. 32. 267 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, en la métrica, Ser asonante. Se dice también asonantar, verbo sacado inmediatamente de asonante.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En sentido recíproco.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En ninguna de las rimas de este copioso escritor consuenan vocablos acentuados en ué con vocablos acentuados en ó : los primeros asuenan solamente entre sí.»",
+              "autor": "Bello",
+              "referencia_obra": ", Cid , p. 12."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "El mismo sentido se expresa señalando uno de los términos con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En una larga continuación de asonantes los hallamos [á calvari, partes, sangre etc.] que asuenan con mar , voluntad etc.»",
+              "autor": "Sánchez",
+              "referencia_obra": ", Colecc. de poes. 1, p. 224."
+            },
+            {
+              "texto_cita": "«Es una irregularidad, aunque no desconocida en lo antiguo, que las dicciones graves asuenen con las esdrújulas, arbitraria y promiscuamente. Lo regular es que graves asuenen con graves y esdrújulos con esdrújulos ó que alternen ambas especies en un orden determinado y constante.»",
+              "autor": "Bello",
+              "referencia_obra": ", Ortól. y m étr. p. 130. —"
+            },
+            {
+              "texto_cita": "«Asonantan con fuego palabras como artero, candelecho, estruendo, etc.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram. p. 335 (1880) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para denotar la vocal ó combinación de vocales que constituye la asonancia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así vemos á fuer --- y á fuert --- asonar en o .»",
+              "autor": "Bello",
+              "referencia_obra": ", Cid , p. 12."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el sentido transitivo no se dice sino asonantar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No hay inconveniente en asonantar ave con fácil .»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            },
+            {
+              "texto_cita": "«Tiene [esta redondilla] el defecto de ser asonantada, porque mata y arrebata, aunque consonantes entre sí, son asonantes de vana y liviana: y así del poeta que peque en esto se dirá que tiene el defecto de asonantar los versos.»",
+              "autor": "",
+              "referencia_obra": "Dicc. Autor. 2"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": ". Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se debe cuidar mucho de que no vayan seguidos dos ó más versos asonantados.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. Poét. (R. 46. 141 1 )."
+            },
+            {
+              "texto_cita": "«La poesía más común en España, la que merece más bien el nombre de nacional, es el romance asonantado,»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét. 3. 10 (1. 163)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Usábase en estas acepciones:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Poner en música;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Hacer asonada, y refl . Juntarse ó levantarse en asonada ó en son de guerra). — Siglo XV:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mossen Jordé de Sanct Jordé --- compuso assaz fermosas cosas, las cuales él mesmo asonava.»",
+              "autor": "Santill.",
+              "referencia_obra": "p.11"
+            },
+            {
+              "texto_cita": "«Michaute escrivió asymesmo un grand libro de baladas, cançiones, rondeles, lays, virolays, é asonó muchos dellos.»",
+              "autor": "",
+              "referencia_obra": "Id p. 9."
+            },
+            {
+              "texto_cita": "«Que yo so bien çierto é ssé | Quel vestro alto cuidar | Sabe todo este cantar | Asonar.»",
+              "autor": "Canc. de Baena",
+              "referencia_obra": ", p. 170."
+            },
+            {
+              "texto_cita": "«En el qual libro generalmente son escriptas é puestas é asenladas todas las cantigas muy dulces é graçiosamente assonadas de muchas é diversas artes.»",
+              "autor": "",
+              "referencia_obra": "lb . p. 3. — Siglo XIV :"
+            },
+            {
+              "texto_cita": "«Eral rey grand verguenza e poco su servicio en venir asi asonados.»",
+              "autor": "Crón. Pedro I",
+              "referencia_obra": ", 4. 6 (R, 66. 430 2 )."
+            },
+            {
+              "texto_cita": "«Acaesce a las vegadas que algunos de los que conplan bestias cauallares o mulares o las tienen de suyo, se ayuntan e se asuenan para salir todos ayuntados para las defender.»",
+              "autor": "",
+              "referencia_obra": "Cortes de Guadalajara , año 1390 ( C. de L. y C. 2 . 434)."
+            },
+            {
+              "texto_cita": "«Et en este dia don Alonso fijo del infante don Joan et don Pero Ponce fueron asolados contra el infante don Felipe.»",
+              "autor": "Alf. XI",
+              "referencia_obra": ", 7 (R. 66. 179 1 )."
+            },
+            {
+              "texto_cita": "«El infante don Joan et don Joan Nuñez asonáronse con quanta gente pudieron aver para venir lidiar con el infante don Pedro. Et otrosi el infante don Pedro asonóse con quanta gente pudo para lidiar con ellos.»",
+              "autor": "",
+              "referencia_obra": "Ib . 4 (R. 66. 177 1 )."
+            },
+            {
+              "texto_cita": "«Dixieron que --- pues el infante don Pedro venia asonado, et ellos estaban allí asonados, que non podria ser sino que oviese pelea entre ellos.»",
+              "autor": "",
+              "referencia_obra": "Ib . 3 (R. 66. 175 2 )."
+            },
+            {
+              "texto_cita": "«Le decian que los moros todos se asonarian é vernian á él.»",
+              "autor": "Crón. Fern. IV",
+              "referencia_obra": ", 17 (R. 66. 164 1 )."
+            },
+            {
+              "texto_cita": "«Asonóse don Ferrand Rodríguez con muy grand gente, é vino contra don Felipe.»",
+              "autor": "",
+              "referencia_obra": "Ib . 12 (R. 66. 135 1 )."
+            },
+            {
+              "texto_cita": "«Llególe mandado en comino don Juan Nuñez, que se asonaba para entrar á Asturias de Santa Illana.»",
+              "autor": "",
+              "referencia_obra": "Crón. Sancho IV, 6 (R. 66. 82 2 )."
+            },
+            {
+              "texto_cita": "«Sabedes que, el rey vuestro señor viniendo á Burgos por vos sosegar en el su servicio, salistes á él asonado con muchas gentes de pie é de caballo.»",
+              "autor": "Alf. X",
+              "referencia_obra": ", 31 (R. 66. 27 2 )."
+            },
+            {
+              "texto_cita": "«En qualesquier instrumentos vienen [los cantares) mas asonados.»",
+              "autor": "Arc. de Hita",
+              "referencia_obra": ", 1489 (R. 57. 274 1 ). — Siglo XIII :"
+            },
+            {
+              "texto_cita": "«E asonaronse»",
+              "autor": "Scío",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Que asonastes»",
+              "autor": "Scío",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Asonáronse los de la tierras fronteras, é vinieron contra aquellas dueñas.»",
+              "autor": "",
+              "referencia_obra": "Crón. gen. 2. 4 ( Dicc . Autor . 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á , que expresa conformidad, y sonar. Port . assoar, assuar; prov . asonar, assonar, hacer asonancia, llamar ( cp. sonare, 2, en Ducange ); á esta última significación corresponde asonada, como apellido ó llamamiento de guerra.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: asuen-o, as, a, an; asuen-e, es, e,en; asuena. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

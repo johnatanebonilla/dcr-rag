@@ -1,0 +1,396 @@
+{
+  "lema": "HORRO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Se predica del esclavo a quien se ha dado la libertad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En el cucal [testamento] dejó de comer a todas las criadas de casa, horras las esclavas y el negro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Celoso extremeño (R. 1. 183 1 ). X"
+            },
+            {
+              "texto_cita": "«Iban los esclavos, que tenía ya horros con sus bonetes puestos en señal de libertad.»",
+              "autor": "Mal-Lara",
+              "referencia_obra": "( Gran encicl. Larousse )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para expresar la persona de quien alguien se libera. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y tomando el píleo en la cabeza, que se daba en señal de libertad, se pronunció por esclavo horro de los romanos.»",
+              "autor": "Mor.",
+              "referencia_obra": "fol. 60 ( Dicc. Autor .) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Clicie, la que solía | Ser blanco de mis ojos, | Yo negro de los suyos; | Fui su esclavo, soy horro.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Eróticas, Cant. 31 (Cl. C. 21. 233)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Forma la expresión carta de horro:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Escritura de libertad que se daba al esclavo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siguiendo el consejo de San Pablo, que cada uno persevere en su vocación y estado, lo cual amonestó a los esclavos para que no estuviesen solícitos de que los diesen carta de horro.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Epist. 17 (Cl. C. 30. 95)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Por extensión, se aplica a toda clase de libertad, paz y salvo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y pues sin haber socorro | He sido, Amor, tu soldado, | Y tan viejo que me corro, | Dame ya carta de horro, | Para vivir descuidado.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1 (R. 32. 141 1 )."
+            },
+            {
+              "texto_cita": "«Todos los que deseáis asentaros y escribiros en el libro de los siervos, para recibir por este asentamiento carta de horros, que es perpetua libertad ---.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. esp. 4 (R. 11. 296 1 )."
+            },
+            {
+              "texto_cita": "«Con bien diferente halago | Nos escribe a lo modorro, | A mí las cartas de horro, | A él las cartas de pago.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 5, letr. 4 (R. 69. 96 1 )."
+            },
+            {
+              "texto_cita": "«Alegres están. | — Porque les entró un socorro, | Que por él, oh gran señor, | A la hambre y al temor | Han dado carta de horro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El gallardo esp. 3 ( Com . 1. 57)."
+            },
+            {
+              "texto_cita": "«Ya de la memoria borro | Todas las obligaciones, | Porque vuestras sinrazones | Me han dado carta de horro.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "déc. Bien pensará (R. 42. 261 2 )."
+            },
+            {
+              "texto_cita": "«Dime, desventurado, ¿cómo no te vuelves de todo corazón, de toda valona, de todo gregüesco, calzón y zaragüelle, a rey que dio carta de horro a las caderas?»",
+              "autor": "Quev.",
+              "referencia_obra": "Tira la piedra (R. 23. 254 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Eximido de cierta carga, libre.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vamos horros en los gustos, | Aldeana, que revientas | Por mostrarme que en tu lumbre | Mil corazones se queman.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 106 (R. 32. 544 2 )."
+            },
+            {
+              "texto_cita": "«Mira que ya mi pluma volar horra | Puede, y que libre te dará tal zurra, | Que no la cubra pelo, o borra.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa, 6 (R. 69. 235 1 )."
+            },
+            {
+              "texto_cita": "«Así lobo feroz tierna cordera | Que por su boca asió, a su cueva oscura | Lleva, sin que ya pueda libre y horra | A su pastor pedir que le socorra.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 7 (R. 17. 215 1 )."
+            },
+            {
+              "texto_cita": "«Al campo Radamante | Fusta no quedó entera ni hombre horro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 14 (R. 17. 288 1 )."
+            },
+            {
+              "texto_cita": "«¿Quién sois? | — Yo soy sastre. | — Yo ventero: vamos horros.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El tejedor de Segovia, 3. 1 (R. 20. 407 3 )."
+            },
+            {
+              "texto_cita": "«No creo | Que hay imposible al deseo, | Si lleva plata en la mano. | La niña se hará muy santa, | Y irán horras tía y sobrina.»",
+              "autor": "Lope",
+              "referencia_obra": ", La niña de plata, 3. 1 (R. 5. 289 1 )."
+            },
+            {
+              "texto_cita": "«Y tú bién me dices a mí las mías, cuando sacamos galas a Dorotea, levantándome que me aprovecho, y que voy horro con el mercader.»",
+              "autor": "",
+              "referencia_obra": "Id. Dorotea, 5. 2 ( Obr. suelt. 7. 368)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para expresar el trabajo, carga o molestia que se quita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y viendo sus pies pequeños | Horros de todo juanete.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa, rom. 53 (R. 69. 193 1 )."
+            },
+            {
+              "texto_cita": "«Pero no se alabará, si yo puedo, éste de haber salido horro de esta chanza.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo coj. 9 (R. 33. 42 2 )."
+            },
+            {
+              "texto_cita": "«Se me olvidaba decirte que el duque de San Carlos ha solicitado con vivas ansias conocerme y tratarme; yo respondí a su agente, dándole las señas de mi casa, con lo cual he quedado horro y quito de la protección de su excelencia.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. (2. 402). — met. X"
+            },
+            {
+              "texto_cita": "«El corazón latió libre y feliz, horro de la enojosa vecindad del estómago que en las épocas pasadas le oprimía o le aguijaba, según sus caprichos.»",
+              "autor": "Ledesma",
+              "referencia_obra": "( Pagés , Dicc. )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Locuciones.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Tripas horras: vacías.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me remordía la conciencia el ser contra la orden comer a su costa quien vive de tripas horras en el mundo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 15 (R. 23. 511 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Ir horro ( en el juego ) : se usa en el juego, cuando tres o cuatro están jugando y dos hacen el partido de no tirar en los envites la parte que el otro tenga puesta, si perdiere, lo cual se pacta antes de ver las cartas. Cfr. Acad. Dicc. — met. Ir a la parte unos con otros.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Él y los ministros del carretero iban horros, que ya habían llegado también con el hato antes, porque nosotros veníamos de espacio.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 4 (R. 23. 492 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refr. Horro Mahoma y diez años por servir: se expresa irónicamente de los que, erradamente, hacen cuenta de estar fuera de alguna obligación faltándoles mucho para haber de cumplir y quedar libres. Cfr. Encicl. univ. ilustr.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "En particular, exento de tributo o de gravamen.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sanchica hace puntas de randa, gana cada día ocho maravedís horros, que los va echando en una alcancía para ayuda a su ajuar.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 52 (R. 1. 515 2 )."
+            },
+            {
+              "texto_cita": "«Halleme en menos de un mes con más de ducientos reales horros.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 21 (R. 23. 522 2 ). +"
+            },
+            {
+              "texto_cita": "«Que lo que sacaba de ganancias era cien pesos horros cada semana.»",
+              "autor": "Cobo",
+              "referencia_obra": ", Hist. Nuevo Mundo, 1. 3. 38 (R. 91. 146 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para indicar la carga o contribución.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dan por nobles y horros de tributos a todos los judíos que de corazón abrazen la religión cristiana.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 6. 18 (R. 30. 176 2 )."
+            },
+            {
+              "texto_cita": "«Yo pensé, dijo Cortado, que el hurtar era oficio libre, horro de pecho y alcabala.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Rinconete (R. 1. 137 1 ). — En grado comparativo. X"
+            },
+            {
+              "texto_cita": "«Pensaba esta rapaza | Vivir en esta tierra | Tan horra de alcabala | Como tú de clemencia.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Eróticas, Mon. 53 (Cl. C. 21. 304)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Loc. Sacar, salir horro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo saqué mi ropa, y comida horra.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 19 (R. 23. 517 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Se aplica a los animales que no quedan preñados, estéril. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Suele separarse el ganado horro de las preñadas o paridas, destinando éstas a los mejores pastos. La acción de separarlas se llama horrear.»",
+          "autor": "",
+          "referencia_obra": "Encicl. univ. ilustr."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Que carece de algo, escaso, falto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de, para señalar aquello de lo que se carece. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quien ámbares respira | Es ámbar de los otros, | Y él anda de ordinario | De sus fragancias horro.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Eróticas, mon. 54 (Cl. C. 21. 306)."
+            },
+            {
+              "texto_cita": "«Habiendo una notable priesa a quitarse zapatos y medias, calzones y jubones --- y volviéndose a los primeros originales que comenzaron en el mundo, horros de todas estas ventajas.»",
+              "autor": "Guev.",
+              "referencia_obra": "Diablo coj. 1 (R. 33. 22 2 ). X"
+            },
+            {
+              "texto_cita": "«Pobladores de lomas y altozanos, | Horros de sombra, grávidos de frutos —, | Sin caricia de mano labradora.»",
+              "autor": "Machado",
+              "referencia_obra": ", Poes. complet. p. 192."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En comparativo, con valor ponderativo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con la educación prematrimonial femenina, hijo mío, las recién casadas --- serían, en todo, el complemento de ese amigo desgraciado, siempre tan horro de complementos que todos los maridos tienen.»",
+              "autor": "Cela",
+              "referencia_obra": ", Mrs. Caldwell, p. 84."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Horro, libre como quiera, liber, -a, -um.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. X"
+        },
+        {
+          "texto_cita": "«Horro o horra de esclavo, libertinus, -a, -um.»",
+          "autor": "",
+          "referencia_obra": "Id. in."
+        },
+        {
+          "texto_cita": "«Por lo qual dexaron forros | A los que oy por su pecado | Se someten muy de grado | A christianos e a moros.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 328. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "« Forro = egredietur liber gratis.»",
+          "autor": "Scío",
+          "referencia_obra": "). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«E si algún siervo, que fuese ya forro, demandase a aquél quel aforrara quel feziera tuerto ---.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 11. 13 ( O. L. 1. 405)."
+        },
+        {
+          "texto_cita": "«Forros eran los omes de comienzo naturalmiente, mas por su merecimiento e por su maldat fueron unos siervos, et fincaron los otros libres.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 270)."
+        },
+        {
+          "texto_cita": "«Mas si fuesen forros, devenlos tornar, asi como eran ante.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 119)."
+        },
+        {
+          "texto_cita": "«Ca los omes con el rey soberbioso e forçador son segunt siervos, ca non segunt forros, e ser sennor de los forros es mejor e más ondra, que non seer sennor de los siervos.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 34)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Todo moro qui fuerit preso con furto, si fuerit forro, enforcalo: et si fuerit captiuo, el pede le tagen.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid, año 1202 ( Mem. Acad. Hist. 8. 39)."
+        },
+        {
+          "texto_cita": "«Moro que fuere forro e finare, et non hobiere fijo o fija, herédelo el sennor de Molina.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Molina, año 1152 ( Llor. Prov. Vasc. 4. 149)."
+        },
+        {
+          "texto_cita": "«Mancebo forro qui homicidium fecerit et cassam non habuerit, pectet ad palacium medietate de suo peguiar, et non hereditatem.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Palenzuela, año 1074 ( Muñoz , F. 275)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del árabe hurr ‘libre, de condición libre’. Port. forro cat. forro, -a. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,71 @@
+{
+  "lema": "DESCOMPADRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Desavenirse, cesar en la amistad y buena correspondencia ( intrans .) ( fam. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Buscaban ocasión de descompadrar para con buen color quitalles la obediencia y el mando. »",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 23. 16 (R. 31. 173 2 )."
+            },
+            {
+              "texto_cita": "«¿Por qué, dí, perdido has | Esta ocasión de reñir | Y descompadrar del todo? »",
+              "autor": "Alarcón",
+              "referencia_obra": ", El desdichado en fingir , 1. 8 (R. 20. 141 2 )."
+            },
+            {
+              "texto_cita": "«Porque él y su compañero, | Aunque hayan descompadrado, En la lógica, el buen gusto | Y el estilo son hermanos. »",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", rom. Perdona , amigo (7. 381)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar la persona de cuya amistad nos apartamos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El rey temía verse con el duque por tener entendido le pretendía apartar de la amistad de Francia; temía descompadrar con el duque, si no concedía con él.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 18. 12 (R. 31. 21 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Descomponer, desavenir ( trans. ) ( fam. ). Dícese de las personas y de las cosas: Descompadrar á dos sujetos, Descompadrar la amistad.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mal haya el malo y los celos | Que bodas descompadraron.»",
+          "autor": "Tirso",
+          "referencia_obra": ", Desde Toledo á Madrid , 1. 4 (R. 5. 485 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y compadrar (",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Casar y compadrar, cada cual con su igual»",
+          "autor": "Comend. Griego",
+          "referencia_obra": "). Port. descompadrar . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,280 @@
+{
+  "lema": "AFORRAR (FORRAR).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Poner forro á algún vestido ó ropa ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Aforrar una capa.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hacedme placer, amigo, | Que volváis á visitarlo, | Y de mi parte le deis | Este herreruelo aforrado | Para que se abrigue agora.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las flores de D. Juan, 1. 16 (R. 24. 415 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar la materia del forro",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aforrar con piel, con tafetán.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram. Salvá , Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en el mismo sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desto aforro todos mis vestidos cuando viene la navidad.»",
+              "autor": "Celest.",
+              "referencia_obra": "9 (R. 3. 41 1 )."
+            },
+            {
+              "texto_cita": "«Fue [Heliogábalo] el primero de los emperadores romanos que usó de vestidura toda de seda, que antes dél sólo aforraban de seda los vestidos, que en aquel tiempo se compraba á peso de oro.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 4. 8 (R. 30. 98 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en , en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aforrar en piel.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Forraban su sombrero, así armado, en alguna lanilla del mismo castor.»",
+              "autor": "Cadalso",
+              "referencia_obra": ", Cart. marr. 64 (2. 252)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gritando va el caballero | Publicando su gran mal, | Vestidas ropas de luto, | Aforradas en sayal.»",
+              "autor": "",
+              "referencia_obra": "Romanc . (R. 10. 160 2 )."
+            },
+            {
+              "texto_cita": "«Un sayo negro hasta los pies traía | Y de plata aforrado en blanca tela.»",
+              "autor": "Lope",
+              "referencia_obra": ", Angél. 4 ( Obr. suelt. 2. 50)."
+            },
+            {
+              "texto_cita": "«Pensó que la sujetara | El gavión de la liga --- | Y los gregüescos de seda | Aforrados en telilla.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 82 (R. 32. 536 1 )."
+            },
+            {
+              "texto_cita": "«Esta bayeta aforrada | En plata, señora mía, | Luto es de mi alegría.»",
+              "autor": "",
+              "referencia_obra": "Id. Déc . (R. 32. 483 2 )."
+            },
+            {
+              "texto_cita": "«Antiguamente usaban un sombrero de paja aforrado en tafetán.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 347."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Cubrir como con un forro. Admite las mismas construcciones que en el sentido anterior.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Pues soy yo cofre, les dije, que me quieren aforrar del pellejo del macho?»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 3. 18 (R. 18. 470 1 )."
+            },
+            {
+              "texto_cita": "«Ya el rapaz anda vestido, | Las alas aforra en tela.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 106 (R. 32. 544 2 )."
+            },
+            {
+              "texto_cita": "«Este [es] el que aforra los postes | Con cartelones de á tercia.»",
+              "autor": "Mor.",
+              "referencia_obra": "Poes. suelt. rom . 4 (R. 2. 602 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En medio de todo el edificio estaba una cámara sustentada con preciosas columnas, --- y las paredes aforradas con planchas de oro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 12 (R. 6. 311 2 )."
+            },
+            {
+              "texto_cita": "«Y la hambre de los cercados fue tan grande que llegaron á comer --- los cueros con que estaban aforradas las puertas. Id . ib. 2 . 14 (R. 6. 316 2 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Lleva dentro la litera | Una caja de ataujía, | De negro plomo aforrada, | Y de brocado vestida.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "El solemne desengaño, 4 (3. 209)."
+            },
+            {
+              "texto_cita": "«Es--- aquella arca fabricada de madera de Setín, y forrada de dentro y de fuera de oro purísimo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos. SS. Nativ. de Ntra. Sra. ( Vida de la Virgen, 79). —"
+            },
+            {
+              "texto_cita": "«El vizcaíno le aguardaba ansimismo levantada la espada aforrado con su almohada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 8 (R. 1. 271 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo sujeto el nombre de la materia que forma el forro (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En un cofre de topacio | Que bien labrada plancha de oro aforra, | Los derramó.»",
+              "autor": "Quev.",
+              "referencia_obra": "Nec. de Orlando, 2 (R. 69. 293 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Es de particular uso en el part.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Es posible, oh Sancho, que haya en todo el orbe alguna persona que diga que no eres tonto aforrado de lo mismo?»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 58 (R. 1. 527 1 )."
+        },
+        {
+          "texto_cita": "«Guarnecido de paciencia | Y aforrado en sufrimiento.»",
+          "autor": "",
+          "referencia_obra": "Id. Poes. El desdén (R. 1. 711 2 )."
+        },
+        {
+          "texto_cita": "«Rico aforrado de necio, | Pretensor sin esperanza.»",
+          "autor": "Lope",
+          "referencia_obra": ", Lo cierto por lo dudoso, 2. 10 (R. 24. 464 2 )."
+        },
+        {
+          "texto_cita": "«Todos [los gozos] están aforrados | De zozobras semejantes.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 1, Sermón de amores (R. 32. 154 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Refl. Ponerse mucha ropa interior.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Es falta de carnes? Afórrase de manera que todos dicen que no hay más que pedir.»",
+          "autor": "León",
+          "referencia_obra": ", Perf. cas. 13 (R. 37. 233 2 )."
+        },
+        {
+          "texto_cita": "«Más calificadamente se aforra el pobre con lo que desecha otro hombre, que el rico que se aforra de lo que desecha un lobo ó un jimio.»",
+          "autor": "Quev.",
+          "referencia_obra": "Fantasma 2 (R. 48.146 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Aforrarse bien ó bravamente ( fam. ): comer y beber bien. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Afórrese V. con ello ó Bien se puede aforrar con ello ( fam. ): loc. con que uno manifiesta el desprecio que hace de una cosa que no se le dio cuando la pedía, y después se le ofrece importunamente. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De candidas vestiduras | Eran todas arreasdas, | En arminios aforradas | Con fermosas bordaduras.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 355."
+        },
+        {
+          "texto_cita": "«Tenga ya amañada la espuerta de palma cubierta defuera de cuero colorado, --- e dentro aforrada de lienzo.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 5 (36)."
+        },
+        {
+          "texto_cita": "«De aquí los llevaron á una tienda que la tiraban cuerdas verdes; é era de partes de fuera cubierta de grises, é de partes de dentro era forrada de veros.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 182."
+        },
+        {
+          "texto_cita": "«Este dicho pavellon era de partes de fuera aforrado de un paño de seda.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 161."
+        },
+        {
+          "texto_cita": "«Vysta negro balandran | Aforrado en amargura.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena , p. 68. — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Et las calças forradas coser et torrnar, quatro dineros alfonsis.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez , año 1268 ( C. de L. y C . 1. 69)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Aforrar es compuesto de forrar , y éste derivado de forro . Port. aforrar , forrar ; cat., prov. folrar ; fr. fourrer ; it. foderare . Por italianismo se halla esta forma en el testamento de D. Fortún, obispo de León , redactado en Italia en 1460:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Detur eidem monasterio ropa mea de grana foderata de viride cum caputio foderato de foderatura subtili.»",
+          "autor": "",
+          "referencia_obra": "( Esp. sagr . 36. CLXXXV ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

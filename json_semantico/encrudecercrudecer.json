@@ -1,0 +1,175 @@
+{
+  "lema": "ENCRUDECER (CRUDECER).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Empeorar, agravar, volver crudo o difícil de soportar ( trans .). Se dice especialmente de las heridas y padecimientos corporales en general.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando intento mitigarlos [los dolores] o con la medicina o con la comida, se me vuelven mayores; y el ir al remedio encrudece el dolor.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 3 (1. 48)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. con sentido intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En que [en estas palabras] torna el dolor a encrudecerse de nuevo y a revivir con fuerzas dobladas.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 7 (1. 128)."
+            },
+            {
+              "texto_cita": "«Lo cual es, tras el consuelo tornar el dolor a encrudecerse, como es natural en todos los ánimos muy apasionados.»",
+              "autor": "",
+              "referencia_obra": "Id. Expl. del salmo 41 (4. 186). x"
+            },
+            {
+              "texto_cita": "«Encrudecerse : ponerse crudo; suele decirse de las heridas.»",
+              "autor": "Covarr.",
+              "referencia_obra": "Tes . x"
+            },
+            {
+              "texto_cita": "«Mas, para que no se busque el remedio de lejos, y entre tanto se encrudezca aquella peste, él mismo es el remedio aplicado sobre la llaga.»",
+              "autor": "Nieremb.",
+              "referencia_obra": "Philos. ocult . 2. 31 ( Dicc. Aut .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para indicar la persona en que se produce la acción.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas, diciendo esto, encrudécese el dolor en él.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 17 (1. 275)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y pues que por tu causa la memoria | Mi llaga ha renovado encrudecida, | En recompensa del dolor te pido | Me dejes enterrar a mi marido.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 20 (R. 17. 79 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si tantas veces nos fatiga el ardor y fuego de la codicia, y la hinchazón de la soberbia --- y las llagas encrudecidas de nuestros odios ---»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 3. 8, 2 (R. 8. 255 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Irritar, enfurecer o exasperar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "x El horror de tantos males ha encrudecido los ánimos, y ni aman ni se compadecen.» Saav. Emp . 81 (R. 25. 218 1 ).",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con sentido intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cielo clemente se aíra y embravece, los aires blandos se enojan y encrudecen, las aguas faltan, los frutos no acuden.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 5. 4 (431)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otras las consideraban [las razones de Pizarro] como los últimos esfuerzos de un desesperado, que se encrudece contra su mala fortuna y no le importa arrastrar a los demás en su ruina.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 303 1 ). — Part. x"
+            },
+            {
+              "texto_cita": "«Ahora no veo qué esperar de vosotros, encrudecidos contra vuestras mismas entrañas.»",
+              "autor": "",
+              "referencia_obra": "Pellicer, Argen. 2. 5. 3 ( Dicc. Aut .) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Dicho de una guerra, lucha o contienda, Hacerse más dura o cruenta. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por más de seis leguas los siguió Lautaru, y a cada paso se encrudecía el combate.»",
+              "autor": "",
+              "referencia_obra": "Gómez Vidaurre, Hist. Chile (ed. 1889, t. 2, p. 71)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. Con por, para indicar la causa. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lucha porfiada y encrudecida a veces por el espíritu de secta que inficiona al pueblo de Ataúlfo.»",
+              "autor": "",
+              "referencia_obra": "A. de los Ríos, Hist. crit. lit. esp. (1. XCVIII )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV: x",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Encrudecerse, hazerse crudo: crudesco, is .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. Siglo XIV: RAE"
+        },
+        {
+          "texto_cita": "«Ca encrudecerse ya más, ni tampoco después qu'es acabada del todo, porque non enmagrezca.»",
+          "autor": "",
+          "referencia_obra": "Sevillana medicina de J. Aviñón (ed. 1545, p. 94)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. íncrudéscére ‘hacerse crudo’ (Forcellini, s. v .), compuesto de ín y crudescére, que deriva de crudus ‘crudo’, ‘que sangra’ (cfr. Corominas , DCEC, y el artículo Cruel de la presente obra), y del que sale la forma crudecer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Presenta las siguientes formas irregulares: encrudezc-o; encrudezc-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

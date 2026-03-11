@@ -1,0 +1,206 @@
+{
+  "lema": "ASQUEROSO, A",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que causa asco.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De ningún enfermo tuvisteis asco, por asquerosa que fuese la enfermedad.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Medit. sobre el paternóster (R. 53. 544 1 )."
+        },
+        {
+          "texto_cita": "«Nunca hace el mar alarde de las heces asquerosas que encierra en sus senos, sino cuando se embravece.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 4. 196)."
+        },
+        {
+          "texto_cita": "«A Job le quitó todos aquellos bienes para darle pobreza, soledad, desprecio y enfermedades asquerosas.»",
+          "autor": "Quev.",
+          "referencia_obra": "Job (R. 48. 228 1 )."
+        },
+        {
+          "texto_cita": "«De acordarte que vías | Alguna vez una cosa | Que te pareció asquerosa, | No cornes en treinta días.»",
+          "autor": "Lope",
+          "referencia_obra": ", El perro del hortelano , 1. 12 (R. 24. 344 1 )."
+        },
+        {
+          "texto_cita": "«Una mujer como vos | No ha de andar por hospitales | Curando asquerosos males, | Y haciendo camas.»",
+          "autor": "Tirso",
+          "referencia_obra": ", Marta la piadosa, 2. 3 (R. 5. 450 3 )."
+        },
+        {
+          "texto_cita": "«Un hermano | En Cristo déme la mano, | Saldré de aquí. — No haré tal; | Que está gafa y asquerosa.»",
+          "autor": "G. de Castro",
+          "referencia_obra": ", Las mocedades del Cid , 1ª pte . 3 (R. 43. 253 3 )."
+        },
+        {
+          "texto_cita": "«Y entero un jabalí rnal sazonado, | Medio crudo, sangriento y asqueroso, | Brutalmente en las manos despedaza.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 23 (R. 17. 379 2 )."
+        },
+        {
+          "texto_cita": "«Las imágenes asquerosas ni son donaires cómicos ni deben presentarse jamás á un auditorio decente.»",
+          "autor": "Mor.",
+          "referencia_obra": "El médico á palos, advert. (R. 2. 460). —"
+        },
+        {
+          "texto_cita": "«La sabiduría puede ser pobre y no debe ser asquerosa.»",
+          "autor": "Quev.",
+          "referencia_obra": "Doct. estoica (R. 69. 416)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asqueroso á la vista.»",
+              "autor": "Acad.",
+              "referencia_obra": "Salvá , Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de ó para y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asqueroso de ver.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Yo compadezco ahora las enfermedades que suelen tener algunas mujeres, que se les antoja comer tierra, yeso, carbón y otras cosas peores, aun asquerosas para mirarse, cuanto más para comerse.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 33 (R. 1. 344 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Asqueroso en su aspecto.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            },
+            {
+              "texto_cita": "«Asqueroso en su traje.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Dícese de lo que moralmente repugna en gran manera. Se apla tanto á las cosas como á las personas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No hay agua encharcada y corrompida, que críe tantas y tan malas sabandijas, como nacen vicios asjuerosos y feos en los pechos destas damas delicadas, de que vamos hablando.»",
+          "autor": "León",
+          "referencia_obra": ", Perf. cas. 10 (R. 37. 226 2 )."
+        },
+        {
+          "texto_cita": "«Los [cargos] de robo de la fortuna pública y de infidelidad á la patria, imputados al cuerpo que estaba encargado de defenderla y salvarla, llevan consigo tan abominable y asquerosa fealdad, que á ser ciertos, dejarían impresa en los nombres de sus autores una de aquellas eternas manchas ---»",
+          "autor": "Jovell.",
+          "referencia_obra": "Def. de la Junta Central, 1. 2 (R. 46. 523 2 )."
+        },
+        {
+          "texto_cita": "«Por qué no nos gustan en la escena los caracteres enteramente viles? Porque son asquerosos y excitan la náusea moral.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos, 1, p. 18. —"
+        },
+        {
+          "texto_cita": "«¿Cómo quitar? respondió la mujer; antes me dejara yo quitar la vida, que me quiten la bolsa: bonita es la niña, otros gatos me han de echar á las barbas, que no este desventurado y asqueroso.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 45 (R. 1. 499 1 ). — Sup ."
+        },
+        {
+          "texto_cita": "«Señor, tú á mí lavas los pies? --- á mí, criatura tuya, esclavo tuyo, pecador vilísimo y asquerosísimo ---?»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 4. 8 (2. 408)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En especial, Mal hablado, que dice palabras asquerosas. Terreros, Salvá , Dicc.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Que tiene asco ó es propenso á tenerlo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tiene esta señora más de poder que de melindre, no es nada asquerosa, de todo come y á todo hace, y de toda suerte de gentes, edades y preeminencias hinche sus alforjas.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 20 (R. 1. 447 1 )."
+        },
+        {
+          "texto_cita": "«Como el Criador diputó este licor de la miel para el mantenimiento de los hombres (muchos de los cuales son muy asquerosos), por esto ordenó que fuese purísimo y muy limpio, como lo vemos.»",
+          "autor": "",
+          "referencia_obra": "Gran . Símb. 1. 20 (R. 6. 235 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La fiera y endiablada canalla, viendo cuán poca resistencia se les hacia, se atrevieron á entrar en los sagrados templos, y poner las descomulgadas manos en las santas reliquias, poniendo en el seno el oro con que guarnecidas estaban, y arrojándolas en el suelo con asqueroso menosprecio.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Gal. 2 (R. 1. 27)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ascoroso, que hace asco.»",
+          "autor": "Nebrija",
+          "referencia_obra": ", Vocab . — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Yo lo banyaré, que no so ascorosa.»",
+          "autor": "",
+          "referencia_obra": "Reyes de Oriente (R. 57. 320 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de asco , acaso bajo la influencia de temeroso. Port. asqueroso. Cp . medroso, port. mederoso. Véase Diez, Gramm. 2, p. 259. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

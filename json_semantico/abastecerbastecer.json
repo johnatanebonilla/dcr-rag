@@ -1,0 +1,377 @@
+{
+  "lema": "ABASTECER (BASTECER).",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Proveer de bastimentos ó de otras cosas necesarias ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aprendan los príncipes de tan pequeño y sabio animalejo á abastecer con tiempo las plazas y fortalezas.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 71 (R. 25. 196 1 )."
+            },
+            {
+              "texto_cita": "«Castilla en años abundantes no sólo puede abastecer la corte, sino también exportar muchos granos á otras provincias.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 3ª clase (R. 50. 130 1 )."
+            },
+            {
+              "texto_cita": "«Le concedió además dos galeras que pidió para ir á visitar y abastecer los castillos que tenía en Calabria.»",
+              "autor": "Quint.",
+              "referencia_obra": "R. de Lauria (R. 19. 229 2 )."
+            },
+            {
+              "texto_cita": "«Mandaron apercibir las fronteras, reparar los castillos, abastecer las fortalezas.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 18 (4. 359). —"
+            },
+            {
+              "texto_cita": "«También es muy probable que los demás representantes que, así en tiempo de Rueda como poco después, abastecían el teatro, se empleasen de buen grado en esa especie de composiciones.»",
+              "autor": "",
+              "referencia_obra": "Id. Com. esp . 2 (2. 140)."
+            },
+            {
+              "texto_cita": "«Después siguieron muchos poetas abasteciendo malamente el teatro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5 (2. 223)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abastécense [las fuentes de Oviedo] por medio de un bello acueducto.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 191 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para indicar la clase de provisión ó bastimento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fuese pues á su castillo de Hita, uno de los más fuertes del reino, y empezólo á abastecer á toda priesa de viandas y municiones.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 103 2 ). —"
+            },
+            {
+              "texto_cita": "«Desde la ciudad se descubre mucho más cercana la sierra, que no parece sino que se toca con la mano; y ella le sirve de antemural, la abastece de pastos, de mármoles, de aguas, mitiga el ardor del estío, y purifica los aires.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 1. 12 (4. 232). —"
+            },
+            {
+              "texto_cita": "«No se proponga jamás el autor dramático abastecer de composiciones nuevas un teatro.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 1, p. 98."
+            },
+            {
+              "texto_cita": "«Italia tiene sus Zavalas, Comellas y Moncines, que abastecen los teatros de comediones hechos en cuatro días invita Minerva .»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1, p. 481."
+            },
+            {
+              "texto_cita": "«Eran los únicos que abastecían el teatro de composiciones.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Com. esp . 3 (2. 168)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ambas [las plazas de Oviedo] se hallan siempre abundantemente abastecidas de caza, pescados, frutas, hortalizas, legumbres y cuanto puede lisonjear el apetito.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 191 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , en un sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es pues claro que cuando una metrópoli no tiene en la industria nacional ó en algún ramo de ella sobrantes con que abastecer las colonias, la buena economía quiere que las abastezca con productos extranjeros para asegurarse de su comercio exclusivo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Dict. sobre embarque de paños (R. 50. 72 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Es raro que el acus. sea nombre de persona, ó de cosa á la cual se refiera el verbo en el mismo concepto que á las personas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De lo que falta os haga, abasteceros | Mandaré.»",
+              "autor": "Maury",
+              "referencia_obra": ", Dido (R. 67. 176 1 ). —"
+            },
+            {
+              "texto_cita": "«Un nuevo gusto exige de repente una muchedumbre de manos para abastecerle.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre libre ejerc. de las artes (R. 50. 38 1 )."
+            },
+            {
+              "texto_cita": "«¿Merecerá [el cultivo de los granos] menos protección que el del vino, la hortaliza y las frutas, que por la mayor parte abastecen el lujo?»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria, 1ª clase (R. 50. 88 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "La forma simple bastecer es hoy anticuada, según la Academia, y aunque se halla tal cual vez en autores modernos, no deja de tener sabor arcaico. En el siglo de oro fue más común que aoastecer .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Andaba ocupado desbalijando una acémila de repuesto que traían aquellos señores bien bastecida de cosas de comer.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 19 (R. 1. 294 2 )."
+        },
+        {
+          "texto_cita": "«Por ser muy estéril la provincia de Vizcaya, de que se proveían, bastecía mal el ejército.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 17. 18 (R. 30. 528 1 )."
+        },
+        {
+          "texto_cita": "«De dó manan las fuentes, | Quién ceba y quién bastece de los ríos | Las perpetuas corrientes.»",
+          "autor": "León",
+          "referencia_obra": ", Poes . 1, ¿Cuándo será que pueda (R. 37. 7 1 )."
+        },
+        {
+          "texto_cita": "«Bastécete de cuanto se desea.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 3, salmo 102 (R. 37. 54 2 )."
+        },
+        {
+          "texto_cita": "«También tuvimos nueva que partidos | Eran de Mapochó nuestros guerreros, | De armas y municiones bastecidos.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc. 21 (R. 17. 80 1 )."
+        },
+        {
+          "texto_cita": "«Basteciendo conforme á la estrechura | Del tiempo un barco que pescando andaba, | Dentro nos puso.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 7 (R. 17. 208 2 )."
+        },
+        {
+          "texto_cita": "«En muchas fraguas | Que el lago ardiente por ocultas venas | De derretido fuego bastecía.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Par. perdido (R. 46. 32 1 )."
+        },
+        {
+          "texto_cita": "«Avisóse de esto al conde de Plasencia por el contador Vivero, y se basteció y fortaleció de tal manera en Béjar, que no era posible pensar en sorprenderle ni en forzarle.»",
+          "autor": "Quint.",
+          "referencia_obra": "D. Álv. de Luna (R. 19. 423 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "( Abastecer, bastecer, bastir : el primero no parece anterior al siglo XV; bastir pertenece al XIII. Bastir y bastecer ocurren en los dos sentidos de Proveer y de Fraguar, disponer). — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El Rey quiso saber si el castillo estaba bastecido de alguna cosa de las necesarias.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 14 29 (R. 68. 391 2 )."
+        },
+        {
+          "texto_cita": "«Pruévase por escriptura | Que la fin | Basteció de Abel Caym, | Sin ventura.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 62."
+        },
+        {
+          "texto_cita": "«Todo mi placer peresçe: | Sin mi racon ser oyda, | Cruel muerte dolorida | Veo que se me bastece.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 461."
+        },
+        {
+          "texto_cita": "«Por el gran poder que tenia non basteciese alguna cosa donde podria haber sangre é peligro de gentes.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 197."
+        },
+        {
+          "texto_cita": "«Avia desamor con todos sus comarcanos, --- é basteció guerra contra todos.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 120."
+        },
+        {
+          "texto_cita": "«El que dio agua de la piedra dura, donde todo el pueblo de Isrrael fue todo abastecido, la dará aquí á nosotros.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 81."
+        },
+        {
+          "texto_cita": "«Fuese el rey para Sevilla, é basteció á Carmona.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 19."
+        },
+        {
+          "texto_cita": "«Encerróse en Alburquerque, que era suyo, é abasteció el castillo, é alzóse contra el Rey.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 15."
+        },
+        {
+          "texto_cita": "«Syn dubda sobre tal e buen çimiento, serian mejor bastecidos sy quiere edificados.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 18 (108)."
+        },
+        {
+          "texto_cita": "«Tomaron allí puerto, que se avian alli de bastecer de agua.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 73."
+        },
+        {
+          "texto_cita": "«Estos bastecen la hueste é las tierras do llegan de muchos ganados.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 132."
+        },
+        {
+          "texto_cita": "«E los dichos embajadores bastecieron de lo que ovieron menester.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 219."
+        },
+        {
+          "texto_cita": "«Ffeme fecho conde, vo me para Francia | Donde bastesco justas é torneo.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 403."
+        },
+        {
+          "texto_cita": "«Amor, la tu cruel lança | Me bastece de temor.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 419. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Et otro dia de pasqua el rey mandó bastecer un torneo de muy gran compaña de caballeros.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 141 (R. 66. 266 2 )."
+        },
+        {
+          "texto_cita": "«Aquella vegada fue la villa de Lorca muy bien amparada, é la reina la basteció de pan é de armas por tres años»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 6 (R. 66. 116 1 )."
+        },
+        {
+          "texto_cita": "«De noche furtaron la judería de Nájara, que es muy fuerte, é robáronla é basteciéronla.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2 (R. 66. 108 2 )."
+        },
+        {
+          "texto_cita": "«Le enviaban decir que don Nuño é don Juan Nuñez é Nuño Gonzalez, sus fijos, se bastecian contra él.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 20 (R. 66. 17 1 )."
+        },
+        {
+          "texto_cita": "«Basteció é requirió las villas é lugares é castillos, que eran frontera de moros.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1 (R. 66. 4 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Debégelo dar [plazo] de treinta dias tomando dél primeramente fiadores et homenage, ó otro recabdo el mayor que podiere que non bastezca el castiello.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 18. 4 (2. 153)."
+        },
+        {
+          "texto_cita": "«Qualquier que recebiere villa o castiello o fortaleza develo bastecer de omes e de armas e de conducho.»",
+          "autor": "Espéc.",
+          "referencia_obra": "2. 7. 2 ( O. L. 1. 32)."
+        },
+        {
+          "texto_cita": "«La bestia maldita tanto pudo bollir, | Que basteció tal cosa onde ouo a rriir.»",
+          "autor": "Alex.",
+          "referencia_obra": "1738 (R. 57. 200 2 )."
+        },
+        {
+          "texto_cita": "«Tiempo dolce e sabroso por bastir casamientos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1789 (R. 57. 202 1 )."
+        },
+        {
+          "texto_cita": "«Posieronle corona clara e bien bronida --- | De fin oro obrada, de piedras bien bastida.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1612 (R. 57. 197 1 )."
+        },
+        {
+          "texto_cita": "«Bastiron las torres de firmes algarradas.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1047 (R. 57. 179 2 )."
+        },
+        {
+          "texto_cita": "«Oyó cuemo auien á Tharso ençendida, | Una uilla real de todo bien bastida.»",
+          "autor": "",
+          "referencia_obra": "Ib. 832 (R. 57. 173 1 )."
+        },
+        {
+          "texto_cita": "«Vastió con él guerra por omne periurado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 152 (R. 57. 152 1 )."
+        },
+        {
+          "texto_cita": "«Mandó labrar Antioco naues de fuerte manera --- | Bastirlas de poderes, de armas, et de çiuera.»",
+          "autor": "Appoll.",
+          "referencia_obra": "60 (R. 57. 285 1 )."
+        },
+        {
+          "texto_cita": "«Sopieron delcativo qual ora escapó, | Vidieron que fo essa que la missa cantó, | Entendien que el padre santo lo basteçió.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 371 ( R. 57. 51 2 )."
+        },
+        {
+          "texto_cita": "«Ixió del monesterio el sennor a amidos --- | Los que bien lo amaban fincaban doloridos, | Los que lo bastecieron ya eran repentidos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 104 (R. 57. 43 1 )."
+        },
+        {
+          "texto_cita": "«Fueronse aguisando, | Bastiendo los castiellos, las villas ençerrando.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 399 (R. 57. 77 1 )."
+        },
+        {
+          "texto_cita": "«Fue el traydor falso bastir la traycion.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacr . 71 (R. 57. 82 2 )."
+        },
+        {
+          "texto_cita": "«El conseio de salud en çielo fue bastido | Commo cobrase don Adam el bien que avia perdido.»",
+          "autor": "",
+          "referencia_obra": "Id. Loores , 19 (R. 57. 94 1 )."
+        },
+        {
+          "texto_cita": "«Con uuestro consego bastir quiero dos archas; | Incamos-las darena, ca bien serán pesadas.»",
+          "autor": "Cid",
+          "referencia_obra": ", 85 (R. 57. 2 2 )."
+        },
+        {
+          "texto_cita": "«De todo conducho bien los ouo bastidos,»",
+          "autor": "",
+          "referencia_obra": "Ib. 68 (R. 57. 2 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. abastecer, bastecer ; gall. ant . baster , abastecer, edificar; val. abasteixer, abastir, bastir ; cat. bastir , edificar y ( ant. ) fraguar; prov. lo mismo; fr. ant. lo mismo; hoy bâtir , edificar. Si el sentido es pues edificar, de ahí se pasó á fraguar (fabricar), y de ahí á disponer, aparejar. Abastar es de formación neta castellana sin conexión inmediata con abastecer ; pero es de creerse que su semejanza con éste ha influído no poco en determinar el sentido de proveer y la construcción con de .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: abastezco; abastezc-a, as, a, amos, áis, an . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

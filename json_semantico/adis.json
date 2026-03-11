@@ -1,0 +1,253 @@
+{
+  "lema": "ADIÓS.",
+  "categoria_gramatical": "",
+  "introduccion": "ADIÓS.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Expresión de que se usa para despedirse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pues entre ésas [señoras], dijo D. Quijote, debe de estar, amigo, esta por quien te pregunto. Podría ser, respondió el mozo, y adiós, que ya viene el alba; y dando á sus mulas no atendió á más preguntas.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 9 (R. 1. 422 1 )."
+        },
+        {
+          "texto_cita": "«No me puedo detener, señor --- porque las armas que veis que aquí llevo han de servir mañana, así me es forzoso el no detenerme, y adiós.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 24 (R. 1. 455 2 )."
+        },
+        {
+          "texto_cita": "«Adiós, mis pobres vasallos, | Adiós para siempre, adiós.»",
+          "autor": "Lope",
+          "referencia_obra": ", Porfiando vence amor, 3. 4 (R. 41. 251 1 )."
+        },
+        {
+          "texto_cita": "«Adiós, doña Ana. | — Id con Dios.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", La culpa busca la pena, 1. 3 (R. 20. 196 2 )."
+        },
+        {
+          "texto_cita": "«No me digas más, deténte. | Pues mis celos no me obligan, | Dí á tu amor que no se queje. | Para siempre adiós, Crotaldo. | — Diana, adiós para siempre.»",
+          "autor": "Cald.",
+          "referencia_obra": "La señora y la criada, 1. 22 (R. 9. 34 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se usa como sust. masc.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quizá lograréis que ceda | A vuestro ruego, ó le dais | El último adiós siquiera.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La niña en casa, 3. 11 (3. 120)."
+            },
+            {
+              "texto_cita": "«Un adiós á la hermosa | Di que es de mis ojos luz.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Los amantes de Teruel, 1. 4 (4)."
+            },
+            {
+              "texto_cita": "«La hora llegó de que tu adiós reciba.»",
+              "autor": "",
+              "referencia_obra": "Id . Doña Mencía, 2. 13 (42)."
+            },
+            {
+              "texto_cita": "«Oh! cuánto fuera mi consuelo, cuánto! | Si en esa nave huyéramos los dos! | Oh! si á este suelo, donde sufro tanto, | Pudiera darle mi postrer adiós!»",
+              "autor": "V. de la Vega",
+              "referencia_obra": ", Poes . (600)."
+            },
+            {
+              "texto_cita": "«Estos cantos | Con que del templo la anchurosa mole | Temblando toda en rededor retumba, | Su despedida son, son sus adioses, | El largo adiós final.»",
+              "autor": "Cienf.",
+              "referencia_obra": "La escuela del sepulcro (R. 67. 30 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Empléase también para saludar, si bien parece no ser usual entre las personas de esmerada educación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Simón, ¿tú por aquí? — Adiós, Calamocha. ¿Cómo va?»",
+              "autor": "Mor.",
+              "referencia_obra": "El sí de las niñas, 2. 10 (R. 2. 430 2 )."
+            },
+            {
+              "texto_cita": "«¡Qué veo! ¡La tía Macaria! | — Adiós, Quiteria.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Medidas extraordinarias, 9 (2. 263)."
+            },
+            {
+              "texto_cita": "«Adiós, chico. | — ¡Diablo! — ¿Te asustas? — Y ¿cómo | Has entrado?»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, El tejado de vidrio, 4. 2 (2 180)."
+            },
+            {
+              "texto_cita": "«Bien venido. — Adiós, Elena.»",
+              "autor": "Núñez",
+              "referencia_obra": "de Arce, Quien debe paga, 1. 13 (137) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Se usa apostrofando objetos inanimados de que uno se separa ó á que tiene que renunciar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Adiós, gracias; adiós, donaires; adiós, regocijados amigos, que yo me voy muriendo y deseando veros presto contentos en la otra vida.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Pers. pról. (R. 1. 560)."
+        },
+        {
+          "texto_cita": "«Adiós, designios de Auristela; adiós, bien fundados designios; sosegaos, pasos tan honrados como santos, no esperéis otros mauseolos, ni otras pirámides ni agujas que las que os ofrecen esas mal breadas tablas.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 24 (R. 17. 388 1 )."
+        },
+        {
+          "texto_cita": "«Adiós, pobre pescador; | Adiós, red, adiós barquilla; | Que ya no hay en esta orilla | Sino vasallos de amor.»",
+          "autor": "Arriaza",
+          "referencia_obra": ", idil . 1 (1. 67. 47 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Sin que haya apóstrofe verdadera, se emplea para dar á entender que se reputa por perdida ó arruinada alguna cosa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La justicia oye el ruido, | Viene corriendo, y adiós, | Boca y narices.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", La cueva de Salamanca, 1 (R. 20. 84 1 )."
+        },
+        {
+          "texto_cita": "«¡Pobre lechera! | ¡Qué compasión! Adiós, leche, dinero, | Huevos, pollos, lechón, vaca y ternero.»",
+          "autor": "Saman.",
+          "referencia_obra": "Fáb. 2. 2 (R. 61. 362 2 )."
+        },
+        {
+          "texto_cita": "«Adiós, exclamó el Lobo, mi esperanza | De regalar á mi vacía panza.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2. 18 (R. 61. 365 2 )."
+        },
+        {
+          "texto_cita": "«Y cuando, ves [Parca cruel], algún clavel divino, | Alguna rosa que el materno encierro | Rompe sobre las otras olorosa, | Adiós clavel, adiós fragante rosa.»",
+          "autor": "Arriaza",
+          "referencia_obra": ", Cant. lír . 9 (R. 67. 109 2 )."
+        },
+        {
+          "texto_cita": "«Si amistad se vuelve amor, | Adiós quietud de la vida.»",
+          "autor": "",
+          "referencia_obra": "Id. Compos. var . 15 (R. 67. 142 1 )."
+        },
+        {
+          "texto_cita": "«Se atraviesa don Claudio, habla de amores, | adiós vocación y fingimientos.»",
+          "autor": "Quint.",
+          "referencia_obra": "Juicio de La mojigata (R. 67. 192 1 )."
+        },
+        {
+          "texto_cita": "«¿Adónde iríamos á parar --- si llamasen los príncipes coacción y violencia la inferioridad en que á veces se encuentran, ya en fuerzas, ya en opinión, para resolver sus negocios? Adiós todos los tratados de paz que se han hecho en el mundo, todas las convenciones que las naciones han hecho recíprocamente entre sí.»",
+          "autor": "",
+          "referencia_obra": "Id. Cartas á L. Holland , 8 (R. 19. 573 1 )."
+        },
+        {
+          "texto_cita": "«Adiós crédito, confianza, pensamientos útiles, proyectos grandiosos y atrevidos, todo cesa, todo muere.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 2 (R.19. 544 2 )."
+        },
+        {
+          "texto_cita": "«Cuando la yerta mano del fatalismo ateo comprime los corazones, adiós para siempre las virtudes, la moral y el entusiasmo, que con la esperanza engendran los actos nobles y generosos; adiós para siempre los brillantes productos de la imaginación; adiós las magníficas creaciones del ingenio; adiós los lazos que unen al hombre con el hombre.»",
+          "autor": "A. Durán",
+          "referencia_obra": ", Examen de El condenado por desconfiado (R. 5. 721 2 )."
+        },
+        {
+          "texto_cita": "«El afán político llegó á dominar la sociedad entera, y cuando esto sucede, adiós el entusiasmo de las artes, adiós los puros y nobles deleites de las letras.»",
+          "autor": "Cueto",
+          "referencia_obra": ". Bosquejo hist. 17 (R. 61, CCII)."
+        },
+        {
+          "texto_cita": "«¡Adiós mi carrera artística | Si de vieja cobro fama!»",
+          "autor": "Bretón",
+          "referencia_obra": ", La redacción de un periódico , 2. 2 (2. 88)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Usase interjectivamente para explicar que no se puede evitar ya naturalmente una desgracia.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y al cabo, si el gobierno quiere verlo todo, intervenir en todo y regularlo todo por sí; si confía á la fuerza el tráfico y la provisión de los mercados, adiós, todo se ha perdido.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Ley agraria, 1ª clase (R. 50. 112 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Nota.",
+      "definicion": "La Academia no admite otra ortografía que A Dios , la cual es también la que se encuentra en todos los libros un poco antiguos, y representa por elipsis la frase completa A Dios te dejo, os dejo ó encomiendo. No obstante, el uso general hoy es escribir esta expresión como una sola palabra, á semejanza del port. adeos, adeus, fr. adieu, it. addio; y cuando ocurre usar el plural, no cabría hacerlo de otro modo. Al adoptar esta ortografía no se ha reparado en la dificultad que ofrecen los casos en que se conserva el valor individual de cada uno de los componentes, como en la frase Quedad á Dios, y cuando en la respuesta se hace referencia al nombre de Dios que se acaba de oír. Para hacer patente esto, los ejemplos siguientes van reducidos á la ortografía académica.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Oh mundo, quedaos á Dios; heredades, y hacienda mía, quedaos á Dios; amigos, y mujer, y hijos míos, quedaos á Dios; que ya en carne mortal no nos veremos jamás.»",
+          "autor": "Gran.",
+          "referencia_obra": "Orac. y consid. 1 , miérc. en la noche (R. 8. 36 2 )."
+        },
+        {
+          "texto_cita": "«Quédate á Dios, ¡oh cristalina fuente! | Harto tiempo mi llanto has conocido, --- | Quédate á Dios; no quiero yo se cuente | Que turbar tu reposo he pretendido.»",
+          "autor": "Arriaza",
+          "referencia_obra": ", son . 11 (R. 67. 55 2 )."
+        },
+        {
+          "texto_cita": "«Floridos llanos, cristalino Tormes, | Quedad por siempre á Dios; dulces amigos, | A Dios quedad, á Dios.»",
+          "autor": "Mel.",
+          "referencia_obra": "égl . 5 (R. 63. 182 2 )."
+        },
+        {
+          "texto_cita": "«A Dios quedad, altas cumbres, | Y así del rayo enemigo | Vuestros verdes troncos sean | Siempre respetado asilo.»",
+          "autor": "Lista",
+          "referencia_obra": ", rom . 8 (R. 67. 343 2 )."
+        },
+        {
+          "texto_cita": "«A Dios vais, señor, dijo Anselmo. Con él quedeis, respondió el ciudadano, y fuese.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 35 (R. 1. 354 1 )."
+        },
+        {
+          "texto_cita": "«Gente viene. — Anarda, á Dios; | Que miro por vuestra fama. | — Así obliga quien bien ama. | — A Dios. — El vaya con vos.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", Los favores del mundo, 2. 8 (R. 20. 11 1 )."
+        },
+        {
+          "texto_cita": "«Quedaos á Dios. — A él suplico | Que vida inmortal os dé.»",
+          "autor": "",
+          "referencia_obra": "Id. La cueva de Salamanca, 1 (R. 20. 88 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se despidió el caballero é dijo: Adios quedéis, que yo voy á la mas esquiva prision que nunca hombre tuvo .»",
+          "autor": "Am. de Gaula",
+          "referencia_obra": ", 1. 29 (R. 40. 71 1 )."
+        },
+        {
+          "texto_cita": "«A Dyos, flor de asusena, | Duela vos de 'sta pesquisa.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 617. \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

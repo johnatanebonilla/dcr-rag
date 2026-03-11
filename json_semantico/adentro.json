@@ -1,0 +1,502 @@
+{
+  "lema": "ADENTRO.",
+  "categoria_gramatical": "adv.",
+  "introduccion": "--> adv.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Señalando la dirección del movimiento:",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hacia lo interior.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo me voy adentro á hacer los oficios divinos y cumplir los votos que son hechos. Villalobos, Anfitrión (R. 36. 478 1 ).",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Los saguntinos, por no ser bastantes para defender la entrada, se retiraron más adentro.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 2. 9 (R. 30. 40 1 )."
+        },
+        {
+          "texto_cita": "«Quiero la casa también, | Y entré adentro á verla bien.»",
+          "autor": "Lope",
+          "referencia_obra": ", S. Diego de Alcalá, 1 (R. 52. 520 1 )."
+        },
+        {
+          "texto_cita": "«Metióse con esto adentro, | Y entrando de en uno en uno, | No vieron salir ninguno.»",
+          "autor": "Tirso",
+          "referencia_obra": ", El pretendiente al revés, 1. 12 (R. 5. 28 3 )."
+        },
+        {
+          "texto_cita": "«Retiraos todos adentro.»",
+          "autor": "Mto.",
+          "referencia_obra": "El valiente justiciero, 1. 13 (R. 39. 337 1 )."
+        },
+        {
+          "texto_cita": "«¿Vienes adentro, Isabel?»",
+          "autor": "Mor.",
+          "referencia_obra": "El viejo y la niña, 2. 10 (R. 2. 348 1 )."
+        },
+        {
+          "texto_cita": "«Vén adentro; que no es bien | Exponerse á que te vea | Mi hermano al volver.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 3. 12 (R. 2. 353 2 )."
+        },
+        {
+          "texto_cita": "«Vé adentro, recoge todos | Mis papeles en la caja.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 4 (R. 2. 340 1 )."
+        },
+        {
+          "texto_cita": "«Vaya usted adentro, niña; usted no debe asistir á pláticas tan indecentes.»",
+          "autor": "",
+          "referencia_obra": "Id. La escuela de los maridos , 1. 2 (R. 2. 446 1 )."
+        },
+        {
+          "texto_cita": "«Conocida la voz de Pedro, fue tanto su gozo, que, en lugar de abrir, corrió adentro con la nueva de que Pedro estaba á la puerta.»",
+          "autor": "Amat",
+          "referencia_obra": ", Hechos apost. 12. 14 (En la ed. de París, 1852, se lee á dentro: ortografía inaceptable.)."
+        },
+        {
+          "texto_cita": "«Suspendieron el salir, y, al revés, se volvieron adentro.»",
+          "autor": "A. Galiano",
+          "referencia_obra": ", Recuerdos, p. 308."
+        },
+        {
+          "texto_cita": "«Vamos, vamos adentro.| Oirá usted maravillas.»",
+          "autor": "Bretón",
+          "referencia_obra": ", Los dos sobrinos, 3. 4 (1. 37)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Júntase á los adverbios acá, aquí, allá, etc. para precisarlos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vénte conmigo allá adentro.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña, 2. 10 (R. 2. 348 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Su rostro mira, y adelante pasa; | Que importa que penetres más adentro: | Contempla, amando, su beldad sin tasa.»",
+          "autor": "Hojeda",
+          "referencia_obra": ", Crist. 9 (R. 17. 475 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Se usa para reforzar y especificar ciertos complementos generalmente formados con las preposiciones de ó por.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Hizo Carrizales un sermón encargándoles la guarda de Leonor, y que por ninguna vía ni en ningún modo dejasen entrar á nadie de la segunda puerta adentro.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov. 7 (R. 1. 173 2 )."
+        },
+        {
+          "texto_cita": "«Nada bueno le puede entrar de los dientes adentro.»",
+          "autor": "Quev.",
+          "referencia_obra": "Visita (R. 23. 336 2 ). —"
+        },
+        {
+          "texto_cita": "«Juntó un ejército por tierra, y con él rompió por aquellas tierras adentro hasta los bosques de Castulón.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 2. 13 (R. 30. 44 1 )."
+        },
+        {
+          "texto_cita": "«Crecieron las fuerzas de Barbarroja; extendióse por la tierra adentro su poder.»",
+          "autor": "Mend.",
+          "referencia_obra": "Guerra de Granad. 2 (R. 21 . 94 2 )."
+        },
+        {
+          "texto_cita": "«Entrábamos hartas veces por aquellas cuevas adentro, bajando por unos subterráneos muy hondos.»",
+          "autor": "",
+          "referencia_obra": "Sig . Vida de S. Jer . 1. 2 (25)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que os dejé, y me subí sobre las torres de la ambición y de la soberbia, se me han entrado por el alma adentro mil miserias.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 53 (R. 1. 517 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El complemento de puertas adentro se usa, así en lo propio como figuradamente, sin que intervenga verbo de movimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La buena mujer, cuanto para de sus puertas adentro ha de ser presta y ligera, tanto para fuera dellas se ha tener por coja y torpe.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 18 (R. 37. 241 1 )."
+            },
+            {
+              "texto_cita": "«Este mal vecino que tenemos de las puertas adentro siempre está deseando y apeteciendo todo lo que es en derecho de su dedo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 1. 3, § 2 (R. 8. 175 1 )."
+            },
+            {
+              "texto_cita": "«Siendo tantas las contradicciones que tiene la perfección de la virtud de nuestras puertas adentro — ¿cuánta fortaleza, cuánta diligencia, cuánta industria será necesaria para resistir á estos enemigos?»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 4, diál. 6 (R. 6. 560 1 )."
+            },
+            {
+              "texto_cita": "«Así sabréis lo que pasa | Desta puerta adentro vos.»",
+              "autor": "Lope",
+              "referencia_obra": ", La discreta enamorada, 2. 11 (R. 24. 166 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "La íntima conexión que en el caso anterior contrae el adv. con el nombre que figura en el complemento, ha sido causa de que asuma el carácter de prep. pospuesta (véase ABAJO, ADELANTE, etc.).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Determinamos de entrarnos la tierra adentro, pues no podría ser menos sino que presto descubriésemos quien nos diese noticia della.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 41 (R. 1 373 2 )."
+        },
+        {
+          "texto_cita": "«Fue parecer del marinero que nos entrásemos el río adentro.»",
+          "autor": "",
+          "referencia_obra": "Id. Pers. 2. 11 (R. 1. 604 2 )."
+        },
+        {
+          "texto_cita": "«De allí hacia Lenguadoc la tierra adentro | La quietud saltearon del camino.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 5 (R. 17. 187 2 )."
+        },
+        {
+          "texto_cita": "«Aquella punta que la mar adentro | De hermosa población rompe cargada, --- Es Tarragona.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 16 (R. 17. 310 1 )."
+        },
+        {
+          "texto_cita": "«Ya han retrocedido las playas dejando nuevas ensenadas y ancones, ya han entrado mar adentro formando nuevos cabos y promontorios.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Viaje al Vesubio (5. 306)."
+        },
+        {
+          "texto_cita": "«Dejando la ribera, entramos tierra adentro por las cercanías de Pompeya.»",
+          "autor": "",
+          "referencia_obra": "Id. Viaje á Pesto (5. 311)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "La expresión tierra adentro ofrece estas particularidades:",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Admite un complemento con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En balde quisieron persuadirle sus consejeros y capitanes que la devastación del país, la escasez de comestibles, las enfermedades pestilenciales, las continuas correrías del enemigo, la comodidad, conservación y seguridad de su augusta persona exigian se retirase tierra adentro de sus dominios.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat ( Mem. Acad. Hist. 6. 8)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Perdido el sentido de dirección, se toma por El interior de la tierra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A los venidos de tierra adentro hubo de ser objeto de pasmo y terror espectáculo tan horrible y grandioso.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 152."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Puertas adentro se usa igualmente, tanto en sentido propio como figurado, sin que el verbo á que se junta exprese movimiento: En lo interior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No temeré el perderle, | Si le amo puertas adentro.»",
+              "autor": "Tirso",
+              "referencia_obra": ", No hay peor sordo... 3. 3 (R. 5. 279 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué más dicha que vuestra alma | Me estime puertas adentro?»",
+              "autor": "",
+              "referencia_obra": "Id . El amor y el amistad , 2. 11 (R. 5. 337 2 )."
+            },
+            {
+              "texto_cita": "«Pues no os permiten los labios, | Dad voces puertas adentro.»",
+              "autor": "",
+              "referencia_obra": "Id. Amar por arte mayor, 2. 13 (R. 5. 433 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Denotando la parte en que se halla ó se verifica algo:",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En lo interior.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La parte exterior [de la Porta Stuppa en Verona] es más elegante; la que mira á la ciudad es toda almohadillada, de carácter robusto y sencillo, y en mi opinión debería ser al contrario: la elegancia adentro, y la robustez afuera.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 1, p. 451."
+        },
+        {
+          "texto_cita": "«¿No veis qué serio estoy? Pues no os espante | La adusta gravedad de mi persona, | Que adentro tengo el alma juguetona.»",
+          "autor": "",
+          "referencia_obra": "Id. son. 11 (R. 2. 598 1 )."
+        },
+        {
+          "texto_cita": "«Consta que en la Bética, hoy Andalucía, hobo dos pueblos llamados Murgis, el uno á la ribera del mar, que ho se llama Muxacra, y el otro más adentro en la tierra, al cual hoy llaman Murga.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 1. 10 (R. 30. 12 2 )."
+        },
+        {
+          "texto_cita": "«Con gran pertinacia y poco miedo | De morir más adentro procuraba.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc. 19 (R. 17. 73 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Júntase á adverbios como aquí, allá etc. para especificarlos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo le llevo, y de aquí adentro | Al cielo le he de enviar.»",
+              "autor": "Monteser",
+              "referencia_obra": ", El caballero de Olmedo , 2 (R. 49. 166 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Puede ir precedido de preposiciones como de, para, desde, pero no de á.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La oscuridad densísima de adentro | Era cosa que puso espanto y grima | Al corazón más bravo y más valiente.»",
+              "autor": "Mosq.",
+              "referencia_obra": "1 (R. 17. 574 1 )."
+            },
+            {
+              "texto_cita": "«Tomad la llave vos misma | Y cerraréis por adentro.»",
+              "autor": "Cald.",
+              "referencia_obra": "No hay cosa como callar, 1. 18 (R. 7. 555 2 )."
+            },
+            {
+              "texto_cita": "«Saque usted la cabeza, y veamos | Si es bonito ó feo. | — No presumo de mozo gallardo, | Respondió el de adentro, | Y aun por eso á salir á lo claro | Apenas me atrevo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Fáb. 61 (1. 97)."
+            },
+            {
+              "texto_cita": "«Yo vi en Madrid | Llevar algunos cocheros | Un cordón de seda atado, | Y tirarles desde adentro | Del coche para llamarlos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Los celos infundados, 1. 13 (3. 163)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Admite un complemento con de, como si se dijera en el interior de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue el año estéril, y si estaba mala la Andalucía, peor cuanto más adentro del reino de Toledo.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 2. 2 (R. 3. 219 2 )."
+            },
+            {
+              "texto_cita": "«Con intento de visitar á su maestro, que estaba muy adentro de Francia, partió para ella.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 4. 4 (R. 30. 94 1 )."
+            },
+            {
+              "texto_cita": "«Envió á Firmino, hijo de Firmo á predicar el evangelio en lo más adentro de Francia.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 . 3 (R. 30. 90 2 )."
+            },
+            {
+              "texto_cita": "«Pensaron que por falta de vituallas huían y se retiraban á lo más adentro de la provincia.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 11. 24 (R. 30. 337 2 )."
+            },
+            {
+              "texto_cita": "«Tiene algo que la aprieta | Más adentro del cartón.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Por el sótano y el torno, 3. 6 (R. 5. 243 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Se usa para ponderar la íntima confianza ó entrada que se tiene en alguna casa: El es muy de adentro. Lo dijo persona muy de adentro.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿De quién lo sabes? — ¿De quién? | De persona muy de adentro.»",
+          "autor": "Monteser",
+          "referencia_obra": ", El caballero de Olmedo , 2 (R. 49.166 2 ) . ( Dicc. Autor .)."
+        },
+        {
+          "texto_cita": "«Si vos | Le asistís [al rey], y es tan adentro | Que me hagáis ser escuchado, | Os deberé mi remedio.»",
+          "autor": "Mto.",
+          "referencia_obra": "El valiente justiciero, 1. 8 (R. 39. 334 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "met. Se usa el plural adentros ( cp. cercas , lejos , afueras ) para expresar lo interior y oculto del ánimo, en contraposición á lo que se expresa ó aparece fuera.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No respondió Fernando, si bien admiró en sus adentros los bríos de aquel mozo.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", H. P. del Pulgar (4. 26)."
+        },
+        {
+          "texto_cita": "«Ocioso fuera detenernos á examinar si le pesó á Bonaparte, ó si por el contrario se holgó en sus adentros, de la repulsa que recibió por parte del gobierno británico.»",
+          "autor": "",
+          "referencia_obra": "Id. Esp. del siglo, 7. 12 (6. 174)."
+        },
+        {
+          "texto_cita": "«Ha sufrido en sus adentros | El martirio... se notaba | Que estaba el pobre violento.»",
+          "autor": "",
+          "referencia_obra": "Id. Los celos infundados, 1. 3 (3. 150)."
+        },
+        {
+          "texto_cita": "«Si usted siente en sus adentros | La más leve repugnancia, | Dígalo usted.»",
+          "autor": "",
+          "referencia_obra": "Id. La boda y el duelo, 1. 5 (3. 443)."
+        },
+        {
+          "texto_cita": "«Haciendo mi examen de conciencia, y buscando en mis adentros qué motivo pudo inducirme --- á jugar con gravísimo peligro mi vida, y mi situación y esperanzas, podría caer en la tentación --- de reputarme á manera de un Santo en lo político.»",
+          "autor": "A. Galiano",
+          "referencia_obra": ", Recuerdos, p, 332."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pero desta condicion de la gente comun, que nunca miran mucho adentro, era mucho amado en Sevilla y en su tierra.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 14 (R. 68. 706 1 )."
+        },
+        {
+          "texto_cita": "«Como la goleta fue a tierra, el mar la tornaba adentro.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 76. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Muchas veces avia el rey defendido que ningunos del real non entrasen de la barrera adentro para pelear con los moros sin su mandado.»",
+          "autor": "",
+          "referencia_obra": "Crón. Alf XI , 305 (R. 66. 369 1 )."
+        },
+        {
+          "texto_cita": "«Et los del rey llegaron feriendo en ellos fasta que los encerraron por el postigo adentro.»",
+          "autor": "",
+          "referencia_obra": "Ib. 157 (R. 66. 275 1 )."
+        },
+        {
+          "texto_cita": "«Llegaron con ellos fasta que los metieron por la puerta adentro.»",
+          "autor": "",
+          "referencia_obra": "Ib. 156 (R. 66. 275 1 )."
+        },
+        {
+          "texto_cita": "«De llaga que fuere fecha en los pechos, et pasare adentro, lo primero la llaga sea trasquilada.»",
+          "autor": "",
+          "referencia_obra": "Mont. Alf. XI, 2. 12 ( Bibl. venat. 1. 145). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Deben asentar la hueste en tal logar que se hayan todavía ante á acercar á los enemigos para apoderarse dellos ó facerles mal, que non meterla primeramente tan adentro que hayan despues á tirarla afuera.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 23. 23 (2. 248)."
+        },
+        {
+          "texto_cita": "«Debe fincar moiones, e quanto fuer de los moiones adentro deve ser del señorío.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 2. 1. 4 (63)."
+        },
+        {
+          "texto_cita": "«Iaga encerrado un año de su puerta adentro.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Escalona, año 1226 ( Muñoz , F . 490)."
+        },
+        {
+          "texto_cita": "«Quando querie a dentro entrar, | A riedro la fazien tornar.»",
+          "autor": "S. M. Egipc.",
+          "referencia_obra": "(R. 57. 310 2 )."
+        },
+        {
+          "texto_cita": "«Metiol por la carne adentro la lança con el pendon.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3682 (R. 57. 37 2 )."
+        },
+        {
+          "texto_cita": "«Los moros de Marruecos caualgan a uigor. | Por las huertas adentro están sines pauor.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1672 (R. 57. 19 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Infanzones qui intrarent en termino de Ucles de los moiones adentro, tales foros habeant quomodo alios vicinos de Ucles.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Ucles, año 1179 ( Llor. Prov. Vasc . 4. 241)."
+        },
+        {
+          "texto_cita": "«Et de sua porta adentro si habuerit homines --- De sua alizaz adentro ---»",
+          "autor": "Fuero",
+          "referencia_obra": "de Marañon , año 1130 (?) ( Muñoz , F. 497)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á, que expresa la dirección del movimiento, y dentro . Port. adentro ; it. adentro , addentro . Pudiera creerse que es compuesto de ad y entro; pero como dentro es voz antigua también, la composición es análoga á la de afuera, adelante . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

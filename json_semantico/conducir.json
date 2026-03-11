@@ -1,0 +1,501 @@
+{
+  "lema": "CONDUCIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ".",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Ir hacia un paraje con una ó más personas dirigiéndolas ó gobernándolas ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Una estrella nos guía; un amigo nos conduce.»",
+              "autor": "Huerta",
+              "referencia_obra": ", Sinón. 31 ."
+            },
+            {
+              "texto_cita": "«Una columna de fuego guió á los israelitas en el desierto; Moisés los condujo á la tierra prometida, y los reyes de Babilonia los llevaron en cautiverio.»",
+              "autor": "Mora",
+              "referencia_obra": ", Sinón. p. 81."
+            },
+            {
+              "texto_cita": "«Mandó luégo al uno de aquellos dos príncipes sus colaterales que se quedase para conducir y acompañar á Hernán Cortés hasta su alojamiento.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 10 (R. 28. 280 2 )."
+            },
+            {
+              "texto_cita": "«Eufemo, el hijo claro de Treceno | nieto del gran Ceas, conducía | Los Cicones, soldados aguerridos.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 2 (1. 72)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conducidos por Aquiles, | Venido habían en cincuenta naves.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 2 (1. 64)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para señalar el lugar adonde se va.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿A qué piensas, barquilla --- | Que cisne te conduzgo á esta ribera? | A cantar dulce, y á morirme luégo.»",
+              "autor": "",
+              "referencia_obra": "Góng . Soled. 2 (R. 32 . 474 1 )."
+            },
+            {
+              "texto_cita": "«Finge el autor que, hallándose dormido, se le apareció una mujer, armada como figuran á Belona, y que conduciéndole á una altura, le representó durante el sueño aquel suceso memorable.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa , Poes. ép. (2. 33)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El obispo desde aquel día fatal se propuso en su corazón renunciar á conducir un rebaño tan indócil y turbulento.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 468 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á los negocios etc., Dirigir, encaminar, guiar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El vecino de Fromista ó de Monzón, que conduzca sobre las orillas del canal de Castilla una labor de esta clase, sembrando sus tierras de año y vez, ¿podrá hallar en el riego suficiente recompensa del aumento de gasto y trabajo que exige?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1 a . clase (R. 50. 90 2 )."
+            },
+            {
+              "texto_cita": "«Siglos ha que este sistema preside á los tratados de paz y conduce las negociaciones políticas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2 a . clase (R. 50. 120 2 )."
+            },
+            {
+              "texto_cita": "«A conducir las primeras operaciones con la presteza y resolución con que habían realizado su armamento, el honor de la campaña era suyo.»",
+              "autor": "Quint.",
+              "referencia_obra": "Obr. ínéd . p. 146."
+            },
+            {
+              "texto_cita": "«No le faltaba destreza para conducir sutilmente una intriga, cuando la ocasión lo requería.»",
+              "autor": "",
+              "referencia_obra": "Id. D. Álv. de Luna (R. 19. 415 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El público ha juzgado ya que la comedia de El viejo y la niña tiene toda la acción que basta para excitar su atención, y que está conducida y desatada, como las demás del autor, con la inteligencia necesaria para merecer su aplauso.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 66."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo se diferenciaban en el modo de conducir al deseado fin una empresa tan ardua y de tanta importancia.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 8 (R. 28. 121 1 )."
+            },
+            {
+              "texto_cita": "«Mucho adelantan las cosas semejantes tratos, si bien piden prudencia para saber entrar en ellos y conducirlos al efecto.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2 (R. 28. 17 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Daba por acabadas y á felice fin conducidas cuantas aventuras pudiesen sucederle de allí adelante.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 16 (R. 1. 434 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Refl. Manejarse, portarse, comportarse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Una niña bien educada, hija de buenos padres, no puede menos de conducirse en todas ocasiones como es conveniente debido.»",
+          "autor": "Mor.",
+          "referencia_obra": "El sí de las niñas, 1. 3 (R. 2. 421 2 )."
+        },
+        {
+          "texto_cita": "«Lejos de conducirse por estas máximas, se hizo todo lo contrario.»",
+          "autor": "Clem.",
+          "referencia_obra": "Elog. de Is. la Cat. ilustr. 11 ( Mem. Acad. Hist . 6. 276) ."
+        },
+        {
+          "texto_cita": "«Sabemos más, si se quiere; tenemos menos preocupaciones; pero nos conducimos peor en las relaciones sociales.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos, 2 , p. 198."
+        },
+        {
+          "texto_cita": "«Cuando era necesaria mayor diligencia en gobernar, mayor circunspección en conducirse, entonces se dio la señal entre nosotros á todos los caprichos de la arbitrariedad.»",
+          "autor": "Quint.",
+          "referencia_obra": "Meléndez (R. 19. 116 1 )."
+        },
+        {
+          "texto_cita": "«En fin, se condujo con tal humanidad y cortesía, que los hizo suyos [á los prisioneros] en gran parte.»",
+          "autor": "",
+          "referencia_obra": "Id. Pizarro (R. 19. 352 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Siendo sujeto un nombre de cosa, Ser causa de que una persona ó cosa llegue á cierto estado ó paradero ( trans. ). Con á.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su afabilidad y hermosura atrae los corazones de los que la tratan á servirla y amarla; pero su desdén y desengaño los conduce á términos de desesperarse.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 12 (R. 1. 277 2 )."
+            },
+            {
+              "texto_cita": "«Puede esta imaginación mía conducirme a más desesperados términos.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 3. 4 ( Obr. suelt . 7. 209)."
+            },
+            {
+              "texto_cita": "«Al vencedor gazano | Condujo á triste fin femenil mano.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1 , No te engañe el dorado (4. 317) ."
+            },
+            {
+              "texto_cita": "«Mas al fin me conduce á obedecerte | La lástima que tengo á tu cuidado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse , 2. 11 (R. 20. 110 3 )."
+            },
+            {
+              "texto_cita": "«La vida eterna, con las buenas obras que nos conducen á ella, nos ha sido preparada de toda eternidad por una misericordia enteramente gratuita.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Pablo, Rom. 6. 23, nota."
+            },
+            {
+              "texto_cita": "«¿Qué de objetos, agitaciones y sentimientos, qué de revoluciones, acaecimientos y conflictos no presenta el orden natural y moral de las cosas, para interesar y mover el corazón humano, y conducir los hombres á la virtud y al bien?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect . 2 (R. 46. 497 1 )."
+            },
+            {
+              "texto_cita": "«Las miserias públicas debían despertar alguna vez al patriotismo y conducirle á la indagación de la causa y el remedio de tantos males.»",
+              "autor": "",
+              "referencia_obra": "Id . Elog. de Carlos III (R. 46. 313 1 )."
+            },
+            {
+              "texto_cita": "«En el corto período que sucedió desde su erección hasta el día, se ha escrito más y mejor que en los dos siglos que le precedieron, sobre los objetos que pueden conducir una nación á su prosperidad.»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria , 2 a . clase (R. 50. 126 2 )."
+            },
+            {
+              "texto_cita": "«Y canta las virtudes inocentes | Que hacen al hombre justo, y le conducen | A eterna bienandanza.»",
+              "autor": "",
+              "referencia_obra": "Id. epist. á sus amig. de Salam. (R. 46. 38 2 )."
+            },
+            {
+              "texto_cita": "«¡Hado cruel que á enemistad y fraude | susto y guerra eterna le conduce!»",
+              "autor": "",
+              "referencia_obra": "Id. epíst. á Moratín (R. 46. 47 1 )."
+            },
+            {
+              "texto_cita": "«En el mundo político, la ignorancia conduce necesariamente las naciones á la inferioridad, y tarde ó temprano á la pérdida de su independencia.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat . ( Mem. Acad. Hist . 6. 47)."
+            },
+            {
+              "texto_cita": "«Se ensanchaban mis ideas y me conducían al deseo de emprender un libro más digno de tan interesante argumento.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór. advert . (V)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A términos tan tristes conducido | Me tiene mi ventura, que yo temo | Al enemigo airado y ofendido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 3 (R. 1. 34 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Omitido el acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le facilitó los medios que conducían al fin determinado.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 5. 9 (R. 28. 357 1 )."
+            },
+            {
+              "texto_cita": "«Las varias partes á unidad reduzca --- | la que al fin propuesto no conduzca | Como inútil y frívola condene.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poét. 1 (1. 98)."
+            },
+            {
+              "texto_cita": "«Sin arte, | El huír de un defecto á otro conduce.»",
+              "autor": "",
+              "referencia_obra": "Id. Arte poétic. de Hor . (1. 270)."
+            },
+            {
+              "texto_cita": "«La anarquía conduce al despotismo, el despotismo engendra la anarquía.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest . 63 (4. 132)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dícese del camino ó comunicación que va á dar á tal ó cual parte. De ordinario se usa sin acus. alguno. Con á.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Stupiniggi dista tres millas y media de la ciudad: conduce á él un hemoso camino, ancho y recto, con varios árboles que le adornan.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 533."
+            },
+            {
+              "texto_cita": "«Vimos una luz en la galería que conduce á su habitación.»",
+              "autor": "",
+              "referencia_obra": "M. de la Rosa, La conjuración de Venecia , 2. 1 (3. 388)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El siguiente pasaje presenta un uso análogo, con acus. :",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Perdido y solo en las quiebras | Destas pardas peñas duras | --- me hallo, sin que encuentre | De humana planta ni bruta, | O vereda que me guíe, | O huella que me conduzga.»",
+              "autor": "Cald.",
+              "referencia_obra": "El conde Lucanor , 1 (R. 12. 417 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Ser á propósito para algún fin, servir, convenir ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que representan prescindirán de si el marqués de la Romana tuvo ó no autoridad para hacer lo que hizo; porque ¿á qué conduciría este examen?»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central, apénd. 10 (R. 46. 593 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Sin compl. alguno.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas tal vez no conduce | Que algún hecho en las tablas se practique; | Sino que al pueblo explique | Una fiel narración lo que no vea.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Arte poétic. de Hor. (4. 26)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En el lugar siguiente está empleado impropiamente por Referirse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Enseñarán con particular cuidado los regentes cuanto conduce al establecimiento de la Iglesia, su autoridad y jerarquía.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Regl. col. de Calatr. 2. 2. (R. 46. 204 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Llevar, transportar de una parte á otra ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Era [el ídolo] de figura humana y estaba sentado en una silla --- de cuyos lados salían cuatro varas con cabezas de sierpes, á que aplicaban los hombros para conducirle cuando le manifestaban al pueblo.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3 . 13 (R. 28. 286 1 )."
+            },
+            {
+              "texto_cita": "«Hizo juntar los indios de carga que habían de conducir el bagaje.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 4 . 7 (R. 28. 314 1 ).» Mandó fabricar un puente de vigas y tablones --- que fuese capaz de resistir al peso de la artillería, quedando en tal disposicion que le pudiesen mover y conducir hasta cuarenta hombres.» Id . ib. 4. 17 (R. 28. 333 1 )."
+            },
+            {
+              "texto_cita": "«Conducen [las mujeres] á los mercados distantes, sobre sus cabezas, efectos de comercio.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 34 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues ¿qué diremos de la fácilidad con que una reina ó emperatriz heredera se conduce en los brazos de un andante y no conocido caballero?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 47 (R. 1. 389 1 )."
+            },
+            {
+              "texto_cita": "«Como en esa vida trashumante á que se ha querido condenar á los españoles, no pueden conducirse los edificios, la máxima de arruinar los pueblos no ha ofrecido dificultad especial.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", Infidel. 6 (44) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al sepulcro le conducen | Cubierto de bellas flores.»",
+              "autor": "Mor.",
+              "referencia_obra": "Hamlet , 4. 12 (R. 2. 530)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aplicado á las aguas que son encaminadas por un canal, se acerca más al sentido primario.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los aplicaron --- á hacer diques para contener las aguas del Nilo y canales para conducirlas y regar los campos.»",
+              "autor": "Scío",
+              "referencia_obra": ", Ex . 1. 11, nota ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": ".",
+      "definicion": "Ajustar, concertar por precio ó salario ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Conduta: la provisión despachada por el consejo de guerra, para que el capitán conduzga y levante gente.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Otro [dice] que se conduzgan los alemanes. Otro, que con dinero se granjeen los helvecios.»",
+              "autor": "Quev.",
+              "referencia_obra": "Carta á Luis XIII (R. 23. 269 1 . Traduce á Tomás Moro:"
+            },
+            {
+              "texto_cita": "«Dum, alius consuluit conducendos germanos, alius pecunia demulcendos helveticos.»",
+              "autor": "",
+              "referencia_obra": ")"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mísero ganadero, á quien fortuna | Tiene por conducido jornalero | Al trabajoso oficio del ganado.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 2, canc . 3 (57)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. conduzir; cat. conduhir; prov . conduire, condurre; fr . conduire; it . condurre: del lat. conducere, guiar juntamente, reunir, tomar en alquiler, é intransítivamente, convenir; compuesto de cum , con, y ducere, guiar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares conduzco; conduzc-a, as, a, amos, áis, an; conduj-e, iste, o, imos, isteis, eron; conduj-ese, eses, ese, ésemos, eseis, esen; conduj-era, eras, era, éramos, erais, eran; conduj-ere, eres, ere, éremos, ereis, eren. Nuestros antiguos decían también conduzga por conduzca . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

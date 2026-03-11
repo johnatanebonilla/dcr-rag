@@ -1,0 +1,250 @@
+{
+  "lema": "DISTRIBUÍR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Dividir entre varios conforme á cierto designio ó regla ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como quien tiene un gran tesoro guardado, y desea que todos gocen déL, y le atan las manos para distribuírle.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Fund . 1 (R. 53. 182 1 )."
+            },
+            {
+              "texto_cita": "«No distribuía con justicia los premios.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 23 (R. 25. 64 1 )."
+            },
+            {
+              "texto_cita": "«La naturaleza ha distribuído sus dones con diferente medida.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria , 1ª. clase (R. 50. 111 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por él reinan los reyes; por su mano se distribuyen los cetros.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 60 (R. 25. 165 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con mis prendas nobles, | Mal distribuídas, | Dejó enriquecidas | Hayas, olmos, robles.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, end . 9 (83)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y esto hecho, distribuyó toda su hacienda á pobres.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 2. 16, § 5 (R. 6. 637 2 )."
+            },
+            {
+              "texto_cita": "«A toda esta gente distribuía las órdenes Gaspar Zapena.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 6 (R. 128. 77 1 )."
+            },
+            {
+              "texto_cita": "«Con leyes la gobierno, | Y domicilio á todos distribuyo.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 3 (3. 188)."
+            },
+            {
+              "texto_cita": "«Se mandó que todas las piezas se imprimieran traducidas en castellano para distribuírlas á los concurrentes en la primera noche de su ejecución.»",
+              "autor": "Mor.",
+              "referencia_obra": "Com. disc. prel . (R. 2. 314)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con entre , que realza el concepto de multiplicidad en los que reciben.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Distribuía cada día cien escudos de solo pan entre la gente más miserable.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 3 (R. 28. 32 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si se distribuyesen [los negocios] entre muchos, tendrían mejor y más breve despacho.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon . 1 (R. 25. 459 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dar á varias cosas colocación ó destino conforme á cierto plan ó designio ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Formaban sus escuadrones amontonando más que distribuyendo la gente.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 19 (R. 28. 228 2 )."
+            },
+            {
+              "texto_cita": "«Usa [Malón de Chaidé] de ornamentos poéticos sin dístribuírlos con la necesaria economía.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór . 530."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como suele en el cuerpo humano distribuírse el calor natural, saliendo del corazón en beneficio de los miembros más distantes.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 1. 5 (R. 28. 212 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar las partes ó grupos en que se divide la cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensando que las legiones pasaban por tres partes --- distribuyeron también su ejército en tres trozos.»",
+              "autor": "Valbuena",
+              "referencia_obra": ", César , Guerra de Francia , 7. 61 (1. 322)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por , para denotar el lugar ó espacio en que se disponen las varias cosas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gracias te doy, amantísimo Criador, por la hermosura que diste á tan innumerables estrellas, distribuyéndolas por el cielo con admirable concierto, dando á cada una su propio lugar.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 6. 22 (3. 384)."
+            },
+            {
+              "texto_cita": "«Nos ha parecido que conviene distribuír el estudio de la religión por todos los periodos de nuestro plan.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Moral relig . (R. 46. 258 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Forma [el nervio vago] en su trayecto diversos plexos y da muchos ramos que se distribuyen por los órganos siguientes---»",
+              "autor": "Acad.",
+              "referencia_obra": "sb. voc. nervio ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tenían para este efecto los reyes de Méjico grande prevención de correos distribuídos por todos los caminos principales del reino.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2. 2 (R. 28. 233 2 )."
+            },
+            {
+              "texto_cita": "«Tenía distribuídas por todas las poblaciones vecinas á la costa diferentes espías.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 1 (R. 28. 264 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Imp. Deshacer los moldes y repartir por su orden las letras á sus cajetines. Se usa como trans. y también en absol.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Era hombre liberal, así en el destribuir de los bienes como en los otros negocios que le ocurrian.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var . 5 (52)."
+        },
+        {
+          "texto_cita": "«En los arreos é otras cosas que fueron necesarias de se gastar é destribuir para tan grande acto, mostró bien la franqueza de su corazón.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 1 (12)."
+        },
+        {
+          "texto_cita": "«Quintales de oro fino se distribuían cada un año entre sus caballeros é criados.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , apénd . (394)."
+        },
+        {
+          "texto_cita": "«El Dador de las fórmas infunde y distribuye aquellas segun la disposicion de la materia.»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 4 (R. 36. 347 2 )."
+        },
+        {
+          "texto_cita": "«Departiendo las obras e distribuyendo el seruiçio.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis . 16 (101)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., prov. distribuir ; cat. distribuhir ; fr. distribuer; it. distribuire : del lat. distribuere , compuesto del prefijo dis , que denota división, y tribuere , dar, dispensar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares: distribuy-o , es , e , en ; distribuy-a , as , a , amos , áis , an ; distribuy-e tú . La y de otras inflexiones es la i inacentuada de la terminación: distribu-yó , distribu-yendo= part-ió , part-iendo .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La i va acentuada en las misinas inflexiones en que lo está en partir , y en estos casos forma sílaba separada tanto de la vocal precedente como de la siguiente, cuando la hay: distribu-ír =partir , distribu-í-a = partía , distribu-ído =partido . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

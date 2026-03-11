@@ -1,0 +1,760 @@
+{
+  "lema": "DESCENDER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. (Puede decirse que este verbo pertenece hoy exclusivamente al lenguaje literario.)",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Bajar, moverse en la dirección de alto á bajo, de un lugar alto á otro bajo ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como en hibierno descender la nieve | Tan sosegada vemos, que al sentido | Parece que ni baja ni se mueve.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Yo quiero , mi Fernando (R. 42. 348 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué nuncio divino | Desciende veloz, | Moviendo las plumas | De vario color?»",
+              "autor": "Mor.",
+              "referencia_obra": "La anunciación (R. 2. 607 2 )."
+            },
+            {
+              "texto_cita": "«No seré yo tan venturoso como lo fue mi señor D. Quijote de la Mancha cuando descendió y bajó á la cueva de aquel encantado Montesinos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 55 (R. 1. 520 1 )."
+            },
+            {
+              "texto_cita": "«No quiso descender á bajar del palafrén sino en los brazos del duque.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 31 (R. 1. 469 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Júntase con preposiciones de significación local para expresar la dirección del movimiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ella [la piedra] luégo por sí misma caerá y descendirá á lo bajo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4, diál. 5 (R. 6. 555 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué cosa más admirable que descendir el Espíritu Santo en forma visible sobre ellos ---?»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4, diál. 4, § 1 (R. 6. 553 2 )."
+            },
+            {
+              "texto_cita": "«No se desdeña de querer descendir á morar en una casa tan pobre como es el corazón del hombre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4, diál . 8, § 6 (R. 6. 578 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hombre azota á mi sagrado Verbo, | Por el hombre á la tierra descendido.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 7 (R. 17. 460 1 )."
+            },
+            {
+              "texto_cita": "«Conjeturo | Que una deidad del cielo descendida | Os los ha dado.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 10 (1. 306)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aplicado á lo inmaterial.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Toda buena dádiva desciende de El.»",
+              "autor": "Quev.",
+              "referencia_obra": "Peste 2 (R. 48. 111 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Ir, venir, andar desde un lugar á otro que esté más bajo ( intrans .). Con preposiciones de significación local.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De verte ó de oírte descender por la escalera parlan éstos lo que fingidamente han dicho.»",
+          "autor": "",
+          "referencia_obra": "Celest . 1 (R. 3. 12 1 )."
+        },
+        {
+          "texto_cita": "«De la torre al jardín se descendía | Por un secreto paso.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 23 (R. 17. 378 2 )."
+        },
+        {
+          "texto_cita": "«Parte el ligero rabicán corriendo --- | Tal vez al hondo valle descendiendo, | Y tal buscando la selvosa cumbre.»",
+          "autor": "Esquil.",
+          "referencia_obra": "Náp. recup. 5 (R. 29. 315 2 )."
+        },
+        {
+          "texto_cita": "«El doctor descendió á sus habitaciones del piso bajo.»",
+          "autor": "Valera",
+          "referencia_obra": ", Las ilusiones del Dr. Faustino , p. 334."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Nótese que en los siguientes pasajes se considera por una parte la nave más alta que la ribera, y por otra la tierra más alta que el mar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aportó á la ribera de Asia donde descendió con toda su gente.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab . 140 (58 1 )."
+            },
+            {
+              "texto_cita": "«Estos son los que descienden á la mar en navíos y ven las obras de Dios en las muchas aguas.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía, 1. 28, § 5 (R. 6. 109 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En el siguiente lugar significa Llegar por mar, aportar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si descendiera á España, hubiera en ella inmortales padrones de su asistencia y predicación.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 35 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Dícese de los líquidos, de las corrientes que fluyen hacia un lugar inferior ( intrans .). Con preposiciones de significación local.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Veo tus lágrimas mal sufridas descender por tu arrugada faz.»",
+          "autor": "",
+          "referencia_obra": "Celest . 20 (R. 3. 72 2 )."
+        },
+        {
+          "texto_cita": "«Que, rotas las prisiones de los hielos, | Al mar el agua sin parar desciende.»",
+          "autor": "",
+          "referencia_obra": "Esquil . Náp. recup. 11 (R. 29. 344 1 )."
+        },
+        {
+          "texto_cita": "«Del más vecino monte un río desciende.»",
+          "autor": "Figueroa",
+          "referencia_obra": ", eleg. Cerca del muro ( Fern. 52)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "En sentido análogo se dice de otras cosas que cuelgan ó se extienden de arriba abajo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las Guájaras, tres lugares pequeños --- puestos en el valle que desciende al puerto de la Herradura.»",
+              "autor": "",
+              "referencia_obra": "Mend . Guerra de Gran . 2 (R. 21. 82 1 )."
+            },
+            {
+              "texto_cita": "«Traía --- dos argollas á la garganta, la una en la cadena, y la otra de las que llaman guardaamigo, ó piedeamigo, de la cual descendían dos hierros que llegaban á la cintura.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 22 (R. 1. 304 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Ir de un lugar mediterráneo á la costa; ir á un lugar situado más abajo con respecto al curso de un río ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Bajando á Cesarea, saludó la iglesia, y descendió á Antioquía.»",
+          "autor": "",
+          "referencia_obra": "Quev . Vida de S. Pablo (R. 48. 35 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Pasar ó llegar á cosa menos elevada, importante ó decorosa ( intrans .). Con á , para expresar el objeto que se va á tratar ó presentar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ya que en el libro pasado alegamos tantas y tan graves razones para mover nuestro corazón al amor de la virtud, será razón que agora descendamos á la práctica y uso della.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 2, pról . (R. 6. 121)."
+        },
+        {
+          "texto_cita": "«Algunas veces también lo hace para que, quitándonos por esta vía la ocasión de entender en los ejercicios de la vida contemplativa, descendamos á la activa.»",
+          "autor": "",
+          "referencia_obra": "Id. Orac. y consid. 2. 4, § 1 (R. 8. 126 1 )."
+        },
+        {
+          "texto_cita": "«Si me es lícito descender á ejemplos de objetos bajos y humildes, pondré éste.»",
+          "autor": "Capm.",
+          "referencia_obra": "Filosof. eloc . 1. 3 (118)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con suj. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No pára [esa luz] en sólo el entendimiento, sino desciende á la voluntad.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 16 (R. 6. 58 1 )."
+            },
+            {
+              "texto_cita": "«Los párrocos --- ni pueden suplir enteramente el descuido de los padres, ni hacerlas descender [la enseñanza de la moral] individualmente á todos los feligreses.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Trat. de enseñ. Moral relig. (R. 46. 258 1 )."
+            },
+            {
+              "texto_cita": "«No han de existir [las novelas y el drama], ó tienen que descender al terreno del pueblo, adquiriendo las cualidades que á éste le agradan.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór. p. 223."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Pasar de lo general á lo particular ( intrans .). Con á (Cp. BAJO , 21, a).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los predicadores comúnmente no descienden á estas particularidades.»",
+          "autor": "Gran.",
+          "referencia_obra": "Pról. galeato , § 4 (R. 6. 9)."
+        },
+        {
+          "texto_cita": "«Dicho ya en general de lo que conviene á todo género de personas, convenía descender en particular á tratar de lo que á cada una conviene en su estado.»",
+          "autor": "",
+          "referencia_obra": "Id. Guía , 2. 18 (R. 6. 158 2 )."
+        },
+        {
+          "texto_cita": "«Trataremos primero del mundo, y después descenderemos á tratar en particular de todos los cuerpos que tienen vida.»",
+          "autor": "",
+          "referencia_obra": "Id. Símb . 1. 3, § 8 (R. 6. 194 2 )."
+        },
+        {
+          "texto_cita": "«Viendo el poder inestimable de la divina gracia, me pareció debía descender á tratarla más en particular.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 17, § 1 (R. 6. 326 2 )."
+        },
+        {
+          "texto_cita": "«Ni aun pueden fácilmente, hablando en general, descender á las particularidades que requiere esta doctrina moral.»",
+          "autor": "",
+          "referencia_obra": "Id. Mem. vida crist. pról . § 1 (2. 386)."
+        },
+        {
+          "texto_cita": "«Aquesto está dicho en común, mas descendamos agora á otras más particulares razones.»",
+          "autor": "León",
+          "referencia_obra": ", Nomb . 3, Hijo (3. 287)."
+        },
+        {
+          "texto_cita": "«De lo general desciende á lo particular de su suerte.»",
+          "autor": "",
+          "referencia_obra": "Id. Expos. de Job, 7 (1. 121)."
+        },
+        {
+          "texto_cita": "«Y desciende luégo á contar sus riquezas, y dice ---»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1 (1. 7)."
+        },
+        {
+          "texto_cita": "«Descendamos más particularmente á la doctrina política, y enseñemos cómo las dádivas pueden ser persecución.»",
+          "autor": "Quev.",
+          "referencia_obra": "Peste 2 (R. 48. 115 2 )."
+        },
+        {
+          "texto_cita": "«Descendamos á preceptos particulares.»",
+          "autor": "",
+          "referencia_obra": "Id. Polític. de Dios, 2. 23, § 1 (R. 23. 101 1 )."
+        },
+        {
+          "texto_cita": "«Sólo ofrece [este poema] los elementos principales é invariables, sin descender á preceptos subalternos.»",
+          "autor": "",
+          "referencia_obra": "T. Iriarte, Mús . 1, notas (1. 283)."
+        },
+        {
+          "texto_cita": "«En vez de proponerse y seguir constantemente un objeto solo y general, descendieron [las leyes] á proteger con preferencia aquellos ramos que prometían momentáneamente más utilidad.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Ley agraria, 1ª. clase (R. 50. 92 2 )."
+        },
+        {
+          "texto_cita": "«Da muy buenas noticias, y desciende á curiosas minuciosidades.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Masan. pról . (5. XXI )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Llegar á ejecutar acción baja ó indigna, ó á emplearse en ella ( intrans .). Con á .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al blando taburete se acomoda, | Y á los chismes inútiles desciende.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "epíst. Dícesme Nuño (R. 42. 309 1 )."
+        },
+        {
+          "texto_cita": "«Por demasiado natural desciende á chabacano.»",
+          "autor": "Luzán",
+          "referencia_obra": ", Poét . 3. 1 (2. 19)."
+        },
+        {
+          "texto_cita": "«El estilo de la comedia debe ser puro, elegante, animado ---- sin descender jamás á expresiones vulgares, bajas y groseras.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Human. castell. Poét. (R. 46. 145 2 )."
+        },
+        {
+          "texto_cita": "«Nunca Pelayo | Descendió á la flaqueza, á la ignominia | De engañar.»",
+          "autor": "Quint.",
+          "referencia_obra": "Pelayo , 2. 5 (R. 19. 63 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Ir á menos ó en decadencia ( intrans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Descender en el favor.»",
+          "autor": "Acad.",
+          "referencia_obra": "Gram ."
+        },
+        {
+          "texto_cita": "«",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Descender en autoridad.»",
+          "autor": "Salvá",
+          "referencia_obra": ", Gram ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Proceder, derivarse ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar lo que se mira como fuente ú origen.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La mayor potestad desciende de Dios.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 18 (R. 25. 49 1 )."
+            },
+            {
+              "texto_cita": "«Es palabra que desciende de aquélla.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job , 2 (1. 26)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Proceder por natural propagación, venir de tal ó cual ascendiente o progenitor ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este fue el primero hombre que en las Españas sabemos haber morado, del cual descendemos, y de los que con él vinieron, todos los que della son verdaderamente naturales.»",
+              "autor": "Ocampo",
+              "referencia_obra": ", Crón . 1. 1 (1. 3)."
+            },
+            {
+              "texto_cita": "«El linaje de donde había de descendir y el lugar donde había de nacer ---»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 4. 20 (R. 6. 533 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué os importa á vos saber | Que descienda de la sangre | Del conde de Andrada y Lemos ---? Lope, El premio del bien hablar, 1. 2 (R. 24. 493 3 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«¿Quién más gallardo y más cortés que Rugero, de que descienden hoy los duques de Ferrara, según Turpín en su cosmografía?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 1 (R. 1. 407 1 )."
+            },
+            {
+              "texto_cita": "«Ya sabe todo el mundo, y especialmente mi pueblo, quién fueron los Panzas, de quien yo desciendo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 7 (R. 1. 418 2 )."
+            },
+            {
+              "texto_cita": "«Ha habido en mi linaje trece capitanes valerosísimos, y de parte de mi madre doña Rodriga, desciendo de cinco catedráticos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Zahurdas (R. 23. 312 2 )."
+            },
+            {
+              "texto_cita": "«Creeré que descendéis del docto, cuando lo fuéredes ó procuráredes serlo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (R. 23. 312 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú conociste bien una doncella | De mi sangre y abuelos descendida.»",
+              "autor": "",
+              "referencia_obra": "Garcil égl . 2 (R. 32. 7 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Por extensión Derivarse (raro). Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después de la caída de Adán quedó corrupta [nuestra naturaleza] por el pecado, y así desciende en todos los hombres la pena desta mancilla.»",
+              "autor": "Gran.",
+              "referencia_obra": "Imit . 3. 60 (R. 11. 418 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "Poner, trasladar lo que estaba en alto á lugar más bajo, al suelo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arrimadas sus escaleras á la cruz descienden en brazos el cuerpo del Salvador.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1, sáb . por la mañ . (R. 8. 83 2 )."
+            },
+            {
+              "texto_cita": "«Sube al altar y desciende | La imagen, pues que ya ves | Que secreto y prisa importan.»",
+              "autor": "Cald.",
+              "referencia_obra": "La Virgen del sagrario, 2. 10 (R. 7. 338 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar el lugar ú objeto alto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le descendieron de la cruz.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 6. 6, § 13 (R. 8. 367 1 )."
+            },
+            {
+              "texto_cita": "«. Amor... | Del sacro Olimpo á Júpiter desciendes, | Y á Febo dejas, sin su lumbre, ciego.»",
+              "autor": "Espinosa",
+              "referencia_obra": ", Fáb. del Jenil (R. 29. 475 1 )."
+            },
+            {
+              "texto_cita": "«La fría luna enciendes | Y de su esfera al monte la desciendes.»",
+              "autor": "Lope",
+              "referencia_obra": ", La selva sin amor ( Obr. suelt . 1. 231)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue servido... que después de descendido de ella [de la cruz] fuese recibido en los brazos de su Madre, y lavado con lágrimas de ella.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Festiv . 11 (5. 356)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y aun el hijo de Dios | Para subirnos al ciclo | Descendió | A nacer acá entre nos.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 46)."
+        },
+        {
+          "texto_cita": "«E como los moros vieron venir los christianos, descendiéronse al pie de la sierra.»",
+          "autor": "",
+          "referencia_obra": "Crón. Juan II, 4. 28 (R. 68. 328 1 )."
+        },
+        {
+          "texto_cita": "«E los moros se decendieron á la villa con todas sus haciendas.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 36 (R. 68. 292 1 )."
+        },
+        {
+          "texto_cita": "«Tiraronle el yelmo, e decendieronle del caballo.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 8 (25)."
+        },
+        {
+          "texto_cita": "«Este nombre miles , que cavallero deçimos, del cuento de mill desçendió.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 495."
+        },
+        {
+          "texto_cita": "«Razonable era, pues que todos descendían de un padre et habitaban en una tierra, que todos fablasen en una manera.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1. 1 (R. 36. 342 2 )."
+        },
+        {
+          "texto_cita": "«Dame tal ramo por donde me auise | Qual dio la Cumea al hijo deAnchises, | Quando al Erebo tentó descender.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 28 (9 1 )."
+        },
+        {
+          "texto_cita": "«Descendieron á la casa del consejo.»",
+          "autor": "Seg. de Tordes.",
+          "referencia_obra": "44 (65)."
+        },
+        {
+          "texto_cita": "«Ca nunca en estoria se puede fallar | Que omme injusto al çielo subiesse, | Nin santo ninguno morar descendiese | Al çentro profundo, esquivo lugar.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 576."
+        },
+        {
+          "texto_cita": "«Sy es vyl, Dios lo deçienda | Ayusso de grant laguna.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 147."
+        },
+        {
+          "texto_cita": "«Como llegaban los dichos embajadores avian de descenderse.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 111."
+        },
+        {
+          "texto_cita": "«El agua que desciende della [de la montaña] non es sana.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 109."
+        },
+        {
+          "texto_cita": "«Sacaron del dicho talegon un relicario en que estaba un pedazo de la piedra en que nuestro Señor Jesu Christo fue puesto, quando lo descendieron de la cruz.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 64."
+        },
+        {
+          "texto_cita": "«Los dichos señores embajadores descendieron en tierra.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 37. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Este nombre de rey de buen regir desçiende.»",
+          "autor": "Pal.",
+          "referencia_obra": "235 (R. 57. 432 2 )."
+        },
+        {
+          "texto_cita": "«Et descendieron de las bestias amos a dos en el campo.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 109 (R. 66. 244 1 )."
+        },
+        {
+          "texto_cita": "«Et son las armadas la una en Navaredondiella, et las otras descenden fasta Finojosa por el camino.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 3. 9 ( Bibl. venat. 2. 133)."
+        },
+        {
+          "texto_cita": "«Et sea atado con una cuerda de cañamo, et comience de la quebradura, et suba contra arriba cerca del cabo de las tablas et descienda fasta ayuso.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 1. 20 ( Bibl. venat. 1. 157)."
+        },
+        {
+          "texto_cita": "«E fue allá e descendió en unas casas que ha y el obispo.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 15 (R. 66. 157 2 )."
+        },
+        {
+          "texto_cita": "«Descendió muy ayna de su cauallo e echóse en oracion.»",
+          "autor": "Plácidas",
+          "referencia_obra": "(Knust, 131)."
+        },
+        {
+          "texto_cita": "«Luego que los falcones --- non han ningun recelo de los hommes, débenlos descender mucho de las carnes. Pero non tanto porque pudiesen venir á muerte ó á dolencia. Et desque fueren descendídos en la manera que entendieren ---»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caza , 5 ( Bibl. venat. 3. 34)."
+        },
+        {
+          "texto_cita": "«Et cuando Saladin llegó do los falcones estaban con la grua, descendió mucho aina por los acorrer.»",
+          "autor": "",
+          "referencia_obra": "Id . C. Luc . 6 (R. 51. 394 1 )."
+        },
+        {
+          "texto_cita": "«Et entraron amos por una escalera de piedra muy bien labrada, et fueron descendiendo por ella muy grand pieza.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 13 (R. 51. 379 2 )."
+        },
+        {
+          "texto_cita": "«En el estado de los legos me comenzastes á fablar primeramente en el estado de los emperadores, porque es mas alto, et fuestes descendiendo á todos los estados fasta que llegastes á los menores.»",
+          "autor": "",
+          "referencia_obra": "Id. Lib. de los est. 2. 34 (R. 51. 356 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«E dende descenderemos á los fechos particulares del reino.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 64 (R. 51. 191 2 )."
+        },
+        {
+          "texto_cita": "«El alma del home por las obras la judga Dios, é por las buenas la sube é la lleva á paraiso, é por las malas la descende á los infiernos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 44 (R. 51. 171 1 )."
+        },
+        {
+          "texto_cita": "«Nos non desçenderemos oy de las bestias fasta que veyamos quales son los tus dioses.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 4. 3 (318 1 )."
+        },
+        {
+          "texto_cita": "«Tomaronle sus vasallos e desçendieronle por cuerdas por somo del muro.»",
+          "autor": "",
+          "referencia_obra": "Ib . 4. 2 (294 1 )."
+        },
+        {
+          "texto_cita": "«Et el peso mayor de la carrne sea el arrelde de Burgos en que ha quatro libras, e del arrelde fagan medio, quarto e ochauo, e dende ayuso deçenda quanto menester ouieren por que pueda cada vno conprar quanto quisiere.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 76)."
+        },
+        {
+          "texto_cita": "«Et todos sus bienes [deben ser] tomados para la cámara del rey, si non hobiere parientes que suban ó descendan por la liña derecha fasta el quarto grado.»",
+          "autor": "",
+          "referencia_obra": "Part . 3. 23. 25 (2. 678)."
+        },
+        {
+          "texto_cita": "«Et aunque non fallasen otra cosa en que la feciesen [la prenda] non les deben tomar los caballos de sus cuerpos, nin descenderlos de las otras bestias en que cabalgasen.»",
+          "autor": "",
+          "referencia_obra": "Part . 2. 21. 223 (2. 27). —"
+        },
+        {
+          "texto_cita": "«Siempre habrá vergüenza de facer del castiello cosa que le esté mal nin porque sea denostado él nin los que dél descendieren.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 18. 6 (2. 154)."
+        },
+        {
+          "texto_cita": "«Estonce decende el Espíritu santo et conságrala.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 10 (1. 53)."
+        },
+        {
+          "texto_cita": "«Aviendo alguno dos demandanzas contra otro, si fuesen tales que el una desecendiese del otra, dezimos que non las puede en uno demandar.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 355)."
+        },
+        {
+          "texto_cita": "«E si por, aventura darlo quisiere, non lo pueda dar á ome que de linage de aquellos traydores decenda derechamiente.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 30)."
+        },
+        {
+          "texto_cita": "«En sobir omne al sennorio es grave, e en descender a la vilteza es rrefez.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 13)."
+        },
+        {
+          "texto_cita": "«La Pentecoste, quando descendió el Espíritu sancto sobre los apóstolos.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 12. 3. 6 (190)."
+        },
+        {
+          "texto_cita": "«Decendien unos fuegos e unas fieras flammas, | Quemauale las tiendas.»",
+          "autor": "",
+          "referencia_obra": "Alex . 905 (R. 57. 175 1 )."
+        },
+        {
+          "texto_cita": "«Desçendió del cauallo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 512 (R. 57. 163 1 )."
+        },
+        {
+          "texto_cita": "«Desçendió de los yermos el confessor onrrado.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 83 (R. 57. 42 1 )."
+        },
+        {
+          "texto_cita": "«Desendió de los montes en qui. solie seer.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 77 (R. 57. 67 2 )."
+        },
+        {
+          "texto_cita": "«Semeióme a mi que desçendió al plano.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 151 (R. 57. 136 1 )."
+        },
+        {
+          "texto_cita": "«Firieronse, a tierra deçendieron de los caualos.»",
+          "autor": "Cid",
+          "referencia_obra": ", 1842 (R. 57. 21 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. descender; cat. descendir ; prov. descendre , deissendre ; fr. descendre ; it. discendere , scendere: del lat. descendere , compuesto de de , que señala moviminiento de arriba abajo, y scandere , subir, sans. skand , andar, subir, bajar. En nuestros libros antiguos se halla escrito á cada paso decender .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas diptongadas: desciendo, es, e, en; descienda, as, a, an; desciende tú. Granada decía descendir; lo mismo Venegas , Dif. de lib. 2. 14 (49 2 , 50 1 ). \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

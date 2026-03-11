@@ -1,0 +1,307 @@
+{
+  "lema": "CAVAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer cóncavo ó hueco, excavar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El labrador la reja allí embotada | Afila de su espacio, y cava el leño | En barco.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2, Geórg. 1 (4. 451)."
+            },
+            {
+              "texto_cita": "«Dejáronme á mí, fuente de agua viva, y caváronse cisternas quebradas, en que el agua no pára.»",
+              "autor": "Pastor",
+              "referencia_obra": "(3. 69)."
+            },
+            {
+              "texto_cita": "«Porque si una sola gota de agua que cae á menudo, basta para cavar una peña, ¿qué hará un caño real?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 2. 1, § 4 (R. 8. 186 1 )."
+            },
+            {
+              "texto_cita": "«Cada gota de agua que cae sobre una piedra, aunque no basta para cavarla, basta para que las otras la caven, que caen después della.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. 2. 12 (R. 8. 457 2 )."
+            },
+            {
+              "texto_cita": "«Después porque la corriente | Humedeciendo cavaba | El monte, que el acueducto | Cegar al fin amenaza, | De cantería inmortal | De parte á parte se labra.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo, 1. 1 (R. 20. 63 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hallé esta cueva cavada en estas penas, y señaléla mi morada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 1. 6 (R. 1. 569 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cavó en la parte señalada más de un estado en hondo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 114 1 )."
+            },
+            {
+              "texto_cita": "«Dice [Job] que á los tristes es lo mismo hallar el sepulcro abierto, que á los que cavan por riqueza hallar el tesoro.»",
+              "autor": "Quev.",
+              "referencia_obra": "carta 74 (R. 48. 554 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Levantar y mover la tierra con la azada, azadón ú otro instrumento.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que va á cavar una viña, su fin es cavar, no almorzar: pero todavía almuerza y come á sus tiempos, para tener fuerza con que durar en el trabajo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 3. 1. 3, § 5 (R. 8. 179 1 )."
+            },
+            {
+              "texto_cita": "«La viña y la heredad sirve no solamente al que la plantó, sino también al que la cava y la riega.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. 2. 14, consid. 5 (R. 8. 487 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mucho se daña la tierra si muy seca ó muy mojada se arare ó cavare.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 1. 5 (1. 29)."
+            },
+            {
+              "texto_cita": "«El campo para que dé fruto se cava y ara.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. advert. (R. 60. 360)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este es el pan de trabajadores con que se esfuerzan los que trabajan y cavan en la viña del Señor.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 7. 2. 1, § 8 (R. 8. 398 1 )."
+            },
+            {
+              "texto_cita": "«Si el marido cava, ella quita las piedras; si poda, ella sarmienta.»",
+              "autor": "León",
+              "referencia_obra": ", Cant. 1. 7 (4. 20)."
+            },
+            {
+              "texto_cita": "«Unas en poniendo los pies en el suelo, ó antes que los pongan, estando en la cama, negocian luégo con el almuerzo como si hubiesen pasado cavando la noche.»",
+              "autor": "",
+              "referencia_obra": "Id. Perf. cas. 17 (3. 501)."
+            },
+            {
+              "texto_cita": "«Mejor se me entiende á mí de arar y cavar, podar y ensarmentar las viñas, que de dar leyes, ni de defender provincias ni reinos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 53 (R. 1. 517 1 )."
+            },
+            {
+              "texto_cita": "«Si fuérades labrador | De aquellos que cavan y aran, | Yo pudiera á vuestra queja | Satisfacer mi ignorancia.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los Tellos de Meneses, 1ª. pte, 1. 3 (R. 24. 512 3 )."
+            },
+            {
+              "texto_cita": "«Yo conozco, y todos conocemos países, no situados bajo los distantes polos, sino en nuestra misma Península, donde las mujeres se ocupan en las labores más duras; donde aran, cavan, siegan y rozan.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre el libre ejerc. de las artes (R. 50. 34 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Ahondar, penetrar ( intrans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En las apostemas decimos cavar la materia cuando va ahondando para dentro y gastando la carne.»",
+          "autor": "Covarr.",
+          "referencia_obra": ""
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Se usa ara denotar la acción intensa y profunda del pensamiento ( intrans. ):",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Siendo subj. la persona ó facultad que obra. En señala el objeto del pensamiento; con la facultad que se ejercita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se buscan [las perlas de la parábola] con meditación del entendimiento, prevenido y ayudado de la divina ilustración, cavando y ahondando en las verdades y misterios de la fe.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 3. 47 (2. 181)."
+            },
+            {
+              "texto_cita": "«Tanto el pensamiento cava | En esto, que ha habido vez | Que afrentando la vejez | De Lauro, mi padre, estaba | Por dudar si soy su hijo, | O si me hurtó á algún señor.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio , 1. 5 (R. 5. 206 2 )."
+            },
+            {
+              "texto_cita": "«Tanto cavó con la imaginación, que halló traza por los medios de una buena dueña ---»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 1. 2 (R. 3. 192 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Siendo suj. la cosa que fatiga el pensamiento. En señala la persona ó la facultad afectada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta sola consideración cavó tanto y obró tanto en este hombre, que le hizo mudar la vida.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 10, § 1 (R. 6. 44 2 )."
+            },
+            {
+              "texto_cita": "«Comenzaron [á irse de delante de la mujer adúltera] los más ancianos, porque como eran mayores pecadores, asi cavó en ellos más presto la maldad y la confusión para irse de allí.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 3. 27 (2. 194)."
+            },
+            {
+              "texto_cita": "«Cavar en el pensamiento alguna cosa es hacernos mucha fuerza, de manera que no lo podemos desechar, yendo y viniendo á ello.»",
+              "autor": "Covarr.",
+              "referencia_obra": "—"
+            },
+            {
+              "texto_cita": "«Quise tomar un rato de reposo, cuando, sin pensar, se me ofreció para desvelo de mi memoria todo lo referido, cavando poco á poco y consumiéndome el corazón el deseo de ver aquella mujer.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Esp. Ger . 2. 1 (R. 18. 202 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E tan presto cavaron [el muro] los moros, que cayó un gran lienzo sobre los moros que cavaban.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 1. 22 (R. 68. 287 1 )."
+        },
+        {
+          "texto_cita": "«Arrebató á un labrador un azadon de las manos é comenzó de cabar.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 35 (111)."
+        },
+        {
+          "texto_cita": "«Fueron á par de un Cabo de la tierra de la Turquia que ha nombre Quinisico, é decian que --- probaron de lo facer Isla é cabaronlo.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav. p. 49. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Con estas malas porfias anda mal perdimiento, | En estado tan santo que es todo fundamiento | De nuestra fe catolica, e cauanle el çimiento | Soberuia e cobdiçia, que non han escarmiento.»",
+          "autor": "Pal.",
+          "referencia_obra": "203 (R. 57 . 431 2 )."
+        },
+        {
+          "texto_cita": "«Otros y ovo que llegaron á cavar en el muro de la villa.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 183 (R. 66. 291 1 )."
+        },
+        {
+          "texto_cita": "«Et él iba á los acuciar et mandar que llegasen á derribar las labores que los christianos avían fecho en los portiellos, et otrosi á cavar en el muro.»",
+          "autor": "",
+          "referencia_obra": "Ib. 108 (R. 66. 243 1 )."
+        },
+        {
+          "texto_cita": "«Comenzaban á cavar el muro.»",
+          "autor": "Fern.",
+          "referencia_obra": "IV, 3 (R. 66. 110 2 )."
+        },
+        {
+          "texto_cita": "«Nunca logar se pudo ganar sinon subiendo por el muro con escaleras ó cavando el muro.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 32 (R. 51. 381 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«El caballero, tornado á su casa, cayó adonde el diablo le dijo, é falló asaz tesoro.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 83 (R. 51. 216 2 )."
+        },
+        {
+          "texto_cita": "«E en Estremadura vala el peon al dia para cauar con su açada siete dineros alfonsis, el podador ocho dineros alfonsis, e quel non den a comer.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 77)."
+        },
+        {
+          "texto_cita": "«E dixo que veya vna piedra cauada a manera de sepulcro.»",
+          "autor": "",
+          "referencia_obra": "C rón. gen. 1. 35 (17 1 )."
+        },
+        {
+          "texto_cita": "«E fueronse para el logar que los posieron, é cavaron, é non fallaron cosa.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 32 2 )."
+        },
+        {
+          "texto_cita": "«Marçio auie grant priessa de sus uinnas laurar, | Priessa con podadores, e priessa de cauar.»",
+          "autor": "Alex.",
+          "referencia_obra": "2393 (R. 57. 220 2 )."
+        },
+        {
+          "texto_cita": "«La pared era dura, no la podien cauar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2057 (R. 57. 210 2 )."
+        },
+        {
+          "texto_cita": "«Cauauan en los muros, que pudiessen entrar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 207 (R. 57. 153 2 )."
+        },
+        {
+          "texto_cita": "«La fuessa fue ayna cauada, | E de la tierra bien mondada.»",
+          "autor": "S. M. Egipc.",
+          "referencia_obra": "(R. 57. 318 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. cat., prov. cavar ; fr. caver ; it. cavare: del lat. cavare , denominativo de cavus , cóncavo, hueco. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,320 @@
+{
+  "lema": "CODICIOSO, A.",
+  "categoria_gramatical": "adj",
+  "introduccion": "-->adj .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que tiene codicia, ó sea apetito desordenado de riquezas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dile título de cruel, de ingrata, de falsa y desagradecida: pero sobre todo de codiciosa, pues la riqueza de mi enemigo la había cerrado los ojos de la voluntad para quitármela á mí y entregarla á aquel con quien más liberal y franca la fortuna se había mostrado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 27 (R. 1. 323 2 )."
+            },
+            {
+              "texto_cita": "«No soy nada codicioso, que, á serlo, un oficio dejé yo esta mañana de las manos, donde pudiera hacer las paredes de mi casa de oro, y comer antes de seis meses en platos de plata.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 54 (R. 1. 519 1 )."
+            },
+            {
+              "texto_cita": "«Finalmente, él habló de manera que hizo sospechoso al retor, codiciosos y desalmados á sus parientes, y á él tan discreto, que el capellán se determinó á llevársele consigo.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 1 (R. 1. 406 1 )."
+            },
+            {
+              "texto_cita": "«Se muestra en ella [en la carta] muy codicioso, y no querría que orégano fuese, porque la codicia rompe el saco, y el gobernador codicioso hace la justicia desgobernada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 36 (R. 1. 482 2 )."
+            },
+            {
+              "texto_cita": "«No te muestres, aunque por ventura lo seas, lo cual yo no creo, codicioso, mujeriego ni glotón.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 51 (R. 1. 512 2 )."
+            },
+            {
+              "texto_cita": "«Los turcos, codiciosos é insolentes --- quisieron barrer esta costa, y hacer alguna presa si pudiesen.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 63 (R. 1. 540 2 )."
+            },
+            {
+              "texto_cita": "«Su volátil planta | Detuvo, atenta al oro | La codiciosa virgen Atalanta.»",
+              "autor": "Jáur.",
+              "referencia_obra": "silva En la espesura (R. 42. 118 2 )."
+            },
+            {
+              "texto_cita": "«Empezaba ya á tener fama de codicioso por su diligencia en adquirir.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 436 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al codicioso nunca se le cumple su deseo, porque no sólo quiere tener mucha hacienda, sino que nadie tenga alguna; no poseer más que todos, sino lo que poseen todos.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 204 2 )."
+            },
+            {
+              "texto_cita": "«El secreto del dinero que tiene, es el último que se arranca á un codicioso.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Anot. á la Poét . 5. 23 (1. 249). —"
+            },
+            {
+              "texto_cita": "«Juntáronse el codicioso y el tramposo»",
+              "autor": "Covarr.",
+              "referencia_obra": "dice:"
+            },
+            {
+              "texto_cita": "«El codicioso y el tramposo fácilmente se conciertan.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar el objeto de la codicia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Codicioso de dinero.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Era --- poco recatado [don Alonso el Sabio] y de maravillosa inconstancia en su modo de proceder; codicioso de allegar dineros ---»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 13. 11 (R. 30. 385 2 ). — Sup ."
+            },
+            {
+              "texto_cita": "«Movióle al judío mucho el interés, de que son codiciosísimos los judíos.»",
+              "autor": "",
+              "referencia_obra": "Sig . Vida de S. Jer. 5. 2 (398)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Muy deseoso.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar el objeto del deseo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quiero yo preguntar al que es tan codicioso de nombre, que da por él la misión de toda la vida que me diga qué cosa es fama.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 265)."
+            },
+            {
+              "texto_cita": "«D. Quijote se, ofreció á hacer la guardia del castillo, porque de algún gigante ó otro mal andante follón no fuesen acometidos, codiciosos del gran tesoro de hermosura que en aquel castillo se encerraba.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 42 (R. 1. 376 2 )."
+            },
+            {
+              "texto_cita": "«A ver venían la sin par galera --- | Codiciosos de hallarse en la vitoria.»",
+              "autor": "",
+              "referencia_obra": "Id . Viaje, 3 (R. 1. 685 1 )."
+            },
+            {
+              "texto_cita": "«Estaba en Baena, muy codicioso de mostrar su gallardía.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 15. 16 (R. 30. 452 2 )."
+            },
+            {
+              "texto_cita": "«Haz, Señor, que mi corazón tenga siempre hastío de las cosas mundanas, y esté siempre hambriento y codicioso de tenerte dentro de sí por morador v poseedor.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 5. 5, orac. 1 (R. 8. 305 2 )."
+            },
+            {
+              "texto_cita": "«Pidiéronme que jugase, codiciosos de pelarme.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 20 (R. 23. 519 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con por, en sentido análogo (raro é impropio).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Codicioso por adquirir.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            },
+            {
+              "texto_cita": "«Codiciosa | La tierra por brotar, inagotables | Sus opimos tesoros ostentaba.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Jovell . (R. 19. 25 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Aplicado á animales.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tienen otrosí [las aves de rapiña] gran calor en el estómago, para que la hambre las haga más codiciosas y ligeras para la caza.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 14, § 2 (R. 6. 218 2 )."
+            },
+            {
+              "texto_cita": "«Y dentro comenzó un sonoro estruendo | Como entre flores codicioso enjambre | Que del tierno rocío anda con hambre.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 23 (R. 17. 382 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Por metonimia, Laborioso, hacendoso ( fam. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Algunas veces se toma codicia en buena parte, como la mujer hacendosa y laboriosa decimos ser codiciosa.»",
+          "autor": "Covarr.",
+          "referencia_obra": "sb. voc. codiciar ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Por abuso, Codiciable (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quiere el viejo que se case | Con una mujer más rica | Que de codiciosas partes.»",
+          "autor": "Lope",
+          "referencia_obra": ", La niña de plata , 3. 6 (R. 24. 292 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas cobdicioso, cudicioso .) Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cobdicioso de facer algunas señaladas é buenas cosas, por donde comenzara á cobrar nueva nobleza é fama.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 99 (258)."
+        },
+        {
+          "texto_cita": "«Tardío é pesado en sus hechos, pero cobdicioso de alcanzar de ganar.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Gener. 25 (R. 68. 708 2 )."
+        },
+        {
+          "texto_cita": "«Por esto de algunos era habido por escaso é codicioso.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 16 (R. 68. 706 2 )."
+        },
+        {
+          "texto_cita": "«Aunque el hombre vea que su ánima es codiciosa e investigar et saber la verdad de las cosas profundas et altas ---»",
+          "autor": "",
+          "referencia_obra": "Vis. delect . 1. 8 (R. 36. 351 2 )."
+        },
+        {
+          "texto_cita": "«Todos los Chacatays se ayuntarán á él si aquel tesoro oviere, ca son cobdiciosos.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 208. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«No seas cobdicioso nin quejoso de levantar las ánades fasta que tu falcon tenga su altura.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 8 (Bibl. venat. 3. 198)."
+        },
+        {
+          "texto_cita": "«E porque sabía la manera de don Enrique, que era mucho cobdicioso, envióle cometer que tomase del rey lo que quisiese.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 4 (R. 66. 112 2 )."
+        },
+        {
+          "texto_cita": "«Cada dia contesçe al cobdiçioso atal, | Coyda ganar contigo, et pierde su cabdal.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 218 (R. 57. 234 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«El buen perlado non debe ser cobdicioso, ca la cobdicia, aina lo meterá con todo mal.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum . 16 (R. 51. 125 2 )."
+        },
+        {
+          "texto_cita": "«Era [Julio César] muy cobdicioso de señorear.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen . 1. 83 (45 1 )."
+        },
+        {
+          "texto_cita": "«Otrosi habiendo algunt clerigo derecho de padronadgo en alguna eglesia non puede presentar á sí mismo para ella, porque se mostraria por cobdicioso.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 15. 7 (1. 404)."
+        },
+        {
+          "texto_cita": "«La voluntad del cobdicioso es ciega et non veye las cosas que son de su pro, mas siempre se le antojan, riquezas, catando ganancias et rentas que cobdicia de haber.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 5. 58 (1. 243)."
+        },
+        {
+          "texto_cita": "«El otro era cobdicioso de Alexandre, e agora es Alexandre cobdicioso del otro.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 48)."
+        },
+        {
+          "texto_cita": "«El onbre franco nunca lo fallaredes cobdicioso, nin el onbre cobdicioso nunca lo fallaredes rrico.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, 30)."
+        },
+        {
+          "texto_cita": "«El que non es cobdicioso, esse a la rriqueza que paresce.»",
+          "autor": "",
+          "referencia_obra": "Ib . (Knust, 11)."
+        },
+        {
+          "texto_cita": "«Et constrinnen la edad á venir á lo que non deve, quando la edad grand de las mugieres é cobdiciosa non quiere esperar los barones que son tardineros.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 3. 1. 4 (47)."
+        },
+        {
+          "texto_cita": "«Onde cuemo los príncipes ayan estado muy cobdiciosos de robar el pueblo en los tiempos que son pasados, é de acrecentar el su tesoro --- queremos poner freno á la cobdicia de los príncipes.»",
+          "autor": "",
+          "referencia_obra": "lb . 2. 1. 5 (9;* copdiciosos, cubdiciosos)."
+        },
+        {
+          "texto_cita": "«Calló el cobdiçioso, non quiso dezir nada.»",
+          "autor": "",
+          "referencia_obra": "Alex . 2199 (R. 57. 214 2 )."
+        },
+        {
+          "texto_cita": "«Mas avie una tacha, que era cobdiçioso.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 128 (R. 57. 43 2 )."
+        },
+        {
+          "texto_cita": "«Los omnes cudiçiosos del aver monedado, | Que por ganar riqueza non dubdan fer peccado, | Metránlis por las bocas el oro regalado.»",
+          "autor": "",
+          "referencia_obra": "Id. Signos , 42 (R. 57. 102 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de codicia , como en port. cobiçoso, cubiçoso de cobiça, cubiça; el cat. cobdicios corresponde al ant. cobdicioso. Estas voces tienen por base el lat. . bajo cupiditia por cupiditas , formado á semejanza de avaritia. A cupiditas se refieren el prov. cobeitos, cubitos , fr. ant coveitus, covoiteus, hoy convoiteux, it. cubitoso. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

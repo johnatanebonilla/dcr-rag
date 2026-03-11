@@ -1,0 +1,566 @@
+{
+  "lema": "AIRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Mover á ira, irritar ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si de tu amante la pasión te aíra, | ¿Por qué el vengarse tu furor retarda?»",
+          "autor": "Gallego",
+          "referencia_obra": ", Poes. La dulce venganza (R. 67. 418 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl . Tomar ira ó enojo, encolerizarse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sufríte con temor, porque te airaste con razón.»",
+              "autor": "",
+              "referencia_obra": "Celest . 4 (R. 3. 25 2 )."
+            },
+            {
+              "texto_cita": "«Corto [era] de razones, pronto en airarse y presto en deponer la ira.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 1 (R. 1. 407 2 )."
+            },
+            {
+              "texto_cita": "«Ninguna enfermedad del ánimo más contra el decoro del príncipe que ésta [la ira], porque el airarse supone desacato ú ofensa recibida.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 8 (R. 25. 26 1 )."
+            },
+            {
+              "texto_cita": "«Aírase uno; dice y hace cosas ajenas de toda razón.",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Quev. Cuna y sepult . 3 (R. 48. 87 1 ).",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Ninguno [en el cielo] se aíra, ninguno tiene invidia de otro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 9, § 3 (R. 6. 40 2 )."
+            },
+            {
+              "texto_cita": "«Entonces Herodes viendo que había sido burlado de los Magos, airóse mucho.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic.al Mem. med . 9 (R. 8. 526 1 )."
+            },
+            {
+              "texto_cita": "«No temo te aíres | En mirarte ofendido.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, A Jesucristo crucif . (R. 37. 13 1 )."
+            },
+            {
+              "texto_cita": "«No riñe y no se amansa; no se aíra | Y dura siempre airado.»",
+              "autor": "",
+              "referencia_obra": "Id. Nomb . 3, Jesús (R. 37. 210 2 )."
+            },
+            {
+              "texto_cita": "«Son hombres que de súbito se aíran, | De condición feroces, impacientes.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 1 (R. 17. 6 1 )."
+            },
+            {
+              "texto_cita": "«El profeta nos da por documento | Que en ocasión y á tiempo nos airemos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 30 (R. 17. 111 1 )."
+            },
+            {
+              "texto_cita": "«Túrbase, y una vez arde y se aíra, | Otra teme y suspira.»",
+              "autor": "Figueroa",
+              "referencia_obra": ", canc . 3 ( Fern. 46)."
+            },
+            {
+              "texto_cita": "«La cola hiere [el león] y con su herir se aíra.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 10 (R. 17. 247 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando yo más airada, tú más humilde.»",
+              "autor": "",
+              "referencia_obra": "Celest . 10 (R. 3. 47 1 )."
+            },
+            {
+              "texto_cita": "«Es [el colérico] inclinado á soberbia, y es airado, es esforzado y osado, es veloz en sus movimientos. Aírase presto, y reconcíliase presto.»",
+              "autor": "",
+              "referencia_obra": "Venengas, Agonía , 3. 20 ( Míst . 3. 109)."
+            },
+            {
+              "texto_cita": "«Estando airado púdrese con desabrimiento, y torna á airarse por verse así desabrido.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 17 (R. 11. 336 1 )."
+            },
+            {
+              "texto_cita": "«Era Tereo un joven que encubría | Feroz ingenio con blandura grave | --- Tierno gustoso y ofendido airado.»",
+              "autor": "Lope",
+              "referencia_obra": ", Filom . 1 ( Obr. suelt . 2. 383)."
+            },
+            {
+              "texto_cita": "«Maldice airado del profeta suyo | Las promesas.»",
+              "autor": "Mor.",
+              "referencia_obra": "La toma de Gran . (R. 2. 576 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar la persona objeto de la ira.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunas veces he dicho entre mí: No querría airarme con nadie.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid . 1. 10, § 12 (R. 8. 81 2 )."
+            },
+            {
+              "texto_cita": "«El que se airare con su hermano quedará obligado á dar cuenta en el juicio.»",
+              "autor": "Doctr.",
+              "referencia_obra": "crist . 2. 19, § 1 (R. 11. 128 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dijo al rey que corría gran peligro que su hermano don Enrique le matase, porque Dios estaba con él muy airado.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 17. 4 (R. 30. 501 1 )."
+            },
+            {
+              "texto_cita": "«Está de suerte contigo | Airado el corregidor, | Que por poderse vengar, | Jura que ha de aventurar | Hacienda, vida y honor.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La cueva de Salamanca , 3 (R. 20. 96 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con contra , en el mismo sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Leemos en el libro de los Reyes que el furor de Dios se airó contra Israel.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 27, § 2 (R. 6. 103 1 )."
+            },
+            {
+              "texto_cita": "«¡Pluguiese á Dios que se pesasen en una balanza los pecados porque Dios se airó contra mí, y en otra la calamidad de los trabajos que por ellos padezco!»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 5. 3. 17 (R. 6. 703 2 )."
+            },
+            {
+              "texto_cita": "«Tampoco se airó ni indignó contra tantas injurias y sinjusticias, ni echó maldiciones á sus acusadores y jueces.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 18 (R. 6. 430 1 )."
+            },
+            {
+              "texto_cita": "«Como una vez un monje estuviese airándose contra otro, y en esta ocasión viniesen ciertos huéspedes seculares, súbitamente desistió de la ira el espíritu de la vanagloria.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. espir . 21 (R. 11. 340 1 )."
+            },
+            {
+              "texto_cita": "«El que dice que ama á Dios y con esto se aíra contra su hermano, semejante es al que estando soñando piensa que corre.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 31 (R. 11. 378 2 )."
+            },
+            {
+              "texto_cita": "«¡Tente! | Que no soy Celia ni Celio | Para airarte contra mí.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El vergonzoso en palacio , 2. 14 (R. 5. 217 1 ). —"
+            },
+            {
+              "texto_cita": "«Sin airarse | Contra tales propuestas, desechólas.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 10 (2. 367)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sagaz con los ejemplos airado contra el vicio, y enamorado de la virtud.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 48 (R. 1. 391 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con de ó por , para expresar el origen ó la razón del enojo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Airarse de, por lo que se oye.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Airarse de la pregunta.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram ."
+            },
+            {
+              "texto_cita": "«Airóse pues de ver tan excesiva | A la que tanto lustre le ha debido.»",
+              "autor": "Solís",
+              "referencia_obra": ", silva ¿Campana y á estas horas (87)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Es muy rara la construcción siguiente:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo más te debo estar | Agradecido que airado.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante , 3. 6 (R. 39. 160 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Dícese de las partes ó facciones del individuo en que se descubre la ira.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La vista alegre, el alma enamorada, | Cuyo capote y ceño si se aíra, | Da gusto y regocijo á quien lo mira.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 24. (R. 17. 395 2 )."
+            },
+            {
+              "texto_cita": "«O lánguidos miren, | O injustos se aíren | Culpando mi ardor, | Tus lindos ojuelos | Me matan de amor.»",
+              "autor": "Mel.",
+              "referencia_obra": "letr . 2 (R. 63. 121 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ojos claros, serenos | Si de dulce mirar sois alabados, | ¿Por qué, si me miráis, miráis airados?»",
+              "autor": "",
+              "referencia_obra": "Cetina, madr . 1 (R. 32. 42 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Dícese de las cosas inanimadas cuando muestran tal agitación ó impetuosidad que parecen movidas de ira ó enojo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y [Eolo] las valientes olas reparando | Que del furioso cierzo repentino | Iban la vía siguiendo, las airaba | Y el removido mar más alteraba.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 15 (R. 17. 61 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La tierra fértil se torna estéril, el cielo clemente se aíra y embravece.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 5. 4 (431)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Nación, á cuyos pechos invencibles | No pudieron poner impedimentos --- | Ni airados mares ni contrarios vientos.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 35 (R. 17.129 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Vida airada : vida desordenada y viciosa.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Marte, viendo los bucaritos de ambrosía, como deidad de la carda y dios de la vida airada, dijo: ¿Bucaritos á mí?»",
+          "autor": "Quev.",
+          "referencia_obra": "Hora de todos , 40 (R. 23. 425 2 )."
+        },
+        {
+          "texto_cita": "«Hélas, hélas por do vienen | La Corruja y la Carrasca, | A más no poder mujeres, | Hembras de la vida airada.»",
+          "autor": "",
+          "referencia_obra": "Id. Musa 5, baile 2 (R. 69. 116 2 )."
+        },
+        {
+          "texto_cita": "«Ya se salen de Segovia | Cuatro de la vida airada, | --- Todos cuatro matasietes, | Valentones de la fama.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", El tejedor de Segovia , 2ª pte . 2. 15 (R. 20. 406 3 )."
+        },
+        {
+          "texto_cita": "«Lograrías apartarnos de la sociedad frívola, del pasatiempo vano y de la vida airada.»",
+          "autor": "Cadalso",
+          "referencia_obra": ", Cart. marr. epíl . (2. 369). — Es de creerse que esta expresión tuvo su origen en la germanía (Véase Rom. de Germ . pp. 41. 42. 43; ahí se halla también trato airado ); pero su sentido es obscuro. Puede ser vida de gente airada ó encartada (véanse los ejemplos anteclásicos), ó si es derivado de aire (como se dice en el Dicc. portugués de Vieira), significaría vida al aire, libre y suelta; en este caso la formación caprichosa probaría el origen germanesco."
+        },
+        {
+          "texto_cita": "«Aquí riñe, allí hiere, allí se arroja, | Y es en el trato airado el rey y el coco.»",
+          "autor": "Cerv.",
+          "referencia_obra": "El rufián dichoso , 1 ( Com . 2. 11)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Hasta el siglo XV se usaron promiscuamente, sobre todo en el part. , airar é irar . Deben notarse estas acepciones:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Mirar con ira, aborrecer;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Retirar la gracia y valimiento; de ahí Desterrar, y en el part. Bandido, encartado;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "γ )",
+          "definicion": "Irado y pagado : expresión que en las donaciones usaban los reyes al reservarse el derecho de entrar en los lugares donados siempre que quisiesen, ora de Guerra, ora de paz. La expresión latina era iratus et pacatus ; véase Ducange , y Llor. Prov. Vasc . 4. 236.) — Siglo XV :",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mahomad el rey viejo habia embiado al rey don Enrique su abuelo un adalid suyo encubiertamente, diciendo que venia ayrado de su rey.»",
+              "autor": "Crón. Juan II",
+              "referencia_obra": ", 3. 4 (R. 68. 313 2 )."
+            },
+            {
+              "texto_cita": "«Que si tú vienes ayrada | Todo lo pasas de claro | Con tu flecha.»",
+              "autor": "J. Manr.",
+              "referencia_obra": "Coplas ( Fern. 16. 55)."
+            },
+            {
+              "texto_cita": "«E si por aventura alguno fuere ayrado del rey ó lo deseredare ó lo echare de su tierra ---»",
+              "autor": "Fuero",
+              "referencia_obra": "del Castillo de Aurelia ( Muñoz , F . 526. El texto latino: Quisquis iram regiam incurrerit, ita ut eum exhaeredet ---)."
+            },
+            {
+              "texto_cita": "«Aquel rey tenia á Dios muy airado de la mala vida que avia vivido.»",
+              "autor": "",
+              "referencia_obra": "Crón. P. Niño , p. 20."
+            },
+            {
+              "texto_cita": "«Algunas vegadas me vy en tentaçiones | De saña de pueblo é de rrey ayrado.»",
+              "autor": "",
+              "referencia_obra": "Canc. de Baena , p. 320."
+            },
+            {
+              "texto_cita": "«Este decir fiso é ordenó el dicho Alfonso Alvares para el rrey nostro señor picando en lo bivo á todos los cavalleros que andavan afuera de la corte ayrados del dicho señor rey.»",
+              "autor": "",
+              "referencia_obra": "Ib . p.187. —"
+            },
+            {
+              "texto_cita": "«¿Cómo ha podido ser que como quiera que tú viniesses con ánimo yrado é encendido, que entrando en esta tierra é comarca non te sea fuyda, é te aya dexado la yra é non çessado las tus grandes amenaças?»",
+              "autor": "",
+              "referencia_obra": "Santill, p. 89."
+            },
+            {
+              "texto_cita": "«La mar es mi madre [habla el viento], é allí es el mi primer nascimiento, é quando yo della he de salir estonce es ella muy irada.»",
+              "autor": "Crón. P. Niño",
+              "referencia_obra": ", p. 148."
+            },
+            {
+              "texto_cita": "«Si ovimos la mar irada, otra vez la avremos pagada.»",
+              "autor": "",
+              "referencia_obra": "Ib . p. 97. — Siglo XIV :"
+            },
+            {
+              "texto_cita": "«Desque ya es la duenna de varon escarnida --- | Es de Dios airada e del mundo aborrida.»",
+              "autor": "Arc. de Hita",
+              "referencia_obra": ", 1396 (R. 57. 271 1 )."
+            },
+            {
+              "texto_cita": "«Duenna, por te desir esto non te asannes nin te aíres.»",
+              "autor": "",
+              "referencia_obra": "Id. 882 (R. 57. 254 2 )."
+            },
+            {
+              "texto_cita": "«El leon contra el lobo fue sannudo e airado.»",
+              "autor": "",
+              "referencia_obra": "Id. 876 (R. 57. 254 2 )."
+            },
+            {
+              "texto_cita": "«Si la primera onda del mar airada | Espantase al marinero, cuando viene turbada, | Nunca en la mar entraríe con su nave ferrada.»",
+              "autor": "",
+              "referencia_obra": "Id. 588 (R. 57. 245 2 )."
+            },
+            {
+              "texto_cita": "«Fueron e son airados de Dios los que te creyeron.»",
+              "autor": "",
+              "referencia_obra": "Id. 214 (R. 57. 233 2 )."
+            },
+            {
+              "texto_cita": "«El que mejor te sirve, a él fieres, quando tiras, | Parteslo del amiga al omen que airas.»",
+              "autor": "",
+              "referencia_obra": "Id. 173 (R. 57. 232 2 ). —"
+            },
+            {
+              "texto_cita": "«Tengo que los del tu señorío non quieren acogerte irado nin pagado.»",
+              "autor": "",
+              "referencia_obra": "Crón. Pedro I , 20. 3 (R. 66. 588 1 )."
+            },
+            {
+              "texto_cita": "«Haciendo pleyto homenage el conde de acoger en todos los castillos al rey, irado ó pagado.»",
+              "autor": "Zurita",
+              "referencia_obra": ", Anales , 9. 5, resumiendo un docum. de 1356 (R. 66. 476 2 )."
+            },
+            {
+              "texto_cita": "«Otorgó é prometeó al dicho Señor obispo de entregar á él ó á su mandado el castiello de Buron quando gelo demandase é de lo coger en él con poca gente ó con mucha, irado é pagado, cada que veniese.»",
+              "autor": "Docum",
+              "referencia_obra": ". de 1321 ( Esp. sagr. 39. 237). — Siglo XIII :"
+            },
+            {
+              "texto_cita": "«Otrosi aquellas [cartas de gracia] que son dadas quando perdona el rey algunos malfechores o ayrados, por cuydar recebir algunos grandes servicios, que sean a pro del rey e del regno.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 188). Item, Part . 3. 18. 49 (2. 575)."
+            },
+            {
+              "texto_cita": "«Maravillome otrosí de le yo querer obedecer --- é ensañarse él así é airarse contra mi.»",
+              "autor": "",
+              "referencia_obra": "Cal. é Dymna (R. 51. 28 1 )."
+            },
+            {
+              "texto_cita": "«Tu padre te ha ayrado, | Non será en su vida pagado.»",
+              "autor": "S. M. Egipc.",
+              "referencia_obra": "(R. 57. 308 1 )."
+            },
+            {
+              "texto_cita": "«Que a vno que dizien Myo Çid Ruy Diaz de Biuar, | Ayrolo el rey Alfonsso, de tierra echado-lo ha.»",
+              "autor": "Cid",
+              "referencia_obra": ", 629 (R. 57. 9 1 )."
+            },
+            {
+              "texto_cita": "«Entrando en Burgos me vedaron conprar, e el rey me a ayrado.»",
+              "autor": "",
+              "referencia_obra": "Ib . 90 (R. 57. 2 2 ). —"
+            },
+            {
+              "texto_cita": "«Cuando aquellas razones oyó el Emperador fue tan irado é tan sannudo, que non era sinon maravilla.»",
+              "autor": "",
+              "referencia_obra": "Conq. de Ultr . 3. 276 (R. 44. 444 1 )."
+            },
+            {
+              "texto_cita": "«Entregar deben al rey nuevo de las villas, et de los castiellos et de las otras fortalezas, tambien de aquellas que hobiesen rescebidas por portero como de las otras; et aquellos á quien las él quisiere dar, débenle facer homenage estonce que gelas den irado et pagado cada que gelas pediere.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 13. 21 (2.120)."
+            },
+            {
+              "texto_cita": "«Si contra esto feciese, haberia á Dios por ende irado, et seria malquisto de los homes.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 5. 11 (2. 33)."
+            },
+            {
+              "texto_cita": "«Si alguno fiere ó mete manos iradas como non debe en clérigo, ó en monge, ó en monja, ó en otro home ó muger de religion.»",
+              "autor": "",
+              "referencia_obra": "Part . 1. 9. 2 (1. 327)."
+            },
+            {
+              "texto_cita": "«En ella lo entenden los que la an prouada, | Sy fará buen tiempo o tempestad yrada.»",
+              "autor": "",
+              "referencia_obra": "Alex . 1320 (R. 57. 188 1 )."
+            },
+            {
+              "texto_cita": "«Irós de fiera guisa, ca piedá lo auia; | Por poco con la yra a él nos remetia.»",
+              "autor": "",
+              "referencia_obra": "Ib . 441 (R. 57. 161 1 )."
+            },
+            {
+              "texto_cita": "«El rey Alexandre quando fue coronado, | Pauor auie tod omne que lo ouiesse yrado.»",
+              "autor": "",
+              "referencia_obra": "Ib . 177 (R. 57. 153 1 )."
+            },
+            {
+              "texto_cita": "«El Rey Antioco, quel hauia yrado, | Murio muerte sopitanya.»",
+              "autor": "",
+              "referencia_obra": "Appoll . 256 (R. 57. 292 1 . Cp. coplas 49. 50)."
+            },
+            {
+              "texto_cita": "«Pesó mucho al rey, fo fuert-mientre irado.»",
+              "autor": "Berc.",
+              "referencia_obra": "S. Dom . 739 (R. 57. 63 1 )."
+            },
+            {
+              "texto_cita": "«Cosa es manifiesta, que es de mi irado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 161 (R. 57. 45 1 )."
+            },
+            {
+              "texto_cita": "«O façie viento malo, oriella destemplada, | O niebla precodida, o pedrisca irada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 69 (R. 57. 41 2 )."
+            },
+            {
+              "texto_cita": "«Et fablar por miedo non osa, | Por miedo que sse hiraria | E que faria lo que dizia.»",
+              "autor": "",
+              "referencia_obra": "Reyes de Oriente (R. 57. 320 1 )."
+            },
+            {
+              "texto_cita": "«Pesó al conde don Garçia, e mal era yrado.»",
+              "autor": "Cid",
+              "referencia_obra": ", 1859 (R. 57. 21 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á é ira , mover á ira. Port. airar ; prov. airar , ahirar , azirar ; fr. ant. aïrer ; it. adirare . La forma simple es en port. y prov. irar , en fr. ant. irer .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La combinación ai forma una sola sílaba cuando el acento carga fuera de ella: ai-rár , ai-ráda , ai-rémos ; en el caso contrario forma dos: a-íra , a-íren , a-íro . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

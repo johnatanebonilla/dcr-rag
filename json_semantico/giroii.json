@@ -1,0 +1,88 @@
+{
+  "lema": "GIRO (II).",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "-->s. m.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Herida en la cara o chirlo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dar a mi fiero ribaldo | Un giro de oreja, que atribule a un cirujano.»",
+              "autor": "",
+              "referencia_obra": "Cast. Solórz. Fiest. del jard. ( Dicc. Autor. )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Amenaza, bravata y fanfarronería: y así se dice que no hay que echar giros. Cfr. Dicc. Autor. X",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Entonces imité al amante de mi ama en lo de las montantadas, bernardinas y giros y como él me hice perrengue añusgándome a cada paso.»",
+          "autor": "Pagés",
+          "referencia_obra": ", Dicc. ) ."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Gallo de color oscuro que tiene amarillas las plumas del cuello y de las alas o, a veces, plateadas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En Bogotá todos usamos, y a nadie choca arremueco, barrial, brazada --- giro (dicho de ciertos gallos).»",
+              "autor": "Cuervo",
+              "referencia_obra": ", Apuntaciones, 744. X"
+            },
+            {
+              "texto_cita": "«Con seguridad el bataraz tomó la iniciativa, se aferró a una picada de plumas sanguinolentas, golpeó dos veces reciamente, sin largar. El giro cloqueó como una gallina cascoteada.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra, 13 (Archivos, 2. 94). X"
+            },
+            {
+              "texto_cita": "«Pero ningún cristiano o salvaje es capaz de imaginar la saña de un gallo de riña. Ciego, privado de sentidos, el giro continuaba batiéndose contra un fantasma, mientras el bataraz, paciente, buscaba concluirlo en un golpe decisivo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13 (Archivos, 2. 94). X"
+            },
+            {
+              "texto_cita": "«Comprendí que el reloj se convertía en mi peor enemigo. Mi gallo se agotaba, enredándose en las alas y la cola del giro. E inesperadamente éste se rehizo, situó a su adversario por el tacto, le dio un encontronazo que lo echó al suelo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 13 (Archivos, 2. 95)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Más frecuentemente se usa como adj. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Cincuenta pesos a mi gallo giro! — vociferó el dueño. — ¡Pago! respondí, olvidado de mi lástima reciente.»",
+              "autor": "Güiraldes",
+              "referencia_obra": ", Don Segundo Sombra, 13 (Archivos, 2. 95)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De origen incierto, según Corominas es posible aunque inseguro que de giro ‘ chirlo, bravata ’ , venga el adj. semijergal giro hermoso, excelente que en América y en el sur de España se ha convertido en denominación de los gallos de un color especial. Cfr. DCELC. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

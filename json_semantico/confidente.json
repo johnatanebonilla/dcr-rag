@@ -1,0 +1,253 @@
+{
+  "lema": "CONFIDENTE.",
+  "categoria_gramatical": "",
+  "introduccion": "CONFIDENTE.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ". adj.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Fiel, seguro, de confianza.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El, entretanto, con los deudos y amigos confidentes, dispuso los ánimos á seguir su parecer y consejo.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 49 (R. 21. 47 1 )."
+            },
+            {
+              "texto_cita": "«Las guardias de naciones confidentes, el lustre y grandeza de la corte, y las demás ostentaciones públicas acreditan el poder del príncipe y autorizan la majestad.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 31 (R. 25. 82 2 )."
+            },
+            {
+              "texto_cita": "«Mandó llamar reservadamente á los indios más capaces y confidentes de su ejército.»",
+              "autor": "Solís",
+              "referencia_obra": ", C onq. de Méj . 3. 18 (R. 28. 295 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de y el nombre de quien se merece confianza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasó más adelante el comendador Juan Moreo cuando se introdujo la Liga, y ganando á este hombre y á su mujer, que le gobernaba, con gruesos presentes, le hizo uno de los más confidentes della.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 7 (R. 28. 89 1 )."
+            },
+            {
+              "texto_cita": "«Quedó encomendado al conde de Belín, caballero gascón, muy confidente del duque de Humena.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3 (R. 28. 37 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á , como leal , fiel.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Llamó á don Luis Monsuar, baile general de Cataluña, hombre muy confidente á su rey.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 5 (R. 46. 524 1 )."
+            },
+            {
+              "texto_cita": "«Varo, pretor y á Roma confidente, | Que honor fue ya de la nación latina, | Armas gobierna de Pompeyo ausente.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars. 8 ( Fern. 7. 227)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Sustantivado, Persona de confianza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fue á un puesto donde ciertos confidentes suyos le tenían aparejado un caballo.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 4 (R. 28. 43 2 )."
+            },
+            {
+              "texto_cita": "«Todos estos embustes tramaba Rocafort, seguro que aunque después se descubriesen, no le causarían daño, por tener de su parte á los turcos y turcoples, que juntos con los confidentes, era la mayor parte del ejército.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 50 (R. 21 . 49 1 )."
+            },
+            {
+              "texto_cita": "«El empeño la hace [á la multitud] más insolente, y con el tiempo se declaran los dudosos y peligran los confidentes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 73 (R. 25. 202 2 )."
+            },
+            {
+              "texto_cita": "«En esta forma escribían desde Barcelona á los confidentes.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 474 2 )."
+            },
+            {
+              "texto_cita": "«Ejecutóse, mas no con tanto secreto que los catalanes no recibiesen aviso de algún confidente.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 4 (R. 21. 503 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado á cosas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estaba triste de verle triste, y corrida de estarlo por la vista, y no por la comunicación confidente.»",
+          "autor": "Quev.",
+          "referencia_obra": "M. Bruto (R. 23. 147 1 ) ."
+        },
+        {
+          "texto_cita": "«Deste y otros secretos es abismo | El confidente amor de una vecina.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "epíst. Dícesme, Nuño (R. 42. 308 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "Sust.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Persona á quien otra fía sus secretos ó le encarga la ejecución de cosas reservadas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Decíanle que se acordase de que le tuvo preso y disgustado, y que pocas veces salen buenos los confidentes que se hacen de los quejosos»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Méj. 1. 10 (R. 28. 217 1 )."
+        },
+        {
+          "texto_cita": "« El, como mi confidente, sabía mis cosas secretas, y yo, como amigo, las suyas.»",
+          "autor": "Quev.",
+          "referencia_obra": "Alguacil (R. 23. 304 1 )."
+        },
+        {
+          "texto_cita": "«Flaquezas padece la dominación, en que es menester descansar con algún confidente.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 49 (R. 25. 126 1 )."
+        },
+        {
+          "texto_cita": "«Mas advertido consejo es poner al lado del príncipe algún confidente, en quien esté la dirección y el manejo de los negocios, como lo hizo Vespasiano, cuando dio la pretura á su hijo Domiciano, y señaló por su asistente á Muciano.»",
+          "autor": "",
+          "referencia_obra": "Id . ib . 100 (R. 25. 262 1 )."
+        },
+        {
+          "texto_cita": "«Eligió entre sus compañeros de niñez á alguno que fuese el confidente de sus breves penas, de sus bulliciosos placeres, de sus ideas y sentimientos infantiles.»",
+          "autor": "Lista",
+          "referencia_obra": ", Ensayos, 1 , p. 6."
+        },
+        {
+          "texto_cita": "«Tú, de mis penas confidente antiguo, | Tú, que fuiste mi cómplice, me olvidas.»",
+          "autor": "Quint.",
+          "referencia_obra": "El duque de Viseo, 1. 3 (R. 19. 44 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Para el fem. se ha dicho y aun se dice la confidente; pero el uso actual prefiere las mas veces cambiar en a la terminación, diciendo confidenta, forma no sancionada todavía por la Acad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vos sabréis | Como confidente suya, Leonor, lo que se hizo dél.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los balcones de Madrid, 2. 1 (R. 5. 561 3 )."
+            },
+            {
+              "texto_cita": "«Yo soy una vasalla vuestra, que desea naturalmente vuestra felicidad, y soy una confidente suya, que sabe todo el secreto de su intención.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 3. 19 (R. 28. 297 1 )."
+            },
+            {
+              "texto_cita": "«Ingunda, confidente de Dosinda.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Pelayo, actores (R. 46. 53 3 )."
+            },
+            {
+              "texto_cita": "«Se va desesperada, y una confidente refiere que se ha precipitado en el río.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 3, p. 186. ---"
+            },
+            {
+              "texto_cita": "«¡Si cual tú, de mi Filis | Amable confidenta, | Inocente gozase | Sus sencillas finezas!»",
+              "autor": "Mel.",
+              "referencia_obra": "La paloma de Filis, 19 (R. 63. 114 2 )."
+            },
+            {
+              "texto_cita": "«Una parienta anciana fue la única confidenta de su cuidado.»",
+              "autor": "Jovell.",
+              "referencia_obra": "El delincuente honrado, 4. 3 (R. 46. 94 1 )."
+            },
+            {
+              "texto_cita": "«Una de éstas era Placerdemivida, doncella de mucho ingenio y agudos dichos, confidenta de Carmesina en sus amores con Tirante.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 1, p. 135."
+            },
+            {
+              "texto_cita": "«La doncella Garinda, confidenta de los amores de Onoloria, lo bautizó con agua del mar.»",
+              "autor": "",
+              "referencia_obra": "Id . ib 2, p. 62."
+            },
+            {
+              "texto_cita": "«¿Quién había de imaginar que chica tan mona y en tan verdes años se limitaría á hacer el triste y poco airoso papel de confidenta?»",
+              "autor": "Valera",
+              "referencia_obra": ", El Comendador Mendoza , p 88."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No quiero hacerte relación de mis trabajos, de mi humor negro ni de mis proyectos porque sería materia larga y un papel es confidente poco seguro.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 2, p. 216."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Espía. Es el término oficial y decoroso. Almirante , Dicc. milit.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Canapé de dos asientos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Saludando con aire marcial á los jóvenes --- se sentó en un confidente.»",
+          "autor": "Mesonero",
+          "referencia_obra": ", Panor. matrit. Las tiendas (143)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., it. confidente; fr. confident: del lat. confidentem, confidens, part. activo de confidere, confiar. Significa pues El que confía, y no Aquel en quien se confía; esta dislocación de sentido es parecida á la que se observa en fr. cuando se dice robe boutonnante, toffe salissante. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

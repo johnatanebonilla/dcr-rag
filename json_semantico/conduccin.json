@@ -1,0 +1,92 @@
+{
+  "lema": "CONDUCCIÓN",
+  "categoria_gramatical": ". s. f.",
+  "introduccion": "-->. s. f.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Acción y efecto de conducir, llevar ó guiar alguna cosa.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El campo se hallaba afligido por falta de víveres, no dando lugar el tiempo á su conducción por agua.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 4 (R. 21. 509 1 )."
+            },
+            {
+              "texto_cita": "«Dél [del tesoro] se apartó el quinto del rey, en los géneros más preciosos y de menos volumen, de que se hizo entrega formal á los oficiales que llevaban la cuenta y razón del ejército, dando para su conducción una yegua suya [de Cortés] y algunos caballos heridos.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj . 4. 18 (R. 28. 334 2 )."
+            },
+            {
+              "texto_cita": "«Quedó aplicado el resto de sus levas para que asistiese á la conducción de los bergantines.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 9 (R. 28. 357 1 )."
+            },
+            {
+              "texto_cita": "«Suponemos que este precio [del aceite] es el más alto, porque ya trae en sí los costos de conducción, que importan uno, uno y medio, dos ó más reales en cada arroba.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre extracc. de aceites (R. 50. 5 1 )."
+            },
+            {
+              "texto_cita": "«La reina, después de haber abierto siete leguas de camino para la conducción de provisiones y pertrechos --- no daba indicio de cansancio ni flaqueza.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. ( Mem. Acad. Hist . 6. 17)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para señalar el lugar adonde se lleva algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No dejaban los cabos catalanes --- de molestar toda aquella tierra con correrías y asaltos, impidiendo particularmente la conducción de víveres á la ciudad»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal . 4 (R. 21. 502 1 )."
+            },
+            {
+              "texto_cita": "«Por otra parte, sólo los comerciantes son capaces de --- emprender la conducción de grandes partidas de granos á grandes distancias, y por medio de grandes dificultades y riesgos.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria 1 a . clase (R. 50. 111 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Acción y efecto de dirigir ó manejar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El desorden en la conducción de los negocios es un manantial continuo de desconciertos.»",
+          "autor": "Balmes",
+          "referencia_obra": ", Filosof. elem. Lógica, 2. 1. 1 (29)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Ajuste y concierto hecho por dinero. Acad. Dicc .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estiman en treinta mil plazas las que pagó y mantuvo Cataluña en los siete meses que duró el sitio, haciendo repetidas levas de infantería y continuas conducciones de gastadores para manejo y fortificación del ejército.»",
+          "autor": "Melo",
+          "referencia_obra": ", Guerra de Catal . 1 (R. 21. 464 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. conducção ; cat. conducció ; fr. conduction ; it. conduzione : del lat. conductionem , conductio , reunión, contracción, alquiler; en castellano se ha acomodado el sentido al del verbo. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

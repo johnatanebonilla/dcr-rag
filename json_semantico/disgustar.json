@@ -1,0 +1,230 @@
+{
+  "lema": "DISGUSTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Causar disgusto y desabrimiento al paladar ( trans .). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Causar desazón, enfado ó pesadumbre ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amábanla con ternura, y no la quisieron disgustar con aspereza.»",
+              "autor": "Lope",
+              "referencia_obra": ", Peregr . 1 ( Obr. suelt . 5. 11)."
+            },
+            {
+              "texto_cita": "«A puerto llegas donde | Tendrás, sin que te asustes, | Muchos que te obedezcan, | Nadie que te disguste.»",
+              "autor": "Cald.",
+              "referencia_obra": "Ni Amor se libra de amor , 2. 14 (R. 12. 670 2 )."
+            },
+            {
+              "texto_cita": "«Os suplico que no interrumpáis un razonamiento que quiero haceros, hasta que veáis que os disgusta y enfada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 27 (R. 1. 463 1 )."
+            },
+            {
+              "texto_cita": "«Aunque esta opinión disgusta los sentidos, es saludable medicina para el ánimo.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd . 2. 1 (R. 18. 322 2 )."
+            },
+            {
+              "texto_cita": "«Calla, loco, no prosigas, | Que el oírte me disgusta.»",
+              "autor": "Cald.",
+              "referencia_obra": "Amado y aborrecido , 1. 12 (R. 12. 216 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Sentir desazón, enfado ó pesadumbre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y al verme aquí desta suerte, | Que se disguste no hay duda.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La villana de la Sagra , 2. 2 (R. 5. 314 1 )."
+            },
+            {
+              "texto_cita": "«Pues ¿no quiere usted que me disguste oyéndole hablar de mi hija en unos términos que...»",
+              "autor": "Mor.",
+              "referencia_obra": "El sí de las niñas , 2. 5 (R. 2. 428 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mientra el general reverendísimo está ansí desgustado, yo le digo ---»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 1. 59 (R. 55. 79 1 )."
+            },
+            {
+              "texto_cita": "«Abren la escena diferentes individuos que ejercen varias profesiones descontentas de sí mismas y envidiosas de las otras, y que forman una especie de congreso de disgustados.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", Hor. sát . 1. 1 (3. 30)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Con de , para expresar el origen del disgusto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como eran mozos y alegres, no se disgustaban de tener noticia de las hermosas de la ciudad.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 10 (R. 1. 211 1 )."
+            },
+            {
+              "texto_cita": "«Moisés había permitido al marido que se disgutase de su mujer por alguna deformidad que le sobreviniese, apartarse de ella. »",
+              "autor": "Scío",
+              "referencia_obra": ", S. Mateo , 19. 3, nota ."
+            },
+            {
+              "texto_cita": "«Las personas delicadas empezaron á disgustarse de las duras y sangrientas escenas de los libros de caballerías, y á preferir lecturas más apacibles.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 1, p. XVIII."
+            },
+            {
+              "texto_cita": "«Aun puedo ceñir la espada | El día que me disguste | Del manteo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "El bachiller Mendarias , 1. 7 (125)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo la tengo [razón] de estar desgustada de que sea tan ruin lugar éste, que no se halle lo que vuestra merced me pide, en todo él.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas (R. 55. 113 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "De emplearse esta partícula con la constr. refl. ha pasado á juntarse con la activa, aunque modificándose el sentido hasta frisar con el de separación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Han de ser éstas [las desgracias de los pastores] de tal naturaleza que no presenten á la fantasía cosas que puedan disgustarnos de la vida pastoril.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Human. castell. Poét . (R. 46. 141 2 )."
+            },
+            {
+              "texto_cita": "«Las continuas | Instancias de su hermana, y el cuidado | De repetiros nuevos testimonios | De su amistad, pudieron algún tanto | Disgustarle de aquella residencia.»",
+              "autor": "",
+              "referencia_obra": "Id. Pelayo , 1. 2 (R. 46. 55 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Considerándose como negativo de gustar , se usa como intrans . con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como hija de tal madre no desgustará desta doctrina.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. dedic . (3. 245)."
+            },
+            {
+              "texto_cita": "«Lo que de algunos temo es que desgustan de semejantes escrituras, no por el engaño que puede haber en ellas, sino por el que ellos tienen en sí, que no les deja creer que se humana Dios tanto con nadie.»",
+              "autor": "León",
+              "referencia_obra": ", dedic. Obr. Sta. Ter . (4. 212)."
+            },
+            {
+              "texto_cita": "«Podría ser que, hecho el gusto á estos salmos y canciones divinas, vengan algunos á desgustar de las profanas.»",
+              "autor": "",
+              "referencia_obra": "M. de Chaide, Magd. pról . (R. 27. 282)."
+            },
+            {
+              "texto_cita": "«Gustaba de llevar los vestidos rotos y remendados, y disgustaba de llevar vestidos nuevos.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. 21 de Junio ."
+            },
+            {
+              "texto_cita": "«Díle con lengua curiosa | Cosas de que no disguste.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pedro de Urdemalas , 1 ( Com . 2. 243)."
+            },
+            {
+              "texto_cita": "«Para diferenciarlos [los coches], les dieron los latinos veinte y ocho vocablos diferentes, que no disgustarán de saberlos los curiosos.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon . 37 (R. 25. 527 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Disgustarse con alguna cosa.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Disgustarse por causas frívolas.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Part . Que causa disgusto, desagradable ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quiere el Señor que me libre de trabajos semejantes, que son harto disgustados para mí.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cartas , 3. 61 (R. 55. 56 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl . En especial, Desazonarse con otro ó perder la amistad por motivo de una contienda ó diferencia. Con con , para expresar la persona que ocasiona el disgusto.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esta también me avisaba algunas veces; y yo no sólo no la creía, mas disgustábame con ella, y parecíame se escandalizaba sin tener por qué.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 7 (R. 53. 35 2 )."
+        },
+        {
+          "texto_cita": "«El marqués adora en ti; | Tu padre se ha disgustado | Con don Eugenio, y no piensa | Ejercer el menor acto | De violencia con su hija.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", La señorita malcriada , 3. 7 (7. 291)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "constr. refl. ha pasado á juntarse con la activa, aunque modificándose el sentido hasta frisar con el de separación. «Han de ser éstas [las desgracias de los pastores] de tal naturaleza que no presenten á la fantasía cosas que puedan disgustarnos de la vida pastoril.» Jovell. Human. castell. Poét . (R. 46. 141 2 ). «Las continuas | Instancias de su hermana, y el cuidado | De repetiros nuevos testimonios | De su amistad, pudieron algún tanto | Disgustarle de aquella residencia.» Id. Pelayo , 1. 2 (R. 46. 55 2 ). — δ ) Considerándose como negativo de gustar , se usa como intrans . con de . «Como hija de tal madre no desgustará desta doctrina.» Gran. Adic. al Mem. dedic . (3. 245). «Lo que de algunos temo es que desgustan de semejantes escrituras, no por el engaño que puede haber en ellas, sino por el que ellos tienen en sí, que no les deja creer que se humana Dios tanto con nadie.» León , dedic. Obr. Sta. Ter . (4. 212). «Podría ser que, hecho el gusto á estos salmos y canciones divinas, vengan algunos á desgustar de las profanas.» M. de Chaide, Magd. pról . (R. 27. 282). «Gustaba de llevar los vestidos rotos y remendados, y disgustaba de llevar vestidos nuevos.» Rivad. Flos SS. 21 de Junio . «Díle con lengua curiosa | Cosas de que no disguste.» Cerv. Pedro de Urdemalas , 1 ( Com . 2. 243). «Para diferenciarlos [los coches], les dieron los latinos veinte y ocho vocablos diferentes, que no disgustarán de saberlos los curiosos.» Navarr. Conserv. de mon . 37 (R. 25. 527 1 ). — ε ) «Disgustarse con alguna cosa.» Acad. Gram . — ζ ) «Disgustarse por causas frívolas.» Acad. Gram . — η ) Part . Que causa disgusto, desagradable ( ant. ). «No quiere el Señor que me libre de trabajos semejantes, que son harto disgustados para mí.» Sta. Ter. Cartas , 3. 61 (R. 55. 56 2 ). c) Refl . En especial, Desazonarse con otro ó perder la amistad por motivo de una contienda ó diferencia. Con con , para expresar la persona que ocasiona el disgusto. «Esta también me avisaba algunas veces; y yo no sólo no la creía, mas disgustábame con ella, y parecíame se escandalizaba sin tener por qué.» Sta. Ter. Vida , 7 (R. 53. 35 2 ). «El marqués adora en ti; | Tu padre se ha disgustado | Con don Eugenio, y no piensa | Ejercer el menor acto | De violencia con su hija.» T. Iriarte , La señorita malcriada , 3. 7 (7. 291). Etim. Cast. ant. desgustar , compuesto del prefijo negativo des , y gustar . Fr. ant. desgouster , hoy. dégoûter ; it. disgustare. \u0000"
+}

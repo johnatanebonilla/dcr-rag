@@ -1,0 +1,947 @@
+{
+  "lema": "ABRAZAR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v . Del significado primordial proceden dos series de acepciones: las unas tienen por base el concepto material de ceñir, y las otras el sentimiento ó afecto de que suele ser signo el abrazo.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(I)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Ceñir con los brazos ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Quien mucho abraza poco suele apretar.»",
+          "autor": "",
+          "referencia_obra": "Celest . 12 (R. 3. 54 2 )."
+        },
+        {
+          "texto_cita": "«Era en grandeza tal, que no podrían | Veinte abrazar el círculo luciente, | Donde todas las cosas parecían | En su forma distinta y claramente.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc. 27 (R. 17. 101 2 )."
+        },
+        {
+          "texto_cita": "«Cada lado menor ó fachada [del templo de Neptuno en Pesto] consta de seis columnas que apenas pudimos abrazar cuatro hombres.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Viaje á Pesto (5. 321)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Con acus. de pers. se entiende de ordinario que el abrazo se da como muestra de afectuosa voluntad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con gentil continente y donaire le fue á abrazar, y le tuvo un buen espacio estrechamente entre sus brazos, como si de luengos tiempos le hubiera conocido.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 23 (R. 1. 309 2 )."
+            },
+            {
+              "texto_cita": "«Mi padre nos abrazó á todos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 39 (R. 1. 362 2 )."
+            },
+            {
+              "texto_cita": "«Luégo con los brazos abiertos fue á abrazar á D. Quijote, diciéndole ser el más buen caballero que en ningún siglo se hubiese visto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 41 (R. 1. 490 2 )."
+            },
+            {
+              "texto_cita": "«Abrazáronle todos, y él llorando abrazó á todos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 52 (R. 1. 517 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos se abrazaron y quedaron de darse cuenta de sus sucesos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 47 (R. 1. 387 2 )."
+            },
+            {
+              "texto_cita": "«Luégo se abrazaron los dos, y Sancho subió en su rucio, y Ricote se arrimó á su bordón, y se apartaron.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. l. 2. 54 (R. 1. 519 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl . Sugiere á veces alguna idea accesoria.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , que realza el concepto de aproximación, estrechamiento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El gigante iba ligero | A abrazarse al doncel, y él, recatado, | Le barrenó de una estocada el pecho.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 3 (R. 17. 169 2 )."
+            },
+            {
+              "texto_cita": "«Perdió el gallardo moro, los estribos, | Abrazándose al cuello del caballo, | Al tiempo que diez golpes vengativos, | De ira llenos bajaban á buscallo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 7 (R. 17. 216 2 )."
+            },
+            {
+              "texto_cita": "«De tu boca dulcísima la mía | En tiernos besos el maná gustaba, | A tu bella garganta me abrazaba, | Y de amor y placer desfallecía.»",
+              "autor": "Gallego",
+              "referencia_obra": ", son . 8 (R. 67. 414 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, que á la idea fundamental suele añadir la de lucha, socorro, busca de apoyo, ansia ú otras semejantes; el verbo así usado representa menos frecuentemente el abrazo como mero signo de afectuosa voluntad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrazándose conmigo tres membrudos turcos, y yo forcejando con ellos, de tropel venimos á dar todos en la puerta de la cámara donde Nísida y Blanca estaban.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 5 (R. 1. 70 1 )."
+            },
+            {
+              "texto_cita": "«A veces quien se abrazó con otro para derribarle, cayó con él.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 50 (R. 25. 134 1 )."
+            },
+            {
+              "texto_cita": "«Como tal lo vio, suelta la maza, | Cerrando el presto bárbaro de hecho, | Y cuerpo á cuerpo así con él se abraza | Que le imprime las mallas en el pecho.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 15 (R. 17. 58 1 )."
+            },
+            {
+              "texto_cita": "«Convidó, en medio el estío, | A su enemigo a nadar, | Y á título de jugar, | Los dos entrando en el río, | Abrazándose con él, | A la mitad le llevó, | Donde su injuria vengó, | Siendo sus brazos cordel, | Y el verdugo su corriente.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El celoso prudente, 3. 6 (R. 5. 627 3 )."
+            },
+            {
+              "texto_cita": "«El condestable abrazándose de pronto con aquel alto jayán y burlando con su maña y destreza los esfuerzos impotentes de su membrudo contrario, se echo cuesta abajo con él.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 395 1 ). —"
+            },
+            {
+              "texto_cita": "«Tal le tenía el miedo, que verdaderamente pensó que se ahogaba; abrazáronse con él, sacáronle de aquel peligro ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. 1 (R. 1. 114 1 ). Apenas Leocadia le vio caído, cuando se abrazó con él y le sostuvo en sus brazos.» Id. Nov. 9 (R. 1. 206 2 ). —"
+            },
+            {
+              "texto_cita": "«Comenzó á echar sangre por las narices y por la boca y por los oídos, y á dar muestras de caer de la mula abajo, de donde cayera sin duda, si no se abrazara con el cuello.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 9 (R. 1. 272 1 ). —"
+            },
+            {
+              "texto_cita": "«Habiéndome un día aficionado más al dinero de las bulas que á las mismas bulas, me abracé con un talego y di conmigo y con él en Madrid.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 3 (R. 1. 134 2 )."
+            },
+            {
+              "texto_cita": "«El diablo me pone ante los ojos aquí, allí, acá no sino acullá, un talego lleno de doblones, que me parece que á cada paso le toco con la mano y me abrazo con él.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 13 (R. 1. 429 2 )."
+            },
+            {
+              "texto_cita": "«Mil veces, sacra Majestad, me vino deseo de abrazarme con vuestra Majestad y arrojarme de aquella claraboya abajo, por dejar de mí fama eterna en el mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 8 (R. 1. 425 1 )."
+            },
+            {
+              "texto_cita": "«Se confortó y se abrazó la Madre con el cuerpo despedazado de su único Hijo y Señor nuestro.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Vida de Cristo (102)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos perecieron, excepto el hijo Menemno, el cual abrazado con una tabla vino á tomar tierra en el cabo de Cullera.»",
+              "autor": "Timoneda",
+              "referencia_obra": ", Los Menemnos (R. 2. 292 1 )."
+            },
+            {
+              "texto_cita": "«Lloraba también aquella santa pecadora, y, abrazada con los pies del Salvador, decía:»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, sáb. por la mañ. (R. 8. 85 1 )."
+            },
+            {
+              "texto_cita": "«Pudo tanto el amor, que el mozo osado | Al pescado alcanzó, que se alargaba, | Y abrazado con él por maña á nado | A la vecina orilla le acercaba.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 21 (R. 17. 81 2 )."
+            },
+            {
+              "texto_cita": "«Los niños abrazados con las madres | Preguntaban llorando por sus padres.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 7 (R. 17. 27 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "En ocasiones aparecen trocados los complementos.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quise tanto á una canasta de colar atestada de ropa blanca que la abracé conmigo [en vez de me abracé con ella ] tan fuertemente, que, á no quitármela la justicia, aun hasta ahora no la hubiera dejado de mi voluntad.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 22 (R. 1. 303 1 )."
+            },
+            {
+              "texto_cita": "«El deleite que nace de vos en el alma que consigo os abraza dichosa, es deleite que no tiene fin.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Esposo (R. 37. 156 1 )."
+            },
+            {
+              "texto_cita": "«Esposo castísimo de las ánimas, extended esos dulces y amorosos brazos, y abrazad mi ánima de tal manera con vos, que ni en vida ni en muerte se aparte jamás de vos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 3. 10 (R. 8. 266 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , para expresar el objeto de que uno se ase en busca de apoyo ó refugio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cierro á grande priesa, invocando el auxilio y favor de mi amo, abrázandome dél, que me venga á ayudar y á defender la entrada.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill . 3 (R. 3. 87 1 )."
+            },
+            {
+              "texto_cita": "«No la conciencia de pasado agravio | Hace que del altar se abrace y prenda.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "canc. Hoy quiere el cielo (R. 42. 338 2 )."
+            },
+            {
+              "texto_cita": "«Otro se abraza de la tabla ardiente | Por defenderse del atroz Neptuno.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Bat. naval (R. 42. 114 1 )."
+            },
+            {
+              "texto_cita": "«Girando con pavor las madres tiernas | Por el largo recinto del palacio, | De las puertas se abrazan, y las besan.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 2 (3. 138)."
+            },
+            {
+              "texto_cita": "«Hincadas las rodillas en el suelo, | Inmóvil se abrazaba de las mías.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3 (3. 240)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "En sentido puramente ideal ó afectivo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tienda yo los brazos de todos mis afectos y deseos para abrazaros, esposo dulcísimo de mi ánima, de quien espero todo el bien.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. 2. 14 (R. 8. 488 1 )."
+            },
+            {
+              "texto_cita": "«Peligro corres, Licio, si porfías | En seguir sombras y abrazar engaños.»",
+              "autor": "Góng.",
+              "referencia_obra": "son. 151 (R. 32. 445 1 )."
+            },
+            {
+              "texto_cita": "«¡Ay del que, en vez de la verdad, iluso | Su sombra abraza!»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. á Berm. (R. 46. 45 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquí digo está el todo, porque, abrazándonos con solo el Criador, y no se nos dando nada por todo lo criado, su Majestad infunde las virtudes.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Cam. perf. 8 (R. 53. 329 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "met. Dícese de algunos objetos materiales que se enredan en otros ó se les apegan.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo cóncavo hacía de una peña | A un fresco sitial dosel umbroso, | Y verdes celosías unas hiedras, | Trepando troncos y abrazando piedras.»",
+              "autor": "Góng.",
+              "referencia_obra": "Polif . (R. 32. 461 2 )."
+            },
+            {
+              "texto_cita": "«Aquí destas peñas vivas | Quisiera romper las hiedras, | No porque trepan altivas, | Mas porque abrazan sus piedras | Amorosas y lascivas.»",
+              "autor": "Lope",
+              "referencia_obra": ", La boba para los otros, 1. 1 (R. 34. 523 1 )."
+            },
+            {
+              "texto_cita": "«Hiedras, encubridme aquí, | Pues tan de veras amáis | Que estos muros abrazáis, | Donde firmes siempre os vi.»",
+              "autor": "",
+              "referencia_obra": "Id. La ley ejecutada, 1. 4 (R. 41. 182 2 )."
+            },
+            {
+              "texto_cita": "«Al olmo amado abrazarán las vides.»",
+              "autor": "Luzán",
+              "referencia_obra": ", Juicio de Paris (R. 61. 114 2 )."
+            },
+            {
+              "texto_cita": "«Al olmo la hiedra abraza.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poes. (1. 30)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No al olmo desnudo y yerto | La halagüeña vid se abraza, | Sino al que descuella altivo | Con la pompa de sus ramas.»",
+              "autor": "Lista",
+              "referencia_obra": ", rom . 14 (R. 67. 351 2 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquella hermosa vid | Que abrazada al olmo ves | Parte pámpanos discreta | Con el vecino laurel.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 43 (R. 32. 519 1 )."
+            },
+            {
+              "texto_cita": "«Ama la hiedra al olmo; aman las vides | Abrazadas al álamo de Alcides.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poes . (1. 18)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«O cual vid de fruto llena | Que con el olmo se abraza.»",
+              "autor": "Mel.",
+              "referencia_obra": "rom. 1 (R. 63. 132 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La túnica estaba pegada á las llangas de los azotes, y la sangre estaba ya helada, y abrazada con la mesma vestidura.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, viernes por la mañ. (R. 8. 79 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "En sentido causativo, Hacer abrazar (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Como tiemblan dos árboles, que juntos | El viento los abraza y los divide.»",
+          "autor": "Lope",
+          "referencia_obra": ", Angél . 16 ( Obr. suelt. 2. 252)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Rodear, ceñir ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El de Aragón rompió por aquella parte que bañan y abrazan los ríos Cinga y Segre.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 10. 12 (R. 30. 294 2 )."
+        },
+        {
+          "texto_cita": "«Verás del universo la gran traza, | Lo que hay del norte al sur, del éste al oeste, | Y cuanto ciñe el mar y el aire abraza.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc. 27 (R. 17. 101 2 )."
+        },
+        {
+          "texto_cita": "«Ves la Partia y la Media que torciendo | Su corva costa abraza al mediodía | El Caspio mar, por otro nombre Hircano, | Que en forma oval se extiende al subsolano.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 27 (R. 17. 102 1 )."
+        },
+        {
+          "texto_cita": "«Cuando la noche el horizonte cierra | Y con la negra sombra el mundo abraza, | Los principales hombres de la tierra | Se juntaron en una antigua plaza.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 11 (R. 17. 44 1 )."
+        },
+        {
+          "texto_cita": "«Por cuanto ciñe el mar y abraza el cielo | Ni otra voz suena ni otra gloria canta.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern. 2 (R. 17. 161 1 )."
+        },
+        {
+          "texto_cita": "«Viene á Sulmán el rico principado | De la ciudad, que en curso cristalino | El Darro abraza.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 23 (R. 17. 379 1 )."
+        },
+        {
+          "texto_cita": "«Ya hubo grave opinion que nos dio escrito | Que al ancho mundo en torno le abrazaba | Un vacío de inmenso circüito.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 46 (R. 17. 315 1 )."
+        },
+        {
+          "texto_cita": "«Ella [la geografía histórica] debe conducirnos al conocimiento del lugar que fue señalado á nuestro planeta en el gran sistema del universo, al de su figura y tamaño, al de los climas y regiones en que está dividido, de los mares que le abrazan, de las montañas que lo cruzan, de los pueblos y naciones que le habitan.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Disc. Sobre la geogr. hist. (R. 46. 325 2 )."
+        },
+        {
+          "texto_cita": "«El foso que lo abraza todo [el castillo] es ancho y profundísimo.»",
+          "autor": "",
+          "referencia_obra": "Id. Descr. del castillo de Bellver (R. 46. 393 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Abarcar, comprender.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Justo es que enseñemos á todos lo que deben hacer en los trabajos comunes y universales, que abrazan y comprenden á toda la república.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Trib. 2. 2 (R. 60. 414 2 )."
+        },
+        {
+          "texto_cita": "«Tampoco me obligo á abrazar y decir todo lo que hay, porque esto otros lo harán, sino de escoger algunas de las cosas más notables que han venido á mi noticia.»",
+          "autor": "",
+          "referencia_obra": "Id. Cisma , 3, pról . (R. 60. 301)."
+        },
+        {
+          "texto_cita": "«Su antiguo y estimable autor se propuso abrazar toda la facultad música.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", Múica,. 5, advert. (1. 312)."
+        },
+        {
+          "texto_cita": "«No nos permite [la muchedumbre de objetos que comprende el estudio del derecho eclesiástico] abrazar en nuestro plan una enseñanza particular y separada de sus elementos.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Regl. del col. de Calatr. 2. 4 (R. 46. 216 1 )."
+        },
+        {
+          "texto_cita": "«Sin duda que el hombre nació para estudiar la naturaleza. A él solo fue dado un espíritu capaz de comprender su inmensidad y penetrar sus leyes, y él solo puede reconocer su orden y sentir su belleza; él solo entre todas las criaturas. ¿Hay otra por ventura capaz de abrazar este sistema de unión y de armonía en que están enlazados todos los entes ---?»",
+          "autor": "",
+          "referencia_obra": "Id. Or. inaug. del Instit. Astur. (R. 46. 320 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Tener dentro de sus límites, contener, incluír. Dícese tanto de lo material comto de lo inmaterial.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Más de ciento y veinte pueblos en España se pasaron á los romanos, y entre ellos los celtiberos, gente muy poderosa y ancha, pues en su distrito abrazaban las ciudades y pueblos que hoy se llaman Segorbe, Calatayud y Medinaceli.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 2. 13 (R. 30. 44 1 )."
+        },
+        {
+          "texto_cita": "«Mira que entras en una gran ciudad, que abraza y encierra en sí todas las cosas, gobernadas por leyes eternas.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 1. 3, § 5 (R. 6. 191 2 )."
+        },
+        {
+          "texto_cita": "«La Baviera actual coge por el occidente más que el Nórico antiguo, abrazando todo lo que hay entre el Inn y el Lech, que no era Nórico en tiempo de Ptolomeo.»",
+          "autor": "Esp. sagr.",
+          "referencia_obra": "1, advert."
+        },
+        {
+          "texto_cita": "«A su admirada vista un punto solo | Es cuanto abraza la inferior esfera.»",
+          "autor": "Lista",
+          "referencia_obra": ", Poes. lír. prof. 13 (R. 67. 292 2 )."
+        },
+        {
+          "texto_cita": "«Si el mundo abraza y tiene en sí todas las cosas, mucho más las abraza vuestra omnipotencia.»",
+          "autor": "Gran.",
+          "referencia_obra": "Mem. vida crist. 7. 1, § 11 (R. 8. 4002)."
+        },
+        {
+          "texto_cita": "«¿Qué será ver aquel bien universal en quien están todos los bienes --- aquel que siendo uno es todas las cosas, y siendo simplicísimo abraza las perfecciones de todas?»",
+          "autor": "",
+          "referencia_obra": "Id. Orac. y consid. 1, sáb. en la noche (R. 8. 53 2 )."
+        },
+        {
+          "texto_cita": "«Aquel día [del juicio] abrazará en sí los días de todos los siglos presentes, pasados y venideros.»",
+          "autor": "",
+          "referencia_obra": "Id. Comp. doctr. espir. 6 (R. 11. 242 2 )."
+        },
+        {
+          "texto_cita": "«Justicia universal y perfecta que abraza todas las virtudes, y consiste en el cumplimiento de toda la ley de Dios.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Flos SS. S. José ( Vida de la Virgen , 317)."
+        },
+        {
+          "texto_cita": "«Hay Iglesia militante que abraza á los casados, vírgenes y continentes significados por Pedro, Juan y Diego.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. Transfiguración ( Vida de Cristo , 237)."
+        },
+        {
+          "texto_cita": "«La muchedumbre de objetos que abraza el estudio del derecho eclesiástico.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Regl. del col. de Calatr. 2. 4 (R. 46. 216 1 )."
+        },
+        {
+          "texto_cita": "«Escójase una buena [historia sagrada]. Creo que lo sea la de Calmet, que abraza el viejo y nuevo testamento.»",
+          "autor": "",
+          "referencia_obra": "Id. Instr. á un teól. (R. 46. 277 2 )."
+        },
+        {
+          "texto_cita": "«Si cada palabra no representa una idea nueva, y cada miembro no abraza un nuevo concepto, queda enervada la sentencia.»",
+          "autor": "Capm.",
+          "referencia_obra": "Filosof. eloc. 2, concisión (194)."
+        },
+        {
+          "texto_cita": "«Cuando prescribe Aristóteles que, la acción del drama sea una, proporcionada y completa, no tan demasiado pequeña que no se distingan sus varias partes, ni tan excesivamente grande que no las pueda abrazar juntas, nuestra propia razón nos indica el fundamento en que descansan esos preceptos.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Arte poétic. de Hor. nota 18 (1. 303)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3",
+      "definicion": ".",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "(II)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tomar con gusto, recibir algo bien, sin repugnancia alguna ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Muchos de los que vivieron sin Cristo abrazaron la pobreza, y amaron la castidad, y siguieron la justicia, modestia y templanza; de manera que quien no lo mirara de cerca juzgara que iban por donde Cristo fue, y que se parecían á él en los pasos.»",
+          "autor": "León",
+          "referencia_obra": ", Nomb 1, Camino (R. 37. 85 1 )."
+        },
+        {
+          "texto_cita": "«Les hace despreciar todas las pompas, y vanidades, y regalos del mundo, y abrazar la cruz de la penitencia y aspereza de la vida.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb. 3. 21. (R. 6. 435 1 )."
+        },
+        {
+          "texto_cita": "«Concédeme, Señor, que de aquí adelante te siga con humilde afición, y con toda presteza y obediencia abrace tus santas inspiraciones.»",
+          "autor": "",
+          "referencia_obra": "Id. Mem. vida crist. 5. 6 (R. 8. 320 1 )."
+        },
+        {
+          "texto_cita": "«Una de las principales causas que movió al Salvador á redimirnos por este medio de trabajos --- fue por animarnos con su ejemplo á abrazar los trabajos por su amor.»",
+          "autor": "",
+          "referencia_obra": "Id. Adic. al Mem. med. 18 (R. 8. 568 1 )."
+        },
+        {
+          "texto_cita": "«Aunque se pueda vencer, se ha de abrazar la paz; porque ninguna victoria tan feliz que no sea mayor el daño que se recibe en ella.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp. 99 (R. 25. 258 1 )."
+        },
+        {
+          "texto_cita": "«El duque de Benavente --- vino en deshacer su campo, abrazar la paz y ponerse en las manos de su rey.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 18. 18 (R. 31. 31 2 )."
+        },
+        {
+          "texto_cita": "«Viendo esto los cartagineses, determinan de disimular hasta tanto que con el tiempo hubiesen puesto en olvido los males pasados ó alguna ocasión se presentase que les pusiese en necesidad de abrazar la guerra.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 3 (R. 30. 31 2 )."
+        },
+        {
+          "texto_cita": "«La soledad abrazo, y no me aplace | El trato de la gente.»",
+          "autor": "Herr.",
+          "referencia_obra": "2, eleg. 12 (R. 32. 330 2 )."
+        },
+        {
+          "texto_cita": "«Vivid, señor; y sea | Con mucha felicidad, | Que yo habitaré contenta | En la soledad que abrazo, | Porque asegurada en ella | Tengamos quietud los dos.»",
+          "autor": "Mor.",
+          "referencia_obra": "El viejo y la niña, 3. 13 (R. 2. 355 1 )."
+        },
+        {
+          "texto_cita": "«Escarmentada y aterrada [la nación] con los desastres que había padecido y tenía que padecer para sacudir el yugo de Napoleón, abrazaba gustosa la ocasión grande y legítima que la suerte le ofrecía para destruír de una vez la arbitrariedad que la había perdido.»",
+          "autor": "Quint.",
+          "referencia_obra": "Obr. inéd. p. 180."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Realza los conceptos de complacencia ó libre elección con que algo se adopta.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas si todo lo aborrecemos por Dios, y nos abrazamos con la cruz, y tratamos servirle de verdad, huye él [el demonio] de estas verdades como de pestilencia.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 25 (R. 53. 80 1 )."
+            },
+            {
+              "texto_cita": "«Los días que duraba esto andaba como embobada, no quisiera ver ni hablar, sino abrazarme con mi pena, que para mí era mayor gloria que cuantas hay en todo lo criado.»",
+              "autor": "",
+              "referencia_obra": "Ead. ib. 29 (R. 53. 90 1 )."
+            },
+            {
+              "texto_cita": "«Debería bastar para dar, con la gracia del Señor, de mano á todos los vicios y abrazarnos con la virtud.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Todos los Santos ( Vida de la Vírgen, 382)."
+            },
+            {
+              "texto_cita": "«De ricos se hicieron pobres, y de poderosos y estimados, abyectos y humildes, y se abrazaron con la abnegación de sí mismos, y con la cruz de Cristo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. Nativ. de J. C. ( Vida de Cristo, 147)."
+            },
+            {
+              "texto_cita": "«Para enseñarnos á dar de mano á los gustos y deleites de la tierra, y abrazarnos con la aspereza y mortificación de la carne, escogió para nacer un tiempo frío y riguroso.»",
+              "autor": "",
+              "referencia_obra": "Id. Vida de Cristo (13)."
+            },
+            {
+              "texto_cita": "«Los padres y superiores aconsejaban á sus hijos siempre el menospreciar la altivez y presunción, y abrazarse con la humildad.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 2. 2 (87)."
+            },
+            {
+              "texto_cita": "«¡Cuán bienaventurado | Aquel puede llamarse | Que con la dulce soledad se abraza.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl. 2 (R. 32. 6 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. dep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El monje abrazado con la esperanza, es vencedor de la acidia, de la cual triunfa con el cuchillo que ésta le pone en las manos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir. 31 (R. 11. 379 1 )."
+            },
+            {
+              "texto_cita": "«El, abrazado con su dulce engaño, | Vuelve los ojos á la voz piadosa, | Y alégrase, muriendo, con su daño.»",
+              "autor": "Garcil.",
+              "referencia_obra": "eleg. 2 (R. 32. 26 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Del sabio, el noble, el casto, del modesto, | Y del que á sola la virtud se abraza, | Un necio burla, si á un adarme llega | La pobre plata que en su cofre allega.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 15 (R. 17. 295 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En sentido material.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Acaece alguna vez que, habiendo comido algún manjar que no abraza bien el estómago por serle contrario, lo trueca y echa de sí y con él los otros manjares de buen mantenimiento que estaban en el estómago.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Flos SS. Resurr. ( Vida de Cristo, 255)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4",
+      "definicion": ". met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Adoptar, seguir, como una doctrina, una profesión, etc. ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De las primeras provincias del mundo que abrazaron este culto y religión y de las que más recio en ella tuvieron, fue una España.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 4. 1 (R. 30. 87 1 )."
+            },
+            {
+              "texto_cita": "«Cuando los suevos abrazaron la religión católica tenían por rey á Teodomiro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 9 (R. 30. 136 2 )."
+            },
+            {
+              "texto_cita": "«Instituyéronse las órdenes militares á semejanza de las de Jerusalén; gran parte de nuestra nobleza abrazó su instituto, y en la restante se imbuyó su espíritu.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. sobre espect. 1 (R. 46. 482 2 )."
+            },
+            {
+              "texto_cita": "«Los griegos, que abrazaron al principio la proporción de la columna egipcia, fueron después aumentándola.»",
+              "autor": "",
+              "referencia_obra": "Id. Elog. de V. Rodr. nota 11 (R. 46. 385 1 )."
+            },
+            {
+              "texto_cita": "«Es probable que este enlace le hiciese abrazar enteramente los intereses, miras y pasiones de los conquistadores.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 465 2 )."
+            },
+            {
+              "texto_cita": "«La historia recuerda con gusto los nombres de individuos de la nobleza y del clero que abrazaron de buena fe la causa de la revolución, que siguieron gran trecho sus banderas, y que lloraron con lágrimas de sangre sus extravíos y excesos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Esp. del siglo, 2. 9 (5. 80). —"
+            },
+            {
+              "texto_cita": "«La institución y profesión de tan santa religión corno es la de S. Francisco (la cual abrazastes en vuestra tierna edad), os enseñan y amonestan lo que en un trance tan riguroso como éste habéis de hacer.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 1. 32 (R. 60. 217 1 )."
+            },
+            {
+              "texto_cita": "«Casas vivió este tiempo entregado todo á los ejercicios y austeridades de la regla que había abrazado.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 454 2 )."
+            },
+            {
+              "texto_cita": "«Te privará de su herencia, | Si averigua el nuevo estado | Que sin su venia abrazaste.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", El filósofo casado, 1. 2 (5. 9)."
+            },
+            {
+              "texto_cita": "«¡Oh si pudiese entonces merecer espacio de penitencia, cuán áspera vida abrazaría, cuán grandes cosas prometería; y á cuántos votos y oraciones se obligaría!»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 24 (R. 6. 86 2 )."
+            },
+            {
+              "texto_cita": "«Para qué se hizo la voluntad sino para abrazar y amar al bien?»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 1, § 1 (R. 6. 18 2 )."
+            },
+            {
+              "texto_cita": "«Sabe que están ya determinados de aborrecer el mal, y abrazar el bien.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 4. 12 (R. 8. 276 1 )."
+            },
+            {
+              "texto_cita": "«Seguirá con más ardor y tesón los [estudios] que tenian mayor influjo en la profesión que ha de abrazar después.»",
+              "autor": "Quint.",
+              "referencia_obra": "Inf. sobre instr. públ . (R. 19. 182 1 )."
+            },
+            {
+              "texto_cita": "«Corrió por Cádiz la noticia de que Blake, si no había abrazado el partido del rey intruso, estaba cerca de abrazarle.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos, p. 192."
+            },
+            {
+              "texto_cita": "«Su fantasía | Abrazó con placer tales ideas.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 11 (2. 124)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta doctrina del Señor, por su pureza, alteza, excelencia y majestad, merecía por sí sola ser oída y abrazada de todo el mundo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos. SS. Vida de Cristo (45)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Por extensión, Aceptar, admitir.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Una es la razón que confirma y prueba la divina Providencia y la inmortalidad del ánima; ni podemos abrazar lo uno y desechar lo otro.»",
+          "autor": "",
+          "referencia_obra": "Grán. Símb. 1. 36, § 1 (R. 6. 269 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Las galeras á remos con grand fuerza abrazaron la tierra de España.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 166."
+        },
+        {
+          "texto_cita": "«Fue el acuerdo que navegasen aquella via que avian comenzado, e ficiesen mucho por se abrazar á Inglaterra.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 95."
+        },
+        {
+          "texto_cita": "«Mançebos, viejos, toda criatura | Se abraçan comigo muy fuertemente.»",
+          "autor": "",
+          "referencia_obra": "C anc. de Baena, p. 294."
+        },
+        {
+          "texto_cita": "«E vi á la leona un niño abraçado.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 207. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Abrazóse con el infante porque non pudiese llegar al rey.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro I, 9. 6 (R. 66. 484 2 )."
+        },
+        {
+          "texto_cita": "«Doña Leonor tomó al maestre su fijo, é abrazólo, é besólo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 2. 3 (R. 66. 412 2 )."
+        },
+        {
+          "texto_cita": "«E los rreyes se abraçaron | En muy grant sennal de amor.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1236 (R. 57. 514 2 )."
+        },
+        {
+          "texto_cita": "«Abrazó con el un brazo el estandarte, et con el otro peleaba et esforzaba á los suyos quanto podia; --- et él abrazado con el estandarte peleó con una espada que tenia en la mano, fasta que le cortaron una pierna.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 209 (R. 66. 307 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Yo non quise ál sinon contender con mi alma et defenderla de non se abrazar de las cosas.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 15 1 )."
+        },
+        {
+          "texto_cita": "«Si fueren sarmientos deven tomar quanto podieren levar en el ombro abraçado con el braço.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 1. 8. 4 (42)."
+        },
+        {
+          "texto_cita": "«Embiaron esto a Ector su hermano, | Escudos abraçados, lanças a sobre mano.»",
+          "autor": "Alex.",
+          "referencia_obra": "588 (R. 57. 165 2 )."
+        },
+        {
+          "texto_cita": "«Abrió luego los oios, compeçó de lorar, | Cataua contral infante e nol podia fablar, | Sinól con los braços quel fues abraçar.»",
+          "autor": "",
+          "referencia_obra": "Ib. 168 (R. 57. 152 2 )."
+        },
+        {
+          "texto_cita": "«Luego que esto disso la bestia enconada, | Quiso en el sancto omne meter mano irada, | Abrazarse con elli, pararli zancaiada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill. 118 (R. 57. 68 2 )."
+        },
+        {
+          "texto_cita": "«Pararonse delante al ninno coronado, | El que tenie la madre dulçemente abrazado.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 692 (R. 57. 124 2 )."
+        },
+        {
+          "texto_cita": "«Salieron reçibirla con responsos doblados, | Fueron abrazarla con los brazos alzados.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria, 64 (R. 57. 139 2 )."
+        },
+        {
+          "texto_cita": "«Abraçan los escudos delant los coraçones.»",
+          "autor": "Cid",
+          "referencia_obra": ", 3615 (R. 57. 37 1 )."
+        },
+        {
+          "texto_cita": "«Quando vio Myo Cid asomar á Minaya, | El cauvallo corriendo ualo abraçar sin falla.»",
+          "autor": "",
+          "referencia_obra": "Ib. 920 (R. 57. 12 2 )."
+        },
+        {
+          "texto_cita": "«El Cid a donna Ximena yua-la abraçar.»",
+          "autor": "Berg.",
+          "referencia_obra": "Antigüed. 2, p. 106."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de á , que da la idea de acercar, juntar, y brazo . Mall., cat., prov. abrassar ; val. port. abraçar; it. abbracciare.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "La z se cambia en c antes de e: abrace, abracéis.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. — Recípr.: 1, b, α , α α . — Refl.: 1, c - 1, d, α , α α - 1, e, β , γ - 3, b . — Part. : 1, c, β , α α - 1, e, β , α α - 1, e, γ , α α - 3, b, α , α α . — Con á : 1, c, α - 1, ε, β - 3, β, β . — Con: 1, c, β - 1, δ, α , α α - 1, e, γ - 3, β, α . — De : 1, c, γ . \u0000"
+}

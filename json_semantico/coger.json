@@ -1,0 +1,1953 @@
+{
+  "lema": "COGER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1",
+      "definicion": ". Las siguientes aplicaciones nos representan fielmente el verbo latino originario:",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Allegar y juntar en uno lo esparcido ó suelto ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Agora con la aurora se levanta | Mi luz, agora coge en rico nudo | El hermoso cabello, agora el crudo | Pecho ciñe con oro y la garganta.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1 , son. 3 (4. 349)."
+            },
+            {
+              "texto_cita": "«Bien fuera tiempo de coger la vela | Con presta mano, y revolver á tierra | La prora que cortando el ponto vuela.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg. 11 (R. 32. 328 2 )."
+            },
+            {
+              "texto_cita": "«Oro flexible anuda su cabello | Oro concha el carcaj; coge un zafiro | Y oro de Ofir su túnica de Tiro.»",
+              "autor": "Maury",
+              "referencia_obra": ", Dido (R. 67. 178 1 )."
+            },
+            {
+              "texto_cita": "«Su memoria es tan infeliz que no se acuerda de coger los puntos de mis calcetas, y tal vez equivoca el día 21 con el último del mes.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Tropiezos de una escalera (347). —"
+            },
+            {
+              "texto_cita": "«Coger la ropa: doblarla.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Y de las beatas espirituales, que si no cogen el manto cuando vienen de fuera, es por no tardar en descogerle cuando vuelven á salir, ¿qué te parece?»",
+              "autor": "J. de los Ángeles",
+              "referencia_obra": ", Conq. del reino de Dios, 8. 4 (306)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las hebras esparcidas por el cuello --- | Cogidas unas van en lazo bello, | Sin arte libres otras y cuidado.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, canc . 1 (R. 32. 300 1 )."
+            },
+            {
+              "texto_cita": "«Venía entre ellos un contramaestre muy alentado, con una barbaza que le llegaba hasta la cinta --- con la fuerza del viento se le desanudó la barbaza que llevaba cogida.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 2. 7 (R. 18. 433 1 )."
+            },
+            {
+              "texto_cita": "«En camisa y descalza, cogidos los cabellos en una albanega de fustán, con tácitos y atentados pasos entró en el aposento.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 16 (R. 1. 286 2 )."
+            },
+            {
+              "texto_cita": "«No todas veces lleva el marinero tendidas las velas de su navio, ni todas las lleva cogidas, pues según el viento tal es el tiento.»",
+              "autor": "",
+              "referencia_obra": "Id. Tía fing. (R. 1. 248 2 ). —"
+            },
+            {
+              "texto_cita": "«Pasa el río Jenil tan cogido y acanalado, que apenas se puede vadear.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 25. 2 (R. 31. 214 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part . Se halla aplicado á la persona misma que, siendo delgada, parece ceñida. Con de , para expresar la parte.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mujer de su misma condición, moza y muy hermosa, alta de cuerpo, cogida de cintura, delgada no flaca.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 2 (R. 18. 380 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Tomar lo separado y disperso para allegarlo y juntarlo ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andábamos cogiendo tiernas flores.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl . 1 (R. 32. 5 2 )."
+            },
+            {
+              "texto_cita": "«Cogeríamos juntos las manzanas, | Las coloradas uvas.»",
+              "autor": "Mend.",
+              "referencia_obra": "carta 3 (R. 32. 58 1 )."
+            },
+            {
+              "texto_cita": "«Comenzaron luégo á coger diversas flores del verde prado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 12 1 )."
+            },
+            {
+              "texto_cita": "«Con ocasión de coger algunas hierbas, un día, antes de mi partida fui allá.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 41 (R. 1. 368 2 )."
+            },
+            {
+              "texto_cita": "«Este año no se han cogido bellotas en este pueblo; con todo eso envío á vuestra alteza hasta medio celemín, que una á una las fui yo á coger y á, escoger al monte.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 52 (R. 1. 515 1 )."
+            },
+            {
+              "texto_cita": "«Ya ni las bellas flores me recrean, | Ni las acierto á ver en los lugares | Donde tú, mi Amarilis, las cogías.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "canc. En tanto que gozaban (R. 42. 259 2 )."
+            },
+            {
+              "texto_cita": "«Tan pobre y mísero estaba, | Que sólo se sustentaba | De unas hierbas que cogía.»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 1. 2 (R. 7. 2 2 )."
+            },
+            {
+              "texto_cita": "«Los hijos de Israel cogían tanto de aquel maná que Dios les enviaba en el desierto cuanto bastaba para mantenimiento de aquel día que lo cogían»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist 5. 3, §1(R. 8. 303 2 )."
+            },
+            {
+              "texto_cita": "«Así hinche la abeja su colmena de cera y miel, andando de flor en flor, cogiendo lo uno y lo otro.»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem . 2. 1 (R. 8. 457 1 )."
+            },
+            {
+              "texto_cita": "«Coge el Señor el alma, digamos ahora á manera que las nubes cogen los vapores de la tierra, y levántala toda della (helo oído ansí esto, de que cogen las nubes los vapores ó el sol, y sube la nube al cielo); y llévala consigo y comiénzala á mostrar cosas del reino que le tiene aparejado.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida , 20 (R. 53. 64 1 ). —"
+            },
+            {
+              "texto_cita": "«Con esto cogía mucha limosna, y entrábase en las casas que vela abiertas, y si no había testigos, ni estorbo, robaba cuanto topaba.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac . 16 (R. 23. 513 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se retiró con los suyos cogidos y poco á poco hacia sus reales, que por ser ya noche no fueron tomados por el enemigo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 2. 2 (R. 30. 30 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Tiene particular uso tratándose de la recolección de los frutos de la tierra, como los granos, la uva, la aceituna ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las maneras del coger [las aceitunas] son muchas, mas la principal es á mano con escalas sin herir la oliva.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric . gen . 3. 35 (2. 340)."
+            },
+            {
+              "texto_cita": "«Así como el arar y sembrar es medio para coger trigo, así la oración para alcanzar frutos espirituales, por lo cual no nos debemos maravillar si tan poco cogemos, pues que tan poca oración sembramos.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi , 70 ( Míst . 3. 268)."
+            },
+            {
+              "texto_cita": "«Cada uno cultivaba sus tierras, plantaba sus olivos, cogía sus frutos, vendimiaba sus viñas.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 113)."
+            },
+            {
+              "texto_cita": "«Ni el que sembró cebada coge trigo, ni al revés coge cebada si fue de trigo la sementera.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 4 (1. 60)."
+            },
+            {
+              "texto_cita": "«El que labra el campo, de lo que coge en él da sus primicias y diezmos á Dios.»",
+              "autor": "",
+              "referencia_obra": "Id. Perf. cas . 10 (3. 465)."
+            },
+            {
+              "texto_cita": "«Se sustentaron los nuestros cinco años, sin que en todas aquellas comarcas se labrase campo ni viña, cogiendo solamente lo que la tierra naturalmente produce.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 41 (R. 21. 38 2 )."
+            },
+            {
+              "texto_cita": "«Cansado de coger fruta madura | De mis huertos volvía paso á paso.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro, 1 (23)."
+            },
+            {
+              "texto_cita": "«Es una verdad constante que en España hay algunas provincias que no cogen los granos necesarios para su subsistencia, y que otras en años comunes cogen más de lo que necesitan.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 1 a . clase (R. 50. 110 2 )."
+            },
+            {
+              "texto_cita": "«Nada habían sembrado, nada cogido, y estaban por consiguiente tan menesterosos como ellos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 286 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La razón y cuenta de lo que se sembraba y cogía pasaba por mi mano.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 28 (R. 1. 326 1 )."
+            },
+            {
+              "texto_cita": "«De los frutos de la tierra, ninguno se coge con mayores demostraciones de alegría que el pan.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 4. 170)."
+            },
+            {
+              "texto_cita": "«La comarca es abundante, el vino que en ella se coge es el mejor de Palestina.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 4. 11 (356)."
+            },
+            {
+              "texto_cita": "«Se cogía en abundancia el maíz y demás frutos del país.»",
+              "autor": "Quint.",
+              "referencia_obra": "Balboa (R. 19. 293 2 )."
+            },
+            {
+              "texto_cita": "«Otro ansioso desea | Cuanto en las eras de Africa se coge | Guardar en su ancha troje.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ". trad. de Hor. od. 1. 1 (1. 41). —"
+            },
+            {
+              "texto_cita": "«Tristísima dejaba | La fruta sin coger en su cercado.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 2, égl . 1 (4. 398)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mucho más alegra el fin de la jornada que el camino, el puerto más que la navegacion; más el coger que el sembrar.»",
+              "autor": "Gran.",
+              "referencia_obra": "serm. Epif . (R. 11. 4 2 )."
+            },
+            {
+              "texto_cita": "«Sembraréis y no cogeréis, porque vuestros enemigos destruirán lo que hubiéredes sembrado.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 10 (R. 60. 376 2 )."
+            },
+            {
+              "texto_cita": "«Pues sembrar y no coger, | Es perder tiempo y caudal.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los ramilletes de Madrid , 2. 3 (R. 52. 310 2 )."
+            },
+            {
+              "texto_cita": "«El que observa los vientos no siembra; ni coge quien considera las nubes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 34 (R. 25. 89 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son las fuentes de donde nace todo aquel no curar de lo por venir, aquel coger sin rienda ni medida el fruto el deleite y pasatiempo presente.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares, 5. 16 (4. 96)."
+            },
+            {
+              "texto_cita": "«Los jueces son --- la simiente que más provecho y fruto nos da á los diablos, porque de cada juez que sembramos, cogemos seis procuradores, dos relatores, cuatro escribanos, cinco letrados y cinco mil negociantes, y esto cada día.»",
+              "autor": "Quev.",
+              "referencia_obra": "Alguacil (R. 23. 306 1 )."
+            },
+            {
+              "texto_cita": "«En todo tiempo, el que sembrare corrupción cogerá muerte y corrupción.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 2, concl. (R. 60. 297 1 )."
+            },
+            {
+              "texto_cita": "«Creyendo sembrar beneficios, cogieron ingratitudes y odios, haciendo de amigos enemigos, con que después vivieron y murieron infelices.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 47 (R. 25. 120 1 )."
+            },
+            {
+              "texto_cita": "«Vive ínfeliz el que se expuso al gasto, al trabajo, ó al peligro ajeno, y creyendo coger agradecimientos, cogió ingratitudes.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 47 (R. 25. 120 2 )."
+            },
+            {
+              "texto_cita": "«Pues, estos tres frutos tan señalados cogerá el piadoso lector desta lectura de milagros.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 29, § 4 (R. 6. 363 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Colegir, inferir ( trans. ) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Recitábanse, según esta costumbre que hemos visto, los nombres de los santos en la misa, y por escrito se leían primero los apóstoles y después los mártires, y, según se coge de san Agustín, otros santos, aunque no eran mártires.»",
+          "autor": "",
+          "referencia_obra": "Sig . Vida de S. Jer. 5. 5 (436)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Comparados los ejemplos aducidos en 1, b, con los que vamos á citar, aparece cómo del sentido especial de Tomar para juntar ó allegar, se ha pasado al general de Tomar con la mano ó con algún instrumento que se tenga en ella ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El discreto en el jardín | Coge la negra violeta | Y deja el blanco alhelí.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 85 (R. 32. 537 2 )."
+            },
+            {
+              "texto_cita": "«Con cuánto gozo coge la alta pera, | Y uvas como granas | Y á ti, sacro Silvano, las presenta, | Que guardas el ejido.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 2, trad. de Hor. epod. 2 (4. 506)."
+            },
+            {
+              "texto_cita": "«¿Qué pasatiempo mejor | Orilla el mar puede hallarse | Que escuchar el ruiseñor, | Coger la olorosa flor | Y en clara fuente lavarse?»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana, 3 (136)."
+            },
+            {
+              "texto_cita": "«En campo estoy con el enemigo, siguiendo voy sus alcances; aunque más joyas arroje en la carrera, no pararé un momento á cogerlas.»",
+              "autor": "Roa",
+              "referencia_obra": ", Vida de Dª. Ana Ponce de León , 4. 4 (179)."
+            },
+            {
+              "texto_cita": "«Siempre hay alguno que sabe leer, el cual coge uno destos libros en las manos, y rodeámonos dél más de treinta, estámosle escuchando.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 32 (R. 1. 339 1 )."
+            },
+            {
+              "texto_cita": "«Madrugó antes que el sol, y cogiendo las reliquias de su retablo y á su mono, se fue también á buscar aventuras.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 26 (R. 1. 461 2 )."
+            },
+            {
+              "texto_cita": "«Estos pensamientos le llevaban tan fuera de sí, que sin sentirlo soltó las riendas á Rocinante --- De su embelesamiento le volvió Sancho Panzadiciéndole: vuesa merced se reporte, y vuelva en sí y coja las riendas á Rocinante.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 11 (R. 1. 425 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para señalar el objeto en que se halla ó de que es parte lo que se separa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entre las frutas hay unas que en cogiéndolas del árbol se pueden luégo, comer, y otras que primero es menester darles algún cocimiento.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. espir . 35 (R. 11. 266 2 )."
+            },
+            {
+              "texto_cita": "«Inclinóse el caballo y dobló ambas rodillas, en tanto que su dueño ofrecía el listón á la gentil doncella, que lo cogió con sus propias manos de la misma punta de la lanza.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 6 (4. 325)."
+            },
+            {
+              "texto_cita": "«Cuan grande fuere el vaso de la fe que con nosotros llevamos, tanta será el agua que de la fuente de la divina misericordia cogeremos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 5. 2, § 3 (R. 8. 298 1 ). Item, Símb. 2. 11, § 4 (R. 6. 309 2 )."
+            },
+            {
+              "texto_cita": "«Acaece algunas veces que cogiendo agua de la fuente, á vueltas del agua cogemos alguna rana.»",
+              "autor": "",
+              "referencia_obra": "Id. Esc. espir. 26, § 1 (R. 11. 353 2 )."
+            },
+            {
+              "texto_cita": "«El que va á coger agua de la mar, tanta agua coge, cuan grande vaso lleva.»",
+              "autor": "",
+              "referencia_obra": "Id . Mem. vida crist. 3. 1 (R. 8. 242 2 ). —"
+            },
+            {
+              "texto_cita": "«No suelen las abejas | Coger tan dulce miel de flor ninguna.»",
+              "autor": "",
+              "referencia_obra": "Jáur Aminta , 1 (R. 42. 136 1 )."
+            },
+            {
+              "texto_cita": "«Aun las industriosas abejas --- jamás han cogido de aquellas flores el primer rocío de la mañana.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro, 1 (3)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Este de es otras veces partitivo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No solamente cogen olorosas flores, mas también suelen merendar en él [ en el jardín] y llevar vianda y vino, y allá cogen de las frutas que hay.»",
+              "autor": "León",
+              "referencia_obra": ", Cantares , 5. 2 (4. 80)."
+            },
+            {
+              "texto_cita": "«Y coge con su mano | De la erizada fruta del castaño.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro , 2 (56)."
+            },
+            {
+              "texto_cita": "«Corvando una de sus hermosas manos, cogió en ella del agua clara, con la cual lavándose los húmidos ojos, con voz baja y debilitada, dijo ---»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 1 (R. 1. 12 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Asir, agarrar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Cogere yo un garrote, y antes que vuestra merced llegue á despertarme la cólera, haré yo dormir á garrotazos de tal suerte la suya, que no despierte, si no fuere en el otro mundo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 14 (R. 1. 432 1 )."
+            },
+            {
+              "texto_cita": "«Al punto cogí mi daga y corté las ligaduras de aquellos hermosos aunque debilitados miembros.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 7 (R. 18. 455 1 )."
+            },
+            {
+              "texto_cita": "« . Cogíle las llaves, y los bellacones, que vieron el caso, acudieron luégo.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib . 3. 2 (R. 18. 448 2 )."
+            },
+            {
+              "texto_cita": "«Salta del lecho, envuélvese en su manto,",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Coge una daga, de la alcoba sale.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 9 (2. 318)."
+            },
+            {
+              "texto_cita": "«Dos veces | Cogí ya esta malvada, y no sé cómo | Se me fue de las manos; mas si llega | Por la tercera vez al mismo paso, | Ya yo la pienso asegurar de modo | Que escapar no podrá.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. Pasor fido , 4 (R. 19. 24 1 ). —"
+            },
+            {
+              "texto_cita": "«Hay sabido destos que coge á un caballero andante durmiendo en su cama, y sin saber cómo ó en qué manera, amanece otro día más de mil leguas de donde anocheció»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 31 (R. 1. 336 2 ). —"
+            },
+            {
+              "texto_cita": "«Es arrojado de otro más poderoso con violelncia y con fuerza, como el toro arroja al que coge en los cuernos.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 24 (2. 43)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para denotar lal parte que se ase.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Coger de la mano.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Cogen á su tío de la casaca.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            },
+            {
+              "texto_cita": "«Si estoy por ir y cogerla | De los cabellos y darla | A la pícara tal felpa...»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña , 3. 3 (R. 2. 350 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con por, en sentido análogo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por los cabellos crespos veloz coge | Al tierno infante, y la cabeza inclina.»",
+              "autor": "Lope",
+              "referencia_obra": ", Filom. 3 ( Obr. suelt. 2. 419)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando te dieren un gobierno, cógele; cuando te dieren un condado, agárrale.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 49 (R. 1. 510 2 )."
+            },
+            {
+              "texto_cita": "«Se podía después emplear [el ejército] en las fronteras de Francia, cogiendo la ocasión que en la primavera se había perdido.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal 2 (R. 21. 483 2 )."
+            },
+            {
+              "texto_cita": "«Empezáronse pláticas de guerra --- Los que las cogieron tristes, lloraron tiernamente al malogrado Alonso Alvarez.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 23 (R. 23. 527 2 )."
+            },
+            {
+              "texto_cita": "«El papel que debo hacer con mi prima está reducido á dos puntos: jurar que estoy pronto á casarme con, ella, y al mismo tiempo disgustarla de modo que no se atreva á cogerme la palabra.»",
+              "autor": "Hartz.",
+              "referencia_obra": "La. coja y el encogido , 2. 2 (292)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Por extensión, Asegurar, tener firmemente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En cogiendo algún perro en la calle ó en cualquiera otra parte, con el un pie le cogía el suyo, y el otro le alzaba con la mano, y corno mejor podía le acomodaba el cañuto en la parte que soplándole, le ponía redondo como una pelota.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2, pról. (R. 1. 404)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Entre la gente de mar se ha extendido aun más la aplicación del verbo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Coger tierra, el puerto ó el fondeadero, etc.; coger fondo; coger barlovento.»",
+              "autor": "",
+              "referencia_obra": "Dicc. Marít."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Coger entre puertas : se dice cuando al perro se le cierran las puertas apretándole el cuerpo entre ellas; y metafóricamente cuando se sorprende á una persona para obligarla á algo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los jueces nunca pierdan el respeto á los templos, porque les sucede lo que á los perros que andan buscando la vida, que si muchas veces comen, alguna los vienen á coger entre puertas.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud , 2. 5 (R 18. 430 2 ). — Part ."
+            },
+            {
+              "texto_cita": "«Yo todavía me estaba debajo de la cama, quejándome como perro cogido entre puertas.»",
+              "autor": "Quev.",
+              "referencia_obra": "Gran Tac. 5 (R. 23. 494 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Coger en medio : por extensión, Ponerse ó estar á uno y otro lado ó en torno de una persona ó cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Recibió cartas del duque --- dando por último remedio que se juntasen los dos campos, y cogiesen en medio á Abenabó.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 4 (R. 21. 113 2 )."
+            },
+            {
+              "texto_cita": "«Fuéronse á la sala, donde había un rico estrado, y cogiendo al señor en medio, se sentaron todas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 7 (R. 1. 179 2 )."
+            },
+            {
+              "texto_cita": "«Acudieron á sus estacas, y cogiendo á los dos en medio, comenzaron á menudear sobre ellos con grande ahinco y vehemencia.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 15 (R. 1. 283 2 )."
+            },
+            {
+              "texto_cita": "«Hiciéronse mil corteses comedimientos y finalmente cogiendo á D. Quijote en medio, se fueron á sentar á la mesa.»",
+              "autor": "",
+              "referencia_obra": "Id ib . 2. 31 (R. 1. 470 1 )."
+            },
+            {
+              "texto_cita": "«Llegaron doce pajes ---Cogiéronle en medio, y lleno de pompa y majestad le llevaron á otra sala.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 31 (R.1. 470 1 )."
+            },
+            {
+              "texto_cita": "«Cogiéronlos los escuderos en medio, guardando vencidos y vencedores gran silencio.»",
+              "autor": "",
+              "referencia_obra": "Id. Ib . 2. 60 (R. 1. 533 1 )."
+            },
+            {
+              "texto_cita": "«Una oscura nube densa y fría, | En medio nos cogió.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 12 (R. 17. 269 2 ). —"
+            },
+            {
+              "texto_cita": "«Cógenla en medio á esta capilla dos escaleras, á la mano derecha la que baja del dormitorio para venir al coro, y por la otra se baja al relicario.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de la M. Ma. de S. Jos. 4. 6 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ )",
+          "definicion": "La frase",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cogerse un pellizco»",
+              "autor": "Acad.",
+              "referencia_obra": ", es sin duda resultado de la analogía con otras frases reflejas ( v. gra."
+            },
+            {
+              "texto_cita": "«darse un golpe»",
+              "autor": "",
+              "referencia_obra": "), y no construcción natural. Nos lo hace creer el hecho de que, no habiéndola oído nunca, no podríamos decir con seguridad la manera de usarla."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Sacar con maña, sonsacar ( trans. ) ( fam. ). Se dice los mismo de lo material que de lo inmaterial.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Le alabé de gran torero--- | Después toqué la guitarra... | Finalmente, le cogí | Diez duros.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Tanto vales cuanto tienes, 2.11 (4. 25). —"
+        },
+        {
+          "texto_cita": "«No estoy en hablar á Valdemoro; que tengo sospecha que amistad para hacernos bien, no la terná, sino para ver si coge algo de que avisar á sus amigos.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Cartas , 1. 28 (R. 55. 90 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Con suj. de cosa, Caer, pasar ó quedar sobre algo oprimiéndolo (trans.). Con mucha frecuencia se le agrega el adv. debajo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cayóse el alto asiento, y de las gradas | La madera cogió la vulgar gente, | Que entre alfombras, tapices y almohadas | Ahogada, gime y quiere alzar la frente.»",
+          "autor": "Lope",
+          "referencia_obra": ", Angél . 6 (Obr. suelt. 2. 86)."
+        },
+        {
+          "texto_cita": "«Por arrimar el hombro coge el carro | Al que, más generoso que prudente, | Logró sacarle del inmundo barro. | El brazo se partió, grita la gente.»",
+          "autor": "Somoza",
+          "referencia_obra": ", epíst . 1 (R. 67. 469 1 ). —"
+        },
+        {
+          "texto_cita": "«Cayóse un pedazo de pared, el cual cogió debajo al niño, y le, dejó yerto, frío y sin señal alguna de vida.»",
+          "autor": "Yepes",
+          "referencia_obra": ", Vida de Sta. Ter. 2. 5 (Míst. 1. 124)."
+        },
+        {
+          "texto_cita": "«Dio [el caballo] consigo y con el gitano en tierra, y cogiéndole una pierna debajo, se revolcó de manera, que fue bien necesaria la ligereza del gitano para que no se la quebrase.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud. 1. 16 (R. 18. 411 2 )."
+        },
+        {
+          "texto_cita": "«A esta pierna más | Todo el dolor corresponde, | Que fue la que me cogió [la yegua] | Debajo.»",
+          "autor": "Cald.",
+          "referencia_obra": "Casa con dos puertas , 3. 7 (R. 7. 144 2 )."
+        },
+        {
+          "texto_cita": "«El barbero hizo de suerte que el cabrero cogió debajo de sí á D. Quijote, sobre el cual llovió tanto número de mojicones, que del rostro del pobre caballero llovía tanta sangre como del suyo.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1 52 (R. 1. 398 2 )."
+        },
+        {
+          "texto_cita": "«Se me figura España desde el fin de 1500 como una casa grande que ha sido magnifica y sólida, pero que con el transcurso de los tiempos se va cayendo, y cogiendo debajo á sus habitantes.»",
+          "autor": "Cadalso",
+          "referencia_obra": ", Cart. marr . 44 (2. 193)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con esta razón quietó Cerial los ánimos de los de Tréveris, para que no se opusiesen á la potencia romana, diciendo que tan gran máquina no se podía derribar sin que su ruina cogiese debajo a quien lo intentase.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 34 (R. 25. 90 2 )."
+            },
+            {
+              "texto_cita": "«La ira de Dios, que al que una vez coge debajo, le destruye, permitía que las cosas se pusiesen en tan peligroso estado.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist . Esp . 16. 16 (R. 30. 484 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aplicado al lugar, Ponerse en él, tomar, ocupar ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya á coger lugar | Corre el pueblo alborotado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La cueva de Salamanca , 3 (R. 20. 98 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Están las puertas cogidas.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "La frase marinesca coger un agua , por detenerla ó contenerla obstruyendo ó tapando el agujero ó rendija por donde penetra á bordo, ofrece una metonimia en que el verbo combina el sentido que tiene en coger las salidas con el que aparece en coger los puntos de las medias (1, a,",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "α)",
+          "definicion": ". Lo mismo se observa en la locución bogotana coger una gotera.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Hablándose de un camino ó cualquier paso, es comúnmente Ponerse en él para seguirlo y alejarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Coger la puerta: irse.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc."
+            },
+            {
+              "texto_cita": "«Alborotóse la hostería, y cargaron tantas cuchilladas sobre mí y sobre el otro español, que si no cogemos una escalera, nos hacen pedazos.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 3 (R. 18. 450 1 )."
+            },
+            {
+              "texto_cita": "«Cogí mi camino encomendándome á Dios.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 7 (R. 18. 455 2 )."
+            },
+            {
+              "texto_cita": "«Picando con toda la priesa posible cogí el camino de Málaga ó de Gibraltar.»",
+              "autor": "",
+              "referencia_obra": "Id . ib . 3. 16 (R. 18. 467 2 )."
+            },
+            {
+              "texto_cita": "«Que viéndole aquesta tarde | Sacar el acero allí, | Otra vereda cogí.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mejor está que estaba 1. 6 (R. 7. 227 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En lugar de",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cogió su camino calle arriba»",
+              "autor": "",
+              "referencia_obra": ", se dijo en lo antiguo, y aun se oye en Galicia y en América,"
+            },
+            {
+              "texto_cita": "«Cogió calle arriba.»",
+              "autor": "Acad.",
+              "referencia_obra": "así:"
+            },
+            {
+              "texto_cita": "«Junto con algunos verbos unidos con conjunción, Resolverse ó determinarse á la acción que significa el verbo con que se junta; y así se dice: cogió y se fue; cogí y me acosté, etc.»",
+              "autor": "Acad.",
+              "referencia_obra": "vulgar é inelegante; pero la han usado escritores respetables."
+            },
+            {
+              "texto_cita": "«Entonces no dijo nada: | Cogió y se entró derechito | Sin hablar una palabra.»",
+              "autor": "Mor.",
+              "referencia_obra": "El barón , 2. 10 (R. 2. 389 1 )."
+            },
+            {
+              "texto_cita": "«Viéndose él así, sin oficio ni beneficio, ni pariente ni habiente, ha cogido y se ha hecho poeta.»",
+              "autor": "",
+              "referencia_obra": "Id. La comedia nueva , 1. 1 (R. 2. 359 2 )."
+            },
+            {
+              "texto_cita": "«Venga | Un billete de interior. | Doy el nombre, tomo, pago, | Y listo como un cohete... | — Basta; dáme acá el billete. | — Y luégo, cojo y ¿qué hago? | Me voy a la policía.»",
+              "autor": "Bretón",
+              "referencia_obra": ", Me voy de Madrid , 3. 2 (2. 67). Si nuestra conjetura no es infundada,"
+            },
+            {
+              "texto_cita": "«Cogió y se fue»",
+              "autor": "",
+              "referencia_obra": "en su origen hubo de ser"
+            },
+            {
+              "texto_cita": "«Cogió su camino y se fue»",
+              "autor": "",
+              "referencia_obra": ", de donde vino después a emplearse el verbo para señalar el primer paso con que se pone por obra una resolución."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Todos los vicios que á los hombres traen arrastrados dejan alguna consideración para lo venidero, sino la lujuria y la codicia, que cogen y ciegan todas las potencias del discurso.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud . 3. 2 (R. 18. 448 2 ). Las potencias se representan aquí como caminos ó salidas."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Extenderse en cierto espacio, ocuparlo ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esta heredad coge tres leguas.»",
+          "autor": "Terreros",
+          "referencia_obra": "."
+        },
+        {
+          "texto_cita": "«La alfombra coge toda la sala.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«El Epiro antiguo cogía desde el monte Peneo hasta las costas del mar Jonio opuestas á las islas de Corfú y Cefalonia.»",
+          "autor": "",
+          "referencia_obra": "Esp. sagr . 1, p. 169."
+        },
+        {
+          "texto_cita": "«Si tanta habilidad tiene para quitar calvas, no sería malo que se viniese por acá y veríamos si sabe, quitarme una que tengo, que me coge desde las cejas hasta la rabadilla.»",
+          "autor": "Mor.",
+          "referencia_obra": "Obr. póst . 2, p. 301."
+        },
+        {
+          "texto_cita": "«Una hermosa parra forma un emparrado que coge el frente de la casa.»",
+          "autor": "Fern.",
+          "referencia_obra": "Caball. Una en otra 2 (30). —"
+        },
+        {
+          "texto_cita": "«Como era el palo con que te dieron largo y tendido te cogió todas las espaldas, donde entran todas esas partes que te duelen, y si más te cogiera, más te doliera.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 28 (R. 1. 464 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "met. Tratándose de enfermedades, Contraerlas de pronto e impensadamente ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Se puede | Llamar feliz la que escapa | Sin coger á la salida | Una pulmonía.»",
+          "autor": "Gil y Zárate",
+          "referencia_obra": ", Un año después de la boda , 1. 7 (35)."
+        },
+        {
+          "texto_cita": "«Coge Blas una fuerte calentura.»",
+          "autor": "Hartz.",
+          "referencia_obra": "Fáb. 83 (457)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Por analogía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su madre, que apenas había dormido en la pasada noche, acababa de coger el sueño.»",
+              "autor": "Fern.",
+              "referencia_obra": "Caball. Clemencia, 3. 1 (2. 93)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Tratándose de pasiones ó afectos más ó menos duraderos y de otras cosas como hábitos, fuerzas, Empezar á tenerlos, cobrar ( trans. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Porque es ruin como su amo; | Porque le ha cogido miedo.»",
+          "autor": "Mor.",
+          "referencia_obra": "El viejo y la niña, 2. 13 (R. 2. 349 1 )."
+        },
+        {
+          "texto_cita": "«Le ha cogido á usted su modo de andar, el tono de su voz, y mil veces me ha divertido imitando cuanto usted hace en su casa.»",
+          "autor": "Gil y Zárate",
+          "referencia_obra": ", El entremetido, 2. 19 (74)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Tratándose del sol, del aire, Recibir, generalmente por placer ó con fines higiénicos ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Una siesta de las del verano pasado, estando cerradas las ventanas y yo cogiendo el aire debajo de la cama del uno dellos, el poeta se comenzó á quejar lastimosamente.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Col . (R. 1. 244 1 )."
+        },
+        {
+          "texto_cita": "«Yo entonces en el campo me hallaba | Cogiendo el fresco del templado aliento, | Que blandamente entre árboles sonaba.»",
+          "autor": "Herr.",
+          "referencia_obra": "2, eleg. 15 (R. 32. 338 1 )."
+        },
+        {
+          "texto_cita": "«Campo Marzio es una gran pradería, excelente para coger el sol.»",
+          "autor": "",
+          "referencia_obra": "Mor . Obr. póst. 1, p. 457 ."
+        },
+        {
+          "texto_cita": "«Por lo que pueda tronar, no vayas a, coger frío á esos deliciosos páramos de Maudes y Chamartín.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2, p. 440."
+        },
+        {
+          "texto_cita": "«Su tormento, | Creciendo más con el viento | Y el sereno que cogía, | En rebatos le ponía | Y en priesas cada momento.»",
+          "autor": "Castillejo",
+          "referencia_obra": ", 1, Serm. de amores (R. 32. 148 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "En general, Recibir en sí ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La tierra no ha cogido bastante agua.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc ."
+        },
+        {
+          "texto_cita": "«Le dieron al otro ciertas coces en la barriga con que vomitó el agua mala, y yo me enjugué de la que había cogido en el vestido.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud . 1. 21 (R. 18. 418 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "Se dice del espacio ú objeto que tiene capacidad ó hueco para contener cierta cantidad de cosas ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esta tinaja coge treinta arrobas de vino.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc."
+        },
+        {
+          "texto_cita": "«Entre la retaguardia del ejército y el río, se fabricaba una media luna, con sus traveses y foso, capaz de coger dos mil infantes.»",
+          "autor": "Coloma",
+          "referencia_obra": ", Guerras de los Est. Bajos, 4 (R. 28. 49 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Por la misma transición que se observa en caber, ha pasado del sentido de Contener al de Poder ser contenido, haciéndose sinónimo del verbo citado ( intrans. ) .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Esto no coge aquí.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc. Aunque Salvá había incluído esta acepción en su Diccionario, la Academia no la aceptó hasta la 12 a edic. del suyo. Es moderna, y varias veces ha sido censurada en la Península. Véase, por ejemplo, el Diccionario manual de voces de dudosa ortografía en la lengua castellana , por D. Francisco Carvajal, p. 121 (Madrid, 1885). Este autor afirma que tal uso está muy generalizado; circunstancia que explica la aprobación dada por la Acad."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "5.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Prender, aprehender, apresar ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A ti le doy [el gamo], y á ti también te guardo | Dos tórtolas hermosas y una bella | Garza, que ayer cogí del monte al río.»",
+          "autor": "F. de la Torre",
+          "referencia_obra": ", 2. son . 8 (37)."
+        },
+        {
+          "texto_cita": "«Salió por un resquicio a los tejados | De una tronera que en la torre había, | Para coger algunos pajarillos.»",
+          "autor": "Lope",
+          "referencia_obra": ", Gatom . 7 ( Obr. suelt . 19. 261)."
+        },
+        {
+          "texto_cita": "«No querría yo que fueses tú para conmigo como es el cazador, que en alcanzando la liebre que sigue, la coge, y la deja por correr tras otra que lo huye.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov . 1 (R. 1. 110 1 )."
+        },
+        {
+          "texto_cita": "«Salió un fiero león del bosque y cogiéndola entre sus agudas uñas, se metía con ella por el bosque adelante:»",
+          "autor": "",
+          "referencia_obra": "Id. Gal . 1 (R. 1. 10 1 ). —"
+        },
+        {
+          "texto_cita": "«Fue en su seguimiento, y estuvo muy cerca de cogerlos.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 16 . 16 (R. 30. 485 1 )."
+        },
+        {
+          "texto_cita": "«¿Cómo tienes atrevimiento de volver á España, donde si te cogen y conocen tendrás harta mala ventura?»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 54 (R. 1. 518 1 )."
+        },
+        {
+          "texto_cita": "«En estos árboles están ahorcados, que por aquí los suele ahorcar la justicia cuando los coge.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 60 (R. 1. 530 2 )."
+        },
+        {
+          "texto_cita": "«Alcanzándoles la capitana, á poco más de media milla, les echó la palamenta encima y los cogió vivos á todos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 63 (R. 1. 539 1 )."
+        },
+        {
+          "texto_cita": "«Vi y noté la ocasión que allí se perdió de no coger en el puerto toda el armada turquesca.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 39 (R. 1. 363 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mucho sintió el arzobispo de Toledo verse cogido con sus mismas mañas.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 18. 16 (R. 31. 28 1 )."
+        },
+        {
+          "texto_cita": "«Estoy ahora bien puesto | Con Dios, y puede venir | Tiempo en que me coja el diablo | Por hambre.»",
+          "autor": "Rojas",
+          "referencia_obra": ", El Caín de Cataluña , 3 (R. 54. 291 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Sorprender á alguno en una falta ó descuido, penetrarle el secreto ó engaño ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se ha de ponderar la malicia y astucia de estos escribas en la pregunta que hicieron á Cristo nuestro Señor, para cogerle de cualquier modo que respondiese.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 4. 31 (2. 515)."
+            },
+            {
+              "texto_cita": "«Por más preguntas que ha hecho, | No me ha podido coger.»",
+              "autor": "Cald.",
+              "referencia_obra": "Hombre pobre todo es trazas , 2. 3 (R. 7. 511 1 )."
+            },
+            {
+              "texto_cita": "«Y esto [es] obra de Dios, de, quien se dice que es. C apientem callidum in calliditate sua, quien coge al astuto en su astucia, al opuesto de los hombres que no pueden coger á otros sino en su ignorancia desapercibida»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 180 1 )."
+            },
+            {
+              "texto_cita": "«Quisieron también cogerle en palabras para tener ocasión de acusarle como sedicioso y turbador de la república,»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de Cristo , p. 54; Covarr. trae así esta frase:"
+            },
+            {
+              "texto_cita": "«Coger á uno á palabras, hacerle caer en la red, para obligarle ó engañarle.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "¡Cogíte! expresión fam. con que se significa que á alguno se le ha obliga con maña á que confiese lo que quería negar. Acad. Dicc . Este sentido aparece en los pasajes siguientes, que dan á entender que para el efecto no es aquella expresión fórmula de uso exclusivo:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«iAh! dijo Sancho, cogido le tengo: esto es lo que yo deseaba saber como al alma y como á la vida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij 1. 49 (R. 1. 392 1 )."
+            },
+            {
+              "texto_cita": "«Cogido le tengo, dijo Sancho; luego la fama del que resucita muertos --- mejor fama será para este y para el otro siglo que la que dejaron y dejaren cuantos emperadores gentiles y caballeros andantes ha habido en el mundo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 8 (R. 1. 420 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar la falta, descuido ó engaño que se descubre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se decía vulgarmente que traía consigo un azote para castigar á los que cogiese en algún delito.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 9 (R. 30. 512 2 )."
+            },
+            {
+              "texto_cita": "«Sabe que tiene marido que en cogiéndola en la primera desenvoltura, le ha de quitar la vida.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 33 (R. 1. 341 2 )."
+            },
+            {
+              "texto_cita": "«Verdaderamente, señor D. Quijote, dijo D. Lorenzo, que deseo coger á vuesa merced en un mal latín continuado, y no puedo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 18 (R. 1. 441 2 )."
+            },
+            {
+              "texto_cita": "«Así es verdad, y como por instantes los cogen en sus ignorancias, dicen que no les responden á sus argumentos.»",
+              "autor": "Lope",
+              "referencia_obra": "(R. 52. XXVIII)."
+            },
+            {
+              "texto_cita": "«Asistió atento á un debate para coger al famoso orador en una incorrección siquiera leve.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Hist. lit . p. 345."
+            },
+            {
+              "texto_cita": "«Si es demonio, presto dará señal, y le cogerán en mil mentiras.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor . 6. 9 (R. 53. 477 1 )."
+            },
+            {
+              "texto_cita": "«Echó cinco ó seis mentiras. | — ¡Válgame Dios! — ¿Qué te admiras? | Pues lo peor falta agora: | Que son tales que podrá | Cogerle en ellas cualquiera.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La verdad sospechosa, 2. 5 (R. 20. 328 1 )."
+            },
+            {
+              "texto_cita": "«Temía yo que allí no lo supiesen y me cogiesen en mentira.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pind. 2. 24 (R. 18. 366 1 )."
+            },
+            {
+              "texto_cita": "«Vamos á cómo hablarás | A mujer que te cogió | En tal mentira.»",
+              "autor": "Cald.",
+              "referencia_obra": "No hay cosa como callar , 3. 12 (R. 7. 567 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "También se usa como acus. el nombre de la falta ó descuido que se descubre ó repara.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo no he podido cogérselas todas [sus equivocaciones], porque no me, he puesto de intento á ello.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Donde las dan las toman (6. 179)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Hallar, encontrar al que está actualmente ajeno de que se le busca ó solicita ó de que algo le va á llegar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con un pred. que expresa el estado de la persona hallada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hizo el duque con todo eso las diligencias posibles porque no le cogiese el enemigo tan desapercebido que pudiese atreverse á sitiar alguna plaza á vista suya.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 4 (R. 28. 46 1 )."
+            },
+            {
+              "texto_cita": "«Creyeron coger á los griegos descuidados y sin tiempo para prevenirse.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 54 (R. 21. 52 1 )."
+            },
+            {
+              "texto_cita": "«Aquí estaban los indios emboscados | Esperando á los nuestros, si viniesen, | Por cogerlos sin orden descuidados, | Antes que del peligro se advirtiesen.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 4 (R. 17. 17 2 ). Item, Id. ib. 10 (R. 17. 41 2 )."
+            },
+            {
+              "texto_cita": "«No quiero dejar de contestar á la última tuya, aunque me coge muy ocupado.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 102."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un gerundio que expresa el acto que está ejecutando el que es hallado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En fragante le cogimos | Cometiendo el gran pecado.»",
+              "autor": "",
+              "referencia_obra": "Gerv. La gran sultana, 2 ( Com. 2. 75)."
+            },
+            {
+              "texto_cita": "«Los he cogido | Hablando á solas.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse , 2. 9 (R. 20. 110 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Admite complementos de muy varia naturaleza para denotar el modo, la situación, el lugar, etc. en que se realiza el acto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiéndolos cogido de sobresalto, con facilidad los desbarataron.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 2 (R. 1. 27 2 )."
+            },
+            {
+              "texto_cita": "«Valióle al yerno del francés caudillo | Coger al rey de Argel de sobresalto.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 149 1 )."
+            },
+            {
+              "texto_cita": "«Como en salir se tardaban, | La licencia no aguardé--- | —Pena, Fenisa, me da | Que me cogiese de prisa. | ¿Está bien puesta esta toca?»",
+              "autor": "Lope",
+              "referencia_obra": ", La discreta enamorada, 1. 7 (R. 24. 158 3 )."
+            },
+            {
+              "texto_cita": "«Mayo me dijo, mí bien, | Que agora en Madrid quedabas. | —Por cogerte de repente | Le dije que te engañara.»",
+              "autor": "",
+              "referencia_obra": "Id. Al pasar del arroyo , 2. 21 (R. 24. 399 1 )."
+            },
+            {
+              "texto_cita": "«No quiero que cojamos de repente, | Don Gil, á doña Inés, sin que prevenga | La prudencia palabras para el susto | Que suele dar un no esperado gusto.»",
+              "autor": "",
+              "referencia_obra": "Tirso, D. Gil de las calzas verdes , 1. 3 (R. 5. 405 1 )."
+            },
+            {
+              "texto_cita": "«¿Halló á los dos? | —Juntos --- | — Y ¿qué dijisteis? — Amigo, | Cogióme tan de repente, | Que no hallé cosa decente | De mi disculpa testigo.»",
+              "autor": "Mto.",
+              "referencia_obra": "De fuera vendrá ... 2. 1 (R. 39. 64 2 )."
+            },
+            {
+              "texto_cita": "«Puede oírte y levantarse | Y cogernos de improviso.»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, El tejado de vidrio , 4. 2 (2. 184). —"
+            },
+            {
+              "texto_cita": "«Haciendo una senda por la misma muralla, pudieron coger por las espaldas y desapercebidos á los trabajadores.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 4 (R. 28. 48 2 )."
+            },
+            {
+              "texto_cita": "«Cruzando por otras calles podían coger a los defensores por las espaldas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 8 (R. 28. 126 1 )."
+            },
+            {
+              "texto_cita": "«Llegarme, Tristán, pretendo | Adonde, sin que me vea, | Si posible fuere, lea | El papel que está leyendo --- | — Saliendo por aquel lado | De espaldas la cogerás.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La verdad sospechosa, 3. 5 (R. 20. 335 3 ). —"
+            },
+            {
+              "texto_cita": "«Cogieron á la mayor parte divididos por sus alojamientos, en sus lechos y en sumo descanso.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped . 28 (R. 21. 27 1 )."
+            },
+            {
+              "texto_cita": "«Pues si tu padre despierta | Y nos coqe en el balcón, | Ya sabes su condición.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los balcones de Madrid , 1. 10 (R. 5. 558 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los nuestros, por no ser cogidos por las espaldas, hubieron de retirarse.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos , 5 (R. 28. 66 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Aquí te cojo, aquí te mato : expresión fam. que se usa para significar que alguno quiere aprovechar la ocasión que se le presenta favorable á sus intentos.",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Sobrevenir, sorprender ( trans. ). Se agregan complementos muy varios denotativos del lugar, el tiempo, el modo, etc.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mas como suele acontecer contino, | Que huyendo el peligro y mal presente | Se suele ir á parar en un camino | Que nos coge y anega la creciente ---»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc . 28 (R. 17. 105 2 )."
+        },
+        {
+          "texto_cita": "«Y cuando menos piensan, les coge la muerte, donde pagan todo su mal por junto.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 2. 28 (1. 396)."
+        },
+        {
+          "texto_cita": "«Así dijera, y con el desvarío | Que á la gentil pastora iba cogiendo, | En las olas se echó de cristal frío.»",
+          "autor": "Iglesias",
+          "referencia_obra": ", égl . 4 (R. 61. 452 1 ). —"
+        },
+        {
+          "texto_cita": "«Ninguna noche le coge en la cama, que se prometa que ha de amanecer: tan sospechoso le hace la mala conciencia.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 4.188)."
+        },
+        {
+          "texto_cita": "«Esta era la distancia que según se dijo arriba había hasta el castillo de los duques desde el sitio donde cogió la noche á Sancho.»",
+          "autor": "Clem.",
+          "referencia_obra": "Coment . 6, p. 125."
+        },
+        {
+          "texto_cita": "«Le cogió la muerte en Madrid, á fines del año de 1474.»",
+          "autor": "Acad.",
+          "referencia_obra": "Hist . 6. 5)."
+        },
+        {
+          "texto_cita": "«La primera medida que se tomó --- fue --- encargarle de parte del rey que se detuviese con su gente en el punto en que le cogiese el aviso, y no se moviese de allí hasta que se le dijese lo que había de hacer.»",
+          "autor": "Quint.",
+          "referencia_obra": "D. Álv. de Luna (R. 19. 380 2 )."
+        },
+        {
+          "texto_cita": "«Desde Madrigal, donde les cogió la nueva de la soltura del adelantado, se vinieron para Roa.»",
+          "autor": "",
+          "referencia_obra": "Id. ib (R. 19. 406 1 )."
+        },
+        {
+          "texto_cita": "«Cerca del Carpio les cogió la noche.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Moro expós . 5 (2. 164). —"
+        },
+        {
+          "texto_cita": "«Absorto, suspenso y admirado quedó Anselmo con las razones de Lotario, porque le cogieron en tiempo donde menos las esperaba oír.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 1. 34 (R. 1. 349 1 )."
+        },
+        {
+          "texto_cita": "«Dejemos á estos señores amos nuestros que se den de las astas contándose las historias de sus amores, que á buen seguro que les ha de coger el día en ellas, y no las han de haber acabado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 12 (R. 1. 428 2 )."
+        },
+        {
+          "texto_cita": "«Si la vejez os coge en este honroso ejercicio, aunque sea lleno de heridas y estropeado ó cojo, á lo menos no os podrá coger sin honra.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 24 (R. 1. 456 1 )."
+        },
+        {
+          "texto_cita": "«Le dolía mucho su muerte, porque le cogía al tiempo que comenzaba á desprender.»",
+          "autor": "Sig.",
+          "referencia_obra": "Vida de S. Jer. 5. 1 (391)."
+        },
+        {
+          "texto_cita": "«Y aunque me coge este intento en los postreros tercios de la vida --- iré prosiguiendo mi discurso.»",
+          "autor": "Espinel",
+          "referencia_obra": ", Escud. 1. 1 (R. 18. 379 1 )."
+        },
+        {
+          "texto_cita": "«Me detuvo, diciendo que antes que acabase de pasar la puente me cogería la borrasca.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. 1. 18 (R. 18. 397 1 )."
+        },
+        {
+          "texto_cita": "«Vinieron á caer en aquel pecado mortal, y por justos juicios de Dios, les cogió la muerte en él, y fueron condenados por él justísimamente.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 1 2 (1. 68)."
+        },
+        {
+          "texto_cita": "«En estos pensamientos la cogió el llanto que los del palacio hicieron al tiempo de expirar el conde, y advertida por él de su muerte, alargó el paso para entrar en su recámara.»",
+          "autor": "Roa",
+          "referencia_obra": ", Vida de Dª. Ana Ponce de León , 2. 5 (73)."
+        },
+        {
+          "texto_cita": "«Por si la noche | Os cogiere en el combate, | El nombre ha de ser amor.»",
+          "autor": "Cald.",
+          "referencia_obra": "La puente de Mantible, 2. 13 (R. 7 . 215 1 )."
+        },
+        {
+          "texto_cita": "«Cogieron estas alteraciones al rey Carlos en medio de los preparativos formidables que destinaba á la conquista del imperio griego.»",
+          "autor": "Quint.",
+          "referencia_obra": "R. de Lauria (R. 19. 219 1 )."
+        },
+        {
+          "texto_cita": "«Era aun muy niño cuando murió su abuelo; mas el fallecimiento de su madre le cogió ya en la edad de veinte y un años cumplidos.»",
+          "autor": "Viana",
+          "referencia_obra": "(R. 19. 235 2 )."
+        },
+        {
+          "texto_cita": "«Desnudo [el pecho] le ofrecemos al cuchillo, | Pues nos coge esta furia repentina | Sin armas, capitán ni disciplina.»",
+          "autor": "Erc.",
+          "referencia_obra": "Arauc. 34 (R. 17. 128 2 ). —"
+        },
+        {
+          "texto_cita": "«De estos dos favores he de sacar un medio eficacisímo para vencer las tentaciones cuando me cogen de repente y á solas, levantando luégo los ojos del alma al ángel que está presente.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit . 1. 20 (1. 167)."
+        },
+        {
+          "texto_cita": "«Y quizá está ya muy cerca --- cogiéndome de repente la muerte ó el castigo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 1. 35 (1. 183)."
+        },
+        {
+          "texto_cita": "«Por cogerme | Sin prevención este lance, | A los ojos de don Diego | Y al ansia de vuestro padre | Posiblemente engañaron | Las señas de mi semblante»",
+          "autor": "Mto.",
+          "referencia_obra": "El parecido en la corte , 3. 7 (R. 39. 327 1 )."
+        },
+        {
+          "texto_cita": "«Cuando coge un gran contento | De improviso, suele darles | Suspensión a los sentidos.»",
+          "autor": "Lope",
+          "referencia_obra": ", Lo que ha de ser, 3. 8 (R. 34. 520 3 )."
+        },
+        {
+          "texto_cita": "«Ya reconocerá que su mujer no ha de estar siempre metida en casa. Cuando se casó con una criatura como tú, se haría cargo de todo esto. No le cogerá de susto.»",
+          "autor": "Valera",
+          "referencia_obra": ", Pasarse de listo , p. 112."
+        },
+        {
+          "texto_cita": "«Siempre hallarás que todo lo que nos coge á traición parece mayor que lo que se estaba aguardando.»",
+          "autor": "Capm.",
+          "referencia_obra": "Teatro , 4.124). —"
+        },
+        {
+          "texto_cita": "«Así pues daremos | Color á una industria mía, | De entrar en casa mejor, | Diciendo que me ha cogido | Cerca el día.»",
+          "autor": "Cald.",
+          "referencia_obra": "Ll médico de su honra , 3. 18 (R. 7. 364 3 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "A pesar del uso frecuentísimo que se hace de le y les con este verbo (acaso por influencia de sobrevenir y otros intransitivos), lo hemos calificado de transitivo, atendiendo á pasajes como los siguientes:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si los trabajos y necesidades que los estudiantes pasan, no los llevase la buena edad en que los coge, no habla vida para sufrir tantas miserias y descomodidades como se pasan ordinariamete.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 12 (R. 18. 402 1 )."
+            },
+            {
+              "texto_cita": "«Diez y ocho años vivió en el convento de Jesús de Avero, donde la cogió la última enfermedad, en que padeció increibles dolores.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Granad. 2. 14 (144)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "En los siguientes el pred. y el adv. determinan evidentemente el acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La hora de sus grandes alegrías | Los cogerá en un cónclave encerrados.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 10 (R. 17. 480 1 )."
+            },
+            {
+              "texto_cita": "«Cogiólos la noche así, y el tormento y el desmayo fueron mayores.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 337 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "La naturaleza del suj. hace particularmente enfático el verbo en el siguiente lugar:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con el temor les cogió el silencio.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 34 (R. 1. 478 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Coger de nuevo: se dice de la cosa que causa extrañeza y en cierto modo sorprende con la novedad, por no tener el que la oye ó ve noticia alguna ó especie antecedente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me coge de nuevo que el señor colector del Parnaso desapruebe mi traducción del Arte de Horacio.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Donde las dan las toman (6. 7)."
+            },
+            {
+              "texto_cita": "«Nada de cuanto sucede ó sucederá te ha debido sorprender: todo estaba indicado y previsto, y no alcanzo que nada te haya debido coger de nuevo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 482."
+            },
+            {
+              "texto_cita": "«Las malas noticias que usted me da en la suya de 18 del pasado --- no me cogen de nuevo, porque ya se sabe lo que es vida militar.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2, p. 315."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Notense las acepciones:",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Acoger, admitir, dar asilo;",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "refl. Acogerse, ponerse en cobro. Véase arriba, 3, a, γ .) — Siglo XV :",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunos decian que no era razon que los cincuenta cuentos se cogiesen, pues la guerra no se hacia.»",
+              "autor": "Crón. Juan II",
+              "referencia_obra": ", 2. 10 (R. 68. 308 2 )."
+            },
+            {
+              "texto_cita": "«E al mudar de los platos linpie con vn paño los manteles antel rey, sy en ellos de la vianda o del pan alguna cosa ouiere, caydo, o coygalo cuchillo ancho e pongalo en la nao o baçin en que, el rey lanza los huesos.»",
+              "autor": "Villena",
+              "referencia_obra": ", Arte cis . 5 (40)."
+            },
+            {
+              "texto_cita": "«E cojo flores por faser guirlanda.»",
+              "autor": "",
+              "referencia_obra": "C anc. de Baena, p. 247 ."
+            },
+            {
+              "texto_cita": "«Fue á una plaza, donde cogian el derecho, é mató á un tesorero que ahí falló.»",
+              "autor": "Gonz. Clav.",
+              "referencia_obra": "p. 213. — Siglo XIV :"
+            },
+            {
+              "texto_cita": "«El dicho sacristan presenta cullidor al señor bispe et capitol de Tarazona, por cullir las decimas, el cual jura en poder del dicho señor bispe et capitol bien et realment facer la dicha cullida.»",
+              "autor": "Yanguas",
+              "referencia_obra": ", Dicc. antig. Nav. 1, p. 224; item, p. 262."
+            },
+            {
+              "texto_cita": "«Mis casas son pequeñas, é non podrán caber | Estos vinos e panes que tengo de coger.»",
+              "autor": "Pal.",
+              "referencia_obra": "560 (R. 57. 442 2 )."
+            },
+            {
+              "texto_cita": "«Quien la priesa senbró | Cojó arrepentimiento.»",
+              "autor": "Sem Tob",
+              "referencia_obra": ", 438 (R. 57. 358 2 )."
+            },
+            {
+              "texto_cita": "«Mandó coger en su alcázar el pendon del rey, con pieza de caballeros et escuderos que entraron con el.»",
+              "autor": "Alf. XI",
+              "referencia_obra": ", 172 (R. 66. 283 1 )."
+            },
+            {
+              "texto_cita": "«Et el rey mostróle muy buen talante, et fízole mucha honra, et cogió su ruego en muchas cosas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 45 (R. 66. 201 2 )."
+            },
+            {
+              "texto_cita": "«Queria entrar á tierra de moros á talar las viñas é las huertas, é non les dejar sembrar ni coger.»",
+              "autor": "Alf. X",
+              "referencia_obra": ", 57 (R. 66. 45 2 )."
+            },
+            {
+              "texto_cita": "«E á lo que demandaron en razon de la moneda, que se cogiese de siete en siete años é non de otra manera, segund se cogía en tiempo de los reyes de cuyo linaje el rey venia, á esto respondieron ---»",
+              "autor": "",
+              "referencia_obra": "Ib. 54 (R. 66. 42 1 )."
+            },
+            {
+              "texto_cita": "«E don Gomez e Sancho Perez cogieron el servicio é diéronles todos sus dineros.»",
+              "autor": "",
+              "referencia_obra": "lb . 21 (R. 66. 17 2 )."
+            },
+            {
+              "texto_cita": "«Yo goardo el portadgo, et el peage cojo.»",
+              "autor": "Arc. de Hita",
+              "referencia_obra": ", 927 (R. 57. 256 1 )."
+            },
+            {
+              "texto_cita": "«Et sy en algunos logares flincó alguna cosa por coger de la fonsadera, que la non cogan oganno.»",
+              "autor": "C. de L. y C.",
+              "referencia_obra": "1. 305)."
+            },
+            {
+              "texto_cita": "«E que ssean abonados e quantiosos para dar cuenta de lo que cogieren.»",
+              "autor": "C. de L. y C.",
+              "referencia_obra": "1. 239); item, Cortes de Burgos, año 1315 ( ib. 275)."
+            },
+            {
+              "texto_cita": "«Si mas cogieron de lo que los concejos ouieron mester, e los concejos e los pecheros me lo querellaren a mi ---»",
+              "autor": "",
+              "referencia_obra": "Cortes de Medina del Campo, año 1302 ( C. de L. C. 1. 164). — Siglo XIII :"
+            },
+            {
+              "texto_cita": "«Que se cojan [los pechos] por omes buenos de las villas e abonados e non por otros ningunos.»",
+              "autor": "C. de L. y C.",
+              "referencia_obra": "1. 142)."
+            },
+            {
+              "texto_cita": "«Unos siembran é otros cogen.»",
+              "autor": "",
+              "referencia_obra": "Cast. é docum. 35 (R. 51. 156 1 )."
+            },
+            {
+              "texto_cita": "«Non queria entrar en baño que hobiese otra agua sinon la que caya de la lluvia en los campos, del cielo, la cual agua era cogida con trabajo é sudor de muchas gentes.»",
+              "autor": "",
+              "referencia_obra": "Ib. 6 (R. 51. 97 1 )."
+            },
+            {
+              "texto_cita": "«Et si asi estovier, non lo cuelgan en la eglesia, et á la muerte non sea soterrado.»",
+              "autor": "León",
+              "referencia_obra": ", año 1267 (Esp. Sagr . 36. 240)."
+            },
+            {
+              "texto_cita": "«E cullo dos cuuellas, a que lo cuega»",
+              "autor": "Scío",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«No codrá al extraño»",
+              "autor": "Scío",
+              "referencia_obra": ")."
+            },
+            {
+              "texto_cita": "«Fuele Tiberio por ende cogiendo malquerencia encobiertamente.»",
+              "autor": "",
+              "referencia_obra": "Crón. gen. 1. 108 (75 1 )."
+            },
+            {
+              "texto_cita": "«Cogiose él de ally con sus huestes para yrle acorrer.»",
+              "autor": "",
+              "referencia_obra": "Ib. 94 (53 2 )."
+            },
+            {
+              "texto_cita": "«Despues que las aguas quedaron e se fueron los ryos cogiendo en sy.»",
+              "autor": "",
+              "referencia_obra": "lb . 1. 88 (48 1 )."
+            },
+            {
+              "texto_cita": "«Auie ally en él vna puente de canto con vn arco muy grande que cogia este ryo todo.»",
+              "autor": "",
+              "referencia_obra": "lb . 1. 87 (47 1 )."
+            },
+            {
+              "texto_cita": "«Pan et vino son los frutos de la tierra de que los homes mas se aprovechan, et por ende fueron antiguamente escogidos para esto otros dias feriados en que los cogiesen.»",
+              "autor": "Part.",
+              "referencia_obra": "3. 2. 37 (2. 377)."
+            },
+            {
+              "texto_cita": "«Et esto ficieron porque si fallasen que alguno de su compaña era ido á los enemigos, et sopiesen que les habia llevado sabidoria dellos, que luego que le cogiesen en mano, que lo matasen de cruel muerte por ello, rastrándolo et desmembrándolo.»",
+              "autor": "",
+              "referencia_obra": "Part . 2. 28. 2 (2. 316)."
+            },
+            {
+              "texto_cita": "«Qualquier que quisiere entrar en orden de religion non debe dar precio ninguno por pleito quel coian en ella, nin gelo deben recebir.»",
+              "autor": "Part.",
+              "referencia_obra": "1. 17. 13 (1. 434)."
+            },
+            {
+              "texto_cita": "«Deben poner un clérigo por mayordomo de la iglesia, que coia las rentas della.»",
+              "autor": "",
+              "referencia_obra": "Part . 1. 9. 11 (1. 407)."
+            },
+            {
+              "texto_cita": "«Débenlo echar de aquel lugar o lo cogieron, et tornarle lo que el habie dado.»",
+              "autor": "Part.",
+              "referencia_obra": "1. 7. 22 (1. 312)."
+            },
+            {
+              "texto_cita": "«Ordenadas seyendo las cosas de cómo se fagan, aducen á los homes á que puedan facer por ellas lo que quieren que sea fecho, et usándolas como deben, que cojan hi sabor et placer.»",
+              "autor": "",
+              "referencia_obra": "Part . 1. 4. 72 (1. 132)."
+            },
+            {
+              "texto_cita": "«E esto serie como si aquel que coge las rentas del rey diese carta en que conosciese que era pagado dellas.»",
+              "autor": "Espéc.",
+              "referencia_obra": "5. 12. 10 (0. L. 1. 425)."
+            },
+            {
+              "texto_cita": "«Son llamadas ferias las sazones del tienpo en que coien los omes los fructos.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 331)."
+            },
+            {
+              "texto_cita": "«Andan por la tierra cogiendo sus rendas, o recabdando sus derechos.»",
+              "autor": "O. L.",
+              "referencia_obra": "1. 199)."
+            },
+            {
+              "texto_cita": "«Dicen que en el prado un home cogía yerba.»",
+              "autor": "",
+              "referencia_obra": "Cal. é Dymna (R. 51. 19 2 )."
+            },
+            {
+              "texto_cita": "«Coger la miel de la flor puede lo faser el abeja, o non el omne.»",
+              "autor": "",
+              "referencia_obra": "Boc. de oro, 4 (Knust, 113)."
+            },
+            {
+              "texto_cita": "«E vio que el rrey le mandava cojer en su mercet, pues cogiol'eI, e mostrol’ las diez artes.»",
+              "autor": "Buenos proverbios",
+              "referencia_obra": "(Knust , 13)."
+            },
+            {
+              "texto_cita": "«Si cayer gota de casa sobre el solar yermo, quando el otro ficier sua casa, devel'otro coier sua agua.»",
+              "autor": "Fuero",
+              "referencia_obra": "viejo , 4. 4. 8 (112)."
+            },
+            {
+              "texto_cita": "«Todo ome que oviere nogales o otros arboles en viella, o misera, e subier él o alguno de suos fijos, o de suos paniaguados a coger fruta de qualquier arbol, o cortare otra cosa, e cayere --- el dueño del arbol debe pechar las caloñas.»",
+              "autor": "",
+              "referencia_obra": "lb . 2. 1. 4 (63)."
+            },
+            {
+              "texto_cita": "«Esperen fasta que sea el pan cogido daquel lugar.»",
+              "autor": "Fuero",
+              "referencia_obra": "Juzgo , 8. 3. 13 (140 ; *coyecho, cogecho, coido, coleydo)."
+            },
+            {
+              "texto_cita": "«Ninguno non deve iudgar el pleyto, si non á quien es mandado del principe, ó quien es cogido por iuez de voluntad de las partes.»",
+              "autor": "",
+              "referencia_obra": "lb . 2. 1. 13 (14; * escogido, escolleyto, collido , escolido, escugido , escoiecho, escolecho, coyeio)."
+            },
+            {
+              "texto_cita": "«E otrosi en el tiempo mientre que cogen las miesses ---»",
+              "autor": "",
+              "referencia_obra": "lb . 2. 1. 10 (13; * cuelen, cuellen, coien, cueyen)."
+            },
+            {
+              "texto_cita": "«Si el constreñido fuere por mano de juez, el fiador coga del todo aquello que fuere de coger.»",
+              "autor": "Fuero",
+              "referencia_obra": "de Molina, año 1152 ( Llor. Prov. Vasc . 4. 121)."
+            },
+            {
+              "texto_cita": "«Allegaron-se a él, en los braços le coieron.»",
+              "autor": "Fern.",
+              "referencia_obra": "Gonz. 675 (R. 57. 410 2 )."
+            },
+            {
+              "texto_cita": "«Cuanto mas lidiaua, maor forçia cogie.»",
+              "autor": "Alex.",
+              "referencia_obra": "1149 (R. 57. 182 2 )."
+            },
+            {
+              "texto_cita": "«Cogiron coraçones e fueron mas ardidos.»",
+              "autor": "",
+              "referencia_obra": "Ib. 572 (R. 57. 165 1 )."
+            },
+            {
+              "texto_cita": "«Todos cogien esforçio solo quel fablaua.»",
+              "autor": "",
+              "referencia_obra": "Ib. 524 (R. 57. 163 2 )."
+            },
+            {
+              "texto_cita": "«En Yndia --- | Do sembran dos uegadas e cogen otras tantas.»",
+              "autor": "",
+              "referencia_obra": "Ib. 261 (R. 57. 155 1 )."
+            },
+            {
+              "texto_cita": "«Tan grant amor coió conna obediençia | Que--- | Nunqua moverse quiso a ninguna falençia.»",
+              "autor": "Berc.",
+              "referencia_obra": "S. Dom . 119 (R. 57. 43 2 )."
+            },
+            {
+              "texto_cita": "«Nin nos serán negados, doblados los codremos.»",
+              "autor": "",
+              "referencia_obra": "Id. S. Laur . 69 (R. 57. 92 1 )."
+            },
+            {
+              "texto_cita": "«Cogió con Jesuchristo un tan grant desamor, | De oir el so nomne non avie nul sabor.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 25 (R. 57. 91 1 )."
+            },
+            {
+              "texto_cita": "«Cogieron en sus almas maior devoçion.»",
+              "autor": "",
+              "referencia_obra": "Id. Mil . 305 (R. 57. 113 1 )."
+            },
+            {
+              "texto_cita": "«Mas en esta pobreza que vos de mi trahedes, | Famne, sede e muerte vos ende lo cojedes.»",
+              "autor": "",
+              "referencia_obra": "Id. Duelo, 124 (R. 57. 135 1 )."
+            },
+            {
+              "texto_cita": "«Madre, cogi esfuerzo, non quieras dessarrar.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 89 (R. 57. 134 1 )."
+            },
+            {
+              "texto_cita": "«Cogida han la tienda do albergaron de noch.»",
+              "autor": "Cid",
+              "referencia_obra": ", 2706 (R. 57. 29 1 )."
+            },
+            {
+              "texto_cita": "«El rey Fariz en Teruel se fue entrar, | Ca Galue non lo cogieron alla: | Para Calatayuch quanto puede se va.»",
+              "autor": "",
+              "referencia_obra": "Ib. 774 (R . 57. 10 2 )."
+            },
+            {
+              "texto_cita": "«Myo Cid quando los vio fuera cogios commo e arrancada. | Coios Salon ayuso con los sos abuelta nadi.»",
+              "autor": "",
+              "referencia_obra": "Ib. 588-9 (R. 57. 8 2 )."
+            },
+            {
+              "texto_cita": "«Coio Salon ayuso la su senna alçada.»",
+              "autor": "",
+              "referencia_obra": "Ib. 577 (R. 57. 8 2 )."
+            },
+            {
+              "texto_cita": "«Mandad coger la tienda e vayamos priuado.»",
+              "autor": "",
+              "referencia_obra": "Ib. 208 (R. 57. 3 2 )."
+            },
+            {
+              "texto_cita": "«Non uos osariemos abrir nin coger por nada.»",
+              "autor": "",
+              "referencia_obra": "Ib. 44 (R. 57. 2 1 ). —"
+            },
+            {
+              "texto_cita": "«Ut non dent roxo, ne maneria, ne omezilio, ne dem pecho, no vajan en fosado, ne den moneda, ne coler merino de ree en suia villa, ne cavalero, ne vilano, de la vila no lo traga á la vila el merino.»",
+              "autor": "Fuero",
+              "referencia_obra": "de Villavicencio, año 1221 ( Muñoz , F. 178)."
+            },
+            {
+              "texto_cita": "«Et qui lo matare, suo senior coiat el homizidio.»",
+              "autor": "Fuero",
+              "referencia_obra": "de Madrid, año 1202 ( Mem. Acad. Hist. 8. 32)."
+            },
+            {
+              "texto_cita": "«Si habuerit fructum de pane aut bino por coxere, non det ad palatium nada, nisi del ganado.»",
+              "autor": "Fuero",
+              "referencia_obra": "de Palenzuela, año 1074 ( Muñoz , F. 275)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. colher; gall. y berciano coller ; astur. coyer; val. collir, cullir; mall . cuir; cat. cullir; prov . colher, culhir; fr. ant . coillir , hoy cueillir ; it . cogliere; vál . culege: del lat. colligere, comp. de cum , con, y legere, juntar, escoger, leer. En los ejemplos anteclásicos aparecen juntas la forma castellana, coier, coger, y otras dialécticas coller , cullir.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Hoy es en un todo normal; no así en lo antiguo, según dejan ver los ejemplos del período anteclásico. Son notables las formas siguientes, algunas puramente dialécticas: las diptongadas cuellen, cueyen, que corresponden á las asturianas actuales cueye, cueyen; de cuella nació cuelga como de valla valga; de coia provinieron coiga, coga , como de caya, traya, caiga, traiga; codrá, codremos , se asemejan á odrá , odredes, por coy'rá, coy'remos, como tendré, saldré por ten'ré, sal'ré. Cuelga, coiga podría también referirse á colligat como conozca á cognoscat.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Antes de a , o se escribe j : cojan, cojo . Las formas antiguas y las de los dialectos cognados demuestran que la espirante actual proviene de i, ll , como en mujer, mejor, y no de la g de colligere. La ortografía actual se funda pues en una falsa apreciación etimológica, y lo razonable sería escribir cojer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. : en general. — Intrans.: 3 , a, γ - 4 , φ . — Refl.: 2 , b, θ . — Part .: 1, a, α , α α - 1, a , β - 1 , β, α , α α - 3 , a, α , α α . — Con de: 1 , a, β - 2, α , β, γ - 2, b , β - 6, α, γ - 6 , β . — En: 2, b, η - 5 , χ, β - 6 , α, γ - 6 , β . — Entre: 2 , b, ζ . — Por: 2 , b , γ - 6 , α, γ . — Con gerundio: 2, b , α - 6 , α, β . — Con predicado: 6, a , α - 6, β, α , α α . \u0000"
+}

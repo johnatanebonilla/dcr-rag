@@ -1,0 +1,94 @@
+{
+  "lema": "ARGUMENTAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Argüír: poner argumentos ó disputar haciendo argumentos ( intrans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Los segundos [á quienes tienta el diablo en la fe] son los nombres doctos que de costumbre han ejercitado el arte de la sofistería y arte de argumentar, porque, confiados en aquélla, piensan que sabrán responder al diablo.» Venegas , Agonía, 3. 12 ( Míst. 3. 70).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo no te sé responder, | Porque no sé argumentar.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El amor médico, 1. 1 (R. 5. 381 3 )."
+            },
+            {
+              "texto_cita": "«Pues porque veas que yo | Mejor que argumento lidio, | Ya que esto no es conquistar | El dorado vellocino, | Lo será ir por él.»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios, 1 (R. 7 . 272 2 )."
+            },
+            {
+              "texto_cita": "«No quiero presumir con arrogancia | De argumentar contigo.»",
+              "autor": "Lope",
+              "referencia_obra": ", El verdadero amante, 2 (R. 24. 14 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para denotar la materia sobre que se disputa. Acaso hoy se usaría más bien sobre.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Me pesa que los dos | Estemos argumentando | En cosa tan vil.»",
+              "autor": "Lope",
+              "referencia_obra": ", La porfía hasta el temor, 3. 16 (R. 34. 326 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Deducir por medio de argumentos ( trans. ) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si los que antiguamente filosofaron, argumentando por los efectos descubiertos las causas ocultas de ellos, hincaran los ojos en esta consideración, ella misma les descubriera, que en nuestra naturaleza había alguna enfermedad y daño encubierto.»",
+          "autor": "León",
+          "referencia_obra": ", Nomb. 2 , introd. (R. 37.112 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Dar indicio, probar ( trans. ) (raro).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El servicio que se recibe del inferior argumenta debilidad, y solicita gran recompensa.»",
+          "autor": "Quev.",
+          "referencia_obra": "Rómulo (R. 23. 117 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Por sy argumentades | Alguna dubda muy fonda, | Bien podrá ser que rresponda | Mejor que vos no cuydades.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p. 263."
+        },
+        {
+          "texto_cita": "«Tal era yo çerca dellas andando, | Sus condiciones bien argumentando.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 251."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat . argumentari, denominativo de argumentum, argumento. Véase ARGÜÍR . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

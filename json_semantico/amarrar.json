@@ -1,0 +1,275 @@
+{
+  "lema": "AMARRAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Sujetar por medio de amarras ó cables; entre la gente de mar es propiamente Sujetar el buque en el puerto ó en otro cualquiera fondeadero, á lo menos por medio de dos anclas y cadenas ó cables ( trans .). Dicc. Marít.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amarré mi navichuelo.»",
+              "autor": "Píc. Just.",
+              "referencia_obra": "1. 2. 1, § 4 (R. 33. 87 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amarrarse en dos",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«(esto es, anclas);",
+              "autor": "",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Amarrarse en cuatro»",
+              "autor": "",
+              "referencia_obra": "(esto es, amarras, dos por la proa y otras dos por la popa);"
+            },
+            {
+              "texto_cita": "«Amarrarse en tal rumbo,»",
+              "autor": "",
+              "referencia_obra": "etc. Dicc. Marít."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Después que estuvimos fuera de las aguas, amarraron los marineros el batel á la ribera.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana, 1 (41)."
+            },
+            {
+              "texto_cita": "«A remo | A la vecina costa encaminada | La nave, echaron anclas y á la orilla | La amarraron.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 1 (1. 22)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. — Part.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Están amarrados y seguros con el áncora de la esperanza.»",
+          "autor": "",
+          "referencia_obra": "Gran . Mem. vida crist. 1. 3 (R. 8. 212 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "En general, Atar y asegurar por medio de cuerdas, cadenas, etc. ( trans .)",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Manda --- | Si hallarle por ventura pueden, | Le detengan, le amarren, y al momento | Al castillo de Salas se le lleven.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 8 (2. 307)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Está muriendo vivo, | Al remo condenado, | En la concha de Venus amarrado.»",
+              "autor": "Garcil.",
+              "referencia_obra": "canc . 5 (R. 32. 51 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el objeto en que se aseguran las cuerdas ó cadenas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amarraros he á un árbol, desnudo como vuestra madre os parió, y no digo tres mil y trescientos sino seis mil y seiscientos azotes os daré.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 35 (R. 1. 480 1 )."
+            },
+            {
+              "texto_cita": "«Desnudando al mártir y amarrándolo á un madero, mandó que le rasgasen las carnes con garfios de hierro.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 2. 22, § 1 (R. 6. 337 2 ). —"
+            },
+            {
+              "texto_cita": "«A David prende [el Amor], á Salomón derriba, | Y deja al gran Sansón á sus pies muerto, | Amarrando á los remos de su banco | Al niño, al mozo, al viejo, al negro, al blanco.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 7 (R. 17. 210 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es grandísima limosna rogar por los que están en pecado mortal, muy mayor que sería si viésemos un cristiano atadas las manos atrás con una fuerte cadena, y él amarrado á un poste y muriendo de hambre.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 7. 1 (R. 53. 481 2 )."
+            },
+            {
+              "texto_cita": "«¿Qué sería ver al Señor de todo lo criado amarrado á una columna, y azotado con tan crueles azotes como un público malhechor?»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. 6. 6 § 8 (R. 8. 362 1 )."
+            },
+            {
+              "texto_cita": "«Dejándole amarrado á un grueso pino, | La relación siguieron y camino.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 33 (R. 17. 124 2 )."
+            },
+            {
+              "texto_cita": "«Amarrado al duro banco | De una galera turquesca, | Ambas manos en el remo | Y ambos ojos en la tierra, | Un forzado de Dragut | En la playa de Marbella | Se quejaba al ronco són | Del remo y de la cadena.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom. 40 (R. 32. 518 1 )."
+            },
+            {
+              "texto_cita": "«Cuando volvió en sí el triste, ya amarrado | Halló su cuerpo á la fatal cadena.»",
+              "autor": "Quint.",
+              "referencia_obra": "El duque de Viseo , 2. 3 (R. 19. 49 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Amarrar del árbol.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram . Nótese que este modo de hablar, aceptable tratándose, por ejemplo, de una embarcación, no sería admisible cuando hay contacto, como en los ejemplos que preceden."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Se usa también como sujeto el nombre de la cuerda.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Grillos, esposas, | Cadenas son, que en vergonzosos lazos | Por siempre amarren tan inertes brazos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A España (R. 19. 38 2 )."
+            },
+            {
+              "texto_cita": "«Los hierros aquí ved que le amarraban.»",
+              "autor": "",
+              "referencia_obra": "Id. El duque de Viseo, 3. 4 (R. 19. 54 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Destino vario | A ti te arroja cabe el turbio Sena, | A mí en Madrid me amarra solitario.»",
+              "autor": "",
+              "referencia_obra": "V. de la Vega, Poes . (577)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tantos estragos, sin respeto holladas | Justicia y fe, la detestable ofensa | Hecha á la patria de amarrarla al yugo | Y ahogar su libertad, á un tiempo alzaron | Su poderoso grito.»",
+              "autor": "Quint.",
+              "referencia_obra": "Poes. A Padilla (R. 19. 4 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Anunciaron [las órdenes del rey] á la nación española el yugo de oprobio y servidumbre á que iba á ser amarrada.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 1 (R. 19. 538 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No me ve usted día y noche amarrada á este bastidor, sin alzar la cabeza, para que el fruto de mi trabajo nos saque de la estrechez en que nos pone la corta viudedad que usted goza?»",
+              "autor": "Hartz.",
+              "referencia_obra": "La visionaria , 1. 1 (261)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. En varios juegos de naipes Hacer la fullería de barajar de tal suerte que ciertas cartas queden juntas y salgan ó no, según convenga. Acad. Dicc . Dícese también, en sentido análogo, de los dados.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. amarrar ; fr. amarrer ; en Ducange se da un ejemplo de amarrare de 1341. La mayor parte de los etimologistas están por la procedencia germánica: hol. marren, merren, detener, amarrar; alto alemán medio merren (Diez, Diefenbach , Littré). Sobre el supuesto origen arábigo véase Martínez Marina. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,161 @@
+{
+  "lema": "ENTORNO.",
+  "categoria_gramatical": "",
+  "introduccion": "ENTORNO. El Diccionario de la Academia distingue entorno como sust. y en torno, que califica de loc. adv. ; pero en realidad se trata de la misma palabra con dos funciones distintas.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "adv. Alrededor.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Se asocia normalmente con la prep. de o a , constituyendo la loc. prep. En torno de o En torno a. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sentaban a sus hijos en torno a la gran mesa, a la hora de comer.»",
+              "autor": "",
+              "referencia_obra": "I. Agustí, Mariona, (ed. 1948, p. 11). RAE"
+            },
+            {
+              "texto_cita": "«Plateros y joyeros permanecían en su reducto, sumidos en el silencio de la calle, o en tertulia, a la caída de la tarde, en torno a los mostradores de terciopelo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (ed. 1948, p. 15)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Puede actuar como término de una prep. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y levantándose todos de entorno a la fuente, siguiendo a la sabia salieron del jardín yendo al palacio a retirarse en sus aposentos.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana, 5 (Cl. C. 135. 261). RAE"
+            },
+            {
+              "texto_cita": "«Es Pierça a culebrina --- y de tanto grueso la fuerça de su metal por entorno del ánima ---, como el ancho y hueco de su calibre.»",
+              "autor": "",
+              "referencia_obra": "D. Ufano, Trat. artillería , p. 39."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol . Precedido por de. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Huyó de entorno la tiniebla oscura, | Y luego, habiendo puéstose delante, | Vimos que era el dios Baco claramente, | Aunque de hábito extraño y diferente.»",
+              "autor": "",
+              "referencia_obra": "Arjona, Tebaida (R. 36. 116 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Sin la prep. de o a , por lo que adquiere la función de prep.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los soldados en torno los tizones, | Ya de parlar cansados, reposaban.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 14 (R. 57. 55 1 )."
+            },
+            {
+              "texto_cita": "«Tristes sombras | Entorno esas ruïnas revolando: | Perezca, claman, la memoria infausta - --.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", epíst . 2 (R. 67. 228 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "s. m. Contorno, lo que está alrededor.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El capitán Pomar lleuó tres cauallos de su persona; vno con vnas sobre cubiertas e sayo de raso carmesí con vnos entornos de puntas de raso blanco ---.»",
+              "autor": "",
+              "referencia_obra": "Q uestión de amor (NBAE. 7. 93). RAE"
+            },
+            {
+              "texto_cita": "«En aquella época en que de mi entorno solo recibía indicaciones que aludían a las condiciones excepcionales que han de adornar a los investigadores, D. Santiago se esforzaba para convencerme de que cuanto él había realizado era fruto de una voluntad firme.»",
+              "autor": "Cabrera",
+              "referencia_obra": ", Disc. recep. Acad. p. 17. RAE"
+            },
+            {
+              "texto_cita": "«En primer término hemos de rechazar la independencia absoluta del espacio y el tiempo, que es notoria para el mundo de nuestra conciencia y nuestro entorno inmediato.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. p. 31. RAE"
+            },
+            {
+              "texto_cita": "«Las reglas de subcategorización estricta se refieren a las categorías del entorno.»",
+              "autor": "Acad.",
+              "referencia_obra": "p. 31"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con un compl. con a . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este último fenómeno puede producirse espontáneamente cualesquiera que sean las circunstancias del entorno al núcleo, y así se explican las trasmutaciones radioactivas.»",
+              "autor": "Cabrera",
+              "referencia_obra": ", Disc. recep. Acad. p. 69."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV : RAE",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La de Yndia ha el color de fuego y vnas venas blancas por el medio al entorno.»",
+          "autor": "",
+          "referencia_obra": "Burgos, Propiedades cosas, fol . Miiij, c . +"
+        },
+        {
+          "texto_cita": "«Antartón socorrió a Gravaparón, el qual, viendo a Feronio que no peleava ---, reprehendiólo i arredró muy reçiamente a los enemigos que estavan en torno del rey.»",
+          "autor": "Pal.",
+          "referencia_obra": "Bat. campal, 32 (94). +"
+        },
+        {
+          "texto_cita": "«Acorrió presto Ecanbo a su compañero, i todos los otros perros, ya llegados, le estavan en torno.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 3 (21). +"
+        },
+        {
+          "texto_cita": "«Los bienes mundanos vos dan exçellençia | E los claros fijos la gloria más viva, | Que bien como nuevos pimpollos d'oliva | Floresçen en torno en vuestra presençia.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 322. +"
+        },
+        {
+          "texto_cita": "«E non se tardando Curiolano, mandó levantar las huestes e legiones del entorno de la romana çibdat.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 89. — Siglo XIV : RAE"
+        },
+        {
+          "texto_cita": "«Exsyon --- çercólos todos entorno con sus gentes.»",
+          "autor": "Heredia",
+          "referencia_obra": ", Grant crón. de Espanya (ed 1964, p. 196)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y torno, y éste del lat. tornus (< gr. τορνοζ 'torno'). Fr . entour. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

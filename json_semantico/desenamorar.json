@@ -1,0 +1,119 @@
+{
+  "lema": "DESENAMORAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer perder el amor ó afición ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos traen gran alboroto, | Porque pretenden curarle, | Para desenamorarle.»",
+              "autor": "Mto.",
+              "referencia_obra": "Antíoco y Seleuco, 3. 2 (R. 39. 51 1 )."
+            },
+            {
+              "texto_cita": "«Mas que se vaya dentro de dos horas | Si es necio y feo por entrambos lados. | — Presto la voluntad desenamoras.»",
+              "autor": "Lope",
+              "referencia_obra": ", Santiago el Verde, 1. 17 (R. 34. 198 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mereció una noche ver | A su bellísima dama | Para dar fin á su llama, | Y vio en su aposento arder | Un reverendo candil. | Tal fue el ansia que le dio, | Que se desenamoró | Viendo una alhaja tan vil.»",
+              "autor": "Lope",
+              "referencia_obra": ", La mal casada, 1. 6 (R. 34. 292 3 )."
+            },
+            {
+              "texto_cita": "«Mas también me dio el remedio [contra los celos]. | — ¿Cuál es? — Desenamorarme, | Y así podré sosegarme, | Quitando el amor de en medio.»",
+              "autor": "",
+              "referencia_obra": "Id. La dama boba, 2. 19 (R. 124. 309 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Salí después de tantos sentimientos | Tan desenamorado, que pudiera | Vender olvido á la mayor constancia.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las bizarrías de Belisa, 2. 3 (R. 34. 534 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de, para expresar la persona á quien se deja de tener amor",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se estará burlando de mis lágrimas, gloriosa de que te ha desenamorado de mi.»",
+              "autor": "Lope",
+              "referencia_obra": ", Dorotea, 3. 6 ( Obr. suelt. 7. 231)."
+            },
+            {
+              "texto_cita": "«Sé yo que en Marcela | Hay más defetos que gracias. | --- Pero no quiero | Desenamorarte della.»",
+              "autor": "",
+              "referencia_obra": "Id. El perro del hortelano, 1. 22 (R. 24. 347 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Lo que á mí en éste más desplace, es que pinta á D. Quijote ya desenamorado de Dulcinea del Toboso.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 59 (R. 1. 529 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para desenamorar | Dicen que el mejor remedio | Es casar una persona | Con la que tiene en deseo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Virtud, pobreza y mujer, 3. 3 (R. 52. 227 1 )."
+            },
+            {
+              "texto_cita": "«¿Que esto no desenamore | Sino que obligue á deseo?»",
+              "autor": "Valencia",
+              "referencia_obra": ", 2. 2 (R. 24. 122 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Conoció Hernán Cortés que le aconsejaban lo más conveniente, por ser una de sus mejores prendas la faciliad con que solía desenamorarse de sus dictámenes para enamorarse de la razón.»",
+          "autor": "Solís",
+          "referencia_obra": ", Conq. de Mej. 5. 21 (R. 28. 378 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y enamorar. Port., cat. desenamorar; fr . desenamourer. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

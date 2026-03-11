@@ -1,0 +1,159 @@
+{
+  "lema": "DESLEÍR.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Reducir algunos cuerpos á partes menudas echándolos ó empapándolos en un líquido ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ciudad está lejos, los ungüentos están por desleír, y el cuerpo está por ungir.»",
+              "autor": "Guev.",
+              "referencia_obra": "Monte Calvario , 1. 56 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo sé bien á lo que huele aquella rosa entre espinas, aquel lirio del campo, aquel ámbar desleído.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 31 (R. 1. 336 1 )."
+            },
+            {
+              "texto_cita": "«El ámbar es una especie de betún trasparente que suele arrojar el mar, y que destilado ó desleído servía en las confecciones olorosas.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 1, p. 83 ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar el líquido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las castalias ondas desleídle | El vino más preciado.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. lír. prof . 10 (R. 67. 290 1 ). El uso de desleír en este pasaje es á todas luces impropio."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni flor medicinal, ni fruto han visto | Los orbes nuevo y viejo, que faltase | A desleírse en mi execrable pisto.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pienso pedir (R. 42. 313 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Tratándose de pensamientos ó conceptos, Expresarlos con muchas más palabras de las necesarias ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habiéndose propuesto interpretar las leyes de España, escritas en buen romance, las deslieron en un latín macarrónico.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la lengua castell . (R. 63. 379 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«He preferido reducir el tratado á pocas páginas, ya porque lo requiere el género de la obra, ya también porque las ideas, para germinar, conviene que no estén desleídas.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Filosof. elem. Ética, pról. (361)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Bevet tres pensantes por una medida, | Que sean desleydos con agua de alberca.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 451 . — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Para esto ha mester quél dén á comer manteca crua, et que la faga desdeir entre los dedos.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caza , 11 ( Bibl. venat. 3. 88). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«El que sagró Dios que deslyese»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Et esleyere»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Sanó la paralitica de la enfermedat --- | Todos diçien questa era virtut complida, | Que sanó tan ayna cosa tan deleida.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 590 (R. 57. 58 2 )."
+        },
+        {
+          "texto_cita": "«Avienna desleída los dolores cutianos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 582 (R. 57. 58 2 )."
+        },
+        {
+          "texto_cita": "«Los oios concovados, los brazos desleidos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 540 (R. 57. 57 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Oscura, pues las que se dan ordinariamente, desligar ( Covarr. ) y diluere ( Cabrera ), no pueden producir desleír. Diez, interpretando por paralítico el desleido, deleido de Berceo, sugiere que desleír corresponde á B\"D\"8b%4< , y que leir sería 8b%4< . Los pasajes de la antigua versión de la Biblia (MS. 8 de Scío , cuya redacción parece navarra) y el de D. Juan Manuel permiten imaginar un compuesto desdelir ( desledir, desleir ) , cuyo simple delír = lat . delere, es en port. el término común por desleír, era común en cat. y prov. por Destruír, y aun se usa en Valencia por Echar á perder, quitar; en prov. mod. adeli, extenuar, s’adeli, extenuarse, descaecer. Este sentido ó el de tullido (de tollere, quitar) cuadra á los lugares de Berceo. A no ser traducción literal del hebreo, pudiera creerse que en el siguiente de la Biblia de Ferrara se conservó la letra de alguna versión más antigua (Rodríguez de Castro , Bibl. esp . 1, p. 410 2 ):",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Porque encubriste tus fazes de nos y desleistenos por nuestros delitos»",
+          "autor": "",
+          "referencia_obra": "= allisiste nos in manu iniquitatis nostrae. Isaías , 64. 7. Körting sugiere que puede ser compuesto de legere: en cuanto á la forma podría compararse esleir = eligere, y por lo que hace al sentido sería lo contrario de colligere , juntar, condensar."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene estas formas irregulares deslí-o, es, e, en; desli-ó, eron; deslí-a, as, a, amos, áis, an; desli-ese, eses, ese, ésemos, eseis, esen; desli-era, eras, era, éramos, erais, eran; desli-ere, eres, ere, éremos, ereis, eren; desli-e tú; desli-endo.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "La e , y la i que la reemplaza, se pronuncian siempre separadas de la vocal siguiente, excepto en desleiré, desleiría y sus inflexiones: desle-ir, desle-ímos, desli-ó, desli-endo desli-amos. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

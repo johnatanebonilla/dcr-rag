@@ -1,0 +1,346 @@
+{
+  "lema": "EMPAPAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Etimológicamente, Reducir una cosa al estado de las sopas blandas llamadas papas; en el uso común, Humedecerla hasta que quede penetrada y cubierta de un líquido ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El vaso nuevo se empapa y conserva mucho tiempo el sabor del primer licor que en él se echare.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. pról. (R. 27. 279)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le cogió el aguacero y llegó empapado.»",
+              "autor": "",
+              "referencia_obra": ""
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en, para designar el líquido en que está como sumergido el objeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aplica al hombro la mano, | Y en propia sangre la empapa.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 9 (4. 338)."
+            },
+            {
+              "texto_cita": "«Empapé en mi sangre el patrio suelo | Por ensalzar el nombre castellano.»",
+              "autor": "",
+              "referencia_obra": "Id. Fragm. de un poema , 2 (1. 60)."
+            },
+            {
+              "texto_cita": "«Y las recogen [sus trenzas ] en ligera toca, | Y en aceite de rosa las empapan.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 1 (2. 31). —"
+            },
+            {
+              "texto_cita": "«Después de haber empapado [Milton], por decirlo así, sus alas en las aguas del Jordán, comunicó a su poema las dos prendas más notables del orientalismo, el atrevimiento y la sencillez.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensa yos, 2, p. 28."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni los dioses en Méjico temidos | De aqueste horrendo cónclave faltaron, | De humana sangre bárbara teñidos, | En que siempre sedientos se empaparon.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 4 (R. 17. 429 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para que la tierra fructifique --- es menester tanta agua que cale hasta lo íntimo de la tierra y la deje toda empapada en ella.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1. 8, § 6 (R. 1. 19 1 )."
+            },
+            {
+              "texto_cita": "«Y porque en muchas partes faltan fuentes y ríos, ordenó la divina Providencia que toda la tierra estuviese empapada en agua; porque desta manera cavándolos hombres, supliesen con los pozos la falta de las fuentes.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 1. 9 (R. 6. 204 2 )."
+            },
+            {
+              "texto_cita": "«No sé si del ruido de la batalla o del vapor que arrojó de sí la tierra, empapada en la sangre de los contrarios, me han dado unos váguidos de cabeza, que verdaderamente me tienen como tonto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Adjunta (R. 1. 701 2 )."
+            },
+            {
+              "texto_cita": "«Tomaron el santo cuerpo estos varones, y ungiéronle con la mirra --- de modo que todo el cuerpo quedó empapado en ella.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 4. 55 (2. 629). —"
+            },
+            {
+              "texto_cita": "«Una nube en quien ha lanzado la fuerza de su claridad y de sus rayos el sol, llena de luz, y, si aquesta palabra aquí se permite, en luz empapada, por donde quiera que se mire es un sol.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2 , Esposo (3. 250)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de, en sentido instrumental.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo juro --- | De echar de Chile el español gobierno | Y de sangre empapar toda la tierra.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 12 (R. 17. 49 1 )."
+            },
+            {
+              "texto_cita": "«Los judíos lavaban los cadáveres y --- los embalsamaban, no quitándoles las entrañas como hacían los egipcios, y se practicó después en Oriente, sino empapándolas de un licor espeso de mirra, aloes y otras drogas aromáticas; después los vendaban desde la cabeza hasta los pies con vendas anchas de lienzo, empapadas también en el mismo licor.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Mat . 27. 59, nota."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Apéanse; las capas de agua y nieve | Empapadas se dejan en la silla.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós . 6 (2. 185)."
+            },
+            {
+              "texto_cita": "«Llegó a media mañana harto malparado, cubierto de lodo y empapado de la lluvia.»",
+              "autor": "",
+              "referencia_obra": "Id. Masan. 2. 17 (5. 248)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Retienen el vómito [las flores de granado] cocidas en vinagre; y con aquel vinagre y ellas majadas empapen una espongia, y pónganla en el estómago.»",
+              "autor": "Herr.",
+              "referencia_obra": "Agric. gen. 3. 26 (2. 238)."
+            },
+            {
+              "texto_cita": "«El suelo empapan con sudor sangriento.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 7 (R. 17. 458 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Tener anegado y absorto, dominar o cautivar del todo ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Del todo lo emborracha [el deleite al hombre] y empapa sus sentidos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir . 15, § 1 (R. 11. 330 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . (en esta forma se empleaba comúnmente; hoy es de poco uso) Estar anegado o absorto, completamente dominado o cautivado. Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estando las criaturas convidándolos a alabar al dador de todos estos bienes, de tal manera se ceban y empapan en ellos, que no les pasa por pensamiento darle gracias.»",
+              "autor": "",
+              "referencia_obra": "Gan. Símb . 1. 8, § 1 (R. 6. 204 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ansí está el alma muy ordinario, que no sosiega ni cabe en sí, con el amor que tiene: ya la tiene a ella empapada en sí; querría bebiesen los otros pues a ella no le hace falta, para que la ayudasen a alabar a Dios.»",
+              "autor": "",
+              "referencia_obra": "Sta. Ter . Vida, 30 (R. 53. 93 1 )."
+            },
+            {
+              "texto_cita": "«Mas cuando se vio en más alto grado, y toda empapada en aquella inmensa grandeza de Dios, que se ve quedar más sustentada ---»",
+              "autor": "",
+              "referencia_obra": "Ead. Concep. 4 (R. 53. 399 1 )."
+            },
+            {
+              "texto_cita": "«Ansí me parece debe ser un alma, que aunque no está en mal estado, está tan metida en cosas del mundo y tan empapada en la hacienda, o honra, o negocios ---»",
+              "autor": "",
+              "referencia_obra": "Ead. Mor . 1. 2 (R. 53. 438 2 )."
+            },
+            {
+              "texto_cita": "«Lo que no se puede decir es lo interior y la oración altísima en que aquella alma santa iba toda empapada, si así se sufre decir, y anegada en Dios.»",
+              "autor": "Yepes",
+              "referencia_obra": ", Vida de Sta. Ter. 2. 36 ( Míst. 1. 262)."
+            },
+            {
+              "texto_cita": "«El ánima herida de este amor anda tan empapada en él, que de día y de noche otra cosa ni piensa, ni sueña, ni imagina, sino sólo esto que ama.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 5. 2. 14, § 1 (R. 6. 630 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Refl. Llenarse de una idea o doctrina, apropiándosela y penetrándose bien de ella.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entiendo medianamente la lengua en que escribió Anacreón, y después de haberme empapado en su espíritu --- me atreví ---»",
+              "autor": "Forner",
+              "referencia_obra": "., Anacr. 1 (R. 63. 320 2 )."
+            },
+            {
+              "texto_cita": "«Yo le proporcionaré | Otros libros más amenos, | Y usted me dará las gracias | Luego que se empape en ellos.»",
+              "autor": "Bretón",
+              "referencia_obra": ", La falsa ilustración , 4. 2 (1. 230)."
+            },
+            {
+              "texto_cita": "«Se empapaba poco en la índole de los caracteres que representaba.»",
+              "autor": "A. Galiano",
+              "referencia_obra": ", Recuerdos , p. 72."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Válame Dios, y cuántas provincias dijo, cuántas naciones nombró, dándole a cada una con maravillosa presteza los atributos que le pertenecían, todo absorto y empapado en lo que había leído en sus libros mentirosos!»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 18 (R. 1. 291 2 )."
+            },
+            {
+              "texto_cita": "«En el hablar, es bien que se conforme con los más, principalmente en cosas que ni edifican a la Iglesia, ni hacen para la enmienda de las costumbres, y que ya el pueblo está empapado y embebido en ellas, y que las mamó en la leche.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd. 2, § 7 (R. 27. 305 2 )."
+            },
+            {
+              "texto_cita": "«Estoy cierto de que embebido Vuestra Alteza y como empapado desde los más tiernos años en esta altísima sabiduría, se gobernará por ella.»",
+              "autor": "Scío",
+              "referencia_obra": ", Biblia, dedic."
+            },
+            {
+              "texto_cita": "«Empapado [León] en la lectura de Horacio, parece proponérsele por modelo.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", Resum. histór. p. 51."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estos no son sin embargo más que los trabajos preliminares, que para empaparse del espíritu de su original está obligado a hacer todo traductor, antes de emprender la versión.»",
+              "autor": "",
+              "referencia_obra": "J. Burgos, trad. de Hor. pról. (1. 14)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Empapados de estas ideas, vamos a considerar ---»",
+              "autor": "A. Durán",
+              "referencia_obra": "(R. 5. 720 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "De igual manera que embeber, se dice del líquido mismo que penetra y cubre un objeto ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sangre empapa las tumbas y ruinas; | Sangre corre en la tierra y el mar.»",
+          "autor": "",
+          "referencia_obra": "M. de la Rosa, canc. guerrera (1. 39)."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando caen [las aguas de las nubes], no bajan de un golpe, sino poco a poco para que rieguen y se empapen en la tierra.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 6. 20 (3. 369)."
+            },
+            {
+              "texto_cita": "«La sangre que salió de sus cuerpos se heló --- de manera que no se empapó en la tierra, que estaba ya regada con la otra sangre de los malhechores.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos. SS. Enero, 9."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Por extensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El aceite otrosí echado con el agua, o se levanta sobre ella, o se muda todo en unos pequeños ojos, por no perder su ser, siendo encorporado o empapado en el agua.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb . 1. 6 (R. 6. 200 1 ). —"
+            },
+            {
+              "texto_cita": "«Si se jabona con agua fría no saldrán las manchas viejas y que están muy encorporadas y empapadas en el paño.»",
+              "autor": "M. de Chaide",
+              "referencia_obra": ", Magd . 3, § 39 (R. 27. 364 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de en, que denota reducción a cierto estado, y papas ; en sentido análogo decimos estar hecho sopa , y en port. son sinónimos empapar y ensopar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

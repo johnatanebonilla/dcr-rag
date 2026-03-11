@@ -1,0 +1,574 @@
+{
+  "lema": "ENSALZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Elevar, alzar o levantar una cosa en sentido material ( trans. ) . Es raro con este significado, encontrándose tan solo en lenguaje poético, como en los siguientes textos de Herrera y Hojeda .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Verá el ilustre reino de ocidente | Cuánto en vuestra alabanza ensalzo el vuelo.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son. 66 (R. 32. 267 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No grabaré en colunas vuestra historia | ---, | Mas en eternas cartas y sagradas, | Con la virtud que Febo Apolo inspira | De las Cirreas cumbres ensalzadas.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg. 19 (R. 32. 297 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Nótese el doble sentido, material e inmaterial, del siguiente ejemplo. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y veremos en hombros ensalzado | Al que furiosos tiros endereza | Contra la fama y honra inestimable | Deste sabio consejo venerable?»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 3 (R. 17. 419 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Engrandecer, elevar a una persona o cosa en honra, dignidad o fama ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Puede llevar sujeto de persona o cosa. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Júpiter --- las cosas grandes abate e las baxas ensalça.»",
+              "autor": "Oviedo",
+              "referencia_obra": ", Quinquag . 1. 4 (1. 55)."
+            },
+            {
+              "texto_cita": "«Levantáronle en alto diciendo: Dios ensalce a Mahomet Aben Humeya, rey de Granada y de Córdoba.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 1 (R. 21. 74 2 )."
+            },
+            {
+              "texto_cita": "«No quiero ver el ceño | Vanamente severo | De a quien la sangre ensalza | O el dinero.»",
+              "autor": "León",
+              "referencia_obra": ", Poes . 1 ¡Qué descansada vida! (4. 294)."
+            },
+            {
+              "texto_cita": "«No ve [la fortuna] lo que hace, ni sabe a quién derriba ni a quién ensalza.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 66 (R. 1. 544 1 )."
+            },
+            {
+              "texto_cita": "«Echó de su silla a los poderosos y ensalzó a los humildes.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 2. 12 (1. 321) . RAE"
+            },
+            {
+              "texto_cita": "«Una de las cosas que han ensalzado más el nombre de la Santa Iglesia de Toledo, ha sido el crecido número de Concilios celebrados en ella.»",
+              "autor": "Flórez",
+              "referencia_obra": ", Esp. Sagr. (6. 13 1 ). RAE"
+            },
+            {
+              "texto_cita": "«Voy a llevar la medalla que ensalzó D. Armando Palacio Valdés, y con solo nombrarlo está hecho su elogio.»",
+              "autor": "Acad.",
+              "referencia_obra": "p. 6."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Siempre que se humilló Cristo en la tierra, | Glorioso el padre le ensalzó en el cielo.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 1 (R. 17. 404 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con sobre . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuan grande es la altura que hay del cielo a la tierra, tanto ensalzó [Dios] su misericordia sobre los que le temen.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. del crist. 6 (R. 11. 186 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Pas. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como el vino engaña al que bebe, así sucederá al varón soberbio, y no será ensalzado el que extendió su alma como el infierno.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obras (ed. 1945, prosa, p. 273 1 ). Con en y entre. +"
+            },
+            {
+              "texto_cita": "« Ensalzada habéis de ser en el cielo entre los coros de los ángeles.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 2. 47 (1. 507). — Con sobre . +"
+            },
+            {
+              "texto_cita": "«Abatístete más que todos los hombres juntos, para que fuésemos ensalzados sobre los ángeles.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 1. 12 (1. 352)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Part . Con en. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Admiróse el profeta señalado, | Para sacar de Egipto a los hebreos, | De verte en las espinas ensalzado, | No viendo más en ti que los deseos.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist . 9 (R. 17. 472 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. con sobre y con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y desplegadas | Las fuerzas encerradas, | Sobre el opuesto bando | Con poderoso pie | Se ensalza hollando.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1 , No siempre es poderosa (4. 300)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "En particular, Alabar, expresar con palabras los méritos y valores de una persona o cosa ( trans. ). La persona o cosa es el compl. directo.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se hallará sabio ni filósofo que no abomine la injusticia y alabe y ensalce la justicia.»",
+              "autor": "P. Mexía",
+              "referencia_obra": ", Coloq. 4 (p. 154). +"
+            },
+            {
+              "texto_cita": "«Como iba luego la infantería española y tras ellos la caballería, por todas las calles adonde pasaban los echaban todos muchas bendiciones, alabándoles y ensalzando a España, que tales hombres había criado.»",
+              "autor": "",
+              "referencia_obra": "Crón. Gran Ca pitán, 2. 10 (NBAE. 10. 295 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con la prep. con, para indicar el modo o medio.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ensalza las hazañas y la grandeza | Con alta voz y con eterna lira.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, canc . 4 (R. 32. 275 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con hasta. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El Gran Capitán --- abrazó y besó en el carrillo al Andrada, al Carvajal --- y a todos los otros capitanes, ensalzando sus hechos hasta el cielo.»",
+              "autor": "Crón. Gran Capitán",
+              "referencia_obra": ", 8. 8 (NBAE. 10. 391 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con en y hasta . +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ellos [los Reyes de España] le dieron [al Gran Capitán] las gracias de parte de aquella Señoría, agradeciéndole mucho el gran trabajo que en aquella jornada habían pasado, con otros muchos loores en que lo ensalzaban hasta el cielo.»",
+              "autor": "Crón. Gran Capitán",
+              "referencia_obra": ", 3. 16 (NBAE. 10. 314 1 ). — En el siguiente texto lleva además un compl. con la prep. con, para indicar el medio."
+            },
+            {
+              "texto_cita": "«Con clamores infinitos | En himnos lo ensalzaron hasta el cielo.»",
+              "autor": "Hojeda",
+              "referencia_obra": ", Crist. 7 (R. 17. 454 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ δ )",
+          "definicion": "Con sobre. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los musulmanes quemarán ciudades, cautivarán españoles y ensalzarán el nombre de Mahoma sobre el de Cristo.»",
+              "autor": "",
+              "referencia_obra": "Lapesa, Obra liter. del M. de Santillana, p. 242."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε ε )",
+          "definicion": "Absol. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan presto borra en el vulgo la memoria de los beneficios recebidos la vexación o el odio, y tan inconstante es en sus juicios, abatiendo y ensalzando.»",
+              "autor": "Fuenmayor",
+              "referencia_obra": ", Vida de S. Pío V, 1 (p. 37)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ ζ )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Bendito seáis vos, Señor Dios de nuestros padres, y alabado y ensalzado en todos los siglos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist. 5. 6 , orac. 3 (R. 8. 314 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Con por , para indicar el agente. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De tan hermoso, debió de ser ya monte escogido y ensalzado por los antiguos, como el monte Erix, de Sicilia.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p . 131."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Envanecer, hacer que alguien se vanagloríe ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El tener dones de Dios no ha de ensalzar vanamente a los que los tienen, mas bajarlos más, como quien más agradecimiento y servicio debe.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 17 ( Míst. 3. 160)."
+            },
+            {
+              "texto_cita": "«Siendo rico y sabio y de linaje, se casó con una labradora de una aldea ---, y porque las ropas y joyas y todo el más aparato que le dio, como a mujer de hombre tan calificado, no la ensalzase, tomó la ropilla vil y pobre que ella traía vestida cuando la recibió, y colgóla en su palacio donde ella muchas veces la viese.»",
+              "autor": "",
+              "referencia_obra": "Id. Epíst. 3. 26 (7. 117)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Con por, para indicar la causa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La gracia aun a los enemigos ama, y no se ensalza por los muchos amigos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Imit. 3. 59 (R. 11. 418 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas ensalsar, ensalçar, enxalçar, y exalçar. ) Siglo XV: x",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ensalçar, poner en alto: exalto, as; maltho, as .»",
+          "autor": "",
+          "referencia_obra": "Nebr. Dicc. x"
+        },
+        {
+          "texto_cita": "«Ensalçar alabando: extollo, effero laudibus.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. +"
+        },
+        {
+          "texto_cita": "«Ensalsava asý con loores fasta el çielo qualquier cosa o façaña.»",
+          "autor": "Pal.",
+          "referencia_obra": "Bat. campal, 5 (25)."
+        },
+        {
+          "texto_cita": "«También se loara un fecho castellano como se loa un fecho romano, si oviera escriptores en Castilla que supieran ensalzar en escriptura los fechos de los castellanos, como ovo romanos que supieron sublimar los de su nación romana.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 26 (144) (ed. Cl. C. 49. 141: ensalçar )."
+        },
+        {
+          "texto_cita": "«Aquella prosperidad | Que tan alta fue subida | Y ensalzada, | ¿Qué fue ---?»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Coplas ( Fern. 16. 54)."
+        },
+        {
+          "texto_cita": "«E el avaricia enxalça su vando.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 378."
+        },
+        {
+          "texto_cita": "«Quiso [Dios] --- | Ensalzar mi señorío.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 335."
+        },
+        {
+          "texto_cita": "«Por quanto se claryfica e alumbra el sesso, e se despierta e ensalza el entendimiento.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 9."
+        },
+        {
+          "texto_cita": "«Con lo qual su fama e prez | Con gran loor ensalzó.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var . 329 ( Rim. inéd. 320)."
+        },
+        {
+          "texto_cita": "«Santo le digo por quanto | Ha nuestra fe ensalçado.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 296 ( Rim. inéd . 316)."
+        },
+        {
+          "texto_cita": "«Tantos son más ensalzados | Los varones excelentes, | Cuanto de los diligentes | Sabios fueron más notados.»",
+          "autor": "",
+          "referencia_obra": "Id. Ib. 12 ( Rim. inéd. 273). +"
+        },
+        {
+          "texto_cita": "« ¡E como que veo algunas de las tus sagradas iglesias establos de los ynfieles, e el maldito nombre de Mahoma ensalçado e la señal de Xripsto en caymiento!»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 484. +"
+        },
+        {
+          "texto_cita": "«Yo dubdo poder loar | La vuestra mucha cordura, | Honestat, graçia e messura | Quanto se deve ensalçar.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 448. +"
+        },
+        {
+          "texto_cita": "«Las riqueças son de amar, | Ca syn ellas grandes cosas | Maníficas nin famosas | Non se pueden acabar: | Por ellas son ensalçados | Los señores.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 160."
+        },
+        {
+          "texto_cita": "«Porque la mesma loor | En tu boca | Non ensalza, mas apoca | Tu valor.»",
+          "autor": "",
+          "referencia_obra": "Id. p. 52. +"
+        },
+        {
+          "texto_cita": "«¿Quién por menudo podría contar los continuos trabajos que el Condestable resçibía por seruir al Rey su señor e ensalçar la su corona?»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 49 (155)."
+        },
+        {
+          "texto_cita": "«Avía [el rey] grand voluntad de lo ensalzar, e facer uno de los principales de los sus regnos.»",
+          "autor": "",
+          "referencia_obra": "Ib . 12 (40)."
+        },
+        {
+          "texto_cita": "«E por discretas e muy ordenadas canciones ensalzó la virtud de las mujeres.»",
+          "autor": "",
+          "referencia_obra": "Ib. 8 (23). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«De onrras e virtudes mucho lo ensalçara.»",
+          "autor": "Pal.",
+          "referencia_obra": "1503 (R. 57. 473 2 )."
+        },
+        {
+          "texto_cita": "«A los vmilles ensalça e los tiene más preçiados.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1331 (R. 57. 468 2 )."
+        },
+        {
+          "texto_cita": "«Quiso [Dios] mostrar el su muy grand poder, quebrantando la mala seta de Mahomad et ensalzando la fe católica.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 252 (R. 66. 328 2 )."
+        },
+        {
+          "texto_cita": "«Tú fasta aquí fueste onrrado e ensalçado.»",
+          "autor": "Plácidas",
+          "referencia_obra": "(131). +"
+        },
+        {
+          "texto_cita": "«Tu ley sea ensalçada | E la fe de los romanos | Oy sea desbaratada.»",
+          "autor": "",
+          "referencia_obra": "Alf. XI , 1578 (p. 441)."
+        },
+        {
+          "texto_cita": "«Que siempre fesieron seruicio | Por la ley ser exalçada.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1326 (R. 57. 517 1; ed. Yo Ten Cate, p. 371)."
+        },
+        {
+          "texto_cita": "«Non le podedes tanto servir [a Dios] como es en haber guerra con los moros por ensalzar la sancta e verdadera fe católica.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 21 (R. 51. 404 2 )."
+        },
+        {
+          "texto_cita": "«Es et será para siempre ensalzada sobre los coros de los ángeles.»",
+          "autor": "",
+          "referencia_obra": "Id. Libro de los est . 2. 9 (R. 51. 351 2 )."
+        },
+        {
+          "texto_cita": "«Van ellos aparejados por recibir martirio et muerte por defender et ensalzar la sancta fe católica.»",
+          "autor": "",
+          "referencia_obra": "Id. Ib. 75 (R. 51. 323 2 )."
+        },
+        {
+          "texto_cita": "«Santa Virgen escogida, | De Dios Madre muy amada, | En los cielos ensalzada ---.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1645 (R. 57. 279 2 )."
+        },
+        {
+          "texto_cita": "«E non te ensalçes tanto que te tengan por soberbio y por esquivo, nin te abaxes tanto que te tengan por vil.»",
+          "autor": "",
+          "referencia_obra": "Buenos proverbios (Knust, 32). +"
+        },
+        {
+          "texto_cita": "«Con el fablar en su logar e con rrazón crece el prez e ensálçase la nobleza.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, Mitth. 11)."
+        },
+        {
+          "texto_cita": "«El sennor que vos fizo sea santificado e glorificado e ensalzado.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, 10). — Siglo XIII: +"
+        },
+        {
+          "texto_cita": "«Vino el vn rey e diole [al infante] la lança con el pendón, e díxole: ¡Ensalçe Dios la tu onrra toda vía!»",
+          "autor": "Zifar",
+          "referencia_obra": ", 201 (p. 441) . +"
+        },
+        {
+          "texto_cita": "«Quien mucho codiçia en su coraçón las onrras, muchas vegadas faze más de lo que non deue por ellas, ca se quiere ensalçar por ellas sobre los otros.»",
+          "autor": "",
+          "referencia_obra": "Ib. 144 (p. 303). +"
+        },
+        {
+          "texto_cita": "«Dize la Santa Escriptura: Quien fuere vmildoso será ensalçado, e quien se quiere ensalçar será abaxado.»",
+          "autor": "",
+          "referencia_obra": "Ib . 139 (p. 295)."
+        },
+        {
+          "texto_cita": "«Ansí ensalza Dios a los homildosos, e homilla a los que se ensalzan.»",
+          "autor": "Cast. e docum.",
+          "referencia_obra": "40 (R. 51. 165 1 )."
+        },
+        {
+          "texto_cita": "«Así ayuda Dios a los buenos reyes e a los buenos emperadores, ensalzándolos e honrándolos en este mundo, e después glorificándolos en el otro.»",
+          "autor": "",
+          "referencia_obra": "Ib. 10 (R. 51. 108 2 ). RAE"
+        },
+        {
+          "texto_cita": "«Tú, qu'estás en la fe, non te enxalces por eso.»",
+          "autor": "",
+          "referencia_obra": "Epíst. S. Pablo a los rom. (ed. 1957, p. 444). RAE"
+        },
+        {
+          "texto_cita": "«Loat a Dios todas las gentes, e exalçatle todos los pueblos.»",
+          "autor": "",
+          "referencia_obra": "Ib. (ed. 1957, p. 447). RAE"
+        },
+        {
+          "texto_cita": "«Et así como nós punnamos siempre en ensalçar et noblescer la su fazienda et la su fama ---.»",
+          "autor": "",
+          "referencia_obra": "Alf. x, Testamento (ed. 1851, p. 113)."
+        },
+        {
+          "texto_cita": "«E por ende todavía era más loada la fe de los xpistianos e más ensalçada.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 1. 143 (122 2 ). +"
+        },
+        {
+          "texto_cita": "«Nuestro Ssennor Ihesu Cristo dixo: aquel que sse homillasse ssería enssalçado.»",
+          "autor": "",
+          "referencia_obra": "Alf. x, Seten. ley 107 (p. 258). +"
+        },
+        {
+          "texto_cita": "«En él [el altar] ensalçan el cuerpo de Nuestro Ssennor Ihesu Cristo, que es alto ssobre todas las cosas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. ley 105 (p. 244). +"
+        },
+        {
+          "texto_cita": "«Acreçentaua [el rrey don Ffernando] la ssu ffe e ensalçaua el su santo nonbre.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. ley 9 (p. 16)."
+        },
+        {
+          "texto_cita": "«Dixo nuestro Señor Jesu Cristo que el que se homillase, que ese sería ensalzado.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 72 (1. 132). RAE"
+        },
+        {
+          "texto_cita": "«Si salliere su fregamiento uermeio, onrrar lo á cadauno et ensalçar lo ha.»",
+          "autor": "",
+          "referencia_obra": "Alf. x, Lapidario (Ms. 1276-79, fol. 112 vº)."
+        },
+        {
+          "texto_cita": "«Ca non podrían ellos ganar nen aver muchos poblos, nen gran aver, se non porque foron enxalzados por reys.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, preámb. 4 (v)."
+        },
+        {
+          "texto_cita": "«E semeja que la justicia amaneció estropezando et la injusticia insalzándose.»",
+          "autor": "Cal. e Dymna",
+          "referencia_obra": "(R. 51. 18 2 )."
+        },
+        {
+          "texto_cita": "«Sea oy por ty [oh Jesús] ensalçada la cristiandad.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 505 (R. 57. 404 2 )."
+        },
+        {
+          "texto_cita": "«E quien se vmillare a Dios, ensalçarle ha, e quien se le alçare, abaxarle ha.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 20 (48)."
+        },
+        {
+          "texto_cita": "«Toda sancta Eglesia fue con él enxalzada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 45 (R. 57. 41 1 ). — Siglo XII: RAE"
+        },
+        {
+          "texto_cita": "«Oy, en este día, començé a exalçar[te] delant fijos de Israel, que assí cuemo fu con Moysén assí será contigo.»",
+          "autor": "Almerich",
+          "referencia_obra": ", Fazienda de Ultra Mar (ed. 1965, p. 97)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Del lat. *exaltiare, cruce de exaltare 'levantar', del que deriva el cultismo exaltar, y *altiare 'alzar', ambos de altus 'alto'. La -n- de ensalzar, que es la forma actual, se debe a la confusión muy frecuente del prefijo ex- con in- (cfr. M. Pidal, Manual, § 126); pero en la Edad Media se encuentra esalçar ( Primera Crón. gen. , según Corominas ) y exalçar (véase Per. antecl. ) . Fr. ant. eshaucier ( mod. exhausser o exaucer ) , prov. eisausar, cat. exalçar, port. ant. eixalçar ( mod. ensalçar).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Ortogr.",
+      "definicion": "Ante e se escribe c: ensalcé, ensalcemos , etc. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

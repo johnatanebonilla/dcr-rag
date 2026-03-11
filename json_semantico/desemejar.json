@@ -1,0 +1,166 @@
+{
+  "lema": "DESEMEJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "No ser semejante, no parecerse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans . Con de, para expresar el objeto de que otro se aparta en sus cualidades.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Oh Amor! si te llaman Dios, | ¿Cómo de Dios desemejas | Tanto, que los fingimientos, | Y no las verdades, premias?»",
+              "autor": "Cald.",
+              "referencia_obra": "El escondido y la tapada, 1. 1 (R. 7. 460 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hombre, aunque engendra hombre, engendra otro hombre apartado de sí; que dado que se le parece y allega en algunas cosas, en otras se le diferencia y desvía, y al fin se aparta y divide y desemeja.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 3, Hijo (3. 289)."
+            },
+            {
+              "texto_cita": "«Porque aunque el Espíritu Santo sea Dios como el Padre, y tenga en sí la misma divinidad y esencia que él tiene, sin que en ninguna cosa de ella se diferencie ni desemeje de él; pero no la tiene como imagen y retrato del Padre, sino como inclinación á él y como abrazo suyo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . (3. 294)."
+            },
+            {
+              "texto_cita": "«Quieren hacerle pasar [los franceses á Descartes] por el promotor de la filosofía en Europa, como si su filosofía se desemejase mucho de la que dorninaba en las sectas de la antigüedad.»",
+              "autor": "Forner",
+              "referencia_obra": ", Orac. apolog. p. XI ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Que no se parece, desemejante. Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Esta es la causa porque está hoy el pueblo cristiano tan debilitado y flaco, tan desemejado de la hermosura que solía tener.»",
+              "autor": "Gran.",
+              "referencia_obra": "serm. Smo. Sacram. § 1 (R. 11. 23 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En sentido causativo, Hacer que uno no se parezca á lo que antes era, desfigurar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Solía ser mucho mayor la sala, y hanla desemejado, acortándola los arzobispos para sus usos y comodidades.»",
+              "autor": "Mendoza",
+              "referencia_obra": ", Crón. del Card. Mendoza , 2. 19 ( Dicc. Autor .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl. Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se desemeja de lo que es, y se transfigura en lo que no puede ser.»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios (R. 48. 174 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Le vio llevar á justiciar con tan pesado madero á cuestas, tan desemejado, que apenas le conocía.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist . 2. 51 (6. 496)."
+            },
+            {
+              "texto_cita": "«Mira aquel santo Nazareo más puro que la nieve, mas blanco que la leche, más colorado que el marfil antiguo, cómo está más escurecido que los carbones, y tan desemejado y afeado, que apenas podrá de los suyos ser conocido.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, dom. en la noche (R. 8. 61 1 )."
+            },
+            {
+              "texto_cita": "«Finjamos agora que un rey fuese vencido en una batalla --- y viniese á su reino maltratado y desemejado, en traje pobre de cautivo.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb. 5. 2. 2 (R. 6. 617 1 )."
+            },
+            {
+              "texto_cita": "«Algunas [comedias] que acaso han llegado á mi noticia, concediendo el que fueron mías, niego el que lo sean, según lo desemejadas que las han puesto los hurtados traslados de algunos ladroncillos.»",
+              "autor": "Cald.",
+              "referencia_obra": "carta de 24 de julio 1680 (R. 7. X L)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Se usaba por Disfrazar, y el part. por Disforme, fiero, espantoso.) Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vieron entrar por un postigo que á la mar salía, un jayán con una muy gran maza en su mano, y era tan grande é desemejado, que no había hombre que lo viese que se dél no espantase.»",
+          "autor": "Am. de Gaula",
+          "referencia_obra": ", 1. 3 (R. 40. 9 2 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Acogiole en la ciubdat á él et á tres caballeros que iban con él desemejados.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 4 (R. 66. 176 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«El podiera pasar desemejando este fecho ó escusándose que lo feciera por olvido.»",
+          "autor": "",
+          "referencia_obra": "Cast. é docum. 9 (R. 51. 106 1 )."
+        },
+        {
+          "texto_cita": "«A las vegadas facen desemejar las letras los variamientos de los tiempos en que son fechas, ó el mudamiento de la tinta ó de la peñola.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 18. 118 (2. 630)."
+        },
+        {
+          "texto_cita": "«Quando la carta fallaren que se desemeja en la letra con otras de las en que fuese escripto el nombre del escribano que dice en ella que la fizo, non debe seer creida.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 18. 111 (2. 624)."
+        },
+        {
+          "texto_cita": "«Mas qui perdiese alguna destas otras aves que dixiemos que son cazadores con echós, o con cascavel, o con alguna otra señal, non pierde el señorio della, nin la puede ganar con derecho aquel que la prisiere, maguer que faga en ella algun engaño para desemeiarla.»",
+          "autor": "Espéc.",
+          "referencia_obra": "5. 8. 6 ( O. L. 1. 361)."
+        },
+        {
+          "texto_cita": "«Si la carta fallaren que sea desemeiada con otras de las que sea el nombre de aquel escrivano que dize en ella que la fizo, non deve seer creyda.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 272)."
+        },
+        {
+          "texto_cita": "«Sy alguno conseiare a siervo ageno que fuya, o quando sopo que querie foyr sil. dio talegas, ol desemeió, ol dio otra ayuda alguna ---»",
+          "autor": "O. L.",
+          "referencia_obra": "2. 145)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y semejar Port. dessemelhar; cat. dessemblar; prov. dessemblar, desemblar, dessemlar; fr . dissembler; it . dissimigliare, dissomigliare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

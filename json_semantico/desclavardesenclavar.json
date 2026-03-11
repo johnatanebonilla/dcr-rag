@@ -1,0 +1,204 @@
+{
+  "lema": "DESCLAVAR (DESENCLAVAR).",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. (La última forma es menos común en lo moderno.)",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Arrancar, sacar lo que está hincado ó metido de punta ( trans . ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y esto diciendo, desclavó el cuchillo | Teñido aún con la caliente sangre.»",
+              "autor": "Quint.",
+              "referencia_obra": "Past. Fido , 3 (R. 19. 22 1 )."
+            },
+            {
+              "texto_cita": "«Ya en un áncora sola remecida | El corvo diente en desclavar forceja | La inquieta nave.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Fragm. de un poema , 4 (1. 65)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar aquello en que la cosa está hincada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Otro sin armas el rejón desclava | De sí mismo y el asta su homicida»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 6 ( Fern. 7. 164)."
+            },
+            {
+              "texto_cita": "«Mas ¿quién podrá la flecha emponzoñada | Del seno desclavarse?»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. amor . 21 (R. 67. 329 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Desengastar las piedras preciosas de la guarnición en que están como enclavadas ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Desclavé las piedras á punta de cuchillo, quité las perlas, puse cada cosa de por sí, metí en un grande, crisol todo el oro --- y así lo fundí.»",
+          "autor": "Alemán",
+          "referencia_obra": ", Guzmán , 2. 3. 2 ( R. 3. 328 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Sacar con violencia de un sitio ( trans .). (Se usa de preferencia desenclavar ). Con de .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La pintan mas linda que Venus, no dejando cajeta ni balija de donde para ella no sacasen los alabastros, carmines, turquesas, perlas, nieves, jazmines, rosas, hasta desenclavar del cielo el sol y la luna.»",
+          "autor": "Alemán",
+          "referencia_obra": ", Guzmán , 2. 3. 3 (R. 3. 333 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Abrir ó separar sacando los clavos que mantenían cerrada ó aseaurada la cosa ó sus partes ( trans )",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "—α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desclavar pretendo | Con esta daga la puerta.»",
+              "autor": "Cald.",
+              "referencia_obra": "El escondido y la tapada , 2. 5 (R. 7. 467 2 )."
+            },
+            {
+              "texto_cita": "«Después la desenclavaron [la nave] y la madera llevaron en hombros hasta dar en la ribera del mar sarmático.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 1. 12 (R. 30. 14 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl . Abrirse ó caerse alguna cosa saliéndose ó aflojándose los clavos con que estaba asegurada.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando | La alacena aderecé, | La escalera la arrimé, | Y ella se fue desclavando | Poco á poco: de manera | Que todo junto cayó, | Y dimos en tierra yo, | Alacena y escalera.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende , 1. 9 (R. 7. 170 3 )."
+            },
+            {
+              "texto_cita": "«Cayó en tierra la caja, y quedando sin saber cómo colgada por los pies, se desclavó por la cabecera.»",
+              "autor": "Roa",
+              "referencia_obra": ". Vida de Dª. Sancha Carrillo , 2. 13 (152)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Os daré unas tenazas y un martillo con que podáis de noche quitar los clavos de la cerradura de loba con mucha facilidad, y con la misma volveremos á poner la chapa, de modo que no se eche de ver que ha sido desclavada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 7 (R. 1. 175 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y estarás tú muy buena, | Desclavado el timón, rota la entena.»",
+              "autor": "Figueroa",
+              "referencia_obra": ". canc. Cuitada navecilla ( Fern. p. 43)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para expresar el objeto de que separamos lo que está clavado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Resta considerar con cuánta devoción y compasión deselavarían aquellos santos varones el sacratísimo cuerpo de la cruz.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. vida crist . 6. 6. § 13 (R. 8. 366 2 )."
+            },
+            {
+              "texto_cita": "«La sustentan [su vida] cuanto pueden, hasta poner su esperanza en un madero, que acaso la tormenta desclavó de la nave.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 2. 1 (R. 1. 591 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un escritorio, una colgadura y un bufete de plata, que tenía cautivos de intereses argeles, con tanta violencia se desclavaron de las paredes y se desasieron que ---»",
+              "autor": "Quev.",
+              "referencia_obra": "Hora de todos , 5 (R. 23. 386 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Aquella portada estaba cerrada con una grand tranca enclavada con muy fuertes clavos --- Mas con todo comenzó Gonzalo Chacón á desenclabarla.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 120 (332)."
+        },
+        {
+          "texto_cita": "«El buen maestre sopo tener sotil é ingeniosa é secreta manera como se desenclavasse un lienzo de las barandas de la torre desde un poste é otro, sin se poder conoscer que estaba desenclavado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 113 (304)."
+        },
+        {
+          "texto_cita": "«Tenía acordado con Fernando de Ribadeneyra --- que un pedazo de la baranda se desenclavasse mañosamente de los postes.»",
+          "autor": "",
+          "referencia_obra": "Ib . 104 (272)."
+        },
+        {
+          "texto_cita": "«Levóme los marineros --- | Desclavóme los maderos | Del goberno temperado.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Stúñ . p. 122."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y clavar , enclavar . Port. descravar , desencravar ; cat. desclavar ; fr. déclouer ; en it. schiodare . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

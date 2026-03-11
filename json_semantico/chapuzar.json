@@ -1,0 +1,40 @@
+{
+  "lema": "CHAPUZAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Meter á uno de cabeza en el agua ( trans .). — α ) Con en «Tenía tal aborrecimiento con las mujeres enfermas de esta pasión, que en sabiendo de alguna, como quien las echa en colada, la mandaba chapuzar en el río.» J. de Torres, Filosof. moral, 15. 4 ( Dicc. Autor .). — β ) Refl. «¡Oh! ¡cómo se chapuzan, | Qué sueltos se abalanzan, | Y con el rostro y brazos | Las corrientes apartan!» Quev. Musa 5, baile 7 (R. 69. 123 2 ). — γ ) Intrans. En el mismo sentido que la construcción refl. Le gusta chapuzar en el agua. — δ ) Part. «Acude, señor, que ya | Viene el zagal chapuzado. | — ¡Buen padrino! — Muy honrado --- | Muestra ese niño, Lucía.» Lope , El cuerdo en su casa , 3. 10 (R. 41. 460 1 ).",
+  "acepciones": [
+    {
+      "id": "Etim.",
+      "definicion": "Chapuzar , zapuzar , zampuzar ofrecen las mismas variaciones de la partícula sub , que chapodar ( supputare ), zahondar ( suffundare ), sancochar ( subcoquere ). Las formas antiguas de que en seguida damos ejemplos evidencian que este verbo es compuesto de pozo, como el it. soppozzare lo es de pozzo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E no sea çapuzado»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«Sapozaronte»",
+          "autor": "Scío",
+          "referencia_obra": ")."
+        },
+        {
+          "texto_cita": "«E este es el çanposado en la cobdicia.»",
+          "autor": "Boc. de oro",
+          "referencia_obra": ", 12 (Knust, 223)."
+        },
+        {
+          "texto_cita": "«Palabra sin obra es commo el crecimiento del rrio que fase sopesar [ sic ] en si a los omnes e non aprovecha.»",
+          "autor": "",
+          "referencia_obra": "Ib . 12 (Knust, 211; *çanposar)."
+        },
+        {
+          "texto_cita": "«El que a companna con los rreyes non deve aver miedo de su sanna assi commo no a miedo el qui se sopoza en la mar del agua salada.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 64; * çanpusa). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

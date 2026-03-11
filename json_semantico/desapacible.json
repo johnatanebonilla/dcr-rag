@@ -1,0 +1,89 @@
+{
+  "lema": "DESAPACIBLE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que causa impresión desagradable á los sentidos.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hirió el desapacible y duro acento | De los remotos indios el oído.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 34 (R. 17. 128 1 )."
+            },
+            {
+              "texto_cita": "«La gracia de este personaje consiste en hacer el asmático y soltar de cuando en cuando unos falsetes desapacibles si en el calor de la disputa se ve precisado á esforzar la voz.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 2, p. 37."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para señalar el sentido ó la persona que recibe la impresión desagradable.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entró quejándose, porque de una ventana le habían arrojado no sé qué desapacible á las narices.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 1. 2 (R. 18. 382 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Que causa impresión desagradable.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Enojóse Saúl demasiado, y fue desapacible en sus ojos este cantar: Dieron á David diez mil, y á mí mil.»",
+          "autor": "Quev.",
+          "referencia_obra": "Mem. por el patron. de Santiago (R. 23. 231 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Dícese de la persona que por su trato ó maneras disgusta ó enfada.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No rehusaba la conversación por no ser desapacible; ni la buscaba, por no ser entremetido.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 142 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Levantó esta cantera el presidente Acevedo, á quien yo era desapacible.»",
+              "autor": "",
+              "referencia_obra": "Quevedo, Grandes anales (R. 23. 202 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y apacible , en prov. pazible , paizible , en fr. paisible . Los más derivan estas voces de pax paz ; Cornu juzga que son meras alteraciones de aplacible , plaisible . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

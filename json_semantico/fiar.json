@@ -1,0 +1,1562 @@
+{
+  "lema": "FIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Confiar, tener fe o confianza en alguna persona o cosa ( intrans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Mas fiad; que pues a un tiempo | En vos, Villa-Gómez, hallo | Obligación para mí, | Y para el Rey desengaño.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los pechos privilegiados, 3 (Cl. C. 147. 88)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para señalar la persona o cosa que inspira la confianza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si me dejara [Dios], hiciera el mal que hacia en lo demás, que de mí ninguna cosa hay que fiar.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 5 (R. 53. 31 1 )."
+            },
+            {
+              "texto_cita": "«Sea por lo que fuere, dijo D. Quijote, que más fio de tu amor y de tu cortesía.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 17 (R. 1. 288 1 )."
+            },
+            {
+              "texto_cita": "«Y yo quedé con el deseo de llegar al fin deste suceso, ejemplo y espejo de lo poco que hay que fiar de llaves, tornos y paredes, cuando queda la voluntad libre.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov. 7 (R. 1. 183 2 )."
+            },
+            {
+              "texto_cita": "«Porque sabe lo mucho que merece | Quien se niega a si mismo, y sólo fía | De la ocasión que de ocasión carece.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pienso pedir (R. 42. 314 1 )."
+            },
+            {
+              "texto_cita": "«¡Mal haya el hombre que del hombre fía!»",
+              "autor": "Lope",
+              "referencia_obra": ", La mayor virtud de un rey, 1. 4 (R. 41. 79 2 )."
+            },
+            {
+              "texto_cita": "«Mas el autor de este engaño, | Quisiera, don Juan, saber, | Si fiáis de mi amistad; | gue sabré morir por vos.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Quien mal anda en mal acaba, 3. 13 (R. 20. 226 2 )."
+            },
+            {
+              "texto_cita": "«¿Cómo durará el imperio en quien o no cree que hay providencia divina, o fía más de sus artes que de ella?»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 43 (R. 25. 108 2 )."
+            },
+            {
+              "texto_cita": "«Fiaban ellos poco de las noticias que podían darles los ministros del rey anterior.»",
+              "autor": "Quint.",
+              "referencia_obra": "Las Casas (R. 19. 444 1 )."
+            },
+            {
+              "texto_cita": "«No fío | De sus fuerzas. Son pocos y les falta | Un jefe autorizado.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Pelayo, 3. 1 (R. 46. 61 1 ). — met. X"
+            },
+            {
+              "texto_cita": "«Diciembre, mayo al ciprés | Es con frondosa porfía. | Pía el mar de su osadía, | Día que no da al través.»",
+              "autor": "Monroy",
+              "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10. 277)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en, y sentido igual al anterior.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No fío tanto en mi memoria que pienso me tengo de acordar de todos.»",
+              "autor": "Valdés",
+              "referencia_obra": ", Diál. ( Mayáns , 145). |"
+            },
+            {
+              "texto_cita": "«No fíes, Clearista, en tu belleza, | Que vendrá el día, en que las hebras d'oro | Mude la edad ligera en blanca plata: | Antes muera que vea tu tristeza.»",
+              "autor": "Herr.",
+              "referencia_obra": "Poes. (Cl. C. 26. 193)."
+            },
+            {
+              "texto_cita": "«Mira que acudas a este mismo puesto, que yo fío en el cielo que nos ha de conservar el habla.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Colóq. (R. 1. 245 2 )."
+            },
+            {
+              "texto_cita": "«¡Mal haya el necio | Que en llanto de mujer fía!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante a sí mismo, 2. 16 (R. 20. 75 1 )."
+            },
+            {
+              "texto_cita": "«Con esto les parecía que quedaría en defensa la ciudad y su comarca, fiando más en la reputación de sus armas que en el número de la gente.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 15 (R. 21. 16 1 )."
+            },
+            {
+              "texto_cita": "«Aquel que pretende hacer la guerra a su enemigo, no fie en otras fuerzas que en la flaqueza del contrario.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 3 (R. 21. 499 1 )."
+            },
+            {
+              "texto_cita": "«¿Y por qué no pones tu suerte en mis manos? ¿Nada fías en la prudencia de un padre, ni en su mucho amor?»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Lo que puede un empleo, 1. 9 (3. 13). X"
+            },
+            {
+              "texto_cita": "«Es natural fiar en las convicciones y en la buena fe y buena correspondencia de hombres educados en los principios conservadores y católicos.»",
+              "autor": "",
+              "referencia_obra": "M. P. Suárez, Sueños, 4 (p. 23)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Absol. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No quiero que prometas; ni que entregues, | Ni que fíes; se trata de que niegues.»",
+              "autor": "Bello",
+              "referencia_obra": ", Poes. p, 590."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl. Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No se fio de sus mesmos oídos, y estuvo imaginando si era quiçá otro Marcelio y Alcida los que nombraban.»",
+              "autor": "Gil Polo",
+              "referencia_obra": ", Diana (Cl. C. 135. 117)."
+            },
+            {
+              "texto_cita": "«He visto por experiencia que es mejor siendo virtuosos [los confesores] y de santas costumbres, no tener ningunas [letras], que tener pocas; porque ni ellos se fían de sí, sin preguntar a quien las tenga buenas, ni yo me fiara.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 5 (R. 53. 30 1 )."
+            },
+            {
+              "texto_cita": "«De un hombre extrañol si oímos que es virtuoso y sabio, nos fiamos de su parecer.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 18 (3. 505)."
+            },
+            {
+              "texto_cita": "«Y aquella noche se despedirá de su señora la infanta por las rejas de un jardín --- siendo medianera y sabidora de todo una doncella de quien la infanta mucho se fía.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 21 (R. 1. 301 2 )."
+            },
+            {
+              "texto_cita": "«No fío yo, ni es lícito fiarse | De quien viendo la falta disimula, | Siendo el aviso causa de enmendarse.»",
+              "autor": "",
+              "referencia_obra": "L. Argens. epist. Aquí donde en Afranio (R. 42. 267 2 ). — Además con dat. X"
+            },
+            {
+              "texto_cita": "«Así es — dijo Antonio —, y no por no fiarme de la debilidad de los bajeles; pero agora que me ha dado el cielo este consejo, pienso tomarle.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. (Cl. Castal. 12. 84). — Además con en, y otro complemento con de, para señalar el modo."
+            },
+            {
+              "texto_cita": "«¡Oh Cristo, diligente y cuidadoso pastor, cuán engañado está quien en ti y de ti no se fía de lo más entrañable de su corazón, si quiere emendarse y servirte!»",
+              "autor": "Gran.",
+              "referencia_obra": "Vida de Áv., 3, §9 (R. 11. 466 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con en, para señalar aquello en que se confía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fíase mucho el uno en la destreza, | El otro en su vigor solo se fía.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 10 (R. 17. 41 2 )."
+            },
+            {
+              "texto_cita": "«No os fieis en eso, Sancho, porque la gente manchega es tan colérica como honrada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 10 (R. 1. 423 1 )."
+            },
+            {
+              "texto_cita": "«No se fíe el príncipe poderoso en las demostraciones con que los demás le reverencian.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 45 (R. 25. 113 2 ). X"
+            },
+            {
+              "texto_cita": "«No te fíes en que no te ha nevado la edad el cabello: que hay canas que van tras los años y años que atraen las canas, y que la vida pasa.»",
+              "autor": "Quev.",
+              "referencia_obra": "El mundo por de dentro (Cl. C. 34. 62). X"
+            },
+            {
+              "texto_cita": "«Feroz, de tierra el débil muro escalas, | En quien lozana juventud se fía; | Mas ya mi corazón del postrer día | Atiende el vuelo, sin mirar las alas.»",
+              "autor": "",
+              "referencia_obra": "Id. Poem. (Cl. Castal. 60. 73)."
+            },
+            {
+              "texto_cita": "«No queriendo tampoco fiarse ni en la templanza ni en la justicia del bando contrario, partió a toda prisa a Tarazona.»",
+              "autor": "Quint.",
+              "referencia_obra": "D. Álv. de Luna (R. 19. 382 2 ). —Siendo el término una prop. infinitiva o indicativa. X"
+            },
+            {
+              "texto_cita": "«No te fíes, hombre, en dar tú la baraja, que te la trocarán a un despabilar de una vela: guarda el naipe de tocamientos, raspados o bruñidos, cosas con que se conocen los azares.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 23 (Cl. C. 5. 277)."
+            },
+            {
+              "texto_cita": "«Respondió que había conocido el riesgo, pero que se había fiado en que trataba con una nación olvidada ya de las cosas de la guerra con el largo uso de la paz.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 79 (R. 25. 213 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Impers. Con a. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pues unos celebran la práctica de un autor y otros de otro, resta el arduísimo negocio de saber cuándo y cómo se ha de fiar a la doctrina de esos pocos tratados útiles y cuándo no.»",
+              "autor": "",
+              "referencia_obra": "Feijoo, Teatro crít. (Cl. C. 48. 113)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de, para señalar aquello en que se confía. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De la piedad de Dios se ha de fiar, porque ayuda a buenos deseos y premia buenas obras.»",
+              "autor": "Quev.",
+              "referencia_obra": "Sueños (Cl. C. 31. 129)."
+            },
+            {
+              "texto_cita": "«Se debe fiar poco de la virtud del común de los hombres, cuando está sujeta a prueba muy dura.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Lógica, 3. 2. 3 (p. 98)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Part. Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Iba yo fiado en mis escudillos de oro, aunque me remordía la conciencia comer a su costa, quien vive de tripas horras: yo me iba determinando a quebrar el ayuno.»",
+              "autor": "",
+              "referencia_obra": "Quev, Buscón, 15 (Cl. C. 5. 169)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Debemos traer el corazón confortado y fiado de Dios, estribando en él y no en nuestra flaqueza.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epíst . 3. 38 (7. 175)."
+            },
+            {
+              "texto_cita": "«¿Pues no, si ellos han venido | De mi palabra fiados? | — No habiéndolos admitido | Nosotras, en vano ha sido | Darlos por efetuados.»",
+              "autor": "Mto.",
+              "referencia_obra": "El lindo D. Diego (Cl. C. 32. 60). |"
+            },
+            {
+              "texto_cita": "«El señor Pantalón, que, fiado del crédito del hostelero, nos proporcionó cuanto fue preciso para instalarnos con suntuosidad en esta casa.»",
+              "autor": "Benavente",
+              "referencia_obra": ", Intereses creados , 2. 3. 4 (p. 109)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en . |",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y desta manera toda la batalla era con los cavalleros, entre los quales assí se metía la generosa princessa, fiada en la gran fortaleza de sus armas, como se mete el hambriento lobo entre las simples y temerosas ovejas.»",
+              "autor": "Ortúñez de Calahorra",
+              "referencia_obra": ", Espejo (Cl. C. 196. 122)."
+            },
+            {
+              "texto_cita": "«Pero fiada en su bondad, se fio en Dios y en su buen pensamiento, con que pensaba resistir callando a todo aquello que Lotario decirle quisiese.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 34 (R. 1. 346 2 ). X"
+            },
+            {
+              "texto_cita": "«Dudoso vengo, señora; | Pues, teniendo corta estrella, | Vengo fiado en la suerte.»",
+              "autor": "Mto.",
+              "referencia_obra": "El desdén con el desdén (Cl. C. 32. 195)."
+            },
+            {
+              "texto_cita": "«Allí soberbio, | En su fuerza fiado y sus parciales, | Sobre toda criatura alzarse quiso.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Paraíso perd. (R. 46. 26 2 ). |"
+            },
+            {
+              "texto_cita": "«Yo tomé mi gaya ciencia | Como prenda de ventura, | De amistad y paz futura | Con el mundo universal; | Y fiado en mi conciencia, | Hice un nudo en cada verso.»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Poes . (Cl. C. 63. 237). — Siendo el término una prop. indicativa. X"
+            },
+            {
+              "texto_cita": "«En esto, el que tenía Leonela de verse cualificada en sus amores llegó a tanto, que, sin mirar a otra cosa, se iba tras él a suelta rienda, fiada en que su señora la encubría.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 35 (Cl. C. 8. 269). X"
+            },
+            {
+              "texto_cita": "«Los señores que no reparan en comprar a cualquier precio, fiados en que es largo el plaza de la paga, debiendo saber que no hay cosa que llegue más presto que el plazo de una deuda.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obr. sat. y festiv . (Cl. C. 56. 62)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Part . adj. Digno de confianza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todavía vinieron, por medio de personas fiadas, a tratar ambos reyes de la calidad del caso.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Gran . 1 (R. 21. 75 1 ). — En grado superlativo. X"
+            },
+            {
+              "texto_cita": "«Ahora Ben Alcama, en el mismo fragmento de la batalla que consideramos, nos habla de un poeta valenciano,bl espíritu fuerte, que muy fiado en el enorme ejército almorávide, semejante a un océano donde iba a sumergir la Valencia del Cid, escribía ---.»",
+              "autor": "Mndz. Pidal",
+              "referencia_obra": ", Miscelánea hist.-lit . p. 109."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las cartas podían comprometerme; las palabras fiadas a vuestra circunspección, de ningún modo.»",
+              "autor": "Mármol",
+              "referencia_obra": ", Amalia, 3 (p. 242)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "En el siguiente texto, Asegurado, afianzado. Con de.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Acordó enviar en presente al rey don Alonso treinta caballos escogidos con otros tantos alfanjes fiados de los arzones.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 11 (R. 30. 261 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η)",
+          "definicion": "Recípr. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por lo que lo hicimos [reñir] fue por aquello de quién había de ser el repartidor [del dinero], y ninguno nos fiábamos.»",
+              "autor": "Cela",
+              "referencia_obra": ", Nuevas andanzas, 7 (p. 150)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ)",
+          "definicion": "La locución, Ser de fiár una persona o cosa: merecer por sus cualidades que se confíe en ella. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El correo désta es de fiar, a él puede darse.»",
+              "autor": "Lope",
+              "referencia_obra": ", Epíst. ( Fdz. Gómez , Vocab. de Lope )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Encomendar a alguien la realización de algo ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "Con dat. de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Embriones conatos, | Que salen imperfectos, X Porque al amigo bárbaro los fían.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo, 9 ( Obr. suelt. 1, 182)."
+            },
+            {
+              "texto_cita": "«Algunos recitaban y cantaban sus propios versos, otros fiaban este encargo a los músicos.»",
+              "autor": "Mor.",
+              "referencia_obra": "Oríg. disc. hist. (R. 2. 151)."
+            },
+            {
+              "texto_cita": "«Conocen que no ha llegado aun el momento de entregar al público estos testimonios de sus útiles tareas, y se contentan con esperarle, fiando su desagravio a la posteridad.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Carta a Valchretien (R. 46. 81)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con dat. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La patria | Armó tu diestra del tajante acero | De tus progenitores, y a sus filos | Su defensa, su honor, su gloria fía.»",
+              "autor": "Gallego",
+              "referencia_obra": ", epíst. 2 (R. 67. 412 1 )."
+            },
+            {
+              "texto_cita": "«Para hablar con concisión, es necesario mucho ejercicio antes de fiar a la pluma sus conceptos.»",
+              "autor": "Capm.",
+              "referencia_obra": "Filosof. eloc. 2 (p. 186). — Además con en, X"
+            },
+            {
+              "texto_cita": "«¡Oh tirano mil veces de todo el ser humano aquel primero que con escandalosa temeridad fio su vida en un frágil leño al inconstante elemento!»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón, 1. 1 (Cl. C. 165. 10)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con de, con el sentido de dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fian todo lo que les toca de su misericordia.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Mor. 7. 3 (R. 53. 486 2 )."
+            },
+            {
+              "texto_cita": "«Y muéveme entre otras cosas a fiar de ti esta tan ardua empresa, el ver que --.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 33 (R. 1. 342 1 )."
+            },
+            {
+              "texto_cita": "«No lo fiaba todo aquel gran político de sus ministros.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 55 (R. 25. 148 1 )."
+            },
+            {
+              "texto_cita": "«El rey fiaba de su prudencia [del duque de Cardoria] la salud universal de aquella gente.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Catal. 2 (R. 21. 475 1 )."
+            },
+            {
+              "texto_cita": "«Y en famoso teatro argüí recio, | Fiando mi razón de mis pulmones.»",
+              "autor": "",
+              "referencia_obra": "Pitillas, sát. (R. 61. 92 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γγ)",
+          "definicion": "Con en,",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Escarmientos me habían enseñado a no fiar mi seguridad en la razón de mi justicia.»",
+              "autor": "Forner",
+              "referencia_obra": ", Exequias de la leng. castell. (R. 63. 419 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Refl. Con dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pasea el que en su patria no pudiera | Fiarse a su mujer, y por insultos | Quebró los grillos y la cárcel fiera.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Dícesme, Nuño (R. 42. 307 2 ). X"
+            },
+            {
+              "texto_cita": "«Decidme, empero: ¿qué ley se os podrá fiar, si la primera mujer estrenó su ser quebrantando la de Dios?»",
+              "autor": "",
+              "referencia_obra": "Quev, La hora de todos (Cl. C. 34. 259)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Noche, en cuyo atrevimiento | Mis recelos se confían, | Mis esperanzas se fían | Y alienta mi pensamiento.»",
+              "autor": "Guev.",
+              "referencia_obra": "El diablo está en Cantillana, 3 (Cl. C. 132. 190)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Pas. refl. Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y quién no ve que en este examen [de las tierras] no puede fiarse a un hombre solo, por grandes que sean su experiencia y su comprehensión?»",
+              "autor": "",
+              "referencia_obra": "Feijoo, Teatro crít. (Cl. C. 67. 242)."
+            },
+            {
+              "texto_cita": "«En suma, todas las diversiones del palacio se fiaron a su inteligencia y a su buen gusto.»",
+              "autor": "Mor.",
+              "referencia_obra": "Com. disc. prel. (R. 2. 314)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con de, con sentido de dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cosa tan importante no es razón se fíe de las prioras.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Modo de visitar (R. 53. 296 2 )."
+            },
+            {
+              "texto_cita": "«Aconsejéles que a vosotros viniesen, de cuya extrema ciencia y sabiduría cuestiones de mayor importancia bien pueden fiarse.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 3 (R. 1. 46 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo Dios puede hacer lo imposible, y así todo se fio en Dios.»",
+              "autor": "Ramón y Cajal",
+              "referencia_obra": ", Tónicos de la voluntad, 10 (p. 196)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ)",
+          "definicion": "Impers. Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con la misma seguridad que se le puede fiar sus ojos a un hombre, se le puede fiar sus hijos. Todos miran por sus hijos como por sus ojos.»",
+              "autor": "Zabaleta",
+              "referencia_obra": ", Errores celebr. (Cl. C. 169. 33)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε)",
+          "definicion": "Part. Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Algunas gentes, que tienen aquí como en otras partes la primera influencia, miran todos los medios de hacer el bien que no están fiados a su mano, y sacrifican la felicidad común al interés de su clase,»",
+              "autor": "Jovell.",
+              "referencia_obra": "Cartas (Cl. C. 129. 217). X"
+            },
+            {
+              "texto_cita": "«Llegado el tiempo de hacer cuentas, resultó que solo a los herederos el finado Timoteo Limón debía trescientos pesos --- varios piquillos a otros vecinos, y eso sin contar la asistencia de Pedrito, que andaba de una casa en otra, fiado a la caridad pública, inconstante.»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua, p. 366."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Poner a disposición o al cuidado de alguien una persona o una cosa ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "Con dat. de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Fiemos a Dios nuestras penas, que él las tornará en placeres.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Epist. 2. 44 (6. 464)."
+            },
+            {
+              "texto_cita": "«Al que en trono obispal poner debiera, | No le fía las llaves de una ermita.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "son. No hay que dudar (R. 42. 320 2 )."
+            },
+            {
+              "texto_cita": "«Adviertan bien los príncipes a qué sujetos las encomiendan [ las leyes), pues no les fían menos que su mismo ser y los instrumentos principales de reinar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 21 (R. 25. 57 2 )."
+            },
+            {
+              "texto_cita": "«Decid pues lo que queréis. | — Para mi intento primero | Fiaros el alma quiero.»",
+              "autor": "Mto.",
+              "referencia_obra": "El caballero, 2. 16 (R. 39. 301 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con dat. de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La espuma de Neptuno rompen cana, | Intrépidas al mar las proas fían.»",
+              "autor": "Lope",
+              "referencia_obra": ", epíst. Sol de las Musas ( Obr. suelt. 1. 265). X"
+            },
+            {
+              "texto_cita": "«Y fiar a un grano de arena, | La eternidad de mi ser, | Debiendo yo responder | De la creación ajena.»",
+              "autor": "Pombo",
+              "referencia_obra": ", Antol. poét, p. 76."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con de, con el sentido de dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mi alma, mi vida, mi honor | A fiar de ti, Beatriz, vengo.»",
+              "autor": "Cald.",
+              "referencia_obra": "¿Cuál es mayor perfección?. 3. 13 (R. 7. 88 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γγ)",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Volviendo sobre sí, determinó fiar sus desdichas en manos de fortuna, su enemiga, esperarlo el fin que les daba.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán, 1. 1. 8 (Cl. C. 73. 238). X"
+            },
+            {
+              "texto_cita": "«De esta manera piensa haber asegurado el logro de aquel germen, en que fia su esperanza de inmortalidad.»",
+              "autor": "Rodó",
+              "referencia_obra": ", Motivos de Proteo, p. 61."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δδ)",
+          "definicion": "Con sobre. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vi sus altivos muros, puertas y torreones, que siendo competidores de los pirámides egipcios, son columnas sobre quien el Atlante español fía el peso de su celeste máquina y monarquía.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz. 7 (Cl. C, 109, 19)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Refl. Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y revolviendo luego, | Cual águila o piloto, | Llevarte al Indio. sin negarte al Griego, | Y alzarte al cielo, sin liarte al noto.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Eróticas (Cl. C. 2 1, 37). — Además con la prep. con, para indicar compañía. X"
+            },
+            {
+              "texto_cita": "«Con mujeres y con hijos se fían al mar, y sobre la mesa de roble del camarín fundan su comunidad, los cuarenta y uno de la \" Flor de Mayo\".»",
+              "autor": "Martí",
+              "referencia_obra": ", Sus mejores páginas, p. 159."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El miedo que tuvo el compañero de fiarse de aquel navío, acreditó también la verdad del hecho, y de la maravilla.»",
+              "autor": "Isla",
+              "referencia_obra": ", Año christiano, p. 348."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo el desengaño soy | De Irene: engañóme Irene. | Fíeme en el mar que tiene | Olas con que amor se apague.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Poes. (Cl. Castal. 17. 190)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Pas, refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Parece que de esto resultó un diagnóstico, un pronóstico y la prescripción de un régimen, que se quedó en veremos, cual sucede casi siempre con aquellas cosas que se fían al curso desigual de los decretos oficiales.»",
+              "autor": "M. F. Suárez",
+              "referencia_obra": ", Sueños, 1 (p. 167)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ)",
+          "definicion": "Part. Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El seno ocupa, pues, del tercer pino; | Y fiadas del Ponto las tres quillas, | Alas tienden las dos de ufano lino.»",
+              "autor": "Domínguez Camargo",
+              "referencia_obra": ", Obr. (ICC. 15. 229)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Comunicar, confiar un secreto o una cosa muy importante a otra persona ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Prosiguió contándome que mientras él dormía, se hablaban los dos en aquella güerta, donde él entraba con una escala de cuerda que le guardaba Aurelio, a quien solo había fijado este pensamiento viendo que yo estaba tan lejos de darle ayuda.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 65. 101)."
+            },
+            {
+              "texto_cita": "«Iba con él Malvillos, | Que a éste solo fio su atrevimiento.»",
+              "autor": "",
+              "referencia_obra": "Id. Gatom. 7 ( Obr. suelt. 19. 261). X"
+            },
+            {
+              "texto_cita": "«Que no ha de dar el discreto | Causa al discursivo error | Del que no tiene valor | Para fialle un secreto.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los pechos privilegiados, 1 (Cl. C. 147. 22)."
+            },
+            {
+              "texto_cita": "«Quedar Solos los dos aquí convienen, | Porque quiero fiaros un secreto | Que me habéis de guardar.»",
+              "autor": "Cald.",
+              "referencia_obra": "El galán fantasma, 1. 3 (R. 7. 293 1 ). X"
+            },
+            {
+              "texto_cita": "«Sé que vuestra merced es persona cuerda, principal y virtuosa, y he determinado fiarle secreto tan importante y admirable: con que en pocos días no sabrá qué hacer de los dos millones.»",
+              "autor": "Quev.",
+              "referencia_obra": "La hora de todos (Cl. C. 34. 172)."
+            },
+            {
+              "texto_cita": "«Jamás en otro tiempo | A las graciosas ninfas | Fiaban [las musas] sus misterios.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Poes. cuntin. a Posada (R. 46. 10 2 ). — met. X"
+            },
+            {
+              "texto_cita": "«Ya, Señor, me habéis fiado | Vuestro pecho, por honrarme | Con vuestros secretos.»",
+              "autor": "Cañizares",
+              "referencia_obra": ", Abogar por su ofensor, 2 (R. 49. 558 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Con de. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desta duda tardaron muchos días en certificarse, porque el enamorado pastor apenas de si mesmo fiaba el secreto de sus amores.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. (Cl. C. 154. 236)."
+            },
+            {
+              "texto_cita": "«Luego bien creerás que puedes | Fiar de mi tus secretos.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Mudarse por mejorarse, 3. 3 (R. 20. 114 3 ). X"
+            },
+            {
+              "texto_cita": "«Tenía pues, en el maior concurso de su amor, un solo amigo, hombre de quien mi padre fiava sus íntimos secretos, igual en sangre, en años y en hazienda.»",
+              "autor": "Césp. y Men.",
+              "referencia_obra": "Sold. Pínd. (Cl. C. 202. 27)."
+            },
+            {
+              "texto_cita": "«Bien puedes fiar de mí | Secretos que a ningún hombre.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los locos de Valencia , 2. 4 (R. 24. 123 2 ). X"
+            },
+            {
+              "texto_cita": "«Ejecutáronla los dolores del parto en una isla, debiendo al cielo dobladas las providencias, con que pudo salvar su crédito, no fiándolo ni de sus mismas criadas, enemigas mayores de un secreto.»",
+              "autor": "Gracián",
+              "referencia_obra": ", El criticón, 1. 12 (Cl. C. 165. 196). X"
+            },
+            {
+              "texto_cita": "«Fue necesario fiar de mi amigo los proyectos de amor que me obligaban a quedarme en su compañía.»",
+              "autor": "Mor.",
+              "referencia_obra": "El si de las niñas (Cl. Ebro, 39. 92)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "Comprometerse una persona a responder con sus bienes o de cualquier modo, por la obligación de otra ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Demás del desamparo que suelen tener los presos pobres de parientes y amigos, y no poder salir a buscarlo, por estar imposibilitados de salir, y no ser visitados dellos, porque no les pidan ni importunen, ni pongan en ocasión de fiarlos.»",
+              "autor": "Herr.",
+              "referencia_obra": "Amparo de pobres (Cl. C. 199. 16). X"
+            },
+            {
+              "texto_cita": "«¡No está preso! ---. Sí que está; | Mas también lo estaba yo, | Y un hidalgo me fió | Mas, ¿quién a él fiará?»",
+              "autor": "Zorrilla",
+              "referencia_obra": ", Don Juan Tenorio (Cl. C. 201. 39). X"
+            },
+            {
+              "texto_cita": "«Ahora acertadamente | Habló el vulgo: y ¡juro a Dios | Que, a no ser porque mi primo, | El tesorero real, | Quiso fiarme, Pascual, | Pierdo cuanto más estimo!»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2 (Cl. C. 201. 46). X"
+            },
+            {
+              "texto_cita": "«No por santos el hijo de Doña Eufrosina fue quemado en la silla eléctrica y a Román López le echaron noventa años de cárcel. Ni quien quiera fiarles.»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua, p. 181."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Absol. Con para. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El P[adr]e no sueIta, el hijo no acepta para sí, ni fía para otro y así padecerá todo.»",
+              "autor": "Góng.",
+              "referencia_obra": "Epíst. (2. 296)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Pas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dígame, gentilhombre, y ¿quién le ha de fiar a él? Que en verdad que me parece que más necesidad tiene de ser fiado que de ser fiador.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. (Cl. C. 27. 254)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f)",
+      "definicion": "Garantizar la conducta de una persona ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Y a vuesa merced, ¿quién le fía, señor cura? dijo D. Quijote. Mi profesión, respondió el cura, que es de guardar secreto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2 , pról. (R. 1. 405 2 ). X"
+            },
+            {
+              "texto_cita": "«Ahora bien, amigo mío... Con la seriedad que constituye la base de mi carácter y que se merece un asunto tan delicado, yo te pregunto: — ¿He hecho bien en fiarte? ¿No volverás nunca a mal camino? ¿Serás siempre bueno y leal con el ángel que voy a colocar a tu lado?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El escándalo (Cl. C. 178. 78)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con para con, que indica la persona a la que se le da la garantía. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque tú mismo me lo suplicaras de rodillas, yo no tornarla ya a aceptar el título y la herencia de mi padre..., y, aunque volvieses a fiarme para con Gabriela, y Gabriela, convencida de que soy inocente, me alargase su mano, yo no me casaría ya con la noble hija de D. Jaime.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El escándalo (Cl, C. 178. 229)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Por extensión, Atestiguar, garantizar la verdad de una cosa. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ay está Diomedes, rey de Tracia, que fiará y abonará mi intento.»",
+              "autor": "",
+              "referencia_obra": "Píc, Just. (1. 114). X"
+            },
+            {
+              "texto_cita": "«También me fiará mi camarada Herodías, que por saltar y baylar sin estoruo, mandó cortar vna cabeça, y, después de cortada, punçó rabiosamente con vn alfiler largo la lengua difunta.»",
+              "autor": "",
+              "referencia_obra": "Ib. (1. 115)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "La locución, En fiado: bajo fianza.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A intercesión suya hoy | Soltaros hice en fiado --- | ¿Pues sabe que preso estoy?»",
+              "autor": "Tirso",
+              "referencia_obra": ", La villana de Vallecas, 3. 15 (R. 5, 67 1 )."
+            },
+            {
+              "texto_cita": "«Desterráronlos por seis años; yo salí en fiado por virtud del escribano.»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 17 (R. 23. 515 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "met. Con seguridad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin libertad no siempre, | Que a ver el día vuelve | Las veces que en fiado al viento dada | Repite su prisión y al viento absuelve.»",
+              "autor": "Góng.",
+              "referencia_obra": "Soled. 2 (R. 32. 475 2 )"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g)",
+      "definicion": "Esperar, tener seguridad de que se realice lo que se desea ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "Con una prop. subordinada como acus. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De cumplimientos acorta, | Y, para que mejor cuadre, | Habla, Frondoso, a mi padre, | Pues es lo que más importa, | Que allí viene con mi tío; | Y fía que ha de tener | Ser, Frondoso, tu mujer | ¡Buen suceso!»",
+              "autor": "Lope",
+              "referencia_obra": ", Fuente Ovejuna (Cl. Castal. 10, 114)."
+            },
+            {
+              "texto_cita": "«Por amor de vuestra merced no le he querido seguir ---. Pero yo fío que él se guarde de encontrar otra vez conmigo.»",
+              "autor": "Avell.",
+              "referencia_obra": "Quij. 10 (R, 18. 29 2 ). X"
+            },
+            {
+              "texto_cita": "«¡fAy, querido padre! Fía | Que no exceda a lo que escribes | Mi obediencia un breve punto, | Y que aun después de difunto | Presente a mis ojos vives.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El examen de maridos, 2 (Cl. C. 146. 116)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con de, para indicar la cosa o la persona en que se espera. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De vuestro valor lo fío. | — Si, bien lo puede creer.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La verdad sospechosa, 1 (Cl. C. 37. 3). X"
+            },
+            {
+              "texto_cita": "«Doy fin diciendo que tiene tanta fuerza la mudanza de costumbres, guiada con buen orden de vivir, que fío de Nuestro Señor que esta gente que ha sido desordenada hasta ahora, teniendo cabeza, que en los albergues donde residieren los encamine como está dicho.»",
+              "autor": "Herr.",
+              "referencia_obra": "Amparo de pobres (Cl. C. 199. 65). X"
+            },
+            {
+              "texto_cita": "«Y fío de la Divina [Majestad] que, satisfaciéndolas, ayudarán a facilitar este negocio de tanta importancia.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. (Cl. C. 199. 136). X"
+            },
+            {
+              "texto_cita": "«Yo tiraré los chuzos de Joab; | Y si mayor aplauso fías de mí, | Yo inundaré los campos de Senar | Con la sangre infeliz de Baltasar.»",
+              "autor": "Cald.",
+              "referencia_obra": "Autos (Cl. C. 69. 34)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ven, zagala mía, | Vuelve ya a la aldea, | Que verte desea | Y en tu vuelta fía.»",
+              "autor": "Mel.",
+              "referencia_obra": "Poes. inéd. p. 191."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Part. Esperanzado, seguro. Con de o en. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«\"Hijo, en tu flaqueza no te desprecies, mas ora al Señor, y curarte ha\". Y pues no[s] está mandado de parte de Dios que en ninguna cosa desmayemos, vamos a Él fiados de su palabra.»",
+              "autor": "",
+              "referencia_obra": "Aila, Epist. 20 (Cl. C.111. 266). X"
+            },
+            {
+              "texto_cita": "«Dos le hizo de una, | Y dobló lisonjero su cuidado | Al que, fiado en bárbara fortuna, | Traía, por diadema, media luna | Del cielo, a quien ofende coronado.»",
+              "autor": "Quev.",
+              "referencia_obra": "Poemas, (Cl. Castal. 60. 135)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h)",
+      "definicion": "Garantizar la realización lo que se espera o desea ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Inaccesibles esperanzas cría, | Ambición las creyó, valor las fia.»",
+              "autor": "Fern.",
+              "referencia_obra": "7. 24). X"
+            },
+            {
+              "texto_cita": "«Seguirse hía que a la más noble criatura dio menos conocimiento y crió para mayor miseria la naturaleza, que Dios no. Pues quien sigue esa opinión no lo fíe.»",
+              "autor": "Quev.",
+              "referencia_obra": "Sueños (Cl. C. 31. 17). X"
+            },
+            {
+              "texto_cita": "«Vamos despacio, hija mía: | El Padre Cleto me ha escrito | La resolución tremenda | Que al desierto os ha traído; | Pero no basta. | Si basta: | Es inmutable... lo fío, | Es inmutable.»",
+              "autor": "Saav.",
+              "referencia_obra": "D. Álv. (Cl. C. 206. 51)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Con dat. de persona. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No te estoy por la merced | Obligado. | — Pero haced | Que luego del muro salga. | ¿Lo haréis? | — Saldrá; yo os lo fío.»",
+              "autor": "García Gutiérrez",
+              "referencia_obra": ", Venganza catal. 4 (Cl. C. 65. 128). X"
+            },
+            {
+              "texto_cita": "«Y porque más seguro | Quede de sí mi jubiloso encanto, | Tu delicada entrega | La posesión me fía | De esa mi propia cárcel animada.»",
+              "autor": "Ridruejo",
+              "referencia_obra": ", Primer libro de amor (Cl. Castal. 73. 140)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Con una prop. indicativa o subjuntiva como acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Combatidme; que yo os fío | Que me defiendan también.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las paces de los reyes, 1. 3 (R. 41. 567 3 )."
+            },
+            {
+              "texto_cita": "«¿Y quién fio | Que éste no pueda mentir?»",
+              "autor": "Cald.",
+              "referencia_obra": "Saber del mal y del bien, 1. 10 (R. 7. 23 2 )."
+            },
+            {
+              "texto_cita": "«Su Majestad ofrecerá vender a cómodos precios los terrenos que se pidan para edificar en este distrito, y yo fío que no faltarán compradores.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Carta a Floridablanca (R. 50. 144 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i)",
+      "definicion": "Comprar o vender a plazo, a crédito ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α)",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Bien puede vuestra merced llevallo, que yo lo fío. Y el santo viejo con una admiración les decía: Pues ¿cómo sin conocerme me lo fiáis?»",
+              "autor": "L. Palma",
+              "referencia_obra": ", Vida de G. de la Palm., p. 12. X"
+            },
+            {
+              "texto_cita": "«En pocas jornadas quedé desenclavado, y conocí el yerro que había hecho en emplear mi caudal en cosa que no podía acertar; de modo que lo que fiaba, no me pagaban; lo que me estafaban, aun no lo agradecían; y lo que me hurtaban, jamás me lo restituían.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz. 1. 6 (Cl. C. 108. 243)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con dat. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Concertáronse en dos reales. Que el mal pagador ni cuenta lo que recibe ni en la que le fían recatea.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán, 1. 1. 4 (Cl. C. 73. 125). X"
+            },
+            {
+              "texto_cita": "«¡Oh ínclito mancebo! | --- O Musas me fiaren su Parnaso.»",
+              "autor": "Villegas",
+              "referencia_obra": ", Eróticas (Cl. C. 21. 44). X"
+            },
+            {
+              "texto_cita": "«Acaba [el mercader] de afrentarme públicamente en su tienda, pues no me ha querido fiar el grandísimo ladrón seis varas de paño.»",
+              "autor": "Isla",
+              "referencia_obra": "( Pagés , Dicc. ). X"
+            },
+            {
+              "texto_cita": "«Este pan es una deuda: | Así la tierra nos paga | Cuanto un día le fiamos, | Con usuras duplicadas.»",
+              "autor": "Mel.",
+              "referencia_obra": "Poes. (Cl. C. 64. 207). X"
+            },
+            {
+              "texto_cita": "«Siempre el gaucho necesita | Un pingo pa fiarle un pucho. | Y cargué sin dar más güeltas | Con las prendas que tenía, | Gergas, poncho, cuanto había | En casa, tuito lo alcé | A mi china la dejé | Media desnuda ese día.»",
+              "autor": "",
+              "referencia_obra": "J. Hernández, Martín Fierro, 1. 3 (p. 172). X"
+            },
+            {
+              "texto_cita": "«Fuése al mercado e hizo una compra por lo grande, consiguiendo además que le fiaran un tercio de harina y una damajuana de aguardiente.»",
+              "autor": "Carrasquilla",
+              "referencia_obra": ", Frutos, 2. 1 (p. 15). X"
+            },
+            {
+              "texto_cita": "«¡La vata de nardos! ¡La vara de nardos! Don Max, traigo para usted un memorial de mi mamá: Está énferma y necesita la luz del décimo que le ha fiado.»",
+              "autor": "Valle-Inclán",
+              "referencia_obra": ", Luces de bohemia (Cl. C. 180. 25)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β)",
+          "definicion": "Con una prop. subordinada como acus.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo haré que le fíen cuanto quisiere.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 9 (R. 18. 399 1 ). X"
+            },
+            {
+              "texto_cita": "«¿Pensáis que a mi me fía nadie lo que en mi casa se gasta?»",
+              "autor": "Benavente",
+              "referencia_obra": ", Intereses creados, 1. 1. 4 (p. 53)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Además con hasta, para señalar el plazo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo le daré a vuestra merced una gentil prenda sobre que nos fíen hasta que venga este mercader.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 9 (R. 18. 399 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con para, en sentido igual al anterior. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin embargo, haremos un sacrificio y compraremos otro. Sería bueno que fueras a ver a doña Inés Villalpando y le pidieras que nos lo fiara para octubre. Se lo pagaremos en las cosechas.»",
+              "autor": "Rulfo",
+              "referencia_obra": ", Pedro Páramo, p. 160."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ)",
+          "definicion": "Con sobre, para indicar aquello que sirve de garantía.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Que ninguna empresta o fía | Caudal sobre prenda ajena.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Amar por arte mayor, 2. 4 (R. 5. 429 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ)",
+          "definicion": "Absol. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habían de decir que ni teme ni paga; y esto pregúntenselo a los mercaderes y a todos los que fían.»",
+              "autor": "Quev.",
+              "referencia_obra": "Obr. sat. y festiv. (Cl. C. 56. 170). X"
+            },
+            {
+              "texto_cita": "«¿Y su negocio? ¿Cómo va la asistencia de las peonadas? ¿A cómo tiene amasijo fresco? — Pa vos no tengo, porque no fío. Pero como te veo la necesidá, veni y arreglamos.»",
+              "autor": "Rivera",
+              "referencia_obra": ", La vorágine, 3 (p. 246). X"
+            },
+            {
+              "texto_cita": "«No, ahora no fío porque me voy muy lejos y tardaré en volver... Presta plata a alguno de aquí mesmo. ¿Quién no te va a prestar? Que afiance el alcalde...»",
+              "autor": "Alegría",
+              "referencia_obra": ", El mundo es ancho y ajeno, 3 (p. 128)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con dat. De persona. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como no tengo siquiera un cuarto | Que, al sacudirla, suene en mi bolsa, | Y nadie presta sino al que paga, | Y nadie fía sino al que compra.»",
+              "autor": "J. E. Caro",
+              "referencia_obra": ", Poes. complet. p. 58. X"
+            },
+            {
+              "texto_cita": "«¡Que no les impide carecer de todo! Con temor llego a la hosteria. ¿Consentirán hoy en fiarnos?»",
+              "autor": "Benavente",
+              "referencia_obra": ", Intereses creados, 1. 1. 3 (p. 50). — Además con de. X"
+            },
+            {
+              "texto_cita": "«Son muy humildes mis bríos; | Aunque Reina, mercader, | No tengo tanto caudal. | — Pues yo os fiaré desa suerte. | — ¿Hasta cuándo? | Hasta la muerte.»",
+              "autor": "Lope",
+              "referencia_obra": ", El peregrino en su patria (Cl. Castal. 55. 218). — Con en. X"
+            },
+            {
+              "texto_cita": "«Yo era muchacho cuando una vez vino un circo muy famoso por todos estos rumbos; pero --- aquí les fue mal y tuvieron que salir de estampida pues no sacaban ni para comer y por nada del mundo les querían fiar en las tiendas,»",
+              "autor": "",
+              "referencia_obra": "Yáñez, Al filo del agua, p. 145. — Con por, para indicar el monto de lo que se fía. X"
+            },
+            {
+              "texto_cita": "«Hubo quien les fiase por seis escudos de prometido, y aun quien les diese el dinero en oro por sus cabales.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov. (Cl. C. 27. 239)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Con sin, para indicar carencia.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas creyendo sin entender, hace obra loable, y que trae consigo dificultad, como quien ffa sin prendas y anda sin báculo.»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi. 38 ( Míst. 3. 202)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— — ε)",
+          "definicion": "Pas. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Eso no, dije yo, que tiemblo de tratar de fiar ni ser fiado; que por ahí se perdió mi padre.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 1. 9 (R. 18. 399 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ)",
+          "definicion": "Pas. refl. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aquella firmeza del suelo nativo, que es la única propiedad plena del hombre, y tesoro común que a todos los iguala y enriquece, por lo que, para la dicha de la persona y la calma pública, no se ha de ceder, ni fiar a otro, ni hipotecar jamás.»",
+              "autor": "Martí",
+              "referencia_obra": ", Páginas escogidas, p. 228."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η)",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tenía mandado que sus despenseros no comprasen ninguna cosa fiada, sino todo de contado y por justo precio.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 17. 9 (R. 30. 512 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Con para, con sentido de finalidad, destino. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Por viche de la sangre azul! Hato de perdidos, que piden prestado para comer, i fiado para cenar.»",
+              "autor": "Fern.",
+              "referencia_obra": "Caball. Lágrimas, p. 72."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ)",
+          "definicion": "Sustantivo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por qué me nombras mujer, | Que es el mayor enemigo | Del trato del mercader? | Ni el fiar ni el porfiar, | Ni el alzarse ni el quebrar, |Ni el no pagar los señores --- | Igualan a que se arroje | Un mercader a querer.»",
+              "autor": "Lope",
+              "referencia_obra": ", El anzuelo de Fenisa, 1. 3 (R. 41. 365 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ι)",
+          "definicion": "Locuciones.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— αα)",
+          "definicion": "Al fiado: a crédito, a plazo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pecan contra este mandamiento --- los que venden en más al fiado que de contado, saliendo del precio riguroso quecorre de presente.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. crist. 2. 8 (R. 11. 108 1 )."
+            },
+            {
+              "texto_cita": "«En Sevilla, por ejemplo, todo el pueblo compra al fiado y a pagar a ditas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Carta a Campomanes (R. 50. 141 1 )."
+            },
+            {
+              "texto_cita": "«Se podría empezar vendiendo pequeñas porciones a dinero o al fiado, con la obligación de pagar anualmente una parte del precio.»",
+              "autor": "",
+              "referencia_obra": "Id. Ley agraria, 1 ª clase (R. 50. 85 1 ). X"
+            },
+            {
+              "texto_cita": "«Alonso de Ojeda se dio licencia para que cortara hasta treinta quintales de palo brasil en la Española, con el objeto de satisfacer la deuda de un caballo vendido al fiado para la expedición colombina.»",
+              "autor": "Arciniegas",
+              "referencia_obra": ", Estud. mesa redonda 4 (p. 62). X"
+            },
+            {
+              "texto_cita": "«¿Quién es ese duque?, pregunté a mi amigo el cantinero. ¿Duque, dice el señorito? Un pobre diablo que todavía me debe las manzanillas que le serví al fiado alguna vez.»",
+              "autor": "Caballero Calderón",
+              "referencia_obra": ", Ancha es Castilla, p. 146."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ββ)",
+          "definicion": "Dar y tomar fiado: dar o tomar a crédito, a plazo. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya se era ido, hecisteme detener; agora no hallaré quien lo tome sino fiado.»",
+              "autor": "Delicado",
+              "referencia_obra": ", La Lozana (Cl. Castal. 13. 86). X"
+            },
+            {
+              "texto_cita": "«Llegóse en esto don Félix y habló aparte al corregidor, suplicándole no las llevase, que él las tomaba en fiado, mas no pudieron aprovechar en él los ruegos, ni menos las promesas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Tía fing. (R. 1. 250 1 ). X"
+            },
+            {
+              "texto_cita": "«¿A quién contaré las angustias del zapatero por lo que dio fiado, las solicitudes de la ama por el salario, las voces del huésped de la casa por el arrendamiento?»",
+              "autor": "Quev.",
+              "referencia_obra": "Buscón, 8 (Cl. C. 5. 92). X"
+            },
+            {
+              "texto_cita": "«No os tratáis poco bien — murmuró Manuel, a quien el hambre hacía profundamente cínico. — Nos dan fiado en la casquería — dijo la Dolores, para explicar la abundancia de carne.»",
+              "autor": "Baroja",
+              "referencia_obra": ", La busca, 3. 4 (p. 150)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γγ)",
+          "definicion": "Largo me lo fiáis: frase verbal con que se expresa la desconfianza de que se realice lo que mucho se demora. X",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que fingís y engañáis | Las mujeres de esa suerte | Lo pagaréis con la muerte. | — ¡Qué largo me lo fiáis!»",
+              "autor": "Tirso",
+              "referencia_obra": ", El burlador de Sevilla (Cl. C. 2. 206). X"
+            },
+            {
+              "texto_cita": "«Era que la casa de Torres estaba aún un poco húmeda, y esperarían a julio. \"Pues si tan largo me lo fías — pensé, metiendo el revólver en un cajón de la mesa —, no quiero llevar más este chisme peligroso\". Y no yolví a sacarlo.»",
+              "autor": "P. Galdós",
+              "referencia_obra": ", Lo prohibido (Cl. Castal. 34. 434)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Así le fiaban dos o tres arrobas en veces, como sobre una taza de plata. Su palabra era prenda de oro en cuantos bodegones había.»",
+          "autor": "Celest.",
+          "referencia_obra": "3 (R. 3. 19 1 ). X"
+        },
+        {
+          "texto_cita": "«Malauenturada sea hija que nació para poner en condición la vida de su padre, que por el escándalo que pornás con tan cruel obra nadie se fiará de ti ni tú de nadie te deues fiar, porque con tu muerte no procure alguno su seguridad.»",
+          "autor": "D. de S. Pedro",
+          "referencia_obra": ", Cárcel de amor (Cl. C. 133. 174). X"
+        },
+        {
+          "texto_cita": "«E con esta condición que en él veyan muchos pueblos e prouincias e otras personas singulares, se fiauan de su palabra e la comprauan con grandes precios.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar, var. (Cl. C. 49. 66). X"
+        },
+        {
+          "texto_cita": "«Ni estó triste ni contento, | Ni reclamo ni consiento, | Ni fío ni desconfío.»",
+          "autor": "J. Manr.",
+          "referencia_obra": "Canc. (Cl. C. 94. 69). X"
+        },
+        {
+          "texto_cita": "«Esto porque se fíen en ellos una ves e porque puedan usar donde mugeres estén con toda ficta onestidad.»",
+          "autor": "Arc. de Talav.",
+          "referencia_obra": "Corbacho (Cl. Castal. 24. 237)."
+        },
+        {
+          "texto_cita": "«De aqueste Fernando Alfonso de Robles se fiaba el condestable más que de otra persona alguna.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna, 16 (p. 51). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Si les tomares fiado la vara de su panno, | Aunque buena sea, lieuasla con grant daño.»",
+          "autor": "Pal.",
+          "referencia_obra": "81 (R. 57. 427 2 )."
+        },
+        {
+          "texto_cita": "«¿Vos me juarades --- que aquello que yo vos e demandado, e vos me lo negades delantel alcalle, que non me lo devedes o non me lo fiastes, o non ouiste[s] tal pleito conmigo?»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 3. 2. 7 (p. 85)."
+        },
+        {
+          "texto_cita": "«Quanto bien touiere, | Tanto menos fiará.»",
+          "autor": "Sem Tob",
+          "referencia_obra": ", 609 (R. 57. 368 2 )."
+        },
+        {
+          "texto_cita": "«Engañado es el home en fiar del mundo.»",
+          "autor": "",
+          "referencia_obra": "J. Man. C. Luc. (R. 51. 436 2 )."
+        },
+        {
+          "texto_cita": "«Et amábanle mucho el rey et la reina, et fiaban mucho en él.»",
+          "autor": "",
+          "referencia_obra": "Id. Tract. sobre las armas (R. 51. 258 1 )"
+        },
+        {
+          "texto_cita": "«Et el que su facienda quiere fiar en otro, conviene que escoja a tal de que sea cierto que nunca se arrepienta del poder quel diere.»",
+          "autor": "",
+          "referencia_obra": "Id. Caball. e escud. 26 (R. 51. 239 2 )."
+        },
+        {
+          "texto_cita": "«Fiando en la merçed de Dios e de la su ayuda vino sobre ellos.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 2 (p. 211 1 )."
+        },
+        {
+          "texto_cita": "«Jesu Christo, en el que creemos e fiamos e tenemos en él toda nuestra esperança.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 2 (p. 208 2 )."
+        },
+        {
+          "texto_cita": "«Cipión fue el primero príncipe que se fio en la palabra de sus enemigos sin tomar rehenes dellos.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 32 (p. 16 1 )."
+        },
+        {
+          "texto_cita": "«Otrossí que los alcáçeres e los castiellos que sson en las villas del rey de que non ffezieron omenage, que los ffe en caualleros e ombres bonos de las çilbdades e de las villas onde ffueren los alcáçeres o los castiellas.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año 1322 (C. de L. y C. 1. 347)."
+        },
+        {
+          "texto_cita": "«Fía de mí, amiga, como de otros fías.»",
+          "autor": "Danza de la muerte",
+          "referencia_obra": "(R. 57. 385 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Si el vendedor se fiase en el comprador del prescio, entonce pasaríe el señorío de la cosa a él por el apoderamiento.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 28. 46 (2. 731)."
+        },
+        {
+          "texto_cita": "«Dexe en su logar algunt homme bono en quien se fíe con sabidoría de los alcalles.»",
+          "autor": "",
+          "referencia_obra": "Ib. 3. 20. 4 (2. 647)."
+        },
+        {
+          "texto_cita": "«En ellos [los escribanos] se fían también los señores como toda la gente del pueblo de todos los fechos, et los pleytos et las posturas que han a facer.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 19, preámb. (2. 633)."
+        },
+        {
+          "texto_cita": "«Pero fío en elli commo debo fiar, | E quiero mi creençia a ti la demostrar.»",
+          "autor": "Berc.",
+          "referencia_obra": "Mil. 791 (R. 57. 127 2 )."
+        },
+        {
+          "texto_cita": "«El saçerdote pregioso en qui todos fiaban.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Dom. 65 (R. 67. 41 2 )."
+        },
+        {
+          "texto_cita": "«E non fiedes en ellos [en los amigos] fasta que los probedes por tal que vos non arrepintades quando nescibierdes danno delos.»",
+          "autor": "",
+          "referencia_obra": "Boc. de oro, 2 (Knust, 97). X"
+        },
+        {
+          "texto_cita": "«Sy non te do Espan[n]a non coma yo más pan, | Sy non, de mi non fyes más que sy fues vn can.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 2 (Cl. C. 128. 12)."
+        },
+        {
+          "texto_cita": "«Sennores, quien quisier su alma bien saluar, | Deue en este seglo muy poco a fiar.»",
+          "autor": "Alex.",
+          "referencia_obra": "2505 (R. 57. 224 1 )."
+        },
+        {
+          "texto_cita": "«Nunqua deuia omne en las mares fiar.»",
+          "autor": "Appoll.",
+          "referencia_obra": "120 (R. 57. 287 2 ). X"
+        },
+        {
+          "texto_cita": "«Por que era bella et genta | Mucho fiaua en su juuenta.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egipc. p. 112. — Siglo Xll:"
+        },
+        {
+          "texto_cita": "«Commo yo fio por Dios en todos los sos sanctos, | Desta arrancada nos yremos pagados.»",
+          "autor": "Cid",
+          "referencia_obra": ", 2447 (R. 57. 27 1 ). X"
+        },
+        {
+          "texto_cita": "«Como fío por Dios, el campo nuestro será.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1133 (R. 57. 14 2 )."
+        },
+        {
+          "texto_cita": "«Yo fío por Dios que en nuestro pro enadrán.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1112 (R. 57. 14 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Fr. fier, it. fidare, port. fiar, del lat. vulg. *fidare por fidere, 'confiar, asegurar'.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Intrans.: a, α ; — Trans.: b, α - χ, α - δ, α - ε, α - φ, α - γ, α - η, α - ι, α — Aβσολ.: α, β - ι, δ — Pασ .: ε , γ - ι , ε — Pασ ρεφλ .: α , γ - χ , γ - ι , ζ — Rεφλ.: α , γ - β, β - χ , β — Recípr.: a, η — Impers.: a, δ - β, δ — Pαρτ. : a, ζ - β, ε - χ, δ - γ, β - ι, η — Pαρτ. adj. : a, ζ ; Sυστ.: ι, θ — Cον δατ. : α, γ - α, ζ , αα - b, a, αα - β, β - β, ε - χ, α - δ, α - η, β - ι, α , αα - i, δ , αα ; Con a: a, δ — Cον λα πρεπ . χον: χ, β — Cον δε ψ χον εν: εν γενεραλ — Con hasta: i, β , αα — Con para: e, β - φ, α , αα - i, β , ββ - i, η , αα — Con sobre: c, α , δδ - i, γ . \u0000"
+}

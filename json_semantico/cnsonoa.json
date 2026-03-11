@@ -1,0 +1,71 @@
+{
+  "lema": "CÓNSONO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Acorde, que suena formando armonía ó consonancia.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En trabado | Coro sonaban varios instrumentos | De suave són y cónsonos acentos.»",
+          "autor": "Valb.",
+          "referencia_obra": "Bern . 6 (R. 17. 206 2 )."
+        },
+        {
+          "texto_cita": "«Y entre el ronco atambor y sorda grita | Que en bárbaros sonoros instrumentos | Por la ciudad, en música exquisita, | Acordes dan y cónsonos acentos, | Así la confusión ataja y quita | Su melodía á los parleros vientos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 23 (R. 17. 379 2 )."
+        },
+        {
+          "texto_cita": "«En los espejos, | El eco y cónsonas cuerdas, | Por percusiones reales | Obra la naturaleza.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", La cueva de Salamanca , 3 (R. 20. 100 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Que guarda conformidad ó correspondencia. Con á , para expresar el objeto con el cual está otro en armonía.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Lo cual es por cierto mas cónsono á la verdad que lo que dice Anselmo.»",
+          "autor": "Comend. Griego",
+          "referencia_obra": ", Lab . 44 (17 1 )."
+        },
+        {
+          "texto_cita": "«No hay cosa más cónsona á razón, que aquel que por su voluntad se vino á la culpa, que contra su voluntad sufra la pena.»",
+          "autor": "Guev.",
+          "referencia_obra": "Epíst . 1. 15 (R. 13. 99 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "En especial, Mús. Dícese del tono que puede formar consonancia con otro hiriendo nuestros oídos con dulzura y suavidad. Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Mostrósenos Jubal, primer inventor | De cónsonas bozes e dulce armonia.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 120 (46 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., it. consono : del lat. consonus , compuesto de cum , con, y sonare , sonar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

@@ -1,0 +1,190 @@
+{
+  "lema": "ENCALLECER.",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Producir callos en la piel, endurecerla o insensibilizarla ( trans .) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "+",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No así trató la triunfadora Roma | Las artes de la paz y de la guerra; | Antes fio las riendas del estado | A la mano robusta | Que tostó el sol y encalleció el arado.»",
+              "autor": "Bello",
+              "referencia_obra": ", Agric. de la Zona Tórrida ( Obras Completas, 1, Poes. p. 68)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sus dedos y sus labios | Del humo del cigarro encallecidos | Indice son de su crianza.»",
+              "autor": "Jovell.",
+              "referencia_obra": "sát. 2 , a Arnesto (R. 46. 34 2 ). x"
+            },
+            {
+              "texto_cita": "«¡Con qué voluptuosa complacencia pasaba la encallecida palma de la mano sobre el peluche de los muebles, el terciopelo de las cortinas, la seda de los tapices!»",
+              "autor": "Castellanos",
+              "referencia_obra": ", Oficio tinieblas , p. 168."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl . Echar callos, endurecerse. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«También acontece que el prepucio atapa la haba de suerte que no se puede descubrir por causa de alguna cicatriz o carne, que se encalleció con el mismo prepucio.»",
+              "autor": "",
+              "referencia_obra": "J. Fragoso, Cirugía universal (ed. 1666), p. 14. x"
+            },
+            {
+              "texto_cita": "«Otras vezes suele encallecerse [el omento] y pegarse a los intestinos.»",
+              "autor": "",
+              "referencia_obra": "Martín Martínez, Anatomía (ed . 1728), p. 84."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y ansí, es remedio singular contra todo apostema viejo, duro y encallecido.»",
+              "autor": "Laguna",
+              "referencia_obra": ", Dioscórides, 2. 68 ( Dicc. Aut .)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Intrans. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La reciente herida al principio duele, y luego encallece.»",
+              "autor": "",
+              "referencia_obra": "J. Barrionuevo, Avisos , 177 (R. 222. 63 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Insensibilizar, endurecer moralmente.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El amable joven, que el impuro | Soplo no encalleció del vicio infame, | Al amor de la paz y las virtudes | Abra su corazón.»",
+              "autor": "Gallego",
+              "referencia_obra": ", epíst . 2 (R. 67. 412 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los que conservaban memoria de la correría que había verificado Albo Hacén siendo príncipe y mozo, veían representado ahora el mismo cuadro, pero con más horrores; como si con el peso de la edad y con los golpes de la fortuna se hubiera encallecido su corazón, haciéndole insensible a tantas lástimas y desventuras.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Is. de Solís , 2. 44 (4. 425)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Encallecidos de esta manera el sentido común y el sentido moral, no hay para que encubrir con falsas apariencias nuestras culpables debilidades.»",
+              "autor": "Selgas",
+              "referencia_obra": ", Fisonomías contemporáneas (ed. 1889), p. 280. x"
+            },
+            {
+              "texto_cita": "«Acaso poseía un alma encallecida ya, curada de horrores.»",
+              "autor": "Flórez",
+              "referencia_obra": ", Fantasmas, p. 227. — Con un compl. precedido por en, constituyendo la frase Encallecido en astucia, equivale a Astuto, sagaz, socarrón (cfr. Dicc. Aut. sb. voc. Encallecido)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": ".",
+      "definicion": "Siglo XV: x",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Encallecer, hazer callos: calleo , es; obcalleo, es.»",
+          "autor": "",
+          "referencia_obra": "Nebr. Vocab. x"
+        },
+        {
+          "texto_cita": "«Encallecerse assí mucho: percalleo, es.»",
+          "autor": "",
+          "referencia_obra": "Id . ib. x"
+        },
+        {
+          "texto_cita": "«Encallecido con callos: callosus, a, um .»",
+          "autor": "",
+          "referencia_obra": "Id. ib . x"
+        },
+        {
+          "texto_cita": "«Encallecido en astucias: callidus, a, um .»",
+          "autor": "",
+          "referencia_obra": "Id. ib . x"
+        },
+        {
+          "texto_cita": "«Callecer desta manera: obcalleo; obcallesco .»",
+          "autor": "",
+          "referencia_obra": "Id . ib. x"
+        },
+        {
+          "texto_cita": "«Callecer, hazer callos: calleo, es; callesco, is .»",
+          "autor": "",
+          "referencia_obra": "Id . ib. x"
+        },
+        {
+          "texto_cita": "«Se retraxo en un casal do sus manos, llenas de vitorias se encallecieron podando.»",
+          "autor": "",
+          "referencia_obra": "Lucena, Vida Beata, fol. 10 ( Dicc. Aut. ). — Siglo XIII: X"
+        },
+        {
+          "texto_cita": "«Quien la embuelue en los cabellos dela mugier que quier para fazela encallecer aýna.»",
+          "autor": "",
+          "referencia_obra": "Alfonso X , Lapidario (ms. 1276-79)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y callecer, forma arcaica hoy (cfr. Dicc. Acad. s. v. ), que se encuentra en Nebrija (véanse ejs. del Per. antecl. ), y derivada del lat. callum ‘callo’. Port. y gali. encalecer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "Tiene las siguientes formas irregulares: encallezc-o; encallezc-a, as, a, amos, áis, an. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

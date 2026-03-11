@@ -1,0 +1,136 @@
+{
+  "lema": "CONTAGIAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Comunicar ó pegar una enfermedad contagiosa ( trans .). El acus. es un nombre de pers.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tus manos están negras, y aun mal hueles. | Huye al punto de mí, no me contagies.»",
+              "autor": "Mel.",
+              "referencia_obra": "idil. El vaquero (R. 63. 131 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡También, exclamaba, también el doctor se ha contagiado, también el médico se vuelve loco!»",
+              "autor": "Hartz.",
+              "referencia_obra": "La locura contagiosa (377)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Contagiarse con, por, del roce.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            },
+            {
+              "texto_cita": "«Contagiarse de una enfermedad.»",
+              "autor": "Salvá",
+              "referencia_obra": ", Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Pervertir con el mal ejemplo ó mala doctrina ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El ejemplo de Bauzá había contagiado tanto á sus compañeros, que arrastrando consigo hasta setenta y seis, desampararon el castillo.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Mem. del castillo de Bellver (R. 46. 416 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Muchos de los que querían corregir el mal, estaban sin sentirlo ellos, contagiados en gran parte.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 4, p. 4."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con , para expresar lo que se toma como medio de contagio, la cosa misma que se pega.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Hay también contagio para los espíritus; pues en vez de que el bueno, ordenado y sensato, sobre más ilustrado de usted, comunicase al de Pérez aquellas dotes que le faltan, el de éste le contagió con algunas de sus dolencias.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 224 2 )."
+            },
+            {
+              "texto_cita": "«En este género sobresalió, y aun aventajó á Iriarte, otro poeta que este escritor había contagiado con su prosaísmo: don Félix María Samaniego.»",
+              "autor": "",
+              "referencia_obra": "Gil y Zárate, Resum. histór . p. 630."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Refl . Contagiarse con el mal ejemplo. Contagiarse de prosaísmo.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Quevedo --- en sus imitaciones de Séneca se muestra frecuentemerte no menos contagiado con los vicios de estilo de su modelo, que penetrado de su doctrina.»",
+              "autor": "Quint.",
+              "referencia_obra": "Parn. esp. Rioja ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Se emplea también como suj. la cosa misma que se pega.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La locura del amo había contagiado al escudero.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment . 1, p. 35."
+            },
+            {
+              "texto_cita": "«El uno la defiende [la nación] de la invasión, el otro la arrebata á las conquistas; éste quiere salvarla de la corrupción que la contagia, y aquél enciende la antorcha que ha de ponerla en combustión.»",
+              "autor": "Quint.",
+              "referencia_obra": "Vidas , pról . (R. 19. 200)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de contagio . Port. contagiar ; fr. contagier. El Dicc. Autor. trae un ejemplo de Paravicino, Panegíricos , fol. 221. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

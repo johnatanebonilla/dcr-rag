@@ -1,0 +1,1436 @@
+{
+  "lema": "ABRIR",
+  "categoria_gramatical": "v",
+  "introduccion": "-->v .",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Quitar, correr ó retirar lo que impide el paso ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrid esa ventana y echalde al corral.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 6 (R. 1. 265 2 )."
+            },
+            {
+              "texto_cita": "«Quiso la buena suerte que, llegando á abrir la puerta, se abrió con tanta facilidad como si cerrada no estuviera.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 41 (R. 1. 370 2 )."
+            },
+            {
+              "texto_cita": "«Levantóse del lecho, y abrió un poco la ventana de una reja que daba sobre un hermoso jardín, y al abrirla sintió y oyó que andaba y hablaba gente en el jardín.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 44 (R. 1. 496 1 )."
+            },
+            {
+              "texto_cita": "«Luégo que recibieron la fortaleza del cielo, abrieron las puertas y de tropel salieron dando voces por las calles.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Pentecostes ( Vida de Cristo, 305)."
+            },
+            {
+              "texto_cita": "«Las puertas abre la ciudad vencida.»",
+              "autor": "Mor.",
+              "referencia_obra": "La toma de Granada (R. 2. 576 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pueblo todo | Contento sale, abriéndose las puertas, | A registrar los dóricos reales, | Abandonados puestos y riberas.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida, 2 (3. 88)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El león acobardado no quiso ni osó salir de la jaula, puesto que había tenido un buen espacio abierta la puerta de la jaula.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 17 (R. 1. 439 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con dat. de pers.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las guardas le abrieron la puerta más cercana, y por ella se entró en la ciudad.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 9 (R. 30. 258 1 )."
+            },
+            {
+              "texto_cita": "«El templo augusto de la fama | Le abrió las puertas de oro.»",
+              "autor": "Lista",
+              "referencia_obra": ", Poes. filosof . 5 (R. 67. 305 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con frecuencia se omite el acus. puerta ú otro semejante.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mira que el deseado de todas las gentes está llamando á tu puerta. Levántate, corre y abre.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med. 3, § 3 (R. 8. 508 1 )."
+            },
+            {
+              "texto_cita": "«Vengo aquí tan de mañana, | Porque en abriendo, he de entrar | En el cuarto desta ingrata.»",
+              "autor": "Cald.",
+              "referencia_obra": "Mañana será otro día, 2. 1 (R. 7. 529 1 )."
+            },
+            {
+              "texto_cita": "«Abrid Jamila, que con mal os vengo.»",
+              "autor": "Santill.",
+              "referencia_obra": ":"
+            },
+            {
+              "texto_cita": "«El mal y el bien ha de se común á los que bien se quieren.»",
+              "autor": "Sbarbi",
+              "referencia_obra": ", Refr. gen. 1, p. 80)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Omitido el acus. todavía tiene cabida el dat.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El rogarnos blanda y amorosamente que le abramos, como si á él le importara alguna cosa y no fuera nuestra salud y bienandanza toda el abrirle.»",
+              "autor": "León",
+              "referencia_obra": ", Nomb. 2, Rey (R. 37. 130 1 )."
+            },
+            {
+              "texto_cita": "«Llama á Urbana prestamente, | Y dí que me salga á abrir.»",
+              "autor": "Lope",
+              "referencia_obra": ", El arenal de Sevilla, 3. 13 (R. 41. 544 3 )."
+            },
+            {
+              "texto_cita": "«Llamad, y se os abrirá.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Lucas, 11. 9."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese de la cerradura, y en este caso puede tomarse como sujeto tanto la persona que hace jugar el artificio de aquélla, para que la entrada quede franca, como la llave con que se efectúa la operación.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dragoniza sus ímpetus mitigue, | Y al tiempo que se abrieren los cerrojos | De la infernal y temeraria puerta, | Allí se plante con su boca abierta.»",
+          "autor": "Villav.",
+          "referencia_obra": "Mosq. 8 (R. 17. 602 2 ). —"
+        },
+        {
+          "texto_cita": "«De la llave usamos para abrir, y si la de oro no abre, no es de provecho; si la de palo abre bien, de ésa se use.»",
+          "autor": "Muñoz",
+          "referencia_obra": ", Vida de Granad. 1. 20 (77)."
+        },
+        {
+          "texto_cita": "«Pruebo las llaves, abrió | Una, tan propia y igual | Vino.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", Siempre ayuda la verdad, 3. 1 (R. 20. 241 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Dícese por sinécdoque Abrir la casa, el jardín, por Abrir la puerta de la casa, del jardín.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Voto á tal, don bellaco, que si no abrís luégo luégo las jaulas, que con esta lanza os he de coser con el carro.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 17 (R. 1. 438 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Las sepulturas asimismo se abrieron, y muchos resucitaron y aparecieron á muchos en Jerusalén.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Vida de Cristo (101)."
+            },
+            {
+              "texto_cita": "«Entonces el velo del templo súbitamente se rasgó, y la tierra tembló, y las piedras se hicieron pedazos, y las sepulturas de los muertos se abrieron.»",
+              "autor": "Gran.",
+              "referencia_obra": "Mem. Vida crist. 6. 6, § 12 (R. 8. 366 1 )."
+            },
+            {
+              "texto_cita": "«El sol en este tiempo escondió los rayos de su luz, el aire se escureció, la tierra tembló, las piedras se partieron, los sepulcros se abrieron.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 5. 3. 21, § 4 (R. 6. 715 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con grande instancia y sentimiento pidió á los demás apóstoles se abriese el sepulcro, para que él también viese y reverenciase el santo cuerpo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Flos SS. Asunción ( Vida de la Virgen, 213)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya queda abierto el jardín; | Bien puedes, señora, entrar.»",
+              "autor": "Lope",
+              "referencia_obra": ", La vengadora de las mujeres, 3. 1 (R. 41. 520 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Por analogía se dice Abrir una botella, una fuente.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Abrense las fuentes de lágrimas, adormécense las pasiones, despiértanse los buenos deseos.»",
+          "autor": "Gran.",
+          "referencia_obra": "Mem. del crist. 47 (R. 11. 214 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Tratándose del objeto de las facultades del alma, Hacerlo accesible á ellas, facilitarlo ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Un rato del día gastaba en la lección de las sagradas Escrituras, con grande consuelo de su alma, abriéndole Dios el sentido, para que las entendiese y penetrase.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit . 2. 4 (1. 272)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Tratándose de las facultades mismas, Hacerlas más aptas, aparejarlas para que su objeto obre sobre ellas; y tratándose del ánimo, Hacerlo accesible á alguna pasión ó afecto.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A quien ha practicado mucho, se le abre el entendimiento, y se le ofrecen fácilmente los medios.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 55 (R. 25. 146 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar el objeto cuya entrada ó acceso se facilita.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abre, oh bienaventurada Virgen, el corazón á la fe, y la boca á la confesión, y las entrañas al Criador.»",
+              "autor": "Gran.",
+              "referencia_obra": "Adic. al Mem. med. 3, § 3 (R. 8. 508 1 )."
+            },
+            {
+              "texto_cita": "«Os abrirá el entendimiento á conocer muchas cosas, aunque leáis pocos renglones.»",
+              "autor": "",
+              "referencia_obra": "Avila, Audi, 59 ( Míst . 2. 244)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Con él la opinión ganaba campo, y los ánimos se abrían á la esperanza.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 2 (R. 19. 541 1 )."
+            },
+            {
+              "texto_cita": "«El corazón fatigado de tantos infortunios se abre de buen grado á la esperanza.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 12 (1. 158)."
+            },
+            {
+              "texto_cita": "«Sintió su pecho palpitante | Abrirse del consuelo á las delicias.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Moro expós. 6 (2. 193)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "El concepto material que sirve de base á estas aplicaciones se percibe con más claridad en el pasaje siguiente:",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así que abra sus entrañas y sus brazos y manos á la piedad la buena mujer.»",
+              "autor": "León",
+              "referencia_obra": ", Perf. cas. 10, al . 11 (R. 37. 227 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Por extensión, Avivar, excitar. Abrir la gana, el deseo.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Rasgo después tu carta, porque acaso | Los consejos que en ella me has escrito --- | No me abran algún día el apetito | De hacer sudar con bien inútil pena, | A los prensistas de mi amigo Mena.»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", epíst . 3 (R. 63. 27 2 )."
+        },
+        {
+          "texto_cita": "«El volante | Es un terrible ejercicio. | — Es verdad, pero divierte | Mucho y abre el apetito.»",
+          "autor": "Bretón",
+          "referencia_obra": ", La falsa ilustración, 3. 2 (1. 225)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Quitar lo que impide la vista: descubrir, presentar. De ordinario en sentido metafórico.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Animando con grandes esperanzas el pecho de cuantos se sentían con actividad y con medios, abría una perspectiva de aumentos y de mejoras en todos los ramos de la riqueza y prosperidad pública.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 2 (R. 19. 545 1 )."
+            },
+            {
+              "texto_cita": "«¡Qué época tan gloriosa no abre aquí la historia á vuestros ojos, y cuántos ilustres genios no presenta á vuestra veneración!»",
+              "autor": "Jovell.",
+              "referencia_obra": "Disc. sobre la geogr. hist. (R. 46. 328 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Dícese Al cielo abierto, en oposición á Bajo techado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Procure vuesa merced que la tengamos [la noche] en el campo al cielo abierto.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 71 (R. 1. 552 2 )."
+            },
+            {
+              "texto_cita": "«En un valle se halló al pasar de un río, | Entre matas de adelfa recostado, | Al cielo abierto y al sereno frío.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 10 (R. 17. 245 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. Mar. Dícese de la embarcación que no tiene cubierta. Dicc. Marít .",
+          "ejemplos_citas": []
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplicado al tiempo, al día, Despejarse, serenarse, aclararse. De ordinario intrans.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pasados los fríos, luégo que abrió el tiempo del año siguiente, que fue de Roma el de 677, salieron los unos y los otros de sus alojamientos.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist. Esp. 3. 13 (R. 30. 74 2 )."
+        },
+        {
+          "texto_cita": "«Fuera aquella ciudad tomada por los enemigos si no les forzara el invierno y el trabajo del frío y de las lluvias á partirse del cerco con gran honra que ganaron en esta jornada y cargados de despojos y presa, determinados otrosí de volver á la guerra luégo que el tiempo abriese y les diese lugar.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 8. 9 (R. 30. 234 1 ). —"
+        },
+        {
+          "texto_cita": "«Con esta resolución envió á invernar los soldados, con licencia de visitar á los suyos los que quisiesen, con tal que al abrir la primavera todos acudiesen á Cartagena.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 2. 10 (R. 30. 41 2 )."
+        },
+        {
+          "texto_cita": "«Retiróse sin hacer otro efecto el rey de Castilla, resuelto de volver á la guerra con más gente y mayor aparato luégo que el tiempo diese lugar y abriese la primavera del año de 1382.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 18. 5 (R. 31. 8 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Dejar con entrada ó salida por todos lados. No se usa sino en el part.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Que no está murado ni cercado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este sabio precepto supone las tierras cercadas y defendidas, y no se puede observar en las abiertas.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Ley agraria, 1ª clase (R. 50. 90 2 )."
+            },
+            {
+              "texto_cita": "«Esto hace creer que en el tiempo de aquella compilación [el Fuero Juzgo] estaba en vigor la práctica de enterrar en lugares abiertos.»",
+              "autor": "",
+              "referencia_obra": "Id. Refl. sobre uso de las sepulturas (R. 46. 477 1 )."
+            },
+            {
+              "texto_cita": "«Y ¿qué era lo que podía hacer el duque ni su ejército en una marcha sin oposición y en pueblos abiertos y sin defensa?»",
+              "autor": "Quint.",
+              "referencia_obra": "Cartas á L. Holland, 9 ( R. 19. 577 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Dilatado y desembarazado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En medio de este abierto y fértil llano | Alzará de mis ninfas todo el coro | Un templo á vuestro nombre soberano.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 14 (R. 32. 336 2 )."
+            },
+            {
+              "texto_cita": "«Si en el mar tarda | Don Pedro, bien pienso yo | Que habrá de pasallo mal, | Sin que le guarde respeto, | Que es playa abierta en efeto | Para cualquier temporal.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Los amantes de Teruel, 2 (R. 5. 697 1 )."
+            },
+            {
+              "texto_cita": "«¡Oh! si me amas, si tu amor es cierto, | Llévame al punto donde yo soñé: | ¡Un caballo! ¡un caballo! ¡campo abierto! | Y déjame frenético correr.»",
+              "autor": "Espronc.",
+              "referencia_obra": "Diablo mundo, 5. 2 (390)."
+            },
+            {
+              "texto_cita": "«Tendí al próspero céfiro la vela | De mi ligera nave en mar abierto.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 12 (R. 32. 330 2 )."
+            },
+            {
+              "texto_cita": "«Construyeron una canoa para salir á pescar á mar abierto.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 308 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¡Qué campo tan abierto y proporcionado para hacer brillar á un mismo tiempo las bellezas de la elocuencia, unidas á las de la arquitectura!»",
+              "autor": "Jovell.",
+              "referencia_obra": "Elog. de V. Rodr. (R. 46. 372 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "met. Ingenuo, sincero, franco. Acad. Dicc. Es de mucho uso tratándose de lo que se hace francamente y á las claras, como guerra, oposición, etc.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se declarará una guerra abierta entre los traficantes y alguaciles.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Apuntes para una mem. econ. (R. 50. 53 2 )."
+            },
+            {
+              "texto_cita": "«El pueblo las creó [las juntas], es verdad; el pueblo las creó en abierta insurrección, y yo sé que en tiempos tranquilos no se le puede conceder este derecho sin destruír los fundamentos de su constitución y los vínculos de la unión social.»",
+              "autor": "",
+              "referencia_obra": "Id. Def. de la Junta Central, 1. 1 (R. 46. 509 2 )."
+            },
+            {
+              "texto_cita": "«Las ideas morales, mayormente las que están en oposición muy abierta con las pasiones, no llegan jamás al terreno de la práctica sino por medio de grandes esfuerzos.»",
+              "autor": "Balmes",
+              "referencia_obra": ", Protest. 30 (2. 175)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Por extensión, Claro.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí el silencio é inmoble reverencia | Sirven de abiertas voces y de acciones.»",
+              "autor": "Jáur.",
+              "referencia_obra": "oct. Presaga del honor (R. 32. 128 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Descubrir.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Abrir el corazón, abrir el pecho.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Antes que abras tu pecho, mira bien á quién le abres.»",
+              "autor": "Salas Barbadillo",
+              "referencia_obra": ", Caballero puntual, fol. 130 ( Dicc. Autor )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Comunicar á otro su secreto.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se abrió conmigo.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrirse á los amigos.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Abrirse en las razones, declararse.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Separar una cosa de otra ( trans. ). Abrir los párpados, los labios, las piernas.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«La bella ninfa --- así abriendo sus dulces labios le satisfizo.»",
+          "autor": "Valb.",
+          "referencia_obra": "Siglo de oro, 6 (140)."
+        },
+        {
+          "texto_cita": "«Dan tus labios de rosa, | Si los abres, bien mío, | El más sabroso néctar | Y el aroma más fino.»",
+          "autor": "Mel.",
+          "referencia_obra": "Anacr . 23 (R. 63. 99 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Por sinécdoque se dice Abrir los ojos, abrir la boca.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A estas razones abrió Marco Antonio los ojos, y los puso atentamente en Leocadia.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 9 (R. 1. 207 2 )."
+            },
+            {
+              "texto_cita": "«Los ojos, que de alguna luz se iban vistiendo y el nuevo aire los abría poco á poco, con un eterno sueño se han cerrado.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de Oro, 6 (138)."
+            },
+            {
+              "texto_cita": "«De vanidad llevado, | Quiso cantar el cuervo. | Abrió su negro pico, | Dejó caer el queso.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 5. 9 (R. 61. 375 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Una noche que estaba durmiendo, la llave se me puso en la boca, que abierta debía tener de tal manera y postura, que el aire y resoplo que yo durmiendo echaba, salía por lo hueco de la llave, que de cañuto era, y silbaba.»",
+              "autor": "Mend.",
+              "referencia_obra": "Lazarill . 2 (R. 3. 83 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Extender ó desplegar lo que está apretado ó recogido ( trans. ). Abrir la mano. Abrir una flor.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los árboles que al primer calor abrieron sus flores, las pierden luégo, por no haber esperado que cesasen los rigores del invierno.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 34 (R. 25. 90 2 )."
+            },
+            {
+              "texto_cita": "«Vi las húmidas rosas levantadas | Abrir las hojas bellas, que primero | Tenían todas juntas y cerradas.»",
+              "autor": "Herr.",
+              "referencia_obra": "2, eleg . 15 (R. 32. 338 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No suele descender milano, las pardas alas extendidas, el pico prevenido y las manos abiertas con mas velocidad y furia á los miserables pollos ---»",
+              "autor": "Lope",
+              "referencia_obra": ", La desdicha por la honra ( Obr. suelt. 8. 102)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. Dícese en especial de las flores.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué es nuestra vida sino una flor que se abre á la mañana, y al mediodía se marchita, y á la tarde se seca?»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. consid. 1, martes en la noche (R. 8. 26 1 )."
+            },
+            {
+              "texto_cita": "«No sabe cómo comienza á obrar grandes cosas con el olor que dan de sí las flores que quiere el Señor que se abran, para que ella crea que tiene virtudes.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Vida, 17 (R. 53. 57 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. Esparcirse ó extenderse,",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«y así se dice abrirse el tiro cuando se esparce la munición.»",
+          "autor": "Acad.",
+          "referencia_obra": "Dicc."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "En los dos casos anteriores se usa también como intrans. No creí que abriera tanto el tiro. Comienzan á abrir las flores.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "A esta acepción parece corresponder la expresión Abrir el cuello, la cual Covarrubias explica así:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Componerle como hoy día se hace, de que hay gente que lo tiene por oficio, y no se corre mal.»",
+          "autor": "",
+          "referencia_obra": ""
+        },
+        {
+          "texto_cita": "«Siempre andamos en recuesta con una bodegonera por la comida, con la huéspeda por la posada, con la que abre los cuellos por el que trae el hombre. --- Pues todo esto le puede faltar á un caballero, señor licenciado, pero cuello abierto y almidonado, no.»",
+          "autor": "Quev.",
+          "referencia_obra": "Gran. Tac. 13 (R. 23. 508 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "6.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Separar ó extender lo plegado ó enrollado, por lo común rompiendo un sello, cubierta ó atadura ( trans. ) .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Abriendolos luégo [los papeles], vio que al principio del escrito decía: Novela de Rinconete y Cortadillo.» Cerv. Quij. 1. 46 (R. 1. 387 2 ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La Duquesa pidió parecer á D. Quijote si sería bien abrir la carta que venía para el gobernador.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 52 (R. 1. 515 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part. A veces indica tan sólo la falta de cerradura ó sello, sin suponer que éste haya sido roto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sacó Sancho una carta abierta del seno.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 25 (R. 1. 482 1 )."
+            },
+            {
+              "texto_cita": "«Al rededor dél tenía en las mismas andas algunos libros y muchos papeles abiertos y cerrados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 13 (R. 1. 280 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese, por extensión, del mismo sello ó cerradura.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Recibiendo el papel con más salvas, que si trujera veneno, abrió la nema, guardó la cubierta, y leyó así:»",
+          "autor": "Lope",
+          "referencia_obra": ", La más prudente venganza ( Obr. suelt. 8. 130)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "7.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Rajar, hender; cortar ó romper haciendo boca ó surco ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dio el vizcaíno una gran cuchillada á D. Quijote encima de un hombro por encima de la rodela, que, á dársela sin defensa, le abriera hasta la cintura.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 8 (R. 1. 271 1 )."
+            },
+            {
+              "texto_cita": "«Cuchillada le hubieran dado, que le abrieran de arriba abajo como una granada ó como á un melón muy maduro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 32 (R. 1. 472 1 )."
+            },
+            {
+              "texto_cita": "«Voto á tal, don patán, rústico y mal mirado, que si no os apartáis y ascondéis luégo de mi presencia, que con esta silla os rompa y abra la cabeza.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 47 (R. 1. 502 2 )."
+            },
+            {
+              "texto_cita": "«Vino á dar la bala en mitad de nuestra barca de modo que la abrió toda.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 41 (R. 1. 372 2 )."
+            },
+            {
+              "texto_cita": "«Digo que estaba atado á la encina, desnudo de medio cuerpo arriba, y estábale abriendo á azotes con las riendas de una yegua un villano.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 31 (R. 1. 337 2 )."
+            },
+            {
+              "texto_cita": "«Cada día | Sobre mí cruje el látigo, y mis carnes | Abre sin compasión.»",
+              "autor": "V. de la Vega",
+              "referencia_obra": ", La muerte de César, 5. 2 (390)."
+            },
+            {
+              "texto_cita": "«Pacheco á Norpa abrió por el costado, | Y á Longoval derriba tras el muerto.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 15 (R. 17. 59 1 )."
+            },
+            {
+              "texto_cita": "«Venían ya los caballos por el llano | Las orejas tremiendo derramadas; | Quiérenlos aguijar, mas es en vano, | Aunque recio les abren las ijadas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 6 (R. 17. 27 1 )."
+            },
+            {
+              "texto_cita": "«Ya que lo estrague el áspero destino, | Tiempo para morir después nos queda, | Pues no estarán los brazos tan cansados | Que no puedan abrir nuestros costados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 9 (R. 17. 35 2 )."
+            },
+            {
+              "texto_cita": "«Y abrió con diestra suerte | El pecho de Peloro tu asta fuerte.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, canc . 6 (R. 32. 287 1 )."
+            },
+            {
+              "texto_cita": "«¿Por qué, sabiendo | Tal abominación, al mismo instante | Un agudo puñal no abrió su pecho?»",
+              "autor": "Quint.",
+              "referencia_obra": "Pelayo , 1. 5 (R. 19. 61 1 )."
+            },
+            {
+              "texto_cita": "«Vos pensad que le habéis dado | Cuchillo con que os degüelle, | Y después de degollado | Aun os abra y os desuelle.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 3, Vida de corte (R. 32. 228 2 )."
+            },
+            {
+              "texto_cita": "«Abrió los mares por do pasasen; ahogó los carros y ejército de Faraón; envióle maná del cielo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 3, diál . 4, § 2 (R. 6. 471 2 )."
+            },
+            {
+              "texto_cita": "«Abre su centro el mar, y en espumosa | Tumba sepulta al pertinaz tirano.»",
+              "autor": "Mor.",
+              "referencia_obra": "Los padres del limbo (R. 2. 607 1 )."
+            },
+            {
+              "texto_cita": "«Las armas derritió; el morrión de guerra, | En corva reja vuelto, abrió la tierra.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 4 (R. 17. 177 2 )."
+            },
+            {
+              "texto_cita": "«El arado romano abrió la tierra | En que estriban sus muros orgullosos.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Fragm. de un poema, 1 (1. 56). —"
+            },
+            {
+              "texto_cita": "«A palos abre la turba | Estúñiga denodado.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "D. Álv. de Luna, 3 (3. 56)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Recipr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por lo menos [D. Quijote y el vizcaíno] se dividirían y fenderían de arriba abajo y abrirían como una granada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1. 9 (R. 1. 271 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Habían echado fama los sacerdotes paganos, que si alguna mano de hombre tocase en la sobredicha estatua, luégo la tierra se abriría, y el cielo se hendería y caería á pedazos.»",
+              "autor": "",
+              "referencia_obra": "Iran. Símb. 2. 12 (R. 6. 311 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Pas.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mandó que allí delante de todos se rompiese y abriese la caña.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 46 (R. 1. 498 1 )."
+            },
+            {
+              "texto_cita": "«Capis, con otros más prudentes, | Que se entregue á las llamas aconseja | El sospechoso dón de astutos griegos, | O que al mar se le arroje, ó las secretas | Concavidades se abran y examinen.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Eneida , 2 (3. 89)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrir en canal.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram . Abrir en dos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Aplícase por extensión á denotar el movimiento por el aire, lo mismo que Cortar, hender.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vos, águila ligera, que los aires abriendo | Con las plumas doradas, vais al cielo.»",
+          "autor": "B. Argens.",
+          "referencia_obra": "canc. Mártires y doncellas (R. 42. 333 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El muro rompe la doncella hermosa | Que de Píramo abrió el gallardo pecho.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 18 (R. 1. 442 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "Dícese por extensión de la misma boca ó hendedura que se forma rompiendo con violencia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un golpe de mi cuerpo en la muralla | Abre sin duda brecha.»",
+              "autor": "Saman.",
+              "referencia_obra": "Fáb . 9. 19 (R. 61. 392 2 )."
+            },
+            {
+              "texto_cita": "«La espada le atraviesa el brazo fuerte | Abriéndole en el lado una herida.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 15 (R. 17. 58 2 )."
+            },
+            {
+              "texto_cita": "«La envidia, la calumnia, el artificio, | Cuya influencia vil todo lo estraga, | Con más rabiosos dientes abren llaga | En quien abraza el literario oficio»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Poes. varias (7. 358)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Faltándonos la tierra debajo los pies, súbitamente se abrió una profunda boca.»",
+              "autor": "Valb.",
+              "referencia_obra": "Siglo de oro, 6 (131)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "En general, Cavar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Podría ser que en la parte donde la vez primera clavásedes el pie, allí os abriesen la sepultura.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 19 (R. 1. 444 1 )."
+        },
+        {
+          "texto_cita": "«¡Qué poco siente ese hombre lo que hace, que abre una sepultura y canta!»",
+          "autor": "Mor.",
+          "referencia_obra": "Hamlet, 5. 2 (R. 2. 540)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "8.",
+      "definicion": "Tratándose de vías ó caminos, Hacerlos ó franquearlos ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cayo Mario, que era gobernador de la España ulterior, abrió y aseguró los caminos, quitados los salteadores, de que había gran número y gran libertad de hacer mal.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 3. 11 (R. 30. 71 1 )."
+            },
+            {
+              "texto_cita": "«¡Magallanes, señor, fue el primer hombre | Que abriendo este camino le dio nombre.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 1 (R. 17. 4 1 )."
+            },
+            {
+              "texto_cita": "«Yo determino | Por esta relación tuya guiarme, | Y abrir por la montaña alta el camino.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 12 (R. 17. 50 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se abrió y allanó á costa del conde don Sancho nuevo camino para que los extranjeros pasasen á la ciudad é iglesia de Santiago.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 8. 11 (R. 30. 240 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9.",
+      "definicion": "Grabar ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrir en cobre, grabar. Abrir en madera, estampar, de ordinario en boj.»",
+              "autor": "Covarr.",
+              "referencia_obra": ""
+            },
+            {
+              "texto_cita": "«Hará que abra Carmona su retrato, | O que un lienzo avivado por Maella | Cuelgue en su habitación junto á Torcuato.»",
+              "autor": "Forner",
+              "referencia_obra": ", sát . (R. 63. 306 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estampas de madera, con mediana diligencia dibujadas y abiertas, les bastan.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Corresp. con Posada (R. 50. 234 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á, para expresar el instrumento.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Abrir á buril.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar principio á una función, acto ó empresa pública ( trans. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sin dilación propuso en sí de abrir la guerra y apoderarse de toda el Andalucía.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 14. 1 (R. 30. 400 1 )."
+            },
+            {
+              "texto_cita": "«La Junta abrió su gobierno poniendo á su frente al hombre que era entonces más respetado de la nación.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central, 1. 3. 13 (R. 46. 531 1 )."
+            },
+            {
+              "texto_cita": "«Empezaron sus individuos á verificar su salida de Sevilla con el objeto tan público y solemnemente anunciado de abrir las Cortes en la isla de León.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. apénd . 19 (R. 46. 607 1 )."
+            },
+            {
+              "texto_cita": "«Vamos á anunciarle que hoy es el día señalado para abrir la enseñanza de ciencias naturales.»",
+              "autor": "",
+              "referencia_obra": "Id. Or. sobre el est. de las ciencias nat. (R. 46. 335 1 )"
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Pas .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Se abría la guerra claramente contra el rey de Aragón.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 9. 7 (R. 30. 255 1 )."
+            },
+            {
+              "texto_cita": "«Abrióse el concilio, y túvose la primera junta al principio del mes de mayo, año del Señor de 589.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 5. 15 (R. 30. 18 1 )."
+            },
+            {
+              "texto_cita": "«Abrióse el concilio al principio de la cuaresma del año 1129.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 10. 14 (R. 30. 297 2 )."
+            },
+            {
+              "texto_cita": "«Era preciso animar este impulso general; --- lo era arreglar el plan de la nueva y terrible campaña que se abría entonces.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Def. de la Junta Central, 1. 1. 40 (R. 46. 514 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Comenzar, iniciar.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Vamos charlando un poco, Poncio mío, | Del digerido y trasnochado viaje | Que abrí con Aries y cerré en estío.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Poes. epíst. á Poncio (R. 46. 48 1 )."
+        },
+        {
+          "texto_cita": "«La libre exportación sólo puede ser necesaria para abrir en el extranjero el consumo de aquella cantidad de granos que no podría consumirse en el reino.»",
+          "autor": "",
+          "referencia_obra": "Id. Ley agraria, 2ª clase (R. 50. 115 1 )."
+        },
+        {
+          "texto_cita": "«Sabían también que esta cuenta debía estar próxima á arreglarse, puesto que el nuevo tesorero general se hallaba ya en ejercicio, y que éste, según nuestro sistema económico, debía abrir una nueva cuenta, así como el cesante darla de su época.»",
+          "autor": "",
+          "referencia_obra": "Id. Def. de la Junta Central, 1. 2. 15 (R. 46. 526 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Refl. Llegar ó empezar á ofrecerse.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los cosecheros ricos guardan el suyo [su aceite] hasta que se abra un precio que les resarza sus expensas.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Inf. sobre extr. de aceites (R. 50. 3 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "11.",
+      "definicion": "Hablándose de empréstitos ó subscripciones, Anunciarlas, proponerlas al público ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Una parte de estos malos efectos pudiera acaso evitarse con haber abierto al principio un grande empréstito mucho mayor todavía que la suma total de todos los que sucesivamente se hicieron.»",
+          "autor": "Quint.",
+          "referencia_obra": "Cartas á L. Holland, 4 (R. 19. 549 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "12.",
+      "definicion": "Part.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Aplícase á la vaca fecunda. Acad. Dicc.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Dícese en francés de la e que se pronuncia como en pere, après . Dícese también de la a y la o , según suenan en plat , bol .",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "« E abierta pide una abertura de boca más grande.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Rudim. de Gram. franc. (R. 46. 156 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el part . abrido en el Alex .) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Les fue otorgada [la tregua] --- para no hacer tan gran cosa en las fronteras como de necesidad se habia de hacer quedando la guerra abierta.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 2. 10 (R. 68. 308 1 )."
+        },
+        {
+          "texto_cita": "«Dispuse comigo que demandaria | Por ver mas abierta la informacion.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 269 (91 1 )."
+        },
+        {
+          "texto_cita": "«En aquel lugar era un monte abierto de encinas.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", P. 76."
+        },
+        {
+          "texto_cita": "«Con este cortan las cosas duras e se quebrantan los huesos; por esso tiene mas ancho caço, que puedan ençima ferir con la mano sin miedo, e la punta arromada con vuelta derecha, porque mas agudo quede que el primero, para abrir los huesos e apartarlos.»",
+          "autor": "Villena",
+          "referencia_obra": ", Arte cis. 4 (25)."
+        },
+        {
+          "texto_cita": "«Si la ventana abres, çierto entrará | El sol en la cassa para la alunbrar.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 562."
+        },
+        {
+          "texto_cita": "«E yo le abriré, tanto en mi fio, | El alto palaçio que es propio mio.»",
+          "autor": "",
+          "referencia_obra": "Ib. p. 205. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«E llegaron los dos maestres de Santiago é de Calatrava á la puerta del palacio do el rey estaba, é non les abrieron.»",
+          "autor": "Crón. Pedro I",
+          "referencia_obra": ", 3 (R. 66. 482 1 )."
+        },
+        {
+          "texto_cita": "«Otros le llaman [á Gibraltar] Gebelfat, que quiere decir la sierra de la abertura, porque allí se comenzó á abrir la conquista que los moros ficieron en España.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1. 1 (R. 66. 403 1 )."
+        },
+        {
+          "texto_cita": "«Decid al rey --- que abririemos las puertas de la cibdad, é le recibiriemos en ella como á rey é como á señor.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 76. (R. 66. 62 2 )."
+        },
+        {
+          "texto_cita": "«Haya la cabeza de talle de congrio, et bien cuadrada, et bien secca, et la nariz blanca, et bien abierto de boca.»",
+          "autor": "",
+          "referencia_obra": "Mont. Alf. XI, 1. 41 ( Bibl. venat. 1. 115)."
+        },
+        {
+          "texto_cita": "«Fidalgo, dis: abras | Ese blazo, et toma | Un tanto de soma | Que tengo guardada.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1005 (R. 57. 258 2 )."
+        },
+        {
+          "texto_cita": "«Prendieron a don burro, como eran castigados, | Al leon le troxieron, abriol por los costados.»",
+          "autor": "",
+          "referencia_obra": "Id. 874 (R. 57. 254 2 )."
+        },
+        {
+          "texto_cita": "«Fallo que la demanda del lobo es bien çierta, | Bien acta e bien formada, bien clara e abierta.»",
+          "autor": "",
+          "referencia_obra": "Id. 342 (R. 57. 238 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Se abre el nenúfar cuando sale el sol.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 29 1 )."
+        },
+        {
+          "texto_cita": "«La muerte que acaesce tan aina como cerrar el ojo et abrirlo.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 16 2 )."
+        },
+        {
+          "texto_cita": "«Si entrare por pared, o por vallados, o abriere puerta, peche sesenta sueldos.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Molina, año 1152 ( Llor. Prov. vasc. 4. 145)."
+        },
+        {
+          "texto_cita": "«Quando a ella quisieren venir, imbiar a delante a suos omes con suas cartas abiertas.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 1. 8. 2 (40)."
+        },
+        {
+          "texto_cita": "«Demos á los non fieles alguna guisa, é les abramos carrera pora vevir e guarecer.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 18 (199)."
+        },
+        {
+          "texto_cita": "«Si algun omne falla grey aiena de oveias ó de vacas en su pasto abierto, ---»",
+          "autor": "",
+          "referencia_obra": "Ib. 8. 5. 5 (149)."
+        },
+        {
+          "texto_cita": "«Lo falló el ganado en campo abierto, ó en pasto desamparado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 8. 4. 26 (146)."
+        },
+        {
+          "texto_cita": "«Levaronle al castyllo, las puertas le abryeron.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 611 (R. 57. 408 1 )."
+        },
+        {
+          "texto_cita": "«Avya en los primeros avyerto vn gran portyllo.»",
+          "autor": "",
+          "referencia_obra": "Ib. 525 (R. 57. 405 2 )."
+        },
+        {
+          "texto_cita": "«Que quando los peones carrera les abryesen, | Entrarian los caballeros mejor por do podiesen.»",
+          "autor": "",
+          "referencia_obra": "Ib. 460 (R. 57. 403 2 )."
+        },
+        {
+          "texto_cita": "«Ouieron luego ayna grant portiello abrido.»",
+          "autor": "Alex.",
+          "referencia_obra": "1909 (R. 57. 206 1 )."
+        },
+        {
+          "texto_cita": "«Mando --- | Dar a los elefantes, cortarge los corueiones, | Que abrissen carrera soure sus grinones.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1908 (R. 57. 206 1 )."
+        },
+        {
+          "texto_cita": "«Fágome maravijado | En cosa tan auierta non auer algun letrado | Que diga la verdad de lo que ha estudiado.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1161 (R. 57. 183 1 )."
+        },
+        {
+          "texto_cita": "«Ouo desende ha rato los ogos ha abrir.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 313 (R. 57. 294 1 )."
+        },
+        {
+          "texto_cita": "«Abrió la demanda que era tan escura.»",
+          "autor": "",
+          "referencia_obra": "Ib . 51 (R. 57. 285 1 )."
+        },
+        {
+          "texto_cita": "«A lo que deçir quiero abrit los corazones.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 201 (R. 57. 46 1 )."
+        },
+        {
+          "texto_cita": "«Nuestros contrarios somos et contra nos venimos, | Caemos en la foya en la que nos abrimos.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacr . 262 (R. 57. 89 1 )."
+        },
+        {
+          "texto_cita": "«Fo tastar a la puerta ca sabie la entrada: | El trufan sovo presto, abrioli sin soldada.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 732 (R. 57. 126 1 )."
+        },
+        {
+          "texto_cita": "«Las puertas de mi casa abiertas las tenia, | Quanto que Dios me daba con todos lo partia.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 639 (R. 57. 123 1 )."
+        },
+        {
+          "texto_cita": "«Sennora de los çielos plena de bendiçion | Abri las tus oreias, udi mi petiçion.»",
+          "autor": "",
+          "referencia_obra": "Id. Duelo , 209 (R. 57. 137 2 )."
+        },
+        {
+          "texto_cita": "«Tu nos abri los çielos como buena clavera»",
+          "autor": "",
+          "referencia_obra": "Id. himno Ave (R. 57. 144 2 )."
+        },
+        {
+          "texto_cita": "«Mas de una cosa es mucho marrido, | Que non aduxo nada consigo | Conque pudiesse la tierra obrir | Para el cuerpo ssobollir.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egipc. (R. 57. 318 1 )."
+        },
+        {
+          "texto_cita": "«Abiertas dexan las puertas, que ninguno non las guarda.»",
+          "autor": "Cid",
+          "referencia_obra": ", 593 (R. 57. 8 2 )."
+        },
+        {
+          "texto_cita": "«Así como legó a la puerta falóla bien çerrada, | Por miedo del rey Alfonsso que assi lo auie parado: | Que si non la quebrantas por fuerça, que non gela abriese nadi.»",
+          "autor": "",
+          "referencia_obra": "Ib . 34 (R. 57. 2 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. abrir ; it. aprire ; del lat. aperire , sobre cuya etimología andan discordes los lingüistas ( Pott 2 , Etym. Forsch . 1. 497; Vanicek , Griech. lat. etym. Wb . 503. 509). No menos dificultades ofrecen las formas provenzal y francesa, obrir, ubrir, ouvrir, cuya identidad con abrir es aún problemática. Reliquia de ellas en cast. es obrir que queda citado de la Vida de S. María Egipcíaca.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Conjug.",
+      "definicion": "El part . es irregular: abierto .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans. : en general. — Intrans. : 3, b - 5, c . — Recípr.: 7, a , α , α α . — Refl.: 1, c , α , α α - 2, b , α - 2, β , β , α α - 3, d , β - 5, α , β - 5, β - 7, α, α , β β - 7, d , α , α α - 10, c . — Part .: 1, a , α , β β - 1, c , α , γ γ - 3, a β , γ - 3, c - 4, b , α , α α - 5, a , α , α α - 6, a , α , α α - 9, α , α α - 12 . — Con á : 2, b , β - 3, δ , β , β β - 9, β . — Con: 3, d , β , α α . — En: 3, d , β , γ γ - 7, a , β . — Con dat. : 1, a , β - 1, α , γ , α α . — Acus . tácito: 1, a , γ . \u0000"
+}

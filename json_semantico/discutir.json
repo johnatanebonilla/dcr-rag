@@ -1,0 +1,37 @@
+{
+  "lema": "DISCUTIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Examinar atenta y minuciosamente una materia, pesando las razones en pro y en contra con el fin de llegar á una conclusión clara y definida. Con frecuencia se dice cuando en ello toman parte varias personas. — α ) Trans . «Seguramente pueden los hombres resignarse en el parecer de tan grandes ingenios, acompañados con tanta santidad de vida, y no querer discutir de nuevo lo que tan discutido está por ellos, como cosa en que les iba la salvación.» Gran. Símb . 5. 2. 17 (R. 6. 639 2 ). «De que traía á luz mis secretos, y los discutía y redargüía, me admiré de la alteza de su sabiduría.» León , Nomb. 3, Hijo (3. 358). «En hacer testamento en el agonía --- no se excusará de muchas negligencias que entonces no podrá discutir.» Venegas , Agonía , 2. 10 ( Míst . 3. 29). — α α ) Pas . «Después de meditar detenidamente las proposiciones ó expedientes que se les remitían, presentaban su informe a las Córtes, en cuyo seno se discutía el negocio y votaba.» Toreno , Hist . 13 (R. 64. 290 1 ). — β β ) Part . «Son [las oraciones de Demóstenes y Cicerón] el modelo más perfecto de la oratoria forense por la fuerza de los raciocinios y la sutil dialéctica con que están discutidas las cuestiones.» Hermosilla, Arte de hablar , p. 314. «Declarado el punto suficientemente discutido, hubo de procederse á la votación.» A. Galiano , Recuerdos , p. 436. — β ) Absol . «Mientras que las Cortes discutían, acechaba la Regencia, por medio de emisarios fieles, lo que en ellas pasaba.» Toreno , Hist . 13 (R. 64. 288 2 ). — α α ) Con con , para expresar la otra persona que toma parte en el debate. «El atrevido --- que acusándole Dios no se conociere luégo y se le rindiere, sino presumiere de hacerle cara y discutir con él defendiéndose, no tendrá paz.» Léon, Expos. de Job , 9 (1. 157). — γ ) Intrans . — α α ) Con en , para expresar el asunto que se ventila, como campo del debate. «Se atreven á discutir en todas las ciencias y profesiones.» Saav. Rep . (R. 25. 406 1 ). — β β ) Con sobre , para expresar el asunto del debate. «¿Leeremos por eso la Farsalia con más placer que la Eneida? Si el autor del artículo fuese capaz de darnos este consejo, soltaríamos la pluma y no volveríamos á discutir sobre esta materia.» Lista , Ensayos , 2, p. 45.",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Que si tal dubda nasciera, | No peor la discutiera | Qu´el vencedor d´Arriano.»",
+          "autor": "",
+          "referencia_obra": "Canc. de G. Manr . 2, p. 33."
+        },
+        {
+          "texto_cita": "«Ya mayormente que bien discutido | Las vuestras riquezas son más naturales.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 223 (78 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat. discutir ; fr. discuter ; it. discutere : del lat. discutere , deshacer sacudiendo, resolver, disipar, compuesto del prefijo dis y quatere , sacudir. En cast. ant. se halla también descutir",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«¿Desde cuándo te tomó | Tu accidente? | —Desde que primeramente | Una nueva se sonó. | E tal nueva descutir | Es morir. »",
+          "autor": "Encina",
+          "referencia_obra": ", égl . (R. 2. 228 1 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

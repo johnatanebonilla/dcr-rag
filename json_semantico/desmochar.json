@@ -1,0 +1,36 @@
+{
+  "lema": "DESMOCHAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Dejar mocho, quitar la parte superior ( trans .). — α ) «Desmochó la res, cortándole las astas; desmochó el árbol, desnudándole de las ramas.» Acad. Dicc . «Cuanto más la desmochan y cortan [la carrasca], tanto con más fuerza se repara y renueva.» León , Expos. de Job , 8 (1. 148). «No les desmocha las ramas solas, sino que los arranca de cuajo, ó que los corta de manera en lo alto, que pierda el jugo y vida la raíz.» Id. ib . 18 (1. 286). «A éstos [á los justos] desmóchalos Dios, para que se renueven y mejoren, mas á aquéllos [á los malos] arráncalos de cuajo, para que del todo se sequen.» Id. ib . 22 (2. 12). «Aunque me desmoches todo, | Y me pongas de otro modo | Peor que éste en que me veo [desorejado], | Tanto el ser libre deseo | Que á la fuga me acomodo | Por la tierra ó por el viento, | Por el agua y por el fuego.» Cerv. Los baños de Argel , 1 ( Com . 1. 138). «A los cabronazos que hay ahora en el mundo decidles, que se anden diciendo malo y bueno á sus mujeres, á ver si les desmocharán las sienes, y si podrán restañar el flujo del hueso.» Quev. Visita de los chistes (R. 23. 349 2 ). «Despoja [el podador] y desmocha muchas cepas para hacer un manojo de sarmientos.» Navarr. Conserv. de mon . 24 (R. 25. 497 2 ). «Los edificios antiguos cuasi todos están jalbejados con yeso, y á otros les han desmochado la parte superior, poniéndoles cornisamento horizontal, de manera que carecen de aquella lúgubre y respetable antigüedad que tienen los de Brujas.» Mor. Obr. póst . 1, p. 275. — α α ) Part . «Bien como la ñudosa | Carrasca en alto risco desmochada | Con hacha poderosa, | Del ser despedazada | Del hierro torna rica y esforzada.» León , Poes . 1, ¿Qué vale cuanto vee (4. 309). «Sentándose Lenio en un tronco de un desmochado olmo ---» Cerv. Gal . 4 (R. 1. 55 1 ). «Se sentó en el tronco de una desmochada encina.» Id. Quij . 1. 11 (R. 1. 275 2 ). «En vez de lanza un desmochado pino.» Valb. Bern. 8 (R. 17. 224 2 ). «Por entre antiguos mármoles quebrados | De la arruinada torre desmochada ---» Id. ib . 12 (R. 17. 266 1 ). «La cruz en una dellas era hecha | De un altísimo pino desmochado.» Id. ib. 112 (R. 17. 270 1 ). «Cual la encina | En la cumbre del Algido sombrosa | Por tenaces segures desimochada, | Fuerza y valor adquiere | Del enemigo acero que la hiere.» Lista , Poes. lír. prof. 4 (R. 67. 287 2 ). — β ) Con de , para expresar aquello de que queda falto el objeto. — met. «Abulto apellidos y pongo virtudes postizas como cabelleras; confito condiciones, y desmocho de años á los novios.» Quev. Entremetido (R. 23. 368 2 ).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Sy fuera mas sano á ese tu ortolano bohemo, Ladislao, desmochando sus arbores seguro beuir, que morir de segur, sus vasallos truncando, dimelo tú.»",
+          "autor": "",
+          "referencia_obra": "Lucena, Vida beata (139)."
+        },
+        {
+          "texto_cita": "«E la cerca dél [del castillo] estaba desmochada é aportellada.»",
+          "autor": "",
+          "referencia_obra": "Gonz. Clav . p. 48. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Acuciaron de tirar con los engeños, señaladamiente á la torre del omenage, de manera que la tenian toda desmochada, que non avia en ella ninguna almena nin antepecho tras que podiesen estar los moros para la defender.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 120 (R. 66. 253 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto de la partícula privativa des, que refuerza la idea expresada por el simple mochar , como en desnudar. El mismo compuesto tenemos en el port. desmochar, cat . desmotxar, esmotxar, fr. émousser , it. smozzare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

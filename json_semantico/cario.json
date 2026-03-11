@@ -1,0 +1,172 @@
+{
+  "lema": "CARIÑO.",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "-->s. m.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Reconocimiento á la antigua amistad y querencia.»",
+          "autor": "Covarr.",
+          "referencia_obra": "( ant. ). A esta definición se allegan la de Oudin ("
+        },
+        {
+          "texto_cita": "«regret, l´amour que I'on porte á ce que I'on regrette»",
+          "autor": "Acad.",
+          "referencia_obra": "("
+        },
+        {
+          "texto_cita": "«anhelo ó deseo de alguna cosa»",
+          "autor": "",
+          "referencia_obra": "."
+        },
+        {
+          "texto_cita": "«A los animales cuando los apartan de los que con ellos se crían, parece que les queda un cariño y deseo.»",
+          "autor": "Gracián",
+          "referencia_obra": ", Morales de Plutarco, fol. 125 ( Dicc. Autor. ) ."
+        },
+        {
+          "texto_cita": "«Ninguno nos lo podrá decir mejor que mi mono, dijo maese Pedro; pero no habrá diablo que ahora le tome, aunque imagino que el cariño y la hambre le han de forzar á que me busque esta noche, y amanecerá Dios y verémonos.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 26 (R. 1. 461 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Voluntad (raro y ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con todo el mal cariño que muestra tener á la poesía de romance, lo tiene ahora desvanecidos los pensamientos el hacer una glosa á cuatro versos que le han enviado de Salamanca.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 16 (R. 1. 436¹)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Afecto tierno que se muestra con caricias ó de otra manera semejante.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Es efecto muy distinto | El quererse con deseo | O el amarse con cariño.»",
+              "autor": "Mto.",
+              "referencia_obra": "Antíoco y S eleuco, 1. 3 (R. 39. 41¹)."
+            },
+            {
+              "texto_cita": "«Para serles ejemplo | Con amor tan sencillo, | De paternal ternura, | De conyugal cariño.»",
+              "autor": "Mel.",
+              "referencia_obra": "Anacr . 53 (R. 63. 107¹)."
+            },
+            {
+              "texto_cita": "«Habla al esposo la infeliz esposa, | Y se despierta su cariño blando.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Isabel y Gonzalo, 3 (406 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para denotar el objeto del afecto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Su alma cándida y virgen llevó al matrimonio el precioso dote de las virtudes domésticas, y entre ellas, como timbre de todas, el cariño y amor á su marido.»",
+              "autor": "Clem.",
+              "referencia_obra": "Elog. de Is. la Cat. (Mem. Acad. Hist. 6. 34)."
+            },
+            {
+              "texto_cita": "«Después de tanto cariño | A don Pablo, ya resuelta | A tomarlo por marido, | ¡Admitir de don Andrés | En tal hora, y en tal sitio | Visitas!»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, El tanto por ciento, 2 . 1 (5. 92)."
+            },
+            {
+              "texto_cita": "«Se dice promiscuamente el amor de la vida y el amor á la vida; el temor de la muerte ó el temor á la muerte, pero sólo se dice el cariño á la vida, el deseo de la muerte.»",
+              "autor": "Clem.",
+              "referencia_obra": "Coment. 2, p. 273."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Siendo cariño acus. de ciertos verbos, el objeto del afecto se considera como dat. Le tengo cariño.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sólo lo dije porque es tan grande el cariño que tengo á mi jumento, que me pareció que no podía encomendarle á persona más caritativa que á la señora Rodríguez.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 31 (R. 1. 469 2 )."
+            },
+            {
+              "texto_cita": "«Conoce que este importante ramo de cultivo no puede prosperar, mientras los frutos que produce no tengan un precio tal, que después de resarcir al cosechero los grandes costos que expende para beneficiar sus olivares, le deje en una decente ganancia el preciso estímulo para tomar cariño á su ocupación y continuar prósperamente en ella.»",
+              "autor": "Jovell.",
+              "referencia_obra": "Inf. sobre extracc. de aceites (R. 50. 2¹)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pidió le diese á la reina gracias en su nombre por tanto cariño como tenía con una doncella huérfana y extranjera.»",
+              "autor": "",
+              "referencia_obra": "Pellicer, Argenis, 2, fol . 77 (Dicc. Autor.)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con hacia .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El cariño de un padre hacia sus hijos raya pocas veces en la extravagancia de negar los defectos visibles que éstos tienen.»",
+              "autor": "J. Burgos",
+              "referencia_obra": ", Hor. sát. 1. 3, nota (3. 90)."
+            },
+            {
+              "texto_cita": "«¡Si vieras cuánto gozo al ver la íntima satisfacción de mis padres, nacida de su cariño hacia mí!»",
+              "autor": "Fern.",
+              "referencia_obra": "Caball. Lágrimas , 27 (352)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Expresión ó demostración de afecto y ternura.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Jamás á las dulces Musas | Debí entonces ni un alivio, | O á la celestial Sofía | Una mirada, un cariño.»",
+          "autor": "Mel.",
+          "referencia_obra": "rom . 41 (R. 63. 155³)."
+        },
+        {
+          "texto_cita": "«Entre tantos halagos | Y amorosos cariños | Como á tu palomita | Prodigarle te miro, | ¿No hallarás ni uno solo | Para quien tan rendido | Obedece tus leyes, | Te idolatra tan fino?»",
+          "autor": "",
+          "referencia_obra": "Id. La paloma de Filis, 12 (R. 63. 113 2 )."
+        },
+        {
+          "texto_cita": "«Esta mujer me celebraba de bonita y graciosa, y me hacía mil cariños.»",
+          "autor": "Valera",
+          "referencia_obra": ", Doña Luz , p. 52."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. carinho . Como no tenemos otro nombre de esta formación con sentido análogo, se dificulta esclarecerla. Si sale de caro , habrá que suponer que el sufijo se empleó para formar un nombre abstracto semejante á caricia (en lat. bajo caritia , carestía y caricia); si sale de querer (cambiándose la e en a por la influencia regresiva de la r : querocha carocha, verraco varraco, verbasco varbasco, etc ., y sobre todo por la de caro ), tendría analogia con querencia , á lo cual da visos de posible el que Cervantes diga mal cariño por malquerencia . Es de creerse, vista la frecuencia de esta terminación en voces portuguesas, que carinho se formó en esta lengua y de ahí paso á la nuestra. Siendo esto así, del castellano hubieron de tomarse el sardo carignu (de donde carignare , acariciar), y el sicil. carigna . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

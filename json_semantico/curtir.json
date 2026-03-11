@@ -1,0 +1,335 @@
+{
+  "lema": "CURTIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Aderezar los cueros haciendo que embeban tanino para darles mayor consistencia y preservarlos de putrefacción ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y mando que al tiempo que hubieren de echar corambre alguna á curtir, que los que la hubieren de echar, echen en la tina la harina y sal y otros aparejos que fueren menester, á vista de los dichos veedores.»",
+              "autor": "",
+              "referencia_obra": "Recop . 7. 19. 5 ( Dicc. Autor .)."
+            },
+            {
+              "texto_cita": "«Ha de quitar el pellejo | A Casandra y Federico | Y curtillos este invierno | Para suelas de zapatos.»",
+              "autor": "Mto.",
+              "referencia_obra": "El licenciado Vidriera , 1. 10 (R. 39. 254 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo solo, viejo, quiero la batalla, | Y castigar tu loco atrevimiento, | De piel curtida armados, ó de malla, | Con lanza, espada ó maza á tu contento.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc. 16 (R. 17. 64 2 )."
+            },
+            {
+              "texto_cita": "«Tendieron por el suelo pieles curtidas, olorosas, limpias y lisas de animales.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers . 1. 4 (R. 1. 565 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Por extensión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Y el dedo, ya pincel, curte el pellejo, | Donde extiende con líquidos barnices | Las manchas ó las nubes de un bosquejo?»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Dícesme, Nuño (R. 32. 308 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Gasté en este mal prolijo, | Porque el cuero se me curta, | PoIvos de arrayán y murta, | Más que vale mi cortijo.»",
+              "autor": "Lope",
+              "referencia_obra": ", Fuente Ovejuna, 3. 25 (R. 41. 650 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Endurecer ó tostar el sol ó el aire el cutis de las personas que andan á la inclemencia ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ni los soles, ni los aires, ni todas las inclemencias del cielo á quien más que otras gentes están sujetos los gitanos, pudieron deslustrar su rostro ni curtir sus manos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 101 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Desde que nacen hasta que mueren se curten y muestran á sufrir las inclemencias y rigores del cielo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Col. (R. 1. 241 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El hielo del invierno y las siestas del vevano me traían curtida y tostada la piel.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro, 4. 191)."
+            },
+            {
+              "texto_cita": "«Masanielo pues tenía veinte y siete años de edad, aspecto agradable, ojos negros y de melancólica mirada, tez curtida por la intemperie, proporcionadas facciones, cabellos rubios y ensortijados.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan . 1. 4 (5. 46)."
+            },
+            {
+              "texto_cita": "«No robustos, ni dados al trabajo, | Ni curtidos por hielos ni por soles.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Dicesme, Nuño (R. 32. 309 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Curtirse al aire, con el aire, del aire.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Vimos salir diez indios de repente --- | Del aire, de la lluvia y sol curtidos, | Cubiertos de un espeso y largo vello.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 35 (R. 17. 129 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Acostumbrar á la vida dura, á las inclemencias del tiempo ó á las penalidades de la vida ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A estos que ama Dios y los tiene por buenos, los curte y endurece y ejercita.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib . 1. 24 (R. 60. 408 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Refl.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Da asímismo estas enfermedades el Señor á los niños, para que desde pequeñitos se críen con trabajo y dolor, y se vayan como curtiendo, y sean para más que los que se crían con mucho regalo.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 1. 26 (R. 60. 410 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sale como curtido de tantos trabajos y asperezas, probado con tantas enfermedades.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 3. 3 (160)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con para.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y á los que tiene para trabajos, y para trabajos á quien han de vencer --- los hace á las armas poco á poco, y si es lícito decirlo ansí, los curte para su sufrimiento, y les endurece ó embota el sentido.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 3 (1. 50)."
+            },
+            {
+              "texto_cita": "«Parece que de industria se habían allí venido --- como solemos decir, á curtirse desde muchachos para santos.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 2. 1 (67)."
+            },
+            {
+              "texto_cita": "«Se curten y ensayan para mártires.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 3. 19 (R. 60. 328 2 )."
+            },
+            {
+              "texto_cita": "«Iba cargado de sus cartapacios y libros, en el corazón del invierno, á pie --- pasando muchos trabajos. Pero el nuevo soldado, que se curtía para otros mayores iba con grande alegría.»",
+              "autor": "",
+              "referencia_obra": "Id. Vida del P. Laínez , 1. 2 (R. 60. 124 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este es ejercicio y oficio de hombres robustos, curtidos y criados para tal ministerio casi desde las fajas y mantillas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 73 (R. 1. 556 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por tener los soldados curtidos con los trabajos, llevaban mejor la destemplanza del tiempo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 3. 3 (R. 80. 641)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Por qué un alma, que ya está curtida en trabajos semejantes, no ha de tener ya hechos callos en ellos y tenerlo todo en poco?»",
+              "autor": "",
+              "referencia_obra": "Abril, Cic. Fam . 4. 5 (1. 431)."
+            },
+            {
+              "texto_cita": "«Los mozos [los de Carrión], como quier que eran más apuestos y galanes que fuertes y guerreros, no contentaban en sus costumbres á su suegro y cortesanos, criados y curtidos en las armas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 10. 4 (R. 30. 281 2 )."
+            },
+            {
+              "texto_cita": "«Este pobretón, aunque bellaco, habituado en semejantes maldades y curtido en hurtos, esta vez cortóse con el miedo.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 1. 5 (R. 3. 201 2 )."
+            },
+            {
+              "texto_cita": "«La caballería --- pasaba de tres mil caballos, gente toda curtida en la guerra y digna de una empresa tan importante.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 3 (R. 28. 33 1 )."
+            },
+            {
+              "texto_cita": "«Ignorar este riesgo, no sólo no puede presumirse de un rey tan prudente y curtido en negocios, pero del más moderno estudiante de sus reglas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 (R. 28. 45 2 )."
+            },
+            {
+              "texto_cita": "«¡Oh dulce Redentor, ahora veo con cuanta razón te llama Isaías varón de dolores y curtido en enfermedades!»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit. 4. 1 (2. 357)."
+            },
+            {
+              "texto_cita": "«Experto en tales dones, he quedado | En lances y donaires tan curtido, | Que si llegase al fin que he deseado, | Pondré todas las chanzas en olvido.»",
+              "autor": "",
+              "referencia_obra": "Esteb. Gonz. dedic. (R. 33. 286)."
+            },
+            {
+              "texto_cita": "«Un moro curtido en los combates, que se ha metido imprudentemente en manos de sus enemigos, exponiendo su vida por los amoríos de una condesa vieja, no puede excitar el mismo interés.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Trag. esp . (2. 127)."
+            },
+            {
+              "texto_cita": "«Apenas serían unos mil doscientos peones y trescientos de á caballo, si bien todos ellos animosos, curtidos en la guerra.»",
+              "autor": "Solís",
+              "referencia_obra": ", 2. 48 (4. 453)."
+            },
+            {
+              "texto_cita": "«Todo lo notó el general, con disgusto mal disimulado, á pesar de ser hombre de mundo, curtido en todo linaje de lances.»",
+              "autor": "Valera",
+              "referencia_obra": ", Las ilusiones del Dr. Faustino, p. 499."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "met. Tundir, dar una tunda ( trans .) ( fam. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Dos mil demonios | Esta noche, que he estado retraído | Por la muerte de Félix, me han curtido.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", Quien mal anda en mal acaba, 3. 11 (R. 20. 225 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Troxieron escodillas de miel é duraznos cortidos en vinagre é ubas é alcaparras otrosi cortidas.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 94. — Siglo XlV:"
+        },
+        {
+          "texto_cita": "«Mandamos que los cortidores que curten los cueros para solar, que los non vendan fasta que aya medio anno que yagan en cortido, e que vendan los cueros cortidos enxutos e secos.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Toro, año 1369 (C. de L. y C. 2. 176)."
+        },
+        {
+          "texto_cita": "«Et fágangelo beber, et tomen de los altramuces por cortir, et cuéganlos con agua.»",
+          "autor": "",
+          "referencia_obra": "Mont. Alf. XI , 2. 2. 5 ( Bibl. venat. 1. 166). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Que corten madera para fazer puentes en los rios por donde passaren ellos e sus ganados, e que puedan sacar corteza para cortir su calzado.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1297 ( Berg. Antigüed. 2. 516)."
+        },
+        {
+          "texto_cita": "«Mandó mouer sus huestes de lazerio cortidos.»",
+          "autor": "Alex.",
+          "referencia_obra": "1042 (R. 57. 179 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. cortir , curtir. La etimología de Diez es la que satisface más en cuanto á la forma: lat. conterere, quebrantar, desmenuzar, mediante una transformación semejante á la de concurvare en corcovar . De cortex, corteza (propuesto por Covarr. ) ó de condire, adobar, aderezar (propuesto por Cabrera ), no podría sacarse fácilmente cutir . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

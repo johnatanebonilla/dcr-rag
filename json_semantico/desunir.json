@@ -1,0 +1,140 @@
+{
+  "lema": "DESUNIR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Hacer que lo que estaba unido deje de estarlo. Dícese así en lo material como en lo moral ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los reinos y provincias que desunió la naturaleza los une la prudencia.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 57 (R. 25. 154 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α)",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No permitió Narváez que su ejército se desuniese aquella noche.»",
+              "autor": "",
+              "referencia_obra": "Solis, Conq. de Méj . 4. 9 (R. 28. 317 1 )."
+            },
+            {
+              "texto_cita": "«No tiene el rey tan libre disposición en él [en el reino] como en sus bienes los particulares, principalmente habiendo adquirido los vasallos, después de reducidos á una cabeza, un cierto derecho que mira á su conservación y seguridad y también á su lustre y grandeza, para que no se desuna aquel cuerpo de estado que los mantiene estimados y seguros.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 70 (R. 25. 194 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos intentan perder el respeto á la potencia desunida.»",
+              "autor": "Navarr.",
+              "referencia_obra": "Conserv. de mon . 8 (R. 25. 469 2 )."
+            },
+            {
+              "texto_cita": "«Y mucho | Recrujieron las puertas al romperse, | Ni los firmes cerrojos resistieron; | Y desunidas ya todas las tablas, | Unas por una parte, otras por otra, | Volaron al empuje de la piedra.»",
+              "autor": "",
+              "referencia_obra": "Hermosilla, Iliada . 12 (1. 375)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , en sentido de separación.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El rey aun no había perdido la vergüenza del todo á la Sede apostólica ni desunídose della.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 1. 18 (R. 60. 204 1 )."
+            },
+            {
+              "texto_cita": "«Por sólo unirse á Dios tu alma pudo | Desunirse del cuerpo, que en el suelo, | Si fue cuerpo ó deidad, aun hoy lo dudo.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 3, son . 28 (R. 69. 47 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No respondió sino después de todo acabado, siendo de parecer que el Vélez á toda priesa no quedase aquella noche desunido de su vanguardia.»",
+              "autor": "Melo",
+              "referencia_obra": ", Guerra de Calal 4 (R. 21. 508 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en , para expresar lo que resulta de la desunión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo su valor pierde el diamante si se desune en partes.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 91 (R. 25. 239 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con un compl. recípr.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arte de que se vale la política de estos tiempos para formar con menudos motivos desunidos entre sí el pretexto de acometer una guerra injusta y una usurpación violenta.»",
+              "autor": "Saav.",
+              "referencia_obra": "Rep (R. 25. 392 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Hacer que los que estaban unidos y concordes dejen de estarlo ( trans .).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Y es muy creíble que si la ambición pasara adelante, también cundiera entre ellos mismos y los desuniera.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit . 3. 23 (2. 160)."
+        },
+        {
+          "texto_cita": "«El pueblo se dividirá en opiniones, la diversidad dellas desunirá los ánimos; de donde nacerán las sediciones y conspiraciones.»",
+          "autor": "Saav.",
+          "referencia_obra": "Emp . 24 (R. 25. 66 2 )."
+        },
+        {
+          "texto_cita": "«No es el oficio del príncipe de desunir los ánimos, sino de tenellos conformes y amigos.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 89 (R. 25. 236 1 ),"
+        },
+        {
+          "texto_cita": "«Corrompieron [los filósofos del siglo XVIII] la razón y las costumbres de su patria para turbarla y desunirla.»",
+          "autor": "Jovell.",
+          "referencia_obra": "Def. de la Junta Central , apénd . 12 (R. 46. 599 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Compuesto del prefijo negativo des y unir . Port., cat. desunir ; fr. désunir ; it. disunire . Nebrija y Cristóbal de las Casas traen desuñir , que corresponde á uñir , tan usado en el siglo XVI. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

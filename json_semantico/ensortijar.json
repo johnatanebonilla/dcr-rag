@@ -1,0 +1,153 @@
+{
+  "lema": "ENSORTIJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Enroscar, torcer en redondo una cosa ( trans .). Se aplica más frecuentemente al cabello.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Peina o ensortija aquesos cabellos de ese tu nuevo Ganimedes que tibiamente te solicita.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . (R. 1. 117 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La melena --- caía --- con aquel ímpetu de ensortijarse.»",
+              "autor": "",
+              "referencia_obra": "Pellicer, Argenis, 2ª pte . (fol. 287 vº). RAE"
+            },
+            {
+              "texto_cita": "«Se presentaron en la citada Exposición diversos estudios microscópicos de la lana, que dan a conocer la manera de ensortijarse el vellón.»",
+              "autor": "",
+              "referencia_obra": "Gironi, Manual del tejedor de paños (ed. 1882, t. 1, p. 132). x"
+            },
+            {
+              "texto_cita": "«Zumban las moscas gordas y azules; corren las cochinillas tropezando despavoridas; se ensortijan y atirantan las lombrices en la frialdad de su suco.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 32. x"
+            },
+            {
+              "texto_cita": "«Brinca [el camino], se revuelve y se ensortija como un zarcillo de calabazar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . p. 102."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con dat. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El pelo moreno se le ensortijaba.»",
+              "autor": "Aldecoa",
+              "referencia_obra": ", El corazón, p. 32."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part . RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La ensortijada cola desenrosca | La bestia con sus silbos importuna.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq. (R. 17. 60 2 ). RAE"
+            },
+            {
+              "texto_cita": "«Sería capaz de mostrarle a usted, en usted misma, esa luz maravillosa brillando en su ensortijada cabellera como una diadema de fuego.»",
+              "autor": "Ganiv.",
+              "referencia_obra": "Pío Cid , p. 258. RAE"
+            },
+            {
+              "texto_cita": "«Moreno, de pelo negro y ensortijado, mirada noble y rostro bien adjetivado.»",
+              "autor": "Zunzunegui",
+              "referencia_obra": ", Estos hijos , p. 21."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado. RAE",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Un dandy ---, en el sentido de la moral, es una coqueta de mal género, que --- duerme con papalina o pañuelo por no estropear el ensortijado de sus sienes.»",
+              "autor": "",
+              "referencia_obra": "Museo Universal, 15 marzo 1859, p. 47 2 ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Enlazar o atar algo rodeándolo con una cuerda u objeto semejante ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con dat. y un compl. instrumental con la prep. con. +",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entonces con fuertes lazos | Ensortijándole el cuello, | Pies y cola, le aseguran | Como si estuviese muerto.»",
+              "autor": "",
+              "referencia_obra": "Rom . 1344 (R. 16. 391 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Part. Con de , para indicar aquello que rodea o sirve de atadura. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El parral está encierne; los pámpanos acaban de crecer, ensortijados de zarcillos que se quiebran de tan tiernos.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas, p. 26."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "met. x",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los aviones de las libélulas se tienden y vibran cogidos al temblor de una gramínea; se ve ondular su vida, ensortijada de verde, de rojo, de negro.»",
+              "autor": "Miró",
+              "referencia_obra": ", Años y leguas , p. 178."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Poner a un animal un aro de hierro en la nariz ( trans .) (cfr. Dicc. Acad .).",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "De en y sortija , y éste del lat. sorticula , derivación diminutiva de sors, -tis ‘suerte' (Para la evolución semántica, véase Corominas , DCEC sb. voc. Suerte ). \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

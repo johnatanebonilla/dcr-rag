@@ -1,0 +1,31 @@
+{
+  "lema": "APROPINCUARSE.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. refl . Acercarse (hoy no tiene uso sino en el lenguaje festivo). Se construye lo mismo que acercarse . «Cardiloro arremete á media rienda: | El toro vuelve, al bayo se apropinca, | Y del rejón, que un nácar ata en prenda, | La dura punta hasta los cercos hinca.» Lope , Angél . 1 ( Obr. suelt . 2. 11). «Deténte: | No te apropincues á mi.» Cald. No hay burlas con el amor, 1. 6 (R. 9. 312 1 . Habla una dama en estilo culto y pedantesco). «Miren cómo se apropincua | El filósofo á las faldas.» Bretón , El ingenuo, 2. 2 (1. 167).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Da tu lumbre caucasea | Pues a la fuente pegasea | Mis registros apropinco.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron . 31 (15 2 ). — Siglo XIIl:"
+        },
+        {
+          "texto_cita": "«Hi me fallarás ho y me espera. | Quiero seer comulgada, | Que por ello seré apropinquada.»",
+          "autor": "",
+          "referencia_obra": "S. M. Egipc . (R. 57. 316 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. appropinquare, comp. de ad, á, y propinquus, propincuo, cercano. La pronunciación apropincar en el ejemplo de Lope , puede ser exigencia de la rima. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

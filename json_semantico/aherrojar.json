@@ -1,0 +1,241 @@
+{
+  "lema": "AHERROJAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Poner provisiones de hierro ( trans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El mismo día herrojaron en ellas [ las galeras ] á los soldados desnudándolos del traje que traían y vistiéndoles el de remeros.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Pers. 3 . 12 (R. 1. 647 2 )."
+            },
+            {
+              "texto_cita": "«Dando á cada uno el testimonio de su sentencia, nos fueron aherrojando, y puestos en cuatro cadenas, nos entregaron á un comisario.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán, 2. 3 . 8 (R. 3. 354 2 )."
+            },
+            {
+              "texto_cita": "«Persiguiendo yo el nombre de Jesús Nazareno, me persuadía, sabiendo que había muerto crucificado, que podría obrar contra su gloria; lo que procuré en Jerusalén, aherrojando muchos de los santos en las cárceles por comisión de los sacerdotes.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 43 1 )."
+            },
+            {
+              "texto_cita": "«El mismo Herodes había enviado á prender á Juan y le había hecho aherrojar en la cárcel.»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Marcos , 6. 17."
+            },
+            {
+              "texto_cita": "«¿No miráis á esos fieros tiranos | Al nacer vuestros hijos sellar, | Aherrojar vuestros padres y hermanos, | Vuestro lecho y amor profanar?»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Poes. (1 . 38)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Para más alterar la gente sacaron en los estandartes su retrato aherrojado y puesto en cadenas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 18. 8 (R. 31. 12 1 )."
+            },
+            {
+              "texto_cita": "«Algunos mancebos hermosos y bien dispuestos se guardaron para llevar aherrojados á Roma para pompa y gloria del triunfo.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 4 . 16, § 3 (R. 6. 518 2 )."
+            },
+            {
+              "texto_cita": "«Josef, antes que fuese socorrido de Dios y levantado en el trono, se vio fatigado y aherrojado en la cárcel.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 2. 14 (R. 60. 434 1 )."
+            },
+            {
+              "texto_cita": "«¿No es éste el que en Jerusalén perseguía á los que invocaban este nombre, y vino aquí para llevarlos aherrojados á los príncipes de los sacerdotes?»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 20 2 )."
+            },
+            {
+              "texto_cita": "«Después de lo cual, yo quedo | Por esclavo aherrojado.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1 (R. 32. 107 2 )."
+            },
+            {
+              "texto_cita": "«Y saca de cadenas | Los pies injustamente aherrojados.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 3, salmo 145 (R. 37. 57 2 )."
+            },
+            {
+              "texto_cita": "«Lo tienen en la pública aherrojado | Sin darle cárcel, á quien es, decente.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La cueva de Salamanca, 1 (R. 20. 88 3 )."
+            },
+            {
+              "texto_cita": "«¿Soy yo, por ventura? ¿Soy | El que preso y aherrojado | Llego á verme en tal estado?»",
+              "autor": "Cald.",
+              "referencia_obra": "La vida es sueño , 2. 18 (R. 7. 12 3 )."
+            },
+            {
+              "texto_cita": "«Estos cautivos | A quien fueron los hados tan esquivos | Delante de mí pasen aherrojados.»",
+              "autor": "",
+              "referencia_obra": "Id. Los tres mayores prodigios , 2 (R. 7. 276 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con con, para expresar la clase de prisión.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tantos cargaron sobre Andrés, que le prendieron y le aherrojaron con dos muy gruesas cadenas.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 116 1 ). —"
+            },
+            {
+              "texto_cita": "«Aherrojándome imperiosos | Con sus cadenas fatales --- | Mandaron que atrás tornase.»",
+              "autor": "Mel.",
+              "referencia_obra": "Rom. dedic. (R. 63. 132 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estaba Pedro durmiendo entre dos soldados, aherrojado con dos cadenas.»",
+              "autor": "Scío",
+              "referencia_obra": ", Hechos apost. 12 . 6."
+            },
+            {
+              "texto_cita": "«Ahí le tuvo cinco meses custodiado con el mayor rigor y aherrojado con grillos y cadenas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Cervantes (R. 19. 89 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con en, en sentido análogo; pero si en β las prisiones aparecen como instrumento, aquí se representan como cosa en que está asegurado ó envuelto el preso. — Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así en larga cadena aherrojado, | El preso conde sin vivir vivía.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 1 (R. 17. 147 1 ). —"
+            },
+            {
+              "texto_cita": "«¡Qué me aprovechan los libros! | ¡Y qué en mi triste aposento | Morar como en cárcel dura | Aherrojado siempre en ellos!»",
+              "autor": "",
+              "referencia_obra": "Mel rom. 33 (R . 63. 149 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con á , para expresar el objeto á que está asegurado el preso. — Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Seguí siempre en lo público y secreto | Tu estandarte, y al carro aherrojado | Tu valor celebré con tierno afeto.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, eleg. 15 (R. 32. 289 1 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con de, para expresar la parte por donde está asegurado el preso. — Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El que tiene mujer es semejante á aquel que está de pies y manos aherrojado.»",
+              "autor": "Gran.",
+              "referencia_obra": "Esc. espir. 1 (R. 11. 290 2 ) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué me puede robar, dí, Posidonio? | ¿La libertad? No, no, que no le es dado | Hasta el alma llegar donde se anida, | Y aherrojarla no puede.»",
+              "autor": "Jovell.",
+              "referencia_obra": "epíst. 1 á Posidonio (R. 46. 44 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así curó mi mal con tal destreza | El sabio viejo, como te he contado, | Que volvió el alma á su naturaleza, | Y soltó el corazón aherrojado.»",
+              "autor": "Garcil.",
+              "referencia_obra": "egl. 1 (R . 32 . 15 2 )."
+            },
+            {
+              "texto_cita": "«¿Quién detuvo el poder de Marte airado, | Que no pasase más el alto monte, | Con prisiones de nieve aherrojado?»",
+              "autor": "Cerv.",
+              "referencia_obra": "eleg. á D. D. de Espin. (R. 1. 705 2 ) ."
+            },
+            {
+              "texto_cita": "«Los tiene [la costumbre] tan aherrojados y presos en estos vicios que no hallan camino para salir dellos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 4, diál. 11 , § 3 (R . 6. 598 2 )."
+            },
+            {
+              "texto_cita": "«Tal privilegio tiene el razonar de la persona de Cristo nuestro Señor, que pone en libertad la más aherrojada lengua.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios. A los doctores sin luz (R. 23 . 8) ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Yo sso la que fago partir al escasso, | E de sí al largo ferrojar los dientes.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 218."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Forma antigua aferrojar, comp. de á y ferrojar , derivado de ferrojo , que hubo de significar barra de hierro ( Alex . 98. 103), y corresponde á un diminutivo lat. ferruculum de ferrum, hierro (Diez, Gramm. 2. 300). De aquí también han salido el port. ferrolho, prov. verrolh, fr. verrou, cerrojo. La conexión entre cerrojo y prisión nos la muestra candado, prov. cadenat, fr. cadenas , de cadena. En port. aferrolhar es echar cerrojo y aherrojar.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Pros.",
+      "definicion": "Hasta el siglo XVII solía pronunciarse el ahe en dos sílabas, acaso por conservarse la aspiración en que se acababa de convertir la f ; de entonces acá se ha generalizado la pronunciación en una sola sílaba. Por los ejemplos aducidos se ve que seguían aquélla Castillejo, Garcilaso, Herrera, León, Cervantes y Valbuena; ésta se halla autorizada por Alarcón , Calderón , Meléndez, Jovellanos y Martínez de la Rosa. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

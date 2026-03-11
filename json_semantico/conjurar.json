@@ -1,0 +1,831 @@
+{
+  "lema": "CONJURAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Las acepciones se dividen en dos grupos: el más antiguo tiene por base el uso eclesiástico y judicial, que en la baja latinidad modificó el sentido del clásico conjurare; el otro grupo presenta este sentido intacto, y sus orígenes no parecen anteriores al siglo XV.",
+  "acepciones": [
+    {
+      "id": "1. (I)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Decir á una persona ó cosa exorcismos en la forma dispuesta por la Iglesia, para librarla de la influencia del espíritu maligno ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tan cierto les parecía que tenía demonio, que me querían conjurar algunas personas.»",
+          "autor": "Sta. Ter.",
+          "referencia_obra": "Vida , 29 (R. 53. 88 1 )."
+        },
+        {
+          "texto_cita": "«Había por entonces en un convento de dominicas de Cangas tres monjas endemoniadas, y el padre vicario, como era de su obligación, las conjuraba muy á menudo para sacarlas los demonios.»",
+          "autor": "Mor.",
+          "referencia_obra": "Auto de fe, nota 52 (R. 2. 626 2 )."
+        },
+        {
+          "texto_cita": "«¡Ah! Yo la conjuro á usted... | — ¿Estoy acaso endiablada?»",
+          "autor": "T. Iriarte",
+          "referencia_obra": ", La señorita malcriada , 1. 7 (7. 155)."
+        },
+        {
+          "texto_cita": "«Pues ¿su aposento? aun arañas no había en él; conjuraba los ratones de miedo qué no le royesen algunos mendrugos que guardaba.»",
+          "autor": "",
+          "referencia_obra": "Quev . Gran Tac. 3 (R. 23. 489 1 )."
+        },
+        {
+          "texto_cita": "«¿A qué propósito esa melancolía? Hazme gusto de conjurarla como se conjura á los nublados, para que vaya á descargar donde no haga daño.»",
+          "autor": "Isla",
+          "referencia_obra": ", Cart. famil. 1. 50 (R. 15. 445 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Represéntase un daño ó peligro que se impide ó evita bajo la imagen de una nube ó borrasca disipada con exorcismos ( trans. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Creyeron conjurar la nube, estrechando la confederación que tenía aquel rey con el príncipe de Viana.»",
+          "autor": "Quint.",
+          "referencia_obra": "Prínc. de Viana (R. 19. 243 2 )."
+        },
+        {
+          "texto_cita": "«Creyó poder conjurar la nube yendo á tratar personalmente con su enemigo.»",
+          "autor": "",
+          "referencia_obra": "Id. Obr. inéd. p. 172."
+        },
+        {
+          "texto_cita": "«Sólo intentaron por medio de treguas, de dádivas y ofrecimientos, conjurar la tormenta que les amagaba, y comprar unos cuantos años de vida.»",
+          "autor": "M. de la Rosa",
+          "referencia_obra": ", Esp. del siglo , 6. 5 (6.21)."
+        },
+        {
+          "texto_cita": "«Consiguió en pocos minutos conjurar y deshacer completamente aquella borrasca.»",
+          "autor": "A. Saav.",
+          "referencia_obra": "Masan. 2. 8 (5. 200)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2",
+      "definicion": ".",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Rogar ó pedir solemnemente, invocando el nombre de Dios, de los santos ó de otro objeto venerable ( trans. ). Con una prop. subj. ; el que parece tomarse en el sentido final de para que, de suerte que el verdadero acusativo es el nombre de persona.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El príncipe de los sacerdotes le conjuró por parte de Dios que le dijese quién era»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de Cristo (70)."
+            },
+            {
+              "texto_cita": "«Conjúrote de parte de Dios vivo, que nos digas si tú eres Cristo, hijo de Dios.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y consid. 1, miérc. por la mañ. (R. 8. 71 1 )."
+            },
+            {
+              "texto_cita": "«Mandaba á un compañero suyo que se la diese [la disciplina], conjurándole de parte de Cristo que cargase bien la mano sobre él.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 29, § 7 (R. 6. 368 2 )."
+            },
+            {
+              "texto_cita": "«Con muchas lágrimas le rogaron y conjuraron por Dios y por sus santos que no fuese á despeñarse, y á perder y destruír temerariamente su persona, fama, reino y todas sus cosas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 18 (R. 30. 487 2 )."
+            },
+            {
+              "texto_cita": "«Conjúrote por todo aquello que puedo conjurarte como católico cristiano, que me digas quién eres; y si eres alma en pena, díme que quieres que haga por ti.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 2. 55 (R. 1. 521 1 )."
+            },
+            {
+              "texto_cita": "«Por el siglo de tus pasados, Sancho mío, te conjuro que me digas una verdad: díme ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 57 (R. 1. 524 1 )."
+            },
+            {
+              "texto_cita": "«Os conjuro por la cosa que en esta vida más habéis amado ó amáis, que me digáis quién sois.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 1. 24 (R. 1. 309 2 )."
+            },
+            {
+              "texto_cita": "«Conjúrote, por lo que debes á tu bondad fidelísima, me seas buen intercesor con tu dueño.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 38 (R. 1. 484 2 )."
+            },
+            {
+              "texto_cita": "«No soy sombra vana sino cuerpo macizo. — Pues con todo eso, por la fuerza de mi desgracia te conjuro que me digas quién eres, y qué es lo que buscas por esta calle.»",
+              "autor": "",
+              "referencia_obra": "Id. La guarda cuidadosa ( Com. 1. 221)."
+            },
+            {
+              "texto_cita": "«Conjúrote, fantasma, ó lo que eres, que me digas quien eres.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 2. 48 (R. 1. 503 1 )."
+            },
+            {
+              "texto_cita": "«Con nuevo ruego y fime juramento | Me conjuró y rogó que le contase | La causa de mi grave pensamiento.»",
+              "autor": "Garcil.",
+              "referencia_obra": "égl. 2 (R. 32. 10 1 ). —"
+            },
+            {
+              "texto_cita": "«Para hacerlos presbíteros era menester forzarlos y taparles las bocas para que no conjurasen en el nombre del Señor que no los pusiesen en tan altos oficios.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer . 2. 2 (89). —"
+            },
+            {
+              "texto_cita": "«Yo le quiero probar evidentemente cómo no va encantado: si no, dígame, así Dios le saque desta tormenta, y así se vea en los brazos de mi señora Dulcinea, cuando menos piense. Acaba de conjurarme, dijo D. Quijote, y pregunta lo que quisieres, que ya te he dicho que te responderé con toda puntualidad.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 48 (R. 1. 392 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Solo él [Moisés] tuvo licencia para subir al monte, y la canalla y el pueblo se quedaron en la --- ladera de él, conjurados so pena de muerte, que no le inquieten ni despierten con sus clamores y voces importunas.»",
+              "autor": "J. de los Ángeles",
+              "referencia_obra": ", Conq. del reino de Dios , 8. 7 (320)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "En general, Pedir con instancia y con alguna especie de autoridad, rogar encarecidamente ( trans. ). Con una prop. subj.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Conjúroos, oh hijas de Jerusalén, si sabréis de mi amado, que le digáis que desfallezco de amor.»",
+          "autor": "León",
+          "referencia_obra": ", Nomb. 3, Amado (3. 352)."
+        },
+        {
+          "texto_cita": "«Conjúroos, moradores de la celestial Jerusalén, que si topáredes á mi amado, le digáis cómo estoy enferma de amor.»",
+          "autor": "Puente",
+          "referencia_obra": ", Medit. 5. 34 (3. 206)."
+        },
+        {
+          "texto_cita": "«A éste podrías tú muy bien conjurar, y pedirle te dijese cuál dellos halló más suave.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 1. 28, § 5 (R. 6. 109 2 )."
+        },
+        {
+          "texto_cita": "«Los despidió á todos conjurándolos guardasen secreto.»",
+          "autor": "Tirso",
+          "referencia_obra": ", Los tres maridos burlados (R. 18. 486 2 )."
+        },
+        {
+          "texto_cita": "«Nunca os puedo persuadir, | Por más que os conjuro y ruego, | A que acabéis de contarme ---»",
+          "autor": "",
+          "referencia_obra": "Id . El amor médico, 1. 2 (R. 5. 383 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "3.",
+      "definicion": "Juramentar, hacer declarar con juramento ( ant. ). Ocurre en los antiguos códigos.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Conjuré la esclava, y ella | --- confesó | Las verdaes sin martirio.»",
+          "autor": "Lope",
+          "referencia_obra": ", La estrella de Sevilla, 2. 9 (R. 24. 144 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "4. (II)",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Jurar juntamente con otros, ligarse mediante juramento ( ant. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "« Mucio Scévola dijo al rey que trescientos romanos habían conjurado consigo para le matar.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", Lab. 140 (58 2 ."
+            },
+            {
+              "texto_cita": "«Trecenti conjuravimus principes juventutis Romanae.»",
+              "autor": "",
+              "referencia_obra": ")."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "La idea de reciprocidad por una parte y por otra la analogía de ligarse , aliarse , han ocasionado el empleo de la construcción refl. en lugar de la intrans.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Allí los hijos de Ozmín --- se conjuraron de matarle.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 3 (R. 30. 464 1 )."
+            },
+            {
+              "texto_cita": "«A bandas y escuadras se prometían y conjuraban de en los peligros favorecerse los unos á los otros, y de no volver á sus casas si no era con la victoria.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16.7 (R. 30. 471 1 )."
+            },
+            {
+              "texto_cita": "«Conjuráronse todos de guardar su libertad, mirar por sus fueros, y si menester fuese, defenderlos con las armas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 16. 13 (R. 30. 478 2 )."
+            },
+            {
+              "texto_cita": "«Ellos con otros diez caballeros de su linaje, se habían conjurado de matar al rey y dividir el reino entre sí.»",
+              "autor": "Montem.",
+              "referencia_obra": "Diana , 4 (151)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con á y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos entiendo | Que os habéis á matarme conjurado.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Los favores del mundo , 3. 3 (R. 20. 15 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Hacer liga contra el soberano ó superior ó contra otra persona.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans . Con contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«A estos y á otros muchos herejes y personas principales que habían conjurado contra ella, deseaba la reina perdonar.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 2. 13 (R. 60. 247 1 )."
+            },
+            {
+              "texto_cita": "«Todos los pueblos y reyes y emperadores, todos de común consentimiento conjuraron contra ella.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 5. 2. 11 (R. 6. 627 2 )."
+            },
+            {
+              "texto_cita": "«Tomaron las armas y conjuraron contra el reino de Cristo.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 13 (R. 6. 312 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Corría por este mismo tiempo fama que toda Africa se conjuraba contra Cartago.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 1. 20 (R. 30. 25 1 )"
+            },
+            {
+              "texto_cita": "«En el entretanto Anio Scápula, es á saber aquel que se conjuró contra Longino ---»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 3. 20 (R. 30. 80 1 )."
+            },
+            {
+              "texto_cita": "«Se conjuraron contra ella y la quisieron matar.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 2. 40 (R. 60. 285 2 )."
+            },
+            {
+              "texto_cita": "«Yo pienso que si acaso los hermanos | Que contra tu corona se conjuran ---»",
+              "autor": "Lope",
+              "referencia_obra": ", El duque de Viseo, 1. 10 (R. 41. 425 1 )."
+            },
+            {
+              "texto_cita": "«¿No fuiste tú quien me afirmó por cierto | Que el duque contra mí se conjuraba?»",
+              "autor": "",
+              "referencia_obra": "Id. La inocente Laura, 3. 12 (R. 52. 494 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con con , para expresar el cómplice ó cómplices de la conjuración.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué hizo el conde? --- | — Probar ansí que con vos | Se conjura, y al de Francia | Vender á Milán pretende.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Del enemigo el primer consejo , 3. 11 (R. 5. 667 2 )."
+            },
+            {
+              "texto_cita": "«Deseosos | Del bien común, conmigo se conjuran.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", No hay mal que por bien no venga , 3. 2 (R. 20. 189 3 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. dep. Que se conjura, que entra en una conjuración. Se usa á menudo como sust.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dentro del palacio del rey don Pedro el Cuarto de Aragón entraron los conjurados contra él, y poniéndose delante dellos los sosegó.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 73 (R. 25. 200 2 )."
+            },
+            {
+              "texto_cita": "«Viendo que no podía escapar de los conjurados que lo buscaban para matarle, él los libró de ese trabajo matándose con sus manos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Símb. 2. 28 (R. 6. 357 1 )."
+            },
+            {
+              "texto_cita": "«Escribe Tulio hablando de Catilina y de los otros conjurados, que habían tragado ya todas sus rentas y patrimonios.»",
+              "autor": "",
+              "referencia_obra": ". Id. Orac. y consid. 3. 2. 2, § 4 (R. 8. 186 1 )."
+            },
+            {
+              "texto_cita": "«En el mismo instante que los conjurados empezaron á dar la muerte á César, se turbaron de suerte que por herirle se hirieron unos á otros.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 153 2 )."
+            },
+            {
+              "texto_cita": "«Las armas se les cayeron á los conjurados viendo el agradable semblante de Alejandro.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 39 (R. 25. 99 1 )."
+            },
+            {
+              "texto_cita": "«Los demás conjurados derramaron luégo sus tropas y trataron de recurrir desarmados á la clemencia de su rey.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 2 (R. 28 304 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Ponerse de acuerdo muchas personas, obrar de consuno muchas cosas para hacer daño á alguno ó perderle.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Intrans.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Conjurastes contra Dios? Justo es que conjure toda la universidad del mundo contra vosotros.»",
+              "autor": "Gran.",
+              "referencia_obra": "Guía , 1. 3 (R. 6. 21 1 )."
+            },
+            {
+              "texto_cita": "«Parece que de todas partes les tiran saetas, y que todas las criaturas han conjurado contra ellos.»",
+              "autor": "",
+              "referencia_obra": "Id. Mem. vida crist. 1. 1, § 1 (R. 8. 206 2 )."
+            },
+            {
+              "texto_cita": "«Persígame uno, inquiéteme otro, conjuren contra mí todas las criaturas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 1. 2. (R. 8. 211 1 )."
+            },
+            {
+              "texto_cita": "«Pues ¿adónde, Virgen, miraréis, cuando el cielo y la tierra parece que han conjurado contra vos?»",
+              "autor": "",
+              "referencia_obra": "Id. Adic. al Mem. med. 17, § 1 (R. 8. 564 1 )."
+            },
+            {
+              "texto_cita": "«Todas las criaturas son lazos para los pies de los hombres ignorantes, y todas ellas parece que han conjurado contra nosotros.»",
+              "autor": "",
+              "referencia_obra": "Id. Símb . 3. 18 (R. 6. 429 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en , para expresar el objeto de la conspiración.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya todo el mundo se mueve | A conjurar en mi daño.»",
+              "autor": "Mend.",
+              "referencia_obra": "carta Gloria y descanso (R. 32. 94 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Refl .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por más que se conjuren | El odio y el poder y el falso engaño, | Y ciegos de ira apuren | Lo propio y lo diverso, ajeno, extraño, | Jamás le harán daño.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, No siempre es poderosa (4. 300)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todos se conjuran contra el que más sabe, ó es envidia, ó defensa de la ignorancia, si ya no es que tienen por sospechoso lo que no alcanzan.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 43 (R. 25. 110 1 )."
+            },
+            {
+              "texto_cita": "«Mucho tiembla este edificio. | Todos contra él se conjuran.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo , 2. 15 (R. 20. 74 2 )."
+            },
+            {
+              "texto_cita": "«Cada día | Mis hermanos á porfía | Se conjuran contra mí.»",
+              "autor": "Cald.",
+              "referencia_obra": "La dama duende , 2. (R. 7. 176 1 ). —"
+            },
+            {
+              "texto_cita": "«Mas á mi ¿quién habrá que me asegure | Que mi mala fortuna con mudanza | Y olvido contra mí no se conjure?»",
+              "autor": "Garcil.",
+              "referencia_obra": "eleg. 2 (R. 32. 26 2 )."
+            },
+            {
+              "texto_cita": "«De manera que parece que todas las cosas que crió Dios para servicio del hombre se conjuran contra el hombre, y son tanto para su daño como para su servicio.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Trib. 1. 2 (R. 60. 362 1 )."
+            },
+            {
+              "texto_cita": "«Contra aquellos que no están bien con Dios, y los deja de su mano, se conjuran y hacen á una los hombres y todos los males e infortunios del mundo.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 16. 18 (R. 30. 487 2 )."
+            },
+            {
+              "texto_cita": "«Todo parece que se conjuró contra mí, el cielo y los hombres y Dios .»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 3 (1. 36)."
+            },
+            {
+              "texto_cita": "«Parece | Que contra mí amotinada [la saña de la fortuna] | O se conjura ó se mueve.»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios, loa (R. 7. 264 2 ) ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De ser conde no estuvo en un tantico, | Si no se conjuraran en su daño | Insolencias y agravios del tacaño | Siglo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij. 1 , son. á Sancho Panza (R. 1. 401 2 )."
+            },
+            {
+              "texto_cita": "«Sin duda cosas tales | Que en nuestro daño todas se conjuran, | De venideros males | Muestras nos aseguran.»",
+              "autor": "León",
+              "referencia_obra": ", Poes. 1, Los que tenéis en tanto (4. 361)."
+            },
+            {
+              "texto_cita": "«Ni se sabrá tampoco, si los cielos | No se conjuran en tu daño y mío.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los locos de Valencia , 1. 14 (R. 24. 121 2 )."
+            },
+            {
+              "texto_cita": "«Fuese. ¡Todo así | Se conjura en afligirme!»",
+              "autor": "Alarcón",
+              "referencia_obra": ", Quien mal anda, en mal acaba, 1. 19 (R. 20. 217 1 ) ."
+            },
+            {
+              "texto_cita": "«Así todo se conjuraba en España en ruina del desdichado don Carlos.»",
+              "autor": "Quint.",
+              "referencia_obra": "Prínc. de Viana (R. 19. 241 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Part. dep. Que conspira.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con contra.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cielo contra mi gloria conjurado.»",
+              "autor": "F. de la Torre",
+              "referencia_obra": ", 3, égl. 5 (120)."
+            },
+            {
+              "texto_cita": "«¿Cómo quieres | Que triunfe de dos mujeres | Conjuradas contra mí?»",
+              "autor": "Bretón",
+              "referencia_obra": ", ¡Qué hombre tan amable! 3. 16 (3. 271)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β β )",
+          "definicion": "Con en.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mas torno sin cesar á la mudanza | De la suerte, en mi daño conjurada.»",
+              "autor": "Herr.",
+              "referencia_obra": "1, son . 138 (R. 32. 286 1 )."
+            },
+            {
+              "texto_cita": "«Todo les es enemigo, y como conjurado en su daño les hace guerra todo, los hombres, los animales, la tierra.»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 5 (1. 82)."
+            },
+            {
+              "texto_cita": "«Mi mal no ablanda y mueve | Vuestra alma en mi desdicha conjurada.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 (R. 1. 32 1 )."
+            },
+            {
+              "texto_cita": "«[Pecho] A quien el fuego, el aire, el mar, la tierra | Hacen contigo guerra, | Todos en su desdicha conjurados.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 4 (R. 1. 53 2 )."
+            },
+            {
+              "texto_cita": "«Conjuradas están en daño mío | Cuantas cosas aplico á mi provecho.»",
+              "autor": "L. Argens.",
+              "referencia_obra": "son. que principia así (R. 42. 265 2 )."
+            },
+            {
+              "texto_cita": "«Morir unidos | Demandamos al cielo en noche aciaga, | Cuando natura toda parecía | En nuestro daño y ruina conjurada.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", La tormenta (1. 42)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ γ )",
+          "definicion": "Con con.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Juntas estáis en la memoria mía, | Y con ella en mi muerte conjuradas.»",
+              "autor": "Garcil.",
+              "referencia_obra": "son. 10 (R. 32. 33 1 )."
+            },
+            {
+              "texto_cita": "«El enemigo brazo levantado | Me espera y la feroz aguda espada, | Contra mí con tu saña conjurado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 3 (R. 1. 34 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "En general, Ponerse de acuerdo, convenirse, tanto en buena como en mala parte.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estando ellos y sus libros tan esparcidos por todo el mundo, que ninguna nación ni libro lo están tanto, es imposible conjurarse todos en hacer esta falsedad y alevosía.»",
+          "autor": "Sig.",
+          "referencia_obra": "Vida de S. Jer. 4. 4 (260)."
+        },
+        {
+          "texto_cita": "«Si dudas, pregunta á los hebreos: pues será cosa difícil que se hayan conjurado todos en mi favor.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 5. 11 (523)."
+        },
+        {
+          "texto_cita": "«No duerma seguro --- confiando que bastará la comunidad de su pueblo á librarle, aunque se levante y se conjure toda para su defensa.»",
+          "autor": "León",
+          "referencia_obra": ", Expos. de Job, 36 (2. 226)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "e)",
+      "definicion": "El uso refl. ha sugerido el trans. ; así",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El se conjura»",
+          "autor": "",
+          "referencia_obra": "ha dado margen á"
+        },
+        {
+          "texto_cita": "«El los conjura,»",
+          "autor": "",
+          "referencia_obra": "esto es, los hace entrar en la conjuración, los subleva (hoy no tiene uso)."
+        },
+        {
+          "texto_cita": "«¿Qué armas ha juntado Carlos, | Qué escuadrones ha compuesto, | Qué vasallos os conjura, | O qué castillos ha hecho?»",
+          "autor": "Mto.",
+          "referencia_obra": "La misma conciencia acusa, 2. 3 (R. 39. 109 3 )."
+        },
+        {
+          "texto_cita": "«No faltó quien procuró | De secreto conjurar | La gente.»",
+          "autor": "Cald.",
+          "referencia_obra": "La gran Cenobía , 2. 2 (R. 7. 193 2 )."
+        },
+        {
+          "texto_cita": "«Yo disimulo y convengo | En ello, que mientras viene | La dispensacion, intento, | Conjurando mis vasallos, | Tenerlo todo deshecho.»",
+          "autor": "Rojas",
+          "referencia_obra": ", Casarse por vengarse , 1 (R. 54. 106 3 )."
+        },
+        {
+          "texto_cita": "«Sabed que tengo noticia | Que á mi hermano desde ayer | Tenéis oculto en la quinta, | Y que viene, á conjurar, | Lo más noble de Sicilia | Por quitarme la corona.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. 3 (R. 54. 118 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Concibieron tan dañado concepto, que algunas veces conjuraron contra él para lo prender ó matar.»",
+          "autor": "Pulgar",
+          "referencia_obra": ", Clar. var. 1 (8)."
+        },
+        {
+          "texto_cita": "«Señor Jesu Christo, | Por él te conjuro que digas quien eres.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 352."
+        },
+        {
+          "texto_cita": "«E si le dixeren que beba aquel vino por amor del señor, ó si le conjuraren por la cabeza del señor, hanlo de heber todo, que una sola gota non dexen.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 157. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Et los pesquiridores deuen fazer al querelloso e a los otros dos sobredichos --- poner las manos sobre sanctos euangelios, et conjurenlos que digan la verdat de lo que sopieren de aquello que les preguntaren, e desque todos tres fueren conjurados ---»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 576)."
+        },
+        {
+          "texto_cita": "«En buen hora, don fulano, pues tanto me conjurastes et me afincastes que comiese convusco, non me semeja que seria guisado en contradecir tanto vuestra voluntad nin vos facer quebrantar vuestra jura.»",
+          "autor": "J. Man.",
+          "referencia_obra": "C. Luc. 34 (R. 51. 385 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Conjuról e rogól que le dixese verdad si era ome fidalgo.»",
+          "autor": "",
+          "referencia_obra": "Crón. gen. 3. 20 (254 2 )."
+        },
+        {
+          "texto_cita": "«Conjuróles muy fuertemente este rey e mandóles por mandamiento que amassen siempre al senado e al pueblo de Roma.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 32 (166 2 )."
+        },
+        {
+          "texto_cita": "«Sant Pedro conjuraua aquellos malos espritos por la virtud de Dios.»",
+          "autor": "",
+          "referencia_obra": "Ib . 1. 111 (82 2 )."
+        },
+        {
+          "texto_cita": "«E el que tomare la jura de aquel que deuiere jurar, halo de conjurar desta guisa.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Jerez , año 1268 ( C. de L. y C . 1. 82)."
+        },
+        {
+          "texto_cita": "«Entonce el judgador debe tomar la jura á aquel que pide la carta en aquella mesma manera que desuso deximos, et demas debel conjurar que non es pagado de aquella debda de que pide quel refagan la carta.»",
+          "autor": "Part.",
+          "referencia_obra": "3. 19. 11 (2. 640)."
+        },
+        {
+          "texto_cita": "«Et aquel que tomare la jura del que hobiere de jurar, hale de conjurar deciendo de esta guisa: Vos me jurades por Dios Padre ---»",
+          "autor": "Part.",
+          "referencia_obra": "3. 11. 19 (2. 484)."
+        },
+        {
+          "texto_cita": "«Estos han poder de conjurar en el nombre de Dios á los demonios que salgan de los hornes et que non tornen á ellos jamas.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 6. 11 (1. 258)."
+        },
+        {
+          "texto_cita": "«Cómo deben conjurar la sal que meten en la boca al que quieren bautizar.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 15 (1. 58)."
+        },
+        {
+          "texto_cita": "«E aquel que tomare la iura de aquel que deve iurar, y a lo de coniurar desta guisa ---»",
+          "autor": "Leyes nuevas",
+          "referencia_obra": ", 27 ( O. L. 2. 194)."
+        },
+        {
+          "texto_cita": "«E estos deven jurar, conjurandolos de aquella manera que dixiemos en esta otra ley, digan verdat destas tres cosas sobre aquel fecho me les demandan.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 201)."
+        },
+        {
+          "texto_cita": "«Conjura al diablo por meterlo en alguno, et si bien non le sabe conjurar, entra el diablo en él mismo.»",
+          "autor": "",
+          "referencia_obra": "Cal. y Dymna (R. 51. 48 1 )."
+        },
+        {
+          "texto_cita": "«Conjurólos que sacassen el ataut lo mas noblemiente e lo mas apuesto que pudiessen.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 53)."
+        },
+        {
+          "texto_cita": "«E rrogólos e conjurólos que por amor de Dios, queI’ tomassen lo que tenie, e que nol’ matassen.»",
+          "autor": "",
+          "referencia_obra": "Ib. (Knust, 2)."
+        },
+        {
+          "texto_cita": "«Ningund ñino, que sea ferido, non deve ser conjurado fasta siete años, mas deve ser conjurada la madre o el ama que lo cria, e vale el apreciamiento.»",
+          "autor": "Fuero",
+          "referencia_obra": "viejo, 2. 1. 8 (65)."
+        },
+        {
+          "texto_cita": "«E que los coniuren con las iuras que son en esta constitucion.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo, 12. 3. 13 (194)."
+        },
+        {
+          "texto_cita": "«Coniurámoslos por Dios el padre sancto que ellos amonesten á los alcaldes.»",
+          "autor": "",
+          "referencia_obra": "Ib. 12. 1. 3 (175)."
+        },
+        {
+          "texto_cita": "«E non deve venir al sagramiento de las partes nin las deve coniurar livianamientre.»",
+          "autor": "",
+          "referencia_obra": "Ib. 2. 1. 21 (18)."
+        },
+        {
+          "texto_cita": "«He amonestamos los nuestros príncipes et coniuramos pella Sancta Trinidad, que ellos non parcant á los clérigos ó á los legos que esto fecierent.»",
+          "autor": "",
+          "referencia_obra": "Ib. preámb. 10 (XI)."
+        },
+        {
+          "texto_cita": "«Fuelo coniurar por Dios e por su ley, | Que quisies emplegar la su lança en el.»",
+          "autor": "Alex.",
+          "referencia_obra": "1008 (R. 57. 178 2 )."
+        },
+        {
+          "texto_cita": "«Dixo, yo te coniuro, maestro e amigo, | Por ell amor que yo tengo estableçido contigo, | Como tu lo entiendes, que lo fables conmigo.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 230 (R. 57. 291 1 )."
+        },
+        {
+          "texto_cita": "«Dixo el leedor, por Christo te coniuro, | Que me digas que vedes, que me fagas seguro.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom. 694 (R. 57. 62 1 )."
+        },
+        {
+          "texto_cita": "«Por Dios vos coniuramos, deçitnos la verdat.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil. 444 (R. 57. 117 1 )."
+        },
+        {
+          "texto_cita": "«Conjurola Amunna a su fixuela Oria: | Fija --- | Deçitmelo demientre avedes la memoria.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria, 172 (R. 57. 142 2 )."
+        },
+        {
+          "texto_cita": "«Coniuro-te por Dios el grant | Que non vayas daqui adelant.»",
+          "autor": "",
+          "referencia_obra": "S.M. Egipc. (R. 57. 315 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port., cat., prov. conjurar; fr . conjurer; it . congiurare: del lat. conjurare, comp. de cum , con, y jurare , jurar, es decir, jurar juntamente; como queda anotado, el sentido de éste se modificó en la baja latinidad, acomodándose sin duda á los usos de adjurare. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

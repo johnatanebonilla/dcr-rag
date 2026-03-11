@@ -1,0 +1,76 @@
+{
+  "lema": "ANHELANTE.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que anhela ó respira con dificultad.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Casi toda la plaza estaba ocupada de acémilas cargadas dellos [de libros]; y algunas, aunque traían uno solo, llegaban sudadas y anhelantes: tal es el peso de una carga de necedades, insufrible aun á los lomos de un mulo.»",
+          "autor": "Saav.",
+          "referencia_obra": "Rep . (R. 25. 395 1 )."
+        },
+        {
+          "texto_cita": "«El segador anhelante | En ti en la siesta abrasada | Llamó al sueño, que en sus brazos | Calmó su congoja amarga.»",
+          "autor": "Mel.",
+          "referencia_obra": "rom . 3 (R. 63.133 3 )."
+        },
+        {
+          "texto_cita": "«Llamas de nuevo | Con medidos compases | Al fugaz cefirillo | A tu seno anhelante.»",
+          "autor": "",
+          "referencia_obra": "Id. oda 42, El abanico (R. 63. 103 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Ansioso.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si corres como Dafne, y mis fortunas | Corren también á su esperanza vana | En seguirte anhelantes y importunas, | ¿Cuándo serás laurel, dulce tirana?»",
+          "autor": "Lope",
+          "referencia_obra": ", Rimas de Burg. son . 22 ( Obr. suelt . 19. 22)."
+        },
+        {
+          "texto_cita": "«Mi espíritu anhelante | Te sigue al ecuador, te halla en el polo.»",
+          "autor": "Quint.",
+          "referencia_obra": "Poes. Al mar (R. 19. 20 1 )."
+        },
+        {
+          "texto_cita": "«Ya tras el bien perdido | Vaga anhelante y con dolor suspira.»",
+          "autor": "",
+          "referencia_obra": "Id. ib. A Luisa Todi (R. 19. 6 2 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con de , para expresar el objeto del ansia ó deseo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los árabes, anhelantes de sombra y de bebida, habían fantaseado su paraíso como un lugar de delicias lleno de frescura y de fuentes murmuradoras.»",
+              "autor": "Valera",
+              "referencia_obra": ", Poes. y arte de los árabes , 3, p. 34."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Lat. anhelantem , anhelans , part. de anhelare , anhelar. Esta voz parece introducida por los culteranos; después de visto el pasaje siguiente de Góngora, léase Moreto, El lindo don Diego , 2. 8 (R. 39. 361 2 ):",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«A media rienda en tanto el anhelante | Caballo, que el ardiente sudor niega, | En cuantas le densó nieblas su aliento | A los indignos de ser muros llega | Céspedes.»",
+          "autor": "Góng.",
+          "referencia_obra": "Soled . 2 (R. 32. 477 1 ). \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

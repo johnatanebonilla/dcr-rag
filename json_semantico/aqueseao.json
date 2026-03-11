@@ -1,0 +1,56 @@
+{
+  "lema": "AQUESE, A, O.",
+  "categoria_gramatical": "",
+  "introduccion": "AQUESE, A, O. Pronombre demostrativo sinónimo de ese. De frecuente uso en nuestros clásicos, es hoy absolutamente inusitado en prosa, y apenas admisible en verso. «Pues antes que aqueso sea, | Bóreas y yo, señores, | Nos damos por servidores | A la señora Febea.» T. Naharro , Himenea, 5 (R. 2. 241 3 ). «Yo creo que soy aquese por quien preguntáis.» L. de Rueda , Eufemia, 2. 4 (R. 2. 254 1 ). «Toma y dale á aqueso y vaya con Dios.» Id. ib . 3. 3 (R. 2. 256 1 ). «Traedme, señor huésped, aquesos libros, que los quiero ver.» Cerv. Quij. 1. 32 (R. 1. 339 1 ). «El descuido pasado nuestro ha sido | El que os hace hablar de aquesa suerte.» Id. Numancia, 1 (Arrieta, 10. 15). «Yo confieso | Que fuera bueno aqueso que ahora haces.» Garcil. égl. 2 (R. 32. 9 1 ). «Ni pienses que á la muerte tengo miedo, | Que quesa es de los prósperos temida.» Erc. Arauc. 34 (R. 17. 126 1 ). «Eso mismo es por lo que el demonio andaba, aunque iba por rodeo de traer pensamientos diferentes de queso.» Avila, Audi , 26 ( Míst. 3. 176). «Luégo que obligada | Tuviste la cabeza á tu promesa, | Saliste mejorada, | Resplandeciendo mucho más aquesa | Hermosura que antes, | En tu amor enredando mil amantes.» L. Argens, trad. de Hor. od. 2. 8 (R. 42. 289 2 ). «¿Todas aquellas fierezas | Paran en esas tristezas | Y en aquesos tiernos lloros?» Lope , El dómine Lucas, 1. 4 (R. 24. 45 3 ). «Almas, les dice, vuestro vuelo santo | Seguir pienso hasta aquesos sacros nidos.» Góng. son. 109 (R. 32. 440 1 ). «Llega aquesas sillas, Celia, | Que aquí estaremos mejor | Que en el estrado.» Cald. Casa con dos puertas , 2. 1 (R. 7. 134 3 ). «Templad, Leonor, la tirana | Pasión, advirtiendo aquí | Que todo aqueso es así.» Id. Mañana será otro día , 3. 8 (R. 7. 541 3 ). «El les aconsejó que aquesa estatua | En vez del Paladión aquí erigieran.» T. Iriarte , Eneida , 2 (3. 105). «No han de veros de aquesa manera.» Hartz. Los amantes de Teruel , 2. 4 (8).",
+  "acepciones": [
+    {
+      "id": "Per. antecl.",
+      "definicion": "— Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«El estaba allí para los socorrer cada que menester lo oviessen, é aqueso mismo el príncipe su fijo.»",
+          "autor": "",
+          "referencia_obra": "Crón. Álv. de Luna , 55 (149)."
+        },
+        {
+          "texto_cita": "«Al pie d ’ aquessa montaña, | La que diçen de Berçosa, | Vi guardar muy grand cabaña | De vacas moça fermosa.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 475. — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Lievate dende apriesa, desvuelvete de aques hato.»",
+          "autor": "",
+          "referencia_obra": "Arc. de Hita, 945 (R. 57. 256 2 )."
+        },
+        {
+          "texto_cita": "«Mas porque cada dia veo pasar esto, | Por aqueso lo digo, otrosi veo aquesto.»",
+          "autor": "",
+          "referencia_obra": "Id. 141 (R. 57. 231 2 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Por seso deben los homes conoscer la tierra et saber para qué será mas provechosa, et adobarla, et endereszarla por maestría segunt aqueso.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 20. 6 (2. 195)."
+        },
+        {
+          "texto_cita": "«Por eso vos digo aqueso, que byen lo entendades.»",
+          "autor": "Fern.",
+          "referencia_obra": "Gonz. 146 (R. 57. 393 2 )."
+        },
+        {
+          "texto_cita": "«Segunt dize sant Agostin, | Ya non es buena aqueixa fin, | Que pues que a la muerte viene, | Nin puede fer mal nin biene.»",
+          "autor": "S. M. Egipc.",
+          "referencia_obra": "(R. 17. 307 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. ant. aquesse . Representa los elementos latinos eccu ’ ipse . Véase AQUEL , ACÁ , etc. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

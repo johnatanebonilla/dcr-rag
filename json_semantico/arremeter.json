@@ -1,0 +1,518 @@
+{
+  "lema": "ARREMETER",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Hacer entrar. Este significado no aparece sino en la aplicación especial de Hacer al caballo partir ó arrancarcon ímpetu ( trans .) ( ant. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tan de veras aprendió esta verdad, que sin hacer otro discurso, arremetió su caballo hacia D. Juan.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Nov . 10 (R. 1. 218 1 )."
+        },
+        {
+          "texto_cita": "«El señor Lorenzo, que desde algo lejos miraba estas ceremonias, no pensando que lo eran de cortesía, sino de cólera, arremetió su caballo.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . (R. 1. 218 1 )."
+        },
+        {
+          "texto_cita": "«D. Quijote se gallardeó en la silla, púsose bien en los estribos, acomodóse la visera, arremetió á Rocinante, y con gentil denuedo fue á besar las manos á la Duquesa.»",
+          "autor": "",
+          "referencia_obra": "Id. Quij . 2. 30 (R. 1. 468 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "2.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Refl . Meterse con ímpetu, acometer (ant).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Estuve dos ó tres veces por me arremeter á ella, sino que me empachaba la vergüenza de verla tan hermosa y arreada, y á mí con una capa vieja ratonada.»",
+          "autor": "",
+          "referencia_obra": "Celest . 19 (R. 3. 68 1 ). —"
+        },
+        {
+          "texto_cita": "«Arremetióse Morilla, y comiéronla lobos:»",
+          "autor": "",
+          "referencia_obra": "refr. que se halla ya en el Marqués de Santillana y el Comendador Griego, y con el cual se reprende á los que se meten en riesgos superiores á sus fuerzas."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "Refl. met. Meterse, arrogarse algún título ó dignidad ( ant. ). Con á y un pred.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Los hidalgos dicen que no conteniéndose vuesa merced en los límites de la hidalguía, se ha puesto don, y se ha arremetido á caballero con cuatro cepas y dos yugadas de tierra y con un trapo atrás y otro adelante.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij. 2. 2 (R. 1. 409 1 )."
+        },
+        {
+          "texto_cita": "«Está vestida de tinta | Muy prepotente una ley, | Quitando haciendas y vidas, | Y arremetiéndose á rey.»",
+          "autor": "Quev.",
+          "referencia_obra": "Musa 6 , rom. 12 (R. 69. 160 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "Intrans. Acometer con ímpetu y furia.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arremetía como un león irritado, pero salíale al encuentro un tapaboca de la zapatilla de la espada del licenciado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 19 (R. 1. 444 1 )."
+            },
+            {
+              "texto_cita": "«Tornó á tomar otro poco más del campo, porque vio que su contrario hacía lo mismo, y sin tocar trompeta ni otro instrumento bélico que les diese señal de arremeter, volvieron entrambos á un mismo punto las riendas á sus caballos.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 64 (R. 1. 542 1 )."
+            },
+            {
+              "texto_cita": "«Arremeted con el ayuda de Dios y de nuestro profeta Mahoma, venced los enemigos, que traen despojos, no armas.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp. 6. 23 (R. 30. 182 2 )."
+            },
+            {
+              "texto_cita": "«Al cabo se vieron apartar una tropas de otras y apercebirse todas para arremeter.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 7 (R. 28. 94 2 )."
+            },
+            {
+              "texto_cita": "«Tenía su campo en torno de la cuesta, | Y mandado que nadie se moviese | Un paso á comenzar la dura fiesta | Hasta que el són de arremeter se oyese.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 4 (R. 17. 22 1 )."
+            },
+            {
+              "texto_cita": "«Una, cuatro y diez veces arremete, | Poco el arremeter aprovechando.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 5 (R. 17. 23 1 )."
+            },
+            {
+              "texto_cita": "«Se mete | Cual perro espumajoso, que rabiando | Adonde más le hieren arremete.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 19 (R. 17. 73 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Quevedo pluralizó el infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Revocóle el infierno los poderes, | Y todo se encendió de arremeteres.»",
+              "autor": "",
+              "referencia_obra": "Nec. de Orl. 1 (R. 69. 292 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á para señalar la persona acometida.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arremetiendo al soldado con mucha presteza y más cólera, le arrancó su misma espada de la vaina.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 1 (R. 1. 116 1 )."
+            },
+            {
+              "texto_cita": "«Poniendo las espuelas á los caballos, arremetieron el uno al otro, con muestras de ser mortales enemigos.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 9 (R. 1. 210 1 )."
+            },
+            {
+              "texto_cita": "«Sin hacer más discursos, echó mano á su espada y arremetió á los yangüeses.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 15 (R. 1. 283 2 )"
+            },
+            {
+              "texto_cita": "«D. Quijote puso mano á su espada, y arremetió á los cuadrilleros.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 45 (R. 1. 383 1 )."
+            },
+            {
+              "texto_cita": "«Viendo lo cual Sancho Panza, se puso en pie, y arremetiendo á su amo, se abrazó con él á brazo partido.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 60 (R. 1. 530 2 )."
+            },
+            {
+              "texto_cita": "«Con gran brío y alegría arremetieron á los enemigos.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 17. 13 (R. 30. 518 2 )."
+            },
+            {
+              "texto_cita": "«Arremetiendo los unos á los otros, se trataban de monederos falsos de la verdad.»",
+              "autor": "",
+              "referencia_obra": "Quev . Hora de todos, 7 (R. 23. 387 1 )."
+            },
+            {
+              "texto_cita": "«Y arremetiendo al conde, que venía | En igual ademán y brio de dalle, | Un escuadrón entero que huía | Al uno y otro les tomó la calle.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern. 24 (R. 17. 396 2 )."
+            },
+            {
+              "texto_cita": "«Guzmán al frente de mil y seiscientos cristianos, y de algunos moros que también le siguieren, salió en busca de los rebeldes, á quienes arremetió y con grande estrago ahuyentó hasta sus tiendas.»",
+              "autor": "Quint.",
+              "referencia_obra": "Guzmán el Bueno (R. 19. 212 1 ). —"
+            },
+            {
+              "texto_cita": "«Estuvo hasta cerca del día aguardando el contraseño que le había de hacer la espía para arremeter con la menguante á la baja villa.»",
+              "autor": "Coloma",
+              "referencia_obra": ", Guerras de los Est. Bajos, 2 (R. 28. 17 2 )."
+            },
+            {
+              "texto_cita": "«Diez veces fueron | Las que sañudos los feroces galos | Al arruinado fuerte arremetieron.»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Zaragoza (1. 86)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Este complemento no es convertible en un dat. ó acus. pron., lo cual demuestra que el verbo no es aquí trans. Nótese que tampoco se omite la prep. antes de un nombre de cosa: arremeter á la villa, al fuerte.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Sancho Panza, que vio en el suelo al fraile, apeándose ligeramente de su asno, arremetió á él, y le comenzó á quitar los hábitos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 8 (R. 1. 270 2 )."
+            },
+            {
+              "texto_cita": "«Vive el Señor, don bacallao, alma de almirez, cuesco de dátil, más terco y duro que villano rogado cuando tiene la suya sobre el hito, que si arremeto á vos, que os tengo de sacar los ojos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 70 (R. 1. 551 2 )."
+            },
+            {
+              "texto_cita": "«No pudieron los portugueses oír aquellas consideraciones trágicas, y no de mujer bárbara; y arremetiendo á ella le arrebataron el hijo, que forcejando se les defendía.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "( Capm. Teatro , 4. 388)."
+            },
+            {
+              "texto_cita": "«Como las viesen muy lindas, con la rabia y espíritu diabólico que traen consigo, arremetieron á ellas y les dieron muchas cuchilladas en las caras, para afearlas y desfigurarlas.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma , 3. 3 (R. 60. 306 1 )"
+            },
+            {
+              "texto_cita": "«Así lo hizo, y luégo que entregó la espada y le cogieron entre todos, el Fuentes arremetió á él y le degolló con una daga.»",
+              "autor": "Quint.",
+              "referencia_obra": "Pizarro (R. 19. 359 2 )."
+            },
+            {
+              "texto_cita": "«Y como una vez añadiese de motu proprio ¡viva Masanielo! éste indignado arremetió á él, lo asió de los cabellos y lo quiso matar.»",
+              "autor": "A. Saav.",
+              "referencia_obra": "Masan. 1. 14 (5. 108)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con con , que da la idea de venir á brazos y luchar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arremetió Rodolfo con Leocadia, y cogiéndola en brazos, dio á huír con ella.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Nov . 6 (R. 1. 166 2 )."
+            },
+            {
+              "texto_cita": "«Se levantó con gran furia del suelo donde se había echado, y arremetió con el primero que halló junto á sí, con tal denuedo y rabia, que si no se le quitáramos, le matara á puñadas y á bocados.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 23 (R. 1. 309 1 )."
+            },
+            {
+              "texto_cita": "«Lo cual visto por el ventero, tomó tanto enojo que arremetió con D. Quijote, y á puño cerrado le comenzó á dar tantos golpes, que si Cardenio y el cura no se le quitaran, él acabara la guerra del gigante.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 35 (R. 1. 352 2 )."
+            },
+            {
+              "texto_cita": "«Otra vez arremetió con un grandísimo y poderosísimo ejército, donde llevó más de un millón y seiscientos mil soldados, todos armados desde el pie hasta la cabeza, y los desbarató á todos como si fueran ovejas.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 32 (R. 1. 339 2 )."
+            },
+            {
+              "texto_cita": "«Y arremetiendo con él, | Dio con él patas arriba.»",
+              "autor": "",
+              "referencia_obra": "Id. El rufián dichoso , 1 ( Com . 2. 6)."
+            },
+            {
+              "texto_cita": "«Se maravilló de ver la pujanza del moro, y arremetió con él con tanta braveza, que el moro se espantó.»",
+              "autor": "P. de Hita",
+              "referencia_obra": ", Guerras civ. de Granada, 1. 2 (R. 3. 515 2 )."
+            },
+            {
+              "texto_cita": "«Llegó entonces Jimenillo, | Y torciendo el de florete, | Guarnecido de oro y pardo, | Con el mulato arremete.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 33 (R. 32. 516 3 )."
+            },
+            {
+              "texto_cita": "«En esta calle | Arremetió con los presos | Un tropel de gente.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Los amantes de Teruel, 4.1 (18)."
+            },
+            {
+              "texto_cita": "«Entro en segunda refriega, | Y ardiendo en cólera ciega | Con tres cabos arremeto.»",
+              "autor": "",
+              "referencia_obra": "A. L. de Ayala, Un hombre de estado 1. 2 (1. 17)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con contra , que realza el concepto de ataque.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Viéndose libres, con valeroso ánimo sacaron sus cuchillos, y arremetieron contra los siete pastores, los cuales todos juntos les pusieron las azagayas que traían, á los pechos.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 5 (R. 1. 75 2 )."
+            },
+            {
+              "texto_cita": "«En diciendo esto, arremetió con la lanza baja contra el que lo había dicho, con tanta furia y enojo, que si la buena suerte no hiciera que en la mitad del camino tropezara y cayera Rocinante, lo pasara mal el atrevido mercader.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij . 1. 4 (R. 1. 264 1 )."
+            },
+            {
+              "texto_cita": "«Sin esperar más respuesta, picó á Rocinante, y, la lanza baja, arremetió contra el primero fraile con tanta furia y denuedo, que si el fraile, no se dejara caer de la mula, él le hiciera venir al suelo mal de su grado.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 1. 8 (R. 1. 270 2 )."
+            },
+            {
+              "texto_cita": "«Arremetieron el uno contra el otro, y sin mirar reglas, movimientos, entradas, salidas y compases, á los primeros golpes el uno quedó pasado el corazón de parte á parte, y el otro abierta la cabeza por medio.»",
+              "autor": "",
+              "referencia_obra": "Id . Pers. 1. 20 (R. 1. 582 2 )."
+            },
+            {
+              "texto_cita": "«Entonces arremetió la vulpeja contra el alcaraván, y comiósele.»",
+              "autor": "Comend. Griego",
+              "referencia_obra": ", glosando el refrán:"
+            },
+            {
+              "texto_cita": "«Alcaraván zancujo, para otros consejo, para sí ninguno»",
+              "autor": "",
+              "referencia_obra": "(7)."
+            },
+            {
+              "texto_cita": "«Dichas estas palabras, arremetió luégo toda aquella manada de lobos hambrientos contra aquel manso cordero.»",
+              "autor": "Gran.",
+              "referencia_obra": "Doctr. espir. 13 (R. 11. 249 1 )."
+            },
+            {
+              "texto_cita": "«Así los araucanos revolviendo | Contra los vencedores arremeten, | Y las rendidas armas esgrimiendo, | A voces de morir todos prometen.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 3 (R. 17. 14 2 )."
+            },
+            {
+              "texto_cita": "«Viendo | Que se iba de sus gentes la campaña | Por el araña vil disminuyendo, | Furioso arremetió contra la araña.»",
+              "autor": "Villav.",
+              "referencia_obra": "Mosq . 11 (R. 17. 617 2 )."
+            },
+            {
+              "texto_cita": "«Furioso arremetió contra el flechero | Por sacarle ambos ojos con la vida.»",
+              "autor": "",
+              "referencia_obra": "Valb . Bern. 24 (R. 17. 397 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Con hacia , que señala meramente la dirección.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arremete hacia él con el bastón levantado en ademán de darle de palos.»",
+              "autor": "Mor.",
+              "referencia_obra": "El médico á palos , 1. 3 (R. 2. 466 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Con para , que sugiere propiamente la deliberación del ataque.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Metiendo mano á su alfanje arremetió para ellos, y llorando no cobardes lágrimas los mató uno á uno.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "( Capm. Teatro , 4. 402)."
+            },
+            {
+              "texto_cita": "«Atáronle los brazos por las espaldas, y destituído en la ribera, animando los ministros dos lebreles carniceros, los echaron al maniatado; el cual, no pudiendo contra el ímpetu con que arremetieron para él, declinó el cuerpo como pudo con diversos vanos esfuer zos. »",
+              "autor": "",
+              "referencia_obra": "Id. ( ib. 4. 394)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Con tras , que expresa seguimiento, persecución.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Pensó rendir el alma de coraje | Volviendo el moro altivo el rostro á vella, | Y sin que ya el hidalgo honor le ataje, | Con la espada alta arremetió tras ella.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 7 (R. 17. 214 2 )."
+            },
+            {
+              "texto_cita": "«Apolo, antojadizo mozalbete, | Asunto digno de tu canto sea, | Cuando tras Dafne intrépido arremete.»",
+              "autor": "Mor.",
+              "referencia_obra": "Lección poétic. (R. 2. 578 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.",
+      "definicion": "Arrojarse con presteza ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á y un nombre de persona.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Poniéndose á mirar [el muchacho] con mucha atención á los que en la fuente estaban, de allí á poco arremetió á D. Quijote, y abrazándole por las piernas comenzó á llorar muy de propósito.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 1. 31 (R. 1. 337 2 )."
+            },
+            {
+              "texto_cita": "«Al pasar, habiéndole estado mirando uno dellos con mucha atención, arremetió á él, y, echándole los brazos por la cintura y en voz alta y muy castellana, dijo: Válame Dios, ¿qué es lo que veo? ¿es posible que tengo en mis brazos al mi caro amigo, al mi buen vecino Sancho Panza?»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 54 (R. 1. 518 1 )."
+            },
+            {
+              "texto_cita": "«Apenas hubo oído el estudiante el nombre de Cervantes, cuando apeándose de su cabalgadura --- arremetió á mí, y acudiendo á asirme de la mano izquierda, dijo: Sí, sí, éste es el manco sano, el famoso todo, el escritor alegre, y finalmente el regocijo de las musas.»",
+              "autor": "",
+              "referencia_obra": "Id. Pers. pról . (R. 1. 560)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á y un nombre de cosa.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y sin hacer más golpe arremetieron, | Vuelto en codicia aquel furor sangriento, | Al esperado saco de a tierra, | Premio de la común gente de guerra.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 18 (R. 17. 70 1 )."
+            },
+            {
+              "texto_cita": "«Cuando por unos árboles saliendo | Vi dos negros cargados de despojos, | Que luégo en el instante que me vieron | A la mísera presa arremetieron.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 28 (R. 17. 105 2 )."
+            },
+            {
+              "texto_cita": "«Quién al usado peto arremetía, | Quién encaja la gola y la celada.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 31 (R. 17. 116 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con á y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Como poco después Cinna en público empezase á maldecir á César y gritar oprobios contra él, acusándole con desvergüenza, se enfureció el pueblo, y arremetieron á despedazarle por insolente.»",
+              "autor": "Quev.",
+              "referencia_obra": "M. Bruto (R. 23. 155 1 )."
+            },
+            {
+              "texto_cita": "«Arremetió á abrazarme, llamándome sobrino.»",
+              "autor": "",
+              "referencia_obra": "Id. Gran Tac . 10 (R. 23. 504 2 )."
+            },
+            {
+              "texto_cita": "«Arremetamos todas diligentes | A talar su verdura sospechosa, | Que amenaza el estrago á nuestras gentes.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. No te pienso pedir (R. 42. 316 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con con .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Arremetí con un pedazo de pan y otro de queso que había dejado con un jarro de vino, y sacando el vientre de mal año, juraré que en mi vida comí cosa que más bien me supiese.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud . 3. 10 (R. 18. 459 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "definicion": ". met. Chocar, ofender á la vista alguna cosa ( intrans .) ( fam. ). Acad. Dicc .",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótese el uso del simple remeter .) — Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Al qual el puerco arremetió e fizole tal llaga con los colmillos, que muerto le echó en tierra, las entrañas fuera de su lugar.»",
+          "autor": "Mena",
+          "referencia_obra": ", Coron . 7 (7 2 )."
+        },
+        {
+          "texto_cita": "«E los justadores arremetieron saliendo con las lanzas en los ristres.»",
+          "autor": "Passo honroso",
+          "referencia_obra": ", 16 (13 2 ). — Siglo XIV :"
+        },
+        {
+          "texto_cita": "«Don Juan con gran plaser | El cauallo rremetió.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 221 (R. 57. 484 1 )."
+        },
+        {
+          "texto_cita": "«Fasta que algo me prometas, por mucho que te arremetas | Non pasarás la vereda.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 935 (R. 57. 256 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Si algun ome --- iogando remetiere su cauallo en rua, ó en calle poblada --- e por ocasion matare algun ome ---»",
+          "autor": "Fuero",
+          "referencia_obra": "real, 4. 17. 7 ( O. L. 2. 148)."
+        },
+        {
+          "texto_cita": "«Tomó una vara que tenie á la cabecera del lecho, é arrremetió pora el ladron.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 13 1 )."
+        },
+        {
+          "texto_cita": "«Yrós de fiera guisa --- | Por poco con la yra a él nos remetia.»",
+          "autor": "",
+          "referencia_obra": "Alex . 441 (R. 57. 161 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Comp. de á , que señala la dirección y es además intensivo, y de remeter, que vale meter adentro, según Covarrubias. Arremeter el caballo es hacerlo entrar; arremeterse, meterse con ímpetu. Port. arremetter, remetter; cat. arremetrer.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "Constr.",
+      "definicion": "",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": "",
+  "construccion_sintactica": "Constr. — Trans.: 1 . — Intrans.: 2 , c - 3 - 4 . — Refl .: 2 , a, b . — Con á : 2, c , β - 3, α , β , γ . — Con: 2 , c, γ . — Contra: 2 , c, δ . — Hacia: 2 , c, ε . — Para : 2, c, ζ . — Tras: 2 , c , η . \u0000"
+}

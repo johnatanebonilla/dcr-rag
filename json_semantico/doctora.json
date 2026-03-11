@@ -1,0 +1,260 @@
+{
+  "lema": "DOCTOR, A.",
+  "categoria_gramatical": "s. m.",
+  "introduccion": "-->s. m. y f .",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "El que enseña.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Cristo era doctor del mundo y maestro universal de todos los hombres.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Vida de Cristo (40)."
+        },
+        {
+          "texto_cita": "«Llámanle [á san Agustín] pozo de sabiduría --- ejemplo de buenos prealos, luz de los predicadores, doctor de los grandes doctores y varón enseñado de Dios.»",
+          "autor": "",
+          "referencia_obra": "Id. Flos SS . 28 de Agosto."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "b)",
+      "definicion": "En especial, entre los judíos, El que explicaba é interpretaba la ley.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Entran llorando y de repente vieron | Al niño Dios en medio los doctores, | En su disputa, oyendo y preguntando.»",
+              "autor": "Valdivieso",
+              "referencia_obra": ", S. José , 21 (R. 29. 229 1 )."
+            },
+            {
+              "texto_cita": "«¡Ay de vosotros, doctores de la ley, que cargáis los hombres de cargas que no pueden llevar, y vosotros ni aun con uno de vuestros dedos tocáis las cargas!»",
+              "autor": "Scío",
+              "referencia_obra": ", S. Lucas , 11. 46."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "El empleo de en por de es muy raro y no debe imitarse.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Este Gamaliel fue aquel grande doctor en la ley, sumamente reverenciado de la plebe.»",
+              "autor": "Quev.",
+              "referencia_obra": "Vida de S. Pablo (R. 48. 11 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Título que da la Iglesia á algunos santos que en sus obras han tratado con excelencia lo perteneciente á la religión. En sentido análogo se dice de algunos autores de la filosofía escolástica.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tendrá la Iglesia hijos infinitos, | Y su cabeza miembros diferentes, | Prelados y profetas y doctores, | Mártires fuertes, simples confesores.»",
+          "autor": "Hojeda",
+          "referencia_obra": ", Crist . 10 (R. 17. 481 1 )."
+        },
+        {
+          "texto_cita": "«Era ya tiempo que el padre y doctor santísimo Jerónimo acabase la jornada de tan santa peregrinación y pusiese fin al curso de vida tan larga y divina.»",
+          "autor": "Sig.",
+          "referencia_obra": "Vida de S. Jer . 6. 3 (566)."
+        },
+        {
+          "texto_cita": "«Principalmente el doctor angélico santo Tomás se vistió del espíritu y doctrina de san Agustín, de manera que parece haberse transformado en él.»",
+          "autor": "Rivad.",
+          "referencia_obra": "Flos SS . 28 de Agosto ."
+        },
+        {
+          "texto_cita": "«Los teólogos y los escolásticos califican á varios doctores de la Iglesia y cabezas de escuelas con dictados sublimes y espectables: con el de Doctor angélico á santo Tomás de Aquino; de Doctor seráfico á san Buenaventura; de Doctor extático á san Juan de la Cruz; de Doctor sutil á Juan Escoto; de Doctor iluminado á Raimundo Lulio, etc.»",
+          "autor": "Capm.",
+          "referencia_obra": "Filosof. eloc . 3. 2 (332)."
+        },
+        {
+          "texto_cita": "«Eu uno de los altares del crucero está la tan celebrada estatua de Santa Teresa de Jesús ---La época de Bernini y aun su manera artística no eran ciertamente las más á propósito para interpretar con el cincel y las formas el dulce espiritualismo de nuestra sarita é inspirada doctora.»",
+          "autor": "Catalina",
+          "referencia_obra": ", Roma , p. 462."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "El que ha obtenido en una universidad ú otro establecimiento autorizado para ello el último y preeminente grado de una facultad.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Yo le pusiera á estudiar para doctor, porque no tuviera invidia á sus hermanos el bachiller y el licenciado.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 47 (R. 1. 502 1 )."
+            },
+            {
+              "texto_cita": "«Al doctor Juan de Arámbulo pudiera, | Grave jurisconsulto, | Dar la fama el laurel de aquella esfera.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo , 2 ( Obr. suelt . 1. 28)."
+            },
+            {
+              "texto_cita": "«Ni en Grecia Atenas vio más bachilleres | Que aquí hay borlas de doctores, | De grave ciencia y graves pareceres.»",
+              "autor": "Valb.",
+              "referencia_obra": "Grand. mej . 9 (85)."
+            },
+            {
+              "texto_cita": "«Al año siguiente de 82 recibió [Meléndez] el grado de licenciado en leyes, y el de doctor en el inmediato de 83.»",
+              "autor": "Quint.",
+              "referencia_obra": "Meléndez (R. 19. 112 2 )."
+            },
+            {
+              "texto_cita": "«Doña María Isidra de Guzmán y Lacerda --- recibió el grado de doctora y maestra en la facultad de artes y letras humanas.»",
+              "autor": "Mesonero",
+              "referencia_obra": ", Manual de Madrid , p. 60."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con en , para expresar la facultad.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si los catedráticos de dichascátedras, después de recibido rigurosamente el licenciamiento, quisieren tomar el grado de doctor en cualquiera facultad, se les ha de admitir á él.»",
+              "autor": "",
+              "referencia_obra": "Nov. Rec . 8. 8. 13 (3. 523)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con de , en sentido análogo (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿No vive aquí | Un doctor de leyes?»",
+              "autor": "Lope",
+              "referencia_obra": ", El cuerdo en su casa , 2. 2 (R. 41. 450 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con por , para expresar la universidad que confiere el grado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tengo el grado de doctor por la universidad de Osuna.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 47 (R. 1. 501 1 )."
+            },
+            {
+              "texto_cita": "«Y con el beneficiado, | Que era doctor por Osuna, | Sobre Antonio de Lebrija, | Tenía cien mil disputas.»",
+              "autor": "Góng.",
+              "referencia_obra": "rom . 61 (R. 32. 528 2 )."
+            },
+            {
+              "texto_cita": "«Don Juan de Caramuel --- gran matemático y filósofo, monje cisterciense, doctor por la universidad de Lovaina.»",
+              "autor": "Mesonero",
+              "referencia_obra": ", Manual de Madrid , p. 56."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "En especial, Doctor en medicina, médico ( fam. ).",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Pero haz cuenta que tú eres | Un enfermo, y yo un dotor, | Para saber si es amor. | — Luego ¿verme el pulso quieres?»",
+          "autor": "Lope",
+          "referencia_obra": ", De cosario á cosario , 3. 1 (R. 51. 498 3 )."
+        },
+        {
+          "texto_cita": "«Vea el señor doctor, de cuantos manjares hay en esta mesa cuál me hará más provecho y cuál menos daño, y déjeme comer dél.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 2. 47 (R. 1. 500 2 )."
+        },
+        {
+          "texto_cita": "«No gastéis, señor dotor, | De aforismos tanta copia.»",
+          "autor": "Tirso",
+          "referencia_obra": ", El amor médico , 2. 8 (R. 5. 389 3 )."
+        },
+        {
+          "texto_cita": "«Aquí tiene usted --- al estupendo médico, al doctor infalible, al pasmo del mundo. — Me alegro mucho de ver á usted, y de conocerle, señor doctor.»",
+          "autor": "Mor.",
+          "referencia_obra": "El médico á palos , 2. 3 (R. 2. 466 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Sust. f . Mujer del doctor ( fam. ).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Mujer del médico ( fam. ).",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Mujer que la da de entendida ( fam. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Anda, que eres fastidioso, | Si los hay. — Y tú preciada | De sabidilla y doctora.»",
+              "autor": "Mor.",
+              "referencia_obra": "El viejo y la niña , 1. 2 (R. 92. 339 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "Siglo XV :",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«E Juan Rodriguez de Salamanca, é Luis Sanchez, doctores en leyes.»",
+          "autor": "Crón. Juan II",
+          "referencia_obra": ", 1. 19 (R. 68. 284 1 )."
+        },
+        {
+          "texto_cita": "«En mucho mejor acuerda | El doctor sotil Escote.»",
+          "autor": "Canc. de Baena",
+          "referencia_obra": ", p. 357. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«El era un grand doctor en leyes, é ome de buena consciencia é de buena vida.»",
+          "autor": "",
+          "referencia_obra": "Crón. Pedro 1, 6. 19 (R. 66. 468 2 )."
+        },
+        {
+          "texto_cita": "«Y muere el doctor | Que la fisica rresa, | Y guaresce el pastor | Con toda su torpesa.»",
+          "autor": "",
+          "referencia_obra": "Sem. Tob, 87 (R. 57. 337 1 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Yo so tu escolar, tu eres mi doctor.»",
+          "autor": "",
+          "referencia_obra": "A lex . 44 (R. 57. 148 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Port. doutor ; cat., prov. doctor : fr. docteur ; it. dottore: del lat. doctorem , doctor , derivado de docere , enseñar. En lo antiguo se pronunciaba comúnmente dotor . \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

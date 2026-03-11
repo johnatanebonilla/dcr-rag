@@ -1,0 +1,72 @@
+{
+  "lema": "BARBEAR.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Llegar con la barba á cierta altura.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Trans.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Los toros, vacas y otros animales saltan toda la altura que barbean.»",
+              "autor": "Acad.",
+              "referencia_obra": "Dicc ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Intrans .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Barbear con la pared.»",
+              "autor": "Acad.",
+              "referencia_obra": "Gram."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Llegarse ó acercarse mucho, como si se llegara á tocar con la barba ( intrans .).",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con con , para expresar el objeto á que uno se acerca.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cuando alguna tropa de caballería se arrimó mucho á una plaza siguiendo al enemigo, [se dice] que llegó á barbear con la empalizada ó con la estrada encubierta.»",
+              "autor": "",
+              "referencia_obra": "Dicc. Autor ."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con sobre .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«De la flota ó armada que se acerca á tierra junto á alguna ciudad ó provincia se dice que está barbeando sobre ella»",
+              "autor": "",
+              "referencia_obra": ". Dicc. Autor ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Derivado de barba. Cat. barbejar. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

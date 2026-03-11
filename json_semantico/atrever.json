@@ -1,0 +1,1111 @@
+{
+  "lema": "ATREVER.",
+  "categoria_gramatical": "v.",
+  "introduccion": "--> v. Según aparece de los escritores antiguos el uso primitivo es el refl. ; sólo por extensión analógica se llegó á emplear como simple verbo transitivo en la exuberancia sintáctica de los siglos XVI y XVII.",
+  "acepciones": [
+    {
+      "id": "1.",
+      "definicion": "Refl.",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Determinarse á algún hecho ó dicho arriesgado.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á y un infin. , para expresar lo que se cree arriesgado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por ser los enemigos muchos y su gente poca, ni se atrevía á seguillos porque no le cargasen, ni á retirarse porque no le rompiesen.»",
+              "autor": "Mend.",
+              "referencia_obra": "Guerra de Granad. 2 (R. 21. 82 2 )."
+            },
+            {
+              "texto_cita": "«Sepa que más gravemente ofende á su rey el que con las mercedes que el rey le ha hecho se atreve á hacelle guerra, que el extraño que con sus propios dineros le hiciese la guerra.»",
+              "autor": "Venegas",
+              "referencia_obra": ", Agonía , 3. 10 ( Míst. 3. 62)."
+            },
+            {
+              "texto_cita": "«¿Cómo se atreve á pecar quien cree que, entrando el pecado por una puerta en el ánima, Dios se sale por la otra?»",
+              "autor": "Ávila",
+              "referencia_obra": ", Audi, 48 ( Míst. 3. 221)."
+            },
+            {
+              "texto_cita": "«Están dedicados al servicio de la iglesia de San Pedro: mira tú agora si te atreves á tocarlos, y allá te avén si lo haces.»",
+              "autor": "Sig.",
+              "referencia_obra": "Vida de S. Jer. 6. 2 (560)."
+            },
+            {
+              "texto_cita": "«Unos con deseo de gloria se aventuran, otros con temor de infamia no se atreven á publicar lo que una vez descubierto ha de sufrir el juicio del vulgo.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. pról. (R. 1. 2)."
+            },
+            {
+              "texto_cita": "«Sufra y calle el que se atreve más de á lo que sus fuerzas le permiten.»",
+              "autor": "",
+              "referencia_obra": "Id. Quij. 1. 44 (R. 1. 381 1 )."
+            },
+            {
+              "texto_cita": "«También se atreverán á decir que es mentirosa la historia de Guarino Mezquino.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 1. 49 (R. 1. 393 2 )."
+            },
+            {
+              "texto_cita": "«Nunca he visto yo escudero, replicó el del Bosque, que se atreva á hablar donde habla su señor.»",
+              "autor": "",
+              "referencia_obra": "Id . ib. 2. 12 (R. 1. 428 2 )."
+            },
+            {
+              "texto_cita": "«He vencido muchos caballeros que se han atrevido á contradecirme.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 2. 14 (R. 1. 430 2 )."
+            },
+            {
+              "texto_cita": "«Las desaforadas narices de aquel escudero me tienen atónito y lleno de espanto, y no me atrevo á estar junto á él.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 14 (R. 1. 432 2 )."
+            },
+            {
+              "texto_cita": "«Con todo esto me atrevería á dar consejo al que me lo pidiese, del modo que había de buscar la mujer con quien se quisiese casar.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 22 (R. 1. 449 2 )."
+            },
+            {
+              "texto_cita": "«Desconfiado de sus acciones, ni se atreve á hablar ni á obrar.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 7 (R. 25 . 25 2 )-"
+            },
+            {
+              "texto_cita": "«No se atreve á miralla [la mentira á la verdad] rostro á rostro.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 12 (R. 25. 36 1 )."
+            },
+            {
+              "texto_cita": "«No sé si me atreva á decir que fueran los imperios perpetuos si en los príncipes se ajustara siempre la voluntad al poder y la razón á los acasos.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 60 (R. 25.165 2 )."
+            },
+            {
+              "texto_cita": "«Los griegos, aunque advertidos del camino que llevaban los catalanes, no pudieron ó no osaron atreverse á impedilles el paso.»",
+              "autor": "Moncada",
+              "referencia_obra": ", Exped. 54 (R. 21. 51 2 ). —"
+            },
+            {
+              "texto_cita": "«Aconsejáronle algunos que le prendiese, pero no se atrevió porque tenía muchos amigos en aquel ejército.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 4. 8 (R. 28. 315 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "También tiene á veces cabida un sust. en lugar del infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No tengas pena, no, que yo me atreva | A cosa que vergüenza pueda darte, | Que no podré yo hacer cosa tan nueva.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 7, sát. á una dama (R. 69. 172 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "En los siglos XVI y XVII se construyó algunas veces con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Movida y incitada de la buena fama de vuestra merced, de su gran caridad, y de sus muchas limosnas, me he atrevido de venir á suplicar á vuestra merced me haga tanta merced.»",
+              "autor": "Cerv.",
+              "referencia_obra": "El viejo celoso ( Com. 2. 321)."
+            },
+            {
+              "texto_cita": "«No se atrevió por entonces de ponerse al riesgo de una batalla.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 3. 9 (R. 30. 69 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Part.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Pues cuándo ó cómo yo seré atrevido | De razonar con El?»",
+              "autor": "León",
+              "referencia_obra": ", Expos. de Job, 9 (1. 170)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Omitiase la prep. alguna vez en prosa y á menudo en verso, cosa que hoy pasaría por incorrección.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«No sin causa digo que no es poco sino muy presuntuoso el hombre que se atreve dar al príncipe consejo.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro , 2. 51)."
+            },
+            {
+              "texto_cita": "«Un pastor que se atreve, | Con razones fundadas | En la pura verdad de su tormento, | Mostrar que el sentimiento | De su dolor crecido | Al tuyo se aventaja.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal . 3 (R. 1. 42 1 )."
+            },
+            {
+              "texto_cita": "«¿Qué embuste es éste tan nuevo, | Tan riguroso y cruel, | Que urden al alma de aquel | Que apenas nombrar me atrevo?»",
+              "autor": "Lope",
+              "referencia_obra": ", El verdadero amante, 3 (R. 24. 16 2 )."
+            },
+            {
+              "texto_cita": "«Sierra de blanca nieve, | Que los rayos de amor vencer se atreve.»",
+              "autor": "",
+              "referencia_obra": "Id. Peribáñez y el Comendador de Ocaña, 1. 11 (R. 41. 284 3 )."
+            },
+            {
+              "texto_cita": "«Abrasa los sentidos | Más helados que nieve, | De un libre que se atreve, | En sola su flaqueza confiado, | Resistir tu poder jamás domado.»",
+              "autor": "",
+              "referencia_obra": "F. de la Torre, 3, égl. 4 (113)."
+            },
+            {
+              "texto_cita": "«No sólo en campo nevado | Hierba producir se atreve | A mi ganado, | Pero aun es fiel la nieve | A las flores que da el prado.»",
+              "autor": "Góng.",
+              "referencia_obra": "letr . 15 (R. 32. 494 2 )."
+            },
+            {
+              "texto_cita": "«La altiva puerta en quicios resonantes, | Que el limpio muro en firme bronce embebe, | De ardientes llamas da pasos triunfantes | A quien pasarlos sin quemar se atreve.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 20 (R. 17. 358 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ε )",
+          "definicion": "Siendo refl. el infin. regido por atreverse, se omitía de ordinario con él el pron. Este giro disuena hoy, porque casi siempre se presta á anfibologías; así se dice No se atrevió á arrojarse al río, más bien que No se atrevió á arrojar al río.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Ya no se atrevían á poner delante, ni había quien á pie lo esperase aun de muy lejos.»",
+              "autor": "Alemán",
+              "referencia_obra": ", Guzmán , 1. 1. 8 (R. 3. 241 2 )."
+            },
+            {
+              "texto_cita": "«Aunque no te atreviste á declarar del todo --- has conocido della, que cuando sepa ser ella para quien la carta venía, no le causará el engaño y desengaño mucha pesadumbre.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Gal. 2 (R. 1. 31 1 )."
+            },
+            {
+              "texto_cita": "«Mas díme, ¿cómo te atreves | A poner á riesgo igual?»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La manganilla de Melilla, 3 (R. 20. 317 3 )."
+            },
+            {
+              "texto_cita": "«No me atrevo á declarar, | Viéndome en tanta pobreza.»",
+              "autor": "Mto.",
+              "referencia_obra": "Trampa adelante , 1. 2 (R. 39. 145 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ζ )",
+          "definicion": "Al contrario, en construcciones como la siguiente, se omite corrientemente el pron. refl. de atreverse ( cp. Bello , Gram. cap . 44, g ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«El amor la hizo atrever á decir, que cómo no teníades cuidado.»",
+              "autor": "Sta. Ter.",
+              "referencia_obra": "Exclam. 5 (R. 53. 494 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— η )",
+          "definicion": "Se halla alguna vez omitido el pron. refl. en una respuesta en que se repite el verbo ( cp. ACORDAR , 8, f,",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "ε )",
+          "definicion": ".",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Atreveráste á bajar | Por ese balcón? — Sí atrevo, | Que alas en tu favor llevo.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El burlador de Sevilla, 1. 5 (R. 5. 573 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— θ )",
+          "definicion": "No es igualmente aceptable la omisión en el siguiente ejemplo, en que hoy diríamos: No me atrevo á decírtelo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Dilo para que socorras | El temor que has de impedir. | — No te lo atrevo á decir.»",
+              "autor": "Tirso",
+              "referencia_obra": ", Averígüelo Vargas , 2. 9 (R. 5. 679 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— ι )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En los grandes aprietos se pierde quien ni bastantemente se atreve ni bastantemente se previene.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 85 (R. 25. 228 1 )."
+            },
+            {
+              "texto_cita": "«El atreverse solo es heroísmo.»",
+              "autor": "Reinoso",
+              "referencia_obra": ", Inoc. perd. 1 (R. 29. 509 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Sustantivado completamente el infinitivo, es á veces necesaria la omisión del pronombre reflejo.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Así por esto, como porque tenía ella un poco que hacer, se quedó mi atrever para otro día.»",
+              "autor": "",
+              "referencia_obra": "C elest. 19 (R. 3. 68 1 )."
+            },
+            {
+              "texto_cita": "«No puede ser pagado | Un atrever tan alto | Con castigo menor que de tal muerte.»",
+              "autor": "",
+              "referencia_obra": "Cetina, canc . 3 (R. 32. 47 2 )."
+            },
+            {
+              "texto_cita": "«Cuál ánimo tan fuerte, | Cuál alto atrevimiento | Al tuyo igualar puede, | Si tu atrever excede | Al más desenfrenado pensamiento?»",
+              "autor": "",
+              "referencia_obra": "Id . ib. (R. 32. 47 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— χ )",
+          "definicion": "Con en , Confiarse ( ant. ).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Aunque el temor allí tras esto vino, | En sus valientes brazos se atrevieron, | Y á su próspera suerte y buen destino | El dudoso suceso cometieron.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 3 (R. 17. 12 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Llegar ó entrar depuesto todo temor. Con á , para denotar el lugar adonde uno llega ó se arroja.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«De la Fenicia se dice fueron los primeros hombres que con armadas gruesas se atrevieron al mar, y para enderezar sus navegaciones tomaron las estrellas por guía.»",
+          "autor": "Mariana",
+          "referencia_obra": ", Hist . Esp. 1. 15 (R. 30. 18 1 )."
+        },
+        {
+          "texto_cita": "«Despreciando al fin la cumbre, | A la campaña se atreven.»",
+          "autor": "Góng.",
+          "referencia_obra": "rom . 99 (R. 32. 539 1 )."
+        },
+        {
+          "texto_cita": "«Por ver capricho tan nuevo | Me atreví á vuestros umbrales.»",
+          "autor": "Alarcón",
+          "referencia_obra": ", El examen de maridos, 1. 11 (R. 20. 472 1 ). —"
+        },
+        {
+          "texto_cita": "«Ni remedio pido, | Ni quien me le ha de dar mis penas sabe, | Porque á su casto oído | No se atreve mi lengua.»",
+          "autor": "Jáur.",
+          "referencia_obra": "canc. Deja tu albergue oculto (R. 42. 117 2 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Llegar á competir ú ofender.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á , para expresar el objeto con que se compite ó á que se pretende dañar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Estancias se leyeron, | Que á las cultas del Tasso se igualaron, | Y á las del Ariosto se atrevieron, | Tanto en estilo dulce se fundaron.»",
+              "autor": "Lope",
+              "referencia_obra": ", Laurel de Apolo, 10 ( Obr. suelt. 1. 212)."
+            },
+            {
+              "texto_cita": "«Con propio daño se atreve la envidia á las glorias y trofeos de Hércules.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp . 9 (R. 25. 29 1 )."
+            },
+            {
+              "texto_cita": "«En lo puro de mi esencia | (A cuya luz no se atreve | Ni una nubecilla leve) | Le dedicó el vivo altar.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "déc. Cuando la razón tenía (R . 42 . 294 1 )."
+            },
+            {
+              "texto_cita": "«¿Ves la gloria que la ilustra, | Los placeres que la cercan, | Sin que el destino ni el tiempo | A su ventura se atrevan?»",
+              "autor": "Lista",
+              "referencia_obra": ", rom. 3 (R. 67. 336 1 )."
+            },
+            {
+              "texto_cita": "«A su decoro | No se atrevió ni con malicia leve | La lenguaraz murmuración del mundo.»",
+              "autor": "Hartz.",
+              "referencia_obra": "Doña Mencía, 3 . 11 (51)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con contra, en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Temerosa vengo | De una lengua que se atreve | Contra el honor que mantengo.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", El semejante á sí mismo , 2. 12 (R. 20. 73 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d)",
+      "definicion": "Llegarse á alguno tratándole sin miramiento, faltar al respeto debido, insolentarse.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Absol.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La nobleza | Que usé anoche con los dos | No es justo que parte sea | A que os atreváis ansí.»",
+              "autor": "Lope",
+              "referencia_obra": ", El perro del hortelano, 1. 20 (R. 24. 347 2 )."
+            },
+            {
+              "texto_cita": "«Osaros así atrever | Y mostrarme así los dientes, | Indicios son evidentes | Que debéis, macho, tener | En esta corte parientes.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 2 (R. 32. 167 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á , para expresar la persona á quien se falta al respeto.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Juzgaba --- que no eran hombres los que se atrevían á Motezuma.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2. 15 (R. 28. 252 1 )."
+            },
+            {
+              "texto_cita": "«Es más culpable en él la alevosía; | Que conspirando otro vasallo, sola | La fe quebranta que á su rey le debe, | Y él á su padre y á su rey se atreve.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", No hay mal que por bien no venga, 3. 2 (R. 20. 189 3 ). —"
+            },
+            {
+              "texto_cita": "«Cuando la noche baja | Y al claro sol se atreve, | Cena me aguarda breve | De la salud ventaja.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los Tellos de Meneses, 1ª. pte. 2. 6 (R. 24. 519 1 )."
+            },
+            {
+              "texto_cita": "«Hoy no se podría ejecutar [el oficio de censor], porque se atreverían á él la soberbia y desenvoltura, como se atreven al mismo magistrado, aunque armado con las leyes y con la autoridad suprema.»",
+              "autor": "Saav.",
+              "referencia_obra": "Emp. 14 (R. 25. 42 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Este compl. es convertible en dat. pron.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Por sus cartas y embajadas le hacía instancia la ayudase para apaciguar las alteraciones de aquel reino y sujetar á los señores, que por ser el rey de pocos años, que no pasaba de doce, y ella mujer y extranjera, se les atrevían y los desestimaban.»",
+              "autor": "Mariana",
+              "referencia_obra": ", Hist. Esp . 12. 12 (R. 30. 359 1 )."
+            },
+            {
+              "texto_cita": "«Es cosa de maravilla, | Que en el campo y en la villa, | A capitán de tal prueba | Cualquier hombre se le atreva, | Aunque pierda en la rencilla.»",
+              "autor": "",
+              "referencia_obra": "Gerv. Gal. 6 (R. 1. 93 2 )."
+            },
+            {
+              "texto_cita": "«i Que á tanto desprecio he yo venido, | Que así ose atrevérseme un mestizo!»",
+              "autor": "",
+              "referencia_obra": "Id. La casa de los celos , 1 ( Com . 1. 65)."
+            },
+            {
+              "texto_cita": "«No hay cosa, Octavio, de mayor cuidado | Al que baja de un alto á humilde estado, | Como ver que cualquiera se le atreva.»",
+              "autor": "Lope",
+              "referencia_obra": ", Las flores de D. Juan , 3. 11 (R. 24. 427 3 )."
+            },
+            {
+              "texto_cita": "«¿Qué mujer se libra | De que un hombre se le atreva?»",
+              "autor": "M. de la Rosa",
+              "referencia_obra": ", Los celos infundados , 2. 1 (3. 171). —"
+            },
+            {
+              "texto_cita": "«A los solos no hay mal pensamiento que no se les atreva.»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios , 1. 22 (R. 23. 37 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Con contra , en igual sentido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Si contra los santos del cielo se atreve esta tiranía, ¿quién estará seguro della en la tierra?»",
+              "autor": "Rivad.",
+              "referencia_obra": "Cisma, 2. 41 (R. 60. 298 1 )."
+            },
+            {
+              "texto_cita": "«Si en el cielo hay alguno | Que contra amor se atreva á hierro y fuego, | Vuelva por mí ó apláquele con ruego.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. De los campos y mares (R. 42. 292 1 )."
+            },
+            {
+              "texto_cita": "«Quien contra su rey se atreve, | Es digno de aqueste pago.»",
+              "autor": "Tirso",
+              "referencia_obra": ", La prudencia en la mujer , 2. 3 (R. 5. 294 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Con con , en igual sentido (raro).",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Cómo, traidor, contra tu amo y señor natural te desmandas? ¿Con quien te da su pan te atreves?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 60 (R. 1. 530 2 )."
+            },
+            {
+              "texto_cita": "«Entra y sale por aquella alborotada multitud, amenaza á todos, y nadie se atreve con ella, nadie la acierta con un garrotazo.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst. 3, p. 164."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e)",
+      "definicion": "En sentido menos ofensivo, Hablar con libertad.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Lo que en los poderosos parece privilegio que no se les atreva nadie ni les contradigan, es desdicha, pues eso les causa ignorancia.»",
+          "autor": "Quev.",
+          "referencia_obra": "Cuna y sepult . 2 (R. 48. 82 2 )."
+        },
+        {
+          "texto_cita": "«Un castellano --- | Me envía á pedir consejo, | Diciendo que soy retrato | Vuestro, y que en cosas de amor | Se atreve más á mis años.»",
+          "autor": "Lope",
+          "referencia_obra": ", El príncipe perfecto , 2ª pte . 2. 9 (R. 52. 127 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "f)",
+      "definicion": "Part .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Que se determina á hechos ó dichos arriesgados.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Quién más bravo que Rodamonte? ¿quién mas prudente que el rey Sobrino? ¿quién más atrevido que Reinaldos?»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 1 (R. 1. 407 1 )."
+            },
+            {
+              "texto_cita": "«He dado muestra de atrevido en la publicación deste libro.»",
+              "autor": "",
+              "referencia_obra": "Id. Gal. pról . (R. 1. 2)."
+            },
+            {
+              "texto_cita": "«Dejémoslas ir, que ellas van tan atrevidas como bien encaminadas.»",
+              "autor": "",
+              "referencia_obra": "Id. Nov . 10 (R. 1. 218 1 ). — Sup."
+            },
+            {
+              "texto_cita": "«Después acá se han cultivado grandes caballeros muy mozos y muy acertados, como don Diego de Silva, caballero de mucho valor, presteza y donaire, atrevidísimo con el garrochón en las manos.»",
+              "autor": "Espinel",
+              "referencia_obra": ", Escud. 2. 11 (R. 18. 440 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Irrespetuoso, insolente.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«¿Qué decís, locos, osados, | Atrevidos, sin respeto?»",
+              "autor": "",
+              "referencia_obra": "Mto . Lo que puede la aprehensión , 2. 14 (R. 39. 180 1 ). —"
+            },
+            {
+              "texto_cita": "«Realmente le pareció que había andado atrevidillo con su señor.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 24 (R. 1. 455 1 )."
+            },
+            {
+              "texto_cita": "«Liseo habrá entendido la imprudencia | De ese Laurencio atrevidillo y loco, | Y que sirve á su esposa?»",
+              "autor": "Lope",
+              "referencia_obra": ", La dama boba, 2. 10 (R. 24. 307 1 )."
+            },
+            {
+              "texto_cita": "«¿Para qué, atrevidilla, | Me has robado esta rosa?»",
+              "autor": "Mel.",
+              "referencia_obra": "Anacr. La paloma de Filis, 25 (R. 63. 115 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con á .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tú que altivo y loco | Ser deidad presumes, | Atrevido á Dios, | Que ingratos confunde.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El rey don Pedro en Madrid , 2. 20 (R. 5. 602 2 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g)",
+      "definicion": "Part. Aplicado á cosas.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Y con la diestra á la labor usada | Las atrevidas lanzas esgrimían.»",
+              "autor": "Erc.",
+              "referencia_obra": "Arauc . 10 (R. 17.39 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Hecho con atrevimiento, osado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Al verla caída [la bandera española] se arrojó al foso el subteniente D. Mariano Montoro, recobróla, y subiendo por la misma brecha, la hincó y enarboló de nuevo: acción atrevida y digna de elogio.»",
+              "autor": "Toreno",
+              "referencia_obra": ", Hist. 10 (R. 64. 217 1 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— γ )",
+          "definicion": "Descomedido, irrespetuoso.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Cosa enojosa, cosa superba, cosa atrevida, cosa inconsiderada y aun cosa peligrosa es querer uno con la pluma ordenar la república, y concertar á un príncipe la vida.»",
+              "autor": "Capm.",
+              "referencia_obra": "Teatro, 2. 51)."
+            },
+            {
+              "texto_cita": "«No le supo bien al rey este recado, y mucho menos á los suyos, pareciéndoles mensaje muy atrevido.»",
+              "autor": "Acosta",
+              "referencia_obra": ", Hist. Ind . 7. 11 ( Dicc. Autor. )."
+            },
+            {
+              "texto_cita": "«Los reyes nunca negaban los oídos á las embajadas de otros reyes, ni sus ministros podían, sín consulta suya, tomar sobre sí tan atrevida resolución.»",
+              "autor": "Solís",
+              "referencia_obra": ", Conq. de Méj. 2. 1 (R. 28. 232 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— δ )",
+          "definicion": "Dícese en el lenguaje artístico de lo que excede las proporciones comunes, y sorprende pareciendo en cierto modo desafiar las leyes naturales.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«La cúpula [de la catedral de Milán] es un octógono muy espacioso, alto, y atrevido.»",
+              "autor": "Mor.",
+              "referencia_obra": "Obr. póst . 1, p. 331."
+            },
+            {
+              "texto_cita": "«Puede muy bien compararse á un templo gótico, ligero y atrevido en sus bóvedas y pilares, delicado y elegante en sus labores.»",
+              "autor": "Gallego",
+              "referencia_obra": ", Anál. de Esvero y Almedora (R. 67. 162)."
+            },
+            {
+              "texto_cita": "«El Hacedor, comunicando su beldad á las criaturas con sólo verlas, con sólo su presencia, es una imagen de las más bellas y al mismo tiempo de las más atrevidas que pueden presentarse.»",
+              "autor": "Lista",
+              "referencia_obra": ", Ensayos, 1, p. 25."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.",
+      "definicion": "Dando por supuesto que el uso reflejo había de tener por base y con sentido análogo el simple transitivo, emplearon nuestros clásicos este verbo en las significaciones siguientes, hoy caídas en olvidó:",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    },
+    {
+      "id": "a)",
+      "definicion": "Dar atrevimiento.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Detente, pluma, que deliras | Con la licencla que el amor te ha dado, | Aunque si el genio del sujeto miras, | Lo mismo que te atreve, te ha culpado.»",
+              "autor": "Lope",
+              "referencia_obra": ", epíst. 1 ( Obr. suelt. 1. 287)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con á y un infin.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mil imaginaciones que fabrico | A remediaros mi flaqueza atreven.»",
+              "autor": "Lope",
+              "referencia_obra": ", Los locos de Valencia , 1.1 ( R. 24. 115 1 )."
+            },
+            {
+              "texto_cita": "«No el amor os atreva | A seguirnos, forastero.»",
+              "autor": "Cald.",
+              "referencia_obra": "Los tres mayores prodigios , 2 ( R. 7. 274 2 )."
+            },
+            {
+              "texto_cita": "«Si el mirarle acorta la licencia, | La queja atreven á ultrajar su ausencia.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 9 ( Fern. 7. 257)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "Llevar, levantar ú oponer con atrevimiento.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Con á.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Solo y sin alma al pensamiento sigo, | Que el sol me dice que la vista atreva.»",
+              "autor": "Lope",
+              "referencia_obra": ", El perro del hortelano , 3. 4 (R. 24. 357 3 )."
+            },
+            {
+              "texto_cita": "«¿Cómo, pluma intrépida, pudiste | Correr al sacro Febo la cortina, | Y á la musa latina | La española atreviste?»",
+              "autor": "",
+              "referencia_obra": "Id. Laurel de Apolo , 1 ( Obr. Suelt. 1. 12)."
+            },
+            {
+              "texto_cita": "«Al tiempo más voraz la pluma atreve.»",
+              "autor": "",
+              "referencia_obra": "Id. ib. 7 ( Obr. suelt. 1. 140)."
+            },
+            {
+              "texto_cita": "«Si vos, como Faetón, | El pensamiento atrevéis | Al sol que adoro, esta espada | Un rayo ardiente ha de ser, | Que en vuestras cenizas llueva | Escarmientos otra vez.»",
+              "autor": "Alarcón",
+              "referencia_obra": ", La culpa busca la pena , 2. 3 (R. 20. 201 2 )."
+            },
+            {
+              "texto_cita": "«A lo difícil no vuestra privanza, | A lo imposible atreva su esperanza.»",
+              "autor": "",
+              "referencia_obra": "Id. Los pechos privilegiados , 2. 4 (R. 20. 421 2 )."
+            },
+            {
+              "texto_cita": "«Seguidles; sepa quién son | Los que al soberano pecho | Atrevieron mano vil.»",
+              "autor": "",
+              "referencia_obra": "Id. (?) El tejedor de Segovia , 1ª pte . 1. 2 (R. 20. 375 1 )."
+            },
+            {
+              "texto_cita": "«Al fin, resuelto, señora, | Estoy á pasar los fríos | Gigantes que Guadarrama | Con bárbaro desatino | Atreve al cielo, quebrando | En sus estrellas sus vidrios.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 3. 6 (R. 20. 390 3 )."
+            },
+            {
+              "texto_cita": "«Hoy verás que Dios | Soberbias confunde | Que al cielo atrevían | Locas pesadumbres.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El rey don Pedro en Madrid, 2. 20 (R. 5. 602 2 )."
+            },
+            {
+              "texto_cita": "«Si hasta aquí el recato pudo | Atormentar mi amor mudo, | He de atreverle á los labios.»",
+              "autor": "",
+              "referencia_obra": "Id. Amar por arte mayor, 3. 12 (R. 5. 440 2 )."
+            },
+            {
+              "texto_cita": "«¿A qué no atrevieron su determinación vuestros gloriosos ascendientes?»",
+              "autor": "Quev.",
+              "referencia_obra": "Polític. de Dios, 1, dedic . (R. 23. 7)."
+            },
+            {
+              "texto_cita": "«¿Juzgaste su osar por infinito | En atrever sus ojos á tu aurora, | Confiada en la vista vencedora, | Con que miran al sol de hito en hito?»",
+              "autor": "",
+              "referencia_obra": "Id. Musa 7, son. 21 (R. 69. 247 2 )."
+            },
+            {
+              "texto_cita": "«Varón que á esfera inaccesible atreve | Su aliento, y de los ánimos y ardores | Más heroicos, no es copia ó semejanza.»",
+              "autor": "Jáur.",
+              "referencia_obra": "Fars . 11. ( Fern. 7. 313)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con contra .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Todo tras sí lo lleva el año breve | De la vida mortal, burlando el brío | Al acero valiente, al mármol frío, | Que contra el tiempo su dureza atreve.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2, son. 46 (R. 69. 22 1 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c)",
+      "definicion": "Presentar, exponer con atrevimiento.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«No atreví demostraciones | Entonces, porque tenía | A la condesa delante | Que sirvo, y es tu vecina.»",
+          "autor": "Tirso",
+          "referencia_obra": ", En Madrid y en una casa , 2. 3 (R. 5. 544 1 )."
+        },
+        {
+          "texto_cita": "«Mas viendo que dilata ó bien no atreve | Guerras Pompeyo estimulado en vano, | Ardidoso y veloz sus gentes mueve.»",
+          "autor": "Jáur.",
+          "referencia_obra": "Fars. 11 ( Fern. 7. 303)."
+        },
+        {
+          "texto_cita": "«Es mía esta vitoria, | Por ser yo su general. | — Eso es cuando está presente | Y cuando atreve su vida.»",
+          "autor": "Lope",
+          "referencia_obra": ", Dineros son calidad , 2. 4 (R. 41. 65 3 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(Nótense las formas trever, estrever , y el pret. trovo, atrovo .) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Manden poner sentencia de excomunion mayor en todas las personas que contra ello fueren, ó viñeren, ó passaren, ó atrevieren de ir, ó venir, ó passar.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1473 ( Berg. Antigüed. 2. 248)."
+        },
+        {
+          "texto_cita": "«Verdad es que fue atrevida | Esta gente al escalar.»",
+          "autor": "P. de Guzmán",
+          "referencia_obra": ", Clar. var. 274 ( Rim. inéd. 312)."
+        },
+        {
+          "texto_cita": "«Nos atrevemos á vos demandar cuál sea el fin de la vuestra morada principal.»",
+          "autor": "Vis. delect.",
+          "referencia_obra": "1. 3 (R. 36. 346 2 )."
+        },
+        {
+          "texto_cita": "«El rey Alboacen traia tan grand poder de gente, que el rey don Alfonso no se atrevia pelear con ellos.»",
+          "autor": "Crón. P. Niño",
+          "referencia_obra": ", p. 161."
+        },
+        {
+          "texto_cita": "«Non se atrevieron ir esta noche á Trapisonda, como quiera que non avia mas de doce millas.»",
+          "autor": "Gonz. Clav.",
+          "referencia_obra": "p. 83."
+        },
+        {
+          "texto_cita": "«Por ende, señor, atreverme non osso | Pedir vos mercet.»",
+          "autor": "",
+          "referencia_obra": "Canc. de Baena, p. 543."
+        },
+        {
+          "texto_cita": "«Señor, non vos enogedes, | Aunque algunos se atrevan | A parlar.»",
+          "autor": "",
+          "referencia_obra": "Ib . p. 162. — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Mas do vos con tantas gentes é con tantas buenas compañas non vos atrevedes á la defender [la ciudad], ¿qué queredes que nos fagamos?»",
+          "autor": "",
+          "referencia_obra": "C rón. Pedro I, 17. 4 (R. 66. 539 1 )."
+        },
+        {
+          "texto_cita": "«Non se atrevia de venir á pelear con el rey de Castilla.»",
+          "autor": "",
+          "referencia_obra": "Ib . 10. 16 (R. 66. 497 2 )."
+        },
+        {
+          "texto_cita": "«En el tu santo seno, por ende disputar | Ninguno non se atreua, nin mas de porfiar.»",
+          "autor": "Pal.",
+          "referencia_obra": "639 (R. 57. 445 1 )."
+        },
+        {
+          "texto_cita": "«En el tiempo muy santo non podia auer | Uno que este estado [el papado] se atreuiese tener.»",
+          "autor": "",
+          "referencia_obra": "Ib . 197 (R. 57. 431 2 )."
+        },
+        {
+          "texto_cita": "«Desde que sopieron que la reina doña María, et el infante don Pedro eran en Ávila, pesóles ende mucho, et non se atrevieron venir y.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 5 (R. 66. 177 1 )."
+        },
+        {
+          "texto_cita": "«De escapar alguno de mi non se atreua.»",
+          "autor": "Danza de la muerte",
+          "referencia_obra": "(R. 57 . 381 1 )."
+        },
+        {
+          "texto_cita": "«Cuando estudo el rey don Fernando en esta cerca, nunca se atrevieron los moros de venir á aquella parte.»",
+          "autor": "Crón. Fern. IV",
+          "referencia_obra": ", 17 (R. 66. 163 1 )."
+        },
+        {
+          "texto_cita": "«La reina, --- non se osaba atrever á ir allá nin levar y al rey.»",
+          "autor": "",
+          "referencia_obra": "Ib. 1 (R. 66. 97 2 )."
+        },
+        {
+          "texto_cita": "«Ninguno de los suyos nunca le quiso acometer [el pleito] nin se atrevió á gelo decir.»",
+          "autor": "Alf. X",
+          "referencia_obra": ", 75 (R. 66. 60 1 )."
+        },
+        {
+          "texto_cita": "«Si la dicha del can, ó de los canes, viere que son delgaceras et atrebudas --- entienda que alcanzaron ganado pequeño.»",
+          "autor": "Alf. XI",
+          "referencia_obra": ", 1. 6 (Bibl. venat. 1. 24)."
+        },
+        {
+          "texto_cita": "«Desçendió [la serrana] la cuesta ayuso, como era atrebuda.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 964 (R. 57. 257 1 )."
+        },
+        {
+          "texto_cita": "«Sennora, yo non me trevo a desir vos mas rasones.»",
+          "autor": "",
+          "referencia_obra": "Id. 638 (R. 57. 247 1 )."
+        },
+        {
+          "texto_cita": "«Todas aquestas noblesas me fasen querer, | Por aquesto a ella non me oso atrever.»",
+          "autor": "",
+          "referencia_obra": "Id. 575 (R. 57. 245 1 )."
+        },
+        {
+          "texto_cita": "«Se atreuieron de usar del officio sin cartas del rey don Ferrando mio padre o mias.»",
+          "autor": "",
+          "referencia_obra": "Cortes de Valladolid, año 1325 ( C. de L. y C. 1. 385)."
+        },
+        {
+          "texto_cita": "«Otrosí si quisiere cazar garza et se atreviere en el falcon que traen quel non pierda por alto, deben poner gentes en los lugares do entendiere que se rendrá cuando fuere vencida.»",
+          "autor": "J. Man.",
+          "referencia_obra": "Caza , 8 (Bibl. venat. 3. 62)."
+        },
+        {
+          "texto_cita": "«Todos le dijieron que en otras cosas le ayudarian asaz, que en esto, porque podrian perder los cuerpos et lo que habian, que non se atrevian á lo ayudar.»",
+          "autor": "",
+          "referencia_obra": "Id. C. Luc. 37 (R. 51. 419 1 )."
+        },
+        {
+          "texto_cita": "«Yo he un amigo, et querriamos facer una cosa que es pro et honra de amos, et yo podria facer aquella cosa, et non me atrevo á lo facer.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 20 (R. 51. 402 1 ). — Siglo XIII:"
+        },
+        {
+          "texto_cita": "«Non osó más fablar, ca non se atrovo á la batalla.»",
+          "autor": "",
+          "referencia_obra": "Conq. de Ultr. 4. 207 (R. 44. 584 1 )."
+        },
+        {
+          "texto_cita": "«Tanto se atrevó [?] con el poder quel facia la reina, que tomó en sí muy grand lozanía.»",
+          "autor": "",
+          "referencia_obra": "Ib . 3. 326 (R. 44. 469 1 )."
+        },
+        {
+          "texto_cita": "«Et si por auentura aquellos quelo fizieren fueren tales omes que se non atreuan a prender, que lo amuestren luego a nos.»",
+          "autor": "C. de L. y C.",
+          "referencia_obra": "1. 109)."
+        },
+        {
+          "texto_cita": "«Otrosi acordamos que ningund alcalde non resciba mas pleitos de aquellos que en aquel dia se atreviere a librar.»",
+          "autor": "Zamora",
+          "referencia_obra": ", año 1274 (?) ( C. de L. y C. 1 . 91)."
+        },
+        {
+          "texto_cita": "«Se la quisieron tomar [la enmienda] por sí mesmos, atreviéndose mas en su osadia ó en su poder que non en la justicia.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 26. 16 (2. 285)."
+        },
+        {
+          "texto_cita": "«Esto fazen atreviéndose en su esfuerzo et en la flaqueza dellos.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 19. 6 (2. 185)."
+        },
+        {
+          "texto_cita": "«Si en la vieia ley nenguno del pueblo non era osado de tomar nin de comer los panes que ofrecien en el templo fuera los sacerdotes, mucho menos se deben atrever los cristianos de los tomar.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 15. 4 (1. 402)."
+        },
+        {
+          "texto_cita": "«Dar non puede ninguno este sacramento de la confirmacion sinon los perlados mayores que han de facer la crisma; ca si otro se atreviese a lo dar non valdrie su fecho.»",
+          "autor": "Part.",
+          "referencia_obra": "1. 4. 54 (1. 111)."
+        },
+        {
+          "texto_cita": "«Corten á él los pies con que fue a fazer tan atrebuda aleve.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 64)."
+        },
+        {
+          "texto_cita": "«Non deve ninguno atreverse en cavalgar en su bestia del rey, sinon si gelo el mandare o gelo diere.»",
+          "autor": "O. L.",
+          "referencia_obra": "1. 22)."
+        },
+        {
+          "texto_cita": "«Está por se atrever á las [cosas] que le placen, et foir de las que se despaga.»",
+          "autor": "",
+          "referencia_obra": "Cal. é Dymna (R. 51. 24 1 )."
+        },
+        {
+          "texto_cita": "«Tres cosas son á que non se atreve sinon home loco.»",
+          "autor": "",
+          "referencia_obra": "Ib . (R. 51. 21 1 )."
+        },
+        {
+          "texto_cita": "«Es grant maravilla que a este nos’ atrevie ninguno a el, e agora atrevense todos a el.»",
+          "autor": "Buenos proverbios",
+          "referencia_obra": "(Knust, 50)."
+        },
+        {
+          "texto_cita": "«Sabed que la locura e la brauesa es en aquel que se atreue con quien puede mas que él.»",
+          "autor": "",
+          "referencia_obra": "Flor. de filosof. 30 (63)."
+        },
+        {
+          "texto_cita": "«Tod aquel que se treviese á matar su siervo ó su sierva --- peche por su atrevencia al tesoro del rey una libra doro.»",
+          "autor": "Fuero",
+          "referencia_obra": "Juzgo , 6. 5. 12 (114*)."
+        },
+        {
+          "texto_cita": "«Si el omne franqueado, ó alguno de su linaie se osare casar cum algum del linaie de sus sennores --- luego manamano sean tornados en servidumbre.»",
+          "autor": "",
+          "referencia_obra": "Ib . 6. 1. 17 (98; * se atrevier de)."
+        },
+        {
+          "texto_cita": "«Cuydós Apolidamus a Indateus ferir, | Treuies [trevios] en su fuerça, cuidólo destroyr.»",
+          "autor": "",
+          "referencia_obra": "Alex . 1895 (R. 57. 205 1 )."
+        },
+        {
+          "texto_cita": "«Eran mucho cansados, lidiar non se treuien.»",
+          "autor": "",
+          "referencia_obra": "Id . 1854 (R. 57. 204 1 )."
+        },
+        {
+          "texto_cita": "«Ector el atreuudo exió cuentra el.»",
+          "autor": "",
+          "referencia_obra": "Ib . 595 (R. 57. 165 2 )."
+        },
+        {
+          "texto_cita": "«Cadieron en desarro; la memoria tornada, | Nin se trevien foir nin podien fer tornada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Mill. 452 (R. 57. 78 2 )."
+        },
+        {
+          "texto_cita": "«Commo es de costumbre offreçer la mesnada, | Quisque lo que se treve bodigo ó oblada.»",
+          "autor": "",
+          "referencia_obra": "Id. Sacrif. 67 (R. 57. 82 2 )."
+        },
+        {
+          "texto_cita": "«La gloriosa me guie que lo pueda complir, | Ca yo non me trevria en ello a venir.»",
+          "autor": "",
+          "referencia_obra": "Id . Mil. 45 (R. 57. 105 1 )."
+        },
+        {
+          "texto_cita": "«Et mando que qualquiere labrador de Arguedas, que se treba tener cabayllo é armas, non faga ningun deudo á seynor.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1092 ( Muñoz , F . 330)."
+        },
+        {
+          "texto_cita": "«Venido es [Myo Cid] a moros, exido es de cristianos. | En la su vezindad non se treuen ganar tanto.»",
+          "autor": "Cid",
+          "referencia_obra": ", 567 (R. 57 . 8 2 ). —"
+        },
+        {
+          "texto_cita": "«Dixo: don Alexandre, non sodes tan estreuio.»",
+          "autor": "Alex.",
+          "referencia_obra": "1206 (R. 57. 184 2 )."
+        },
+        {
+          "texto_cita": "«Desen llegó el rey un cuerpo estreuudo.»",
+          "autor": "",
+          "referencia_obra": "lb . 833 (R. 57. 173 1 )."
+        },
+        {
+          "texto_cita": "«Falló en luengas tierras vn rey estreuudo, | Que mandaua grant regno e era muy temudo.»",
+          "autor": "",
+          "referencia_obra": "Ib . 116 (R. 57. 151 1 )."
+        },
+        {
+          "texto_cita": "«Non entre en villa, et si se strevir venir á la villa, encérese en sua casa.»",
+          "autor": "Docum",
+          "referencia_obra": ". de 1221 ( Muñoz , F .179)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Test. latin. hisp.",
+      "definicion": "",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Et si dixerit per alguno: non melo treuo afidare, uadant los fiadores ad ille et faciant eum afidare.»",
+          "autor": "Fuero",
+          "referencia_obra": "de Madrid, año 1202 ( Mem. Acad. Hist. 8. 35)."
+        },
+        {
+          "texto_cita": "«Et si per algunos parentes non se trouiere ad fiare, cognominet los parentes.»",
+          "autor": "",
+          "referencia_obra": "Ib . ( ib . 8. 33)."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "Formas antiguas trever, estrever; port. atrever, estrever. Diez lo deriva de attribuere, tribuere sibi, y es etimología aceptada sin contradicción (véase, por ejemplo, Schuchardt , Vokal. 2, pp. 2. 467; C. Michaelis , Stud. zur rom. Wortsch. 266); pero en vista de los usos y construcciones de nuestro verbo se persuade uno de que la semejanza sólo existe en la forma. Estreverse recuerda el fr . estriver, esforzarse, luchar, disputar (alto alemán medio strëben, levantarse para resistir, contrastar, luchar, esforzarse, dirigirse, hoy streben, esforzarse). Es cierto que en nuestro verbo predomina la construcción refl. , pero sabida es también la predilección con que emplea ésta el castellano, y por lo mismo no es óbice aquella circunstancia á la comparación que puede entablarse entre los dos verbos español y francés. La conformidad es á veces tal, que se podría traducir el uno por el otro:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Si estoit la bataille là moult grande de ceulx de dehors qui estrivoient a monter sur le mur, et de ceuIx de dedans qui leur chalangeoient vigoureusement.»",
+          "autor": "",
+          "referencia_obra": "Hist. de Boucic. p. 87 (en Lacurne de Sainte-Palaye). Si couroit [le ruissel] par l'erbue rive, | et au gravier qui lui estrive | menoit une tresplaisant noise.» Bartsch, Chrest. 447. 40."
+        },
+        {
+          "texto_cita": "«Contre la mort nul ne peut estriver.»",
+          "autor": "",
+          "referencia_obra": "Froiss. 3, p. 249 (en Lacurne de Sainte-Palaye)."
+        },
+        {
+          "texto_cita": "«Pourquoi estrivez-vous contre moi, et pourquoi temptez-vous nostre Seigneur?»",
+          "autor": "Vanicek",
+          "referencia_obra": "explica á audere: streben = wagen. La combinación osar atreverse = oser estriver merece particular atención, porque es indudable que en ella osar se toma sujetivamente y atreverse objetivamente, cosa que no sería de esperarse si atreverse representase á attribuero sibi. Sobre la concurrencia de estrever, trever, atrever, cp. ATIBORRAR . \u0000"
+        }
+      ],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}

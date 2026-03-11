@@ -1,0 +1,308 @@
+{
+  "lema": "AYUNO, A.",
+  "categoria_gramatical": "adj.",
+  "introduccion": "--> adj.",
+  "acepciones": [
+    {
+      "id": "a)",
+      "definicion": "Que no ha comido.",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Andase vuesa merced con encantados ayunos y vigilantes: mirad si es mucho que ni coma ni duerma mientras con ellos anduviere.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 23 (R. 1. 453 2 )."
+            },
+            {
+              "texto_cita": "«Yo velo cuando tú duermes, yo lloro cuando cantas, yo me desmayo de ayuno cuando tú estás perezoso y desalentado de puro harto.»",
+              "autor": "",
+              "referencia_obra": "Id. ib . 2. 68 (R. 1. 547 1 )."
+            },
+            {
+              "texto_cita": "«A falta de pan de trigo suelen comer los hombres el de centeno, ó de cebada, por no quedar del todo ayunos.»",
+              "autor": "Gran.",
+              "referencia_obra": "Orac. y c onsid . 1. 4 (R. 8. 12 2 )."
+            },
+            {
+              "texto_cita": "«No hubo persona que lo convidase á comer, y así le fue necesario irse ayuno á Betania.»",
+              "autor": "Rivad.",
+              "referencia_obra": "Vida de Cristo (57)."
+            },
+            {
+              "texto_cita": "«Ayunaba los viernes a pan y agua, y los demás días, de una mesa espléndida se levantaba poco menos que ayuna.»",
+              "autor": "Muñoz",
+              "referencia_obra": ", Vida de Gran . 2. 14 (142)."
+            },
+            {
+              "texto_cita": "«Ninguno | Se huelga de estar ayuno; | Y este viento de codicia, | Demás de ser importuno, | No carece de malicia.»",
+              "autor": "Castillejo",
+              "referencia_obra": ", 1, Vida de corte (R. 32. 218 2 )."
+            },
+            {
+              "texto_cita": "«No dejarás la mesa ayuno | Cuando te falte en ella el pece raro | O cuando su pavón nos niegue Juno.»",
+              "autor": "",
+              "referencia_obra": "Epíst. moral (R. 32. 387 2 )."
+            },
+            {
+              "texto_cita": "«Dejas espada y lanza al desdichado, | Y poder y razón, para vencerte: | No sabe pueblo ayuno temer muerte, | Armas quedan al pueblo despojado.»",
+              "autor": "Quev.",
+              "referencia_obra": "Musa 2, son . (R. 69. 14 2 )."
+            },
+            {
+              "texto_cita": "«No con tanto placer el lobo hambriento | Mira la enferma res que en solitario | Bosque perdió el pastor, como el ayuno | Huésped el dón que le presento opimo.»",
+              "autor": "Mor.",
+              "referencia_obra": "epíst . 9 (R. 2. 586 1 ). —"
+            },
+            {
+              "texto_cita": "«Cuando me ladra el apetito, | Ansí los raros [manjares] como los vulgares | En el ayuno vientre precipito.»",
+              "autor": "B. Argens.",
+              "referencia_obra": "epíst. Con tu licencia (R. 42. 311 1 ; *Por la ayuna garganta precipito). —"
+            },
+            {
+              "texto_cita": "«La ayuna amarillez de la pobreza | Se está cuanto más lejos más temiendo.»",
+              "autor": "Valb.",
+              "referencia_obra": "Bern . 6 (R. 17. 200 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "Con de , para especificar lo que no se ha comido.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Procurando que así como el cuerpo va á comulgar ayuno de todo manjar corporal, de tal manera que, desde la media noche no ha de haber comido ni bebido cosa alguna, por pequeña que sea; así también el alma vaya aquel día ayuna de todo pecado, de tal manera que, en cuanto fuere posible, desde la noche antes no haya sido manchada con alguna inmundicia de carne ó espíritu.»",
+              "autor": "Puente",
+              "referencia_obra": ", Medit . 1. 33 (1. 228)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b)",
+      "definicion": "met. Aplicado á lo moral.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Tú el día que no te dan este socorro de devoción, quedas ayuno, y flaco, y fácil para caer en las cosas menores, que disponen para las mayores.»",
+          "autor": "Gran.",
+          "referencia_obra": "Guía , 2. 16, § 5 (R. 6. 155 2 ). Este es el más convenible tiempo del día para tratar con Dios --- la cabeza [está] descansada, el tiempo callado; y sobre todo el corazón ayuno y libre de los cuidados y negocios del día.» Id. Orac. y consid . 2. 2, § 10 (R. 8. 109 2 )."
+        },
+        {
+          "texto_cita": "«Este celestial vino con que los apóstoles fueron el día de Pentecostés embriagados, no se da á los que están llenos del vino de las consolaciones del mundo, sino á los que por honra de Dios están ayunos dellas.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 3. 2. 1, § 3 (R. 8. 181 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "c)",
+      "definicion": "met. Que no tiene noticia de lo que se habla ó no lo comprende. Con de , para denotar lo que se ignora ó no se entiende.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«En lo cual se ve cómo esta manera de vida por todas partes es celestial y divina. De lo cual todo estuvieron ayunos los filósofos, cuyas virtudes y felicidad estribaba en solas fuerzas humanas.»",
+          "autor": "Gran.",
+          "referencia_obra": "Símb . 2. 5, § 2 (R. 6. 295 1 )."
+        },
+        {
+          "texto_cita": "«Las que llevan traza y siguen la fábula como el arte pide, no sirven sino para cuatro discretos que las entienden, y todos los demás se quedan ayunos de entender su artificio.»",
+          "autor": "Cerv.",
+          "referencia_obra": "Quij . 1. 48 (R. 1. 390 1 )."
+        },
+        {
+          "texto_cita": "«A sátira encamina esta doncella | Mi estilo familiar, y no ha sabido | Que sois un sacerdote ayuno della.»",
+          "autor": "Esquil.",
+          "referencia_obra": "epíst. Señor retor (R. 42. 317 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "d)",
+      "definicion": "En ayunas .",
+      "ejemplos_citas": [],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Sin haberse desayunado.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Mire, señor, tome mi consejo, que no se le doy sobre estar harta de pan y vino, sino en ayunas, y sobre cincuenta años que tengo de edad.»",
+              "autor": "Cerv.",
+              "referencia_obra": "Quij . 2. 73 (R. 1. 556 2 )."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "met. Sin tener noticia de alguna cosa ó sin comprenderla ó penetrarla. Se usa más comúnmente con los verbos estar ó que dar.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Son los menos los que logran la perfecta inteligencia, y son los más los que se quedan en ayunas.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Donde las dan las toman (6. 153)."
+            },
+            {
+              "texto_cita": "«¿Se entiende aquí ese lenguaje? | — No por cierto. Yo estudié | Metafísica en Irache; | Y cuando habla, casi siempre | Me quedo en ayunas.»",
+              "autor": "Bretón",
+              "referencia_obra": ", A Madrid me vuelvo , 1. 6 (1. 74)."
+            }
+          ]
+        },
+        {
+          "id_marcador": "— α α )",
+          "definicion": "Con de , para denotar aquello que se ignora ó no se comprende.",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«En las traducciones ha sido [el Hermes Christianus] golosina de todas las lenguas. ¡Oh, no consienta la caridad estudiosa que solamente la española esté en ayunas de él!»",
+              "autor": "Quev.",
+              "referencia_obra": "Prov. de Dios , 2 (R. 48. 178 2 )."
+            },
+            {
+              "texto_cita": "«Estaba la envidia con hábito de viuda --- en ayunas de todas las cosas, cebada en sí misma, magra y exprimida.»",
+              "autor": "",
+              "referencia_obra": "Id. Visita (R. 23.336 2 )."
+            },
+            {
+              "texto_cita": "«Nunca alaba versos de estos que se entienden, antes su empeño es celebrar aquellos de que él y todos se quedan en ayunas.»",
+              "autor": "T. Iriarte",
+              "referencia_obra": ", Liter. en cuaresma (7. 80)."
+            },
+            {
+              "texto_cita": "«Y á todo esto, el tal don Pedro estará todavía en ayunas de cuanto pasa.»",
+              "autor": "Gil y Zárate",
+              "referencia_obra": ", El entremetido , 1. 7 (63)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Nota.",
+      "definicion": "Además del adj. cuyos usos acaban de verse, tenemos el sust. Ayuno : Manera de mortificación ejecutada en obediencia de precepto eclesiástico ó por devoción, y que consiste sustancialmente en no hacer más que una comida al día, absteniéndose, por lo regular, de ciertos manjares.",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Con el ayuno se sanan las pestilencias de la carne, y con la oración las del ánima.»",
+          "autor": "Ávila",
+          "referencia_obra": ", Audi , 17 ( Míst . 3. 161)."
+        },
+        {
+          "texto_cita": "«La gula la incita á que quebrante el ayuno, y la vanagloria a que no pierda crédito comiendo demasiado.»",
+          "autor": "Gran.",
+          "referencia_obra": "Esc. espir . 14 (R. 11. 326 1 )."
+        },
+        {
+          "texto_cita": "«El ayuno sin la limosna es simulacro de la hambre; de ninguna manera es imagen de santidad. El ayuno sin piedad es ocasión de avaricia, no es propósito de templanza, porque esta abstinencia, cuanto se enflaquece el cuerpo, engruesa la bolsa.»",
+          "autor": "Quev.",
+          "referencia_obra": "Peste 3 (R. 48. 121 2 )."
+        },
+        {
+          "texto_cita": "«A todo se opuso un hombre solo, | Desechado del mundo como loco, | Del largo ayuno pálido y desnudo.»",
+          "autor": "L. Argens.",
+          "referencia_obra": "canc . 4 (R. 42. 280 1 )."
+        }
+      ],
+      "subacepciones": [
+        {
+          "id_marcador": "— α )",
+          "definicion": "Ayuno natural : abstinencia de toda comida y bebida desde las doce de la noche antecedente.",
+          "ejemplos_citas": []
+        },
+        {
+          "id_marcador": "— β )",
+          "definicion": "En ayuno ( ant. ): en ayunas. Se usaba igualmente con de .",
+          "ejemplos_citas": [
+            {
+              "texto_cita": "«Tan en ayuno me quedo | De saber quién es, como antes.»",
+              "autor": "Tirso",
+              "referencia_obra": ", El celoso prudente , 1. 3 (R. 5.615 3 )."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Per. antecl.",
+      "definicion": "(En Berceo se hallan para el sust. ieiuno , ieiunio .) — Siglo XV:",
+      "ejemplos_citas": [
+        {
+          "texto_cita": "«Ca yo non sé tal ninguno | Que mandando, | Viva, sinon trabajando, | Nin de cuidados ayuno.»",
+          "autor": "Santill.",
+          "referencia_obra": "p. 203. —"
+        },
+        {
+          "texto_cita": "«Los bravos leones, | Quando el ayuno les da grandes hambres, | Comen las carnes eladas fiambres.»",
+          "autor": "Mena",
+          "referencia_obra": ", Lab . 266 (90 1 ). — Siglo XIV:"
+        },
+        {
+          "texto_cita": "«Por muchas cosas entra la frialdad en el papo del falcon et en el buche et en las tripas, lo uno por el tiempo frio et de grand invierno, et non comer el falcon, et dormir ayuno.»",
+          "autor": "",
+          "referencia_obra": "L. de Ayala, Caza , 32 ( Bibl. venat. 3. 289). —"
+        },
+        {
+          "texto_cita": "«Et pruébale el agua ese dia en ayuno, et beba della cuanto quisiere.»",
+          "autor": "",
+          "referencia_obra": "Id. ib . 19 ( Bibl. venat. 3. 248)."
+        },
+        {
+          "texto_cita": "«Grand pecado es la gula, puede a muchos matar, | Abstinencia et ayuno puédelo de nos quitar.»",
+          "autor": "Arc. de Hita",
+          "referencia_obra": ", 1570 (R. 57. 276 2 ). — Siglo XIII :"
+        },
+        {
+          "texto_cita": "«Maguer que era ayuna que non era yantada, | En el cabo del lecho pososse la criada.»",
+          "autor": "",
+          "referencia_obra": "Appoll . 355 (R. 57. 295 1 )."
+        },
+        {
+          "texto_cita": "«Sanaban los enfermos, soltaban los pecados, | Cevaban los aiunos, guiaban los errados.»",
+          "autor": "Berc.",
+          "referencia_obra": "Duelo 66 (R. 57. 133 2 ). —"
+        },
+        {
+          "texto_cita": "«En ayuno non deben beber, porque tuelle el sabor del comer.»",
+          "autor": "Part.",
+          "referencia_obra": "2. 7. 6 (2. 49)."
+        },
+        {
+          "texto_cita": "«La tercera manera de ayuno es comer una vez en el dia et non mas, et non comer carne nin las otras cosas que nacen della, asi como huevos, et leche et queso et manteca.»",
+          "autor": "",
+          "referencia_obra": "Part . 1. 23. 4 (1. 490)."
+        },
+        {
+          "texto_cita": "«Oration, nin ieiuno non li valie nada.»",
+          "autor": "Berc.",
+          "referencia_obra": "S. Dom . 403 (R. 57. 52 2 )."
+        },
+        {
+          "texto_cita": "«Mandó tener a todos los dessa mayson | leiunio triduano con grant aflition.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Mill . 189 (R. 57. 70 2 )."
+        },
+        {
+          "texto_cita": "«Allí terné ieiunos, faré aflictiones.»",
+          "autor": "",
+          "referencia_obra": "Id. Mil . 765 (R. 57. 127 1 )."
+        },
+        {
+          "texto_cita": "«leiunios e vigilias, e rezar el psalterio.»",
+          "autor": "",
+          "referencia_obra": "Id. S. Oria , 112 (R. 57. 141 1 )."
+        }
+      ],
+      "subacepciones": []
+    },
+    {
+      "id": "Etim.",
+      "definicion": "El adj. es el lat jejunus : port. jejum ; fr. ant. jeün , hoy à jeun , en ayunas; prov. dejun ; it. digiuno . Al sust. le corresponden formas iguales, salvo que en fr. es jeûne ; en lat. es jejunium , y podría dudarse si ayuno es la misma palabra, modificándose la parte inicial como en el adjetivo y en el verbo y desapareciendo la i del final por disimilación, ó si es nombre de acción derivado del verbo. Véase AYUNAR. \u0000",
+      "ejemplos_citas": [],
+      "subacepciones": []
+    }
+  ],
+  "etimologia": ""
+}
